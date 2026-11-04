@@ -253,7 +253,7 @@
       "id": "HTA",
       "iata": "HTA",
       "icao": "UIAA",
-      "ru": "Chita",
+      "ru": "Чита",
       "zh": "赤塔",
       "en": "Chita-Kadala International Airport",
       "lat": 52.024841,
@@ -3671,8 +3671,8 @@
       "id": "HMA",
       "iata": "HMA",
       "icao": "USHH",
-      "ru": "Khanty-Mansiysk",
-      "zh": null,
+      "ru": "Ханты-Мансийск",
+      "zh": "汉特-曼西斯克",
       "en": "Khanty Mansiysk Airport",
       "lat": 61.0285,
       "lon": 69.086098,
@@ -4301,8 +4301,8 @@
       "id": "TOF",
       "iata": "TOF",
       "icao": "UNTT",
-      "ru": "Tomsk",
-      "zh": null,
+      "ru": "Томск",
+      "zh": "托木斯克",
       "en": "Tomsk Kamov Airport",
       "lat": 56.380299,
       "lon": 85.208298,
@@ -4745,6 +4745,244 @@
       "region": "RU-ORE",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+    },
+    "RU-0137": {
+      "id": "RU-0137",
+      "ru": "Газимурский Завод",
+      "en": "Gazimurskiy Zavod Airport",
+      "zh": null,
+      "lat": 51.547001,
+      "lon": 118.370003,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ourairports.com/airports/RU-0137/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "RU-0884": {
+      "id": "RU-0884",
+      "ru": "Кыра",
+      "en": "Kyra Airport",
+      "zh": null,
+      "lat": 49.58653,
+      "lon": 111.95628,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ourairports.com/airports/RU-0884/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "UIAG": {
+      "id": "UIAG",
+      "ru": "Усть-Каренга",
+      "en": "Ust'-Karenga Airport",
+      "zh": null,
+      "lat": 54.441672,
+      "lon": 116.513894,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ourairports.com/airports/UIAG/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "UIAU": {
+      "id": "UIAU",
+      "ru": "Юмурчен",
+      "en": "Yumurchen Airport",
+      "zh": null,
+      "lat": 53.6195,
+      "lon": 114.034,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ourairports.com/airports/UIAU/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "UIAY": {
+      "id": "UIAY",
+      "ru": "Усугли",
+      "en": "Usugli Airport",
+      "zh": null,
+      "lat": 52.659388,
+      "lon": 115.242634,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ourairports.com/airports/UIAY/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "UHMS": {
+      "id": "UHMS",
+      "ru": "Сеймчан",
+      "en": "Seymchan Airport",
+      "zh": null,
+      "lat": 62.92078,
+      "lon": 152.422775,
+      "tz": "Asia/Magadan",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-MAG",
+      "coordinateSource": "https://ourairports.com/airports/UHMS/",
+      "coordinateStatus": "airport",
+      "icao": "UHMS",
+      "iata": "",
+      "note": ""
+    },
+    "RU-10132": {
+      "id": "RU-10132",
+      "ru": "Ягодное",
+      "en": "Yagodnoye Airfield",
+      "zh": null,
+      "lat": 62.54574,
+      "lon": 149.52257,
+      "tz": "Asia/Magadan",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-MAG",
+      "coordinateSource": "https://ourairports.com/airports/RU-10132/",
+      "coordinateStatus": "airport",
+      "icao": "",
+      "iata": "",
+      "note": ""
+    },
+    "ROGACHEVO": {
+      "id": "ROGACHEVO",
+      "ru": "Амдерма-2 / Рогачёво",
+      "en": "Rogachyovo Air Base",
+      "zh": null,
+      "lat": 71.616699,
+      "lon": 52.478298,
+      "tz": "Europe/Moscow",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ARK",
+      "coordinateSource": "https://ourairports.com/airports/RU-4536/",
+      "coordinateStatus": "airport",
+      "icao": "ULDA",
+      "iata": "",
+      "note": "新地岛 Rogachyovo；需特别许可，一般无法进入。不同于大陆上的 AMV / ULDD。"
+    },
+    "ZAB-TUNGOKOCHEN": {
+      "id": "ZAB-TUNGOKOCHEN",
+      "ru": "Тунгокочен",
+      "en": "Tungokochen",
+      "zh": null,
+      "lat": 53.53361111111111,
+      "lon": 115.61611111111111,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/Тунгокочен",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标；实际登机地点需向承运人确认。"
+    },
+    "ZAB-CHIKOY": {
+      "id": "ZAB-CHIKOY",
+      "ru": "Красный Чикой",
+      "en": "Krasny Chikoy",
+      "zh": null,
+      "lat": 50.36361111111111,
+      "lon": 108.75666666666666,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/Красный_Чикой",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标；实际登机地点需向承运人确认。"
+    },
+    "ZAB-KRASNY-YAR": {
+      "id": "ZAB-KRASNY-YAR",
+      "ru": "Красный Яр",
+      "en": "Krasny Yar",
+      "zh": null,
+      "lat": 53.916666666666664,
+      "lon": 114.67277777777778,
+      "tz": "Asia/Chita",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-ZAB",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/Красный_Яр_(Тунгокоченский_район)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标；实际登机地点需向承运人确认。"
+    },
+    "TOM-KEDROVY": {
+      "id": "TOM-KEDROVY",
+      "ru": "Кедровый",
+      "en": "Kedrovy",
+      "zh": null,
+      "lat": 57.56666666666667,
+      "lon": 79.56666666666666,
+      "tz": "Asia/Tomsk",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-TOM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/Кедровый_(город)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标；实际登机地点需向承运人确认。"
+    },
+    "KHM-SOGOM": {
+      "id": "KHM-SOGOM",
+      "ru": "Согом",
+      "en": "Sogom",
+      "zh": null,
+      "lat": 60.5075,
+      "lon": 68.07277777777777,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/Согом_(деревня)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标；实际登机地点需向承运人确认。"
+    },
+    "MAG-SINEGORYE": {
+      "id": "MAG-SINEGORYE",
+      "ru": "Синегорье",
+      "en": "Sinegorye",
+      "zh": null,
+      "lat": null,
+      "lon": null,
+      "tz": "Asia/Magadan",
+      "tzVerified": true,
+      "timezoneSource": "IANA zone for source-confirmed region",
+      "region": "RU-MAG",
+      "coordinateSource": "https://specv.airss.ru/?pageid=164",
+      "coordinateStatus": "unverified",
+      "icao": "",
+      "iata": "",
+      "note": "现用起降点坐标待核；不采用标为 closed 的旧机场坐标。"
     }
   },
   "flights": [
@@ -81155,6 +81393,1610 @@
       "alternatives": [],
       "sourceLocator": "冬季图片表 · НИ 403",
       "id": "f-bfbfbd73df6a-exception"
+    },
+    {
+      "id": "remote-airss-0-2",
+      "airline": "aeroservice",
+      "number": "АЯ9185",
+      "from": "HTA",
+      "to": "RU-0137",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": "10:00",
+      "arrival": "11:15",
+      "days": [
+        1
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-28",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 3 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 75
+    },
+    {
+      "id": "remote-airss-0-3",
+      "airline": "aeroservice",
+      "number": "АЯ9186",
+      "from": "RU-0137",
+      "to": "HTA",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": "11:35",
+      "arrival": "12:50",
+      "days": [
+        1
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-28",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 4 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 75
+    },
+    {
+      "id": "remote-airss-0-4",
+      "airline": "aeroservice",
+      "number": "АЯ9185",
+      "from": "HTA",
+      "to": "RU-0137",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": "14:00",
+      "arrival": "15:10",
+      "days": [
+        5
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-28",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 5 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 70
+    },
+    {
+      "id": "remote-airss-0-5",
+      "airline": "aeroservice",
+      "number": "АЯ9186",
+      "from": "RU-0137",
+      "to": "HTA",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": "15:30",
+      "arrival": "16:50",
+      "days": [
+        5
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-28",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 6 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 80
+    },
+    {
+      "id": "remote-airss-0-7",
+      "airline": "aeroservice",
+      "number": "АЯ187",
+      "from": "HTA",
+      "to": "ZAB-CHIKOY",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "09:30",
+      "arrival": "11:30",
+      "days": [
+        3
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-23",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 8 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 120,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-8",
+      "airline": "aeroservice",
+      "number": "АЯ188",
+      "from": "ZAB-CHIKOY",
+      "to": "HTA",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "11:50",
+      "arrival": "13:50",
+      "days": [
+        3
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-23",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 9 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 120,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-10",
+      "airline": "aeroservice",
+      "number": "АЯ173",
+      "from": "HTA",
+      "to": "RU-0884",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "09:30",
+      "arrival": "11:30",
+      "days": [
+        7
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-27",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 11 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 120
+    },
+    {
+      "id": "remote-airss-0-11",
+      "airline": "aeroservice",
+      "number": "АЯ174",
+      "from": "RU-0884",
+      "to": "HTA",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "11:50",
+      "arrival": "13:50",
+      "days": [
+        7
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-27",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 12 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "durationMinutes": 120
+    },
+    {
+      "id": "remote-airss-0-18",
+      "airline": "aeroservice",
+      "number": "АЯ179",
+      "from": "HTA",
+      "to": "ZAB-TUNGOKOCHEN",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "09:30",
+      "arrival": "10:50",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 19 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-31",
+        "2026-11-14",
+        "2026-11-28",
+        "2026-12-12",
+        "2026-12-26"
+      ],
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-19",
+      "airline": "aeroservice",
+      "number": "АЯ179",
+      "from": "ZAB-TUNGOKOCHEN",
+      "to": "UIAG",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "11:05",
+      "arrival": "11:45",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 20 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-31",
+        "2026-11-14",
+        "2026-11-28",
+        "2026-12-12",
+        "2026-12-26"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-20",
+      "airline": "aeroservice",
+      "number": "АЯ180",
+      "from": "UIAG",
+      "to": "ZAB-TUNGOKOCHEN",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "12:05",
+      "arrival": "12:45",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 21 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-31",
+        "2026-11-14",
+        "2026-11-28",
+        "2026-12-12",
+        "2026-12-26"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-21",
+      "airline": "aeroservice",
+      "number": "АЯ180",
+      "from": "ZAB-TUNGOKOCHEN",
+      "to": "HTA",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "13:05",
+      "arrival": "14:30",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 22 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-31",
+        "2026-11-14",
+        "2026-11-28",
+        "2026-12-12",
+        "2026-12-26"
+      ],
+      "durationMinutes": 85,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-23",
+      "airline": "aeroservice",
+      "number": "АЯ177",
+      "from": "HTA",
+      "to": "UIAY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:10",
+      "arrival": "11:05",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 24 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 55
+    },
+    {
+      "id": "remote-airss-0-24",
+      "airline": "aeroservice",
+      "number": "АЯ177",
+      "from": "UIAY",
+      "to": "ZAB-KRASNY-YAR",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "11:25",
+      "arrival": "12:20",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 25 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 55,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-25",
+      "airline": "aeroservice",
+      "number": "АЯ177",
+      "from": "ZAB-KRASNY-YAR",
+      "to": "UIAU",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "12:40",
+      "arrival": "13:05",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 26 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 25,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-26",
+      "airline": "aeroservice",
+      "number": "АЯ178",
+      "from": "UIAU",
+      "to": "ZAB-KRASNY-YAR",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "13:20",
+      "arrival": "13:45",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 27 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 25,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-27",
+      "airline": "aeroservice",
+      "number": "АЯ178",
+      "from": "ZAB-KRASNY-YAR",
+      "to": "UIAY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "14:00",
+      "arrival": "14:55",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 28 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 55,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-28",
+      "airline": "aeroservice",
+      "number": "АЯ178",
+      "from": "UIAY",
+      "to": "HTA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "15:15",
+      "arrival": "16:10",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-31",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 29 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-19",
+        "2026-12-03",
+        "2026-12-17",
+        "2026-12-31"
+      ],
+      "durationMinutes": 55
+    },
+    {
+      "id": "remote-airss-0-30",
+      "airline": "aeroservice",
+      "number": "АЯ181",
+      "from": "HTA",
+      "to": "ZAB-TUNGOKOCHEN",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "09:30",
+      "arrival": "10:50",
+      "days": [
+        2,
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-12-29",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 31 行；同表第 34 行为12月29日同一时刻",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-07",
+        "2026-12-29"
+      ],
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-31",
+      "airline": "aeroservice",
+      "number": "АЯ182",
+      "from": "ZAB-TUNGOKOCHEN",
+      "to": "HTA",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "11:05",
+      "arrival": "12:30",
+      "days": [
+        2,
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-12-29",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 32 行；同表第 35 行为12月29日同一时刻",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-07",
+        "2026-12-29"
+      ],
+      "durationMinutes": 85,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-36",
+      "airline": "aeroservice",
+      "number": "АЯ181",
+      "from": "HTA",
+      "to": "ZAB-TUNGOKOCHEN",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:00",
+      "arrival": "11:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-21",
+      "end": "2026-12-19",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 37 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-21",
+        "2026-12-19"
+      ],
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-37",
+      "airline": "aeroservice",
+      "number": "АЯ181",
+      "from": "ZAB-TUNGOKOCHEN",
+      "to": "UIAU",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "11:40",
+      "arrival": "12:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-21",
+      "end": "2026-12-19",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 38 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-21",
+        "2026-12-19"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-38",
+      "airline": "aeroservice",
+      "number": "АЯ182",
+      "from": "UIAU",
+      "to": "ZAB-TUNGOKOCHEN",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "12:40",
+      "arrival": "13:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-21",
+      "end": "2026-12-19",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 39 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-21",
+        "2026-12-19"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-0-39",
+      "airline": "aeroservice",
+      "number": "АЯ182",
+      "from": "ZAB-TUNGOKOCHEN",
+      "to": "HTA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "13:40",
+      "arrival": "15:00",
+      "days": [
+        6
+      ],
+      "start": "2026-11-21",
+      "end": "2026-12-19",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 1，从表头开始第 40 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "dates": [
+        "2026-11-21",
+        "2026-12-19"
+      ],
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-1-2",
+      "airline": "aeroservice",
+      "number": "АЯ83",
+      "from": "GDX",
+      "to": "UHMS",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "09:55",
+      "arrival": "11:55",
+      "days": [
+        2
+      ],
+      "start": "2026-10-27",
+      "end": "2026-12-29",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 3 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 120
+    },
+    {
+      "id": "remote-airss-1-3",
+      "airline": "aeroservice",
+      "number": "АЯ84",
+      "from": "UHMS",
+      "to": "GDX",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "12:30",
+      "arrival": "14:30",
+      "days": [
+        2
+      ],
+      "start": "2026-10-27",
+      "end": "2026-12-29",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 4 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 120
+    },
+    {
+      "id": "remote-airss-1-5",
+      "airline": "aeroservice",
+      "number": "АЯ1097",
+      "from": "GDX",
+      "to": "MAG-SINEGORYE",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "09:55",
+      "arrival": "11:15",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-24",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 6 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-1-6",
+      "airline": "aeroservice",
+      "number": "АЯ1098",
+      "from": "MAG-SINEGORYE",
+      "to": "GDX",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "11:45",
+      "arrival": "13:05",
+      "days": [
+        4
+      ],
+      "start": "2026-10-29",
+      "end": "2026-12-24",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 7 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 80,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-airss-1-11",
+      "airline": "aeroservice",
+      "number": "АЯ1091",
+      "from": "GDX",
+      "to": "RU-10132",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "09:55",
+      "arrival": "11:35",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 12 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 100
+    },
+    {
+      "id": "remote-airss-1-12",
+      "airline": "aeroservice",
+      "number": "АЯ1092",
+      "from": "RU-10132",
+      "to": "GDX",
+      "aircraft": [
+        "TVS"
+      ],
+      "departure": "11:55",
+      "arrival": "13:25",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "source": "aeroservice-winter",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/aeroservice-winter.html",
+      "sourceLocator": "首页时刻表 2，从表头开始第 13 行",
+      "note": "官网逐段时刻；同号多段保留为独立航段。原表仅写 ТВС；按 An-2 改型纳入，具体 TVS 子型未公布。官网合作查询器使用 GDX 城市/机场入口，具体出发场地订票时复核。",
+      "booking": {
+        "method": "官网代理售票 / 地方代表",
+        "url": "https://airtickets.airss.ru/",
+        "text": "可在官网链接的 Agent.ru 合作售票页查询；也可联系航司代表。赤塔：+7 914 358-41-11 / +7 3022 400-215；马加丹：+7 914 450-12-83。联系人页面列工作日 08:00–17:00、12:00–13:00 休息（当地时间）。居民补贴价格是否适用于本人需确认。",
+        "source": "https://specv.airss.ru/?pageid=175"
+      },
+      "aircraftParent": "An-2",
+      "aircraftOriginal": "ТВС",
+      "durationMinutes": 90
+    },
+    {
+      "id": "remote-tomsk-out",
+      "airline": "aeroprom",
+      "number": "",
+      "from": "TOF",
+      "to": "TOM-KEDROVY",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "09:30",
+      "arrival": "11:40",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "start": "2026-04-15",
+      "end": "2026-11-30",
+      "source": "tomsk-an2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/tomsk-an2.html",
+      "sourceLocator": "2026-06-09公告：班期、往返时刻与购票段落",
+      "note": "机场公告明确为9座 An-2，未公布航班号。有效至11月30日；Kedrovy地图为城市参考点。",
+      "booking": {
+        "method": "MAX 联系代理预约",
+        "url": "https://tomskairport.ru/mediacenter/news/186695/",
+        "text": "机场公告指定代理 ИП Баранов А.М.：+7 913 803-21-19（MAX）。公告列提前14天销售、托木斯克方向10:00 / Kedrovy方向14:00开售，工作日10:00–17:00；2026-09-04新闻另报订票规则已调整，最新放票方式应联系代理确认。托木斯克现场代表 +7 913 860-92-13，Kedrovy代表 +7 913 109-20-66。",
+        "source": "https://tomskairport.ru/mediacenter/news/186695/"
+      },
+      "durationMinutes": 130,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-tomsk-back",
+      "airline": "aeroprom",
+      "number": "",
+      "from": "TOM-KEDROVY",
+      "to": "TOF",
+      "aircraft": [
+        "An-2"
+      ],
+      "departure": "12:30",
+      "arrival": "14:40",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "start": "2026-04-15",
+      "end": "2026-11-30",
+      "source": "tomsk-an2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/tomsk-an2.html",
+      "sourceLocator": "2026-06-09公告：班期、往返时刻与购票段落",
+      "note": "机场公告明确为9座 An-2，未公布航班号。有效至11月30日；Kedrovy地图为城市参考点。",
+      "booking": {
+        "method": "MAX 联系代理预约",
+        "url": "https://tomskairport.ru/mediacenter/news/186695/",
+        "text": "机场公告指定代理 ИП Баранов А.М.：+7 913 803-21-19（MAX）。公告列提前14天销售、托木斯克方向10:00 / Kedrovy方向14:00开售，工作日10:00–17:00；2026-09-04新闻另报订票规则已调整，最新放票方式应联系代理确认。托木斯克现场代表 +7 913 860-92-13，Kedrovy代表 +7 913 109-20-66。",
+        "source": "https://tomskairport.ru/mediacenter/news/186695/"
+      },
+      "durationMinutes": 130,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-162",
+      "airline": "utair-heli",
+      "number": "ЮР969",
+      "from": "HMA",
+      "to": "KHM-SOGOM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "08:30",
+      "arrival": "09:10",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-11-02",
+      "end": "2026-12-30",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[162]",
+      "dates": [
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-30",
+        "2026-12-02",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-14",
+        "2026-12-16",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-28",
+        "2026-12-30"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF969"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-163",
+      "airline": "utair-heli",
+      "number": "ЮР969",
+      "from": "HMA",
+      "to": "KHM-SOGOM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:00",
+      "arrival": "09:40",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-13",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[163]",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF969"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-164",
+      "airline": "utair-heli",
+      "number": "ЮР969",
+      "from": "HMA",
+      "to": "KHM-SOGOM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:00",
+      "arrival": "09:40",
+      "days": [
+        5
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-11",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[164]",
+      "dates": [
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF969"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-165",
+      "airline": "utair-heli",
+      "number": "ЮР969",
+      "from": "HMA",
+      "to": "KHM-SOGOM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:00",
+      "arrival": "09:40",
+      "days": [
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[165]",
+      "dates": [
+        "2026-12-25"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF969"
+      ],
+      "durationMinutes": 40,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-168",
+      "airline": "utair-heli",
+      "number": "ЮР970",
+      "from": "KHM-SOGOM",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:15",
+      "arrival": "10:00",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-11-02",
+      "end": "2026-12-30",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[168]",
+      "dates": [
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-30",
+        "2026-12-02",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-14",
+        "2026-12-16",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-28",
+        "2026-12-30"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF970"
+      ],
+      "durationMinutes": 45,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-169",
+      "airline": "utair-heli",
+      "number": "ЮР970",
+      "from": "KHM-SOGOM",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:45",
+      "arrival": "10:30",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-13",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[169]",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF970"
+      ],
+      "durationMinutes": 45,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-170",
+      "airline": "utair-heli",
+      "number": "ЮР970",
+      "from": "KHM-SOGOM",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:45",
+      "arrival": "10:30",
+      "days": [
+        5
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-11",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[170]",
+      "dates": [
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF970"
+      ],
+      "durationMinutes": 45,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ugra-171",
+      "airline": "utair-heli",
+      "number": "ЮР970",
+      "from": "KHM-SOGOM",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:45",
+      "arrival": "10:30",
+      "days": [
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "source": "ugra-timetable",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "sourceLocator": "data.BLOCK[171]",
+      "dates": [
+        "2026-12-25"
+      ],
+      "booking": {
+        "method": "机场咨询 / 航司代表",
+        "url": "https://ugraavia.ru/contacts/",
+        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
+        "source": "https://ugraavia.ru/passengers/representative-offices/"
+      },
+      "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
+      "numberAliases": [
+        "NF970"
+      ],
+      "durationMinutes": 45,
+      "locationUnverified": true
+    },
+    {
+      "id": "remote-ap-СИ9641",
+      "airline": "arctika-charter",
+      "number": "СИ9641",
+      "from": "ARH",
+      "to": "ROGACHEVO",
+      "aircraft": [
+        "Yak-42"
+      ],
+      "departure": "10:00",
+      "arrival": "12:00",
+      "days": [
+        2,
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-27",
+      "source": "ap-booking",
+      "status": "fleet-supported",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ap-booking.html",
+      "sourceLocator": "预约表状态为 Планируется 的 06/10/13/24/27 November 2026",
+      "dates": [
+        "2026-11-06",
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-24",
+        "2026-11-27"
+      ],
+      "publicAccess": "unverified",
+      "accessRestriction": "新地岛 · 需特别许可，一般无法进入",
+      "operatorUnverified": true,
+      "aircraftOriginal": "Як-42Д",
+      "note": "包机组织方官网介绍 Yak-42D，预约表未逐班标机型，实际执飞法人待核。新地岛需特别许可，一般无法进入；在线预约与余位不等于有进入资格。11月17日、20日已取消，未计入可选日期。仅记录页面列出的计划日期。",
+      "booking": {
+        "method": "官网预登记 + 票务柜台",
+        "url": "https://ap-avia.ru/booking/",
+        "text": "Арктика Перевозки 提供预登记；阿尔汉格尔斯克柜台 +7 953 933-60-60，新地岛柜台 +7 911 559-52-17。须先取得新地岛特别许可；通常无法进入。页面列现金/ВПД，预登记不等于完成出票或获准进入。",
+        "source": "https://ap-avia.ru/"
+      },
+      "durationMinutes": 120
+    },
+    {
+      "id": "remote-ap-СИ9642",
+      "airline": "arctika-charter",
+      "number": "СИ9642",
+      "from": "ROGACHEVO",
+      "to": "ARH",
+      "aircraft": [
+        "Yak-42"
+      ],
+      "departure": "14:00",
+      "arrival": "16:00",
+      "days": [
+        2,
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-27",
+      "source": "ap-booking",
+      "status": "fleet-supported",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "localSource": "sources/remote-routes/ap-booking.html",
+      "sourceLocator": "预约表状态为 Планируется 的 06/10/13/24/27 November 2026",
+      "dates": [
+        "2026-11-06",
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-24",
+        "2026-11-27"
+      ],
+      "publicAccess": "unverified",
+      "accessRestriction": "新地岛 · 需特别许可，一般无法进入",
+      "operatorUnverified": true,
+      "aircraftOriginal": "Як-42Д",
+      "note": "包机组织方官网介绍 Yak-42D，预约表未逐班标机型，实际执飞法人待核。新地岛需特别许可，一般无法进入；在线预约与余位不等于有进入资格。11月17日、20日已取消，未计入可选日期。仅记录页面列出的计划日期。",
+      "booking": {
+        "method": "官网预登记 + 票务柜台",
+        "url": "https://ap-avia.ru/booking/",
+        "text": "Арктика Перевозки 提供预登记；阿尔汉格尔斯克柜台 +7 953 933-60-60，新地岛柜台 +7 911 559-52-17。须先取得新地岛特别许可；通常无法进入。页面列现金/ВПД，预登记不等于完成出票或获准进入。",
+        "source": "https://ap-avia.ru/"
+      },
+      "durationMinutes": 120
     }
   ],
   "sources": {
@@ -81287,6 +83129,40 @@
       "type": "html",
       "valid": "2026-11-04 至 2026-11-10",
       "note": "官网逐日查询：65个出发机场×7天，共455次；413次成功，42次连接失败。仅录FV实际承运且明确标注СУ95的记录；仅覆盖2026-11-04至2026-11-10，不推演整季每周班期。"
+    },
+    "aeroservice-winter": {
+      "title": "Аэросервис · 2026 冬季官方时刻",
+      "url": "https://specv.airss.ru/?pageid=164",
+      "local": "sources/remote-routes/aeroservice-winter.html",
+      "checkedAt": "2026-11-04",
+      "type": "html",
+      "valid": "2026-10-25 至 2026-12-31；Menza 段年份冲突另列",
+      "note": "官方无障碍版与普通版属于同一航司。原表 TVS 未写子型，不将其擅改为 TVS-2MS；2025 年 Menza 分组留在冷门航线清单，不进入有效日期。"
+    },
+    "tomsk-an2": {
+      "title": "托木斯克机场 · An-2 至 Kedrovy",
+      "url": "https://tomskairport.ru/mediacenter/news/186695/",
+      "local": "sources/remote-routes/tomsk-an2.html",
+      "checkedAt": "2026-11-04",
+      "type": "html",
+      "valid": "2026-04-15 至 2026-11-30"
+    },
+    "ugra-timetable": {
+      "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+      "url": "https://ugraavia.ru/api/air/schedule/get",
+      "local": "sources/remote-routes/ugra-timetable.json",
+      "checkedAt": "2026-11-04",
+      "type": "json",
+      "valid": "逐行有效期至 2026-12-30"
+    },
+    "ap-booking": {
+      "title": "Арктика Перевозки · 新地岛预约班次",
+      "url": "https://ap-avia.ru/booking/",
+      "local": "sources/remote-routes/ap-booking.html",
+      "checkedAt": "2026-11-04",
+      "type": "html",
+      "valid": "仅预约页列出的 2026 年 11 月计划日期",
+      "note": "新地岛需要特别许可，一般无法进入。该公司是包机组织方；本次资料未独立确认执飞法人。预约页未逐班标机型，Yak-42D 来自公司业务介绍。"
     }
   },
   "airlines": {
@@ -81391,6 +83267,35 @@
       "zh": "俄罗斯航空（Rossiya）",
       "code": "FV",
       "url": "https://www.rossiya-airlines.ru/"
+    },
+    "aeroservice": {
+      "ru": "Аэросервис",
+      "zh": "Aeroservice 航空",
+      "code": "АЯ",
+      "url": "https://specv.airss.ru/",
+      "en": "Aeroservice"
+    },
+    "aeroprom": {
+      "ru": "Аэропром",
+      "zh": "Aeroprom 航空",
+      "code": "",
+      "url": "https://tomskairport.ru/mediacenter/news/186695/",
+      "en": "Aeroprom"
+    },
+    "utair-heli": {
+      "ru": "ЮТэйр — Вертолётные услуги",
+      "zh": "Utair 直升机服务",
+      "code": "ЮР / NF",
+      "url": "https://heli.utair.ru/",
+      "en": "Utair Helicopter Services"
+    },
+    "arctika-charter": {
+      "ru": "Арктика Перевозки",
+      "zh": "Arctika Perevozki · 包机组织方",
+      "code": "СИ",
+      "url": "https://ap-avia.ru/",
+      "en": "Arktika Perevozki",
+      "role": "organizer"
     }
   },
   "issues": [
@@ -81486,7 +83391,7 @@
     }
   ],
   "asOf": "2026-11-04",
-  "version": "2026.11.04",
+  "version": "2026.11.04-remote-routes",
   "coverage": [
     {
       "name": "2-й Архангельский объединённый авиаотряд",
@@ -81608,8 +83513,28 @@
       "aerialWorkCertificate": "АР-13 от 21.05.2021",
       "generalAviationCertificate": "АОН-05-12-008 от 30.07.2012",
       "url": "https://vityaz-aero.ru/",
-      "note": "已读取官网地方客运航线、星期和2026年例外日期API；公开表未列航班号、起降时间和逐班机型，尚未作为完整时刻录入。",
-      "checkedAt": "2026-11-04"
+      "note": "官网API有20组双向地方客运航段及外国旅客价格。首页明确由ООО АК «САП»航空器执飞；不能以品牌旧机队直接断定实际承运人/逐班型号。保留于冷门航线清单。",
+      "checkedAt": "2026-11-04",
+      "evidence": [
+        {
+          "title": "Vityaz-Aero · 当前承运人声明",
+          "url": "https://vityaz-aero.ru/",
+          "local": "sources/remote-routes/vityaz-home.html",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "Vityaz-Aero · 地方航段与票价 API",
+          "url": "https://vityaz-aero.ru/api/aero/default/sections",
+          "local": "sources/remote-routes/vityaz-api.html",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "Vityaz-Aero · 地方旅客航线",
+          "url": "https://vityaz-aero.ru/transportations",
+          "local": "sources/remote-routes/vityaz-routes.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Вологодское авиапредприятие",
@@ -81969,12 +83894,20 @@
       "localCode": "ИГ",
       "certificate": "174 от 23.05.2013",
       "wiki": "https://ru.wikipedia.org/wiki/Комиавиатранс",
-      "review": "blocked",
+      "review": "partial",
       "aerialWorkCertificate": "АР-76 от 31.03.2022",
       "generalAviationCertificate": "",
       "url": "https://www.komiaviatrans.ru/",
-      "note": "已访问官网班期页，但取得的表格无可用航班行；运营状态和苏俄机型客运班次需补核验。",
-      "checkedAt": "2026-11-04"
+      "note": "10月复飞地方Mi-8客运；11月4日Ust-Tsylma官方动态表有ИГ-522 Mi-8T起飞记录。此前详表仅至11月1日，不继续推演；现行逐站计划待核。",
+      "checkedAt": "2026-11-04",
+      "evidence": [
+        {
+          "title": "Ust-Tsylma 机场 · 11月4日 Mi-8T 出发记录",
+          "url": "https://www.komiaviatrans.ru/airport/index.php?id=6",
+          "local": "sources/remote-routes/komi-board.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Норильск Авиа",
@@ -81986,12 +83919,32 @@
       "localCode": "ПН",
       "certificate": "568 от 22.06.2015",
       "wiki": null,
-      "review": "blocked",
+      "review": "partial",
       "aerialWorkCertificate": "АР-16 от 31.05.2021",
       "generalAviationCertificate": "",
-      "url": "https://norilskavia.ru/?page_id=2028",
-      "note": "已访问 Норильск Авиа 旅客页；最新 Mi-8 公共班期尚未取得。",
-      "checkedAt": "2026-11-04"
+      "url": "https://norilskavia.ru/",
+      "note": "政府2026年杜金卡客运计划确认6组环线，补贴中选文件确认承运人；官网机队为Mi-8。未公开航班号与钟点，已列入地方航线清单。",
+      "checkedAt": "2026-11-04",
+      "evidence": [
+        {
+          "title": "泰梅尔区政府 · 2026 杜金卡客运计划",
+          "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/Zhitelyam/Transport_i_svyaz_/s_posadochnoy_ploschadki_Dudinka2026.doc",
+          "local": "sources/remote-routes/dudinka-2026.doc",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "泰梅尔区政府 · 2026 客运承运人中选结果",
+          "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/Zhitelyam/Transport_i_svyaz_/Informatsiya_o_itogah_otbora_vozduh_23.12.docx",
+          "local": "sources/remote-routes/taimyr-award.docx",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "Norilsk Avia · 社会客运业务",
+          "url": "https://norilskavia.ru/?page_id=9",
+          "local": "sources/remote-routes/norilsk-services.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Тува Авиа [англ.]",
@@ -82023,9 +83976,10 @@
       "review": "blocked",
       "aerialWorkCertificate": "",
       "generalAviationCertificate": "",
-      "url": "http://turuhan-avia.ru",
-      "note": "已从俄文维基确认官网 turuhan-avia.ru，访问返回403；当前逐航班时刻未取回。",
-      "checkedAt": "2026-11-04"
+      "url": null,
+      "note": "撤回turuhan-avia.ru为官网的标注：该站页脚明确声明不隶属航司。当前官方域名及地方公共班期仍待独立核实。",
+      "checkedAt": "2026-11-04",
+      "evidence": []
     },
     {
       "name": "Ямал (авиационная компания)",
@@ -82037,12 +83991,13 @@
       "localCode": "ЯЛ",
       "certificate": "526 от 16.03.2009",
       "wiki": null,
-      "review": "blocked",
+      "review": "partial",
       "aerialWorkCertificate": "АР-155 от 17.01.2023",
       "generalAviationCertificate": "",
-      "url": null,
-      "note": "Ямал 直升机公司与运输航司为不同法人；Mi-8/171 公共客运航线需单独核实。",
-      "checkedAt": "2026-11-04"
+      "url": "https://yamalaero.ru/",
+      "note": "2026地方报道确认Mi-8网络和柜台/网上售票并存。不能将7月加班推为11月时刻；11月逐航线计划未取回。",
+      "checkedAt": "2026-11-04",
+      "evidence": []
     },
     {
       "name": "223-й лётный отряд",
@@ -82615,10 +84570,22 @@
       "localCode": "",
       "certificate": "605 от 08.06.2023",
       "wiki": null,
-      "review": "pending",
+      "review": "partial",
       "aerialWorkCertificate": "АР-158 от 27.01.2023",
       "generalAviationCertificate": "",
-      "checkedAt": null
+      "checkedAt": "2026-11-04",
+      "url": "https://tomskairport.ru/mediacenter/news/186695/",
+      "note": "托木斯克机场证实Tomsk–Kedrovy：9座An-2，周一三五，至2026-11-30；MAX代理预约，航班号未公布。补入双向时刻。",
+      "airlineId": "aeroprom",
+      "records": 2,
+      "evidence": [
+        {
+          "title": "托木斯克机场 · An-2 至 Kedrovy",
+          "url": "https://tomskairport.ru/mediacenter/news/186695/",
+          "local": "sources/remote-routes/tomsk-an2.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Аэросервис",
@@ -82630,10 +84597,28 @@
       "localCode": "АЯ",
       "certificate": "561 от 17.10.2014",
       "wiki": "https://ru.wikipedia.org/wiki/Аэросервис",
-      "review": "pending",
+      "review": "partial",
       "aerialWorkCertificate": "",
       "generalAviationCertificate": "",
-      "checkedAt": null
+      "checkedAt": "2026-11-04",
+      "url": "https://specv.airss.ru/",
+      "note": "已读取官方无障碍版2026冬季表：新增30条An-2、L-410、Mi-8及TVS逐段时刻。TVS按An-2改型纳入、子型保留待核。Menza组写2025年，不推成2026班次。",
+      "airlineId": "aeroservice",
+      "records": 30,
+      "evidence": [
+        {
+          "title": "Аэросервис · 2026 冬季官方时刻",
+          "url": "https://specv.airss.ru/?pageid=164",
+          "local": "sources/remote-routes/aeroservice-winter.html",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "Аэросервис · 官方客运联系人",
+          "url": "https://specv.airss.ru/?pageid=175",
+          "local": "sources/remote-routes/aeroservice-contacts.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Аэрофлот — Российские авиалинии",
@@ -83185,10 +85170,26 @@
       "localCode": "",
       "certificate": "582 от 12.08.2019",
       "wiki": null,
-      "review": "pending",
+      "review": "partial",
       "aerialWorkCertificate": "АР-28 от 21.06.2021",
       "generalAviationCertificate": "АОН-04-17-024 от 26.07.2017",
-      "checkedAt": null
+      "checkedAt": "2026-11-04",
+      "url": "https://vityaz-aero.ru/",
+      "note": "Vityaz-Aero当前预约首页注明由ООО АК «САП»航空器执飞；已与俄文维基的Стрежевское авиапредприятие法人条目区分。20组地方航段缺逐班机型和钟点，单列补查清单。",
+      "evidence": [
+        {
+          "title": "Vityaz-Aero · 当前承运人声明",
+          "url": "https://vityaz-aero.ru/",
+          "local": "sources/remote-routes/vityaz-home.html",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "Vityaz-Aero · 地方航段与票价 API",
+          "url": "https://vityaz-aero.ru/api/aero/default/sections",
+          "local": "sources/remote-routes/vityaz-api.html",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Северо-Запад",
@@ -83365,12 +85366,28 @@
       "localCode": "НФ",
       "certificate": "34 от 30.04.1992",
       "wiki": "https://ru.wikipedia.org/wiki/ЮТэйр_—_вертолётные_услуги?action=edit&redlink=1",
-      "review": "pending",
+      "review": "partial",
       "aerialWorkCertificate": "АР-50 от 03.12.2021",
       "generalAviationCertificate": "АОН-09-23-006 от 04.08.2023",
-      "url": "https://www.utair.ru/",
-      "note": "ЮТэйр 直升机服务可能涉及地方公共客运；需单独核查地区合同航班和当前班期。",
-      "checkedAt": null
+      "url": "https://heli.utair.ru/",
+      "note": "机场官方接口取得Mi-8时刻；先补入Sogom双向8条日期/时间变体。其他多站环线保留在地方航线清单，逐段时间未核齐。",
+      "checkedAt": "2026-11-04",
+      "airlineId": "utair-heli",
+      "records": 8,
+      "evidence": [
+        {
+          "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/remote-routes/ugra-timetable.json",
+          "checkedAt": "2026-11-04"
+        },
+        {
+          "title": "汉特-曼西斯克机场 · 当日状态快照",
+          "url": "https://ugraavia.ru/api/air/schedule/get_online",
+          "local": "sources/remote-routes/ugra-board.json",
+          "checkedAt": "2026-11-04"
+        }
+      ]
     },
     {
       "name": "Южный Альянс",
@@ -86412,7 +88429,7 @@
       "checkedAt": null
     }
   ],
-  "scope": "这是可用的研究快照，尚未达到“全部现存航司、全部当前航线”完整覆盖。以俄文维基306个条目为核查清单（含航空作业与通航法人），目前录入17家实际运营航司的官方计划时刻；逐航司范围与缺口如下。收录范围包含苏俄机型及L-410。班期/机型冲突及未公布时间均保留，不能据此认定某日实际执飞或有余票。伊尔航空只查询2026-11-04至12-04，其他来源各有有效期。",
+  "scope": "这是研究快照，尚未达到全部现存航司、全部当前航线的完整覆盖。俄文维基306个条目为航司核查清单；另列包机组织方，避免混作承运航司。来源包括航司、机场、地方政府及逐条注明的地方报道。苏俄机型、An-2衍生TVS和L-410均纳入。缺时刻、年份冲突、按客流开航和受限目的地在冷门航线清单保留；不将年度计划当作每日实际执飞。",
   "airportAliases": {
     "RU-0361": "KYA-BURNY"
   },
@@ -86430,5 +88447,126 @@
     "checkedAt": "2026-11-04",
     "notes": "Nyagan IATA/local-ID collision; Burny region identity; KV783/784 same-number dated segment cross-check.",
     "file": "data/geography-corrections.json"
+  },
+  "remoteResearch": {
+    "asOf": "2026-11-04",
+    "url": "remote-routes.html",
+    "addedTimetableRecords": 42,
+    "references": {
+      "aeroservice-winter": {
+        "title": "Аэросервис · 2026 冬季官方时刻",
+        "url": "https://specv.airss.ru/?pageid=164",
+        "local": "sources/remote-routes/aeroservice-winter.html",
+        "checkedAt": "2026-11-04"
+      },
+      "aeroservice-contacts": {
+        "title": "Аэросервис · 官方客运联系人",
+        "url": "https://specv.airss.ru/?pageid=175",
+        "local": "sources/remote-routes/aeroservice-contacts.html",
+        "checkedAt": "2026-11-04"
+      },
+      "tomsk-an2": {
+        "title": "托木斯克机场 · An-2 至 Kedrovy",
+        "url": "https://tomskairport.ru/mediacenter/news/186695/",
+        "local": "sources/remote-routes/tomsk-an2.html",
+        "checkedAt": "2026-11-04"
+      },
+      "ugra-timetable": {
+        "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+        "url": "https://ugraavia.ru/api/air/schedule/get",
+        "local": "sources/remote-routes/ugra-timetable.json",
+        "checkedAt": "2026-11-04"
+      },
+      "ugra-board": {
+        "title": "汉特-曼西斯克机场 · 当日状态快照",
+        "url": "https://ugraavia.ru/api/air/schedule/get_online",
+        "local": "sources/remote-routes/ugra-board.json",
+        "checkedAt": "2026-11-04"
+      },
+      "ap-booking": {
+        "title": "Арктика Перевозки · 新地岛预约班次",
+        "url": "https://ap-avia.ru/booking/",
+        "local": "sources/remote-routes/ap-booking.html",
+        "checkedAt": "2026-11-04"
+      },
+      "ap-about": {
+        "title": "Арктика Перевозки · Yak-42D 与业务说明",
+        "url": "https://ap-avia.ru/about/",
+        "local": "sources/remote-routes/ap-about.html",
+        "checkedAt": "2026-11-04"
+      },
+      "dudinka-2026": {
+        "title": "泰梅尔区政府 · 2026 杜金卡客运计划",
+        "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/Zhitelyam/Transport_i_svyaz_/s_posadochnoy_ploschadki_Dudinka2026.doc",
+        "local": "sources/remote-routes/dudinka-2026.doc",
+        "checkedAt": "2026-11-04"
+      },
+      "khatanga-2026": {
+        "title": "泰梅尔区政府 · 2026 哈坦加客运计划",
+        "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/Zhitelyam/Transport_i_svyaz_/iz_aeroporta_Hatanga2026.doc",
+        "local": "sources/remote-routes/khatanga-2026.doc",
+        "checkedAt": "2026-11-04"
+      },
+      "taimyr-award": {
+        "title": "泰梅尔区政府 · 2026 客运承运人中选结果",
+        "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/Zhitelyam/Transport_i_svyaz_/Informatsiya_o_itogah_otbora_vozduh_23.12.docx",
+        "local": "sources/remote-routes/taimyr-award.docx",
+        "checkedAt": "2026-11-04"
+      },
+      "norilsk-services": {
+        "title": "Norilsk Avia · 社会客运业务",
+        "url": "https://norilskavia.ru/?page_id=9",
+        "local": "sources/remote-routes/norilsk-services.html",
+        "checkedAt": "2026-11-04"
+      },
+      "norilsk-fleet": {
+        "title": "Norilsk Avia · Mi-8 机队",
+        "url": "https://norilskavia.ru/?page_id=14",
+        "local": "sources/remote-routes/norilsk-fleet.html",
+        "checkedAt": "2026-11-04"
+      },
+      "norilsk-contact": {
+        "title": "Norilsk Avia · 官方调度联系人",
+        "url": "https://norilskavia.ru/?page_id=2",
+        "local": "sources/remote-routes/norilsk-contact.html",
+        "checkedAt": "2026-11-04"
+      },
+      "komi-board": {
+        "title": "Ust-Tsylma 机场 · 11月4日 Mi-8T 出发记录",
+        "url": "https://www.komiaviatrans.ru/airport/index.php?id=6",
+        "local": "sources/remote-routes/komi-board.html",
+        "checkedAt": "2026-11-04"
+      },
+      "vityaz-api": {
+        "title": "Vityaz-Aero · 地方航段与票价 API",
+        "url": "https://vityaz-aero.ru/api/aero/default/sections",
+        "local": "sources/remote-routes/vityaz-api.html",
+        "checkedAt": "2026-11-04"
+      },
+      "vityaz-home": {
+        "title": "Vityaz-Aero · 当前承运人声明",
+        "url": "https://vityaz-aero.ru/",
+        "local": "sources/remote-routes/vityaz-home.html",
+        "checkedAt": "2026-11-04"
+      },
+      "vityaz-routes": {
+        "title": "Vityaz-Aero · 地方旅客航线",
+        "url": "https://vityaz-aero.ru/transportations",
+        "local": "sources/remote-routes/vityaz-routes.html",
+        "checkedAt": "2026-11-04"
+      },
+      "vityaz-fleet": {
+        "title": "Vityaz-Aero · 品牌机队说明",
+        "url": "https://vityaz-aero.ru/about",
+        "local": "sources/remote-routes/vityaz-fleet.html",
+        "checkedAt": "2026-11-04"
+      },
+      "khatanga-ticket-2018": {
+        "title": "哈坦加偏远起降点电子票流程（2018，历史资料）",
+        "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/3/Docs2/Novye_trebovaniya_KrasAvia1.pdf",
+        "local": "sources/remote-routes/khatanga-ticket-2018.pdf",
+        "checkedAt": "2026-11-04"
+      }
+    }
   }
 }

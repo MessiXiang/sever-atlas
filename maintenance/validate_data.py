@@ -11,7 +11,7 @@ for f in F:
  for d in f.get('dates') or []:
   datetime.date.fromisoformat(d)
   if d<f['start'] or (f['end'] and d>f['end']):errors.append([f['id'],'date outside period',d])
- if not f['aircraft'] or any(x not in ['An-2','An-24','An-26','An-28','An-38','Yak-40','Yak-42','Mi-8','SSJ100','Tu-204','Tu-214','L-410'] for x in f['aircraft']):errors.append([f['id'],'bad aircraft',f['aircraft']])
+ if not f['aircraft'] or any(x not in ['An-2','TVS','An-24','An-26','An-28','An-38','Yak-40','Yak-42','Mi-8','SSJ100','Tu-204','Tu-214','L-410'] for x in f['aircraft']):errors.append([f['id'],'bad aircraft',f['aircraft']])
  if f.get('localSource') and not (ROOT/f['localSource']).exists():errors.append([f['id'],'missing snapshot',f['localSource']])
 for a in A.values():
  if a['lat'] is not None and not (-90<=a['lat']<=90 and -180<=a['lon']<=180):errors.append([a['id'],'bad coords'])
@@ -23,7 +23,7 @@ conf=[]
 for key,fs in index.items():
  variants=set((f['departure'],f['arrival'],tuple(f['aircraft'])) for f in fs)
  if len(variants)>1:conf.append({'key':key,'variants':[{'id':f['id'],'departure':f['departure'],'arrival':f['arrival'],'aircraft':f['aircraft'],'source':f['source']} for f in fs]})
-report={'records':len(F),'airports':len(A),'operators':len(D['airlines']),'errors':errors,'possibleSameDayConflicts':len(conf),'conflicts':conf,'noCoords':[a['id'] for a in A.values() if a['lat'] is None],'status':dict(collections.Counter(f['status'] for f in F))}
+report={'records':len(F),'airports':len(A),'operators':sum(x.get('role')!='organizer' for x in D['airlines'].values()),'organizers':sum(x.get('role')=='organizer' for x in D['airlines'].values()),'errors':errors,'possibleSameDayConflicts':len(conf),'conflicts':conf,'noCoords':[a['id'] for a in A.values() if a['lat'] is None],'status':dict(collections.Counter(f['status'] for f in F))}
 (ROOT/'data/data-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='conflicts'},ensure_ascii=False));print('CONFLICT SAMPLE',json.dumps(conf[:4],ensure_ascii=False))
 assert not errors,errors[:20]
 

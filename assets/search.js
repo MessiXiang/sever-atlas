@@ -20,7 +20,7 @@ const airlineAliases={
  arctic:['Arctic Airlines','2nd Arkhangelsk United Aviation Division'],kam:['Kamchatka Aviation Enterprise','Petropavlovsk Kamchatsky Air Enterprise'],
  khab:['Khabarovsk Airlines','Khabavia'],vologda:['Vologda Aviation Enterprise','Vologda Air'],taiga:['Taiga'],
  nao:['Naryan Mar United Air Detachment'],alrosa:['Alrosa'],kras:['KrasAvia'],yakutia:['Yakutia','Yakutiya'],
- redwings:['Red Wings','Ред Вингс'],yamal:['Yamal'],sila:['Siberian Light Aviation','SiLA'],kostroma:['Kostroma Aviation Enterprise','Kostroma Air'],rossiya:['Rossiya','Rossia','Rossija']
+ redwings:['Red Wings','Ред Вингс'],yamal:['Yamal'],sila:['Siberian Light Aviation','SiLA'],kostroma:['Kostroma Aviation Enterprise','Kostroma Air'],rossiya:['Rossiya','Rossia','Rossija'],aeroservice:['Aeroservice','Aeroservis'],aeroprom:['Aeroprom'], 'utair-heli':['Utair Helicopter Services','UTair'], 'arctika-charter':['Arktika Perevozki','Arctika Perevozki']
 };
 window.ATLAS_SEARCH={normalize,index,terms,matches,airlineAliases};
 })();

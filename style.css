@@ -2204,3 +2204,12 @@ dialog[open] {
  body { --header-height:64px; }
  body.titles-collapsed { --header-height:54px; }
 }
+
+/* Reviewed regional services and ticketing information. */
+.remote-entry { margin-left:auto; color:var(--blue); font-size:10px; white-space:nowrap; }
+.research-link { display:flex; flex-wrap:wrap; gap:8px 20px; justify-content:space-between; padding:16px 0; margin-bottom:16px; border-bottom:1px solid var(--line); color:var(--blue); font-size:13px; }
+.research-link span { color:var(--muted); font-size:12px; }
+.booking-note { padding:16px; margin:20px 0; border:1px solid var(--line); border-radius:8px; background:var(--paper,#f7f8fa); font-size:13px; }
+.booking-note p { color:var(--muted); line-height:1.8; margin:8px 0; }
+.booking-note a { color:var(--blue); margin-right:12px; }
+.access-warning { padding:14px 16px; border-left:3px solid #a15b23; background:#fff3e6; line-height:1.8; font-size:13px; }

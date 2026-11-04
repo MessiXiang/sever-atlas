@@ -1,7 +1,8 @@
 {
-  "records": 2002,
-  "airports": 290,
-  "operators": 17,
+  "records": 2044,
+  "airports": 304,
+  "operators": 20,
+  "organizers": 1,
   "errors": [],
   "possibleSameDayConflicts": 6,
   "conflicts": [
@@ -184,12 +185,13 @@
     "БМЯ",
     "CHU-KAETTYN",
     "KYA-OSHAROVO",
-    "KYA-UCHAMI"
+    "KYA-UCHAMI",
+    "MAG-SINEGORYE"
   ],
   "status": {
-    "confirmed": 1883,
+    "confirmed": 1923,
     "mixed": 91,
-    "fleet-supported": 26,
+    "fleet-supported": 28,
     "conflict": 2
   }
 }

@@ -91,7 +91,7 @@
     <div id="filterOptions" hidden>
     <div class="family-filters" id="familyFilters">
     </div>
-    <p class="filter-hint">每种机型独立筛选；官网标注多种机型时，在各候选型号中显示。Tu-204/214 的具体子型仍以航司确认为准。</p>
+    <p class="filter-hint">每种机型独立筛选；TVS 也纳入 An-2 改型筛选，具体子型按来源保留。官网多机型标注在各候选型号中显示。Tu-204/214 的具体子型仍以航司确认为准。</p>
     <div class="filter-grid">
      <label>
       航空公司
@@ -120,7 +120,7 @@
     <label class="toggle-row">
      <input id="privateFilter" type="checkbox"/>
      <span>
-      含散客购票资格待核班次
+      含受限 / 购票资格待核班次
      </span>
     </label>
     </div>
@@ -143,8 +143,8 @@
      <span class="status-dot">
      </span>
      <span>
-      研究快照 · 非完整航网 · 当地时间
-     </span>
+      研究快照 · 当地时间
+     </span><a class="remote-entry" href="remote-routes.html">冷门 / 线下航线 ↗</a>
     </div>
    </aside>
    <section aria-label="航线交互地图" class="map-section">
@@ -285,7 +285,7 @@
       每条记录，都有出处。
      </h1>
      <p>
-      俄文维基建立航司核查清单；航班信息以航司官网为准。尚未确认的内容保持可见。
+      俄文维基建立航司核查清单；时刻核对航司、机场与地方政府原件。尚未确认的内容保持可见。
      </p>
     </div>
     <a class="secondary" download="" href="data/coverage.json">
@@ -301,6 +301,7 @@
     <p id="scopeText">
     </p>
    </div>
+   <a class="research-link" href="remote-routes.html"><strong>冷门与线下航线补查 ↗</strong><span>An-2 / TVS、地方直升机、代理预约与新地岛受限包机 · 2026.11.04</span></a>
    <div class="coverage-controls">
     <input aria-label="搜索航司核查清单，支持中文、俄文与英文转写" id="coverageSearch" placeholder="航司名称 · 中文 / Русский / English" type="search"/>
     <label>
@@ -336,7 +337,7 @@
        体验范围
       </h3>
       <p>
-       包含苏联及俄罗斯设计的民用机型，也包含安东诺夫系列与 SSJ。排除 Boeing、Airbus、ATR、DHC、CRJ、Embraer、Cessna 和捷克设计的 L-410；军用、货运和无公开时刻的包机单列。
+       包含苏联及俄罗斯设计的民用机型，也包含安东诺夫系列与 SSJ。包含捷克设计的 L-410 与 An-2 衍生 TVS；排除 Boeing、Airbus、ATR、DHC、CRJ、Embraer、Cessna。受限目的地和缺时刻线索单列。
       </p>
      </article>
      <article>

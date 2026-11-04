@@ -402,91 +402,91 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-GDX-\u041d\u041a\u0410.json",
+    "file": "sources/legacy/sila-schedule-GDX-НКА.json",
     "bytes": 23,
     "sha256": "d0763886910cd6a07ed01d7d942a14b481e93d1ade5b69385e50ba6f28a57d29",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-GDX-\u041e\u041e\u041b.json",
+    "file": "sources/legacy/sila-schedule-GDX-ООЛ.json",
     "bytes": 1794,
     "sha256": "24ec7834a4975acc5846a92b060a6450e7943cbcd601b501103e7273e132b852",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-GDX-\u041e\u0421\u0423.json",
+    "file": "sources/legacy/sila-schedule-GDX-ОСУ.json",
     "bytes": 616,
     "sha256": "3d39e95c7505813fb10a5629e251af703d21f704ddb412db87a8d9b7aa0dcebb",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-GDX-\u0421\u0421\u041c.json",
+    "file": "sources/legacy/sila-schedule-GDX-ССМ.json",
     "bytes": 1338,
     "sha256": "49d288f5490b8f85af31ccf87838987977a915a5c35184ce37ffc7fcd95855fc",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-IKT-\u041a\u0417\u0427.json",
+    "file": "sources/legacy/sila-schedule-IKT-КЗЧ.json",
     "bytes": 1199,
     "sha256": "d489844d6d63224a1a1af140d24713fbc5e07d71dd1d651eb4d5598bd33f4c36",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041a\u0417\u0427-IKT.json",
+    "file": "sources/legacy/sila-schedule-КЗЧ-IKT.json",
     "bytes": 1219,
     "sha256": "358a085c49db0c9d598555012eaacd1eef57b3b11a7517929acf5900837cefe7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041d\u041a\u0410-GDX.json",
+    "file": "sources/legacy/sila-schedule-НКА-GDX.json",
     "bytes": 23,
     "sha256": "d0763886910cd6a07ed01d7d942a14b481e93d1ade5b69385e50ba6f28a57d29",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041e\u041e\u041b-GDX.json",
+    "file": "sources/legacy/sila-schedule-ООЛ-GDX.json",
     "bytes": 1824,
     "sha256": "6603ecbf0053aa886e9a9111e4ebf3ca44c60c7488b3cda31db63942b56c3f48",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041e\u041e\u041b-\u0421\u0421\u041c.json",
+    "file": "sources/legacy/sila-schedule-ООЛ-ССМ.json",
     "bytes": 2789,
     "sha256": "fcecf8cf4f715e14404b0477ddcb7da789566d81387b098daf006d4b11cc102e",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041e\u0421\u0423-GDX.json",
+    "file": "sources/legacy/sila-schedule-ОСУ-GDX.json",
     "bytes": 626,
     "sha256": "0ed6552d9ab6a62fba9f90ce422319c5e827c8b79f2e1623a4d1933bd0f5cbb9",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041e\u0421\u0423-\u041e\u041e\u041b.json",
+    "file": "sources/legacy/sila-schedule-ОСУ-ООЛ.json",
     "bytes": 3984,
     "sha256": "8dc2920ab9b6ad081dddc3668ce6577c174c853d403acf9dfb244e1a00e557e6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u041e\u0421\u0423-\u0421\u0421\u041c.json",
+    "file": "sources/legacy/sila-schedule-ОСУ-ССМ.json",
     "bytes": 1408,
     "sha256": "fb3594e7c44b945ef1228b22ce0a85f053e58502eac57ebd770249a51efb961d",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u0421\u0421\u041c-GDX.json",
+    "file": "sources/legacy/sila-schedule-ССМ-GDX.json",
     "bytes": 1338,
     "sha256": "788bae3d3c0c46ac74daf868876acedea687fdff0cf39cb16826b5aafb7a0cf8",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u0421\u0421\u041c-\u041e\u041e\u041b.json",
+    "file": "sources/legacy/sila-schedule-ССМ-ООЛ.json",
     "bytes": 2769,
     "sha256": "c8c59eafcfc3fff21784aa28ad4ffdc77e67f0447a9b5f474699e8bf7124cef6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/legacy/sila-schedule-\u0421\u0421\u041c-\u041e\u0421\u0423.json",
+    "file": "sources/legacy/sila-schedule-ССМ-ОСУ.json",
     "bytes": 1398,
     "sha256": "6980e53cc914bc1aa5f2648cc13a533162966723e05969a5dcb747e9e4ea768f",
     "retrievedAt": "2026-11-04"
@@ -2464,6 +2464,120 @@
     "bytes": 74128,
     "sha256": "b9bab19760e3df4fc436def2da3db6b26f9f4819351df8dda7741357529c60cf",
     "retrievedAt": "2026-11-04"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/aeroservice-contacts.html",
+    "bytes": 17498,
+    "sha256": "4717148c0624d20e6219c3f66c114290ce2185a6fe7f1641e4801a4c33dc961b"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/aeroservice-winter.html",
+    "bytes": 36462,
+    "sha256": "0dd60c72095c1a0dc8a0b3fe28af2ea0a72846fbd88eef19616a623547818c01"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/ap-about.html",
+    "bytes": 36323,
+    "sha256": "66339b8bceedf35ecd88ba307a1df4e057b477ded707195881e9b3b459629f78"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/ap-booking.html",
+    "bytes": 81753,
+    "sha256": "cdff1f3fdbba81cf6715a027adcfc256ef48015aabc80ff3e19a86068490e33e"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/dudinka-2026.doc",
+    "bytes": 60416,
+    "sha256": "20b1258c5e6e57ff99dec8e26b342cae60c85261d35f2c0fb435f9c29db2de65"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/khatanga-2026.doc",
+    "bytes": 61440,
+    "sha256": "685f5b02022b05d7627dcc6a4d199ee3ad110b7037b7cdc25fb0133e1cf1f0ee"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/khatanga-ticket-2018.pdf",
+    "bytes": 5013525,
+    "sha256": "8139eff657e6009d7c64cdcd022ec78b29546f1be46cedaff8e02542bc30e1f4"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/komi-board.html",
+    "bytes": 19386,
+    "sha256": "03215ffb59d95edbdb1c5f341b9a772032851f9dddfd2d6ca9fd509b7bc3f425"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/norilsk-contact.html",
+    "bytes": 22920,
+    "sha256": "daf976ccd929903f90575928fbe5fddd35e1a0f6d2cb5db3f73fb095bf1d5128"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/norilsk-fleet.html",
+    "bytes": 23438,
+    "sha256": "1b9410a4d01413036fb86c1235135d91990d268535bcf77e2bba0e3fa28b4206"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/norilsk-services.html",
+    "bytes": 30472,
+    "sha256": "cceabf79fad5861a45fc010dc8d5ab19055e2c8d387ed514dc1a9e379997c5f7"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/taimyr-award.docx",
+    "bytes": 15394,
+    "sha256": "1f4af7c4e85e0da513d20946055303b01402b152c2fb7d555a435d5da6cc5554"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/tomsk-an2.html",
+    "bytes": 79912,
+    "sha256": "9d79b57fd9d547522ed7b5f81bf23209e8c090ccb19a72647419c4b4891d7e91"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/ugra-board.json",
+    "bytes": 48069,
+    "sha256": "e633437fcb049243fa1ab89abbf3b54c4cf8349823ba297740f6df9cc3923953"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/ugra-timetable.json",
+    "bytes": 103366,
+    "sha256": "d936aae6a3eb448298278110505ae22e74ed61213e8bc4291f39b7557998ff28"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/vityaz-api.html",
+    "bytes": 130863,
+    "sha256": "8b034ca2f5e5daa2020c901686162391cb5ec18c223f5d4c9c63597bfa577f70"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/vityaz-fleet.html",
+    "bytes": 485286,
+    "sha256": "8245cbd3fe017c293326518f55e902cc6c0018f53583663b6c8c6bc57172326c"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/vityaz-home.html",
+    "bytes": 457433,
+    "sha256": "b607150de2279bd7b9e4035f08ce33adb193811f5b590361d83e53451c0f668a"
+  },
+  {
+    "retrievedAt": "2026-11-04",
+    "file": "sources/remote-routes/vityaz-routes.html",
+    "bytes": 450947,
+    "sha256": "86b59f72b57971414c6e484712ea98771d065af55fcce6ac681888068377240b"
   },
   {
     "file": "sources/rossiya/AER-2026-11-04.html",
@@ -5334,49 +5448,49 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u0411\u0423\u042b.json",
+    "file": "sources/websky/kv-schedule-BKA-БУЫ.json",
     "bytes": 3871,
     "sha256": "bd5b3328f801f86f0b35b5d155a418808aefd48127a52894e8b5c02d5d2ab8a6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u041a\u0417\u0412.json",
+    "file": "sources/websky/kv-schedule-BKA-КЗВ.json",
     "bytes": 3889,
     "sha256": "a8a624c8ade62c2287150582e36aae7c0f7d572a9efd087ffb6a6fe9ef0d1650",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u041a\u042e\u041c.json",
+    "file": "sources/websky/kv-schedule-BKA-КЮМ.json",
     "bytes": 3881,
     "sha256": "70c633314658eedb9728df0df4534ad7d1c97621187b0666b81e6f11a43769c8",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u041c\u0413\u0410.json",
+    "file": "sources/websky/kv-schedule-BKA-МГА.json",
     "bytes": 5503,
     "sha256": "686724f0d5581f185052898412978cb36fe6c8902614e8c2b75706d035d61cfc",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u041e\u0428\u0410.json",
+    "file": "sources/websky/kv-schedule-BKA-ОША.json",
     "bytes": 5509,
     "sha256": "22bf63ecc837db7edf0156dfd0796138bbe816cb1553efbb11e69519ff107e5f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u041f\u0413\u0423.json",
+    "file": "sources/websky/kv-schedule-BKA-ПГУ.json",
     "bytes": 3851,
     "sha256": "93825ecc727bdef45b8cd29cc26ba9da05212ef872662ceebc5f07fdc98f74f0",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u0421\u0410\u0419.json",
+    "file": "sources/websky/kv-schedule-BKA-САЙ.json",
     "bytes": 3877,
     "sha256": "dd62f583ef507538f399522aabeb59ca3f43a6cf76cd22bcda779f89bb9f3f7a",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-BKA-\u0421\u0414\u0420.json",
+    "file": "sources/websky/kv-schedule-BKA-СДР.json",
     "bytes": 3826,
     "sha256": "c24505963323f12f1e6b8e2b43aaec73658b9b62f13923fe990d1f4b820b5d19",
     "retrievedAt": "2026-11-04"
@@ -5442,7 +5556,7 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-DKS-\u042e\u0416\u0416.json",
+    "file": "sources/websky/kv-schedule-DKS-ЮЖЖ.json",
     "bytes": 29192,
     "sha256": "da613762718a3e2950537aa604520a01701721709ee07addeccf40f7b1a7a26b",
     "retrievedAt": "2026-11-04"
@@ -5496,61 +5610,61 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0415\u0421\u0418.json",
+    "file": "sources/websky/kv-schedule-GOY-ЕСИ.json",
     "bytes": 5704,
     "sha256": "a2b79f44415780745519bf94f398d216d2455bdb5886919e8f51580083afa98a",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u041a\u0421\u042e.json",
+    "file": "sources/websky/kv-schedule-GOY-КСЮ.json",
     "bytes": 3884,
     "sha256": "df57e9fbf92d067843d5eee0726485915ad4d5589df690782fd7f7d49c60144f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u041d\u0418\u042b.json",
+    "file": "sources/websky/kv-schedule-GOY-НИЫ.json",
     "bytes": 5338,
     "sha256": "3d19818800a7610f1e1c9ae1e000c6277a5bee333f30b388b92fcece8dae19f9",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0421\u0414\u0420.json",
+    "file": "sources/websky/kv-schedule-GOY-СДР.json",
     "bytes": 5799,
     "sha256": "1c53e557dbb3b5d1a148fe45556458a301348de831c13918262e4a5eac2872f6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0421\u0427\u0423.json",
+    "file": "sources/websky/kv-schedule-GOY-СЧУ.json",
     "bytes": 3752,
     "sha256": "42eacd9b990c7f7bdfb4ce5d4aaecb4dac52847c2908f00c903be85e755213fe",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0422\u041d\u0427.json",
+    "file": "sources/websky/kv-schedule-GOY-ТНЧ.json",
     "bytes": 5523,
     "sha256": "26dfb09adafc8394db8feb8f329281aec70be63b8382e680f156856c07d4fff0",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0423\u041c\u0418.json",
+    "file": "sources/websky/kv-schedule-GOY-УМИ.json",
     "bytes": 5499,
     "sha256": "a6abe9e8302f19e61c30d0dca5e25d7f11a4d7d7dfe30061000d78a0fd0d7af9",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u0427\u0418\u0420.json",
+    "file": "sources/websky/kv-schedule-GOY-ЧИР.json",
     "bytes": 28928,
     "sha256": "41546d97ecf3e643adcf41034df5b3b5454cab18fdd7cb0d5c9283090a31a5d4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u042d\u041a\u041e.json",
+    "file": "sources/websky/kv-schedule-GOY-ЭКО.json",
     "bytes": 7135,
     "sha256": "d408695a7ccbeef8c49de5aaefca921cb76ac743118ada989e04f4485814f033",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-GOY-\u042e\u041a\u0422.json",
+    "file": "sources/websky/kv-schedule-GOY-ЮКТ.json",
     "bytes": 3865,
     "sha256": "64b07057f0106ca48e00c83b7e78bd03351ea212fa8b9150efeb9ae4556828a5",
     "retrievedAt": "2026-11-04"
@@ -5586,43 +5700,43 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u041a\u0422\u042b.json",
+    "file": "sources/websky/kv-schedule-HTG-КТЫ.json",
     "bytes": 5499,
     "sha256": "986616d56d36970f6d897c1afb314630a4535101366c4ce6b03d469f9425d1ad",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u041c\u0411\u0420.json",
+    "file": "sources/websky/kv-schedule-HTG-МБР.json",
     "bytes": 11482,
     "sha256": "a91f6b1542790665499161b6609d7f612af2ccc51c1723eaa90ff4d3cddee374",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u041d\u0410\u042f.json",
+    "file": "sources/websky/kv-schedule-HTG-НАЯ.json",
     "bytes": 5493,
     "sha256": "52fead779908eaa666d5fa7a303b9c7793678b141de89245f7aeb0cfe67e54b4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u041d\u0420\u042b.json",
+    "file": "sources/websky/kv-schedule-HTG-НРЫ.json",
     "bytes": 5741,
     "sha256": "9d65743c9dffc7ad8bc3ed19f16582e43d993ff45601e775cf8283904c96b85b",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u041f\u0413\u0410.json",
+    "file": "sources/websky/kv-schedule-HTG-ПГА.json",
     "bytes": 5502,
     "sha256": "3801a812764e3863fb29af736d43b32efc7ee7ced56269d3ed0f6e5a3bd79589",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u0421\u0414\u041d.json",
+    "file": "sources/websky/kv-schedule-HTG-СДН.json",
     "bytes": 5721,
     "sha256": "69ff682544fc92ff94f681cd9e7d5611c579d7a10d4639d60d8d35dd11182627",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-HTG-\u0425\u042d\u0422.json",
+    "file": "sources/websky/kv-schedule-HTG-ХЭТ.json",
     "bytes": 5486,
     "sha256": "51da32b9026c68070dd696671d036182071957a9af07304ae8cecf229e0e1688",
     "retrievedAt": "2026-11-04"
@@ -6048,19 +6162,19 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-TGP-\u0411\u0423\u042b.json",
+    "file": "sources/websky/kv-schedule-TGP-БУЫ.json",
     "bytes": 5577,
     "sha256": "406cd814b632a43372ce1a2bda228fea4f38fa839fd2301c428a50cace3c4307",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-TGP-\u041a\u0417\u0412.json",
+    "file": "sources/websky/kv-schedule-TGP-КЗВ.json",
     "bytes": 5595,
     "sha256": "7349d10894a2b4dbf91a96d38bd052c644ba15a89524a1512428f77dd53ea799",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-TGP-\u0421\u0410\u0419.json",
+    "file": "sources/websky/kv-schedule-TGP-САЙ.json",
     "bytes": 3962,
     "sha256": "ba43e648c6aaaf714fd22c1c03c5f3732623949b6da65de57fe28d26bf7671f1",
     "retrievedAt": "2026-11-04"
@@ -6234,25 +6348,25 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-VAQ-\u041c\u0420\u0419.json",
+    "file": "sources/websky/kv-schedule-VAQ-МРЙ.json",
     "bytes": 5434,
     "sha256": "767d2f492468a7f2ec2627a9b10129f130e0d02182b2a965f03fd9cc690312c4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-VAQ-\u041e\u041a\u0411.json",
+    "file": "sources/websky/kv-schedule-VAQ-ОКБ.json",
     "bytes": 3738,
     "sha256": "23e27638958c2f264f3e996d8d8d1450a849a9e69af892720b9efa05c3cf0df2",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-VAQ-\u0421\u0427\u0423.json",
+    "file": "sources/websky/kv-schedule-VAQ-СЧУ.json",
     "bytes": 7630,
     "sha256": "2919c3cbab96a04ed3e563a5a1ea55b42d7874b26ffcf0408b58c1e1c67cf6b4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-VAQ-\u0427\u0415\u041c.json",
+    "file": "sources/websky/kv-schedule-VAQ-ЧЕМ.json",
     "bytes": 3806,
     "sha256": "61f4fbc8cf88901823f7293e9bdcc72b26faac568ba34545d4b089b9c630de0e",
     "retrievedAt": "2026-11-04"
@@ -6270,421 +6384,421 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0411\u0423\u042b-BKA.json",
+    "file": "sources/websky/kv-schedule-БУЫ-BKA.json",
     "bytes": 5488,
     "sha256": "3f6bc39d31cc5fcde9c08d1efe9d81477d8e0b65ac37cc006a4b41927c634bd5",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0411\u0423\u042b-TGP.json",
+    "file": "sources/websky/kv-schedule-БУЫ-TGP.json",
     "bytes": 3958,
     "sha256": "4ed026abf6f50541ea4929e477b379729f344e4026dd419ce127a9d0ccf96f2e",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0411\u0423\u042b-\u041a\u0417\u0412.json",
+    "file": "sources/websky/kv-schedule-БУЫ-КЗВ.json",
     "bytes": 3525,
     "sha256": "3fdd0a1592082a5d0ce2ddb087fec90db23eaac1f4410a47403acea8194ecad7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0411\u0423\u042b-\u041f\u0413\u0423.json",
+    "file": "sources/websky/kv-schedule-БУЫ-ПГУ.json",
     "bytes": 647,
     "sha256": "2d0a6e390b19f39602c8e3ba698ba82cfd37ab0b8ffd36c712372ff4941a4031",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0411\u0423\u042b-\u0421\u0410\u0419.json",
+    "file": "sources/websky/kv-schedule-БУЫ-САЙ.json",
     "bytes": 3513,
     "sha256": "f099fa960cc43c2bf5e9db9190d4c8cf59bffbee5662dcfa1850653232e2df2c",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0415\u0421\u0418-GOY.json",
+    "file": "sources/websky/kv-schedule-ЕСИ-GOY.json",
     "bytes": 5704,
     "sha256": "950556ba7145e0bc11f4747fb8324c34ec6948b7794dd503b865b722487af631",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0415\u0421\u0418-\u0427\u0418\u0420.json",
+    "file": "sources/websky/kv-schedule-ЕСИ-ЧИР.json",
     "bytes": 3469,
     "sha256": "b4a5d73e9dbf7b805e55680b488332be982aeadd13f9db923b63d25fde8623df",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0417\u0412-BKA.json",
+    "file": "sources/websky/kv-schedule-КЗВ-BKA.json",
     "bytes": 5507,
     "sha256": "00b18aa3a1d9f138100d4ab0d2c35760f2f62cc8f33abec4f4cddfc07eba0ed6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0417\u0412-TGP.json",
+    "file": "sources/websky/kv-schedule-КЗВ-TGP.json",
     "bytes": 3977,
     "sha256": "4602dd4f6052fbe9e1d28d0ab36f75ef0bc1b73e4d481b4fe24492a62acaa1fd",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0417\u0412-\u0411\u0423\u042b.json",
+    "file": "sources/websky/kv-schedule-КЗВ-БУЫ.json",
     "bytes": 5145,
     "sha256": "4eb283f312728eec05a1870d0df1c231d5f07ae57416d53112a65af499671e1a",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0417\u0412-\u041f\u0413\u0423.json",
+    "file": "sources/websky/kv-schedule-КЗВ-ПГУ.json",
     "bytes": 656,
     "sha256": "6f6955f64932de715a05016d212e1e2ab49a662c737bde795082326d6f5f2e06",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0417\u0412-\u0421\u0410\u0419.json",
+    "file": "sources/websky/kv-schedule-КЗВ-САЙ.json",
     "bytes": 3531,
     "sha256": "61cf8e54e99995ed88da1d9abab514d6bab2d9cafe65fc25401e17a3b4ac033f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0421\u042e-GOY.json",
+    "file": "sources/websky/kv-schedule-КСЮ-GOY.json",
     "bytes": 3860,
     "sha256": "518f37ddfdf214c333da839929bad53e8209c06c70082f4a1b72d83795f4a4b7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0421\u042e-\u042e\u041a\u0422.json",
+    "file": "sources/websky/kv-schedule-КСЮ-ЮКТ.json",
     "bytes": 3490,
     "sha256": "f7a559f9abbe841dd84e2abb27a31f40684e822213c0eafc24907fc2d8cd005f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0422\u042b-HTG.json",
+    "file": "sources/websky/kv-schedule-КТЫ-HTG.json",
     "bytes": 5499,
     "sha256": "6b5879a13ea775535fd3e7148ee06b739a66f7d9aa39c547ecf964df0609964f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0422\u042b-\u041d\u0410\u042f.json",
+    "file": "sources/websky/kv-schedule-КТЫ-НАЯ.json",
     "bytes": 5109,
     "sha256": "a581a438b20664f80f0c3069346c3e485025ced7a678da5d5a89b4de244e9dea",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u0422\u042b-\u0425\u042d\u0422.json",
+    "file": "sources/websky/kv-schedule-КТЫ-ХЭТ.json",
     "bytes": 3459,
     "sha256": "e6d348d05669be7162a0e2667ba260666cd6a1d8387fe7d282fc7cfd308749a2",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u042e\u041c-BKA.json",
+    "file": "sources/websky/kv-schedule-КЮМ-BKA.json",
     "bytes": 5503,
     "sha256": "c8a37977197fc86dc1ef4fbe652689395fa13a9ded5fc19132ee0db91e660b55",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u042e\u041c-\u041c\u0413\u0410.json",
+    "file": "sources/websky/kv-schedule-КЮМ-МГА.json",
     "bytes": 5147,
     "sha256": "2634ba5ff98851bc165e9e07e9cac6f0ba95f66f670b951d3bd2bb2374248045",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041a\u042e\u041c-\u041e\u0428\u0410.json",
+    "file": "sources/websky/kv-schedule-КЮМ-ОША.json",
     "bytes": 5153,
     "sha256": "186f8fd10f06e4dea1f9165d191e4a0443aa945b0f198f1356e9ef209951fdb6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0411\u0420-HTG.json",
+    "file": "sources/websky/kv-schedule-МБР-HTG.json",
     "bytes": 11482,
     "sha256": "892d73f100123ccaa21cc7fd658059748109eaeff31559237b2391561b750ddf",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0413\u0410-BKA.json",
+    "file": "sources/websky/kv-schedule-МГА-BKA.json",
     "bytes": 5503,
     "sha256": "b42ffacb48099c4ebdefd16c780a09dedba5c493c456cc80b17e6e55f7bdbb13",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0413\u0410-\u041a\u042e\u041c.json",
+    "file": "sources/websky/kv-schedule-МГА-КЮМ.json",
     "bytes": 5147,
     "sha256": "07ada337271df6e446b9615fe6741b1b658688f54319eac920701b2d2d3b68f5",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0413\u0410-\u041e\u0428\u0410.json",
+    "file": "sources/websky/kv-schedule-МГА-ОША.json",
     "bytes": 5153,
     "sha256": "18c08fa6d15dd5e201a5d409040343d7fccd15985b7e2573bc12b7eb76fda27c",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0420\u0419-VAQ.json",
+    "file": "sources/websky/kv-schedule-МРЙ-VAQ.json",
     "bytes": 5434,
     "sha256": "e606d18c0dc38aa3df861b81871efa87f4153325c362f027d4fa6e3476462371",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0420\u0419-\u041e\u041a\u0411.json",
+    "file": "sources/websky/kv-schedule-МРЙ-ОКБ.json",
     "bytes": 647,
     "sha256": "fff398c943634198b1c65a5cb217f73f73efe18907811617476605f247b4f08b",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041c\u0420\u0419-\u0421\u0427\u0423.json",
+    "file": "sources/websky/kv-schedule-МРЙ-СЧУ.json",
     "bytes": 671,
     "sha256": "5fc8d6a7473856287cd74afa4eee3936ade3dfa10d8fb015918072c3b4fec046",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0410\u042f-HTG.json",
+    "file": "sources/websky/kv-schedule-НАЯ-HTG.json",
     "bytes": 5493,
     "sha256": "bc23aaf48b06f1580b4affa2b15fd204e9c47b5b6999c813830b7da71ee85805",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0410\u042f-\u041a\u0422\u042b.json",
+    "file": "sources/websky/kv-schedule-НАЯ-КТЫ.json",
     "bytes": 5109,
     "sha256": "242e3016541849859efc529dffad296daead4afdfcc714cef3655df1a8464bd7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0410\u042f-\u0425\u042d\u0422.json",
+    "file": "sources/websky/kv-schedule-НАЯ-ХЭТ.json",
     "bytes": 3453,
     "sha256": "18eaca486a1af5a29a4c5f553a3aa423ee7bbccf0caf7c5f49f089ec5d42bf02",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0418\u042b-GOY.json",
+    "file": "sources/websky/kv-schedule-НИЫ-GOY.json",
     "bytes": 5338,
     "sha256": "e439be524249f7ae82aaea279d24b2ac0a0075d5626fd661fed63462cfc49b0e",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0420\u042b-HTG.json",
+    "file": "sources/websky/kv-schedule-НРЫ-HTG.json",
     "bytes": 5740,
     "sha256": "1f3b4c4a3c5af0fe20bf8d78698178c2b2433d7cf5d2aa0cf437405b06587fd7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041d\u0420\u042b-\u0421\u0414\u041d.json",
+    "file": "sources/websky/kv-schedule-НРЫ-СДН.json",
     "bytes": 5363,
     "sha256": "f1af69cf42ac06d1c044c8ddf5556bfe67bd615f7d3639e59e58c158c4c3ddf4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u041a\u0411-VAQ.json",
+    "file": "sources/websky/kv-schedule-ОКБ-VAQ.json",
     "bytes": 5647,
     "sha256": "acc5343ace511cee1b8c34fb48b33ce6388f2b53dc0544d4c76c66ec40124c9a",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u041a\u0411-\u041c\u0420\u0419.json",
+    "file": "sources/websky/kv-schedule-ОКБ-МРЙ.json",
     "bytes": 3342,
     "sha256": "b2f93946fdc27063224e0044a8c2fa830d1f0f50aab79664a625397901318b5c",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u041a\u0411-\u0421\u0427\u0423.json",
+    "file": "sources/websky/kv-schedule-ОКБ-СЧУ.json",
     "bytes": 668,
     "sha256": "5096204e367dd06a9f27fc93bb063686ddf9002a62b5d40737513161ad289b6d",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u0428\u0410-BKA.json",
+    "file": "sources/websky/kv-schedule-ОША-BKA.json",
     "bytes": 5509,
     "sha256": "977a3b4fe3a61d33d41036df6c55e9a759b33eca11e420a33a637b18b3b19bd6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u0428\u0410-\u041a\u042e\u041c.json",
+    "file": "sources/websky/kv-schedule-ОША-КЮМ.json",
     "bytes": 5153,
     "sha256": "02430fdbb76315d3ed85f36f1161f08aa0cc808dba3bbd7b2c151900db8bd73f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041e\u0428\u0410-\u041c\u0413\u0410.json",
+    "file": "sources/websky/kv-schedule-ОША-МГА.json",
     "bytes": 5153,
     "sha256": "556b5e2b97b9609a84b3cfdc1d2f18765bcf53b3591ba02dc1d198bf100ce8b1",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041f\u0413\u0410-HTG.json",
+    "file": "sources/websky/kv-schedule-ПГА-HTG.json",
     "bytes": 5502,
     "sha256": "8aeef4922ea8559277d10ccad9299a80c4790bb1e0d98d5d65f68d29a999bc02",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041f\u0413\u0423-BKA.json",
+    "file": "sources/websky/kv-schedule-ПГУ-BKA.json",
     "bytes": 3851,
     "sha256": "6a4e5dcdf1f90e5c29966492b39b2ee34acc1009a021099d95a3846e100d0131",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041f\u0413\u0423-\u0411\u0423\u042b.json",
+    "file": "sources/websky/kv-schedule-ПГУ-БУЫ.json",
     "bytes": 647,
     "sha256": "315603d6f43b589ab45d01c407a8387808fe471b21b48108e473147141d7be12",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041f\u0413\u0423-\u041a\u0417\u0412.json",
+    "file": "sources/websky/kv-schedule-ПГУ-КЗВ.json",
     "bytes": 656,
     "sha256": "aa86bc54ff3354daaeafd6b200f602a3d828ca63fc7a7b97a678b3147b74c5b6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u041f\u0413\u0423-\u0421\u0410\u0419.json",
+    "file": "sources/websky/kv-schedule-ПГУ-САЙ.json",
     "bytes": 650,
     "sha256": "11633f57264e13b5ee0f868c64755feefd075fefca8158f87c2956cf8e9d92ee",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0410\u0419-BKA.json",
+    "file": "sources/websky/kv-schedule-САЙ-BKA.json",
     "bytes": 5495,
     "sha256": "c160b967735f494b236867b6d9705fe5ec78304693dbe9927caa4b18f745e6a7",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0410\u0419-TGP.json",
+    "file": "sources/websky/kv-schedule-САЙ-TGP.json",
     "bytes": 3965,
     "sha256": "08f07f8102072edef155bfde034cdb55bf83d9129140985124eaf64d4f27f61d",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0410\u0419-\u0411\u0423\u042b.json",
+    "file": "sources/websky/kv-schedule-САЙ-БУЫ.json",
     "bytes": 5132,
     "sha256": "7058d3d951275da46489ba3140e993db656151fba7c7609928a2d3e5aed387c9",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0410\u0419-\u041a\u0417\u0412.json",
+    "file": "sources/websky/kv-schedule-САЙ-КЗВ.json",
     "bytes": 5151,
     "sha256": "4146db635af92843d4af8710060727e60815868bfa4a4bddadf97f1bf597fe78",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0410\u0419-\u041f\u0413\u0423.json",
+    "file": "sources/websky/kv-schedule-САЙ-ПГУ.json",
     "bytes": 650,
     "sha256": "c18423ea170e08d17e64f97ef164435355c6b18619063c0d087ae83374a0f644",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0414\u041d-HTG.json",
+    "file": "sources/websky/kv-schedule-СДН-HTG.json",
     "bytes": 5722,
     "sha256": "5451b31ad35b4f42a3aa7c737aff5a0f69e17bcb19363dbd6c8a90971e480b64",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0414\u041d-\u041d\u0420\u042b.json",
+    "file": "sources/websky/kv-schedule-СДН-НРЫ.json",
     "bytes": 5363,
     "sha256": "82322da1315916059e01a10dfe2dc40525ede4cef9b3cabb8bcbca58b9b2eab6",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0414\u041d-\u041f\u0413\u0410.json",
+    "file": "sources/websky/kv-schedule-СДН-ПГА.json",
     "bytes": 5646,
     "sha256": "8a6ef0f1f6a94218566575eef067701297a6b13988237406e62b4a3f1bbc3465",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0414\u0420-BKA.json",
+    "file": "sources/websky/kv-schedule-СДР-BKA.json",
     "bytes": 3826,
     "sha256": "039ad8beceffb9ad2021cefdb1e2326e649bdee8ac33e448c2d44e93925e5839",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0414\u0420-GOY.json",
+    "file": "sources/websky/kv-schedule-СДР-GOY.json",
     "bytes": 858,
     "sha256": "4e8de83e26533cd8377603f4c7f09051df19e8b3cc4c3a01c076e45ed9ab320d",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0427\u0423-GOY.json",
+    "file": "sources/websky/kv-schedule-СЧУ-GOY.json",
     "bytes": 5877,
     "sha256": "ff1c958d9a0f3c77c02755246eaf7dd93221e867fc2deade9e5f61a14f7541a3",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0421\u0427\u0423-VAQ.json",
+    "file": "sources/websky/kv-schedule-СЧУ-VAQ.json",
     "bytes": 5556,
     "sha256": "947974bfc356ce8758ed7a80fc00183573b293cf36ce18d433993672d1af0046",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0422\u041d\u0427-GOY.json",
+    "file": "sources/websky/kv-schedule-ТНЧ-GOY.json",
     "bytes": 5523,
     "sha256": "9c4367554bb2606c5f0c1362ede5f808282a220a074db0bd13e2515f1feb6d5f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0422\u041d\u0427-\u0423\u041c\u0418.json",
+    "file": "sources/websky/kv-schedule-ТНЧ-УМИ.json",
     "bytes": 5135,
     "sha256": "d7024dd4f185174d57a7316478137fee9c6bc31902047292d6bb74edf5ca2fe8",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0423\u041c\u0418-GOY.json",
+    "file": "sources/websky/kv-schedule-УМИ-GOY.json",
     "bytes": 5499,
     "sha256": "cab7b62b5fff52bfe4790a67c15c0e282594861576e5b8c65843204213452c21",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0423\u041c\u0418-\u0422\u041d\u0427.json",
+    "file": "sources/websky/kv-schedule-УМИ-ТНЧ.json",
     "bytes": 5135,
     "sha256": "eceda52f8f545f27888833b1d4f1cf547f3065c8aea75a4bad5a74f7f2a446ba",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0425\u042d\u0422-HTG.json",
+    "file": "sources/websky/kv-schedule-ХЭТ-HTG.json",
     "bytes": 5486,
     "sha256": "e4b72e95648d9d1bea2918057a3f437c167a117f0b933c6407475191e9238219",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0425\u042d\u0422-\u041a\u0422\u042b.json",
+    "file": "sources/websky/kv-schedule-ХЭТ-КТЫ.json",
     "bytes": 7177,
     "sha256": "28edb621bdaf734af5f4b50018e72f7691fc75fa511aa70b274139f290febe6d",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0425\u042d\u0422-\u041d\u0410\u042f.json",
+    "file": "sources/websky/kv-schedule-ХЭТ-НАЯ.json",
     "bytes": 7171,
     "sha256": "bd60c13aa894db17b73ebb001d695ee8675ab0b472f0561a94ff4f51f4ae066b",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0427\u0415\u041c-VAQ.json",
+    "file": "sources/websky/kv-schedule-ЧЕМ-VAQ.json",
     "bytes": 3806,
     "sha256": "10c11d823164d37bcc619a23e61a1ac6e52d5d861f8e3a32ba860875e803747c",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0427\u0418\u0420-GOY.json",
+    "file": "sources/websky/kv-schedule-ЧИР-GOY.json",
     "bytes": 30539,
     "sha256": "bde649f69a9f7ef17bf9a28824fa4b3d970e14cee04611c3dc5fe0d28acc48f8",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u0427\u0418\u0420-\u0415\u0421\u0418.json",
+    "file": "sources/websky/kv-schedule-ЧИР-ЕСИ.json",
     "bytes": 3469,
     "sha256": "2e56e375ea593e4ac868f34728b37bcc656cc2b445a823988d7080832f556b3b",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u042d\u041a\u041e-GOY.json",
+    "file": "sources/websky/kv-schedule-ЭКО-GOY.json",
     "bytes": 7135,
     "sha256": "48e380151a2b1c69fb38f42cf477d80f00455379596124808014d74f1e13e39f",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u042e\u0416\u0416-DKS.json",
+    "file": "sources/websky/kv-schedule-ЮЖЖ-DKS.json",
     "bytes": 103531,
     "sha256": "bf60d5c5160e95101b6194be15d82c4fea0f9ab3323df6704b19972dc340d9d4",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u042e\u041a\u0422-GOY.json",
+    "file": "sources/websky/kv-schedule-ЮКТ-GOY.json",
     "bytes": 5487,
     "sha256": "b7073f1bca90f1e1f47ed7ae1a65033c77a354fd6560db4e80fc9003f775506e",
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/kv-schedule-\u042e\u041a\u0422-\u041a\u0421\u042e.json",
+    "file": "sources/websky/kv-schedule-ЮКТ-КСЮ.json",
     "bytes": 3466,
     "sha256": "01f6efed4cc01f0d5f1a040169a2b3c3d27655e2d32e735cdc79eae92cb55774",
     "retrievedAt": "2026-11-04"
@@ -7470,7 +7584,7 @@
     "retrievedAt": "2026-11-04"
   },
   {
-    "file": "sources/websky/wz-schedule-RGK-\u0411\u0418\u0425.json",
+    "file": "sources/websky/wz-schedule-RGK-БИХ.json",
     "bytes": 873,
     "sha256": "873daaf9d95127c94a36cbb90a8ed161ecba561f3dd11673263da0af6dbe998b",
     "retrievedAt": "2026-11-04"
