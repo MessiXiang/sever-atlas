@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="#f7f8fa" name="theme-color"/>
+  <meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
+  <link href="assets/penguin-avatar.jpg" rel="icon" type="image/jpeg"/>
+  <title>
+   北境航迹 · Soviet &amp; Russian Aircraft Atlas
+  </title>
+  <link href="assets/leaflet.css" rel="stylesheet"/>
+  <link href="style.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <header class="app-header">
+   <a aria-label="北境航迹首页" class="brand" href="#">
+    <img class="brand-avatar" src="assets/penguin-avatar.jpg" width="44" height="44" alt="企鹅头像"/>
+    <span>
+     <strong>
+      北境航迹
+     </strong>
+     <small>
+      SEVER · FLIGHT ATLAS
+     </small>
+    </span>
+   </a>
+   <nav aria-label="主导航">
+    <button class="nav active" data-view="explore">
+     探索地图
+    </button>
+    <button class="nav" data-view="flights">
+     航班总览
+    </button>
+    <button class="nav" data-view="coverage">
+     收录与来源
+     <span class="nav-dot">
+     </span>
+    </button>
+   </nav>
+   <div class="header-right">
+    <span class="asof">
+     研究快照 · 非完整航网
+     <b>
+      2026.11.04
+     </b>
+    </span>
+    <button class="primary" id="tripButton">
+     我的行程
+     <span id="tripCount">
+      0
+     </span>
+    </button>
+    <button class="appreciation-button" id="appreciationButton" aria-haspopup="dialog" aria-controls="appreciationDialog"><span aria-hidden="true">♡</span> 赞赏</button>
+   </div>
+  </header>
+  <main class="workspace" id="exploreView">
+   <aside class="sidebar">
+    <div class="sidebar-intro">
+     <span class="eyebrow">
+      THE LONG WAY NORTH
+     </span>
+     <h1>
+      去坐一架，
+      <br/>
+      仍在飞的传奇。
+     </h1>
+     <p>
+      从白海之滨，到白令海峡。
+      <br/>
+      寻找苏俄、L-410 与直升机的旅客航班。
+     </p>
+    </div>
+    <div class="search-box">
+     <span aria-hidden="true">
+      ⌕
+     </span>
+     <input aria-label="搜索机场城市航班号" id="search" placeholder="机场、城市、航班号…" type="search"/>
+     <kbd>
+      /
+     </kbd>
+    </div>
+    <div class="filter-label">
+     选择机型
+     <button id="resetFilters">
+      重置
+     </button>
+    </div>
+    <div class="family-filters" id="familyFilters">
+    </div>
+    <p class="filter-hint">每种机型独立筛选；官网标注多种机型时，在各候选型号中显示。Tu-204/214 的具体子型仍以航司确认为准。</p>
+    <div class="filter-grid">
+     <label>
+      航空公司
+      <select id="airlineFilter">
+       <option value="">
+        全部航司
+       </option>
+      </select>
+     </label>
+     <label>
+      出行日期
+      <input aria-label="出行日期" id="dateFilter" type="date"/>
+     </label>
+    </div>
+    <div aria-label="按星期筛选" class="day-filter" id="dayFilter">
+    </div>
+    <label class="toggle-row">
+     <input id="strictFilter" type="checkbox"/>
+     <span>
+      仅看机型明确的班次
+     </span>
+     <span class="help" title="仅保留单一入选机型、官网逐班明确的记录；排除多机型范围和机队推断。">
+      ?
+     </span>
+    </label>
+    <label class="toggle-row">
+     <input id="privateFilter" type="checkbox"/>
+     <span>
+      含散客购票资格待核班次
+     </span>
+    </label>
+    <div class="results-heading">
+     <h2 id="resultTitle">
+      已收录航班
+     </h2>
+     <span id="resultCount">
+      载入中
+     </span>
+    </div>
+    <div hidden="" id="selectedAirport">
+    </div>
+    <div aria-live="polite" class="route-list" id="routeList">
+     <div class="loading">
+      正在读取本地航班数据…
+     </div>
+    </div>
+    <div class="sidebar-bottom">
+     <span class="status-dot">
+     </span>
+     <span>
+      研究快照 · 非完整航网 · 当地时间
+     </span>
+    </div>
+   </aside>
+   <section aria-label="航线交互地图" class="map-section">
+    <div id="map">
+    </div>
+    <div class="map-top">
+     <div class="map-title">
+      <span class="eyebrow">
+       EXPLORE THE NETWORK
+      </span>
+      <h2>
+       每一个小机场，
+       <br/>
+       都有一段值得飞的路。
+      </h2>
+     </div>
+     <div class="region-tabs">
+      <button class="selected" data-region="all">
+       全境
+      </button>
+      <button data-region="west">
+       欧洲北部
+      </button>
+      <button data-region="siberia">
+       西伯利亚
+      </button>
+      <button data-region="yakutia">
+       雅库特
+      </button>
+      <button data-region="east">
+       远东
+      </button>
+     </div>
+    </div>
+    <div class="map-toolbar">
+     <button aria-label="显示全部筛选结果" id="fitMap" title="显示全部筛选结果">
+      ⤢
+     </button>
+     <button aria-label="放大" id="zoomIn" title="放大">
+      ＋
+     </button>
+     <button aria-label="缩小" id="zoomOut" title="缩小">
+      −
+     </button>
+     <button aria-label="显示或隐藏航线" class="selected" id="toggleLines" title="显示或隐藏航线">
+      ⌁
+     </button>
+    </div>
+    <div class="map-bottom">
+     <div class="map-legend">
+      <span>
+       <i class="legend-fixed">
+       </i>
+       固定翼
+      </span>
+      <span>
+       <i class="legend-heli">
+       </i>
+       直升机
+      </span>
+      <span>
+       <i class="legend-uncertain">
+       </i>
+       机型待核
+      </span>
+      <span>
+       <i class="legend-open">
+       </i>
+       参考位置
+      </span>
+     </div>
+     <div class="map-stats" id="mapStats">
+     </div>
+    </div>
+    <div class="map-tip" id="mapTip">
+     悬停机场预览，点击机场筛选航班
+    </div>
+   </section>
+  </main>
+  <section class="page-view" hidden="" id="flightsView">
+   <div class="page-heading">
+    <div>
+     <span class="eyebrow">
+      THE FLIGHT DIRECTORY
+     </span>
+     <h1>
+      航班总览
+     </h1>
+     <p>
+      与地图共用筛选条件。点击一行查看班期、有效期和官方来源。
+     </p>
+    </div>
+    <button class="secondary" id="exportAll">
+     导出筛选结果 CSV ↗
+    </button>
+   </div>
+   <div class="table-wrap">
+    <table>
+     <thead>
+      <tr>
+       <th>
+        航班 / 航司
+       </th>
+       <th>
+        航线
+       </th>
+       <th>
+        机型
+       </th>
+       <th>
+        当地时间
+       </th>
+       <th>
+        班期
+       </th>
+       <th>
+        有效期 / 证据
+       </th>
+       <th>
+       </th>
+      </tr>
+     </thead>
+     <tbody id="flightTable">
+     </tbody>
+    </table>
+   </div>
+   <p class="muted" id="tableCount">
+   </p>
+  </section>
+  <section class="page-view" hidden="" id="coverageView">
+   <div class="page-heading">
+    <div>
+     <span class="eyebrow">
+      SOURCES, NOT GUESSWORK
+     </span>
+     <h1>
+      每条记录，都有出处。
+     </h1>
+     <p>
+      俄文维基建立航司核查清单；航班信息以航司官网为准。尚未确认的内容保持可见。
+     </p>
+    </div>
+    <a class="secondary" download="" href="data/coverage.json">
+     完整核查清单 ↓
+    </a>
+   </div>
+   <div class="coverage-summary" id="coverageSummary">
+   </div>
+   <div class="coverage-notice">
+    <strong>
+     收录范围与完成度
+    </strong>
+    <p id="scopeText">
+    </p>
+   </div>
+   <div class="coverage-controls">
+    <input aria-label="搜索航司核查清单" id="coverageSearch" placeholder="搜索俄文航司名称…" type="search"/>
+    <label>
+     <input id="coverageAll" type="checkbox"/>
+     显示全部名录（含作业 / 通航）
+    </label>
+   </div>
+   <div id="coverageList">
+   </div>
+   <div class="methodology">
+    <h2>
+     怎样阅读这些数据
+    </h2>
+    <div>
+     <article>
+      <h3>
+       日期优先于星期
+      </h3>
+      <p>
+       部分偏远航点每月仅飞几天。指定日期按官网原表记录，不能推演为每周固定班次。过期记录不会出现在默认地图中。
+      </p>
+     </article>
+     <article>
+      <h3>
+       航线不等于直飞
+      </h3>
+      <p>
+       同航班号可能有多个经停点。地图连线表示官网可查询的起终点，详情保留经停与整条航路说明。
+      </p>
+     </article>
+     <article>
+      <h3>
+       体验范围
+      </h3>
+      <p>
+       包含苏联及俄罗斯设计的民用机型，也包含安东诺夫系列与 SSJ。排除 Boeing、Airbus、ATR、DHC、CRJ、Embraer、Cessna 和捷克设计的 L-410；军用、货运和无公开时刻的包机单列。
+      </p>
+     </article>
+     <article>
+      <h3>
+       行程时间
+      </h3>
+      <p>
+       全部时刻按来源原样保存，机场时区用于跨区换算。仅当日期、机型和时间依据足够清晰时，才适合进一步核实订票与衔接。
+      </p>
+     </article>
+    </div>
+   </div>
+   <footer>
+    <a href="https://ru.wikipedia.org/wiki/Список_действующих_авиакомпаний_России" rel="noopener" target="_blank">
+     俄文维基 · 航司名录 ↗
+    </a>
+    <span>
+     底图 Natural Earth / OpenStreetMap · 机场坐标 OurAirports
+    </span>
+   </footer>
+  </section>
+  <dialog id="flightDialog">
+   <button aria-label="关闭详情" class="dialog-close">
+    ×
+   </button>
+   <div id="flightDetail">
+   </div>
+  </dialog>
+  <dialog id="tripDialog">
+   <button aria-label="关闭行程" class="dialog-close">
+    ×
+   </button>
+   <div class="trip-heading">
+    <span class="eyebrow">
+     YOUR FLIGHT NOTEBOOK
+    </span>
+    <h2>
+     我的飞行计划
+    </h2>
+    <p>
+     保存想坐的航班，选择日期，再检查机场与时间衔接。
+    </p>
+   </div>
+   <div id="tripList">
+   </div>
+   <div class="trip-actions">
+    <button class="primary" id="exportTrip">
+     导出行程 CSV
+    </button>
+    <button class="secondary" id="clearTrip">
+     清空行程
+    </button>
+   </div>
+  </dialog>
+  <dialog id="appreciationDialog" aria-labelledby="appreciationTitle" aria-describedby="appreciationDescription">
+   <button aria-label="关闭赞赏二维码" class="dialog-close" autofocus>×</button>
+   <span class="eyebrow">THANK YOU FOR THE NEXT FLIGHT</span>
+   <h2 id="appreciationTitle">喜欢这份航迹？</h2>
+   <p id="appreciationDescription">谢谢你支持航线整理与网站维护。<br/>扫码赞赏，随心就好。</p>
+   <img class="appreciation-qr" src="assets/appreciation-qr.jpg" width="1152" height="1152" alt="站长提供的赞赏二维码，使用支付应用扫码赞赏" loading="lazy"/>
+   <small class="appreciation-caption">愿我们都能坐上想坐的那一班。</small>
+  </dialog>
+  <div id="toast" role="status">
+  </div>
+  <script src="assets/leaflet.js">
+  </script>
+  <script src="data/geography.js">
+  </script>
+  <script src="data/flights.js">
+  </script>
+  <script src="app.js">
+  </script>
+ </body>
+</html>

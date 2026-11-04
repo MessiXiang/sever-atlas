@@ -1,0 +1,47 @@
+query Locations($parameters: LocationSuggestionsParameters) {
+  LocationSuggestions(parameters: $parameters) {
+    ...LocationSuggestionGroup
+    __typename
+  }
+}
+
+fragment LocationSuggestionGroup on LocationGroup {
+  type
+  country {
+    name
+    __typename
+  }
+  cities {
+    ...LocationSuggestion
+    __typename
+  }
+  __typename
+}
+
+fragment LocationSuggestion on LocationInLocationGroup {
+  iata
+  name
+  stopPointsCount
+  match {
+    type
+    iata
+    distance
+    name
+    __typename
+  }
+  country {
+    name
+    __typename
+  }
+  codes {
+    ...LocationCode
+    __typename
+  }
+  __typename
+}
+
+fragment LocationCode on LocationCode {
+  code
+  supplier
+  __typename
+}

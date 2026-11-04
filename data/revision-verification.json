@@ -1,0 +1,28 @@
+{
+  "testedAt": "2026-11-04",
+  "counts": {
+    "An-2": 61,
+    "An-24": 307,
+    "An-26": 131,
+    "An-28": 13,
+    "An-38": 1,
+    "Yak-40": 72,
+    "Yak-42": 23,
+    "Tu-204": 31,
+    "Tu-214": 31,
+    "Mi-8": 325,
+    "L-410": 19,
+    "SSJ100": 1020
+  },
+  "checks": [
+    "exact-model-buttons",
+    "exact-model-filter-results",
+    "combined-TU-evidence",
+    "strict-model-filter",
+    "L410-included",
+    "Izhavia-official-closure",
+    "old-heli-URL-migration",
+    "mobile-filter-layout"
+  ],
+  "errors": []
+}

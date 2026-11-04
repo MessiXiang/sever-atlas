@@ -1,0 +1,50 @@
+{
+  "testedAt": "2026-11-04",
+  "checks": [
+    "Nyagan-IATA-USHN",
+    "Burny-Evenki-not-ULSJ",
+    "KV783-784-20-OD-records",
+    "official-segment-times",
+    "source-links",
+    "avatar",
+    "appreciation-open-close-Escape-backdrop-focus",
+    "saved-trip-id-migration",
+    "old-airport-url-migration",
+    "responsive320-390-768-1024"
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "left": 17,
+      "right": 303,
+      "top": 179.3778839111328,
+      "bottom": 668.7372589111328,
+      "height": 844
+    },
+    {
+      "width": 390,
+      "left": 17,
+      "right": 373,
+      "top": 153.98377990722656,
+      "bottom": 699.3431549072266,
+      "height": 844
+    },
+    {
+      "width": 768,
+      "left": 174,
+      "right": 594,
+      "top": 121.98485565185547,
+      "bottom": 731.3442306518555,
+      "height": 844
+    },
+    {
+      "width": 1024,
+      "left": 302,
+      "right": 722,
+      "top": 121.98241424560547,
+      "bottom": 731.3417892456055,
+      "height": 844
+    }
+  ],
+  "errors": []
+}

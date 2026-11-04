@@ -1,0 +1,930 @@
+<!DOCTYPE html><html lang="ru" class="theme-custom"><head><title>Расписание полётов</title><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="keywords" content="Расписание полётов"><meta name="description" content="Движения воздушных судов АО «Авиакомпания Тайга»"><meta name="theme-color" content="#012e24"><link rel="stylesheet" href="/wa-data/public/site/themes/starter/css/bootstrap.min.css"><link rel="stylesheet" href="/wa-data/public/site/themes/starter/css/font-icons.min.css"><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/><link rel="stylesheet" href="/wa-data/public/site/themes/starter/css/starter.min.css?1.0.2.251"><style>.theme-custom:root {--main-color: #024638;--secondary-color: #012e24;--heading-color: #024638;--text-color: #024638;--bg-light: #f7f9fa;--border-color: #e8eced;--border-color-dark: #313131;--font-primary: Inter;--font-secondary: Inter;/* Header */--nav-font-size: 15px;--header-nav-color: #024638;--header-nav-color-active: #0ca082;/* Hero */--hero-bg: #f5f5f5;--hero-bg-image: url("../img/hero/bg.png?v1609069302?1.0.2.251");--hero-bg-position: center;--hero-title-color: #024638;--hero-subtitle-color: #024638;/* Features */--features-title-color: #024638;--features-subtitle-color: #024638;--features-bg: #f1e6b2;--features-padding: 100px 0;/* Promo */--promo-title-color: #024638;--promo-subtitle-color: #024638;--promo-bg: #f5f5f5;--promo-padding: 60px 0;/* Testimonials */--testimonials-title-color: #024638;--testimonials-subtitle-color: #ffffff;--testimonials-padding: 100px 0;/* Partners */--partners-title-color: #024638;--partners-subtitle-color: #024638;--cta-title-color: #024638;}.btn--color {box-shadow: 0 5px 15px rgba(2, 70, 56, .25);}.btn--color:hover {box-shadow: 0 5px 15px rgba(2, 70, 56, .5);}.bg-gradient:before {background: linear-gradient(to top,var(--main-color) 0,var(--secondary-color) 100%);}</style><link rel="shortcut icon" href="/favicons/favicon.png"><link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png"> <link rel="preconnect" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" rel="stylesheet"><link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon"><link rel="icon" sizes="16x16" href="/favicons/favicon-16x16.png" type="image/png"><link rel="icon" sizes="32x32" href="/favicons/favicon-32x32.png" type="image/png"><link rel="apple-touch-icon-precomposed" href="/favicons/apple-touch-icon-precomposed.png"><link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="167x167" href="/favicons/apple-touch-icon-167x167.png"><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png"><link rel="apple-touch-icon" sizes="1024x1024" href="/favicons/apple-touch-icon-1024x1024.png"><script src="https://code.jquery.com/jquery-1.12.4.min.js"></script><link rel="stylesheet" href="/wa-data/public/site/bvi/css/bvi.min.css" type="text/css"><link rel="stylesheet" href="/wa-data/public/site/datepicker/datepicker.css" type="text/css"><script src="/wa-data/public/site/datepicker/datepicker.js"></script><script src="/wa-data/public/site/bvi/js/bvi.min.js"></script><script type="text/javascript">$(function(){$('.minimized').click(function(event) {var i_path = $(this).attr('src');$('body').append('<div id="overlay"></div><div id="magnify"><img src="'+i_path+'"><div id="close-popup"><i></i></div></div>');$('#magnify').css({left: ($(document).width() - $('#magnify').outerWidth())/2,top: ($(window).height() - $('#magnify').outerHeight())/2});$('#overlay, #magnify').fadeIn('fast');});$('body').on('click', '#close-popup, #overlay', function(event) {event.preventDefault();$('#overlay, #magnify').fadeOut('fast', function() {$('#close-popup, #magnify, #overlay').remove();});});});function track() {if ( document.getElementById("date[1]").value == null ) {document.getElementById("segmentsCount").value=1;} else {document.getElementById("segmentsCount").value=2;}};function fly() {if ( document.getElementById('origin-city-code[0]').value=="") {document.getElementById('pusto').style.display="block";} else {document.getElementById('pusto').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="UUS") {document.getElementById('UUS').style.display="block";} else {document.getElementById('UUS').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="EKS") {document.getElementById('EKS').style.display="block";} else {document.getElementById('EKS').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="UHS") {document.getElementById('UHS').style.display="block";} else {document.getElementById('UHS').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="ZZO") {document.getElementById('ZZO').style.display="block";} else {document.getElementById('ZZO').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="NGK") {document.getElementById('NGK').style.display="block";} else {document.getElementById('NGK').style.display="none";}if ( document.getElementById('origin-city-code[0]').value=="DEE") {document.getElementById('DEE').style.display="block";} else {document.getElementById('DEE').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="КБЗ") {document.getElementById('КБЗ').style.display="block";} else {document.getElementById('КБЗ').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="GVN") {document.getElementById('GVN').style.display="block";} else {document.getElementById('GVN').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="PKC") {document.getElementById('PKC').style.display="block";} else {document.getElementById('PKC').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="СКР") {document.getElementById('СКР').style.display="block";} else {document.getElementById('СКР').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="ПАЙ") {document.getElementById('ПАЙ').style.display="block";} else {document.getElementById('ПАЙ').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="СМХ") {document.getElementById('СМХ').style.display="block";} else {document.getElementById('СМХ').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="KHV") {document.getElementById('KHV').style.display="block";} else {document.getElementById('KHV').style.display="none";}if (document.getElementById('origin-city-code[0]').value=="АУР") {document.getElementById('АУР').style.display="block";} else {document.getElementById('АУР').style.display="none";}};</script>
+
+<link rel="icon" href="/favicon.ico?v=1603074951" type="image/x-icon" /><link rel="apple-touch-icon" href="/apple-touch-icon.png?v=1603074647" /><script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(74331379, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+</head><body style="font-family: 'Inter';font-weight: 300;"><div class="loader-mask"><div class="loader">"Loading..."</div></div><main class="main-wrapper"><header class="nav"><div class="nav__holder nav--sticky"><div class="fluid container-semi-fluid nav__container"><div class="flex-parent"><div class="nav__header mr-auto"><a href="/" class="logo-container flex-child"><img class="logo"src="/wa-data/public/site/themes/starter/img/logo.png?v1608669035"  width="180" alt="Taiga"></a><button type="button" class="nav__icon-toggle" id="nav__icon-toggle" data-toggle="collapse"data-target="#navbar-collapse"><span class="sr-only">Меню</span><span class="nav__icon-toggle-bar"></span><span class="nav__icon-toggle-bar"></span><span class="nav__icon-toggle-bar"></span></button></div><nav id="navbar-collapse"class="nav__wrap collapse navbar-collapse justify-content-end"><ul class="nav__menu"><li></li><li class="nav__dropdown"><a href="#" class="noa">Единый контакт-центр</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="tel:+74242300006" class="noa">Южно-Сахалинск: +7 (4242) 300-006</a></li><li><a href="tel:+74212470088" class="noa">Хабаровск: +7 (4212) 470-088</a></li><li><a href="tel:+74232787888" class="noa">Владивосток: +7 (4232) 787-888</a></li><li><a href="tel:+79147567982" class="noa">Николаевск-на-Амуре +7 (914) 756-79-82</a></li></ul></li><li class="nav__dropdown"><a href="#" class="noa">О нас</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/o-nas/istoriya-kompanii/" >О компании</a></li><li class="nav__dropdown"><a href="/o-nas/priorities/" >Приоритеты</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/o-nas/priorities/predostavleniya-informatsii/" >Предоставление информации</a></li><li><a href="/o-nas/priorities/kodeks-delovoy-etiki/" >Кодекс деловой этики</a></li><li><a href="/o-nas/priorities/bezopasnost-polyotov/" >Безопасность полётов​</a></li><li><a href="/o-nas/priorities/policy-personal-data/" >Персональные данные</a></li><li><a href="/o-nas/priorities/okhrana-truda/" >Охрана труда</a></li></ul></li><li><a href="/o-nas/park-vs/" >Парк ВС​</a></li><li><a href="/o-nas/sertifikaty-i-litsenzii/" >Сертификаты и лицензии</a></li><li class="nav__dropdown"><a href="/o-nas/trudoustroystvo/" >Трудоустройство</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/o-nas/trudoustroystvo/tselevoe-obuchenie/" >Целевое обучение</a></li></ul></li><li class="nav__dropdown"><a href="/o-nas/inye-svedeniya/" >Иные сведения</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/o-nas/inye-svedeniya/sout/" >Специальная оценка условий труда</a></li><li><a href="/o-nas/inye-svedeniya/svedeniya-o-strakhovshchikakh/" >Сведения о Страховщиках</a></li><li><a href="/o-nas/inye-svedeniya/covid-19/" style="color: red;">COVID-19</a></li></ul></li><li><a href="/o-nas/contacts/" >Контакты</a></li><li class="nav__dropdown"><a href="#" class="noa">Животные тайги</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/o-nas/zhivotnye-taygi-2026/tayga-v-raznye-vremena-goda/" >Северный олень</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/belka/" >Белка</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/lisitsa/" >Лисица</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/buryy-medved/" >Бурый медведь</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/volk/" >Волк</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/sakhalinskiy-taymen/" >Сахалинский таймень</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/belyy-medved/" >Белый медведь</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/los/" >Лось</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/tigr/" >Амурский тигр</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/rys/" >Рысь</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/manchzhurskiy-zayats/" >Маньчжурский заяц</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/rybnyy-filin/" >Рыбный филин</a></li></ul></li></ul></li><li class="nav__dropdown"><a href="#" class="noa">Услуги</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li><a href="/uslugi/kommercheskie-perevozki/" >Чартерные перевозки</a></li><li><a href="/uslugi/aviatsionnye-raboty/" >Авиационные работы</a></li><li><a href="/uslugi/obsluzhivanie-vs/" >Обслуживание ВС</a></li><li><a href="/uslugi/obsluzhivanie-spasatelnykh-sredstv" >Обслуживание спасательных средств</a></li></ul></li><li class="nav__dropdown active"><a href="#" class="noa">Пассажирам</a><i class="ui-arrow-down nav__dropdown-trigger"></i><ul class="nav__dropdown-menu"><li class="active"><a href="/passazhiram/raspisanie-polyotov/" >Расписание полётов</a></li><li><a href="/passazhiram/aviabilety-dlya-zhiteley-sakhalinskoy-oblasti/" >Авиабилеты по спецтарифу</a></li><li><a href="/passazhiram/subsidirovannye-perevozki/" >Субсидированные перевозки</a></li><li><a href="/passazhiram/pokupka-biletov/" >Покупка билетов</a></li><li><a href="/passazhiram/pravila-perevoz/" >Правила перевозок</a></li><li><a href="/passazhiram/spravki/" >Справки</a></li><li><a href="/passazhiram/sendform/" >Задать вопрос</a></li></ul></li><li class="nav__dropdown"><ul class="nav__dropdown-menu"><li><a href="/news/turnir-kak-shkola-kharaktera-itogi-shakhmatnogo-dnya-25102026/" >Турнир как школа характера: итоги шахматного дня 25.10.2026</a></li><li><a href="/news/otkrytie-prodazh-do-kontsa-2026-goda/" >Открытие продаж до конца 2026 года</a></li><li><a href="/news/segodnya-osobennyy-den--den-rozhdeniya-ao-aviakompaniya-tayga/" >Сегодня особенный день — день рождения АО «Авиакомпания Тайга»!</a></li><li><a href="/news/aviakompaniya-tayga-poluchila-pochetnuyu-nagradu--znak-dobrovoletsrf-dobrovolets-sakhalinskoy-oblasti/" >«Авиакомпания Тайга» получила почетную награду — знак «Доброволец.РФ» (Доброволец Сахалинской области)</a></li><li><a href="/news/novaya-tochka-na-karte-aviakompaniya-tayga-otkryla-regulyarnye-reysy-v-selo-susanino/" >Новая точка на карте: «Авиакомпания Тайга» открыла регулярные рейсы в село Сусанино</a></li><li><a href="/news/rasshiryeniye-syeti-aviasoobshchyeniya-v-khabarovskom-kraye/" >РАСШИРЕНИЕ СЕТИ АВИАСООБЩЕНИЯ В ХАБАРОВСКОМ КРАЕ</a></li><li><a href="/news/start-prodazh-na-osenne-zimniy-period-2026-goda/" >Старт продаж на осенне-зимний период 2026 года</a></li><li><a href="/news/aviakompaniya-tayga-pozdravila-veteranov-s-3-sentyabrya/" >«Авиакомпания Тайга» поздравила ветеранов с 3 сентября</a></li><li><a href="/news/kollektiv-aviakompanii-tayga-pozdravlyaet-vas-s-1-sentyabrya/" >Коллектив авиакомпании «Тайга» поздравляет вас с 1 сентября</a></li><li><a href="/news/priznanie-professionalizma-sotrudniki-ao-aviakompaniya-tayga-otmecheny-vysokimi-nagradami/" >Признание профессионализма: сотрудники АО «Авиакомпания Тайга» отмечены высокими наградами</a></li><li><a href="/news/ot-veteranov-do-molodykh/" >От ветеранов до молодых</a></li><li><a href="/news/den-vozdushnogo-flota-rossii/" >День Воздушного флота России</a></li><li><a href="/news/90-let-besposadochnomu-pereletu-moskva-dalniy-vostok/" >90 лет беспосадочному перелету Москва-Дальний восток</a></li><li><a href="/news/s-dnyom-semi-lyubvi-i-vernosti/" >С Днём семьи, любви и верности!</a></li><li><a href="/news/forum-zakonchilsya-no-obsuzhdeniya-ne-zamolkayut/" >Форум закончился, но обсуждения не замолкают</a></li><li><a href="/news/sotrudniki-aviakompaniya-tayga-uchastvuyut-v-mezhdunarodnom-forume-bespilotnykh-apparatov-vsekh-sred-krylya-sakhalina/" >Сотрудники Авиакомпания Тайга участвуют в Международном форуме беспилотных аппаратов всех сред «Крылья Сахалина»</a></li><li><a href="/news/ao-aviakompaniya-tayga-v-znak-uvazheniya-k-istorii-i-traditsiyam--pozdravlenie-yevgenii-semenovne-sakharuk/" >АО «Авиакомпания Тайга»: В знак уважения к истории и традициям – поздравление Евгении Семеновне Сахарук</a></li><li><a href="/news/85-let-nachalo-VOV/" >В этом году — 85 лет со дня начала Великой Отечественной войны</a></li><li><a href="/news/ao-aviakompaniya-tayga-vash-komfort--nash-prioritet-yedinyy-kontakt-tsentr-dlya-udobstva-passazhirov/" >АО «Авиакомпания Тайга»: Ваш Комфорт – Наш Приоритет. Единый Контакт-Центр для Удобства Пассажиров</a></li><li><a href="/news/otkroyte-dlya-sebya-aleksandrovsk-sakhalinskiy/" >Откройте для себя Александровск-Сахалинский</a></li><li><a href="/news/pokoryaya-vershiny-i-serdtsa/" >Покоряя вершины и сердца</a></li><li><a href="/news/aviakompaniya-tayga-pozdravila-veterana-leontiya-braslavskogo/" >Авиакомпания &quot;Тайга&quot; Поздравила Ветерана Леонтия Браславского</a></li><li><a href="/news/ao-aviakompaniya-tayga-pozdravlyaet-s-mezhdunarodnym-dnem-zashchity-detey/" >АО &quot;Авиакомпания Тайга&quot; поздравляет с Международным днем защиты детей!</a></li><li><a href="/news/sakhalinskiye-kanikuly-otkroyte-dlya-sebya-shakhtyorsk--zhemchuzhinu-tatarskogo-proliva/" >САХАЛИНСКИЕ КАНИКУЛЫ: Откройте для себя Шахтёрск – жемчужину Татарского пролива!</a></li><li><a href="/news/pozdravlyaet-zamechatelnym-poistine-vekovym-yubileem--104-letiem/" >Поздравляем с замечательным, поистине вековым юбилеем – 104-летием!</a></li><li><a href="/news/v-sele-peschanskom-bpla-zafiksirovali-ochag-vozgoraniya/" >В селе Песчанском БПЛА зафиксировали очаг возгорания</a></li><li><a href="/news/ostorozhno-ekstremistskaya-agitatsiya-i-ugroza-teraktov/" >Осторожно: Экстремистская агитация и угроза терактов</a></li><li><a href="/news/aviakompaniya-tayga-otmechena-za-vklad-v-natsionalnom-proekte-kadry/" >Авиакомпания &quot;Тайга&quot; отмечена за вклад в национальном проекте &quot;Кадры&quot;</a></li><li><a href="/news/podvig-kotoryy-pomnim-aviakompaniya-tayga-vyrazhaet-blagodarnost-veteranam/" >Подвиг, который помним: Авиакомпания «Тайга» выражает благодарность ветеранам</a></li><li><a href="/news/kommentarii-aviakompanii-tayga-po-situatsii-s-otmenoy-reysa/" >Комментарии Авиакомпании &quot;Тайга&quot; по ситуации с отменой рейса Петропавловск-Камчатский — Северо-Курильск</a></li><li><a href="/news/lgotnye-tarify-na-mayskie/" >Льготные тарифы на майские</a></li><li><a href="/news/dorogie-veterany-velikoy-otechestvennoy-voyny/" >Дорогие ветераны Великой Отечественной войны!</a></li><li><a href="/news/tayga-vsegda-s-vami-na-svyazi-teper-i-v-makh-/" >«ТАЙГА» всегда с вами на связи, теперь и в МАКС! </a></li><li><a href="/news/nedelya-na-ostrovakh/" >Неделя на островах</a></li><li><a href="/news/antiteror/" >Антитерор</a></li><li><a href="/news/nachalo-prodazh-aviabiletov-mezhdu-kunashirovm-i-shikotanom/" >Начало продаж авиабилетов между Кунаширом и Шикотаном</a></li><li><a href="/news/start-prodazh-aviabiletov-na-period-oletney-navigatsii/" >Старт продаж авиабилетов на период летней навигации</a></li><li><a href="/news/programma-lgotnykh-tarifov/" >Программа льготных тарифов</a></li><li><a href="/news/o-poryadkye-priobryetyeniya-aviabilyetov-po-spyetsialnomu-tarifu-dlya-zhityelyey-sakhalinskoy-oblasti/" >О порядке приобретения авиабилетов по специальному тарифу для жителей Сахалинской области</a></li><li><a href="/news/15-fevralya-aviakompaniya-tayga-vypolnila-reys-v-ramkakh-programmy-subsidirovannykh-perevozok/" >15 февраля Авиакомпания «Тайга» выполнила рейс в рамках программы субсидированных перевозок</a></li><li><a href="/news/start-prodazh-na-zimniy-period-2026-goda/" >Старт продаж на зимний период 2026 года</a></li><li><a href="/news/cn/" >Старт продаж на новое направление</a></li><li><a href="/news/novye-aviamarshruty-v-khabarovskom-krae/" >Новые авиамаршруты в Хабаровском крае</a></li><li><a href="/news/otkrytie-prodazh-aviabiletov-na-sotsialno-znachimye-reysy-do-kontsa-2025-goda/" >Открытие продаж авиабилетов на социально-значимые рейсы до конца 2025 года</a></li><li><a href="/news/start-prodazh-na-osenne-zimniy-period-2025-goda/" >Старт продаж на осенне-зимний период 2025 года</a></li><li><a href="/news/desyat-novykh-mi-8mtv-1--v-nebo-regionov/" >Десять новых Ми-8МТВ-1 — в небо регионов!</a></li><li><a href="/news/dopolnitelnyy-reys-iz-krabozavodskogo2/" >Дополнительный рейс из Крабозаводского</a></li><li><a href="/news/programma-dolgosrochnykh-sberezheniy/" >Программа долгосрочных сбережений</a></li><li><a href="/news/golosovanie-za-vazhnoe-dlya-ulitsy-dvora-strany/" >Делаем город комфортнее</a></li><li><a href="/news/-ao-aviakompaniya-tayga-posetila-zasedanie-kollegii-regionalnogo-agentstva-po-trudu-i-zanyatosti-naseleniya/" >Авиакомпания Тайга посетила заседание коллегии регионального агентства по труду и занятости населения</a></li><li><a href="/news/start-prodazh-na-vesenne-letniy-period-2025-goda/" >Старт продаж на весенне-летний период 2025 года</a></li><li><a href="/news/prodazha-aviabiletov-Shikotan-Kunashir/" >Открыта продажа авиабилетов между Шикотаном и Кунаширом</a></li><li><a href="/news/nye-day-syebya-obvyesti-minfin-rossii-i-proekt-moi-finansy-vypustili-sotsialnyy-rolik-o-telefonnykh-moshennikakh-/" >НЕ ДАЙ СЕБЯ ОБВЕСТИ: Минфин России и проект «Мои финансы» выпустили социальный ролик о телефонных мошенниках </a></li><li><a href="/news/god-zashchitnika-otechestva/" >2025 год объявлен Годом защитника Отечества! </a></li><li><a href="/news/start-prodazh-na-zimniy-period-2025-goda/" >Старт продаж на зимний период 2025 года</a></li><li><a href="/news/start-prodazh-na-mezhregionalnye-aviaperevozki/" >Старт продаж на межрегиональные авиаперевозки</a></li><li><a href="/news/dopolnitelnyy-reys-iz-krabozavodskogo/" >Дополнительный рейс из Крабозаводского</a></li><li><a href="/news/otkryta-prodazha-aviabiletov-na-dopolnitelnye-reysy-vypolnyaemye-v-dekabre-mezhdu-shikotanom-i-kunashirom/" >Открыта продажа авиабилетов на дополнительные рейсы, выполняемые в декабре между Шикотаном и Кунаширом</a></li><li><a href="/news/otkryta-prodazha-aviabiletov-mezhdu-shikotanom-i-kunashirom/" >Открыта продажа авиабилетов между Шикотаном и Кунаширом</a></li><li><a href="/news/aviakompaniya-tayga-otkryla-prodazhu-subsidirovannykh-aviabiletov-na-osenne-zimniy-period-2024-goda/" >Открыта продажа субсидированных авиабилетов на осенне-зимний период 2024 года</a></li><li><a href="/news/aviakompaniya-tayga-otkryla-prodazhu-aviabiletov-po-vnutrioblastnym-sotsialno-znachimym-napravleniyam-na-osenne-zimniy-sezon-navigatsii/" >Авиакомпания Тайга открыла продажу авиабилетов по внутриобластным социально значимым направлениям на осенне-зимний сезон навигации</a></li><li><a href="/news/aviakompaniya-tayga-vvodit-v-raspisanie-dopolnitelnye-reysy-po-sotsialno-znachimym-marshrutam/" >Авиакомпания Тайга вводит в расписание дополнительные рейсы по социально значимым маршрутам</a></li><li><a href="/news/dopolnitelnym-reysam-byt/" >Дополнительным рейсам быть!</a></li><li><a href="/news/itogi-1-go-polugodiya-2024-goda/" >Итоги 1-го полугодия 2024 года</a></li><li><a href="/news/ao-aviakompaniya-tayga-vypolnit-dopolnitelnyy-reys-iz-yuzhno-sakhalinska-v-aleksandrovsk-sakhalinskiy-i-obratno-16-iyunya-2024-goda-/" >АО «Авиакомпания Тайга» выполнит дополнительный рейс из Южно-Сахалинска в Александровск-Сахалинский и обратно 16 июня 2024 года </a></li><li><a href="/news/bazovye-pravila-informatsionnoy-bezopasnosti/" >Базовые правила информационной безопасности</a></li><li><a href="/news/pozdravlyaem-sotrudnikov-pogranichnykh-voysk-s-professionalnym-prazdnikom/" >Поздравляем сотрудников пограничных войск с профессиональным праздником!</a></li><li><a href="/news/kak-ne-stat-zhertvoy-moshennikov/" >Как не стать жертвой мошенников?</a></li><li><a href="/news/itogi-raboty-za-1-kvartal-2024-goda/" >Итоги работы за 1 квартал 2024 года</a></li><li><a href="/news/my-protiv-terrorizma/" >Мы против терроризма</a></li><li><a href="/news/tayga-perekhodit-na-letnee-raspisanie-polyotov/" >«Тайга» переходит на весенне-летнее расписание</a></li><li><a href="/news/ne-stareyut-dushoy-veterany/" >Не стареют душой ветераны</a></li><li><a href="/news/otkryta-prodazha-subsidirovannykh-aviabiletov-na-vesenne-letniy-period-2024-goda/" >Открыта продажа субсидированных авиабилетов на весенне-летний период 2024 года</a></li><li><a href="/news/uvelichenie-chastoty-poletov-shikotan-kunashir-shikotan/" >Увеличение частоты полетов Шикотан-Кунашир-Шикотан</a></li><li><a href="/news/uvelichenie-chastoty-poletov-v-aleksandrovsk-sakhalinskiy/" >Увеличение частоты полетов в Александровск-Сахалинский</a></li><li><a href="/news/otkryta-prodazha-subsidirovannyy-biletov-na-yanvar-mart-2024-goda/" >Открыта продажа субсидированных билетов на январь-март 2024 года</a></li><li><a href="/news/strategicheskaya-sessiya-edinoy-dalnevostochnoy-aviakompanii-vazhnye-dostizheniya-i-dalneyshie-perspektivy/" >Стратегическая сессия единой дальневосточной авиакомпании: важные достижения и дальнейшие перспективы</a></li><li><a href="/news/rasshirenie-marshrutnoy-seti/" >Расширение маршрутной сети</a></li><li><a href="/news/o-profilaktike-i-lechenii-orvi/" >О профилактике и лечении ОРВИ</a></li><li><a href="/news/tayga-perekhodit-na-zimnee-raspisanie/" >«Тайга» переходит на зимнее расписание</a></li><li><a href="/news/itogi-raboty-za-tretiy-kvartal-2023-goda/" >Итоги работы за третий квартал 2023 года</a></li><li><a href="/news/start-prodazh-na-osenne-zimniy-period/" >Старт продаж на осенне-зимний период</a></li><li><a href="/news/komandir-vozdushnogo-sudna/" >Кто главный в вертолете?</a></li><li><a href="/news/otkrytie-novogo-avianapravleniya/" >Продолжаем соединять регионы</a></li><li><a href="/news/vertoletnye-tury-po-ostrovu-sakhalin/" >Вертолетные туры по острову Сахалин</a></li><li><a href="/news/izmeneniya-v-raspisanii-reysov-v-pgt-shakhtyorsk-i-obratno/" >Изменения в летнем расписании на Шахтёрск и обратно</a></li><li><a href="/news/102-goda--/" >102 года  – не предел!</a></li><li><a href="/news/avrora-provodit-aktsiyu-posvyashchennuyu-78-letiyu-pobedy-v-velikoy-otechestvennoy-voyne/" >«Аврора» проводит акцию к 78-летию Победы в Великой Отечественной войне</a></li><li><a href="/news/100-let--slavnyy-bolshoy-yubiley-/" >100 лет – славный, большой юбилей! </a></li><li><a href="/news/itogi-raboty-za-pervyy-kvartal-2023-goda/" >Итоги работы за первый квартал 2023 года</a></li><li><a href="/news/energosberezhenie--obraz-zhizni/" >Энергосбережение – образ жизни</a></li><li><a href="/news/kazhdyy-god--yubileynyy/" >Каждый год – юбилейный!</a></li><li><a href="/news/teper-deshevle/" >Теперь дешевле!</a></li><li><a href="/news/leto-ne-za-gorami--udachnoe-vremya-vygodno-kupit-aviabilety/" >Лето не за горами – удачное время выгодно купить авиабилеты!</a></li><li><a href="/news/trassami-geroev-k-stoletiyu-grazhdanskoy-aviatsii-rossii/" >Трассами героев: к столетию гражданской авиации России</a></li><li><a href="/news/uvelichenie-chastoty-poletov-po-marshrutu-shikotan--kunashir---shikotan/" >Тайга увеличивает частоту полетов по маршруту Шикотан – Кунашир - Шикотан</a></li><li><a href="/news/shturval--molodym/" >Штурвал – молодым!</a></li><li><a href="/news/100-let-ga/" >Авиакомпания Тайга отметила юбилей отечественной гражданской авиации – 100 лет!</a></li><li><a href="/news/khabarovsk/" >«Тайга» расширяет маршрутную сеть в Хабаровском крае</a></li><li><a href="/news/taiga_renews/" >Изменение наименования юридического лица</a></li><li><a href="/news/tayga-soedinyaet-regiony/" >«Тайга» соединяет регионы</a></li><li><a href="/news/aviakompaniya-tayga/" >Авиакомпания Тайга:</a></li><li><a href="/news/vvedenie-dopolnitelnoy-chastoty-po-marshrutu-krabozavodskoe---yuzhno-kurilsk---krabozavodskoe/" >Введение дополнительной частоты по маршруту Крабозаводское  - Южно-Курильск - Крабозаводское</a></li><li><a href="/news/pozdravleniya-so-stoletnim-yubileem/" >Поздравления со столетним юбилеем</a></li><li><a href="/news/pozdravlenie-veteranov-velikoy-otechestvennoy-voyny-s-prazdnikom-pobedy/" >Поздравление ветеранов Великой Отечественной войны с Праздником Победы</a></li><li><a href="/news/itogi-raboty-taygi-v-pervom-kvartale-2022-goda/" >Итоги работы «Тайги»  в первом квартале 2022 года</a></li><li><a href="/news/start-prodazh-aviabiletov-na-period-letnego-raspisaniya/" >Информация о рейсах на лето 2021 г.</a></li><li><a href="/news/ao-aviashelf-perekhodit-na-letnee-raspisanie-polyotov/" >«Тайга» переходит на летнее расписание полётов</a></li><li><a href="/news/dlya-zhiteley-goroda-poronayska-i-pgt-smirnykh-poyavilas-dopolnitelnaya-vozmozhnost/" >Для жителей города Поронайска и пгт. Смирных появилась дополнительная возможность.</a></li><li><a href="/news/pozdravlenie-s-78-y-godovshchinoy-polnogo-snyatiya-fashistskoy-blokady-leningrada/" >Поздравление с 78-й годовщиной полного снятия фашистской блокады Ленинграда</a></li><li><a href="/news/itogi-2021/" >Подведены итоги выполнения программы социально значимых маршрутов в 2021 году</a></li><li><a href="/news/uzhe-god-v-nebe-nad-ostrovami/" >Уже год в небе над островами</a></li><li><a href="/news/tayga-rasshiryaet-marshrutnuyu-set-iz-oblastnogo-tsentra-v-smirnykhovskiy-i-poronayskiy-rayony/" >Тайга расширяет маршрутную сеть из областного центра в Смирныховский и Поронайский районы</a></li><li><a href="/news/polyot-moey-mechty/" >Полёт моей мечты</a></li><li><a href="/news/aviabilet-po-sotsialnomu-talonu/" >Авиабилет по социальному талону</a></li><li><a href="/news/vvedenie-dopolnitelnykh-reysov-us-sg/" >Введение дополнительных рейсов</a></li><li><a href="/news/pozd-v-vov/" >Поздравление ветерана Великой Отечественной войны</a></li><li><a href="/news/perekhod-na-zimnee-raspisanie/" >Переход на зимнее расписание</a></li><li><a href="/news/yedinyy-bilet-zonalnoe-khabarovsk/" >Единый билет Зональное - Хабаровск</a></li><li><a href="/news/tayga-i-avrora-sblizhayut-dalnevostochnikov/" >«Тайга» и «Аврора» сближают дальневосточников</a></li><li><a href="/news/pozdravlenie-76/" >Поздравление с 76-ой годовщиной окончания Второй мировой войны</a></li><li><a href="/news/7-tysyach/" >«Тайга» перевезла свыше 7 тысяч пассажиров за семь месяцев этого года</a></li><li><a href="/news/tayga-uspeshno-vypolnila-pervyy-reys-v-sovetskuyu-gavan/" >«Тайга» успешно выполнила первый рейс в Советскую Гавань</a></li><li><a href="/news/vvedenie-dopolnitelnykh-reysov/" >Введение дополнительных рейсов</a></li><li><a href="/news/tayga-rasshiryaet-geografiyu-poletov/" >«Тайга» расширяет географию полетов,</a></li><li><a href="/news/besposadochny-polet-aleksandrovsk-sakhalinskiy/" >«Тайга» начинает выполнение беспосадочных полетов по маршруту Южно-Сахалинск – Александровск-Сахалинский и обратно с 01.08.2021 г.</a></li><li><a href="/news/5-tysyach/" >«Тайга» перевезла свыше 5 тысяч пассажиров за шесть месяцев этого года</a></li><li><a href="/news/tayga-delaet-shikotan-blizhe/" >«Тайга» делает Шикотан ближе</a></li><li><a href="/news/vozobnovlenie-polyotov-v-aleksandrovsk-sakhalinskiy/" >Возобновление полётов в Александровск-Сахалинский</a></li><li><a href="/news/mestnye-aviaperevozki-na-sakhaline-rastut-na-krylyakh-taygi/" >Местные авиаперевозки на Сахалине растут на крыльях «Тайги»</a></li><li><a href="/news/dopolnitelnye-reysy-v-shakhtyorsk/" >Дополнительные рейсы в Шахтёрск</a></li><li><a href="/news/s-dnyom-pobedy/" >С Днём Победы!</a></li><li><a href="/news/100-let/" >Поздравление ветерана Великой Отечественной войны с вековым юбилеем.</a></li><li><a href="/news/rasshirena-set-polyotov-na-yuzhnykh-kurilakh/" >Расширена сеть полётов на южных Курилах</a></li><li><a href="/news/leningrad77/" >77-я годовщина снятия блокады Ленинграда</a></li><li><a href="/news/novye-vs/" >Новые воздушные суда</a></li></ul></li><li><a href="#" class="bvi-open" style="text-decoration: none;" onmouseover="showIcon(1);" onmouseout="showIcon(2);"><img src="/wa-data/public/site/data/www.taiga.aero/img/icons/vs.png" title="Версия для слабовидящих" id="bviicon">&nbsp;&nbsp;Версия для слабовидящих</a></li><li><a href="/search/"><img src="/wa-data/public/site/data/www.taiga.aero/img/icons/search.png" title="Поиск"></a></li><li><a href="/corp/" title="Раздел для сотрудников"><img src="/wa-data/public/site/data/www.taiga.aero/img/icons/lk.png"></a></li></ul></nav></div></div></div></header><div class="content-wrapper oh" itemscope itemtype="http://schema.org/WebPage"><section class="page-title text-center" style="background: url('/wa-data/public/site/data/www.taiga.aero/img/фон7.png'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; background-position: center bottom"><div class="container"><div class="page-title__holder" style="text-align: center;"><h1 class="page-title__title" itemprop="name"> Расписание полётов </h1><p class="page-title__subtitle">Движения воздушных судов АО «Авиакомпания Тайга»</p></div></div></section><section class="section-wrap" style="background: #f4f4f4;"><div class="container"><div class="row justify-content-center"><div class="col-lg-8"><div class="entry__article" role="main" itemprop="description" style="margin-top: -30px" id="page"><div style="overflow: auto;">
+<table class="raspisaniye">                   
+<tbody> 
+
+<tr class="raspisaniyeb">
+<td rowspan="2">№<br>рейса</td>
+<td rowspan="2">Период<br>  выполнения  </td>
+<td rowspan="2">Дни<br>  недели  </td>
+<td rowspan="2">Тип ВС</td>
+<td colspan="4">Маршрут полёта</td>
+<td rowspan="2">Время стоянки</td> 
+</tr>   
+<tr class="raspisaniyeb">
+<td colspan="2">Отправление</td>
+<td colspan="2">Прибытие</td> 
+</tr>   
+
+<tr>
+<td colspan="9" class="raspisaniyez">Южно-Сахалинск -&gt; Советская Гавань -&gt; Южно-Сахалинск</td> 
+</tr>
+
+<tr>    
+<td>TGA-2651 / HZ-2651</td> 
+<td>30.10 - 28.12</td> 
+<td>Пн, Пт</td> 
+<td>DH6</td> 
+<td>Южно-Сахалинск</td> 
+<td>14:50</td> 
+<td>Советская Гавань</td> 
+<td>15:15</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2652 / HZ-2652</td> 
+<td>30.10 - 28.12</td> 
+<td>Пн, Пт</td>
+<td>DH6</td> 
+<td>Советская Гавань</td> 
+<td>15:55</td> 
+<td>Южно-Сахалинск</td>
+<td>18:15</td> 
+<td><br></td> 
+</tr>
+<tr>
+
+</tr><tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2651 / HZ-2651</td> 
+<td>26.10 - 29.12</td> 
+<td>Вт, Чт</td> 
+<td>DH6</td> 
+<td>Южно-Сахалинск</td> 
+<td>10:00</td> 
+<td>Советская Гавань</td> 
+<td>10:25</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2652 / HZ-2652</td> 
+<td>26.10 - 29.12</td> 
+<td>Вт, Чт</td> 
+<td>DH6</td> 
+<td>Советская Гавань</td> 
+<td>11:05</td> 
+<td>Южно-Сахалинск</td>
+<td>13:25</td> 
+<td><br></td> 
+</tr>
+<tr>
+    
+</tr><tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2651 / HZ-2651</td> 
+<td>11.11 - 30.12</td> 
+<td>Ср</td> 
+<td>DH6</td> 
+<td>Южно-Сахалинск</td> 
+<td>14:50</td> 
+<td>Советская Гавань</td> 
+<td>15:15</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2652 / HZ-2652</td> 
+<td>11.11 - 30.12</td> 
+<td>Ср</td> 
+<td>DH6</td> 
+<td>Советская Гавань</td> 
+<td>15:55</td> 
+<td>Южно-Сахалинск</td>
+<td>18:15</td> 
+<td><br></td> 
+</tr>
+
+</tr><tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2651D / HZ-2651D</td> 
+<td>25.11 - 25.11</td> 
+<td>Ср</td> 
+<td>DH6</td> 
+<td>Южно-Сахалинск</td> 
+<td>11:35</td> 
+<td>Советская Гавань</td> 
+<td>12:00</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2652D / HZ-2652D</td> 
+<td>25.11 - 25.11</td> 
+<td>Ср</td> 
+<td>DH6</td> 
+<td>Советская Гавань</td> 
+<td>12:40</td> 
+<td>Южно-Сахалинск</td>
+<td>15:00</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Петропавловск-Камчатский -&gt; Северо-Курильск -&gt; Петропавловск-Камчатский</td>
+</tr>  
+
+<tr>    
+<td>TGA-2653 / HZ-2653</td> 
+<td>01.11 - 31.12</td> 
+<td>Пн, Чт, Пт, Вс</td> 
+<td>Ми8</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td> 
+<td>10:20</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>11:20</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2654 / HZ-2654</td> 
+<td>01.11 - 31.12</td> 
+<td>Пн, Чт, Пт, Вс</td> 
+<td>Ми8</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>12:00</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td>
+<td>15:00</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2653 / HZ-2653</td> 
+<td>14.11 - 21.11</td> 
+<td>Сб</td> 
+<td>Ми8</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td> 
+<td>10:20</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>11:20</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2654 / HZ-2654</td> 
+<td>14.11 - 21.11</td> 
+<td>Сб</td> 
+<td>Ми8</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>12:00</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td>
+<td>15:00</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2653 / HZ-2653</td> 
+<td>05.12 - 05.12</td> 
+<td>Сб</td> 
+<td>Ми8</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td> 
+<td>10:20</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>11:20</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2654 / HZ-2654</td> 
+<td>05.12 - 05.12</td> 
+<td>Сб</td> 
+<td>Ми8</td> 
+<td>Северо-Курильск<br>(о. Парамушир)</td> 
+<td>12:00</td> 
+<td>Елизово<br>(Петропавловск-Камчатский)</td>
+<td>15:00</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Крабозаводское, о.Шикотан -&gt; Южно-Курильск -&gt; Крабозаводское, о.Шикотан</td>
+</tr>  
+
+<tr>    
+<td>TGA-1703</td> 
+<td>29.10 - 29.10</td> 
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Крабозаводское</td> 
+<td>10:20</td> 
+<td>Южно-Курильск</td> 
+<td>10:50</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1704</td> 
+<td>29.10 - 29.10</td>  
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Южно-Курильск</td> 
+<td>16:10</td> 
+<td>Крабозаводское</td>
+<td>16:50</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-1706</td> 
+<td>29.10 - 29.10</td>  
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Крабозаводское</td> 
+<td>9:15</td> 
+<td>Южно-Курильск</td> 
+<td>9:45</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1705</td> 
+<td>29.10 - 29.10</td>  
+<td>Вс</td>  
+<td>Ми8</td> 
+<td>Южно-Курильск</td> 
+<td>17:20</td> 
+<td>Крабозаводское</td>
+<td>17:50</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-1706</td> 
+<td>01.11 - 27.12</td>  
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Крабозаводское</td> 
+<td>10:00</td> 
+<td>Южно-Курильск</td> 
+<td>10:30</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1705</td> 
+<td>29.10 - 29.10</td>  
+<td>Вс</td>  
+<td>Ми8</td> 
+<td>Южно-Курильск</td> 
+<td>13:15</td> 
+<td>Крабозаводское</td>
+<td>13:45</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Николаевск-на-Амуре -&gt; Тугур -&gt; Чумикан -&gt; Удское -&gt; Чумикан -&gt; Тугур -&gt; Николаевск-на-Амуре (03.11.26, 10.11.26, 17.11.26, 24.11.26, 08.12.26, 22.12.26)</td> 
+</tr>
+
+<tr>    
+<td>TGA-1707</td> 
+<td rowspan="6">07.04 - 29.12</td> 
+<td rowspan="6">Вт</td> 
+<td rowspan="6">Ми8</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>09:00</td> 
+<td>Тугур</td> 
+<td>10:35</td> 
+<td>0:30</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1707</td> 
+<td>Тугур</td> 
+<td>11:05</td> 
+<td>Чумикан</td>
+<td>12:00</td>
+<td>0:30</td>
+</tr>
+
+<tr>    
+<td>TGA-1707</td> 
+<td>Чумикан</td> 
+<td>12:30</td> 
+<td>Удское</td> 
+<td>12:55</td> 
+<td>0:30</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Удское</td> 
+<td>13:25</td> 
+<td>Чумикан</td>
+<td>13:50</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Чумикан</td> 
+<td>14:20</td> 
+<td>Тугур</td>
+<td>15:15</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Тугур</td> 
+<td>15:45</td> 
+<td>Николаевск-на-Амуре</td>
+<td>17:20</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Николаевск-на-Амуре -&gt; Тугур -&gt; Чумикан -&gt; Тором -&gt; Чумикан -&gt; Удское -&gt; Чумикан -&gt; Тором -&gt; Тугур -&gt; Николаевск-на-Амуре: 29.12.2026</td> 
+</tr>
+
+<tr>    
+<td>TGA-1707</td> 
+<td rowspan="9">29.12</td> 
+<td rowspan="9">Вт</td> 
+<td rowspan="9">Ми8</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>09:00</td> 
+<td>Тугур</td> 
+<td>10:35</td> 
+<td>0:30</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1707</td> 
+<td>Тугур</td> 
+<td>11:05</td> 
+<td>Чумикан</td>
+<td>12:00</td>
+<td>0:30</td>
+</tr>
+
+<tr>    
+<td>TGA-1707</td> 
+<td>Чумикан</td> 
+<td>12:30</td> 
+<td>Тором</td> 
+<td>12:50</td> 
+<td>0:30</td> 
+</tr>  
+
+<tr>    
+<td>TGA-1707</td> 
+<td>Тором</td> 
+<td>13:20</td> 
+<td>Чумикан</td> 
+<td>13:40</td> 
+<td>0:30</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Чумикан</td> 
+<td>14:10</td> 
+<td>Удское</td>
+<td>14:35</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Удское</td> 
+<td>14:55</td> 
+<td>Чумикан</td>
+<td>15:20</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Чумикан</td> 
+<td>15:40</td> 
+<td>Тором</td>
+<td>16:10</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Тором</td> 
+<td>16:30</td> 
+<td>Тугур</td>
+<td>17:35</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>    
+<td>TGA-1708</td> 
+<td>Тугур</td> 
+<td>18:05</td> 
+<td>Николаевск-на-Амуре</td>
+<td>19:25</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Хабаровск -&gt; Амурзет -&gt; Хабаровск</td> 
+</tr>
+
+<tr>    
+<td>TGA-2657</td> 
+<td>25.10 - 25.10</td> 
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>11:10</td> 
+<td>Амурзет</td> 
+<td>13:10</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2658</td> 
+<td>25.10 - 25.10</td> 
+<td>Вс</td> 
+<td>Ми8</td> 
+<td>Амурзет</td> 
+<td>13:50</td> 
+<td>Хабаровск</td>
+<td>15:50</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2657</td> 
+<td>28.12 - 28.12</td> 
+<td>Пн</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>11:10</td> 
+<td>Амурзет</td> 
+<td>13:10</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2658</td> 
+<td>28.12 - 28.12</td> 
+<td>Пн</td> 
+<td>Ми8</td> 
+<td>Амурзет</td> 
+<td>13:50</td> 
+<td>Хабаровск</td>
+<td>15:50</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-2657</td> 
+<td>04.11 - 30.12</td> 
+<td>Ср, Вс</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>11:10</td> 
+<td>Амурзет</td> 
+<td>13:10</td> 
+<td>0:40</td> 
+</tr>   
+
+<tr>    
+<td>TGA-2658</td> 
+<td>04.11 - 30.12</td> 
+<td>Ср, Вс</td> 
+<td>Ми8</td> 
+<td>Амурзет</td> 
+<td>13:50</td> 
+<td>Хабаровск</td>
+<td>15:50</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Николаевск-на-Амуре -&gt; Лазарев -&gt; Николаевск-на-Амуре</td> 
+</tr>
+
+<tr>    
+<td>TGA-1709</td> 
+<td>25.10 - 31.12</td>  
+<td>Чт, Вс</td> 
+<td>Ми8</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>12:00</td> 
+<td>Лазарев</td>
+<td>13:00</td> 
+<td>0:30</td>  
+</tr>
+
+<tr>    
+<td>TGA-1710</td> 
+<td>25.10 - 31.12</td>  
+<td>Чт, Вс</td> 
+<td>Ми8</td> 
+<td>Лазарев</td> 
+<td>13:30</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>14:30</td> 
+<td>0:30</td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Николаевск-на-Амуре -&gt; Чумикан -&gt; Николаевск-на-Амуре</td> 
+</tr>
+
+<tr>    
+<td>НИ-407</td> 
+<td>26.10 - 30.12</td> 
+<td>Пн, Ср</td> 
+<td>Ми8</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>11:40</td> 
+<td>Чумикан</td> 
+<td>14:00</td> 
+<td><br></td> 
+</tr>   
+
+<tr>    
+<td>НИ-408</td> 
+<td>26.10 - 30.12</td> 
+<td>Пн, Ср</td> 
+<td>Ми8</td> 
+<td>Чумикан</td> 
+<td>14:30</td> 
+<td>Николаевск-на-Амуре</td>
+<td>16:50</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>НИ-407</td> 
+<td>30.10 - 25.12</td> 
+<td>Пт</td> 
+<td>Ми8</td> 
+<td>Николаевск-на-Амуре</td> 
+<td>11:10</td> 
+<td>Чумикан</td> 
+<td>13:30</td> 
+<td><br></td> 
+</tr>   
+
+<tr>    
+<td>НИ-408</td> 
+<td>30.10 - 25.12</td> 
+<td>Пт</td>
+<td>Ми8</td> 
+<td>Чумикан</td> 
+<td>14:00</td> 
+<td>Николаевск-на-Амуре</td>
+<td>16:20</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Хабаровск -&gt; Чегдомын -&gt; Хабаровск</td> 
+</tr>
+
+<tr>    
+<td>НИ-411</td> 
+<td>02.11 - 21.12</td> 
+<td>Пн, Пт</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>12:50</td> 
+<td>Чегдомын</td> 
+<td>14:50</td> 
+<td><br></td> 
+</tr>   
+
+<tr>    
+<td>НИ-412</td> 
+<td>02.10 - 30.10</td> 
+<td>Пн, Пт</td> 
+<td>Ми8</td> 
+<td>Чегдомын</td> 
+<td>15:30</td> 
+<td>Хабаровск</td>
+<td>17:30</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>НИ-411</td> 
+<td>24.12 - 24.12</td> 
+<td>Чт</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>12:50</td> 
+<td>Чегдомын</td> 
+<td>14:50</td> 
+<td><br></td> 
+</tr>   
+
+<tr>    
+<td>НИ-412</td> 
+<td>24.12 - 24.12</td> 
+<td>Чт</td> 
+<td>Ми8</td> 
+<td>Чегдомын</td> 
+<td>15:30</td> 
+<td>Хабаровск</td>
+<td>17:30</td> 
+<td><br></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>НИ-411</td> 
+<td>29.12 - 29.12</td> 
+<td>Вт</td> 
+<td>Ми8</td> 
+<td>Хабаровск</td> 
+<td>12:50</td> 
+<td>Чегдомын</td> 
+<td>14:50</td> 
+<td><br></td> 
+</tr>   
+
+<tr>    
+<td>НИ-412</td> 
+<td>29.12 - 29.12</td> 
+<td>Вт</td> 
+<td>Ми8</td> 
+<td>Чегдомын</td> 
+<td>15:30</td> 
+<td>Хабаровск</td>
+<td>17:30</td> 
+<td><br></td> 
+</tr>
+
+<tr>
+<td colspan="9" class="raspisaniyez">Охотск -&gt; Нелькан -&gt; Джигда -&gt; Аим: (12.11.26, 26.11.26, 10.12.26, 24.12.26) (13.11.26, 27.11.26, 11.12.26, 25.12.26)</td> 
+</tr>
+
+<tr>    
+<td>TGA-1711</td> 
+<td rowspan="5">12.11 - 24.12</td> 
+<td rowspan="5">Чт</td> 
+<td rowspan="5">Ми8</td> 
+<td>Охотск</td> 
+<td>09:00</td> 
+<td>Нелькан</td> 
+<td>11:50</td> 
+<td>0:30</td> 
+</tr>   
+
+<tr>    
+<td>TGA-1711</td> 
+<td>Нелькан</td> 
+<td>12:20</td> 
+<td>Джигда</td>
+<td>12:50</td>
+<td></td>
+</tr>
+
+<tr>    
+<td>TGA-1711</td> 
+<td>Джигда</td> 
+<td>13:20</td> 
+<td>Аим</td> 
+<td>14:35</td> 
+<td></td> 
+</tr>  
+
+<tr>    
+<td>TGA-1712</td> 
+<td>Аим</td> 
+<td>15:05</td> 
+<td>Джигда</td> 
+<td>16:20</td> 
+<td></td> 
+</tr>   
+
+<tr>    
+<td>TGA-1712</td> 
+<td>Джигда</td> 
+<td>16:50</td> 
+<td>Нелькан</td>
+<td>17:15</td> 
+<td></td> 
+</tr>
+
+<tr><td colspan="9" class="raspisaniyez"></td></tr>
+
+<tr>    
+<td>TGA-1712</td> 
+<td>13.11 - 25.12</td> 
+<td>Пт</td> 
+<td>Ми8</td> 
+<td>Нелькан</td> 
+<td>09:00</td> 
+<td>Охотск</td> 
+<td>11:50</td> 
+<td><br></td> 
+</tr>  
+
+</tbody> 
+</table>
+</div>
+
+<p><strong>Отправление</strong> - начало движения воздушного судна с места стоянки.<br>
+<strong>Прибытие </strong>- остановка воздушного судна на месте стоянки после заруливания или буксировки.<br>
+<strong>Время указано местное.</strong></p>
+
+<p><a href="https://airportus.ru/board/" target="_blank"><strong>Онлайн-табло аэропорта Южно-Сахалинск</strong></a></p></div></div></div></div></section></div><footer class="footer" style="background: white;"><div class="container"><div class="footer__widgets"><div class="row justify-content-end"><div style="text-align: left; width: 20%;"><div class="widget widget_nav_menu"><h5 class="widget-title">О нас</h5><ul><li><a href="/o-nas/istoriya-kompanii/">О компании</a></li><li><a href="/o-nas/priorities/">Приоритеты</a></li><li><a href="/o-nas/park-vs/">Парк ВС​</a></li><li><a href="/o-nas/sertifikaty-i-litsenzii/">Сертификаты и лицензии</a></li><li><a href="/o-nas/trudoustroystvo/">Трудоустройство</a></li><li><a href="/o-nas/inye-svedeniya/">Иные сведения</a></li><li><a href="/o-nas/contacts/">Контакты</a></li><li><a href="/o-nas/zhivotnye-taygi-2026/">Животные тайги</a></li></ul></div></div><div style="text-align: left; width: 30%;"><div class="widget widget_nav_menu"><h5 class="widget-title">Услуги</h5><ul><li><a href="/uslugi/kommercheskie-perevozki/">Чартерные перевозки</a></li><li><a href="/uslugi/aviatsionnye-raboty/">Авиационные работы</a></li><li><a href="/uslugi/obsluzhivanie-vs/">Обслуживание ВС</a></li><li><a href="/uslugi/obsluzhivanie-spasatelnykh-sredstv">Обслуживание спасательных средств</a></li></ul></div></div><div style="text-align: left; width: 25%;"><div class="widget widget_nav_menu"><h5 class="widget-title">Пассажирам</h5><ul><li><a href="/passazhiram/raspisanie-polyotov/">Расписание полётов</a></li><li><a href="/passazhiram/aviabilety-dlya-zhiteley-sakhalinskoy-oblasti/">Авиабилеты по спецтарифу</a></li><li><a href="/passazhiram/subsidirovannye-perevozki/">Субсидированные перевозки</a></li><li><a href="/passazhiram/pokupka-biletov/">Покупка билетов</a></li><li><a href="/passazhiram/pravila-perevoz/">Правила перевозок</a></li><li><a href="/passazhiram/spravki/">Справки</a></li><li><a href="/passazhiram/sendform/">Задать вопрос</a></li></ul></div></div><div  style="text-align: left; width: 25%;"><div class="widget widget-address"><h5 class="widget-title">Контакты</h5><ul><li><address>Россия, 693000, <br>
+г. Южно-Сахалинск, <br>пр-кт Мира 308/1<br>
+Телеграм: <a href="https://t.me/taiga_aero" target="_blank">@taiga_aero</a><br>
+МАКС: <a href="https://max.ru/join/HGiGMyux0xA6j8JWVSXTGHBvRl5_BQrLJ2sOpPikrOI" target="_blank">https://max.ru/join/TGA</a></address></li><li><span>Телефон: </span><a href="tel:+7 4242 550050">+7 (4242) 55-00-50</a></li><li><span>Почта: </span><a href="mailto:office@taiga.aero">office@taiga.aero</a></li></ul></div></div></div></div></div><div class="footer__bottom top-divider"><div class="container text-center"><div class="copyright d-flex"><span class="ml-auto">Дизайн и программирование &mdash; <a href="https://veles.pw" target="_blank">Велес</a></span></div></div></div></footer><div id="back-to-top"><a href="#top"><i class="ui-arrow-up"></i></a></div></main><!-- jQuery Scripts --><script src="/wa-data/public/site/themes/starter/js/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script><script src="/wa-data/public/site/themes/starter/js/bootstrap.min.js"></script><script src="/wa-data/public/site/themes/starter/js/plugins.min.js?1.0.2.251"></script><script src="/wa-data/public/site/themes/starter/js/starter.min.js?1.0.2.251"></script><script src="/wa-data/public/site/themes/starter/js/cookieconsent.js?1.0.2.251" async></script><script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            html: true
+        })
+    })
+            window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                content: {
+                    header: 'Cookies used on the website!',
+                    message: "Сайт использует cookies для работы. Вы можете отключить их в настройках браузера.",
+                    link: "Политика в отношении файлов cookie.",
+                    href: "/documents/cookie_policy.pdf",
+                    dismiss: "Принять",
+                    allow: "Allow cookies",
+                    deny: "Decline",
+                    close: "&#x274c;",
+                },
+                cookie: {
+                    expiryDays: 365
+                },
+                position: "bottom"
+            });
+            $(".cc-banner").wrapInner("<div class='cc-container container'></div>");
+        });
+    </script>
+
+    <script>
+        $(function () {
+            $('div.wa-captcha .wa-captcha-img').on('load', function () {
+                $(window).trigger('wa_captcha_loaded');
+            });
+
+            $('div.wa-captcha .wa-captcha-refresh, div.wa-captcha .wa-captcha-img').click(function () {
+                var $wrapper = $(this).parents('div.wa-captcha'),
+                        $input = $wrapper.find('.wa-captcha-input'),
+                        $img = $wrapper.find('.wa-captcha-img'),
+                        src = $img.attr('src');
+
+                if ($img.length) {
+                    $img.attr('src', src.replace(/\?.*$/, '?rid=' + Math.random()));
+                    $img.one('load', function () {
+                        $(window).trigger('wa_captcha_loaded');
+                        $input.val('').focus();
+                    });
+                }
+
+                return false;
+            });
+        });
+    </script>
+
+    <script>
+        $(function ($) {
+            var form_selector       = '#optin-form';
+            var captcha_selector    = '#optin-captha';
+            var success_selector    = '#optin-success';
+            var error_selector      = '#optin-error';
+            var site_url            = '/';
+
+            if (success_selector) {
+                $(success_selector).hide();
+            }
+
+            if (error_selector) {
+                $(error_selector).hide();
+            }
+
+            var $form = $(form_selector);
+
+            if (captcha_selector.length) {
+                $(captcha_selector).html($('#site-feedback-captcha-selector').html());
+            }
+
+            $form.on('submit', function ( event ) {
+                event.preventDefault();
+                var form = $(this).serialize();
+                var form_data = parseQuery(form);
+
+                var data = {
+                    name:      '',
+                    //email:      '',
+                    text:       '',
+                    subject:    ''
+                    //captcha:     ''
+                };
+
+                for (var name in form_data) {
+                    var $element = $(this).find('[name=' + name + ']');
+                    var tagname = $element.get(0).tagName.toLowerCase();
+                    var type = $element.attr('type');
+                    var placeholder = $element.attr('placeholder');
+
+                    if (type) {
+                        type = type.toLowerCase();
+                    }
+
+                    if (name && name.toLowerCase() == 'subject') {
+                        data.subject = form_data[name];
+                    }
+                    else if (name && name.toLowerCase() == 'captcha') {
+                        data.captcha = form_data[name];
+                    }
+                    else if (name && name.toLowerCase() == 'name') {
+                        data.name = form_data[name];
+                    }
+                    else if (name && name.toLowerCase() == 'email') {
+                        data.email = form_data[name];
+                    }
+                    else if (tagname == 'select') {
+                        data.text += form_data[name] + '<br /><br />';
+                    }
+                    else if (tagname == 'input' && type == 'radio') {
+                        data.text += form_data[name] + '<br /><br />';
+                    }
+                    else if (tagname == 'input' && type == 'checkbox') {
+                        data.text += form_data[name] + '<br /><br />';
+                    }
+                    else {
+                        if (placeholder) {
+                            data.text += '<strong>' + placeholder + ':</strong><br />';
+                            data.text += form_data[name] + '<br /><br />';
+                        }
+                    }
+
+                    //console.log(type + ' + ' + tagname + ' + ' +name +': ' +placeholder);
+                }
+
+                //var url = site_url + 'feedback/send/?' + form;
+                var url = site_url + 'feedback/send/';
+                $.post(
+                        url,
+                        data
+                        , function (d) {
+                            if (d.status === 'ok') {
+                                if (success_selector) {
+                                    $(success_selector).show();
+                                }
+                            }
+                            else {
+                                if (error_selector) {
+                                    $(error_selector).show();
+                                }
+                            }
+                        }, 'json'
+                );
+
+                return false;
+            });
+
+            function parseQuery(queryString) {
+                var query = {};
+                var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
+                for (var i = 0; i < pairs.length; i++) {
+                    var pair = pairs[i].split('=');
+                    query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+                }
+                return query;
+            }
+        });
+       
+    </script>
+<script src="https://domain.name/dist/js/bvi.min.js"></script><script>new isvek.Bvi();</script><script>function showIcon(tf) {if (tf==1) {var icon=document.getElementById('bviicon');icon.src='/wa-data/public/site/data/www.taiga.aero/img/icons/vs_hover.png';}if (tf==2) {var icon=document.getElementById('bviicon');icon.src='/wa-data/public/site/data/www.taiga.aero/img/icons/vs.png';}}</script><!-- Снежинки на сайте<link rel="stylesheet" href="/wa-data/public/site/datepicker/snow.css" type="text/css"><script src="/wa-data/public/site/datepicker/snow.js"></script><div id="snow-container"></div> --></body></html>

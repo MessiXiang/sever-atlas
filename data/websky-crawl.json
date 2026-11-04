@@ -1,0 +1,215 @@
+{
+  "pairs": 284,
+  "errors": [
+    [
+      "kv",
+      "ОКБ",
+      "СЧУ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ОША",
+      "BKA",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ОША",
+      "КЮМ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ОША",
+      "МГА",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ПГА",
+      "HTG",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ПГУ",
+      "BKA",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ПГУ",
+      "БУЫ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ПГУ",
+      "КЗВ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ПГУ",
+      "САЙ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "САЙ",
+      "BKA",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "САЙ",
+      "TGP",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "САЙ",
+      "БУЫ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "САЙ",
+      "КЗВ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "САЙ",
+      "ПГУ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СДН",
+      "HTG",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СДН",
+      "НРЫ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СДН",
+      "ПГА",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СДР",
+      "BKA",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СДР",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СЧУ",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "СЧУ",
+      "VAQ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ТНЧ",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ТНЧ",
+      "УМИ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "УМИ",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "УМИ",
+      "ТНЧ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ХЭТ",
+      "HTG",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ХЭТ",
+      "КТЫ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ХЭТ",
+      "НАЯ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЧЕМ",
+      "VAQ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЧИР",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЧИР",
+      "ЕСИ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЭКО",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЮЖЖ",
+      "DKS",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЮКТ",
+      "GOY",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ],
+    [
+      "kv",
+      "ЮКТ",
+      "КСЮ",
+      "429 Client Error: Too Many Requests for url: https://kv.webskyx.com/graphql/query/nemo"
+    ]
+  ]
+}
