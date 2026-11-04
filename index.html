@@ -12,8 +12,8 @@
   <link href="assets/leaflet.css" rel="stylesheet"/>
   <link href="style.css" rel="stylesheet"/>
  </head>
- <body>
-  <header class="app-header">
+ <body class="titles-collapsed" data-page="explore">
+  <header class="app-header" id="appHeader">
    <a aria-label="北境航迹首页" class="brand" href="#">
     <img class="brand-avatar" src="assets/penguin-avatar.jpg" width="44" height="44" alt="企鹅头像"/>
     <span>
@@ -52,11 +52,13 @@
      </span>
     </button>
     <button class="appreciation-button" id="appreciationButton" aria-haspopup="dialog" aria-controls="appreciationDialog"><span aria-hidden="true">♡</span> 赞赏</button>
+    <button id="headerToggle" class="layout-icon" aria-label="展开标题区" aria-expanded="false" aria-controls="mapTitle" title="展开标题区">↕</button>
    </div>
   </header>
   <main class="workspace" id="exploreView">
-   <aside class="sidebar">
-    <div class="sidebar-intro">
+   <aside class="sidebar" id="filterSidebar" aria-label="航班搜索与筛选">
+    <div class="sidebar-controls"><strong>航班筛选</strong><button id="filtersToggle" aria-expanded="false" aria-controls="filterOptions">展开筛选 ＋</button></div>
+    <div class="sidebar-intro" id="sidebarIntro">
      <span class="eyebrow">
       THE LONG WAY NORTH
      </span>
@@ -75,17 +77,18 @@
      <span aria-hidden="true">
       ⌕
      </span>
-     <input aria-label="搜索机场城市航班号" id="search" placeholder="机场、城市、航班号…" type="search"/>
+     <input aria-label="搜索机场、城市、航司或航班号，支持中文、俄文和英文转写" id="search" placeholder="机场 / 航司 / 航班号 · 中俄英" type="search"/>
      <kbd>
       /
      </kbd>
     </div>
     <div class="filter-label">
-     选择机型
+     <span id="filterSummary">全部机型 · 全部航司</span>
      <button id="resetFilters">
       重置
      </button>
     </div>
+    <div id="filterOptions" hidden>
     <div class="family-filters" id="familyFilters">
     </div>
     <p class="filter-hint">每种机型独立筛选；官网标注多种机型时，在各候选型号中显示。Tu-204/214 的具体子型仍以航司确认为准。</p>
@@ -120,6 +123,7 @@
       含散客购票资格待核班次
      </span>
     </label>
+    </div>
     <div class="results-heading">
      <h2 id="resultTitle">
       已收录航班
@@ -147,7 +151,7 @@
     <div id="map">
     </div>
     <div class="map-top">
-     <div class="map-title">
+     <div class="map-title" id="mapTitle">
       <span class="eyebrow">
        EXPLORE THE NETWORK
       </span>
@@ -237,6 +241,7 @@
      导出筛选结果 CSV ↗
     </button>
    </div>
+   <div class="directory-search"><label for="tableSearch">搜索航班</label><input id="tableSearch" type="search" placeholder="机场 / 航司 / 航班号 · 中俄英与俄语转写"/><span>与地图同步筛选</span></div>
    <div class="table-wrap">
     <table>
      <thead>
@@ -297,7 +302,7 @@
     </p>
    </div>
    <div class="coverage-controls">
-    <input aria-label="搜索航司核查清单" id="coverageSearch" placeholder="搜索俄文航司名称…" type="search"/>
+    <input aria-label="搜索航司核查清单，支持中文、俄文与英文转写" id="coverageSearch" placeholder="航司名称 · 中文 / Русский / English" type="search"/>
     <label>
      <input id="coverageAll" type="checkbox"/>
      显示全部名录（含作业 / 通航）
@@ -401,6 +406,8 @@
   <script src="data/geography.js">
   </script>
   <script src="data/flights.js">
+  </script>
+  <script src="assets/search.js">
   </script>
   <script src="app.js">
   </script>

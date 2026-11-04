@@ -1,0 +1,128 @@
+{
+  "testedAt": "2026-11-04",
+  "searchChecks": [
+    {
+      "ru": "Якутск",
+      "en": "Yakutsk",
+      "count": 170
+    },
+    {
+      "ru": "Якутия",
+      "en": "Yakutiya",
+      "count": 61
+    },
+    {
+      "ru": "Якутия",
+      "en": "Yakutia",
+      "count": 61
+    },
+    {
+      "ru": "Нягань",
+      "en": "Nyagan",
+      "count": 2
+    },
+    {
+      "ru": "КрасАвиа",
+      "en": "KrasAvia",
+      "count": 212
+    },
+    {
+      "ru": "Хабаровск",
+      "en": "Khabarovsk",
+      "count": 86
+    },
+    {
+      "ru": "Чукотавиа",
+      "en": "Chukotavia",
+      "count": 124
+    },
+    {
+      "ru": "Сибирская лёгкая авиация",
+      "en": "Sibirskaya legkaya aviatsiya",
+      "count": 8
+    },
+    {
+      "ru": "Ми-8",
+      "en": "Mi-8",
+      "count": 325
+    },
+    {
+      "ru": "Ижавиа",
+      "en": "Izhavia",
+      "sourceCount": 1
+    },
+    {
+      "ru": "КрасАвиа",
+      "en": "Krasavia",
+      "sourceCount": 1
+    },
+    {
+      "ru": "Россия",
+      "en": "Rossiya",
+      "sourceCount": 2
+    },
+    {
+      "ru": "Полярные авиалинии",
+      "en": "Polyarnye Avialinii",
+      "sourceCount": 1
+    },
+    {
+      "ru": "Норильск Авиа",
+      "en": "Norilsk Avia",
+      "sourceCount": 1
+    },
+    {
+      "ru": "Якутия",
+      "en": "Yakutia",
+      "sourceCount": 1
+    }
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "height": 844
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 768,
+      "height": 900
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "collapsedList": 313,
+      "expandedList": 117
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "collapsedList": 561,
+      "expandedList": 258
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "collapsedList": 741,
+      "expandedList": 438
+    }
+  ],
+  "errors": [],
+  "checks": [
+    "compact-default",
+    "header-expand-collapse",
+    "filter-options-toggle",
+    "flight-list-always-visible",
+    "layout-persistence",
+    "keyboard-search",
+    "desktop-fixed-viewport",
+    "list-only-scroll",
+    "map-wheel-zoom",
+    "overview-search-sync",
+    "Cyrillic-Latin-transliteration",
+    "multiword-airport-aircraft",
+    "coverage-search-transliteration"
+  ]
+}

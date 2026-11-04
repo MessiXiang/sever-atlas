@@ -97,13 +97,23 @@
   $('dayFilter').innerHTML = week.slice(1).map((w, i) => `<button data-day="${i+1}" aria-label="星期${w}">${w}</button>`).join('');
   $('airlineFilter').innerHTML += Object.entries(AL).map(([id, a]) => `<option value="${id}">${esc(a.zh)} · ${esc(a.ru)}</option>`).join('');
   $('dateFilter').min = TODAY;
-  const norm = s => String(s).normalize('NFKD').toLowerCase().replace(/[\s\-—_]/g, ''),
-    searchCache = new Map(F.map(f => [f.id, norm([f.number, types(f), AL[f.airline].zh, AL[f.airline].ru, ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.ru, A[id]?.zh, A[id]?.en])].join(' '))]));
+  const Search = window.ATLAS_SEARCH,
+    norm = Search.normalize;
+  const airlineFields = id => {
+    let a = AL[id] || {},
+      c = D.coverage.find(x => x.airlineId === id) || {};
+    return [a.ru, a.zh, a.code, c.name, c.legal, ...(Search.airlineAliases[id] || [])]
+  };
+  const searchCache = new Map(F.map(f => [f.id, Search.index([f.number, types(f), ...airlineFields(f.airline), ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.sourceCode, A[id]?.ru, A[id]?.zh, A[id]?.en])])]));
+  const coverageSearchCache = new Map(D.coverage.map(x => [x.inn, Search.index([x.name, x.legal, x.note, x.zh, x.url, ...(x.airlineId ? airlineFields(x.airlineId) : [])])]));
 
   function apply() {
     limit = 35;
-    visible = F.filter(f => (st.private || f.publicAccess !== 'unverified') && (!f.end || f.end >= baseDate) && (!st.q || searchCache.get(f.id).includes(norm(st.q))) && (!st.family || f.aircraft.includes(st.family)) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && f.aircraft.length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
+    const queryTerms = Search.terms(st.q);
+    $('search').value = $('tableSearch').value = st.q;
+    visible = F.filter(f => (st.private || f.publicAccess !== 'unverified') && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || f.aircraft.includes(st.family)) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && f.aircraft.length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
     visible.sort((a, b) => (nextDates(a, 1)[0] || '9999').localeCompare(nextDates(b, 1)[0] || '9999') || (a.departure || '99').localeCompare(b.departure || '99') || a.number.localeCompare(b.number));
+    $('filterSummary').textContent = [st.family || '全部机型', st.airline ? AL[st.airline].zh : '全部航司', st.date, st.day ? '周' + week[st.day] : '', st.strict ? '机型明确' : '', st.private ? '含待核班次' : ''].filter(Boolean).join(' · ');
     $('resultCount').textContent = visible.length + ' 条时刻';
     $('resultTitle').textContent = st.airport ? name(st.airport) : '已收录航班';
     $('selectedAirport').hidden = !st.airport;
@@ -489,9 +499,10 @@
   function renderCoverage() {
     $('coverageSummary').innerHTML = `<div><strong>${Object.keys(AL).length}</strong><span>已录入时刻的航司</span></div><div><strong>${F.length}</strong><span>合并后的时刻记录</span></div><div><strong>${D.coverage.length}</strong><span>俄文维基名录条目</span></div><div><strong>${D.coverage.filter(x=>['pending','registry-only'].includes(x.review)).length}</strong><span>仍待逐项核查</span></div>`;
     $('scopeText').textContent = D.scope;
-    let q = norm($('coverageSearch').value),
+    let q = $('coverageSearch').value.trim(),
+      queryTerms = Search.terms(q),
       all = $('coverageAll').checked,
-      entries = D.coverage.filter(x => (all || !['pending', 'registry-only'].includes(x.review) || x.url) && (!q || norm(x.name + ' ' + x.note + ' ' + (x.zh || '')).includes(q))),
+      entries = D.coverage.filter(x => (all || q || !['pending', 'registry-only'].includes(x.review) || x.url) && (!q || Search.matches(coverageSearchCache.get(x.inn), queryTerms))),
       labels = {
         included: ['已录入', 'ok'],
         partial: ['部分核实', 'pending'],
@@ -507,6 +518,7 @@
 
   function switchView(v) {
     st.view = v;
+    document.body.dataset.page = v;
     for (let x of ['explore', 'flights', 'coverage']) $(x + 'View').hidden = x !== v;
     document.querySelectorAll('.nav').forEach(n => n.classList.toggle('active', n.dataset.view === v));
     if (v === 'explore') setTimeout(() => map?.invalidateSize(), 30);
@@ -516,6 +528,10 @@
       behavior: 'instant'
     })
   }
+  $('tableSearch').oninput = e => {
+    st.q = e.target.value;
+    apply()
+  };
   $('search').oninput = e => {
     st.q = e.target.value;
     apply()
@@ -617,6 +633,39 @@
     }
     if (e.key === 'Enter' && e.target.matches('tr[data-flight]')) showFlight(e.target.dataset.flight)
   });
+  let layout = {
+    titlesCollapsed: true,
+    filtersCollapsed: true
+  };
+  try {
+    const saved = JSON.parse(localStorage.getItem('sever-layout-v2') || '{}');
+    for (const k of Object.keys(layout))
+      if (typeof saved[k] === 'boolean') layout[k] = saved[k]
+  } catch {}
+
+  function syncLayout() {
+    document.body.classList.toggle('titles-collapsed', layout.titlesCollapsed);
+    $('filterOptions').hidden = layout.filtersCollapsed;
+    $('headerToggle').setAttribute('aria-expanded', String(!layout.titlesCollapsed));
+    $('headerToggle').title = layout.titlesCollapsed ? '展开标题区' : '收起标题区';
+    $('headerToggle').setAttribute('aria-label', $('headerToggle').title);
+    $('filtersToggle').setAttribute('aria-expanded', String(!layout.filtersCollapsed));
+    $('filtersToggle').textContent = layout.filtersCollapsed ? '展开筛选 ＋' : '收起筛选 −';
+    try {
+      localStorage.setItem('sever-layout-v2', JSON.stringify(layout))
+    } catch {}
+    requestAnimationFrame(() => map?.invalidateSize({
+      pan: false
+    }));
+  }
+  $('headerToggle').onclick = () => {
+    layout.titlesCollapsed = !layout.titlesCollapsed;
+    syncLayout()
+  };
+  $('filtersToggle').onclick = () => {
+    layout.filtersCollapsed = !layout.filtersCollapsed;
+    syncLayout()
+  };
   $('fitMap').onclick = fit;
   $('zoomIn').onclick = () => map?.zoomIn();
   $('zoomOut').onclick = () => map?.zoomOut();
@@ -688,6 +737,7 @@
   $('strictFilter').checked = st.strict;
   document.querySelectorAll('[data-family]').forEach(b => b.classList.toggle('active', b.dataset.family === st.family));
   document.querySelectorAll('[data-day]').forEach(b => b.classList.toggle('active', +b.dataset.day === st.day));
+  syncLayout();
   initMap();
   persist();
   apply();
@@ -706,6 +756,17 @@
   window.ATLAS_APP = {
     get visible() {
       return visible
+    },
+    get layout() {
+      return {
+        ...layout
+      }
+    },
+    get mapSize() {
+      return map?.getSize()
+    },
+    get mapZoom() {
+      return map?.getZoom()
     },
     activeOn,
     nextDates,
