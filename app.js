@@ -14,10 +14,12 @@
       "'": '&#39;'
     } [c]));
   const name = id => A[id]?.zh || A[id]?.ru || id,
-    short = id => A[id]?.iata || A[id]?.icao || A[id]?.ru || id,
+    short = id => (/^[A-Z]{3}$/.test(A[id]?.iata || '') ? A[id].iata : /^[A-Z]{4}$/.test(A[id]?.icao || '') ? A[id].icao : A[id]?.ru || id),
     fmt = x => x ? x.replaceAll('-', '.') : '未公布',
     week = ['', '一', '二', '三', '四', '五', '六', '日'],
     TODAY = D.asOf;
+  const romanizedName = id => window.ATLAS_SEARCH.romanize(A[id]?.ru || '');
+  const airportHeading = id => '<strong class="airport-code">'+esc(short(id))+'</strong><b class="airport-zh">'+esc(name(id))+'</b><small class="airport-native"><span lang="en">'+esc(romanizedName(id))+'</span> · <span lang="ru">'+esc(A[id]?.ru || '')+'</span></small>';
   const runtimeDate = new Date().toLocaleDateString('en-CA'),
     baseDate = runtimeDate >= TODAY ? runtimeDate : TODAY;
   const states = {
@@ -51,6 +53,8 @@
       id: D.flightAliases?.[x.id] || x.id
     })).filter(x => F.some(f => f.id === x.id))
   } catch {}
+  const modelFamily = model => ({'Mi-8T':'Mi-8',TVS:'An-2'})[model] || model;
+  const flightModels = f => [...new Set(f.aircraft.map(modelFamily))];
   const flightLabel = f => f.number || '航班号未公布';
   const bookingBadge = f => f.booking?.status === 'unverified' ? '<span class="badge warning">购票待确认</span>' : f.booking?.status === 'verified' && f.booking?.method.includes('二楼') ? '<span class="badge pending">机场柜台购票</span>' : '';
   const arrivalLabel = f => (f.arrival || '未公布') + (f.arrivalDayOffset > 0 ? ' (+' + f.arrivalDayOffset + ')' : f.arrivalDayOffset < 0 ? ' (' + f.arrivalDayOffset + ')' : '');
@@ -58,14 +62,15 @@
       let [t, c] = states[f.status] || states.confirmed;
       if (f.accessRestriction) return '<span class="badge warning">新地岛 · 需特别许可</span>';
       if (f.scheduleUnconfirmed) return '<span class="badge warning">'+(f.recurrence === 'seasonal-unconfirmed' ? '换季期间 · 日期待确认' : '适用日期待确认')+'</span>';
-      if (f.status === 'confirmed' && f.aircraft.length > 1) t = '候选机型范围';
+      if (f.status === 'confirmed' && flightModels(f).length > 1) t = '候选机型范围';
       if (f.conflictDates?.length) {
         t = '部分日期时刻冲突';
         c = 'warning'
       }
       return `<span class="badge ${c}">${t}</span>`
     },
-    types = f => f.aircraft.map(x => x === 'TVS' ? 'TVS（An-2 改型）' : x).join(' / '),
+    types = f => flightModels(f).join(' / '),
+    sourceTypes = f => f.aircraft.map(x => x === 'TVS' ? 'TVS（An-2 改型）' : x).join(' / '),
     route = f => f.route || [f.from, f.to],
     routeText = f => route(f).map(name).join(' → '),
     plainRoute = f => f.routeKind === 'circuit' ? name(f.from) + ' · 往返环线' : name(f.from) + ' → ' + name(f.to),
@@ -92,10 +97,10 @@
     }
     return out
   }
-  const modelOrder = ['An-2', 'TVS', 'An-24', 'An-26', 'An-28', 'An-38', 'An-72', 'An-74', 'Yak-40', 'Yak-42', 'Tu-134', 'Tu-154', 'Tu-204', 'Tu-214', 'Il-62', 'Il-76', 'Mi-8', 'Mi-8T', 'Mi-171', 'L-410', 'SSJ100'];
-  const modelSet = new Set([...F.flatMap(f => f.aircraft), 'L-410', 'Tu-204', 'Tu-214']);
+  const modelOrder = ['An-2', 'An-24', 'An-26', 'An-28', 'An-38', 'An-72', 'An-74', 'Yak-40', 'Yak-42', 'Tu-134', 'Tu-154', 'Tu-204', 'Tu-214', 'Il-62', 'Il-76', 'Mi-8', 'Mi-171', 'L-410', 'SSJ100'];
+  const modelSet = new Set([...F.flatMap(flightModels), 'L-410', 'Tu-204', 'Tu-214']);
   const families = [
-    ['', '全部'], ...modelOrder.filter(x => modelSet.has(x)).map(x => [x, x === 'An-2' ? 'An-2 / TVS' : x]), ...[...modelSet].filter(x => !modelOrder.includes(x)).sort().map(x => [x, x === 'An-2' ? 'An-2 / TVS' : x])
+    ['', '全部'], ...modelOrder.filter(x => modelSet.has(x)).map(x => [x, x]), ...[...modelSet].filter(x => !modelOrder.includes(x)).sort().map(x => [x, x])
   ];
   $('familyFilters').innerHTML = families.map(([id, t]) => `<button class="chip ${!id?'active':''}" data-family="${id}">${t}</button>`).join('');
   $('dayFilter').innerHTML = week.slice(1).map((w, i) => `<button data-day="${i+1}" aria-label="星期${w}">${w}</button>`).join('');
@@ -108,7 +113,7 @@
       c = D.coverage.find(x => x.airlineId === id) || {};
     return [a.ru, a.en, a.zh, a.code, c.name, c.legal, ...(Search.airlineAliases[id] || [])]
   };
-  const searchCache = new Map(F.map(f => [f.id, Search.index([f.number, ...(f.numberAliases || []), types(f), f.aircraftParent, ...airlineFields(f.airline), ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.sourceCode, A[id]?.ru, A[id]?.zh, A[id]?.en])])]));
+  const searchCache = new Map(F.map(f => [f.id, Search.index([f.number, ...(f.numberAliases || []), types(f), sourceTypes(f), f.aircraftParent, ...airlineFields(f.airline), ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.sourceCode, A[id]?.ru, A[id]?.zh, A[id]?.en, A[id]?.nameOriginalRu, romanizedName(id)])])]));
   const supplementalCoverage = Object.entries(AL).filter(([id]) => !D.coverage.some(c => c.airlineId === id)).map(([id,a]) => ({inn:'operator:'+id,airlineId:id,name:a.ru,zh:a.zh,url:a.url,review:'partial',note:a.note||'已录入官网时刻；此项为官网补查，未与俄文维基名录中的法人条目合并。',evidence:a.evidence||[]}));
   const coverageEntries = [...D.coverage, ...supplementalCoverage];
   const coverageSearchCache = new Map(coverageEntries.map(x => [x.inn, Search.index([x.name, x.legal, x.note, x.zh, x.url, ...(x.airlineId ? airlineFields(x.airlineId) : [])])]));
@@ -117,9 +122,8 @@
     limit = 35;
     const queryTerms = Search.terms(st.q);
     $('search').value = $('tableSearch').value = st.q;
-    visible = F.filter(f => (st.private || f.publicAccess !== 'unverified') && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || f.aircraft.includes(st.family) || f.aircraftParent === st.family) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && f.aircraft.length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
+    visible = F.filter(f => (st.private || f.publicAccess !== 'unverified') && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || flightModels(f).includes(st.family) || modelFamily(f.aircraftParent) === st.family) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && flightModels(f).length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
     visible.sort((a, b) => (nextDates(a, 1)[0] || '9999').localeCompare(nextDates(b, 1)[0] || '9999') || (a.departure || '99').localeCompare(b.departure || '99') || a.number.localeCompare(b.number));
-    $('filterSummary').textContent = [st.family || '全部机型', st.airline ? AL[st.airline].zh : '全部航司', st.date, st.day ? '周' + week[st.day] : '', st.strict ? '机型明确' : '', st.private ? '含待核班次' : ''].filter(Boolean).join(' · ');
     $('resultCount').textContent = visible.length + ' 条时刻';
     $('resultTitle').textContent = st.airport ? name(st.airport) : '已收录航班';
     $('selectedAirport').hidden = !st.airport;
@@ -296,7 +300,7 @@
         }).addTo(markerLayer);
       markers[id] = m;
       let dest = new Set(fs.flatMap(route).filter(x => x !== id));
-      m.bindTooltip(`<strong>${esc(short(id))}</strong><b>${esc(name(id))}</b><p>${esc(A[id].ru)}</p><p>${esc([...new Set(fs.flatMap(f=>f.aircraft))].join(' / '))}</p><div class="tt-bottom">${fs.length} 条时刻 · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
+      m.bindTooltip(`${airportHeading(id)}<p>${esc([...new Set(fs.flatMap(flightModels))].join(' / '))}</p><div class="tt-bottom">${fs.length} 条时刻 · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
         className: 'airport-tooltip',
         direction: 'top',
         offset: [0, -7]
@@ -344,7 +348,7 @@
     if (!f) return;
     let s = S[f.source],
       dates = nextDates(f, 120);
-    $('flightDetail').innerHTML = `<span class="eyebrow">FLIGHT NOTES · ${esc(AL[f.airline].ru)}</span><h2 class="detail-title">${esc(flightLabel(f))} <span class="aircraft-tag">${esc(types(f))}</span> ${badge(f)} ${bookingBadge(f)}</h2><div class="detail-airports"><div><strong>${esc(short(f.from))}</strong><b>${esc(name(f.from))}</b><small>${esc(A[f.from].ru)}</small></div><span>${f.routeKind==='circuit'?'⟳':'→'}</span><div><strong>${esc(short(f.to))}</strong><b>${esc(name(f.to))}</b><small>${esc(A[f.to].ru)}</small></div></div><div class="detail-times"><div><strong>${f.departure||'未公布'}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'出发地当地时间 · '+esc(A[f.from].tz||'时区待核实')}</small></div><div><strong>${arrivalLabel(f)}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'到达地当地时间 · '+esc(A[f.to].tz||'时区待核实')}</small></div></div><dl class="detail-grid"><div><dt>班期</dt><dd>${esc(daysText(f))}</dd></div><div><dt>有效期</dt><dd>${fmt(f.start)} — ${f.end?fmt(f.end):'结束日未公布'}</dd></div><div><dt>${AL[f.airline].role==='organizer'?'包机组织方 · 承运人待核':'运营航司'}</dt><dd>${esc(AL[f.airline].zh)}<br>${esc(AL[f.airline].ru)}</dd></div><div><dt>机型依据</dt><dd>${esc(states[f.status]?.[0]||'官网机型')} ${f.alternatives?.length?'· 可能替代 '+esc(f.alternatives.join('/')):''}</dd></div></dl>${f.scheduleOriginal?'<p class="detail-note"><b>官网原始班期</b><br>'+esc(f.scheduleOriginal)+'</p>':''}${f.unconfirmedDates?.some(d=>d>=baseDate)?'<p class="detail-note"><b>星号日期 · 执行条件待确认</b><br>'+f.unconfirmedDates.filter(d=>d>=baseDate).map(fmt).join('、')+'；不进入确定日期筛选和衔接计算。</p>':''}${f.route?'<p class="detail-route">航路：'+esc(routeText(f))+'</p>':''}${f.stopTimes?'<ol class="stop-timeline">'+f.stopTimes.map(x=>'<li><strong>'+esc(name(x.airport))+'</strong>'+[x.arrival?'到达 '+x.arrival:'',x.departure?'出发 '+x.departure:''].filter(Boolean).join(' · ')+'</li>').join('')+'</ol>':''}${f.accessRestriction?'<p class="access-warning"><strong>'+esc(f.accessRestriction)+'</strong><br>预约或显示余位不等于获得进入资格；请先向组织方确认许可条件。</p>':''}<p class="detail-note">${esc((f.timeCheck?'官网飞行时长与两地当地时间换算不一致；不计算可靠衔接。':'')+(f.conflictDates?.length?'同航班同航段出现不同计划时刻，冲突日期：'+f.conflictDates.map(fmt).join('、')+'。这些日期不计算衔接。':'')+(f.publicAccess==='unverified'?'散客购票资格尚未核实。':'')+(f.conditional?'按客流/载荷条件执行。':'')+(f.note||'官网计划机型；实际执飞机型和售票状态仍需订票时确认。'))}${f.recurrence==='biweekly-unconfirmed'?'<br>隔周起算日期不明，不在指定日期筛选中推演。':''}${f.status==='source-conflict'?'<br>版本冲突未解决，不进入指定日期筛选。':''}</p>${f.booking?'<div class="booking-note"><b>购票方式 · '+esc(f.booking.method)+'</b> '+bookingBadge(f)+'<p>'+esc(f.booking.text)+'</p><a href="'+esc(f.booking.url)+'" target="_blank" rel="noopener">购票 / 咨询入口 ↗</a> <a href="'+esc(f.booking.source)+'" target="_blank" rel="noopener">购票信息来源 ↗</a></div>':''}<b class="mini-label">${f.dates?'官网指定日期':'按公布班期展开的近期日期'}</b><div class="detail-dates">${dates.length?dates.map(d=>'<span>'+fmt(d)+' · '+week[new Date(d+'T12:00Z').getUTCDay()||7]+'</span>').join(''):'<span>日期需向航司确认</span>'}</div><div class="detail-source"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a><small>来源定位：${esc(f.sourceLocator)} · 核查 ${fmt(f.checkedAt)}</small>${(f.localSource||s.local)?'<a href="'+esc(f.localSource||s.local)+'" target="_blank">本地原始快照 ↗</a>':''}${f.evidenceSources?.length?'<div class="crosscheck-sources"><b>交叉核对来源</b>'+f.evidenceSources.map(e=>'<span><a href="'+esc(e.url)+'" target="_blank" rel="noopener">'+esc(e.title)+' ↗</a>'+(e.local?' <a href="'+esc(e.local)+'" target="_blank" rel="noopener">原件快照</a>':'')+'</span>').join('')+'</div>':''}${f.routeEvidence?.length>1?'<small>经停顺序由官网同号同日班段重建：</small>'+f.routeEvidence.map((url,i)=>'<a href="'+esc(url)+'" target="_blank" rel="noopener">第 '+(i+1)+' 段官方查询快照 ↗</a>').join(''):''}<small>${esc(s.note||'')}<br>计划时刻不代表当日实际起降或当前有余票。</small></div><div class="detail-actions"><button class="primary" id="saveFlight">＋ 加入我的行程</button><button class="secondary" id="focusFlight">在地图中查看 ↗</button><button class="secondary" id="onwardFlight">从目的地继续探索 →</button></div>`;
+    $('flightDetail').innerHTML = `<span class="eyebrow">FLIGHT NOTES · ${esc(AL[f.airline].ru)}</span><h2 class="detail-title">${esc(flightLabel(f))} <span class="aircraft-tag">${esc(types(f))}</span> ${badge(f)} ${bookingBadge(f)}</h2><div class="detail-airports"><div>${airportHeading(f.from)}</div><span>${f.routeKind==='circuit'?'⟳':'→'}</span><div>${airportHeading(f.to)}</div></div><div class="detail-times"><div><strong>${f.departure||'未公布'}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'出发地当地时间 · '+esc(A[f.from].tz||'时区待核实')}</small></div><div><strong>${arrivalLabel(f)}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'到达地当地时间 · '+esc(A[f.to].tz||'时区待核实')}</small></div></div><dl class="detail-grid"><div><dt>班期</dt><dd>${esc(daysText(f))}</dd></div><div><dt>有效期</dt><dd>${fmt(f.start)} — ${f.end?fmt(f.end):'结束日未公布'}</dd></div><div><dt>${AL[f.airline].role==='organizer'?'包机组织方 · 承运人待核':'运营航司'}</dt><dd>${esc(AL[f.airline].zh)}<br>${esc(AL[f.airline].ru)}</dd></div><div><dt>机型依据</dt><dd>${esc(sourceTypes(f))} · ${esc(states[f.status]?.[0]||'官网机型')} ${f.alternatives?.length?'· 可能替代 '+esc(f.alternatives.join('/')):''}</dd></div></dl>${f.scheduleOriginal?'<p class="detail-note"><b>官网原始班期</b><br>'+esc(f.scheduleOriginal)+'</p>':''}${f.unconfirmedDates?.some(d=>d>=baseDate)?'<p class="detail-note"><b>星号日期 · 执行条件待确认</b><br>'+f.unconfirmedDates.filter(d=>d>=baseDate).map(fmt).join('、')+'；不进入确定日期筛选和衔接计算。</p>':''}${f.route?'<p class="detail-route">航路：'+esc(routeText(f))+'</p>':''}${f.stopTimes?'<ol class="stop-timeline">'+f.stopTimes.map(x=>'<li><strong>'+esc(name(x.airport))+'</strong>'+[x.arrival?'到达 '+x.arrival:'',x.departure?'出发 '+x.departure:''].filter(Boolean).join(' · ')+'</li>').join('')+'</ol>':''}${f.accessRestriction?'<p class="access-warning"><strong>'+esc(f.accessRestriction)+'</strong><br>预约或显示余位不等于获得进入资格；请先向组织方确认许可条件。</p>':''}<p class="detail-note">${esc((f.timeCheck?'官网飞行时长与两地当地时间换算不一致；不计算可靠衔接。':'')+(f.conflictDates?.length?'同航班同航段出现不同计划时刻，冲突日期：'+f.conflictDates.map(fmt).join('、')+'。这些日期不计算衔接。':'')+(f.publicAccess==='unverified'?'散客购票资格尚未核实。':'')+(f.conditional?'按客流/载荷条件执行。':'')+(f.note||'官网计划机型；实际执飞机型和售票状态仍需订票时确认。'))}${f.recurrence==='biweekly-unconfirmed'?'<br>隔周起算日期不明，不在指定日期筛选中推演。':''}${f.status==='source-conflict'?'<br>版本冲突未解决，不进入指定日期筛选。':''}</p>${f.booking?'<div class="booking-note"><b>购票方式 · '+esc(f.booking.method)+'</b> '+bookingBadge(f)+'<p>'+esc(f.booking.text)+'</p><a href="'+esc(f.booking.url)+'" target="_blank" rel="noopener">购票 / 咨询入口 ↗</a> <a href="'+esc(f.booking.source)+'" target="_blank" rel="noopener">购票信息来源 ↗</a></div>':''}<b class="mini-label">${f.dates?'官网指定日期':'按公布班期展开的近期日期'}</b><div class="detail-dates">${dates.length?dates.map(d=>'<span>'+fmt(d)+' · '+week[new Date(d+'T12:00Z').getUTCDay()||7]+'</span>').join(''):'<span>日期需向航司确认</span>'}</div><div class="detail-source"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a><small>来源定位：${esc(f.sourceLocator)} · 核查 ${fmt(f.checkedAt)}</small>${(f.localSource||s.local)?'<a href="'+esc(f.localSource||s.local)+'" target="_blank">本地原始快照 ↗</a>':''}${f.evidenceSources?.length?'<div class="crosscheck-sources"><b>交叉核对来源</b>'+f.evidenceSources.map(e=>'<span><a href="'+esc(e.url)+'" target="_blank" rel="noopener">'+esc(e.title)+' ↗</a>'+(e.local?' <a href="'+esc(e.local)+'" target="_blank" rel="noopener">原件快照</a>':'')+'</span>').join('')+'</div>':''}${f.routeEvidence?.length>1?'<small>经停顺序由官网同号同日班段重建：</small>'+f.routeEvidence.map((url,i)=>'<a href="'+esc(url)+'" target="_blank" rel="noopener">第 '+(i+1)+' 段官方查询快照 ↗</a>').join(''):''}<small>${esc(s.note||'')}<br>计划时刻不代表当日实际起降或当前有余票。</small></div><div class="detail-actions"><button class="primary" id="saveFlight">＋ 加入我的行程</button><button class="secondary" id="focusFlight">在地图中查看 ↗</button><button class="secondary" id="onwardFlight">从目的地继续探索 →</button></div>`;
     $('saveFlight').onclick = () => {
       trip.push({
         id,
@@ -727,6 +731,8 @@
   if (!A[st.airport]) st.airport = '';
   st.family = ({
     heli: 'Mi-8',
+    'Mi-8T': 'Mi-8',
+    TVS: 'An-2',
     ssj: 'SSJ100',
     an2: 'An-2',
     antonov: '',

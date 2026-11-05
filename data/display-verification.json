@@ -1,0 +1,152 @@
+{
+  "checkedAt": "2026-11-05",
+  "base": "http://127.0.0.1:8765/",
+  "airportNames": 366,
+  "merged": [
+    {
+      "family": "Mi-8",
+      "count": 449,
+      "raw": [
+        {
+          "type": "Mi-8",
+          "count": 431
+        },
+        {
+          "type": "Mi-8T",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "family": "An-2",
+      "count": 79,
+      "raw": [
+        {
+          "type": "An-2",
+          "count": 73
+        },
+        {
+          "type": "TVS",
+          "count": 6
+        }
+      ]
+    }
+  ],
+  "identities": [
+    {
+      "id": "NJC",
+      "code": "NJC",
+      "zh": "下瓦尔托夫斯克",
+      "ru": "Нижневартовск",
+      "roman": "Nizhnevartovsk",
+      "flight": "ugra-nv-np-9819"
+    },
+    {
+      "id": "UHEK",
+      "code": "UHEK",
+      "zh": "库波尔",
+      "ru": "Купол",
+      "roman": "Kupol",
+      "flight": "f-f262841d98cf"
+    },
+    {
+      "id": "KHM-KORLIKI",
+      "code": "Корлики",
+      "zh": "科尔利基",
+      "ru": "Корлики",
+      "roman": "Korliki",
+      "flight": "ugra-nv-np-9819"
+    }
+  ],
+  "searches": [
+    {
+      "queries": [
+        "Корлики",
+        "Korliki",
+        "科尔利基"
+      ],
+      "count": 8
+    },
+    {
+      "queries": [
+        "Нижневартовск",
+        "Nizhnevartovsk",
+        "下瓦尔托夫斯克"
+      ],
+      "count": 43
+    },
+    {
+      "queries": [
+        "Купол",
+        "Kupol",
+        "库波尔"
+      ],
+      "count": 8
+    }
+  ],
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "scrollW": 1440,
+      "scrollH": 900,
+      "list": 559,
+      "dialog": {
+        "client": 618,
+        "scroll": 618
+      }
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "scrollW": 1024,
+      "scrollH": 600,
+      "list": 311,
+      "dialog": {
+        "client": 618,
+        "scroll": 618
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollW": 390,
+      "scrollH": 6279,
+      "list": 5430,
+      "dialog": {
+        "client": 354,
+        "scroll": 354
+      }
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "scrollW": 320,
+      "scrollH": 6230,
+      "list": 5430,
+      "dialog": {
+        "client": 284,
+        "scroll": 284
+      }
+    }
+  ],
+  "errors": [],
+  "checks": [
+    "merged-filter-unions",
+    "subtypes-preserved-in-detail",
+    "legacy-links",
+    "airport-three-line-headings",
+    "deleted-filter-text",
+    "Cyrillic-Latin-Chinese-search",
+    "overview-and-source-search",
+    "desktop-fixed-viewport",
+    "collapsible-options-list-visible",
+    "list-scroll",
+    "mobile-no-horizontal-overflow"
+  ],
+  "invariants": {
+    "flightRecordsUnchanged": 2169,
+    "airportCoordinatesCodesAndTimezonesUnchanged": 366,
+    "dataValidationErrors": []
+  }
+}

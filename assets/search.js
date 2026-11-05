@@ -1,8 +1,17 @@
-/* Search-only transliteration and spelling aliases; source names are unchanged. */
+/* Shared Russian romanization, search normalization, and spelling aliases. */
 'use strict';
 (()=>{
 const cyrillic={а:'a',б:'b',в:'v',г:'g',д:'d',е:'e',ё:'yo',ж:'zh',з:'z',и:'i',й:'y',к:'k',л:'l',м:'m',н:'n',о:'o',п:'p',р:'r',с:'s',т:'t',у:'u',ф:'f',х:'kh',ц:'ts',ч:'ch',ш:'sh',щ:'shch',ъ:'',ы:'y',ь:'',э:'e',ю:'yu',я:'ya',і:'i',ї:'yi',є:'ye',ґ:'g'};
 const scholarly={č:'ch',š:'sh',ž:'zh',ŝ:'shch',â:'ya',û:'yu',ë:'yo'};
+// Readable romanization for display; search normalization remains independent.
+function romanize(value){
+ const text=String(value??'');
+ return Array.from(text).map(c=>{
+  const lower=c.toLowerCase(),part=cyrillic[lower];
+  if(part===undefined)return c;
+  return c!==lower ? part.charAt(0).toUpperCase()+part.slice(1) : part;
+ }).join('');
+}
 function normalize(value){
  return String(value??'').toLowerCase().normalize('NFC')
  .replace(/[а-яёіїєґ]/g,c=>cyrillic[c]).replace(/[čšžŝâûë]/g,c=>scholarly[c])
@@ -22,5 +31,5 @@ const airlineAliases={
  nao:['Naryan Mar United Air Detachment'],alrosa:['Alrosa'],kras:['KrasAvia'],yakutia:['Yakutia','Yakutiya'],
  redwings:['Red Wings','Ред Вингс'],yamal:['Yamal'],sila:['Siberian Light Aviation','SiLA'],kostroma:['Kostroma Aviation Enterprise','Kostroma Air'],rossiya:['Rossiya','Rossia','Rossija'],aeroservice:['Aeroservice','Aeroservis'],aeroprom:['Aeroprom'], 'utair-heli':['Utair Helicopter Services','UTair'], 'arctika-charter':['Arktika Perevozki','Arctika Perevozki']
 };
-window.ATLAS_SEARCH={normalize,index,terms,matches,airlineAliases};
+window.ATLAS_SEARCH={normalize,index,terms,matches,airlineAliases,romanize};
 })();
