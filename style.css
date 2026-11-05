@@ -2226,3 +2226,17 @@ dialog[open] {
 .leaflet-tooltip.airport-tooltip { max-width:min(440px,calc(100vw - 40px)); white-space:normal; }
 .airport-tooltip .airport-code { overflow-wrap:anywhere; }
 .detail-airports .airport-native { margin-top:7px; line-height:1.6; overflow-wrap:anywhere; }
+
+/* Entry permits are notices; only closed destinations are hidden by default. */
+.access-notices { display:grid; gap:12px; margin:22px 0; }
+.access-notice { padding:14px 16px; border-left:3px solid #a15b23; background:#fff3e6; font-size:12px; line-height:1.75; }
+.access-notice.access-permit { border-color:#6a849a; background:#f2f6f9; }
+.access-notice > strong { display:block; font-size:14px; }
+.access-notice > small { display:block; color:var(--muted); margin:4px 0 10px; }
+.access-notice p { margin:6px 0; }
+.access-source-links { display:flex; flex-wrap:wrap; gap:5px 12px; margin-top:10px; }
+.access-source-links a { font-size:10px; overflow-wrap:anywhere; }
+.airport-access { margin:9px 0; padding:8px 9px; background:#f2f6f9; border-left:2px solid #6a849a; max-width:285px; line-height:1.6; }
+.airport-access.access-closed { background:#fff3e6; border-color:#a15b23; }
+.airport-access b, .airport-access span { display:block; font-size:10px; }
+.trip-access { color:#80613b; margin-top:8px; }

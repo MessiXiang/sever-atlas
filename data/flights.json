@@ -380,7 +380,10 @@
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
       "nameOriginalRu": "Kupol Airport",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "БМЯ": {
       "id": "БМЯ",
@@ -436,7 +439,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "PWE": {
       "id": "PWE",
@@ -452,7 +458,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "OHO": {
       "id": "OHO",
@@ -484,7 +493,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "HFE": {
       "id": "HFE",
@@ -1672,7 +1684,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "PVS": {
       "id": "PVS",
@@ -1688,7 +1703,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHML": {
       "id": "UHML",
@@ -1705,7 +1723,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHMR": {
       "id": "UHMR",
@@ -1722,7 +1743,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-UST-BELAYA": {
       "id": "CHU-UST-BELAYA",
@@ -1739,7 +1763,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-SNEZHNOYE": {
       "id": "CHU-SNEZHNOYE",
@@ -1756,7 +1783,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHAO": {
       "id": "UHAO",
@@ -1773,7 +1803,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-1039": {
       "id": "RU-1039",
@@ -1790,7 +1823,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHAR": {
       "id": "UHAR",
@@ -1807,7 +1843,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-KHATYRKA": {
       "id": "CHU-KHATYRKA",
@@ -1824,7 +1863,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-MEYNYPILGYNO": {
       "id": "CHU-MEYNYPILGYNO",
@@ -1841,7 +1883,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHMI": {
       "id": "UHMI",
@@ -1858,7 +1903,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "KVM": {
       "id": "KVM",
@@ -1874,7 +1922,10 @@
       "coordinateStatus": "airport",
       "region": "RU-CHU",
       "tzVerified": true,
-      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl"
+      "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHAC": {
       "id": "UHAC",
@@ -1891,7 +1942,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0472": {
       "id": "RU-0472",
@@ -1908,7 +1962,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHME": {
       "id": "UHME",
@@ -1925,7 +1982,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0610": {
       "id": "RU-0610",
@@ -1942,7 +2002,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHDW": {
       "id": "UHDW",
@@ -1959,7 +2022,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0605": {
       "id": "RU-0605",
@@ -1976,7 +2042,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0725": {
       "id": "RU-0725",
@@ -1993,7 +2062,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0606": {
       "id": "RU-0606",
@@ -2010,7 +2082,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHAS": {
       "id": "UHAS",
@@ -2027,7 +2102,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0608": {
       "id": "RU-0608",
@@ -2044,7 +2122,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-INCHOUN": {
       "id": "CHU-INCHOUN",
@@ -2061,7 +2142,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-ENURMINO": {
       "id": "CHU-ENURMINO",
@@ -2078,7 +2162,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0609": {
       "id": "RU-0609",
@@ -2095,7 +2182,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-NUNLIGRAN": {
       "id": "CHU-NUNLIGRAN",
@@ -2112,7 +2202,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHAB": {
       "id": "UHAB",
@@ -2129,7 +2222,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-BILLINGS": {
       "id": "CHU-BILLINGS",
@@ -2146,7 +2242,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-AYON": {
       "id": "CHU-AYON",
@@ -2163,7 +2262,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-RYTKUCHI": {
       "id": "CHU-RYTKUCHI",
@@ -2180,7 +2282,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-ANYUYSK": {
       "id": "CHU-ANYUYSK",
@@ -2197,7 +2302,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-10100": {
       "id": "RU-10100",
@@ -2214,7 +2322,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-KAETTYN": {
       "id": "CHU-KAETTYN",
@@ -2230,7 +2341,10 @@
       "coordinateStatus": "unresolved",
       "region": "",
       "tzVerified": false,
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "UHEI": {
       "id": "UHEI",
@@ -2247,7 +2361,10 @@
       "region": "RU-CHU",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "CHU-OSTROVNOYE": {
       "id": "CHU-OSTROVNOYE",
@@ -2264,7 +2381,10 @@
       "region": "",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "chukotka-foreign"
+      ]
     },
     "RU-0576": {
       "id": "RU-0576",
@@ -3595,7 +3715,10 @@
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
       "nameOriginalRu": "Dikson",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "dikson-border"
+      ]
     },
     "IAA": {
       "id": "IAA",
@@ -3633,7 +3756,10 @@
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
       "nameOriginalRu": "Norilsk",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "norilsk-foreign"
+      ]
     },
     "KYA-YUZHKA": {
       "id": "KYA-YUZHKA",
@@ -3651,7 +3777,10 @@
       "sourceCode": "ЮЖЖ",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "dikson-border"
+      ]
     },
     "EYK": {
       "id": "EYK",
@@ -3918,7 +4047,10 @@
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
       "nameOriginalRu": "Khatanga",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "taimyr-border"
+      ]
     },
     "KYA-KATYRYK": {
       "id": "KYA-KATYRYK",
@@ -3954,7 +4086,10 @@
       "sourceCode": "МБР",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "taimyr-border"
+      ]
     },
     "KYA-NOVAYA": {
       "id": "KYA-NOVAYA",
@@ -3990,7 +4125,10 @@
       "sourceCode": "НРЫ",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "taimyr-border"
+      ]
     },
     "KYA-POPIGAY": {
       "id": "KYA-POPIGAY",
@@ -4026,7 +4164,10 @@
       "sourceCode": "СДН",
       "tzVerified": true,
       "timezoneSource": "timezonefinder 9.2 / timezone-boundary-builder geographic lookup; IANA zone rules via browser Intl",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "taimyr-border"
+      ]
     },
     "KYA-KHETA": {
       "id": "KYA-KHETA",
@@ -5203,7 +5344,10 @@
       "icao": "ULDA",
       "iata": "",
       "note": "新地岛 Rogachyovo；需特别许可，一般无法进入。不同于大陆上的 AMV / ULDD。",
-      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。"
+      "zhLabelBasis": "常用中文名或依原俄文音译的显示名；不代表官方中文名称。",
+      "accessPolicyIds": [
+        "novaya-zemlya"
+      ]
     },
     "ZAB-TUNGOKOCHEN": {
       "id": "ZAB-TUNGOKOCHEN",
@@ -96965,5 +97109,200 @@
     "airportNameCorrections": [
       "SWV: Северо-Эвенск / 北埃文斯克（按已保存航司官方时刻页）"
     ]
+  },
+  "accessPolicies": {
+    "novaya-zemlya": {
+      "kind": "closed-military",
+      "hideByDefault": true,
+      "title": "新地岛 · 军事管制地区",
+      "badge": "新地岛 · 一般无法进入",
+      "foreigners": "普通外国旅客通常无法进入；须获得针对该军事管制地区的特别批准，不能按普通旅游行程安排。",
+      "russianCitizens": "俄罗斯公民也须核实并取得适用的通行证或入区批准；机票与预约不构成进入资格。",
+      "note": "Amderma-2／Rogachyovo 位于新地岛；不是涅涅茨自治区的 Amderma（AMV）。默认隐藏，勾选“含受限 / 购票资格待核班次”后显示。",
+      "sources": [
+        "foreign-territories",
+        "novaya-booking"
+      ]
+    },
+    "dikson-border": {
+      "kind": "border-permit",
+      "hideByDefault": false,
+      "title": "迪克森 · 边境管制区",
+      "badge": "边境许可 · 保留显示",
+      "foreigners": "须按边境制度申请许可并核实停留范围；不视为外国旅客绝对不可进入的ЗАТО。",
+      "russianCitizens": "普通外来旅客进入五公里边境带须持通行证；当地居民等法定豁免情形以主管机关认定为准。",
+      "note": "第273号令明确列入迪克森及所属岛屿。此项只提示办证要求，不自动隐藏航班。",
+      "sources": [
+        "kras-border",
+        "border-rules",
+        "zato-list"
+      ]
+    },
+    "norilsk-foreign": {
+      "kind": "foreign-permit",
+      "hideByDefault": false,
+      "title": "诺里尔斯克 · 外国人访问审批",
+      "badge": "外国人准入审批",
+      "foreigners": "需由接待方办理访问准入审批；批准前应核实当期受理和获准情况。",
+      "russianCitizens": "第470号决议针对外国人，不能据此认定俄罗斯公民也必须办理入城通行证。",
+      "note": "不按ЗАТО处理，也不因需要访问审批而默认隐藏。",
+      "sources": [
+        "foreign-territories",
+        "zato-list"
+      ]
+    },
+    "chukotka-foreign": {
+      "kind": "foreign-permit",
+      "hideByDefault": false,
+      "title": "楚科奇 · 外国人访问审批",
+      "badge": "楚科奇 · 需事先审批",
+      "foreigners": "可按规定申请访问许可，由接待方协调审批；进入具体边境区域时还需核实相应边境许可。",
+      "russianCitizens": "没有针对整个楚科奇的外国人审批要求；具体边境地点的通行证、居民豁免等条件另行核实。",
+      "note": "可申请进入，不按外国人不可进入的封闭城市处理；航班保留正常显示。",
+      "sources": [
+        "foreign-territories",
+        "border-rules"
+      ]
+    },
+    "taimyr-border": {
+      "kind": "border-permit",
+      "hideByDefault": false,
+      "title": "泰梅尔 · 边境通行要求",
+      "badge": "边境许可 · 保留显示",
+      "foreigners": "此地点位于第273号令列示的边境区域，出行前须核实并申请适用许可。",
+      "russianCitizens": "进入五公里边境带通常须持通行证；居民及法定豁免情况另行适用。",
+      "note": "许可要求不等于完全无法进入；本项不导致航班默认隐藏。",
+      "sources": [
+        "kras-border",
+        "border-rules"
+      ]
+    }
+  },
+  "accessSources": {
+    "zato-list": {
+      "title": "俄罗斯政府第508号决议 · ЗАТО名录（法令转载）",
+      "url": "https://sudact.ru/law/postanovlenie-pravitelstva-rf-ot-05072001-n-508/",
+      "local": "sources/access/zato508.html",
+      "checkedAt": "2026-11-05",
+      "sha256": "a55f1f8c6e0dd04890862fac3d4fdec11127816f91775d394b8b9308ab4ddeb6"
+    },
+    "foreign-territories": {
+      "title": "俄罗斯政府第470号决议 · 外国人访问管制地区（2026-10-07修订，法令转载）",
+      "url": "https://sudact.ru/law/postanovlenie-pravitelstva-rf-ot-04071992-n-470/",
+      "local": "sources/access/law-sudact.html",
+      "checkedAt": "2026-11-05",
+      "sha256": "2b39830d6bdb78cf2f13cbe4890557a7b3d9841ad4c7c5a5e0580baadf018c30"
+    },
+    "kras-border": {
+      "title": "FSB第273号令 · 克拉斯诺亚尔斯克边境区域（法令转载）",
+      "url": "https://sudact.ru/law/prikaz-fsb-rf-ot-29052007-n-273/",
+      "local": "sources/access/fsb273.html",
+      "checkedAt": "2026-11-05",
+      "sha256": "16749ab4a409189799e4fd7088f47b17946111ee16efc743b1179cdc48a8e3fb"
+    },
+    "border-rules": {
+      "title": "FSB第454号令 · 边境通行规则（2024-05-25修订，法令转载）",
+      "url": "https://sudact.ru/law/prikaz-fsb-rossii-ot-07082017-n-454/",
+      "local": "sources/access/fsb454.html",
+      "checkedAt": "2026-11-05",
+      "sha256": "1162c9feee33eea3e5701633c9ad56b6414beb9f47c9fcc3cb0ecdc16b546afb"
+    },
+    "novaya-booking": {
+      "title": "Арктика Перевозки · 新地岛航班预约",
+      "url": "https://ap-avia.ru/booking/",
+      "local": "sources/remote-routes/ap-booking.html",
+      "checkedAt": "2026-11-05"
+    }
+  },
+  "accessReview": {
+    "checkedAt": "2026-11-05",
+    "policy": "仅将普通外国旅客通常无法进入的封闭地点设为默认隐藏；可申请许可的地区仅提示。既有购票资格待核筛选不变。",
+    "checkedAirportCount": 366,
+    "statutoryZatoCount": 38,
+    "newStatutoryMatches": [],
+    "defaultHiddenAirports": [
+      "ROGACHEVO"
+    ],
+    "defaultHiddenFlightIds": [
+      "remote-ap-СИ9641",
+      "remote-ap-СИ9642"
+    ],
+    "permitNoticeAirports": [
+      "CHU-ANYUYSK",
+      "CHU-AYON",
+      "CHU-BILLINGS",
+      "CHU-ENURMINO",
+      "CHU-INCHOUN",
+      "CHU-KAETTYN",
+      "CHU-KHATYRKA",
+      "CHU-MEYNYPILGYNO",
+      "CHU-NUNLIGRAN",
+      "CHU-OSTROVNOYE",
+      "CHU-RYTKUCHI",
+      "CHU-SNEZHNOYE",
+      "CHU-UST-BELAYA",
+      "DKS",
+      "DYR",
+      "HTG",
+      "KPW",
+      "KVM",
+      "KYA-NOVORYBNAYA",
+      "KYA-YUZHKA",
+      "NSK",
+      "PVS",
+      "PWE",
+      "RU-0472",
+      "RU-0605",
+      "RU-0606",
+      "RU-0608",
+      "RU-0609",
+      "RU-0610",
+      "RU-0617",
+      "RU-0680",
+      "RU-0725",
+      "RU-10100",
+      "RU-1039",
+      "UHAB",
+      "UHAC",
+      "UHAO",
+      "UHAR",
+      "UHAS",
+      "UHDW",
+      "UHEI",
+      "UHEK",
+      "UHME",
+      "UHMI",
+      "UHML",
+      "UHMN",
+      "UHMR"
+    ],
+    "homonymExclusions": [
+      {
+        "airport": "MJZ",
+        "actualRegion": "萨哈共和国 RU-SA",
+        "excludedMatch": "阿尔汉格尔斯克州 Мирный／普列谢茨克",
+        "reason": "机场 UERR，62.5347N 114.039E；不同地区与机场。"
+      },
+      {
+        "airport": "PYJ",
+        "actualRegion": "萨哈共和国 RU-SA",
+        "excludedMatch": "摩尔曼斯克州 Александровск 下属 Полярный",
+        "reason": "机场 UERP，66.4004N 112.03E；不同地区。"
+      },
+      {
+        "airport": "SAFONOVO",
+        "actualRegion": "阿尔汉格尔斯克州列舒孔斯科耶地区",
+        "excludedMatch": "摩尔曼斯克州 Североморск 下属 Сафоново",
+        "reason": "65.6722N 47.6903E 的村镇，不是摩尔曼斯克地点。"
+      },
+      {
+        "airport": "GOY",
+        "actualRegion": "克拉斯诺亚尔斯克边疆区 RU-KYA",
+        "excludedMatch": "外贝加尔边疆区 Горный",
+        "reason": "图拉的 Горный 机场，不是外贝加尔封闭城镇。"
+      }
+    ],
+    "registrySource": "zato-list",
+    "limitations": "核对的是当前366个航点，不是对俄罗斯所有管制区域边界的完整测绘。没有当前航班的ЗАТО城市不虚构航线；未确认地点不会仅凭名字归类。"
   }
 }

@@ -41,3 +41,21 @@ for f in reviewed:
  assert all((ROOT/p).exists() for p in f.get('routeEvidence',[]))
 for f in F:
  if f.get('geographyCheck'):assert f.get('publicAccess')=='unverified', 'Unresolved geographic anomaly must not appear as ordinary public service'
+
+# Access policies are distinct from ticket eligibility; match airport identities only.
+for airport in A.values():
+ for policy in airport.get('accessPolicyIds',[]):
+  assert policy in D.get('accessPolicies',{}), ('missing access policy',airport['id'],policy)
+for policy in D.get('accessPolicies',{}).values():
+ assert isinstance(policy['hideByDefault'],bool)
+ for source in policy['sources']:
+  assert source in D['accessSources'], ('missing access source',source)
+  local=D['accessSources'][source].get('local')
+  if local:assert (ROOT/local).exists(), ('missing access snapshot',local)
+if D.get('accessReview'):
+ for id in ['MJZ','PYJ','SAFONOVO','GOY']:
+  assert not A[id].get('accessPolicyIds'), ('homonym incorrectly restricted',id)
+ assert not D['accessPolicies']['chukotka-foreign']['hideByDefault']
+ assert not D['accessPolicies']['dikson-border']['hideByDefault']
+ assert not D['accessPolicies']['norilsk-foreign']['hideByDefault']
+ assert D['accessPolicies']['novaya-zemlya']['hideByDefault']
