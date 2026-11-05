@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 refresh/
+
+# Local original archive and scratch work; never ship these.
+avia-atlas.zip
+work/
+dist/
+artifacts/

@@ -5,7 +5,7 @@ const cyrillic={а:'a',б:'b',в:'v',г:'g',д:'d',е:'e',ё:'yo',ж:'zh',з:'z'
 const scholarly={č:'ch',š:'sh',ž:'zh',ŝ:'shch',â:'ya',û:'yu',ë:'yo'};
 // Readable romanization for display; search normalization remains independent.
 function romanize(value){
- const text=String(value??'');
+ const text=String(((value) => value != null ? value : '')(value));
  return Array.from(text).map(c=>{
   const lower=c.toLowerCase(),part=cyrillic[lower];
   if(part===undefined)return c;
@@ -13,7 +13,7 @@ function romanize(value){
  }).join('');
 }
 function normalize(value){
- return String(value??'').toLowerCase().normalize('NFC')
+ return String(((value) => value != null ? value : '')(value)).toLowerCase().normalize('NFC')
  .replace(/[а-яёіїєґ]/g,c=>cyrillic[c]).replace(/[čšžŝâûë]/g,c=>scholarly[c])
  .normalize('NFKD').replace(/[\u0300-\u036f]/g,'')
  .replace(/shch|sch/g,'shch').replace(/kh/g,'h')
@@ -22,7 +22,7 @@ function normalize(value){
  .replace(/[^a-z0-9\u3400-\u9fff]/g,'');
 }
 function index(fields){return [...new Set(fields.filter(x=>x!=null).map(normalize).filter(Boolean))]}
-function terms(query){return String(query??'').trim().split(/\s+/).map(normalize).filter(Boolean)}
+function terms(query){return String(((value) => value != null ? value : '')(query)).trim().split(/\s+/).map(normalize).filter(Boolean)}
 function matches(fields,query){const qs=Array.isArray(query)?query:terms(query);return qs.every(q=>fields.some(field=>field.includes(q)))}
 const airlineAliases={
  iraero:['IrAero','Ir Aero'],polar:['Polar Airlines','Polyarnye Avialinii'],chuko:['Chukotavia'],

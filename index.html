@@ -1,452 +1,332 @@
 <!DOCTYPE html>
+
 <html lang="zh-CN">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
-  <meta content="#f7f8fa" name="theme-color"/>
-  <meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
-  <link href="assets/maoji-icon.png" rel="icon" type="image/png"/>
-  <title>
-   毛机指南 by Messerschmitt.X
-  </title>
-  <link href="assets/leaflet.css" rel="stylesheet"/>
-  <link href="style.css" rel="stylesheet"/>
- </head>
- <body class="titles-collapsed" data-page="explore">
-  <header class="app-header" id="appHeader">
-   <a aria-label="毛机指南 by Messerschmitt.X 首页" class="brand" href="#">
-    <img class="brand-avatar" src="assets/maoji-logo.png" width="44" height="44" alt="毛机指南飞行企鹅 logo"/>
-    <span class="brand-copy">
-     <strong>毛机指南</strong>
-     <span class="brand-byline">by Messerschmitt.X</span>
-    </span>
-   </a>
-   <nav aria-label="主导航">
-    <button class="nav active" data-view="explore">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
+<meta content="#f7f8fa" name="theme-color"/>
+<meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
+<link href="assets/maoji-icon.png" rel="icon" type="image/png"/>
+<title>毛机指南 · 小红书版</title>
+<link href="assets/leaflet.css" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet"/>
+</head>
+<body aria-busy="true" class="titles-collapsed app-loading" data-page="explore">
+<header class="app-header" id="appHeader">
+<div aria-label="毛机指南 by Messerschmitt.X 首页" class="brand">
+<img alt="毛机指南飞行企鹅 logo" class="brand-avatar" height="44" src="assets/maoji-logo.png" width="44"/>
+<span class="brand-copy">
+<strong>毛机指南</strong>
+<span class="brand-byline">by Messerschmitt.X</span>
+</span>
+</div>
+<nav aria-label="主导航">
+<button class="nav active" data-view="explore" disabled="">
      探索地图
     </button>
-    <button class="nav" data-view="flights">
+<button class="nav" data-view="flights" disabled="">
      航班总览
     </button>
-    <button class="nav" data-view="coverage">
-     收录与来源
-     <span class="nav-dot">
-     </span>
-    </button>
-   </nav>
-   <div class="header-right">
-    <span class="asof">
+
+</nav>
+<div class="header-right">
+<span class="asof">
      研究快照 · 非完整航网
      <b>
-      2026.11.04
+      2026.11.05
      </b>
-    </span>
-    <button class="primary" id="tripButton">
+</span>
+<button class="primary" disabled="" id="tripButton">
      我的行程
      <span id="tripCount">
       0
      </span>
-    </button>
-    <div class="header-extras" id="headerExtras">
-    <button class="appreciation-button" id="appreciationButton" aria-haspopup="dialog" aria-controls="appreciationDialog"><span aria-hidden="true">♡</span> 赞赏</button>
-    <div class="header-social">
-     <button class="header-link" id="contactButton" aria-haspopup="dialog" aria-controls="contactDialog">联系我</button>
-     <a class="header-link github-star" id="githubStar" href="https://github.com/MessiXiang/sever-atlas" target="_blank" rel="noopener noreferrer" aria-label="在 GitHub 为毛机指南仓库点 Star（新窗口打开）" title="在 GitHub 上支持这个项目"><svg aria-hidden="true" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="m12 3 2.78 5.63L21 9.54l-4.5 4.39 1.06 6.2L12 17.2l-5.56 2.93 1.06-6.2L3 9.54l6.22-.91L12 3Z"/></svg><span>Star</span></a>
-    </div>
-    </div>
-    <button class="phone-only phone-menu-toggle" id="phoneMenuToggle" aria-label="更多：赞赏、联系我和 Star" aria-expanded="false" aria-controls="headerExtras">•••</button>
-    <button id="headerToggle" class="layout-icon" aria-label="展开标题区" aria-expanded="false" aria-controls="mapTitle" title="展开标题区">↕</button>
-   </div>
-  </header>
-  <main class="workspace" id="exploreView">
-   <div class="phone-only phone-explore-bar">
-    <div class="phone-search"><span aria-hidden="true">⌕</span><input id="phoneSearch" type="search" enterkeyhint="search" aria-label="搜索机场、航司或航班号，支持中俄英" placeholder="机场 / 航司 / 航班号 · 中俄英"/></div>
-    <div class="phone-view-controls">
-     <div class="phone-view-switch" role="group" aria-label="地图与航班列表">
-      <button id="phoneMapView" data-phone-view="map" aria-pressed="true">地图</button>
-      <button id="phoneListView" data-phone-view="list" aria-pressed="false">航班 <span id="phoneResultCount"></span></button>
-     </div>
-     <button id="phoneFilters" class="phone-filter-button" aria-haspopup="dialog" aria-controls="phoneFilterDialog">筛选 <span id="phoneFilterCount"></span><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 6h16M7 12h10M10 18h4"/></svg></button>
-    </div>
-   </div>
-   <aside class="sidebar" id="filterSidebar" aria-label="航班搜索与筛选">
-    <div class="sidebar-controls"><strong>航班筛选</strong><button id="filtersToggle" aria-expanded="false" aria-controls="filterOptions">展开筛选 ＋</button></div>
-    <div class="sidebar-intro" id="sidebarIntro">
-     <span class="eyebrow">
+</button>
+
+
+<button aria-controls="mapTitle" aria-expanded="false" aria-label="展开标题区" class="layout-icon" disabled="" id="headerToggle" title="展开标题区">↕</button>
+</div>
+</header>
+<main class="workspace" id="exploreView">
+<div class="phone-only phone-explore-bar">
+<div class="phone-search"><span aria-hidden="true">⌕</span><input aria-label="搜索机场、航司或航班号，支持中俄英" enterkeyhint="search" id="phoneSearch" placeholder="机场 / 航司 / 航班号 · 中俄英" type="search"/></div>
+<div class="phone-view-controls">
+<div aria-label="地图与航班列表" class="phone-view-switch" role="group">
+<button aria-pressed="true" data-phone-view="map" disabled="" id="phoneMapView">地图</button>
+<button aria-pressed="false" data-phone-view="list" disabled="" id="phoneListView">航班 <span id="phoneResultCount"></span></button>
+</div>
+<button aria-controls="phoneFilterDialog" aria-haspopup="dialog" class="phone-filter-button" disabled="" id="phoneFilters">筛选 <span id="phoneFilterCount"></span><svg aria-hidden="true" fill="none" height="16" stroke="currentColor" stroke-width="1.6" viewbox="0 0 24 24" width="16"><path d="M4 6h16M7 12h10M10 18h4"></path></svg></button>
+</div>
+</div>
+<aside aria-label="航班搜索与筛选" class="sidebar" id="filterSidebar">
+<div class="sidebar-controls"><strong>航班筛选</strong><button aria-controls="filterOptions" aria-expanded="false" disabled="" id="filtersToggle">展开筛选 ＋</button></div>
+<div class="sidebar-intro" id="sidebarIntro">
+<span class="eyebrow">
       THE LONG WAY NORTH
      </span>
-     <h1>
+<h1>
       去坐一架，
       <br/>
       仍在飞的传奇。
      </h1>
-     <p>
+<p>
       从白海之滨，到白令海峡。
       <br/>
       寻找苏俄、L-410 与直升机的旅客航班。
      </p>
-    </div>
-    <div class="search-box">
-     <span aria-hidden="true">
+</div>
+<div class="search-box">
+<span aria-hidden="true">
       ⌕
      </span>
-     <input aria-label="搜索机场、城市、航司或航班号，支持中文、俄文和英文转写" id="search" placeholder="机场 / 航司 / 航班号 · 中俄英" type="search"/>
-     <kbd>
+<input aria-label="搜索机场、城市、航司或航班号，支持中文、俄文和英文转写" id="search" placeholder="机场 / 航司 / 航班号 · 中俄英" type="search"/>
+<kbd>
       /
      </kbd>
-    </div>
-    <div class="filter-label">
-     <button id="resetFilters">
+</div>
+<div class="filter-label">
+<button disabled="" id="resetFilters">
       重置
      </button>
-    </div>
-    <div id="filterOptions" hidden>
-    <div class="family-filters" id="familyFilters">
-    </div>
-    <div class="filter-grid">
-     <label>
+</div>
+<div hidden="" id="filterOptions">
+<div class="family-filters" id="familyFilters">
+</div>
+<div class="filter-grid">
+<label>
       航空公司
       <select id="airlineFilter">
-       <option value="">
+<option value="">
         全部航司
        </option>
-      </select>
-     </label>
-     <label>
+</select>
+</label>
+<label>
       出行日期
       <input aria-label="出行日期" id="dateFilter" type="date"/>
-     </label>
-    </div>
-    <div aria-label="按星期筛选" class="day-filter" id="dayFilter">
-    </div>
-    <label class="toggle-row">
-     <input id="strictFilter" type="checkbox"/>
-     <span>
+</label>
+</div>
+<div aria-label="按星期筛选" class="day-filter" id="dayFilter">
+</div>
+<label class="toggle-row">
+<input id="strictFilter" type="checkbox"/>
+<span>
       仅看机型明确的班次
      </span>
-     <span class="help" title="仅保留单一入选机型、官网逐班明确的记录；排除多机型范围和机队推断。">
+<span class="help" title="仅保留单一入选机型、官网逐班明确的记录；排除多机型范围和机队推断。">
       ?
      </span>
-    </label>
-    <label class="toggle-row">
-     <input id="privateFilter" type="checkbox" title="显示通常无法进入的封闭地点，以及原有购票资格待核班次；仅需申请许可的地区保留正常显示。"/>
-     <span>
+</label>
+<label class="toggle-row">
+<input id="privateFilter" title="显示通常无法进入的封闭地点，以及原有购票资格待核班次；仅需申请许可的地区保留正常显示。" type="checkbox"/>
+<span>
       含受限 / 购票资格待核班次
      </span>
-    </label>
-    </div>
-    <div class="results-heading">
-     <h2 id="resultTitle">
+</label>
+</div>
+<div class="results-heading">
+<h2 id="resultTitle">
       已收录航班
      </h2>
-     <span id="resultCount">
+<span id="resultCount">
       载入中
      </span>
-    </div>
-    <div hidden="" id="selectedAirport">
-    </div>
-    <div aria-live="polite" class="route-list" id="routeList">
-     <div class="loading">
+</div>
+<div hidden="" id="selectedAirport">
+</div>
+<div aria-live="polite" class="route-list" id="routeList">
+<div class="loading">
       正在读取本地航班数据…
      </div>
-    </div>
-    <div class="sidebar-bottom">
-     <span class="status-dot">
-     </span>
-     <span>
+</div>
+<div class="sidebar-bottom">
+<span class="status-dot">
+</span>
+<span>
       研究快照 · 当地时间
-     </span><a class="remote-entry" href="remote-routes.html">冷门 / 线下航线 ↗</a>
-    </div>
-   </aside>
-   <section aria-label="航线交互地图" class="map-section">
-    <div class="phone-only phone-map-actions">
-     <select id="phoneRegion" aria-label="跳转地图区域"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
-     <button id="phoneAirportChip" hidden aria-label="清除机场筛选"></button>
-    </div>
-    <section id="airportPreview" class="airport-preview" hidden aria-label="机场预览" tabindex="-1">
-     <button id="closeAirportPreview" class="preview-close" aria-label="关闭机场预览">×</button>
-     <div id="airportPreviewContent" class="airport-preview-content" aria-live="polite"></div>
-     <div id="airportPreviewActions" class="airport-preview-actions"></div>
-    </section>
-    <div id="map" aria-label="航线地图，可拖动、双指缩放或点选机场">
-    </div>
-    <div class="map-top">
-     <div class="map-title" id="mapTitle">
-      <span class="eyebrow">
+     </span>
+</div>
+</aside>
+<section aria-label="航线交互地图" class="map-section">
+<div class="phone-only phone-map-actions">
+<select aria-label="跳转地图区域" id="phoneRegion"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
+<button aria-label="清除机场筛选" disabled="" hidden="" id="phoneAirportChip"></button>
+</div>
+<section aria-label="机场预览" class="airport-preview" hidden="" id="airportPreview" tabindex="-1">
+<button aria-label="关闭机场预览" class="preview-close" disabled="" id="closeAirportPreview">×</button>
+<div aria-live="polite" class="airport-preview-content" id="airportPreviewContent"></div>
+<div class="airport-preview-actions" id="airportPreviewActions"></div>
+</section>
+<div aria-label="航线地图，可拖动、双指缩放或点选机场" id="map">
+</div>
+<div class="map-top">
+<div class="map-title" id="mapTitle">
+<span class="eyebrow">
        EXPLORE THE NETWORK
       </span>
-      <h2>
+<h2>
        每一个小机场，
        <br/>
        都有一段值得飞的路。
       </h2>
-     </div>
-     <div class="region-tabs">
-      <button class="selected" data-region="all">
+</div>
+<div class="region-tabs">
+<button class="selected" data-region="all" disabled="">
        全境
       </button>
-      <button data-region="west">
+<button data-region="west" disabled="">
        欧洲北部
       </button>
-      <button data-region="siberia">
+<button data-region="siberia" disabled="">
        西伯利亚
       </button>
-      <button data-region="yakutia">
+<button data-region="yakutia" disabled="">
        雅库特
       </button>
-      <button data-region="east">
+<button data-region="east" disabled="">
        远东
       </button>
-     </div>
-    </div>
-    <div class="map-toolbar">
-     <button aria-label="显示全部筛选结果" id="fitMap" title="显示全部筛选结果">
+</div>
+</div>
+<div class="map-toolbar">
+<button aria-label="显示全部筛选结果" disabled="" id="fitMap" title="显示全部筛选结果">
       ⤢
      </button>
-     <button aria-label="放大" id="zoomIn" title="放大">
+<button aria-label="放大" disabled="" id="zoomIn" title="放大">
       ＋
      </button>
-     <button aria-label="缩小" id="zoomOut" title="缩小">
+<button aria-label="缩小" disabled="" id="zoomOut" title="缩小">
       −
      </button>
-     <button aria-label="显示或隐藏航线" class="selected" id="toggleLines" title="显示或隐藏航线">
+<button aria-label="显示或隐藏航线" class="selected" disabled="" id="toggleLines" title="显示或隐藏航线">
       ⌁
      </button>
-    </div>
-    <div class="map-bottom">
-     <div class="map-legend">
-      <span>
-       <i class="legend-fixed">
-       </i>
+</div>
+<div class="map-bottom">
+<div class="map-legend">
+<span>
+<i class="legend-fixed">
+</i>
        固定翼
       </span>
-      <span>
-       <i class="legend-heli">
-       </i>
+<span>
+<i class="legend-heli">
+</i>
        直升机
       </span>
-      <span>
-       <i class="legend-uncertain">
-       </i>
+<span>
+<i class="legend-uncertain">
+</i>
        机型待核
       </span>
-      <span>
-       <i class="legend-open">
-       </i>
+<span>
+<i class="legend-open">
+</i>
        参考位置
       </span>
-     </div>
-     <div class="map-stats" id="mapStats">
-     </div>
-    </div>
-   </section>
-  </main>
-  <section class="page-view" hidden="" id="flightsView">
-   <div class="page-heading">
-    <div>
-     <span class="eyebrow">
+</div>
+<div class="map-stats" id="mapStats">
+</div>
+</div>
+</section>
+</main>
+<section class="page-view" hidden="" id="flightsView">
+<div class="page-heading">
+<div>
+<span class="eyebrow">
       THE FLIGHT DIRECTORY
      </span>
-     <h1>
+<h1>
       航班总览
      </h1>
-     <p>
+<p>
       与地图共用筛选条件。点击一行查看班期、有效期和官方来源。
      </p>
-    </div>
-    <button class="secondary" id="exportAll">
-     导出筛选结果 CSV ↗
-    </button>
-   </div>
-   <div class="directory-search"><label for="tableSearch">搜索航班</label><input id="tableSearch" type="search" placeholder="机场 / 航司 / 航班号 · 中俄英与俄语转写"/><span>与地图同步筛选</span></div>
-   <div class="table-wrap">
-    <table>
-     <thead>
-      <tr>
-       <th>
+</div>
+
+</div>
+<div class="directory-search"><label for="tableSearch">搜索航班</label><input id="tableSearch" placeholder="机场 / 航司 / 航班号 · 中俄英与俄语转写" type="search"/><span>与地图同步筛选</span></div>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>
         航班 / 航司
        </th>
-       <th>
+<th>
         航线
        </th>
-       <th>
+<th>
         机型
        </th>
-       <th>
+<th>
         当地时间
        </th>
-       <th>
+<th>
         班期
        </th>
-       <th>
+<th>
         有效期 / 证据
        </th>
-       <th>
-       </th>
-      </tr>
-     </thead>
-     <tbody id="flightTable">
-     </tbody>
-    </table>
-   </div>
-   <p class="muted" id="tableCount">
-   </p>
-  </section>
-  <section class="page-view" hidden="" id="coverageView">
-   <div class="page-heading">
-    <div>
-     <span class="eyebrow">
-      SOURCES, NOT GUESSWORK
-     </span>
-     <h1>
-      每条记录，都有出处。
-     </h1>
-     <p>
-      俄文维基建立航司核查清单；时刻核对航司、机场与地方政府原件。尚未确认的内容保持可见。
-     </p>
-    </div>
-    <a class="secondary" download="" href="data/coverage.json">
-     完整核查清单 ↓
-    </a>
-   </div>
-   <div class="coverage-summary" id="coverageSummary">
-   </div>
-   <div class="coverage-notice">
-    <strong>
-     收录范围与完成度
-    </strong>
-    <p id="scopeText">
-    </p>
-   </div>
-   <a class="research-link" href="remote-routes.html"><strong>冷门与线下航线补查 ↗</strong><span>An-2 / TVS、地方直升机、代理预约与新地岛受限包机 · 2026.11.04</span></a>
-   <div class="coverage-controls">
-    <input aria-label="搜索航司核查清单，支持中文、俄文与英文转写" id="coverageSearch" placeholder="航司名称 · 中文 / Русский / English" type="search"/>
-    <label>
-     <input id="coverageAll" type="checkbox"/>
-     显示全部名录（含作业 / 通航）
-    </label>
-   </div>
-   <div id="coverageList">
-   </div>
-   <div class="methodology">
-    <h2>
-     怎样阅读这些数据
-    </h2>
-    <div>
-     <article>
-      <h3>目的地准入</h3>
-      <p>普通外国旅客通常无法进入的封闭地点默认隐藏，可勾选“含受限 / 购票资格待核班次”查看。楚科奇等可申请许可的地区保留显示；地图和详情分别提示外国旅客与俄罗斯公民的准入要求。机票不代表已获入区许可。</p>
-      <a href="ACCESS-REVIEW-2026-11-05.md" target="_blank" rel="noopener">核查范围与同名地点区分 ↗</a>
-     </article>
-     <article>
-      <h3>
-       日期优先于星期
-      </h3>
-      <p>
-       部分偏远航点每月仅飞几天。指定日期按官网原表记录，不能推演为每周固定班次。过期记录不会出现在默认地图中。
-      </p>
-     </article>
-     <article>
-      <h3>
-       航线不等于直飞
-      </h3>
-      <p>
-       同航班号可能有多个经停点。地图连线表示官网可查询的起终点，详情保留经停与整条航路说明。
-      </p>
-     </article>
-     <article>
-      <h3>
-       体验范围
-      </h3>
-      <p>
-       包含苏联及俄罗斯设计的民用机型，也包含安东诺夫系列与 SSJ。包含捷克设计的 L-410 与 An-2 衍生 TVS；排除 Boeing、Airbus、ATR、DHC、CRJ、Embraer、Cessna。受限目的地和缺时刻线索单列。
-      </p>
-     </article>
-     <article>
-      <h3>
-       行程时间
-      </h3>
-      <p>
-       全部时刻按来源原样保存，机场时区用于跨区换算。仅当日期、机型和时间依据足够清晰时，才适合进一步核实订票与衔接。
-      </p>
-     </article>
-    </div>
-   </div>
-   <footer>
-    <a href="https://ru.wikipedia.org/wiki/Список_действующих_авиакомпаний_России" rel="noopener" target="_blank">
-     俄文维基 · 航司名录 ↗
-    </a>
-    <span>
-     底图 Natural Earth · 机场坐标 OurAirports
-    </span>
-   </footer>
-  </section>
-  <dialog id="phoneFilterDialog" aria-labelledby="phoneFilterTitle">
-   <div class="phone-filter-heading"><h2 id="phoneFilterTitle">筛选航班</h2><button class="dialog-close" aria-label="关闭筛选">×</button></div>
-   <div id="phoneFilterContent"></div>
-   <div class="phone-filter-footer"><button id="phoneResetFilters" class="secondary">重置全部</button><button id="phoneApplyFilters" class="primary">显示航班</button></div>
-  </dialog>
-  <dialog id="flightDialog">
-   <button aria-label="关闭详情" class="dialog-close">
+<th>
+</th>
+</tr>
+</thead>
+<tbody id="flightTable">
+</tbody>
+</table>
+</div>
+<p class="muted" id="tableCount">
+</p><button class="secondary" hidden="" id="tableMore">再显示 50 条航班</button>
+</section>
+
+<dialog aria-labelledby="phoneFilterTitle" id="phoneFilterDialog">
+<div class="phone-filter-heading"><h2 id="phoneFilterTitle">筛选航班</h2><button aria-label="关闭筛选" class="dialog-close" disabled="">×</button></div>
+<div id="phoneFilterContent"></div>
+<div class="phone-filter-footer"><button class="secondary" disabled="" id="phoneResetFilters">重置全部</button><button class="primary" disabled="" id="phoneApplyFilters">显示航班</button></div>
+</dialog>
+<dialog id="flightDialog">
+<button aria-label="关闭详情" class="dialog-close" disabled="">
     ×
    </button>
-   <div id="flightDetail">
-   </div>
-  </dialog>
-  <dialog id="tripDialog">
-   <button aria-label="关闭行程" class="dialog-close">
+<div id="flightDetail">
+</div>
+</dialog>
+<dialog id="tripDialog">
+<button aria-label="关闭行程" class="dialog-close" disabled="">
     ×
    </button>
-   <div class="trip-heading">
-    <span class="eyebrow">
+<div class="trip-heading">
+<span class="eyebrow">
      YOUR FLIGHT NOTEBOOK
     </span>
-    <h2>
+<h2>
      我的飞行计划
     </h2>
-    <p>
-     保存想坐的航班，选择日期，再检查机场与时间衔接。
-    </p>
-   </div>
-   <div id="tripList">
-   </div>
-   <div class="trip-actions">
-    <button class="primary" id="exportTrip">
-     导出行程 CSV
-    </button>
-    <button class="secondary" id="clearTrip">
+<p>记录想坐的航班，选择日期，再检查机场与时间衔接。</p>
+</div>
+<p class="storage-status" id="storageStatus" role="status">正在读取已保存行程…</p><div id="tripList">
+</div>
+<div class="trip-actions">
+
+<button class="secondary" disabled="" id="clearTrip">
      清空行程
     </button>
-   </div>
-  </dialog>
-  <dialog id="contactDialog" aria-labelledby="contactTitle">
-   <button aria-label="关闭联系方式" class="dialog-close" autofocus>×</button>
-   <span class="eyebrow">MESSERSCHMITT.X</span>
-   <h2 id="contactTitle">联系我</h2>
-   <dl class="contact-details">
-    <div><dt>邮箱</dt><dd><a href="mailto:3495812558@qq.com">3495812558@qq.com</a></dd></div>
-    <div><dt>QQ</dt><dd>3495812558</dd></div>
-   </dl>
-  </dialog>
-  <dialog id="appreciationDialog" aria-labelledby="appreciationTitle" aria-describedby="appreciationDescription">
-   <button aria-label="关闭赞赏二维码" class="dialog-close" autofocus>×</button>
-   <span class="eyebrow">THANK YOU FOR THE NEXT FLIGHT</span>
-   <h2 id="appreciationTitle">喜欢这份航迹？</h2>
-   <p id="appreciationDescription">谢谢你支持航线整理与网站维护。<br/>扫码赞赏，随心就好。</p>
-   <img class="appreciation-qr" src="assets/appreciation-qr.jpg" width="1152" height="1152" alt="站长提供的赞赏二维码，使用支付应用扫码赞赏" loading="lazy"/>
-   <small class="appreciation-caption">愿我们都能坐上想坐的那一班。</small>
-  </dialog>
-  <div id="toast" role="status">
-  </div>
-  <script src="assets/leaflet.js">
-  </script>
-  <script src="data/geography.js">
-  </script>
-  <script src="data/flights.js">
-  </script>
-  <script src="assets/search.js">
-  </script>
-  <script src="app.js">
-  </script>
- </body>
+</div>
+<p class="offline-credit">本地航线资料 · Natural Earth / OurAirports · 航班计划可能调整</p></dialog>
+
+
+<div id="toast" role="status">
+</div>
+<script src="minitool-runtime.js"></script><script src="assets/leaflet.js">
+</script>
+<script src="data/geography.js">
+</script>
+<script src="data/flights.js">
+</script>
+<script src="assets/search.js">
+</script>
+<script src="app.js">
+</script>
+</body>
 </html>
