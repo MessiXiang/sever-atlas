@@ -2,7 +2,7 @@
 <html lang="zh-CN">
  <head>
   <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
   <meta content="#f7f8fa" name="theme-color"/>
   <meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
   <link href="assets/penguin-avatar.jpg" rel="icon" type="image/jpeg"/>
@@ -47,15 +47,28 @@
       0
      </span>
     </button>
+    <div class="header-extras" id="headerExtras">
     <button class="appreciation-button" id="appreciationButton" aria-haspopup="dialog" aria-controls="appreciationDialog"><span aria-hidden="true">♡</span> 赞赏</button>
     <div class="header-social">
      <button class="header-link" id="contactButton" aria-haspopup="dialog" aria-controls="contactDialog">联系我</button>
      <a class="header-link github-star" id="githubStar" href="https://github.com/MessiXiang/sever-atlas" target="_blank" rel="noopener noreferrer" aria-label="在 GitHub 为毛机指南仓库点 Star（新窗口打开）" title="在 GitHub 上支持这个项目"><svg aria-hidden="true" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="m12 3 2.78 5.63L21 9.54l-4.5 4.39 1.06 6.2L12 17.2l-5.56 2.93 1.06-6.2L3 9.54l6.22-.91L12 3Z"/></svg><span>Star</span></a>
     </div>
+    </div>
+    <button class="phone-only phone-menu-toggle" id="phoneMenuToggle" aria-label="更多：赞赏、联系我和 Star" aria-expanded="false" aria-controls="headerExtras">•••</button>
     <button id="headerToggle" class="layout-icon" aria-label="展开标题区" aria-expanded="false" aria-controls="mapTitle" title="展开标题区">↕</button>
    </div>
   </header>
   <main class="workspace" id="exploreView">
+   <div class="phone-only phone-explore-bar">
+    <div class="phone-search"><span aria-hidden="true">⌕</span><input id="phoneSearch" type="search" enterkeyhint="search" aria-label="搜索机场、航司或航班号，支持中俄英" placeholder="机场 / 航司 / 航班号 · 中俄英"/></div>
+    <div class="phone-view-controls">
+     <div class="phone-view-switch" role="group" aria-label="地图与航班列表">
+      <button id="phoneMapView" data-phone-view="map" aria-pressed="true">地图</button>
+      <button id="phoneListView" data-phone-view="list" aria-pressed="false">航班 <span id="phoneResultCount"></span></button>
+     </div>
+     <button id="phoneFilters" class="phone-filter-button" aria-haspopup="dialog" aria-controls="phoneFilterDialog">筛选 <span id="phoneFilterCount"></span><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 6h16M7 12h10M10 18h4"/></svg></button>
+    </div>
+   </div>
    <aside class="sidebar" id="filterSidebar" aria-label="航班搜索与筛选">
     <div class="sidebar-controls"><strong>航班筛选</strong><button id="filtersToggle" aria-expanded="false" aria-controls="filterOptions">展开筛选 ＋</button></div>
     <div class="sidebar-intro" id="sidebarIntro">
@@ -146,7 +159,16 @@
     </div>
    </aside>
    <section aria-label="航线交互地图" class="map-section">
-    <div id="map">
+    <div class="phone-only phone-map-actions">
+     <select id="phoneRegion" aria-label="跳转地图区域"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
+     <button id="phoneAirportChip" hidden aria-label="清除机场筛选"></button>
+    </div>
+    <section id="airportPreview" class="airport-preview" hidden aria-label="机场预览" tabindex="-1">
+     <button id="closeAirportPreview" class="preview-close" aria-label="关闭机场预览">×</button>
+     <div id="airportPreviewContent" class="airport-preview-content" aria-live="polite"></div>
+     <div id="airportPreviewActions" class="airport-preview-actions"></div>
+    </section>
+    <div id="map" aria-label="航线地图，可拖动、双指缩放或点选机场">
     </div>
     <div class="map-top">
      <div class="map-title" id="mapTitle">
@@ -359,6 +381,11 @@
     </span>
    </footer>
   </section>
+  <dialog id="phoneFilterDialog" aria-labelledby="phoneFilterTitle">
+   <div class="phone-filter-heading"><h2 id="phoneFilterTitle">筛选航班</h2><button class="dialog-close" aria-label="关闭筛选">×</button></div>
+   <div id="phoneFilterContent"></div>
+   <div class="phone-filter-footer"><button id="phoneResetFilters" class="secondary">重置全部</button><button id="phoneApplyFilters" class="primary">显示航班</button></div>
+  </dialog>
   <dialog id="flightDialog">
    <button aria-label="关闭详情" class="dialog-close">
     ×

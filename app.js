@@ -47,6 +47,10 @@
     map, markers = {},
     paths = [],
     routeLayer, markerLayer, hoverLayer, trip = [];
+  // Keep phone interaction separate from the established tablet and desktop layouts.
+  const phoneQuery = matchMedia('(max-width: 600px), (max-width: 1000px) and (max-height: 500px) and (pointer: coarse)');
+  let phoneView = 'map', previewAirport = '', previewCandidates = [], phoneSearchTimer;
+  const isPhone = () => phoneQuery.matches;
   try {
     trip = JSON.parse(localStorage.getItem('sever-trip-v1') || '[]').map(x => ({
       ...x,
@@ -140,7 +144,7 @@
   function apply() {
     limit = 35;
     const queryTerms = Search.terms(st.q);
-    $('search').value = $('tableSearch').value = st.q;
+    $('search').value = $('tableSearch').value = $('phoneSearch').value = st.q;
     visible = F.filter(f => (st.private || (!hiddenForAccess(f) && f.publicAccess !== 'unverified')) && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || flightModels(f).includes(st.family) || modelFamily(f.aircraftParent) === st.family) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && flightModels(f).length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
     visible.sort((a, b) => (nextDates(a, 1)[0] || '9999').localeCompare(nextDates(b, 1)[0] || '9999') || (a.departure || '99').localeCompare(b.departure || '99') || a.number.localeCompare(b.number));
     $('resultCount').textContent = visible.length + ' 条时刻';
@@ -159,6 +163,7 @@
     renderList();
     renderTable();
     renderMap();
+    updatePhoneControls();
     let p = new URLSearchParams();
     for (let [k, v] of Object.entries(st))
       if (v && k !== 'view') p.set(k, String(v));
@@ -237,6 +242,13 @@
       return el
     };
     control.addTo(map);
+    map.on('click', e => {
+      if (!isPhone()) return;
+      const hits = Object.entries(markers).map(([id, marker]) => ({id, distance: map.latLngToContainerPoint(marker.getLatLng()).distanceTo(e.containerPoint)})).filter(x => x.distance <= 26).sort((a, b) => a.distance - b.distance);
+      if (!hits.length) closeAirportPreview();
+      else if (hits.length === 1) showAirportPreview(hits[0].id);
+      else showAirportChoices(hits.map(x => x.id));
+    });
     [
       ['白海', 65, 36],
       ['西伯利亚', 62, 93],
@@ -310,22 +322,25 @@
         approx = ['settlement', 'provider-reference'].includes(A[id].coordinateStatus),
         color = clear ? (fs.every(heli) ? '#377560' : '#285bce') : '#a48a60',
         m = L.circleMarker(ll(id), {
-          radius: Math.min(8, 3 + Math.log2(fs.length + 1) * .6),
+          radius: Math.min(isPhone() ? 9 : 8, (isPhone() ? 5 : 3) + Math.log2(fs.length + 1) * .6),
+          interactive: !isPhone(),
           color,
           weight: 1.5,
           fillColor: approx ? '#fff' : color,
           fillOpacity: .85
         }).addTo(markerLayer);
       markers[id] = m;
+      m.getElement()?.setAttribute('data-airport', id);
       let dest = new Set(fs.flatMap(route).filter(x => x !== id));
-      m.bindTooltip(`${airportHeading(id)}${airportAccessNote(id)}<p>${esc([...new Set(fs.flatMap(flightModels))].join(' / '))}</p><div class="tt-bottom">${fs.length} 条时刻 · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
+      if (!isPhone()) m.bindTooltip(`${airportHeading(id)}${airportAccessNote(id)}<p>${esc([...new Set(fs.flatMap(flightModels))].join(' / '))}</p><div class="tt-bottom">${fs.length} 条时刻 · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
         className: 'airport-tooltip',
         direction: 'top',
         offset: [0, -7]
       });
-      m.on('mouseover', () => highlight(id));
-      m.on('mouseout', () => hoverLayer.clearLayers());
+      m.on('mouseover', () => { if (!isPhone()) highlight(id) });
+      m.on('mouseout', () => { if (!isPhone()) hoverLayer.clearLayers() });
       m.on('click', () => {
+        if (isPhone()) { showAirportPreview(id); return }
         st.airport = id;
         st.airportMode = 'all';
         apply();
@@ -335,6 +350,11 @@
         })
       })
     }
+    if (isPhone() && previewAirport && markers[previewAirport]) showAirportPreview(previewAirport, false);
+    else if (isPhone() && previewCandidates.length) {
+      const remaining = previewCandidates.filter(id => markers[id]);
+      if (remaining.length) showAirportChoices(remaining, false); else closeAirportPreview();
+    } else closeAirportPreview();
   }
 
   function highlight(id) {
@@ -354,8 +374,8 @@
     if (!map) return;
     let pts = [...new Set(visible.flatMap(route))].map(ll).filter(Boolean);
     if (pts.length) map.fitBounds(pts, {
-      paddingTopLeft: innerWidth < 800 ? [20, 130] : [40, 150],
-      paddingBottomRight: innerWidth < 800 ? [25, 65] : [65, 120],
+      paddingTopLeft: isPhone() ? [32, 70] : innerWidth < 800 ? [20, 130] : [40, 150],
+      paddingBottomRight: isPhone() ? [64, 48] : innerWidth < 800 ? [25, 65] : [65, 120],
       maxZoom: 6,
       animate: !matchMedia('(prefers-reduced-motion:reduce)').matches
     })
@@ -380,6 +400,7 @@
     $('focusFlight').onclick = () => {
       $('flightDialog').close();
       switchView('explore');
+      setPhoneView('map');
       st.airport = f.from;
       apply();
       fit()
@@ -387,6 +408,7 @@
     $('onwardFlight').onclick = () => {
       $('flightDialog').close();
       switchView('explore');
+      setPhoneView('map');
       Object.assign(st, {
         q: '',
         family: '',
@@ -545,6 +567,8 @@
   }
 
   function switchView(v) {
+    closePhoneMenu();
+    closeAirportPreview();
     st.view = v;
     document.body.dataset.page = v;
     for (let x of ['explore', 'flights', 'coverage']) $(x + 'View').hidden = x !== v;
@@ -648,7 +672,7 @@
         ]
       };
       map.fitBounds(regions[r.dataset.region], {
-        padding: [50, 100]
+        padding: isPhone() ? [45, 60] : [50, 100]
       });
       document.querySelectorAll('[data-region]').forEach(x => x.classList.toggle('selected', x === r))
     }
@@ -657,8 +681,9 @@
     if (e.key === '/' && !['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
       e.preventDefault();
       switchView('explore');
-      $('search').focus()
+      (isPhone() ? $('phoneSearch') : $('search')).focus()
     }
+    if (e.key === 'Escape') { closeAirportPreview(); closePhoneMenu() }
     if (e.key === 'Enter' && e.target.matches('tr[data-flight]')) showFlight(e.target.dataset.flight)
   });
   let layout = {
@@ -673,7 +698,7 @@
 
   function syncLayout() {
     document.body.classList.toggle('titles-collapsed', layout.titlesCollapsed);
-    $('filterOptions').hidden = layout.filtersCollapsed;
+    $('filterOptions').hidden = $('phoneFilterDialog').open ? false : layout.filtersCollapsed;
     $('headerToggle').setAttribute('aria-expanded', String(!layout.titlesCollapsed));
     $('headerToggle').title = layout.titlesCollapsed ? '展开标题区' : '收起标题区';
     $('headerToggle').setAttribute('aria-label', $('headerToggle').title);
@@ -686,6 +711,135 @@
       pan: false
     }));
   }
+  function updatePhoneControls() {
+    $('phoneResultCount').textContent = visible.length;
+    const count = [st.family, st.airline, st.date, st.day, st.strict, st.private].filter(Boolean).length;
+    $('phoneFilterCount').textContent = count || '';
+    $('phoneFilters').classList.toggle('has-filters', !!count);
+    $('phoneApplyFilters').textContent = '显示 ' + visible.length + ' 条时刻';
+    $('phoneAirportChip').hidden = !st.airport;
+    $('phoneAirportChip').textContent = st.airport ? short(st.airport) + ' · 清除 ×' : '';
+    $('phoneAirportChip').title = st.airport ? '清除 ' + name(st.airport) + ' 机场筛选' : '';
+  }
+
+  function closeAirportPreview() {
+    previewAirport = '';
+    previewCandidates = [];
+    $('airportPreview').hidden = true;
+    document.body.classList.remove('airport-preview-open');
+    hoverLayer?.clearLayers();
+  }
+
+  function openAirportPreview(focus) {
+    $('airportPreview').hidden = false;
+    document.body.classList.add('airport-preview-open');
+    if (focus) {
+      $('airportPreviewContent').scrollTop = 0;
+      $('airportPreview').focus({preventScroll: true});
+    }
+  }
+
+  function showAirportPreview(id, focus = true) {
+    const fs = visible.filter(f => route(f).includes(id));
+    if (!fs.length || !A[id]) { closeAirportPreview(); return }
+    previewAirport = id;
+    previewCandidates = [];
+    const dest = new Set(fs.flatMap(route).filter(x => x !== id));
+    const coordinate = A[id].coordinateStatus === 'settlement' ? '村镇参考坐标，非精确起降点' : A[id].coordinateStatus === 'provider-reference' ? '航司参考坐标，精度待核' : '';
+    $('airportPreviewContent').innerHTML = '<div class="preview-identity">' + airportHeading(id) + '</div><p class="preview-summary">' + fs.length + ' 条时刻 · ' + dest.size + ' 个关联航点</p><p class="preview-models">' + esc([...new Set(fs.flatMap(flightModels))].join(' / ')) + '</p>' + airportAccessNote(id) + (coordinate ? '<small class="preview-coordinate">' + esc(coordinate) + '</small>' : '');
+    $('airportPreviewActions').innerHTML = '<button class="primary" data-preview-mode="all">查看航班 →</button><button data-preview-mode="out">从此出发</button><button data-preview-mode="in">到达这里</button>';
+    highlight(id);
+    L.circleMarker(ll(id), {radius: 14, color: '#285bce', weight: 2, fillOpacity: .08, interactive: false}).addTo(hoverLayer);
+    openAirportPreview(focus);
+  }
+
+  function showAirportChoices(ids, focus = true) {
+    previewAirport = '';
+    previewCandidates = ids;
+    hoverLayer?.clearLayers();
+    $('airportPreviewContent').innerHTML = '<h2 class="preview-choice-title">选择机场 <span>' + ids.length + '</span></h2><div class="airport-choices">' + ids.map(id => '<button data-preview-airport="' + esc(id) + '"><span>' + airportHeading(id) + '</span><span aria-hidden="true">›</span></button>').join('') + '</div>';
+    $('airportPreviewActions').innerHTML = '';
+    openAirportPreview(focus);
+  }
+
+  function setPhoneView(view) {
+    phoneView = view;
+    document.body.dataset.phoneView = view;
+    document.querySelectorAll('[data-phone-view]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.phoneView === view)));
+    $('phoneSearch').blur();
+    if (view === 'map') requestAnimationFrame(() => map?.invalidateSize({pan:false}));
+  }
+
+  function closePhoneMenu() {
+    document.body.classList.remove('phone-menu-open');
+    $('phoneMenuToggle').setAttribute('aria-expanded', 'false');
+  }
+
+  $('phoneMenuToggle').onclick = () => {
+    $('phoneSearch').blur();
+    const open = document.body.classList.toggle('phone-menu-open');
+    $('phoneMenuToggle').setAttribute('aria-expanded', String(open));
+  };
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#phoneMenuToggle,#headerExtras')) closePhoneMenu();
+    if (e.target.closest('#headerExtras button,#headerExtras a')) {
+      closePhoneMenu();
+      const dialog = e.target.closest('button')?.getAttribute('aria-controls');
+      if (dialog && isPhone()) $(dialog)?.addEventListener('close', () => $('phoneMenuToggle').focus({preventScroll:true}), {once:true});
+    }
+    const view = e.target.closest('[data-phone-view]');
+    if (view) setPhoneView(view.dataset.phoneView);
+  });
+  $('closeAirportPreview').onclick = closeAirportPreview;
+  $('airportPreviewContent').onclick = e => {
+    const button = e.target.closest('[data-preview-airport]');
+    if (button) showAirportPreview(button.dataset.previewAirport);
+  };
+  $('airportPreviewActions').onclick = e => {
+    const button = e.target.closest('[data-preview-mode]');
+    if (!button || !previewAirport) return;
+    st.airport = previewAirport;
+    st.airportMode = button.dataset.previewMode;
+    closeAirportPreview();
+    apply();
+    $('routeList').scrollTop = 0;
+    setPhoneView('list');
+  };
+  $('phoneAirportChip').onclick = () => {
+    st.airport = '';
+    st.airportMode = 'all';
+    closeAirportPreview();
+    apply();
+  };
+  $('phoneSearch').oninput = e => {
+    st.q = e.target.value;
+    closeAirportPreview();
+    apply();
+    clearTimeout(phoneSearchTimer);
+    phoneSearchTimer = setTimeout(() => { if (isPhone() && phoneView === 'map') fit() }, 220);
+  };
+  $('phoneSearch').onkeydown = e => {
+    if (e.key === 'Enter') { e.preventDefault(); e.target.blur(); fit() }
+  };
+  $('phoneRegion').onchange = e => {
+    closeAirportPreview();
+    document.querySelector('[data-region="' + e.target.value + '"]')?.click();
+  };
+  $('phoneFilters').onclick = () => {
+    closePhoneMenu();
+    $('phoneSearch').blur();
+    $('phoneFilterContent').append($('filterOptions'));
+    $('filterOptions').hidden = false;
+    $('phoneFilterDialog').showModal();
+  };
+  $('phoneFilterDialog').addEventListener('close', () => {
+    $('filterSidebar').insertBefore($('filterOptions'), document.querySelector('.results-heading'));
+    syncLayout();
+    if (isPhone() && phoneView === 'map') fit();
+  });
+  $('phoneApplyFilters').onclick = () => $('phoneFilterDialog').close();
+  $('phoneResetFilters').onclick = () => $('resetFilters').click();
+
   $('headerToggle').onclick = () => {
     layout.titlesCollapsed = !layout.titlesCollapsed;
     syncLayout()
@@ -768,11 +922,33 @@
   $('strictFilter').checked = st.strict;
   document.querySelectorAll('[data-family]').forEach(b => b.classList.toggle('active', b.dataset.family === st.family));
   document.querySelectorAll('[data-day]').forEach(b => b.classList.toggle('active', +b.dataset.day === st.day));
+  document.body.dataset.phoneView = phoneView;
   syncLayout();
   initMap();
   persist();
   apply();
   fit();
+  phoneQuery.addEventListener('change', () => {
+    if ($('phoneFilterDialog').open) $('phoneFilterDialog').close();
+    closePhoneMenu();
+    closeAirportPreview();
+    renderMap();
+    requestAnimationFrame(() => { map?.invalidateSize({pan:false}); fit() });
+  });
+  function syncPhoneViewport() {
+    const viewport = window.visualViewport;
+    const keyboard = isPhone() && viewport && viewport.scale === 1 && viewport.height < innerHeight - 120 && ['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement.tagName);
+    document.body.style.setProperty('--phone-viewport-height', keyboard ? viewport.height + 'px' : '100dvh');
+    document.body.style.setProperty('--phone-keyboard-inset', keyboard ? Math.max(0, innerHeight - viewport.height - viewport.offsetTop) + 'px' : '0px');
+    requestAnimationFrame(() => { if (isPhone()) map?.invalidateSize({pan:false}) });
+  }
+  window.visualViewport?.addEventListener('resize', syncPhoneViewport);
+  document.addEventListener('focusout', () => requestAnimationFrame(syncPhoneViewport));
+  let resizeFrame;
+  window.addEventListener('resize', () => {
+    cancelAnimationFrame(resizeFrame);
+    resizeFrame = requestAnimationFrame(() => map?.invalidateSize({pan:false}));
+  });
   let wasMobile = innerWidth < 800;
   window.addEventListener('resize', () => {
     const mobile = innerWidth < 800;
