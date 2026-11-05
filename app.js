@@ -186,6 +186,9 @@
   }
   const ll = id => A[id]?.lat != null ? [A[id].lat, A[id].lon < 0 ? A[id].lon + 360 : A[id].lon] : null;
 
+  // Visual dots stay small; the independent 26px tap radius handles touch input.
+  const phoneMarkerRadius = () => Math.min(3.5, 2 + Math.max(0, (map?.getZoom() || 1) - 3) * .3);
+
   function initMap() {
     if (!window.L) {
       $('map').innerHTML = '<div class="map-error">地图组件未加载。航班查询与来源仍可使用。</div>';
@@ -198,6 +201,9 @@
       zoomSnap: .25,
       worldCopyJump: false
     }).setView([62, 115], 3);
+    map.on('zoomend', () => {
+      if (isPhone()) Object.values(markers).forEach(marker => marker.setRadius(phoneMarkerRadius()));
+    });
     map.attributionControl.setPrefix(false);
     map.attributionControl.addAttribution('Natural Earth · OurAirports');
     map.createPane('base');
@@ -322,10 +328,10 @@
         approx = ['settlement', 'provider-reference'].includes(A[id].coordinateStatus),
         color = clear ? (fs.every(heli) ? '#377560' : '#285bce') : '#a48a60',
         m = L.circleMarker(ll(id), {
-          radius: Math.min(isPhone() ? 9 : 8, (isPhone() ? 5 : 3) + Math.log2(fs.length + 1) * .6),
+          radius: isPhone() ? phoneMarkerRadius() : Math.min(8, 3 + Math.log2(fs.length + 1) * .6),
           interactive: !isPhone(),
           color,
-          weight: 1.5,
+          weight: isPhone() ? .8 : 1.5,
           fillColor: approx ? '#fff' : color,
           fillOpacity: .85
         }).addTo(markerLayer);
@@ -749,7 +755,7 @@
     $('airportPreviewContent').innerHTML = '<div class="preview-identity">' + airportHeading(id) + '</div><p class="preview-summary">' + fs.length + ' 条时刻 · ' + dest.size + ' 个关联航点</p><p class="preview-models">' + esc([...new Set(fs.flatMap(flightModels))].join(' / ')) + '</p>' + airportAccessNote(id) + (coordinate ? '<small class="preview-coordinate">' + esc(coordinate) + '</small>' : '');
     $('airportPreviewActions').innerHTML = '<button class="primary" data-preview-mode="all">查看航班 →</button><button data-preview-mode="out">从此出发</button><button data-preview-mode="in">到达这里</button>';
     highlight(id);
-    L.circleMarker(ll(id), {radius: 14, color: '#285bce', weight: 2, fillOpacity: .08, interactive: false}).addTo(hoverLayer);
+    L.circleMarker(ll(id), {radius: 8, color: '#285bce', weight: 1.2, fillOpacity: .05, interactive: false}).addTo(hoverLayer);
     openAirportPreview(focus);
   }
 
