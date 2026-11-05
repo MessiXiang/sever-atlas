@@ -1727,16 +1727,6 @@ dialog[open] {
   color: var(--blue)
 }
 
-.basemap-toggle {
-  padding: 6px 9px;
-  background: white;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  font: 10px var(--sans);
-  color: #647284;
-  margin-bottom: 4px
-}
-
 .region-label {
   font: 12px var(--sans);
   color: #8c9fac;
@@ -1878,16 +1868,6 @@ dialog[open] {
   float: right;
   font-size: 10px;
   color: var(--blue)
-}
-
-.basemap-toggle {
-  padding: 6px 9px;
-  background: white;
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  font: 10px var(--sans);
-  color: #647284;
-  margin-bottom: 4px
 }
 
 .region-label {
@@ -2077,7 +2057,7 @@ dialog[open] {
 .filter-hint { margin: -4px 24px 14px; color: #718095; font-size: 10px; line-height: 1.65; }
 
 /* Personal identity and appreciation, matched to the existing map interface. */
-.brand-avatar { width:44px; height:44px; flex:none; border-radius:50%; object-fit:cover; border:1px solid var(--line); }
+.brand-avatar { width:44px; height:44px; flex:none; border-radius:0; object-fit:contain; border:0; }
 .header-right { gap:12px; }
 .header-right .asof { margin-right:12px; }
 .appreciation-button { display:inline-flex; align-items:center; justify-content:center; gap:6px; min-height:40px; padding:8px 13px; border:1px solid var(--line); border-radius:7px; color:var(--ink); background:#fff; font-size:12px; white-space:nowrap; transition:background .18s,border-color .18s; }
@@ -2342,7 +2322,6 @@ dialog[open] {
  .map-toolbar,.titles-collapsed .map-toolbar { top:68px; right:max(12px,env(safe-area-inset-right,0px)); gap:7px; }
  .map-toolbar button { width:44px; height:44px; font-size:22px; background:#fff; }
  .map-toolbar button.selected { background:var(--lightblue); }
- .basemap-toggle { min-height:44px; padding:8px 11px; font-size:12px; }
  .leaflet-control-attribution { max-width:calc(100vw - 24px); font-size:8px; }
  .leaflet-tooltip.airport-tooltip { display:none; }
  .region-label { font-size:10px; letter-spacing:2px; }
@@ -2368,7 +2347,6 @@ dialog[open] {
  .airport-choices .airport-code { font-size:15px; }
  .airport-choices .airport-zh { font-size:13px; }
  .airport-choices button>span:first-child { min-width:0; }
- .airport-preview-open .leaflet-bottom.leaflet-left { visibility:hidden; }
  .page-view { flex:1 1 0; min-height:0; overflow:auto; overscroll-behavior:contain; padding:24px 16px; margin:0; }
  .table-wrap { overflow:auto; }
  .page-view input,.page-view select,dialog input,dialog select { font-size:16px; }

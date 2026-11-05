@@ -223,31 +223,6 @@
     routeLayer = L.layerGroup().addTo(map);
     markerLayer = L.layerGroup().addTo(map);
     hoverLayer = L.layerGroup().addTo(map);
-    let online = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 11,
-        opacity: .55,
-        attribution: '© OpenStreetMap contributors'
-      }),
-      control = L.control({
-        position: 'bottomleft'
-      });
-    control.onAdd = () => {
-      let el = L.DomUtil.create('button', 'basemap-toggle');
-      el.textContent = '街道底图';
-      el.title = '联网载入 OpenStreetMap 街道底图';
-      L.DomEvent.disableClickPropagation(el);
-      el.onclick = () => {
-        if (map.hasLayer(online)) {
-          map.removeLayer(online);
-          el.textContent = '街道底图'
-        } else {
-          online.addTo(map);
-          el.textContent = '简洁底图'
-        }
-      };
-      return el
-    };
-    control.addTo(map);
     map.on('click', e => {
       if (!isPhone()) return;
       const hits = Object.entries(markers).map(([id, marker]) => ({id, distance: map.latLngToContainerPoint(marker.getLatLng()).distanceTo(e.containerPoint)})).filter(x => x.distance <= 26).sort((a, b) => a.distance - b.distance);
