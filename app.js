@@ -771,7 +771,7 @@
   function setPhoneView(view) {
     phoneView = view;
     document.body.dataset.phoneView = view;
-    document.querySelectorAll('[data-phone-view]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.phoneView === view)));
+    document.querySelectorAll('button[data-phone-view]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.phoneView === view)));
     $('phoneSearch').blur();
     if (view === 'map') requestAnimationFrame(() => map?.invalidateSize({pan:false}));
   }
@@ -793,7 +793,8 @@
       const dialog = e.target.closest('button')?.getAttribute('aria-controls');
       if (dialog && isPhone()) $(dialog)?.addEventListener('close', () => $('phoneMenuToggle').focus({preventScroll:true}), {once:true});
     }
-    const view = e.target.closest('[data-phone-view]');
+    // The body also carries data-phone-view as layout state; only buttons switch views.
+    const view = e.target.closest('button[data-phone-view]');
     if (view) setPhoneView(view.dataset.phoneView);
   });
   $('closeAirportPreview').onclick = closeAirportPreview;

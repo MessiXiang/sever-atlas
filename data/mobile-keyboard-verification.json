@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-11-05",
+  "base": "http://127.0.0.1:8765/",
+  "regression": "Clicks bubbled to body[data-phone-view] and immediately blurred phoneSearch; view delegation now selects buttons only.",
+  "checks": [
+    "touch-tap-focus-no-immediate-blur",
+    "keyboard-insertText-preserves-focus-during-filtering",
+    "latin-russian-chinese-search",
+    "visual-viewport-resize-focus",
+    "map-list-switch-buttons-only",
+    "list-search-empty-and-clear",
+    "filter-dialog-return-to-search",
+    "no-body-aria-pressed-or-viewport-overflow"
+  ],
+  "results": [
+    {
+      "width": 320,
+      "height": 568,
+      "tapRetainsFocus": true,
+      "typingRetainsFocus": true,
+      "latinRussianChineseMatches": 166
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "tapRetainsFocus": true,
+      "typingRetainsFocus": true,
+      "latinRussianChineseMatches": 166
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "tapRetainsFocus": true,
+      "typingRetainsFocus": true,
+      "latinRussianChineseMatches": 166
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "tapRetainsFocus": true,
+      "typingRetainsFocus": true,
+      "latinRussianChineseMatches": 166
+    }
+  ],
+  "errors": [],
+  "limitation": "Browser automation verifies touch focus and text entry; a physical phone keyboard was not inspected."
+}
