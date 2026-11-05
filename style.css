@@ -2213,3 +2213,9 @@ dialog[open] {
 .booking-note p { color:var(--muted); line-height:1.8; margin:8px 0; }
 .booking-note a { color:var(--blue); margin-right:12px; }
 .access-warning { padding:14px 16px; border-left:3px solid #a15b23; background:#fff3e6; line-height:1.8; font-size:13px; }
+
+/* Reviewed source and ticket-channel details. */
+.crosscheck-sources { display:grid; gap:8px; padding:12px 0; }
+.crosscheck-sources > span { display:flex; flex-wrap:wrap; gap:8px 14px; }
+.crosscheck-sources a { overflow-wrap:anywhere; }
+.booking-note > .badge { margin-left:6px; }

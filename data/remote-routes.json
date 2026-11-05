@@ -1,8 +1,291 @@
 {
   "asOf": "2026-11-05",
   "title": "冷门与线下航线补查",
-  "summary": "11月5日补查亚马尔与极地航空官网：新增73条亚马尔时刻，复核极地航空54条冬季时刻；累计两轮新增115条。逐项保留换季条件、原表冲突和购票渠道。",
+  "summary": "本轮补入52条时刻并复核10条已有记录；包含Utair地方直升机、下瓦尔托夫斯克Mi-8T和机场明确SU9。三轮累计新增167条；冲突班次单列待核。",
   "items": [
+    {
+      "id": "ugra-nv-a247",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "A247：3条An-24时刻，通过Utair售票",
+      "routeRu": "Ханты-Мансийск — Игрим / Igrim；Белоярский — Ханты-Мансийск",
+      "operator": "АО А247 · A247",
+      "aircraft": "An-24",
+      "status": "imported",
+      "period": "Igrim：2026-10-25至2027-03-23；Beloyarskiy返程：2026-11-02至11-30",
+      "schedule": "A2113周二日14:10–15:30；A2114周二日12:00–13:20；A2322周一三五10:40–11:50。",
+      "booking": "通过Utair官网购票，实际承运人A247；office@a247.ru。",
+      "notes": "当前机场表明确An-24，航司官网与机场官方频道核实承运人。反向A2321的Mi-8标签有疑点，未照搬返程型号。",
+      "sources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "A247 · An-24 定期客运与Utair售票说明",
+          "url": "https://a247.ru/regularflights",
+          "local": "sources/ugra-nv/a247-regular-browser.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+          "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+          "local": "sources/ugra-nv/hma-a247-posts.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=a247"
+    },
+    {
+      "id": "ugra-nv-kras-yak42",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "KrasAvia：汉特曼西—乌法 Yak-42 已核实",
+      "routeRu": "Ханты-Мансийск — Уфа / Ufa — Khanty-Mansiysk",
+      "operator": "КрасАвиа · KrasAvia",
+      "aircraft": "Yak-42",
+      "status": "imported",
+      "period": "2026-11-12、11-22、12-12、12-22",
+      "schedule": "KV9502 18:45–21:10；KV9501 03:05–05:25。全部当地时间UTC+5。",
+      "booking": "请在KrasAvia官网按日期查询；散客出票尚未确认。",
+      "notes": "官方API明确实际运营KV、Yak-42、charter=false；不再仅因9xxx编号隐藏。公布时刻和charter=false不是余票证明。",
+      "sources": [
+        {
+          "title": "KrasAvia · HMA–UFA Yak-42 双向官方查询",
+          "url": "https://www.krasavia.ru/ru/booking/#/schedule/",
+          "local": "sources/ugra-nv/kras-HMA-UFA.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=kras&q=950"
+    },
+    {
+      "id": "ugra-circuits",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "汉特曼西：5条完整环线与2条已确认返程",
+      "routeRu": "Ханты-Мансийск — Зенково — Селиярово — Нялинское / Кирпичный — Белогорье — Луговской — Троица / Елизарово — Кедровый — Урманный；Реполово / Тюли → Ханты-Мансийск",
+      "operator": "ЮТэйр — Вертолётные услуги · Utair Helicopter Services",
+      "aircraft": "Mi-8",
+      "status": "imported",
+      "period": "2026秋季；逐行至12月",
+      "schedule": "967/968周一三10:40–12:00，指定周五12:40–14:00；975/976周一三12:40–14:00、周六11:40–13:00；977/978周二四六09:00–10:50。",
+      "booking": "机场 +7 (3467)354-260；Utair驻场代表 pred-hma@utair.ru。具体出票渠道待逐线确认。",
+      "notes": "机场的到达字段常是第一站到达，不能连成直达终点。已保留完整环线；不补造中途时间。 Реполово/Тюли只录当前明确返程，去程完整经停表仍待核。",
+      "sources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=utair-heli&airport=HMA"
+    },
+    {
+      "id": "ugra-nv-sergino",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "汉特曼西—谢尔吉诺：修正经停和全程时刻",
+      "routeRu": "Ханты-Мансийск — Горнореченск — Карымкары — Большие Леуши — Комсомольский — Большой Атлым — Кормужиханка / Пальяново — Октябрьское — Сергино",
+      "operator": "ЮТэйр — Вертолётные услуги · Utair Helicopter Services",
+      "aircraft": "Mi-8T",
+      "status": "imported",
+      "period": "2026-10-26起；机场日期变体至12月底",
+      "schedule": "ЮР961周一六09:30–12:10；962 12:55–15:30。963周三09:30–12:20；964 12:55–15:45。",
+      "booking": "Utair官网或授权ЗСАВС代理；经停站出发联系 +7(3467)33-33-78。",
+      "notes": "机场API的10:10/10:15及14:55/15:00是局部航段时刻；按政府2026全程表录入，保留周三不同经停。",
+      "sources": [
+        {
+          "title": "十月区政府 · 2026秋季 Mi-8T 跨区航班",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/grafik-dvizheniya-passazhirskikh-vertoletov-mi-8t-ao-yuteyr-vertoletnye-uslugi-na-period-osennei-ra/",
+          "local": "sources/ugra-nv/okt-intermunicipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=utair-heli&airport=KHM-SERGINO"
+    },
+    {
+      "id": "ugra-nv-oktyabrsky",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "十月区：谢尔吉诺地方直升机8条时刻",
+      "routeRu": "Сергино — Октябрьское / Шеркалы — Перегрёбное / Нижние Нарыкары",
+      "operator": "ЮТэйр — Вертолётные услуги · Utair Helicopter Services",
+      "aircraft": "Mi-8",
+      "status": "imported",
+      "period": "2026秋季泥泞期，官网未明确起止日",
+      "schedule": "ЮР951–958；表列周班期与时刻，详情见地图；不自动推演具体日期。",
+      "booking": "Utair官网、ЗСАВС授权代理；24小时出票+7(3452)49-65-47。",
+      "notes": "官网明确线上渠道。保留时刻表原МИ-8写法，不套用跨区表Mi-8T。",
+      "sources": [
+        {
+          "title": "十月区政府 · 2026秋季 Mi-8 市政航班",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/raspisanie-dvizhen1iya-passazhirskikh-vertoletov-ao-yuteyr-vertoletnye-uslugi/",
+          "local": "sources/ugra-nv/okt-municipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=utair-heli&airport=KHM-OKTYABRSKOYE"
+    },
+    {
+      "id": "ugra-nv-nva",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "下瓦尔托夫斯克：8条Mi-8T市政时刻",
+      "routeRu": "Нижневартовск — Большой Ларьяк / Чехломей / Ларьяк / Сосновый Бор — Корлики",
+      "operator": "АО Нижневартовскавиа · Nizhnevartovskavia",
+      "aircraft": "Mi-8T",
+      "status": "imported",
+      "period": "2026年11–12月指定日期",
+      "schedule": "НП9803/9804、9806/9807、9808/9809、9819/9820；全程时刻和各日期已入库。",
+      "booking": "机场二楼售票处，提前15天开售；+7(3466)49-21-75。",
+      "notes": "实际承运人АО Нижневартовскавиа不同于机场公司ООО Нижневартовск Аэро。按航司原表保留返程经停顺序。返程销售/中途预留限制见详情。",
+      "sources": [
+        {
+          "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+          "url": "https://nvavia.ru/Home/Show?_id=6114",
+          "local": "sources/ugra-nv/nvavia-municipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=nizhnevartovskavia"
+    },
+    {
+      "id": "ugra-nv-9805-conflict",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "НП9805：两份官方表的经停顺序冲突",
+      "routeRu": "Нижневартовск — Покур — Былино — Вампугол — Нижневартовск",
+      "operator": "АО Нижневартовскавиа · Nizhnevartovskavia",
+      "aircraft": "Mi-8T",
+      "status": "unresolved",
+      "period": "2026-11-01至12-30，每周三",
+      "schedule": "共同全程08:10–10:20。机场：经Былино、Вампугол到Покур09:41，09:45返。航司：经Покур、Былино到Вампугол09:41，09:46返。",
+      "booking": "机场二楼柜台，提前15天开售；先确认上客地点与顺序。",
+      "notes": "两个终点、经停顺序、返程起飞时间均冲突；保留原件对照，未生成确定地图航段或连接。",
+      "sources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+          "url": "https://nvavia.ru/Home/Show?_id=6114",
+          "local": "sources/ugra-nv/nvavia-municipal.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "id": "ugra-nv-remaining",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "NF985/986与异常机型：暂不按接口直连",
+      "routeRu": "Кондинское — Ханты-Мансийск；Ханты-Мансийск — Белоярский；Ноябрьск — Ханты-Мансийск",
+      "operator": "ЮТэйр / A2，需逐线核实",
+      "aircraft": "接口标Mi-8；待核",
+      "status": "unresolved",
+      "period": "机场2026年11–12月接口",
+      "schedule": "NF985/986 Кондинское端点配30分钟；A2321标Mi-8而返程A2322标An-24；UT6197两天标Mi-8且约1小时。",
+      "booking": "机场问询+7(3467)354-260，先确认实际承运人、机型和完整线路。",
+      "notes": "已发现同接口多处整程端点与局部时刻混用，故不把上述异常行认作直达。汉特曼西区政府链接PDF明确写2024，不能用作2026完整班表。A2113/114、A2322已由航司官网与机场公告核实A247，另行补入。",
+      "sources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "id": "ugra-nv-ssj",
+      "region": "汉特-曼西 / 下瓦尔托夫斯克",
+      "title": "机场冬季表：补22条SSJ100时刻",
+      "routeRu": "Ханты-Мансийск / Нижневартовск — Минеральные Воды；Нижневартовск — Самара / Уфа",
+      "operator": "Азимут · Azimuth / ИрАэро · IrAero",
+      "aircraft": "SSJ100",
+      "status": "imported",
+      "period": "逐行有效期，最晚2027-03-27；IrAero12月15日",
+      "schedule": "20条Azimuth冬季时刻变体；2条IrAero12月15日班次。",
+      "booking": "航司官网按日期查询，余票尚未核实。",
+      "notes": "机场逐班明确SU9。Azimuth官网API本轮403，未假定所有A4代码共享均为SSJ100。",
+      "sources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=azimuth"
+    },
     {
       "id": "polar-winter-review",
       "region": "雅库特",
@@ -530,38 +813,6 @@
           "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/3/Docs2/Novye_trebovaniya_KrasAvia1.pdf",
           "local": "sources/remote-routes/khatanga-ticket-2018.pdf",
           "checkedAt": "2026-11-04"
-        }
-      ],
-      "checkedAt": "2026-11-04"
-    },
-    {
-      "id": "ugra-circuits",
-      "region": "汉特-曼西",
-      "title": "汉特-曼西斯克的多站直升机客运",
-      "routeRu": "Ханты-Мансийск — Зенково — Селиярово — Нялинское / Кирпичный — Белогорье — Луговской — Троица / Елизарово — Кедровый — Урманный / Сергино / Реполово / Тюли / Кондинское",
-      "operator": "ЮТэйр — Вертолётные услуги · Utair Helicopter Services",
-      "aircraft": "Mi-8",
-      "status": "official-plan",
-      "period": "2026年秋季，机场接口逐条列至12月",
-      "schedule": "机场接口有ЮР961–978、985/986等班次。10月30日报道：967环线周一三10:40出发，975环线周一三12:40/周六11:40，977环线周二四六09:00。",
-      "booking": "机场问询 +7 3467 354-260，先确认具体村落、经停顺序、当天时刻和售票渠道。",
-      "notes": "新闻给整条环线回到基地时间，接口部分到达字段可能对应中间站；本轮未把这些时间拆成未经核验的直达航段。Sogom直达往返已单独补入。",
-      "sources": [
-        {
-          "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
-          "url": "https://ugraavia.ru/api/air/schedule/get",
-          "local": "sources/remote-routes/ugra-timetable.json",
-          "checkedAt": "2026-11-04"
-        },
-        {
-          "title": "汉特-曼西斯克机场 · 当日状态快照",
-          "url": "https://ugraavia.ru/api/air/schedule/get_online",
-          "local": "sources/remote-routes/ugra-board.json",
-          "checkedAt": "2026-11-04"
-        },
-        {
-          "title": "UGRA-NEWS · 2026-10-30地方客运恢复",
-          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/"
         }
       ],
       "checkedAt": "2026-11-04"

@@ -37,8 +37,8 @@
       "id": "UFA",
       "iata": "UFA",
       "icao": "UWUU",
-      "ru": "Ufa",
-      "zh": null,
+      "ru": "Уфа",
+      "zh": "乌法",
       "en": "Ufa International Airport",
       "lat": 54.557499,
       "lon": 55.874401,
@@ -773,8 +773,8 @@
       "id": "NJC",
       "iata": "NJC",
       "icao": "USNN",
-      "ru": "Nizhnevartovsk",
-      "zh": null,
+      "ru": "Нижневартовск",
+      "zh": "下瓦尔托夫斯克",
       "en": "Nizhnevartovsk Airport",
       "lat": 60.949299,
       "lon": 76.483597,
@@ -3451,8 +3451,8 @@
       "id": "EYK",
       "iata": "EYK",
       "icao": "USHQ",
-      "ru": "Beloyarskiy",
-      "zh": null,
+      "ru": "Белоярский",
+      "zh": "别洛亚尔斯基",
       "en": "Beloyarskiy Airport",
       "lat": 63.686901,
       "lon": 66.698601,
@@ -5510,6 +5510,531 @@
       "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
       "coordinateStatus": "airport",
       "coordinateSource": "https://ourairports.com/airports/USDL/"
+    },
+    "KHM-KORLIKI": {
+      "id": "KHM-KORLIKI",
+      "ru": "Корлики",
+      "en": "Korliki",
+      "zh": null,
+      "lat": 61.53361,
+      "lon": 82.41611,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BB%D0%B8%D0%BA%D0%B8_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-BOLSHOY-LARYAK": {
+      "id": "KHM-BOLSHOY-LARYAK",
+      "ru": "Большой Ларьяк",
+      "en": "Bolshoy Laryak",
+      "zh": null,
+      "lat": 61.0775,
+      "lon": 80.79667,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9B%D0%B0%D1%80%D1%8C%D1%8F%D0%BA",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-CHEKHLOMEY": {
+      "id": "KHM-CHEKHLOMEY",
+      "ru": "Чехломей",
+      "en": "Chekhlomey",
+      "zh": null,
+      "lat": 61.11028,
+      "lon": 80.58222,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-LARYAK": {
+      "id": "KHM-LARYAK",
+      "ru": "Ларьяк",
+      "en": "Laryak",
+      "zh": null,
+      "lat": 61.10056,
+      "lon": 80.2575,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%80%D1%8C%D1%8F%D0%BA",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-SOSNOVY-BOR": {
+      "id": "KHM-SOSNOVY-BOR",
+      "ru": "Сосновый Бор",
+      "en": "Sosnovy Bor",
+      "zh": null,
+      "lat": 61.60417,
+      "lon": 80.94083,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%91%D0%BE%D1%80_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-SERGINO": {
+      "id": "KHM-SERGINO",
+      "ru": "Сергино",
+      "en": "Sergino",
+      "zh": null,
+      "lat": 62.46167,
+      "lon": 65.58861,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%BD%D0%BE_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-OKTYABRSKOYE": {
+      "id": "KHM-OKTYABRSKOYE",
+      "ru": "Октябрьское",
+      "en": "Oktyabrskoye",
+      "zh": null,
+      "lat": 62.455,
+      "lon": 66.05833,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-GORNORECHENSK": {
+      "id": "KHM-GORNORECHENSK",
+      "ru": "Горнореченск",
+      "en": "Gornorechensk",
+      "zh": null,
+      "lat": 61.78861,
+      "lon": 67.59528,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BD%D0%BE%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-KARYMKARY": {
+      "id": "KHM-KARYMKARY",
+      "ru": "Карымкары",
+      "en": "Karymkary",
+      "zh": null,
+      "lat": 62.01583,
+      "lon": 67.39083,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%8B%D0%BC%D0%BA%D0%B0%D1%80%D1%8B",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-BOLSHIYE-LEUSHI": {
+      "id": "KHM-BOLSHIYE-LEUSHI",
+      "ru": "Большие Леуши",
+      "en": "Bolshiye Leushi",
+      "zh": null,
+      "lat": 62.18361,
+      "lon": 67.18611,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%9B%D0%B5%D1%83%D1%88%D0%B8",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-KOMSOMOLSKY": {
+      "id": "KHM-KOMSOMOLSKY",
+      "ru": "Комсомольский",
+      "en": "Komsomolsky",
+      "zh": null,
+      "lat": 62.26222,
+      "lon": 66.99694,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_(%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-BOLSHOY-ATLYM": {
+      "id": "KHM-BOLSHOY-ATLYM",
+      "ru": "Большой Атлым",
+      "en": "Bolshoy Atlym",
+      "zh": null,
+      "lat": 62.28167,
+      "lon": 66.64889,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%90%D1%82%D0%BB%D1%8B%D0%BC",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-KORMUZHIKHANKA": {
+      "id": "KHM-KORMUZHIKHANKA",
+      "ru": "Кормужиханка",
+      "en": "Kormuzhikhanka",
+      "zh": null,
+      "lat": 62.44722,
+      "lon": 66.25222,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BC%D1%83%D0%B6%D0%B8%D1%85%D0%B0%D0%BD%D0%BA%D0%B0",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-PALYANOVO": {
+      "id": "KHM-PALYANOVO",
+      "ru": "Пальяново",
+      "en": "Palyanovo",
+      "zh": null,
+      "lat": 61.64194,
+      "lon": 66.88917,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%BE",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-SHERKALY": {
+      "id": "KHM-SHERKALY",
+      "ru": "Шеркалы",
+      "en": "Sherkaly",
+      "zh": null,
+      "lat": 62.75444,
+      "lon": 65.48111,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D1%8B",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-PEREGREBNOYE": {
+      "id": "KHM-PEREGREBNOYE",
+      "ru": "Перегрёбное",
+      "en": "Peregrebnoye",
+      "zh": null,
+      "lat": 62.96667,
+      "lon": 65.08333,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%91%D0%B1%D0%BD%D0%BE%D0%B5",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-NIZHNIYE-NARYKARY": {
+      "id": "KHM-NIZHNIYE-NARYKARY",
+      "ru": "Нижние Нарыкары",
+      "en": "Nizhniye Narykary",
+      "zh": null,
+      "lat": 63.19,
+      "lon": 64.93889,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B0%D1%80%D1%8B%D0%BA%D0%B0%D1%80%D1%8B",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-ZENKOVO": {
+      "id": "KHM-ZENKOVO",
+      "ru": "Зенково",
+      "en": "Zenkovo",
+      "zh": null,
+      "lat": 61.20222,
+      "lon": 69.88278,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%BE_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-SELIYAROVO": {
+      "id": "KHM-SELIYAROVO",
+      "ru": "Селиярово",
+      "en": "Seliyarovo",
+      "zh": null,
+      "lat": 61.29583,
+      "lon": 70.35333,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D1%8F%D1%80%D0%BE%D0%B2%D0%BE",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-NYALINSKOYE": {
+      "id": "KHM-NYALINSKOYE",
+      "ru": "Нялинское",
+      "en": "Nyalinskoye",
+      "zh": null,
+      "lat": 61.29028,
+      "lon": 69.56194,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D1%8F%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-KIRPICHNY": {
+      "id": "KHM-KIRPICHNY",
+      "ru": "Кирпичный",
+      "en": "Kirpichny",
+      "zh": null,
+      "lat": 61.07944,
+      "lon": 68.67028,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-BELOGORYE": {
+      "id": "KHM-BELOGORYE",
+      "ru": "Белогорье",
+      "en": "Belogorye",
+      "zh": null,
+      "lat": 61.055,
+      "lon": 68.625,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%8C%D0%B5_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-LUGOVSKOY": {
+      "id": "KHM-LUGOVSKOY",
+      "ru": "Луговской",
+      "en": "Lugovskoy",
+      "zh": null,
+      "lat": 61.05972,
+      "lon": 68.50306,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-TROITSA": {
+      "id": "KHM-TROITSA",
+      "ru": "Троица",
+      "en": "Troitsa",
+      "zh": null,
+      "lat": 61.11556,
+      "lon": 68.4275,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-ELIZAROVO": {
+      "id": "KHM-ELIZAROVO",
+      "ru": "Елизарово",
+      "en": "Elizarovo",
+      "zh": null,
+      "lat": 61.39472,
+      "lon": 68.29361,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%BE_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-KEDROVY": {
+      "id": "KHM-KEDROVY",
+      "ru": "Кедровый",
+      "en": "Kedrovy",
+      "zh": null,
+      "lat": 61.4775,
+      "lon": 68.24667,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-URMANNY": {
+      "id": "KHM-URMANNY",
+      "ru": "Урманный",
+      "en": "Urmanny",
+      "zh": null,
+      "lat": 61.62806,
+      "lon": 67.83083,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-REPOLOVO": {
+      "id": "KHM-REPOLOVO",
+      "ru": "Реполово",
+      "en": "Repolovo",
+      "zh": null,
+      "lat": 60.65389,
+      "lon": 69.83,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "KHM-TYULI": {
+      "id": "KHM-TYULI",
+      "ru": "Тюли",
+      "en": "Tyuli",
+      "zh": null,
+      "lat": 60.74194,
+      "lon": 69.65,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all points in Khanty-Mansi Autonomous Okrug.",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D0%BB%D0%B8_(%D0%A5%D0%B0%D0%BD%D1%82%D1%8B-%D0%9C%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateStatus": "settlement",
+      "icao": "",
+      "iata": "",
+      "note": "村镇参考坐标，非已测定停机坪；实际登机点请向承运人确认。"
+    },
+    "MRV": {
+      "id": "MRV",
+      "iata": "MRV",
+      "icao": "URMM",
+      "ru": "Минеральные Воды",
+      "en": "Mineralnye Vody",
+      "zh": "矿水城",
+      "lat": 44.225101,
+      "lon": 43.081902,
+      "tz": "Europe/Moscow",
+      "tzVerified": true,
+      "timezoneSource": "IANA Europe/Moscow, Stavropol Krai",
+      "region": "RU-STA",
+      "coordinateSource": "https://ourairports.com/airports/URMM/",
+      "coordinateStatus": "airport"
+    },
+    "IRM": {
+      "id": "IRM",
+      "iata": "IRM",
+      "icao": "USHI",
+      "ru": "Игрим",
+      "en": "Igrim",
+      "zh": "伊格里姆",
+      "lat": 63.200391,
+      "lon": 64.440136,
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg, Khanty-Mansi Autonomous Okrug",
+      "region": "RU-KHM",
+      "coordinateSource": "https://ourairports.com/airports/USHI/",
+      "coordinateStatus": "airport"
     }
   },
   "flights": [
@@ -35956,10 +36481,10 @@
         "2026-12-12",
         "2026-12-22"
       ],
-      "source": "webskykv",
-      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。此高编号/包机标记班次的公众散客购票资格尚未独立核实。",
+      "source": "kras-ufa-review",
+      "note": "已重新取得KrasAvia官方查询，实际承运KV，Yak-42，charter=false；并与乌法及汉特-曼西斯克机场时刻交叉一致。此前仅因9xxx高编号默认隐藏的处理已撤回。公众散客购票入口/资格仍待航司确认，不能把公布时刻当作当前有余票。",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "sourceLocator": "kv-schedule-HMA-UFA.json / segment 1",
       "alternatives": [],
@@ -35968,11 +36493,30 @@
         "UFA"
       ],
       "durationMinutes": 145,
-      "publicAccess": "unverified",
-      "localSource": "sources/websky/kv-schedule-HMA-UFA.json",
+      "publicAccess": "published-schedule",
+      "localSource": "sources/ugra-nv/kras-HMA-UFA.json",
       "id": "f-0a33abce948e",
       "arrivalDayOffset": 0,
-      "arrivalDayBasis": "duration-and-IANA-timezones"
+      "arrivalDayBasis": "duration-and-IANA-timezones",
+      "booking": {
+        "method": "KrasAvia 售票 / 客服确认",
+        "url": "https://www.krasavia.ru/online-servisy/pokupka-aviabileta",
+        "source": "https://www.airportufa.ru/en/schedule/khanty_mansiysk/",
+        "status": "unverified",
+        "text": "官网时刻已确认KV9501/9502为Yak-42；请在KrasAvia售票入口按指定日期查询，确认能否散客出票。机场公布班表和charter=false均不能单独证明开放销售或有余票。"
+      },
+      "evidenceSources": [
+        {
+          "title": "乌法机场官方时刻",
+          "url": "https://www.airportufa.ru/en/schedule/khanty_mansiysk/",
+          "local": "sources/ugra-nv/ufa-hma.html"
+        },
+        {
+          "title": "汉特-曼西斯克机场官方时刻",
+          "url": "https://ugraavia.ru/passengers/flight-schedule/",
+          "local": "sources/ugra-nv/ugra-schedule.json"
+        }
+      ]
     },
     {
       "airline": "kras",
@@ -41670,10 +42214,10 @@
         "2026-12-12",
         "2026-12-22"
       ],
-      "source": "webskykv",
-      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。此高编号/包机标记班次的公众散客购票资格尚未独立核实。",
+      "source": "kras-ufa-review",
+      "note": "已重新取得KrasAvia官方查询，实际承运KV，Yak-42，charter=false；并与乌法及汉特-曼西斯克机场时刻交叉一致。此前仅因9xxx高编号默认隐藏的处理已撤回。公众散客购票入口/资格仍待航司确认，不能把公布时刻当作当前有余票。",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "sourceLocator": "kv-schedule-UFA-HMA.json / segment 1",
       "alternatives": [],
@@ -41682,11 +42226,30 @@
         "HMA"
       ],
       "durationMinutes": 140,
-      "publicAccess": "unverified",
-      "localSource": "sources/websky/kv-schedule-UFA-HMA.json",
+      "publicAccess": "published-schedule",
+      "localSource": "sources/ugra-nv/kras-UFA-HMA.json",
       "id": "f-b656fe915a8c",
       "arrivalDayOffset": 0,
-      "arrivalDayBasis": "duration-and-IANA-timezones"
+      "arrivalDayBasis": "duration-and-IANA-timezones",
+      "booking": {
+        "method": "KrasAvia 售票 / 客服确认",
+        "url": "https://www.krasavia.ru/online-servisy/pokupka-aviabileta",
+        "source": "https://www.airportufa.ru/en/schedule/khanty_mansiysk/",
+        "status": "unverified",
+        "text": "官网时刻已确认KV9501/9502为Yak-42；请在KrasAvia售票入口按指定日期查询，确认能否散客出票。机场公布班表和charter=false均不能单独证明开放销售或有余票。"
+      },
+      "evidenceSources": [
+        {
+          "title": "乌法机场官方时刻",
+          "url": "https://www.airportufa.ru/en/schedule/khanty_mansiysk/",
+          "local": "sources/ugra-nv/ufa-hma.html"
+        },
+        {
+          "title": "汉特-曼西斯克机场官方时刻",
+          "url": "https://ugraavia.ru/passengers/flight-schedule/",
+          "local": "sources/ugra-nv/ugra-schedule.json"
+        }
+      ]
     },
     {
       "airline": "kras",
@@ -83170,10 +83733,10 @@
       "end": "2026-12-30",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[162]",
       "dates": [
         "2026-11-02",
@@ -83196,17 +83759,38 @@
         "2026-12-30"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF969"
       ],
       "durationMinutes": 40,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-163",
@@ -83226,27 +83810,48 @@
       "end": "2026-11-13",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[163]",
       "dates": [
         "2026-11-06",
         "2026-11-13"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF969"
       ],
       "durationMinutes": 40,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-164",
@@ -83266,10 +83871,10 @@
       "end": "2026-12-11",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[164]",
       "dates": [
         "2026-11-27",
@@ -83277,17 +83882,38 @@
         "2026-12-11"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF969"
       ],
       "durationMinutes": 40,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-165",
@@ -83307,26 +83933,47 @@
       "end": "2026-12-25",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[165]",
       "dates": [
         "2026-12-25"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF969。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF969"
       ],
       "durationMinutes": 40,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-168",
@@ -83347,10 +83994,10 @@
       "end": "2026-12-30",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[168]",
       "dates": [
         "2026-11-02",
@@ -83373,17 +84020,38 @@
         "2026-12-30"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF970"
       ],
       "durationMinutes": 45,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-169",
@@ -83403,27 +84071,48 @@
       "end": "2026-11-13",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[169]",
       "dates": [
         "2026-11-06",
         "2026-11-13"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF970"
       ],
       "durationMinutes": 45,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-170",
@@ -83443,10 +84132,10 @@
       "end": "2026-12-11",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[170]",
       "dates": [
         "2026-11-27",
@@ -83454,17 +84143,38 @@
         "2026-12-11"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF970"
       ],
       "durationMinutes": 45,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ugra-171",
@@ -83484,26 +84194,47 @@
       "end": "2026-12-25",
       "source": "ugra-timetable",
       "status": "confirmed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "arrivalDayOffset": 0,
-      "localSource": "sources/remote-routes/ugra-timetable.json",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
       "sourceLocator": "data.BLOCK[171]",
       "dates": [
         "2026-12-25"
       ],
       "booking": {
-        "method": "机场咨询 / 航司代表",
-        "url": "https://ugraavia.ru/contacts/",
-        "text": "汉特-曼西斯克机场问询 +7 3467 354-260；航司驻场代表 pred-hma@utair.ru。先核对当日班次和购票渠道，官网未公布此线路统一在线出票入口。",
-        "source": "https://ugraavia.ru/passengers/representative-offices/"
+        "method": "Utair 官网 / 航司代表",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "text": "政府发布的Utair购票指南第1页直接以Ханты-Мансийск → Согом演示搜索购票，已确认官网入口。余票、预售期和返程销售请按当天查询；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。指南截图日期仅为操作示例。"
       },
       "note": "机场官方接口逐行列 Mi-8，保留原航班号；官方英文显示 NF970。Sogom为村落参考坐标。",
       "numberAliases": [
         "NF970"
       ],
       "durationMinutes": 45,
-      "locationUnverified": true
+      "locationUnverified": true,
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 航司驻场代表",
+          "url": "https://ugraavia.ru/passengers/representative-offices/",
+          "local": "sources/ugra-nv/ugra-reps.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "id": "remote-ap-СИ9641",
@@ -86823,6 +87554,3122 @@
       },
       "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。",
       "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "ugra-nv-np-9803",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9803",
+      "numberAliases": [
+        "NP9803"
+      ],
+      "from": "NJC",
+      "to": "KHM-KORLIKI",
+      "route": [
+        "NJC",
+        "KHM-BOLSHOY-LARYAK",
+        "KHM-CHEKHLOMEY",
+        "KHM-LARYAK",
+        "KHM-KORLIKI"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "09:10",
+      "arrival": "12:39",
+      "days": [
+        1,
+        6
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-07",
+        "2026-11-16",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-14",
+        "2026-12-26",
+        "2026-12-28"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9803；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9804",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9804",
+      "numberAliases": [
+        "NP9804"
+      ],
+      "from": "KHM-KORLIKI",
+      "to": "NJC",
+      "route": [
+        "KHM-KORLIKI",
+        "KHM-BOLSHOY-LARYAK",
+        "KHM-CHEKHLOMEY",
+        "KHM-LARYAK",
+        "NJC"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "13:00",
+      "arrival": "16:25",
+      "days": [
+        1,
+        6
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-07",
+        "2026-11-16",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-14",
+        "2026-12-26",
+        "2026-12-28"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9804；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9806",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9806",
+      "numberAliases": [
+        "NP9806"
+      ],
+      "from": "NJC",
+      "to": "KHM-KORLIKI",
+      "route": [
+        "NJC",
+        "KHM-SOSNOVY-BOR",
+        "KHM-LARYAK",
+        "KHM-KORLIKI"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "09:10",
+      "arrival": "12:54",
+      "days": [
+        2
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-10",
+        "2026-12-01",
+        "2026-12-08"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9806；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9807",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9807",
+      "numberAliases": [
+        "NP9807"
+      ],
+      "from": "KHM-KORLIKI",
+      "to": "NJC",
+      "route": [
+        "KHM-KORLIKI",
+        "KHM-SOSNOVY-BOR",
+        "KHM-LARYAK",
+        "NJC"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "13:30",
+      "arrival": "16:45",
+      "days": [
+        2
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-10",
+        "2026-12-01",
+        "2026-12-08"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9807；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9808",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9808",
+      "numberAliases": [
+        "NP9808"
+      ],
+      "from": "NJC",
+      "to": "KHM-KORLIKI",
+      "route": [
+        "NJC",
+        "KHM-LARYAK",
+        "KHM-KORLIKI"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "09:10",
+      "arrival": "11:59",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-14",
+        "2026-11-17",
+        "2026-11-21",
+        "2026-11-24",
+        "2026-11-26",
+        "2026-12-12",
+        "2026-12-17",
+        "2026-12-19",
+        "2026-12-22",
+        "2026-12-29"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9808；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9809",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9809",
+      "numberAliases": [
+        "NP9809"
+      ],
+      "from": "KHM-KORLIKI",
+      "to": "NJC",
+      "route": [
+        "KHM-KORLIKI",
+        "KHM-LARYAK",
+        "NJC"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "12:30",
+      "arrival": "15:30",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-14",
+        "2026-11-17",
+        "2026-11-21",
+        "2026-11-24",
+        "2026-11-26",
+        "2026-12-12",
+        "2026-12-17",
+        "2026-12-19",
+        "2026-12-22",
+        "2026-12-29"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9809；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9819",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9819",
+      "numberAliases": [
+        "NP9819"
+      ],
+      "from": "NJC",
+      "to": "KHM-KORLIKI",
+      "route": [
+        "NJC",
+        "KHM-LARYAK",
+        "KHM-CHEKHLOMEY",
+        "KHM-KORLIKI"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "09:10",
+      "arrival": "12:10",
+      "days": [
+        4
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-12-10",
+        "2026-12-24"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9819；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-np-9820",
+      "airline": "nizhnevartovskavia",
+      "number": "НП 9820",
+      "numberAliases": [
+        "NP9820"
+      ],
+      "from": "KHM-KORLIKI",
+      "to": "NJC",
+      "route": [
+        "KHM-KORLIKI",
+        "KHM-CHEKHLOMEY",
+        "KHM-LARYAK",
+        "NJC"
+      ],
+      "routeKind": "chain",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftParent": "Mi-8",
+      "departure": "12:40",
+      "arrival": "15:50",
+      "days": [
+        4
+      ],
+      "start": "2026-10-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-12-10",
+        "2026-12-24"
+      ],
+      "source": "nvavia-municipal",
+      "sourceLocator": "2026年度班表 НП-9820；与机场冬季表11–12月指定日期互校",
+      "localSource": "sources/ugra-nv/nvavia-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "机场二楼售票处 · 提前15天开售",
+        "status": "verified",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "source": "https://nvavia.ru/Home/Show?_id=6114",
+        "text": "官方要求到机场售票处购买，机场标注售票处在二楼；提前15天开售。咨询 +7 (3466) 49-21-75。原文：Обратная продажа не производится, промежуточные брони не устанавливаются（不办理返程销售，不设中途站预留订位）；返程/中途上客请向售票处核实。"
+      },
+      "evidenceSources": [
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "保留航司公布的完整经停顺序；返程不自动倒置去程。仅公布全程起终时刻，不推算中途站到离时间。9803/9804部分周一及9819/9820为泥泞期加班，需确认是否随冬季道路开通调整。"
+    },
+    {
+      "id": "ugra-nv-nf-62",
+      "airline": "utair-heli",
+      "number": "ЮР961",
+      "numberAliases": [
+        "NF961"
+      ],
+      "from": "HMA",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "departure": "09:30",
+      "arrival": "12:10",
+      "days": [
+        1,
+        6
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-26",
+      "dates": [
+        "2026-10-26",
+        "2026-10-31",
+        "2026-11-02",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-21",
+        "2026-11-23",
+        "2026-11-28",
+        "2026-11-30",
+        "2026-12-05",
+        "2026-12-07",
+        "2026-12-12",
+        "2026-12-14",
+        "2026-12-19",
+        "2026-12-21",
+        "2026-12-26"
+      ],
+      "source": "okt-intermunicipal",
+      "sourceLocator": "2026秋季表 ЮР-961；机场接口行62核对日期",
+      "localSource": "sources/ugra-nv/okt-intermunicipal.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "route": [
+        "HMA",
+        "KHM-GORNORECHENSK",
+        "KHM-KARYMKARY",
+        "KHM-BOLSHIYE-LEUSHI",
+        "KHM-KOMSOMOLSKY",
+        "KHM-BOLSHOY-ATLYM",
+        "KHM-KORMUZHIKHANKA",
+        "KHM-OKTYABRSKOYE",
+        "KHM-SERGINO"
+      ],
+      "routeKind": "chain",
+      "aircraftParent": "Mi-8",
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "机场接口把整条航线端点与首末航段时刻混列。按区政府2026表保留完整经停及整程时刻：往返需约2小时35分至2小时50分，而非35–45分钟直飞；中途时刻未公布。"
+    },
+    {
+      "id": "ugra-nv-nf-63",
+      "airline": "utair-heli",
+      "number": "ЮР962",
+      "numberAliases": [
+        "NF962"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "departure": "12:55",
+      "arrival": "15:30",
+      "days": [
+        1,
+        6
+      ],
+      "start": "2026-10-26",
+      "end": "2026-12-26",
+      "dates": [
+        "2026-10-26",
+        "2026-10-31",
+        "2026-11-02",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-21",
+        "2026-11-23",
+        "2026-11-28",
+        "2026-11-30",
+        "2026-12-05",
+        "2026-12-07",
+        "2026-12-12",
+        "2026-12-14",
+        "2026-12-19",
+        "2026-12-21",
+        "2026-12-26"
+      ],
+      "source": "okt-intermunicipal",
+      "sourceLocator": "2026秋季表 ЮР-962；机场接口行63核对日期",
+      "localSource": "sources/ugra-nv/okt-intermunicipal.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "route": [
+        "KHM-SERGINO",
+        "KHM-OKTYABRSKOYE",
+        "KHM-KORMUZHIKHANKA",
+        "KHM-BOLSHOY-ATLYM",
+        "KHM-KOMSOMOLSKY",
+        "KHM-BOLSHIYE-LEUSHI",
+        "KHM-KARYMKARY",
+        "KHM-GORNORECHENSK",
+        "HMA"
+      ],
+      "routeKind": "chain",
+      "aircraftParent": "Mi-8",
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "机场接口把整条航线端点与首末航段时刻混列。按区政府2026表保留完整经停及整程时刻：往返需约2小时35分至2小时50分，而非35–45分钟直飞；中途时刻未公布。"
+    },
+    {
+      "id": "ugra-nv-nf-64",
+      "airline": "utair-heli",
+      "number": "ЮР963",
+      "numberAliases": [
+        "NF963"
+      ],
+      "from": "HMA",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "departure": "09:30",
+      "arrival": "12:20",
+      "days": [
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2026-12-30",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2026-12-23",
+        "2026-12-30"
+      ],
+      "source": "okt-intermunicipal",
+      "sourceLocator": "2026秋季表 ЮР-963；机场接口行64核对日期",
+      "localSource": "sources/ugra-nv/okt-intermunicipal.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "route": [
+        "HMA",
+        "KHM-PALYANOVO",
+        "KHM-GORNORECHENSK",
+        "KHM-KARYMKARY",
+        "KHM-BOLSHIYE-LEUSHI",
+        "KHM-KOMSOMOLSKY",
+        "KHM-BOLSHOY-ATLYM",
+        "KHM-OKTYABRSKOYE",
+        "KHM-SERGINO"
+      ],
+      "routeKind": "chain",
+      "aircraftParent": "Mi-8",
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "机场接口把整条航线端点与首末航段时刻混列。按区政府2026表保留完整经停及整程时刻：往返需约2小时35分至2小时50分，而非35–45分钟直飞；中途时刻未公布。"
+    },
+    {
+      "id": "ugra-nv-nf-65",
+      "airline": "utair-heli",
+      "number": "ЮР964",
+      "numberAliases": [
+        "NF964"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "departure": "12:55",
+      "arrival": "15:45",
+      "days": [
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2026-12-30",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2026-12-23",
+        "2026-12-30"
+      ],
+      "source": "okt-intermunicipal",
+      "sourceLocator": "2026秋季表 ЮР-964；机场接口行65核对日期",
+      "localSource": "sources/ugra-nv/okt-intermunicipal.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "route": [
+        "KHM-SERGINO",
+        "KHM-OKTYABRSKOYE",
+        "KHM-BOLSHOY-ATLYM",
+        "KHM-KOMSOMOLSKY",
+        "KHM-BOLSHIYE-LEUSHI",
+        "KHM-KARYMKARY",
+        "KHM-GORNORECHENSK",
+        "KHM-PALYANOVO",
+        "HMA"
+      ],
+      "routeKind": "chain",
+      "aircraftParent": "Mi-8",
+      "evidenceSources": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "机场接口把整条航线端点与首末航段时刻混列。按区政府2026表保留完整经停及整程时刻：往返需约2小时35分至2小时50分，而非35–45分钟直飞；中途时刻未公布。"
+    },
+    {
+      "id": "ugra-nv-municipal-951",
+      "airline": "utair-heli",
+      "number": "ЮР 951",
+      "numberAliases": [
+        "NF951"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "KHM-OKTYABRSKOYE",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:00",
+      "arrival": "09:15",
+      "days": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-951",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。"
+    },
+    {
+      "id": "ugra-nv-municipal-952",
+      "airline": "utair-heli",
+      "number": "ЮР 952",
+      "numberAliases": [
+        "NF952"
+      ],
+      "from": "KHM-OKTYABRSKOYE",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:30",
+      "arrival": "09:45",
+      "days": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-952",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。"
+    },
+    {
+      "id": "ugra-nv-municipal-953",
+      "airline": "utair-heli",
+      "number": "ЮР 953",
+      "numberAliases": [
+        "NF953"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "KHM-OKTYABRSKOYE",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "16:00",
+      "arrival": "16:15",
+      "days": [
+        1,
+        5,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-953",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。"
+    },
+    {
+      "id": "ugra-nv-municipal-954",
+      "airline": "utair-heli",
+      "number": "ЮР 954",
+      "numberAliases": [
+        "NF954"
+      ],
+      "from": "KHM-OKTYABRSKOYE",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "16:30",
+      "arrival": "16:45",
+      "days": [
+        1,
+        5,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-954",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。"
+    },
+    {
+      "id": "ugra-nv-municipal-955",
+      "airline": "utair-heli",
+      "number": "ЮР 955",
+      "numberAliases": [
+        "NF955"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "KHM-PEREGREBNOYE",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:15",
+      "arrival": "10:50",
+      "days": [
+        6
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-955",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。",
+      "route": [
+        "KHM-SERGINO",
+        "KHM-SHERKALY",
+        "KHM-PEREGREBNOYE"
+      ],
+      "routeKind": "chain"
+    },
+    {
+      "id": "ugra-nv-municipal-956",
+      "airline": "utair-heli",
+      "number": "ЮР 956",
+      "numberAliases": [
+        "NF956"
+      ],
+      "from": "KHM-PEREGREBNOYE",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:55",
+      "arrival": "11:30",
+      "days": [
+        6
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-956",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。",
+      "route": [
+        "KHM-PEREGREBNOYE",
+        "KHM-SHERKALY",
+        "KHM-SERGINO"
+      ],
+      "routeKind": "chain"
+    },
+    {
+      "id": "ugra-nv-municipal-957",
+      "airline": "utair-heli",
+      "number": "ЮР 957",
+      "numberAliases": [
+        "NF957"
+      ],
+      "from": "KHM-SERGINO",
+      "to": "KHM-NIZHNIYE-NARYKARY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:30",
+      "arrival": "10:50",
+      "days": [
+        2,
+        4
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-957",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。",
+      "route": [
+        "KHM-SERGINO",
+        "KHM-OKTYABRSKOYE",
+        "KHM-SHERKALY",
+        "KHM-PEREGREBNOYE",
+        "KHM-NIZHNIYE-NARYKARY"
+      ],
+      "routeKind": "chain"
+    },
+    {
+      "id": "ugra-nv-municipal-958",
+      "airline": "utair-heli",
+      "number": "ЮР 958",
+      "numberAliases": [
+        "NF958"
+      ],
+      "from": "KHM-NIZHNIYE-NARYKARY",
+      "to": "KHM-SERGINO",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:55",
+      "arrival": "12:15",
+      "days": [
+        2,
+        4
+      ],
+      "start": null,
+      "end": null,
+      "scheduleUnconfirmed": true,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2026年秋季泥泞期；官网所列周班期，未标明确起止日",
+      "source": "okt-municipal",
+      "sourceLocator": "2026秋季市政表 ЮР-958",
+      "localSource": "sources/ugra-nv/okt-municipal.html",
+      "checkedAt": "2026-11-05",
+      "status": "confirmed",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网 / 授权代理；经停站联系售票处",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "text": "十月区政府明确可在Utair官网查询购票，也可向授权代理 ООО Западно-Сибирское агентство воздушных сообщений（ЗСАВС）购票。汉特曼西售票处 +7 (3467) 33-33-78 / 32-12-12；24小时出票 +7 (3452) 49-65-47。经停站出发请联系 +7 (3467) 33-33-78。NF/ЮР是航班代码，不能据此认定只能线下购买。"
+      },
+      "evidenceSources": [
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "locationUnverified": true,
+      "note": "官网市政表写МИ-8，未细分T型。季节结束随交通条件调整；具体执行日期需售票处确认，不自动推演。直升机场咨询：Приобье +7 912 089-00-70；Октябрьское +7 922 422-88-83。",
+      "route": [
+        "KHM-NIZHNIYE-NARYKARY",
+        "KHM-PEREGREBNOYE",
+        "KHM-SHERKALY",
+        "KHM-OKTYABRSKOYE",
+        "KHM-SERGINO"
+      ],
+      "routeKind": "chain"
+    },
+    {
+      "id": "ugra-nv-nf-66",
+      "airline": "utair-heli",
+      "number": "ЮР967 / ЮР968",
+      "numberAliases": [
+        "NF967",
+        "NF968"
+      ],
+      "from": "HMA",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "10:40",
+      "arrival": "12:00",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2026-12-30",
+      "dates": [
+        "2026-10-28",
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-30",
+        "2026-12-02",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-14",
+        "2026-12-16",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-28",
+        "2026-12-30"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "机场data.BLOCK[66]与[71]；2026-10-30公告重建整条环线",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "route": [
+        "HMA",
+        "KHM-ZENKOVO",
+        "KHM-SELIYAROVO",
+        "KHM-NYALINSKOYE",
+        "HMA"
+      ],
+      "routeKind": "circuit",
+      "evidenceSources": [
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "整条环线；机场接口的到达字段对应前段，不能当作最后村庄抵达时间。仅保留当前公告核实的经停顺序、出发与回到汉特曼西的时间；中途站到离时间未确认。"
+    },
+    {
+      "id": "ugra-nv-nf-67",
+      "airline": "utair-heli",
+      "number": "ЮР967 / ЮР968",
+      "numberAliases": [
+        "NF967",
+        "NF968"
+      ],
+      "from": "HMA",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "12:40",
+      "arrival": "14:00",
+      "days": [
+        5
+      ],
+      "start": "2026-11-13",
+      "end": "2026-12-25",
+      "dates": [
+        "2026-11-13",
+        "2026-11-27",
+        "2026-12-11",
+        "2026-12-25"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "机场data.BLOCK[67]与[72]；2026-10-30公告重建整条环线",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "route": [
+        "HMA",
+        "KHM-ZENKOVO",
+        "KHM-SELIYAROVO",
+        "KHM-NYALINSKOYE",
+        "HMA"
+      ],
+      "routeKind": "circuit",
+      "evidenceSources": [
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "整条环线；机场接口的到达字段对应前段，不能当作最后村庄抵达时间。仅保留当前公告核实的经停顺序、出发与回到汉特曼西的时间；中途站到离时间未确认。"
+    },
+    {
+      "id": "ugra-nv-nf-80",
+      "airline": "utair-heli",
+      "number": "ЮР975 / ЮР976",
+      "numberAliases": [
+        "NF975",
+        "NF976"
+      ],
+      "from": "HMA",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "11:40",
+      "arrival": "13:00",
+      "days": [
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "机场data.BLOCK[80]与[82]；2026-10-30公告重建整条环线",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "route": [
+        "HMA",
+        "KHM-KIRPICHNY",
+        "KHM-BELOGORYE",
+        "KHM-LUGOVSKOY",
+        "KHM-TROITSA",
+        "HMA"
+      ],
+      "routeKind": "circuit",
+      "evidenceSources": [
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "整条环线；机场接口的到达字段对应前段，不能当作最后村庄抵达时间。仅保留当前公告核实的经停顺序、出发与回到汉特曼西的时间；中途站到离时间未确认。"
+    },
+    {
+      "id": "ugra-nv-nf-81",
+      "airline": "utair-heli",
+      "number": "ЮР975 / ЮР976",
+      "numberAliases": [
+        "NF975",
+        "NF976"
+      ],
+      "from": "HMA",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "12:40",
+      "arrival": "14:00",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-11-02",
+      "end": "2026-12-30",
+      "dates": [
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-30",
+        "2026-12-02",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-14",
+        "2026-12-16",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-28",
+        "2026-12-30"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "机场data.BLOCK[81]与[83]；2026-10-30公告重建整条环线",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "route": [
+        "HMA",
+        "KHM-KIRPICHNY",
+        "KHM-BELOGORYE",
+        "KHM-LUGOVSKOY",
+        "KHM-TROITSA",
+        "HMA"
+      ],
+      "routeKind": "circuit",
+      "evidenceSources": [
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "整条环线；机场接口的到达字段对应前段，不能当作最后村庄抵达时间。仅保留当前公告核实的经停顺序、出发与回到汉特曼西的时间；中途站到离时间未确认。"
+    },
+    {
+      "id": "ugra-nv-nf-84",
+      "airline": "utair-heli",
+      "number": "ЮР977 / ЮР978",
+      "numberAliases": [
+        "NF977",
+        "NF978"
+      ],
+      "from": "HMA",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "09:00",
+      "arrival": "10:50",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-31",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-10-31",
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-07",
+        "2026-11-10",
+        "2026-11-12",
+        "2026-11-14",
+        "2026-11-17",
+        "2026-11-19",
+        "2026-11-21",
+        "2026-11-24",
+        "2026-11-26",
+        "2026-11-28",
+        "2026-12-01",
+        "2026-12-03",
+        "2026-12-05",
+        "2026-12-08",
+        "2026-12-10",
+        "2026-12-12",
+        "2026-12-15",
+        "2026-12-17",
+        "2026-12-19",
+        "2026-12-22",
+        "2026-12-24",
+        "2026-12-26",
+        "2026-12-29",
+        "2026-12-31"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "机场data.BLOCK[84]与[85]；2026-10-30公告重建整条环线",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "route": [
+        "HMA",
+        "KHM-ELIZAROVO",
+        "KHM-KEDROVY",
+        "KHM-URMANNY",
+        "HMA"
+      ],
+      "routeKind": "circuit",
+      "evidenceSources": [
+        {
+          "title": "Югра News · 2026秋季环线公告",
+          "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+          "local": "sources/ugra-nv/ugra-local-news.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "note": "整条环线；机场接口的到达字段对应前段，不能当作最后村庄抵达时间。仅保留当前公告核实的经停顺序、出发与回到汉特曼西的时间；中途站到离时间未确认。"
+    },
+    {
+      "id": "ugra-nv-nf-77",
+      "airline": "utair-heli",
+      "number": "ЮР972",
+      "numberAliases": [
+        "NF972"
+      ],
+      "from": "KHM-REPOLOVO",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "12:50",
+      "arrival": "13:10",
+      "days": [
+        2,
+        4
+      ],
+      "start": "2026-11-03",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-10",
+        "2026-11-12",
+        "2026-11-17",
+        "2026-11-19",
+        "2026-11-24",
+        "2026-11-26",
+        "2026-12-01",
+        "2026-12-03",
+        "2026-12-08",
+        "2026-12-10",
+        "2026-12-15",
+        "2026-12-17",
+        "2026-12-22",
+        "2026-12-24",
+        "2026-12-29",
+        "2026-12-31"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[77]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "note": "机场当前班表明确的返程航段。去程属于多站线路，当前完整经停表尚未找到；2024旧PDF不用于补造2026经停和时间。"
+    },
+    {
+      "id": "ugra-nv-nf-79",
+      "airline": "utair-heli",
+      "number": "ЮР974",
+      "numberAliases": [
+        "NF974"
+      ],
+      "from": "KHM-TYULI",
+      "to": "HMA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "departure": "15:00",
+      "arrival": "15:20",
+      "days": [
+        2,
+        4
+      ],
+      "start": "2026-11-03",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-10",
+        "2026-11-12",
+        "2026-11-17",
+        "2026-11-19",
+        "2026-11-24",
+        "2026-11-26",
+        "2026-12-01",
+        "2026-12-03",
+        "2026-12-08",
+        "2026-12-10",
+        "2026-12-15",
+        "2026-12-17",
+        "2026-12-22",
+        "2026-12-24",
+        "2026-12-29",
+        "2026-12-31"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[79]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "locationUnverified": true,
+      "booking": {
+        "method": "机场问询 / Utair 驻场代表确认",
+        "status": "unverified",
+        "url": "https://ugraavia.ru/passengers/representative-offices/",
+        "source": "https://ugraavia.ru/passengers/representative-offices/",
+        "text": "承运人为АО ЮТэйр — Вертолётные услуги；机场问询 +7 (3467) 354-260，驻场代表 pred-hma@utair.ru。此线路的线上出票入口及当前预售期尚未得到逐线确认，请先询问代表或售票处。十月区已确认的Utair官网售票规则不直接套用于本区所有班次。"
+      },
+      "note": "机场当前班表明确的返程航段。去程属于多站线路，当前完整经停表尚未找到；2024旧PDF不用于补造2026经停和时间。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-10",
+      "airline": "azimuth",
+      "number": "A4 6065",
+      "numberAliases": [
+        "А46065"
+      ],
+      "from": "MRV",
+      "to": "HMA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "01:55",
+      "arrival": "07:50",
+      "days": [
+        1
+      ],
+      "start": "2026-10-26",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[10]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-12",
+      "airline": "azimuth",
+      "number": "A4 6065",
+      "numberAliases": [
+        "А46065"
+      ],
+      "from": "MRV",
+      "to": "HMA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "10:40",
+      "arrival": "16:45",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[12]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-13",
+      "airline": "azimuth",
+      "number": "A4 6065",
+      "numberAliases": [
+        "А46065"
+      ],
+      "from": "MRV",
+      "to": "HMA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "02:20",
+      "arrival": "08:35",
+      "days": [
+        4
+      ],
+      "start": "2026-11-12",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[13]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-14",
+      "airline": "azimuth",
+      "number": "A4 6066",
+      "numberAliases": [
+        "А46066"
+      ],
+      "from": "HMA",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "08:50",
+      "arrival": "11:00",
+      "days": [
+        1
+      ],
+      "start": "2026-10-26",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[14]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-16",
+      "airline": "azimuth",
+      "number": "A4 6066",
+      "numberAliases": [
+        "А46066"
+      ],
+      "from": "HMA",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "17:45",
+      "arrival": "20:05",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[16]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-hma-17",
+      "airline": "azimuth",
+      "number": "A4 6066",
+      "numberAliases": [
+        "А46066"
+      ],
+      "from": "HMA",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "09:35",
+      "arrival": "11:55",
+      "days": [
+        4
+      ],
+      "start": "2026-11-12",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[17]",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-9-0-0",
+      "airline": "azimuth",
+      "number": "A4 6168",
+      "numberAliases": [
+        "А46168"
+      ],
+      "from": "NJC",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "05:10",
+      "arrival": "08:00",
+      "days": [
+        7
+      ],
+      "start": "2027-01-03",
+      "end": "2027-03-21",
+      "dates": [
+        "2027-01-03",
+        "2027-01-10",
+        "2027-01-17",
+        "2027-01-24",
+        "2027-01-31",
+        "2027-02-07",
+        "2027-02-14",
+        "2027-02-21",
+        "2027-02-28",
+        "2027-03-07",
+        "2027-03-14",
+        "2027-03-21"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第10行，出发第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-9-1-0",
+      "airline": "azimuth",
+      "number": "A4 6167",
+      "numberAliases": [
+        "А46167"
+      ],
+      "from": "MRV",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:40",
+      "arrival": "04:10",
+      "days": [
+        6
+      ],
+      "start": "2027-01-02",
+      "end": "2027-03-20",
+      "dates": [
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第10行，到达第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 1,
+      "arrivalDayBasis": "official-local-clock-order",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-10-0-0",
+      "airline": "azimuth",
+      "number": "A4 6068",
+      "numberAliases": [
+        "А46068"
+      ],
+      "from": "NJC",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "03:40",
+      "arrival": "06:20",
+      "days": [
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2027-03-24",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06",
+        "2027-01-13",
+        "2027-01-20",
+        "2027-01-27",
+        "2027-02-03",
+        "2027-02-10",
+        "2027-02-17",
+        "2027-02-24",
+        "2027-03-03",
+        "2027-03-10",
+        "2027-03-17",
+        "2027-03-24"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第11行，出发第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-10-0-1",
+      "airline": "azimuth",
+      "number": "A4 6068",
+      "numberAliases": [
+        "А46068"
+      ],
+      "from": "NJC",
+      "to": "MRV",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "05:10",
+      "arrival": "08:00",
+      "days": [
+        7
+      ],
+      "start": "2026-11-08",
+      "end": "2026-12-27",
+      "dates": [
+        "2026-11-08",
+        "2026-11-15",
+        "2026-11-22",
+        "2026-11-29",
+        "2026-12-06",
+        "2026-12-13",
+        "2026-12-20",
+        "2026-12-27"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第11行，出发第2个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-10-1-0",
+      "airline": "azimuth",
+      "number": "A4 6067",
+      "numberAliases": [
+        "А46067"
+      ],
+      "from": "MRV",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "20:20",
+      "arrival": "02:40",
+      "days": [
+        2
+      ],
+      "start": "2026-10-27",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第11行，到达第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 1,
+      "arrivalDayBasis": "official-local-clock-order",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-10-1-1",
+      "airline": "azimuth",
+      "number": "A4 6067",
+      "numberAliases": [
+        "А46067"
+      ],
+      "from": "MRV",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:40",
+      "arrival": "04:10",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-12-26",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第11行，到达第2个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 1,
+      "arrivalDayBasis": "official-local-clock-order",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-0-0",
+      "airline": "azimuth",
+      "number": "A4 4048",
+      "numberAliases": [
+        "А44048"
+      ],
+      "from": "NJC",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "11:20",
+      "arrival": "13:40",
+      "days": [
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2026-11-11",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，出发第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-0-1",
+      "airline": "azimuth",
+      "number": "A4 4048",
+      "numberAliases": [
+        "А44048"
+      ],
+      "from": "NJC",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "11:55",
+      "arrival": "14:00",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，出发第2个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-0-2",
+      "airline": "azimuth",
+      "number": "A4 4048",
+      "numberAliases": [
+        "А44048"
+      ],
+      "from": "NJC",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "11:20",
+      "arrival": "13:40",
+      "days": [
+        3,
+        6
+      ],
+      "start": "2026-11-14",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-14",
+        "2026-11-18",
+        "2026-11-21",
+        "2026-11-25",
+        "2026-11-28",
+        "2026-12-02",
+        "2026-12-05",
+        "2026-12-09",
+        "2026-12-12",
+        "2026-12-16",
+        "2026-12-19",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-30",
+        "2027-01-02",
+        "2027-01-06",
+        "2027-01-09",
+        "2027-01-13",
+        "2027-01-16",
+        "2027-01-20",
+        "2027-01-23",
+        "2027-01-27",
+        "2027-01-30",
+        "2027-02-03",
+        "2027-02-06",
+        "2027-02-10",
+        "2027-02-13",
+        "2027-02-17",
+        "2027-02-20",
+        "2027-02-24",
+        "2027-02-27",
+        "2027-03-03",
+        "2027-03-06",
+        "2027-03-10",
+        "2027-03-13",
+        "2027-03-17",
+        "2027-03-20",
+        "2027-03-24",
+        "2027-03-27"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，出发第3个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-0-3",
+      "airline": "azimuth",
+      "number": "A4 4048",
+      "numberAliases": [
+        "А44048"
+      ],
+      "from": "NJC",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "11:20",
+      "arrival": "13:30",
+      "days": [
+        1
+      ],
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "dates": [
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，出发第4个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-1-0",
+      "airline": "azimuth",
+      "number": "A4 4047",
+      "numberAliases": [
+        "А44047"
+      ],
+      "from": "KUF",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:30",
+      "arrival": "10:20",
+      "days": [
+        3
+      ],
+      "start": "2026-10-28",
+      "end": "2026-11-11",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，到达第1个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-1-1",
+      "airline": "azimuth",
+      "number": "A4 4047",
+      "numberAliases": [
+        "А44047"
+      ],
+      "from": "KUF",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "07:30",
+      "arrival": "10:55",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，到达第2个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-1-2",
+      "airline": "azimuth",
+      "number": "A4 4047",
+      "numberAliases": [
+        "А44047"
+      ],
+      "from": "KUF",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:30",
+      "arrival": "10:20",
+      "days": [
+        3,
+        6
+      ],
+      "start": "2026-11-14",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-14",
+        "2026-11-18",
+        "2026-11-21",
+        "2026-11-25",
+        "2026-11-28",
+        "2026-12-02",
+        "2026-12-05",
+        "2026-12-09",
+        "2026-12-12",
+        "2026-12-16",
+        "2026-12-19",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-30",
+        "2027-01-02",
+        "2027-01-06",
+        "2027-01-09",
+        "2027-01-13",
+        "2027-01-16",
+        "2027-01-20",
+        "2027-01-23",
+        "2027-01-27",
+        "2027-01-30",
+        "2027-02-03",
+        "2027-02-06",
+        "2027-02-10",
+        "2027-02-13",
+        "2027-02-17",
+        "2027-02-20",
+        "2027-02-24",
+        "2027-02-27",
+        "2027-03-03",
+        "2027-03-06",
+        "2027-03-10",
+        "2027-03-13",
+        "2027-03-17",
+        "2027-03-20",
+        "2027-03-24",
+        "2027-03-27"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，到达第3个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-a4-njc-20-1-3",
+      "airline": "azimuth",
+      "number": "A4 4047",
+      "numberAliases": [
+        "А44047"
+      ],
+      "from": "KUF",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:30",
+      "arrival": "10:20",
+      "days": [
+        1
+      ],
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "dates": [
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表第21行，到达第4个日期变体",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "Azimuth 官网查询购票",
+        "status": "official-channel",
+        "url": "https://booking.azimuth.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "使用航司官网按日期查询。这里依据机场逐班SU9机型时刻，未核查实时余票；未将A4代码共享中的西方机型纳入。"
+      },
+      "note": "机场冬季表逐行标注SU9 / СУ9，运营航司Azimuth；不是仅凭航司机队推断型号。"
+    },
+    {
+      "id": "ugra-nv-io-205-dec",
+      "airline": "iraero",
+      "number": "IO-205",
+      "numberAliases": [],
+      "from": "UFA",
+      "to": "NJC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "14:00",
+      "arrival": "16:00",
+      "days": [
+        2
+      ],
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "dates": [
+        "2026-12-15"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表 IO 205/206 第二个指定日期 15.12.2026",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "IrAero 官网按日期查询",
+        "status": "official-channel",
+        "url": "https://iraero.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "航班时刻由下瓦尔托夫斯克机场公布；当前余票请在IrAero官网或售票处确认。"
+      },
+      "note": "机场冬季表明确SU9；12月15日超出首次IrAero官网一个月查询窗口，本次按机场官方表补入。"
+    },
+    {
+      "id": "ugra-nv-io-206-dec",
+      "airline": "iraero",
+      "number": "IO-206",
+      "numberAliases": [],
+      "from": "NJC",
+      "to": "UFA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "17:00",
+      "arrival": "19:10",
+      "days": [
+        2
+      ],
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "dates": [
+        "2026-12-15"
+      ],
+      "source": "nv-winter",
+      "sourceLocator": "冬季表 IO 205/206 第二个指定日期 15.12.2026",
+      "localSource": "sources/ugra-nv/nv-schedule.html",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "same-local-calendar-day",
+      "booking": {
+        "method": "IrAero 官网按日期查询",
+        "status": "official-channel",
+        "url": "https://iraero.ru/",
+        "source": "https://nv-aero.ru/Home/Show?_id=26",
+        "text": "航班时刻由下瓦尔托夫斯克机场公布；当前余票请在IrAero官网或售票处确认。"
+      },
+      "note": "机场冬季表明确SU9；12月15日超出首次IrAero官网一个月查询窗口，本次按机场官方表补入。"
+    },
+    {
+      "id": "ugra-nv-a247-4",
+      "airline": "a247",
+      "number": "A2113",
+      "numberAliases": [
+        "А2113"
+      ],
+      "from": "HMA",
+      "to": "IRM",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": "14:10",
+      "arrival": "15:30",
+      "days": [
+        2,
+        7
+      ],
+      "start": "2026-10-25",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-10-25",
+        "2026-10-27",
+        "2026-11-01",
+        "2026-11-03",
+        "2026-11-08",
+        "2026-11-10",
+        "2026-11-15",
+        "2026-11-17",
+        "2026-11-22",
+        "2026-11-24",
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-06",
+        "2026-12-08",
+        "2026-12-13",
+        "2026-12-15",
+        "2026-12-20",
+        "2026-12-22",
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-03",
+        "2027-01-05",
+        "2027-01-10",
+        "2027-01-12",
+        "2027-01-17",
+        "2027-01-19",
+        "2027-01-24",
+        "2027-01-26",
+        "2027-01-31",
+        "2027-02-02",
+        "2027-02-07",
+        "2027-02-09",
+        "2027-02-14",
+        "2027-02-16",
+        "2027-02-21",
+        "2027-02-23",
+        "2027-02-28",
+        "2027-03-02",
+        "2027-03-07",
+        "2027-03-09",
+        "2027-03-14",
+        "2027-03-16",
+        "2027-03-21",
+        "2027-03-23"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[4]；机场官方频道256/265/277/314对应承运人",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网（实际承运 A247）",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://a247.ru/regularflights",
+        "text": "A247官网明确：An-24定期客运与ПАО Utair合作，时刻查询和售票通过Utair官网；咨询 office@a247.ru。实际运营方仍记录为АО А247。"
+      },
+      "evidenceSources": [
+        {
+          "title": "A247 · An-24 定期客运与Utair售票说明",
+          "url": "https://a247.ru/regularflights",
+          "local": "sources/ugra-nv/a247-regular-browser.html",
+          "type": "html",
+          "valid": "当前官网",
+          "checkedAt": "2026-11-05",
+          "note": "官网明确АО А247在秋明和汉特曼西地区用An-24执行定期客运，与ПАО Utair合作并经其官网售票。"
+        },
+        {
+          "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+          "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+          "local": "sources/ugra-nv/hma-a247-posts.html",
+          "type": "html",
+          "valid": "2026年官方公告；班期以当前机场API为准",
+          "checkedAt": "2026-11-05",
+          "note": "官方频道256/265/277明确A2113/114为A247，314明确A2321/322为A247；历史取消日期不套用冬季班期。"
+        }
+      ],
+      "note": "机场当前计划明确An-24；航司官网及机场官方公告交叉核实A247实际承运。A2321反向在接口标为Mi-8，机型冲突另列核查，不自动复制返程型号。"
+    },
+    {
+      "id": "ugra-nv-a247-5",
+      "airline": "a247",
+      "number": "A2114",
+      "numberAliases": [
+        "А2114"
+      ],
+      "from": "IRM",
+      "to": "HMA",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": "12:00",
+      "arrival": "13:20",
+      "days": [
+        2,
+        7
+      ],
+      "start": "2026-10-25",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-10-25",
+        "2026-10-27",
+        "2026-11-01",
+        "2026-11-03",
+        "2026-11-08",
+        "2026-11-10",
+        "2026-11-15",
+        "2026-11-17",
+        "2026-11-22",
+        "2026-11-24",
+        "2026-11-29",
+        "2026-12-01",
+        "2026-12-06",
+        "2026-12-08",
+        "2026-12-13",
+        "2026-12-15",
+        "2026-12-20",
+        "2026-12-22",
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-03",
+        "2027-01-05",
+        "2027-01-10",
+        "2027-01-12",
+        "2027-01-17",
+        "2027-01-19",
+        "2027-01-24",
+        "2027-01-26",
+        "2027-01-31",
+        "2027-02-02",
+        "2027-02-07",
+        "2027-02-09",
+        "2027-02-14",
+        "2027-02-16",
+        "2027-02-21",
+        "2027-02-23",
+        "2027-02-28",
+        "2027-03-02",
+        "2027-03-07",
+        "2027-03-09",
+        "2027-03-14",
+        "2027-03-16",
+        "2027-03-21",
+        "2027-03-23"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[5]；机场官方频道256/265/277/314对应承运人",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网（实际承运 A247）",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://a247.ru/regularflights",
+        "text": "A247官网明确：An-24定期客运与ПАО Utair合作，时刻查询和售票通过Utair官网；咨询 office@a247.ru。实际运营方仍记录为АО А247。"
+      },
+      "evidenceSources": [
+        {
+          "title": "A247 · An-24 定期客运与Utair售票说明",
+          "url": "https://a247.ru/regularflights",
+          "local": "sources/ugra-nv/a247-regular-browser.html",
+          "type": "html",
+          "valid": "当前官网",
+          "checkedAt": "2026-11-05",
+          "note": "官网明确АО А247在秋明和汉特曼西地区用An-24执行定期客运，与ПАО Utair合作并经其官网售票。"
+        },
+        {
+          "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+          "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+          "local": "sources/ugra-nv/hma-a247-posts.html",
+          "type": "html",
+          "valid": "2026年官方公告；班期以当前机场API为准",
+          "checkedAt": "2026-11-05",
+          "note": "官方频道256/265/277明确A2113/114为A247，314明确A2321/322为A247；历史取消日期不套用冬季班期。"
+        }
+      ],
+      "note": "机场当前计划明确An-24；航司官网及机场官方公告交叉核实A247实际承运。A2321反向在接口标为Mi-8，机型冲突另列核查，不自动复制返程型号。"
+    },
+    {
+      "id": "ugra-nv-a247-9",
+      "airline": "a247",
+      "number": "A2322",
+      "numberAliases": [
+        "А2322"
+      ],
+      "from": "EYK",
+      "to": "HMA",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": "10:40",
+      "arrival": "11:50",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "start": "2026-11-02",
+      "end": "2026-11-30",
+      "dates": [
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-27",
+        "2026-11-30"
+      ],
+      "source": "ugra-timetable",
+      "sourceLocator": "data.BLOCK[9]；机场官方频道256/265/277/314对应承运人",
+      "localSource": "sources/ugra-nv/ugra-schedule.json",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "local",
+      "arrivalDayOffset": 0,
+      "booking": {
+        "method": "Utair 官网（实际承运 A247）",
+        "status": "verified",
+        "url": "https://www.utair.ru/",
+        "source": "https://a247.ru/regularflights",
+        "text": "A247官网明确：An-24定期客运与ПАО Utair合作，时刻查询和售票通过Utair官网；咨询 office@a247.ru。实际运营方仍记录为АО А247。"
+      },
+      "evidenceSources": [
+        {
+          "title": "A247 · An-24 定期客运与Utair售票说明",
+          "url": "https://a247.ru/regularflights",
+          "local": "sources/ugra-nv/a247-regular-browser.html",
+          "type": "html",
+          "valid": "当前官网",
+          "checkedAt": "2026-11-05",
+          "note": "官网明确АО А247在秋明和汉特曼西地区用An-24执行定期客运，与ПАО Utair合作并经其官网售票。"
+        },
+        {
+          "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+          "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+          "local": "sources/ugra-nv/hma-a247-posts.html",
+          "type": "html",
+          "valid": "2026年官方公告；班期以当前机场API为准",
+          "checkedAt": "2026-11-05",
+          "note": "官方频道256/265/277明确A2113/114为A247，314明确A2321/322为A247；历史取消日期不套用冬季班期。"
+        }
+      ],
+      "note": "机场当前计划明确An-24；航司官网及机场官方公告交叉核实A247实际承运。A2321反向在接口标为Mi-8，机型冲突另列核查，不自动复制返程型号。"
     }
   ],
   "sources": {
@@ -86981,12 +90828,13 @@
       "valid": "2026-04-15 至 2026-11-30"
     },
     "ugra-timetable": {
-      "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+      "title": "汉特-曼西斯克机场 · 官方时刻接口",
       "url": "https://ugraavia.ru/api/air/schedule/get",
-      "local": "sources/remote-routes/ugra-timetable.json",
-      "checkedAt": "2026-11-04",
       "type": "json",
-      "valid": "逐行有效期至 2026-12-30"
+      "local": "sources/ugra-nv/ugra-schedule.json",
+      "valid": "依各行有效期",
+      "note": "多经停航班的终点名称与部分时刻字段并非同一航段；须与完整线路表交叉核查。",
+      "checkedAt": "2026-11-05"
     },
     "ap-booking": {
       "title": "Арктика Перевозки · 新地岛预约班次",
@@ -87023,6 +90871,114 @@
       "valid": "按各条有效期、指定日期或换季条件",
       "checkedAt": "2026-11-05",
       "note": "三个分页共45行。官网同时保留过期、换季和日期未定班次；未把这些条件展开为每日实际执飞。原表未注明时区，详情保留官网时间并标待确认。"
+    },
+    "nvavia-municipal": {
+      "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+      "url": "https://nvavia.ru/Home/Show?_id=6114",
+      "type": "html",
+      "local": "sources/ugra-nv/nvavia-municipal.html",
+      "valid": "2026-01-01 至 2026-12-31",
+      "note": "实际承运人为АО Нижневартовскавиа；逐航班公布完整经停顺序。",
+      "checkedAt": "2026-11-05"
+    },
+    "nv-winter": {
+      "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+      "url": "https://nv-aero.ru/Home/Show?_id=26",
+      "type": "html",
+      "local": "sources/ugra-nv/nv-schedule.html",
+      "valid": "2026-10-25 至 2027-03-27",
+      "note": "市政班次的具体日期仅列至2026年12月；不向2027年推演。",
+      "checkedAt": "2026-11-05"
+    },
+    "nv-local": {
+      "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+      "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+      "type": "html",
+      "local": "sources/ugra-nv/nv-local.html",
+      "valid": "当前官网",
+      "note": "明确Mi-8T及АО Нижневартовскавиа。",
+      "checkedAt": "2026-11-05"
+    },
+    "ugra-reps": {
+      "title": "汉特-曼西斯克机场 · 航司驻场代表",
+      "url": "https://ugraavia.ru/passengers/representative-offices/",
+      "type": "html",
+      "local": "sources/ugra-nv/ugra-reps.html",
+      "valid": "当前官网",
+      "note": "",
+      "checkedAt": "2026-11-05"
+    },
+    "okt-intermunicipal": {
+      "title": "十月区政府 · 2026秋季 Mi-8T 跨区航班",
+      "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/grafik-dvizheniya-passazhirskikh-vertoletov-mi-8t-ao-yuteyr-vertoletnye-uslugi-na-period-osennei-ra/",
+      "type": "html",
+      "local": "sources/ugra-nv/okt-intermunicipal.html",
+      "valid": "2026-10-26 起；终止日结合机场逐行日期",
+      "note": "保留全部经停；使用区政府整程到达时刻，机场接口到达时刻实际对应前段。",
+      "checkedAt": "2026-11-05"
+    },
+    "okt-municipal": {
+      "title": "十月区政府 · 2026秋季 Mi-8 市政航班",
+      "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/raspisanie-dvizhen1iya-passazhirskikh-vertoletov-ao-yuteyr-vertoletnye-uslugi/",
+      "type": "html",
+      "local": "sources/ugra-nv/okt-municipal.html",
+      "valid": "2026秋季泥泞期；未明确起止日",
+      "note": "",
+      "checkedAt": "2026-11-05"
+    },
+    "okt-booking": {
+      "title": "十月区政府 · Utair 官网与授权代理购票",
+      "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+      "type": "html",
+      "local": "sources/ugra-nv/okt-etickets.html",
+      "valid": "当前官网",
+      "note": "线上Utair；授权代理ЗСАВС；经停站上客联系汉特曼西售票处。",
+      "checkedAt": "2026-11-05"
+    },
+    "ugra-circuits-2026": {
+      "title": "Югра News · 2026秋季环线公告",
+      "url": "https://ugra-news.ru/article/iz_khanty_mansiyska_mozhno_budet_dobratsya_na_vertolyete_v_11_trudnodostupnykh_posyelkov/",
+      "type": "html",
+      "local": "sources/ugra-nv/ugra-local-news.html",
+      "valid": "2026-10-30公告；日期结合机场接口",
+      "note": "自治区政府参与主办媒体引述机场；完整环线与机场逐行时刻互校。",
+      "checkedAt": "2026-11-05"
+    },
+    "okt-ticket-guide": {
+      "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+      "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+      "local": "sources/ugra-nv/okt-etickets.pdf",
+      "type": "pdf",
+      "checkedAt": "2026-11-05",
+      "valid": "官网2026目录所列操作指南",
+      "note": "第1页实际演示Ханты-Мансийск HMA → Согом；用于确认购票入口，不把截图中的8月日期当成冬季班期。"
+    },
+    "a247-regular": {
+      "title": "A247 · An-24 定期客运与Utair售票说明",
+      "url": "https://a247.ru/regularflights",
+      "local": "sources/ugra-nv/a247-regular-browser.html",
+      "type": "html",
+      "valid": "当前官网",
+      "checkedAt": "2026-11-05",
+      "note": "官网明确АО А247在秋明和汉特曼西地区用An-24执行定期客运，与ПАО Utair合作并经其官网售票。"
+    },
+    "ugra-a247-announcements": {
+      "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+      "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+      "local": "sources/ugra-nv/hma-a247-posts.html",
+      "type": "html",
+      "valid": "2026年官方公告；班期以当前机场API为准",
+      "checkedAt": "2026-11-05",
+      "note": "官方频道256/265/277明确A2113/114为A247，314明确A2321/322为A247；历史取消日期不套用冬季班期。"
+    },
+    "kras-ufa-review": {
+      "title": "KrasAvia · HMA–UFA Yak-42 双向官方查询",
+      "url": "https://www.krasavia.ru/ru/booking/#/schedule/",
+      "local": "sources/ugra-nv/kras-HMA-UFA.json",
+      "type": "json",
+      "valid": "2026-11-12、11-22、12-12、12-22",
+      "checkedAt": "2026-11-05",
+      "note": "双向FullFlightsSchedule接口：实际承运KV、Yak-42、charter=false；本地快照按航向保存。"
     }
   },
   "airlines": {
@@ -87165,6 +91121,48 @@
       "url": "https://akyamal.ru/",
       "legal": "ООО «Авиационная компания «Ямал»",
       "note": "直升机承运人，与 YC / LLM 固定翼亚马尔航空分开。"
+    },
+    "nizhnevartovskavia": {
+      "ru": "АО «Нижневартовскавиа»",
+      "en": "Nizhnevartovskavia",
+      "zh": "下瓦尔托夫斯克航空",
+      "code": "НП / NVK",
+      "url": "https://nvavia.ru/"
+    },
+    "azimuth": {
+      "ru": "Азимут",
+      "en": "Azimuth",
+      "zh": "方位角航空",
+      "code": "A4 / AZO",
+      "url": "https://azimuth.ru/"
+    },
+    "a247": {
+      "ru": "АО «А247»",
+      "en": "A247",
+      "zh": "A247 航空",
+      "code": "A2 / А2",
+      "url": "https://a247.ru/",
+      "note": "官网及机场官方频道核实A247实际运营An-24；3条时刻已补入，购票通过Utair。此项为官网补查，不对俄文维基旧名录中的法人条目强行合并。",
+      "evidence": [
+        {
+          "title": "A247 · An-24 定期客运与Utair售票说明",
+          "url": "https://a247.ru/regularflights",
+          "local": "sources/ugra-nv/a247-regular-browser.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特曼西机场官方频道 · A2航班承运人公告",
+          "url": "https://t.me/s/ugraavia_online?q=%D0%90247",
+          "local": "sources/ugra-nv/hma-a247-posts.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     }
   },
   "issues": [
@@ -87260,7 +91258,7 @@
     }
   ],
   "asOf": "2026-11-05",
-  "version": "2026.11.05-yamal-polar",
+  "version": "2026.11.05-ugra-nv",
   "coverage": [
     {
       "name": "2-й Архангельский объединённый авиаотряд",
@@ -87442,7 +91440,7 @@
       "url": "https://iraero.ru/",
       "note": "逐个查询官网 54 个出发地，窗口 2026-11-04 至 2026-12-04；录入 AN4、AN6、SU9，排除 A319 / CRJ。更远日期尚未抓取。",
       "airlineId": "iraero",
-      "records": 422,
+      "records": 424,
       "checkedAt": "2026-11-04"
     },
     {
@@ -87712,12 +91710,29 @@
       "localCode": "",
       "certificate": "576 от 18.08.2017",
       "wiki": "https://ru.wikipedia.org/wiki/Азимут_(авиакомпания)",
-      "review": "blocked",
+      "review": "partial",
       "aerialWorkCertificate": "",
       "generalAviationCertificate": "",
-      "url": "https://booking.azimuth.ru/timetable/",
-      "note": "官网查询一度取得结果，发现A4代码共享含S7空客；后续请求502/页面加载失败，完整逐班数据尚未取得。未凭纯SSJ机队假定所有A4航班为SSJ。",
-      "checkedAt": "2026-11-04"
+      "url": "https://azimuth.ru/",
+      "note": "机场官方冬季表明确SU9且列Azimuth承运，新增HMA/NJC相关20条时刻。航司时刻API本轮返回403；不凭纯SSJ机队扩展其他班次，排除未核实代码共享。",
+      "checkedAt": "2026-11-05",
+      "airlineId": "azimuth",
+      "zh": "方位角航空",
+      "records": 20,
+      "evidence": [
+        {
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
+          "url": "https://ugraavia.ru/api/air/schedule/get",
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "name": "Ангара",
@@ -88907,10 +92922,35 @@
       "localCode": "НП",
       "certificate": "470 от 11.04.2005",
       "wiki": null,
-      "review": "pending",
+      "review": "partial",
       "aerialWorkCertificate": "АР-110 от 25.07.2022",
       "generalAviationCertificate": "",
-      "checkedAt": null
+      "checkedAt": "2026-11-05",
+      "airlineId": "nizhnevartovskavia",
+      "zh": "下瓦尔托夫斯克航空",
+      "url": "https://nvavia.ru/",
+      "note": "已加入8条Mi-8T市政时刻；机场与航司双重核对。НП9805经停顺序冲突，单列待核。机场二楼柜台，提前15天开售。",
+      "records": 8,
+      "evidence": [
+        {
+          "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+          "url": "https://nvavia.ru/Home/Show?_id=6114",
+          "local": "sources/ugra-nv/nvavia-municipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+          "url": "https://nv-aero.ru/Home/Show?_id=26",
+          "local": "sources/ugra-nv/nv-schedule.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+          "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+          "local": "sources/ugra-nv/nv-local.html",
+          "checkedAt": "2026-11-05"
+        }
+      ]
     },
     {
       "name": "Петрозаводск (аэропорт)",
@@ -89242,24 +93282,43 @@
       "aerialWorkCertificate": "АР-50 от 03.12.2021",
       "generalAviationCertificate": "АОН-09-23-006 от 04.08.2023",
       "url": "https://heli.utair.ru/",
-      "note": "机场官方接口取得Mi-8时刻；先补入Sogom双向8条日期/时间变体。其他多站环线保留在地方航线清单，逐段时间未核齐。",
-      "checkedAt": "2026-11-04",
+      "note": "新增19条时刻（4条完整跨区链路、8条秋季市政表、5条环线、2条返程），复核8条Sogom。十月区与Sogom可Utair官网购票，其他本区线路联系代表确认。NF不代表只能线下售票。",
+      "checkedAt": "2026-11-05",
       "airlineId": "utair-heli",
-      "records": 8,
+      "records": 27,
       "evidence": [
         {
-          "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+          "title": "汉特-曼西斯克机场 · 官方时刻接口",
           "url": "https://ugraavia.ru/api/air/schedule/get",
-          "local": "sources/remote-routes/ugra-timetable.json",
-          "checkedAt": "2026-11-04"
+          "local": "sources/ugra-nv/ugra-schedule.json",
+          "checkedAt": "2026-11-05"
         },
         {
-          "title": "汉特-曼西斯克机场 · 当日状态快照",
-          "url": "https://ugraavia.ru/api/air/schedule/get_online",
-          "local": "sources/remote-routes/ugra-board.json",
-          "checkedAt": "2026-11-04"
+          "title": "十月区政府 · 2026秋季 Mi-8T 跨区航班",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/grafik-dvizheniya-passazhirskikh-vertoletov-mi-8t-ao-yuteyr-vertoletnye-uslugi-na-period-osennei-ra/",
+          "local": "sources/ugra-nv/okt-intermunicipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · 2026秋季 Mi-8 市政航班",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/raspisanie-dvizhen1iya-passazhirskikh-vertoletov-ao-yuteyr-vertoletnye-uslugi/",
+          "local": "sources/ugra-nv/okt-municipal.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 官网与授权代理购票",
+          "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+          "local": "sources/ugra-nv/okt-etickets.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+          "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+          "local": "sources/ugra-nv/okt-etickets.pdf",
+          "checkedAt": "2026-11-05"
         }
-      ]
+      ],
+      "zh": "Utair 直升机服务"
     },
     {
       "name": "Южный Альянс",
@@ -92323,7 +96382,7 @@
   "remoteResearch": {
     "asOf": "2026-11-05",
     "url": "remote-routes.html",
-    "addedTimetableRecords": 115,
+    "addedTimetableRecords": 167,
     "references": {
       "aeroservice-winter": {
         "title": "Аэросервис · 2026 冬季官方时刻",
@@ -92438,6 +96497,42 @@
         "url": "https://taimyr24.gosuslugi.ru/netcat_files/userfiles/3/Docs2/Novye_trebovaniya_KrasAvia1.pdf",
         "local": "sources/remote-routes/khatanga-ticket-2018.pdf",
         "checkedAt": "2026-11-04"
+      },
+      "nvavia-municipal": {
+        "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+        "url": "https://nvavia.ru/Home/Show?_id=6114",
+        "local": "sources/ugra-nv/nvavia-municipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      "nv-winter": {
+        "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "local": "sources/ugra-nv/nv-schedule.html",
+        "checkedAt": "2026-11-05"
+      },
+      "okt-intermunicipal": {
+        "title": "十月区政府 · 2026秋季 Mi-8T 跨区航班",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/grafik-dvizheniya-passazhirskikh-vertoletov-mi-8t-ao-yuteyr-vertoletnye-uslugi-na-period-osennei-ra/",
+        "local": "sources/ugra-nv/okt-intermunicipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      "okt-municipal": {
+        "title": "十月区政府 · 2026秋季 Mi-8 市政航班",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/raspisanie-dvizhen1iya-passazhirskikh-vertoletov-ao-yuteyr-vertoletnye-uslugi/",
+        "local": "sources/ugra-nv/okt-municipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      "okt-booking": {
+        "title": "十月区政府 · Utair 官网与授权代理购票",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "local": "sources/ugra-nv/okt-etickets.html",
+        "checkedAt": "2026-11-05"
+      },
+      "okt-ticket-guide": {
+        "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+        "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "local": "sources/ugra-nv/okt-etickets.pdf",
+        "checkedAt": "2026-11-05"
       }
     }
   },
@@ -92450,6 +96545,20 @@
       ],
       "addedRecords": 73,
       "audit": "data/yamal-polar-audit.json"
+    },
+    {
+      "date": "2026-11-05",
+      "airlines": [
+        "kras",
+        "utair-heli",
+        "nizhnevartovskavia",
+        "azimuth",
+        "iraero",
+        "a247"
+      ],
+      "addedRecords": 52,
+      "recheckedRecords": 10,
+      "audit": "data/ugra-nv-audit.json"
     }
   ]
 }

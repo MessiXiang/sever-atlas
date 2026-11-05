@@ -1,0 +1,746 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="keywords" content="Нижневартовск Аэро,НижневартовскАэро, НИЖНЕВАРТОВСКАЭРО, ,НИЖНЕВАРТОВСК АЭРО, Нижневартовск,Аэропорт" /><meta name="description" content="LLC Nizhnevartovsk Aero" /><link rel="shortcut icon" href="../Content/Images/NVAero.ico" type="image/x-icon" /><title>
+	Международный аэропорт Нижневартовск им. В. И. Муравленко
+</title><link href="../Content/BSE-Styles.css" rel="stylesheet" type="text/css" /><link href="../Content/WRP-Styles.css" rel="stylesheet" type="text/css" /><link href="../Content/PRG-Styles.css" rel="stylesheet" type="text/css" /><link href="../Content/CMS-Styles.css" rel="stylesheet" type="text/css" /><link href="../Content/BND-Styles.css" rel="stylesheet" type="text/css" />
+
+    <script src="../../Scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="../../Content/jquery-ui-1.8.6.custom.min.js" type="text/javascript"></script>
+    <script src="../../Content/jquery-ui-timepicker-addon.js" type="text/javascript"></script>
+    <!--[if IE]> 
+        <link href="../Content/Site021209ExIE.css" rel="stylesheet" type="text/css" />
+    <![endif]--> 
+    
+    <link href="../Content/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    
+	<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+	  (function () {
+		  var script = document.createElement("script");
+		  script.async = 1;
+		  script.setAttribute("data-cmp-ab","2");
+		  script.src = 'https://emrldtp.com/NTcyMDA1.js?t=572005';
+		  document.head.appendChild(script);
+	  })();
+	</script>
+ 
+</head>
+
+<body>
+    <script>
+
+        if (!Array["from"]) { Array["from"] = (function () { var toStr = Object["prototype"]["toString"]; var isCallable = function (fn) { return typeof fn === "function" || toStr["call"](fn) === "[object Function]" }; var toInteger = function (value) { var number = Number(value); if (isNaN(number)) { return 0 }; if (number === 0 || !isFinite(number)) { return number }; return (number > 0 ? 1 : -1) * Math["floor"](Math["abs"](number)) }; var maxSafeInteger = Math["pow"](2, 53) - 1; var toLength = function (value) { var len = toInteger(value); return Math["min"](Math["max"](len, 0), maxSafeInteger) }; return function from(arrayLike) { var C = this; var items = Object(arrayLike); if (arrayLike == null) { throw new TypeError("Array.from requires an array-like object - not null or undefined") }; var mapFn = arguments["length"] > 1 ? arguments[1] : void (undefined); var T; if (typeof mapFn !== "undefined") { if (!isCallable(mapFn)) { throw new TypeError("Array.from: when provided, the second argument must be a function") }; if (arguments["length"] > 2) { T = arguments[2] } }; var len = toLength(items["length"]); var A = isCallable(C) ? Object(new C(len)) : new Array(len); var k = 0; var kValue; while (k < len) { kValue = items[k]; if (mapFn) { A[k] = typeof T === "undefined" ? mapFn(kValue, k) : mapFn["call"](T, kValue, k) } else { A[k] = kValue }; k += 1 }; A["length"] = len; return A } } ()) }
+        if (!String["prototype"]["includes"]) { String["prototype"]["includes"] = function (search, start) { "use strict"; if (typeof start !== "number") { start = 0 }; if (start + search["length"] > this["length"]) { return false } else { return this["indexOf"](search, start) !== -1 } } }
+
+        document.head.addEventListener('transitionend', function () { alert('done'); }, false);
+
+        function resetStyles() {
+            var sfxs = ['BSE', 'WRP', 'PRG', 'CMS', 'BND'];
+            var v = document.cookie.match('(^|;) ?' + 'isBlindMode' + '=([^;]*)(;|$)');
+            var vv = (v ? Number(v[2]) : 0);
+            if (vv != 0) {
+                $('link[rel^=stylesheet]').remove();
+                if (vv > 0) {
+                    sfxs                    // build chain of callback
+                    .reverse()
+                    .reduce(
+                        function (a, x) {
+                            return function () { loadBlindStyle('../../Content/' + x + '-Blind-Styles.css', x, a); }
+                        }
+                        , function () {
+                            ((vv & 3) == 1) ? fontSizeChN(fntSzToDown) : ((vv & 3) == 3) ? fontSizeChN(fntSzToUp) : null;
+                            ((vv & 12) == 4) ? fontSizeChN(clrBlOnWh) : ((vv & 12) == 8) ? fontSizeChN(clrWhOnBl) : null;
+                        }
+                    )();
+                }
+                else {
+                    sfxs
+                    //.map(function (x){ $('#'+x).remove(); return x;} )
+                    .reduce(function (a, x) { $('#' + x).remove(); $('head').append("<link rel='stylesheet' href='../../Content/" + x + "-Styles.css' type='text/css'>"); }, undefined)
+                }
+            }
+        };
+
+
+        var fs1 = [
+            { frm: ["30px"], v1: "25px", v2: "35px" },
+            { frm: ["25px"], v1: "20px", v2: "30px" },
+            { frm: ["22px"], v1: "20px", v2: "23px" }
+            
+            
+        ];
+
+        var fsColor = [
+            { frm: ["rgb(12, 93, 165)", "rgb(0, 102, 204)", "rgb(0, 0, 139)", "rgb(0, 68, 102)"], v1: "White", v2: "Black" },
+            { frm: ["white"], v1: "Black", v2: "White" },
+            { frm: ["rgb(255, 255, 238)"], v1: "Black", v2: "White" },
+
+        ];
+
+        function loadBlindStyle(path, cnt, next) {
+            $.get(path, function (response) {
+                if (!$('#' + cnt).length) { $('head').append('<style id="' + cnt + '"></style>'); }
+                $('#' + cnt).text(response);
+                //alert(cnt);
+                next();
+            });
+        }
+
+        function chStyleProp(prop, data, key, defVal) {
+            var m = prop;
+            var r = !prop ? prop
+                         : ((Array.from(data).reduce(function (a, x) { return a ? a : (x.frm.indexOf(prop) >= 0 ? x[key] : null); }, null)) || defVal);
+            //if (m != r && r != defVal) { console.log('Change ' + m + 'to ' + r); }
+            //if (r == defVal) { console.log('Change ' + m + 'to def' ); }
+            return r;
+        };
+        //var chStyleProp = (prop, data, key, defVal ) => !prop ? prop : ( Array.from(data).reduce( (a,x) => a ? a : ( x.frm.indexOf(prop)>=0 ? x[key] : null )  ,null ) ) || defVal ;
+
+        function chStyle(stl, stlName, dada, key, defVal ){
+            stl[stlName] = chStyleProp(stl[stlName], dada, key, defVal);
+            return chStyle[stlName] ? 1 : 0 ;
+        }
+
+        function clrWhOnBl( stl ){
+            return chStyle(stl, "color", fsColor, "v1", "White") +
+                    chStyle(stl, "borderColor", fsColor, "", "White") +
+                    chStyle(stl, "backgroundColor", fsColor, "v1", "Black");
+            };
+
+        function clrBlOnWh( stl ){
+            return chStyle(stl, "color", fsColor, "v2", "Black") +
+                    chStyle(stl, "borderColor", fsColor, "", "Black") +
+                    chStyle(stl, "backgroundColor", fsColor, "v2", "White");
+        }
+
+        function fntSzToUp( stl ){ return chStyle(stl, "fontSize", fs1, "v2", "30px");};
+        function fntSzToDown(stl) { return chStyle(stl, "fontSize", fs1, "v1", "18px"); }; 
+
+        function fontSizeChN(styleFunc) {
+            function getRls(sSh){return sSh ? ( (sSh.cssRules) ? sSh.cssRules : ( sSh.rules ? sSh.rules : null ) ) : null;};
+            function prcRls(rls){
+                return !rls ? 0
+                            : Array.from(rls)
+                                .filter( function(x){ return (x.selectorText)? (!x.selectorText.includes(".BlindModePanel")):false;} )
+                                .reduce( function(a,x){return a + ( (x && x.style) ? styleFunc(x.style) : 0 );}, 0 );
+            }    
+            return console.log( '[CSS workshet applayed]:'+ 
+                    Array.from(document.styleSheets)
+                        .map(getRls)
+                        .reduce(function (a, x) { return a + (x ? prcRls(x) : 0); }, 0) 
+                        .toString() + ' items.' );
+        }
+
+        $(document).ready(resetStyles());
+        $(document).ready(function () {
+            if ($.browser.msie && $.browser.version == "6.0") { } else {
+                if ($("[class='Shedule-content']").length > 0) { $("[class='page-container']").width(2200) } else { $("[class='page-container']").width('100%') };
+            };
+            $("[class='footer-right']").append("<a href='//www.liveinternet.ru/click' " +
+                "target=_blank><img src='//counter.yadro.ru/hit?t14.5;r" +
+                escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                ";" + Math.random() +
+                "' alt='' title='LiveInternet: показано число просмотров за 24" +
+                " часа, посетителей за 24 часа и за сегодня' " +
+                "border='0' width='88' height='31'><\/a>");
+        });
+
+    </script>
+        <div class="BlindPanel">
+        <img src="/Drawer.ashx?ImageKey=ShortCutBlind2" /><p>Версия для слабовидящих</p>
+    </div>
+
+        <div class="bs-docs-panel color-1 images   voice-3 volume-0.5 origin font-size-100  voice-panel "
+        id="c_panel_special">
+        <div class="container wcag">
+            <div class="panel panel-default panel-access">
+                <div class="panel-body">
+                    <div class="btn-toolbar access-toolbar" id="access_toolbar" role="toolbar"
+                        aria-label="Вспомогательная панель">
+                        <div class="container-fluid">
+                            <div class='pull-left p-content'>
+                                <div class="btn-group" role="group">
+                                    <button type="button" class="btn btn-default" tabindex="0" data-choice="content"
+                                        aria-label="Перейти к основному содержанию"
+                                        title="Перейти к основному содержанию"><span
+                                            class="glyphicon glyphicon-circle-arrow-down"></span>&nbsp;К содержанию<span
+                                            class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class='pull-left p-font'>
+                                <div class="btn-title">Шрифт</div>
+                                <div class="btn-group btn-group-font-size" role="group">
+                                    <button type="button" class="btn btn-default btn-font-size-100 checked"
+                                        tabindex="-1" data-choice="font-size-100" aria-checked="true"
+                                        aria-label="Размер шрифта 100%" title="Размер шрифта 100%"><span
+                                            class="value">А</span><span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-font-size-150 " tabindex="-1"
+                                        data-choice="font-size-150" aria-checked="true" aria-label="Размер шрифта 150%"
+                                        title="Размер шрифта 150%"><span class="value">А</span><span
+                                            class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-font-size-200 " tabindex="-1"
+                                        data-choice="font-size-200" aria-checked="true" aria-label="Размер шрифта 200%"
+                                        title="Размер шрифта 200%"><span class="value">А</span><span
+                                            class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class='pull-left p-color'>
+                                <div class="btn-title">Цвет</div>
+                                <div class="btn-group btn-group-color" role="group">
+                                    <button type="button" class="btn btn-default btn-color-1 checked" tabindex="-1"
+                                        data-choice="color-1" aria-checked="true" aria-label="Цветовая схема №1"
+                                        title="Цветовая схема №1">Ц<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-color-2 " tabindex="-1"
+                                        data-choice="color-2" aria-checked="false" aria-label="Цветовая схема №2"
+                                        title="Цветовая схема №2">Ц<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-color-3 " tabindex="-1"
+                                        data-choice="color-3" aria-checked="false" aria-label="Цветовая схема №3"
+                                        title="Цветовая схема №3">Ц<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-color-4 " tabindex="-1"
+                                        data-choice="color-4" aria-checked="false" aria-label="Цветовая схема №4"
+                                        title="Цветовая схема №4">Ц<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-color-5 " tabindex="-1"
+                                        data-choice="color-5" aria-checked="false" aria-label="Цветовая схема №5"
+                                        title="Цветовая схема №5">Ц<span class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class='pull-right p-setting'>
+                               <!-- <div class="btn-group">
+                                    <button type="button" class="btn btn-default btn-font-switch " tabindex="-1"
+                                        data-choice="font-switch" aria-checked="false" data-checked="false"
+                                        title="Включить шрифт Брайля" data-titleon="Включить шрифт Брайля"
+                                        data-titleoff="Включить оригинальный шрифт сайта"><span
+                                            class="glyphicon glyphicon-option-vertical"></span><span
+                                            class="hover"></span></button>
+                                </div>--!>
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default btn-voice-off-on" tabindex="-1"
+                                        data-choice="voice-off-on" aria-checked="true" data-checked="true"
+                                        title="Звук включен" data-titleon="Звук включен"
+                                        data-titleoff="Звук выключен"><span
+                                            class="glyphicon glyphicon-volume-up"></span><span
+                                            class="hover"></span></button>
+                                </div>
+                                <div class="btn-group">
+                                    <a class="btn btn-default btn-exit" href="" tabindex="-1"
+                                        aria-label="Дополнительные настройки" title="Обычная версия сайта"><span
+                                            class="glyphicon glyphicon-eye-close"></span><span class="hover"></span></a>
+                                </div>
+
+                                <div class="btn-group btn-group-setting" role="group">
+                                    <button type="button" class="btn btn-default" tabindex="-1" data-choice="setting"
+                                        aria-label="Дополнительные настройки" title="Дополнительные настройки"><span
+                                            class="glyphicon glyphicon-cog"></span>&nbsp;Дополнительно<span
+                                            class="hover"></span></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel-subsetting" aria-hidden="true">
+                            <div class="container-fluid">
+                                <div class="btn-title">Графика</div>
+                                <div class="btn-group btn-group-images" role="group">
+                                    <button type="button" class="btn btn-default btn-images checked" tabindex="-1"
+                                        data-choice="images" aria-checked="true" aria-label="Включить"
+                                        title="Включить">Включить<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-images " tabindex="-1"
+                                        data-choice="not-images" aria-checked="false" aria-label="Отключить"
+                                        title=Отключить"">Отключить<span class="hover"></span></button>
+                                </div>
+                                <div class="btn-group btn-group-mono" role="group">
+                                    <button type="button" class="btn btn-default btn-mono  " tabindex="-1"
+                                        data-choice="mono" aria-checked="false" aria-label="Монохромные изображения"
+                                        title="Монохромные изображения">Монохромные изображения<span
+                                            class="hover"></span></button>
+                                </div>
+                                <!--<div class="btn-group btn-group-flash" role="group">
+                                    <button type="button" class="btn btn-default btn-flash " tabindex="-1"
+                                        data-choice="flash" aria-checked="false" aria-label="Отключить Flash"
+                                        title="Отключить Flash">Отключить Flash<span class="hover"></span></button>
+                                </div>--!>
+                            </div>
+                            <div class="container-fluid">
+                                <div class="btn-title">Кернинг</div>
+                                <div class="btn-group btn-group-kerning" role="group">
+                                    <button type="button" class="btn btn-default btn-kerning-1 checked" tabindex="-1"
+                                        data-choice="kerning-1" aria-checked="true" aria-label="Стандартный"
+                                        title="Стандартный">Стандартный<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-kerning-2 " tabindex="-1"
+                                        data-choice="kerning-2" aria-checked="false" aria-label="Средний"
+                                        title="Средний">Средний<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-kerning-3 " tabindex="-1"
+                                        data-choice="kerning-3" aria-checked="false" aria-label="Большой"
+                                        title="Большой">Большой<span class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class="container-fluid">
+                                <div class="btn-title">Интервал</div>
+                                <div class="btn-group btn-group-kerning" role="group">
+                                    <button type="button" class="btn btn-default btn-line-1 checked" tabindex="-1"
+                                        data-choice="line-1" aria-checked="true" aria-label="Одинарный"
+                                        title="Одинарный">Одинарный<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-line-2 " tabindex="-1"
+                                        data-choice="line-2" aria-checked="false" aria-label="Полуторный"
+                                        title="Полуторный">Полуторный<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-line-3 " tabindex="-1"
+                                        data-choice="line-3" aria-checked="false" aria-label="Двойной"
+                                        title="Двойной">Двойной<span class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class="container-fluid">
+                                <div class="btn-title">Гарнитура</div>
+                                <div class="btn-group btn-group-garnitura" role="group">
+                                    <button type="button" class="btn btn-default btn-garnitura-1 checked" tabindex="-1"
+                                        data-choice="garnitura-1" aria-checked="true" aria-label="Без засечек"
+                                        title="Без засечек">Без засечек<span class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-garnitura-2 " tabindex="-1"
+                                        data-choice="garnitura-2" aria-checked="false" aria-label="С засечками"
+                                        title="С засечками">С засечками<span class="hover"></span></button>
+                                </div>
+                            </div>
+                            <div class="container-fluid">
+                                <div class="btn-title">Звук</div>
+                                <div class="btn-group btn-group-voice" role="group">
+                                    <button type="button" class="btn btn-default btn-voice-1 " tabindex="-1"
+                                        data-choice="voice-1" aria-checked="false" aria-label="Отключить"
+                                        title="Отключить"><span
+                                            class="glyphicon glyphicon-volume-off"></span>&nbsp;Отключить<span
+                                            class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-voice-2 " tabindex="-1"
+                                        data-choice="voice-2" aria-checked="false" aria-label="Тише" title="Тише"><span
+                                            class="glyphicon glyphicon glyphicon-minus-sign"></span>&nbsp;Тише<span
+                                            class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-voice-3 checked" tabindex="-1"
+                                        data-choice="voice-3" aria-checked="true" aria-label="Нормально"
+                                        title="Нормально"><span
+                                            class="glyphicon glyphicon-volume-up"></span>&nbsp;Нормально<span
+                                            class="hover"></span></button>
+                                    <button type="button" class="btn btn-default btn-voice-4 " tabindex="-1"
+                                        data-choice="voice-4" aria-checked="false" aria-label="Громче"
+                                        title="Громче"><span
+                                            class="glyphicon glyphicon-plus-sign"></span>&nbsp;Громче<span
+                                            class="hover"></span></button>
+                                </div>
+                                <div class='pull-right p-loud'>
+                                    Текущий уровень громкости: <span id='current-volume'>50</span>
+                                </div>
+                            </div>
+                            <div class="panel-reset">
+                                <div class="container-fluid">
+                                    <div class="btn-group btn-group-reset" role="group">
+                                        <button type="button" class="btn btn-default btn-reset" tabindex="-1"
+                                            data-choice="reset" aria-label="Вернуть стандартные настройки"
+                                            title="Вернуть стандартные настройки"><span
+                                                class="glyphicon glyphicon glyphicon-refresh"></span>&nbsp;Вернуть
+                                            стандартные настройки<span class="hover"></span></button>
+                                    </div>
+                                    <div class="btn-group btn-group-home" role="group">
+                                        <a class="btn btn-default btn-exit" href="" tabindex="-1"
+                                            aria-label="Обычная версия сайта" title="Обычная версия сайта"><span
+                                                class="glyphicon glyphicon-eye-close"></span>&nbsp;Обычная версия
+                                            сайта<span class="hover"></span></a>
+                                    </div>
+                                    <div class="btn-group btn-group-close" role="group">
+                                        <button type="button" class="btn btn-default btn-close" tabindex="-1"
+                                            data-choice="setting" aria-label="Закрыть дополнительные настройки"
+                                            title="Закрыть дополнительные настройки"><span
+                                                class="glyphicon glyphicon glyphicon-menu-up"></span>&nbsp;Закрыть
+                                            дополнительные настройки<span class="hover"></span></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <audio id='panel_sound' data-src='../../Content/sounds/' preload src="" data-volume="0.5"></audio>
+    </div>
+
+    <audio id='start_sound' src='../../Content/sounds/start_voice.mp3' preload ></audio>
+
+  <div class="huper-container" id="content">
+    <div class="page-container">
+         <div class="head-container" >
+
+            <div class="header-logo" >
+                <a  href = "../">
+                <!--<img src="../Drawer.ashx?ImageKey=nva2" />-->
+				<img src="../../Content/Images/logoAF.png" />
+				
+                </a>
+            </div>
+            <div class="header-logo-blind" >
+                <a  href = "../">
+                <!-- <img src="../Drawer.ashx?ImageKey=ShortCutNva_B" /> -->
+				<img src="../../Content/Images/logoAF.png" />
+                </a>
+            </div>
+            <div class="header-logo-txt" >
+				<div class="header-logo-txt-mur" >
+                    <a  href = "/Home/Show?_id=10&_cl=s">
+                        <img src="../../Content/Images/captionMur3.png" />
+                    </a>
+                </div>
+
+				
+            </div>
+            <div class="header-logo-txt-blind" >
+                <p>ООО "Нижневартовск Аэро"</p>
+            </div>
+
+
+            <div class="contact-subcontainer" >
+                  <p class="info1">справочная служба аэропорта </p>
+                  <p class="info2">+7 3466 492175</p>
+                  
+            </div>
+			
+			<div class="top-menu-container" > 
+
+
+<span> 
+
+<!-- Generate byExWebApp.TopMenuBuilder2016--> 
+
+<script> 
+
+function gCntDYQ504(evt,src ){if(src==null){src=":OSAU84:";}$.ajax({ url: "../CntHolder.ashx?iid=OSAU84&stt="+src+evt,type:'POST',cache:false,data:{TopMenuBuilder20161_cid:"DYQ504"},success:function(html){$("#DYQ504").html(html);}});} 
+
+</script> 
+
+<!-- Set IsShowHash property to false for hide this row Hash:"ExWebApp.TopMenuBuilder2016-1 " IsLoadContentByAjax: "False " GetReadyFunctionName: "null " CashId: "OSAU84 " ContentId:" DYQ504 "--> 
+
+<!--Control content --> 
+
+<span id="DYQ504"> 
+
+<ul> 
+
+<li><a href="/Home/Show?_id=2&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_2')">ПАССАЖИРАМ</a></li><li><a href="/Home/Show?_id=5&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_5')">ПАРТНЕРАМ</a></li><li><a href="/Home/Show?_id=10&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_10')">ИНФОРМАЦИЯ</a></li><li><a href="/Home/Show?_id=71&amp;_cl=t" style="background-repeat: no-repeat; background-image:url('/Drawer.ashx?ImageKey=Tmi_10')">О ПРЕДПРИЯТИИ</a></li> 
+
+</ul></span> 
+
+</span> 
+
+</div>
+
+
+            <div class="top-menu-container_old" style="visibility: hidden">
+                  
+   <span>
+ <!-- Generate byExWebApp.TopMenuBuilder2016-->  
+<script>
+	function gCntAT4533(evt,src ){if(src==null){src=":VQBB88:";}$.ajax({ url: "../CntHolder.ashx?iid=VQBB88&stt="+src+evt,type:'POST',cache:false,data:{TopMenuBuilder20161_cid:"AT4533"},success:function(html){$("#AT4533").html(html);}});}
+</script>
+ <!-- Set IsShowHash property to false for hide this row  Hash:"ExWebApp.TopMenuBuilder2016-1 " IsLoadContentByAjax: "False " GetReadyFunctionName: "null " CashId: "VQBB88 " ContentId:" AT4533 "-->  
+ <!--Control content -->  
+<span id="AT4533">
+<ul>
+	<li><a href="/Home/Show?_id=2&amp;_cl=t" class="current" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_2')">ПАССАЖИРАМ</a></li><li><a href="/Home/Show?_id=5&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_5')">ПАРТНЕРАМ</a></li><li><a href="/Home/Show?_id=10&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_10')">ИНФОРМАЦИЯ</a></li><li><a href="/Home/Show?_id=71&amp;_cl=t" style=" background-image:url('/Drawer.ashx?ImageKey=Tmi_71')">О ПРЕДПРИЯТИИ</a></li>
+</ul></span>
+</span>
+
+            </div>
+			
+
+
+         </div>
+         <div id="Lase"  class="nav-container" >
+             
+    <a href="../Home/Show?_id=1">Главная</a> → <a href="../Home/Show?_id=2">Пассажирам</a> → <a href="../Home/Show?_id=26">РАСПИСАНИЕ ПОЛЕТОВ (ЗИМА 2026-2027)</a>
+
+         </div>
+        <div class="content-container" >
+
+            <div class="content-container-wrap1">
+
+		            <div class="content-left">
+                                <div class="menu-left"> 
+                        
+   <span>
+ <!-- Generate byExWebApp.SideMenuBuilder2016-->  
+<script>
+	function gCntAT4530(evt,src ){if(src==null){src=":VQBB84:";}$.ajax({ url: "../CntHolder.ashx?iid=VQBB84&stt="+src+evt,type:'POST',cache:false,data:{SideMenuBuilder20161_cid:"AT4530",Passover20161_cid:"AT4531",BlindSwitcher21_cid:"AT4532",SideMenuBuilder20161_pst:$("#AT4530_pst ").attr("value"),SideMenuBuilder20161_isSnd:$("#AT4530_isSnd ").attr("value")},success:function(html){$("#AT4530").html(html);}});}
+    function ActAT4530(){if( parseInt($('.head-container').css('width')) <= 1000 && $("#AT4530_pst ").attr("value")!='clp' &&  !IsBlind() && window.location.href.indexOf('&_cl=t')>0){$(".menu-left ul").hide(0);}if(!RSAT4530()){SPDAT4530() };};
+    function SLLAT4530(){$("#AT4530_isSnd ").attr("value",$("#AT4530_isSnd ").attr("value") == "f"?"t":"f" );if ( $('.hide-con').is( ':hidden') ){$(".menu-left ul").slideUp('fast');$(".hide-con").show('fast', SPDAT4530 );$('.menu-left').css('border-top-width','0px');} else {SPDAT4530();$(".menu-left ul").show( 'fast' );$(".hide-con").slideUp('fast');$('.menu-left').css('border-top-width','1px');} };
+    function RSAT4530() {var r = false;if( $("#AT4530_pst ").attr("value")!='clp' && !IsBlind() ){if(($("#AT4530_isSnd ").attr("value")=='f' &&parseInt($('.head-container').css('width')) <= 1000)||($("#AT4530_isSnd ").attr("value")=='t' &&parseInt($('.head-container').css('width')) >= 1050)){SLLAT4530();r=true;};};return r};
+    $( window ).resize(RSAT4530);
+    function SPDAT4530(){var w = ($("#AT4530_pst ").attr("value") == "clp"  || IsBlind()   )?0:(($("#AT4530_isSnd ").attr("value") == "f" )?250:40);$(".content-main").css({'margin-left':w+40}); };
+    function IsBlind(){var v = document.cookie.match('(^|;) ?' + 'isBlindMode' + '=([^;]*)(;|$)');return ((v?Number(v[2]):0)>0)};
+        $(document).ready(function(){;ActAT4530();}); 
+	function gCntAT4531(evt,src ){if(src==null){src=":VQBB85:";}$.ajax({ url: "../CntHolder.ashx?iid=VQBB85&stt="+src+evt,type:'POST',cache:false,data:{Passover20161_cid:"AT4531"},success:function(html){$("#AT4531").html(html);}});}
+    function PstAT4531(b,step){b = b?b:4;$('.DAT4531').css('z-index','0').click(function(){CmnAT4531();});$('.DAT4531 img').attr('src','/Drawer.ashx?ImageKey=UfoNVA'+b);$('.DAT4531').css('display','inline');$('.DAT4531').css('left', parseInt($('.slogan-container').css('left'))+140 ).css('top',  parseInt($('.slogan-container').css('top'))+20);$('.DAT4531').animate({left:'+=50'},1000,function(){$('.DAT4531').css('z-index','10').animate({left:'-=35'},1000) });}
+    function SizAT4531(b,m){b = b?b:4;if(b<=m){$('.DAT4531 img').attr('src','/Drawer.ashx?ImageKey=UfoNVA'+b);setTimeout(function(){SizAT4531(b+8,m);},150);}}
+    function TrcAT4531(ob,it,fi,x0,y0,yd,dp,xd,f0,yo){var f=f0+(it*fi);var r=($(document).width()/100)*dp/2;var y=y0+(yo*it)+(Math.sin(f)*r)*yd;var x=x0+Math.cos(f)*r;$(ob).animate({left:x,top:y},400,'linear');}
+    function CmnAT4531(){SizAT4531(4,30);for(j=0;j<33;j++){TrcAT4531('.DAT4531',j,Math.PI/8,$(document).width()/2,$(document).height()/40,0.2,70,0.8,Math.PI/2,$(document).height()/40);}} $(document).ready(function(){ setTimeout(function(){if(Math.random()<0.5){PstAT4531();}},5000);}); 
+	function gCntAT4532(evt,src ){if(src==null){src=":VQBB86:";}$.ajax({ url: "../CntHolder.ashx?iid=VQBB86&stt="+src+evt,type:'POST',cache:false,data:{BlindSwitcher21_cid:"AT4532"},success:function(html){$("#AT4532").html(html);}});}
+    function PstAT4532(b,step){b = b?b:4;$('.BlindBasePanel').click(function(){CmnAT4532();});$('.BlindModePanel > div:nth-child(1) ').click(function(){CmnAT4532();});$('.BlindModePanel > div:nth-child(2) > img:nth-child(2)').click(function(){BlmAT4532(1);});$('.BlindModePanel > div:nth-child(2) > img:nth-child(3)').click(function(){BlmAT4532(2);});$('.BlindModePanel > div:nth-child(2) > img:nth-child(4)').click(function(){BlmAT4532(3);});$('.BlindModePanel > div:nth-child(3) > img:nth-child(2)').click(function(){BlmAT4532(4);});$('.BlindModePanel > div:nth-child(3) > img:nth-child(3)').click(function(){BlmAT4532(8);});$('.BlindModePanel > div:nth-child(3) > img:nth-child(4)').click(function(){BlmAT4532(12);});}
+    function CmnAT4532(){
+    console.log('...ля-ля-ля-ля-ля ля ля ля, плачет отец-прокурор.');
+    var v = document.cookie.match('(^|;) ?' + 'isBlindMode' + '=([^;]*)(;|$)');
+    var vn = (v ? (  Number(v[2]) != 0 ? (-Number(v[2])): 1 ): 1);
+    document.cookie = 'isBlindMode = '+vn+'; path=/';
+    resetStyles();}
+    function BlmAT4532(mde){
+    var v = document.cookie.match('(^|;) ?' + 'isBlindMode' + '=([^;]*)(;|$)');
+    var vn = Number(v[2])&(mde<4?252:243)|mde;
+    console.log('[Set blind mode]:'+ mde.toString()+':'+ vn.toString());
+    document.cookie = 'isBlindMode = '+vn+'; path=/';
+    resetStyles();} $(document).ready(function(){ setTimeout(function(){PstAT4532();},1);}); 
+</script>
+ <!-- Set IsShowHash property to false for hide this row  Hash:"ExWebApp.SideMenuBuilder2016-1 " IsLoadContentByAjax: "False " GetReadyFunctionName: ";ActAT4530() " CashId: "VQBB84 " ContentId:" AT4530 "-->  
+ <!--Control content -->  
+<span id="AT4530">
+<span>
+ <!-- Set IsShowHash property to false for hide this row  Hash:"ExWebApp.SideMenuBuilder2016-1ExWebApp.Passover2016-1 " IsLoadContentByAjax: "False " GetReadyFunctionName: "null " CashId: "VQBB85 " ContentId:" AT4531 "-->  
+ <!--Control content -->  
+<span id="AT4531">
+<div class="DAT4531" style="display:none; position: absolute">
+	<img src="/Drawer.ashx?ImageKey=UfoNVA4" />
+</div></span>
+</span><span>
+ <!-- Set IsShowHash property to false for hide this row  Hash:"ExWebApp.SideMenuBuilder2016-1ExWebApp.BlindSwitcher2-1 " IsLoadContentByAjax: "False " GetReadyFunctionName: "null " CashId: "VQBB86 " ContentId:" AT4532 "-->  
+ <!--Control content -->  
+<span id="AT4532">
+<div class="BlindBasePanel">
+	<img src="/Drawer.ashx?ImageKey=ShortCutBlind2" /><p>Версия для слабовидящих</p>
+</div><div class="BlindModePanel">
+	<div>
+		<img src="/Drawer.ashx?ImageKey=ShortCutBlind2" /><p>Обычная версия сайта</p>
+	</div><div>
+		<p>Размер шрифта:</p><img src="/Drawer.ashx?ImageKey=Z_S1" /><img src="/Drawer.ashx?ImageKey=Z_S2" /><img src="/Drawer.ashx?ImageKey=Z_S3" />
+	</div><div>
+		<p>Цветовая схема:</p><img src="/Drawer.ashx?ImageKey=Z_C1" /><img src="/Drawer.ashx?ImageKey=Z_C2" /><img src="/Drawer.ashx?ImageKey=Z_C3" />
+	</div>
+</div></span>
+</span><input type="hidden" id="AT4530_pst" value="exp" /><input type="hidden" id="AT4530_isSnd" value="f" /><ul>
+	<li><a href="javascript:SLLAT4530()" class="owner" style=" background-image:url('/Drawer.ashx?ImageKey=sl_bt')">ПАССАЖИРАМ</a></li><li><a href="/Home/Show?_id=3&amp;_cl=s">ТАБЛО ПРИЛЕТ</a></li><li><a href="/Home/Show?_id=4&amp;_cl=s">ТАБЛО ВЫЛЕТ</a></li><li><a href="/Home/Show?_id=26&amp;_cl=s" class="current">РАСПИСАНИЕ ПОЛЕТОВ (ЗИМА 2026-2027)</a></li><li><a href="/Home/Show?_id=6134&amp;_cl=s">КУПИТЬ АВИАБИЛЕТ</a></li><li><a href="/Home/Show?_id=6117&amp;_cl=s">КАМЕРА ХРАНЕНИЯ</a></li><li><a href="/Home/Show?_id=6130&amp;_cl=s">ИНФОРМАЦИЯ ДЛЯ ВЫЛЕТАЮЩИХ ПАССАЖИРОВ</a></li><li><a href="/Home/Show?_id=5109&amp;_cl=s">БИЗНЕС-ЗАЛ</a></li><li><a href="/Home/Show?_id=6114&amp;_cl=s">ПОЛЕТЫ ПО МЕСТНЫМ ВОЗДУШНЫМ ЛИНИЯМ</a></li><li><a href="/Home/Show?_id=19&amp;_cl=s">КАК ДОБРАТЬСЯ</a></li><li><a href="/Home/Show?_id=59&amp;_cl=s">ПАРКОВКА НА ПРИВОКЗАЛЬНОЙ ПЛОЩАДИ</a></li><li><a href="/Home/Show?_id=73&amp;_cl=s">СХЕМА АЭРОВОКЗАЛА</a></li><li><a href="/Home/Show?_id=3072&amp;_cl=s">ТРАНСПОРТНАЯ БЕЗОПАСНОСТЬ</a></li><li><a href="/Home/Show?_id=67&amp;_cl=s">ПАССАЖИРАМ ИЗ ЧИСЛА ИНВАЛИДОВ И ДРУГИХ ЛИЦ С ОГРАНИЧЕНИЯМИ ЖИЗНЕДЕЯТЕЛЬНОСТИ</a></li><li><a href="/Home/Show?_id=5094&amp;_cl=s">КОНТАКТЫ АВИАКОМПАНИЙ</a></li><li><a href="/Home/Show?_id=6128&amp;_cl=s">ИНФОРМАЦИЯ ПРОКУРАТУРЫ</a></li><li><a href="/Home/Show?_id=6129&amp;_cl=s">ТЕСТ ТАБЛО</a></li><li><a href="/Home/Show?_id=6132&amp;_cl=s">РАСПИСАНИЕ ПОЛЕТОВ (ЛЕТО 2026) ТЕСТ</a></li>
+</ul><span hidden="true" class="hide-con"><a href="javascript:SLLAT4530()" class="snd"><img src="/Drawer.ashx?ImageKey=sl_bt_sn" /></a></span></span>
+</span>
+
+                    </div>
+                        <div class="other-left" align="center"> 
+                        </div>
+                    </div>
+
+				
+                    <div class="content-main" >
+					
+                        
+   
+
+                        
+   
+
+	                    
+    <p style="text-align: right; "><small> обновлено 03.11.2026 14:27:41 </small></p>Период выполнения с 25.10.26 г. по 27.03.27 г. / время местное для каждого аэропорта<div class="Shedule-content">
+	<!-- table 02cbd593-5276-4b45-ac7d-a4ff542ab74e -->
+	<table class="Shedule-table">
+
+		<tr class="menu-left">
+			<td colspan="16" class="Cell-R1"> <p style="text-align: left; ">РЕГУЛЯРНЫЕ РЕЙСЫ</p></td>
+		</tr>
+		<tr class="Shedule-caption">
+			<td class="Cell-R1">Код<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Тип воздушного судна<br /><br /></td><td class="Cell-R1">Прибытие в аэропорт назначения<br /><br /></td><td class="Cell-R1">Время отправления из Нижневартовска<br /><br /></td><td class="Cell-R1">Время прибытия в аэропорт назначения<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Посадка в аэропорту<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Отправление из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время отправления из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время прибытия в Нижневартовск<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Предприятие авиаперевозчик<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">RT<br /></td><td class="Cell-R1">332<br /></td><td class="Cell-R1">CRJ-200<br /></td><td class="Cell-R1">БУГУЛЬМА<br /></td><td class="Cell-R1">02:25<br />04:40</td><td class="Cell-R1">02:55<br />05:00</td><td class="Cell-R1">05.11-31.12<br />26.10-28.12</td><td class="Cell-R1">4<br />1</td><td class="Cell-R1"><br /></td><td class="Cell-R1">331<br /></td><td class="Cell-R1">БУГУЛЬМА<br /></td><td class="Cell-R1">06:45<br />04:30</td><td class="Cell-R1">11:15<br />09:00</td><td class="Cell-R1">27.10-29.12<br />30.10-25.12</td><td class="Cell-R1">2<br />5</td><td class="Cell-R1">Ювт аэро<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">UT</td><td class="Cell-R1">178</td><td class="Cell-R1">ATR-72</td><td class="Cell-R1">ЕКАТЕРИНБУРГ</td><td class="Cell-R1">16:35</td><td class="Cell-R1">19:25</td><td class="Cell-R1">26.10-26.03</td><td class="Cell-R1">1 5</td><td class="Cell-R1"></td><td class="Cell-R1">177</td><td class="Cell-R1">ЕКАТЕРИНБУРГ</td><td class="Cell-R1">20:10</td><td class="Cell-R1">22:35</td><td class="Cell-R1">26.10-26.03</td><td class="Cell-R1">1 5</td><td class="Cell-R1">Ютэйр</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">7R</td><td class="Cell-R1">816</td><td class="Cell-R1">CRJ-200</td><td class="Cell-R1">ЕКАТЕРИНБУРГ</td><td class="Cell-R1">10:00</td><td class="Cell-R1">11:50</td><td class="Cell-R1">25.10-25.03</td><td class="Cell-R1">3 4 7</td><td class="Cell-R1"></td><td class="Cell-R1">815</td><td class="Cell-R1">ЕКАТЕРИНБУРГ</td><td class="Cell-R1">03:25</td><td class="Cell-R1">05:05</td><td class="Cell-R1">25.10-25.03</td><td class="Cell-R1">3 4 7</td><td class="Cell-R1">Руслайн</td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">WZ<br /><br /><br /></td><td class="Cell-R1">1006<br /><br /><br /></td><td class="Cell-R1">SU9<br /><br /><br /></td><td class="Cell-R1">ЕКАТЕРИНБУРГ<br /><br /><br /></td><td class="Cell-R1">18:10<br />18:10<br />18:10<br />18:10</td><td class="Cell-R1">20:15<br />20:15<br />20:15<br />20:15</td><td class="Cell-R1">14.11-14.11<br />19.12-16.01<br />13.02-20.02<br />06.03-20.03</td><td class="Cell-R1">6<br />6<br />6<br />6</td><td class="Cell-R1"><br /><br /><br /></td><td class="Cell-R1">1005<br /><br /><br /></td><td class="Cell-R1">ЕКАТЕРИНБУРГ<br /><br /><br /></td><td class="Cell-R1">15:15<br />15:15<br />15:15<br />15:15</td><td class="Cell-R1">17:10<br />17:10<br />17:10<br />17:10</td><td class="Cell-R1">14.11-14.11<br />19.12-16.01<br />13.02-20.02<br />06.03-20.03</td><td class="Cell-R1">6<br />6<br />6<br />6</td><td class="Cell-R1">Ред Вингс<br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">RT<br /><br /></td><td class="Cell-R1">560<br /><br /></td><td class="Cell-R1">CRJ-200<br /><br /></td><td class="Cell-R1">КАЗАНЬ<br /><br /></td><td class="Cell-R1">12:05<br />09:50<br /></td><td class="Cell-R1">12:50<br />10:35<br /></td><td class="Cell-R1">27.10-29.12<br />30.10-25.12<br /></td><td class="Cell-R1">2<br />5<br /></td><td class="Cell-R1"><br /><br /></td><td class="Cell-R1">559<br /><br /></td><td class="Cell-R1">КАЗАНЬ<br /><br /></td><td class="Cell-R1">00:05<br />21:15<br />23:20</td><td class="Cell-R1">04:30<br />01:45<br />03:50</td><td class="Cell-R1">29.10-29.10<br />04.11-30.12<br />25.10-27.12</td><td class="Cell-R1">4<br />3<br />7</td><td class="Cell-R1">Ювт аэро<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">WZ<br /></td><td class="Cell-R1">2918<br /></td><td class="Cell-R1">SU9<br /></td><td class="Cell-R1">МАХАЧКАЛА<br /></td><td class="Cell-R1">07:50<br />07:50</td><td class="Cell-R1">10:00<br />10:05</td><td class="Cell-R1">08.01-08.01<br />11.01-11.01</td><td class="Cell-R1">5<br />1</td><td class="Cell-R1"><br /></td><td class="Cell-R1">2917<br /></td><td class="Cell-R1">МАХАЧКАЛА<br /></td><td class="Cell-R1">01:00<br />00:40</td><td class="Cell-R1">06:50<br />06:50</td><td class="Cell-R1">08.01-08.01<br />11.01-11.01</td><td class="Cell-R1">5<br />1</td><td class="Cell-R1">РЕД ВИНГС<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">WZ<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">5918<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">SU9<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">МАХАЧКАЛА<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">07:30<br />02:00<br />07:30<br />02:00<br />07:30<br />02:00<br />07:40<br />07:30<br />08:00</td><td class="Cell-R1">09:45<br />04:15<br />09:45<br />04:35<br />09:55<br />04:35<br />09:55<br />10:00<br />10:15</td><td class="Cell-R1">26.10-02.11<br />31.10-28.11<br />16.11-16.11<br />05.12-12.12<br />07.12-14.12<br />17.12-24.12<br />21.12-21.12<br />28.12-28.12<br />31.12-31.12</td><td class="Cell-R1">1<br />6<br />1<br />6<br />1<br />4<br />1<br />1<br />4</td><td class="Cell-R1"><br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">5917<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">МАХАЧКАЛА<br /><br /><br /><br /><br /><br /><br /><br /></td><td class="Cell-R1">00:40<br />19:20<br />00:40<br />00:40<br />19:20<br />00:40<br />00:40<br />01:00<br /></td><td class="Cell-R1">06:30<br />01:00<br />06:30<br />06:30<br />01:00<br />06:40<br />06:30<br />07:00<br /></td><td class="Cell-R1">26.10-02.11<br />30.10-11.12<br />16.11-16.11<br />07.12-14.12<br />16.12-23.12<br />21.12-21.12<br />28.12-28.12<br />31.12-31.12<br /></td><td class="Cell-R1">1<br />5<br />1<br />1<br />3<br />1<br />1<br />4<br /></td><td class="Cell-R1">РЕД ВИНГС<br /><br /><br /><br /><br /><br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">А4</td><td class="Cell-R1">6168</td><td class="Cell-R1">SU9</td><td class="Cell-R1">МИНЕРАЛЬНЫЕ ВОДЫ</td><td class="Cell-R1">05:10</td><td class="Cell-R1">08:00</td><td class="Cell-R1">03.01-21.03</td><td class="Cell-R1">7</td><td class="Cell-R1"></td><td class="Cell-R1">6167</td><td class="Cell-R1">МИНЕРАЛЬНЫЕ ВОДЫ</td><td class="Cell-R1">21:40</td><td class="Cell-R1">04:10</td><td class="Cell-R1">02.01-20.03</td><td class="Cell-R1">6</td><td class="Cell-R1">Азимут</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">А4<br /></td><td class="Cell-R1">6068<br /></td><td class="Cell-R1">SU9<br /></td><td class="Cell-R1">МИНЕРАЛЬНЫЕ ВОДЫ<br /></td><td class="Cell-R1">03:40<br />05:10</td><td class="Cell-R1">06:20<br />08:00</td><td class="Cell-R1">28.10-24.03<br />08.11-27.12</td><td class="Cell-R1">3<br />7</td><td class="Cell-R1"><br /></td><td class="Cell-R1">6067<br /></td><td class="Cell-R1">МИНЕРАЛЬНЫЕ ВОДЫ<br /></td><td class="Cell-R1">20:20<br />21:40</td><td class="Cell-R1">02:40<br />04:10</td><td class="Cell-R1">27.10-23.03<br />07.11-26.12</td><td class="Cell-R1">2<br />6</td><td class="Cell-R1">Азимут<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">SU<br /><br /></td><td class="Cell-R1">1647<br /><br /></td><td class="Cell-R1">А-321<br /><br /></td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО<br /><br /></td><td class="Cell-R1">05:45<br />05:45<br /></td><td class="Cell-R1">07:25<br />07:25<br /></td><td class="Cell-R1">26.10-31.12<br />02.01-27.03<br /></td><td class="Cell-R1">ежедневно<br />ежедневно<br /></td><td class="Cell-R1"><br /><br /></td><td class="Cell-R1">1646<br /><br /></td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО<br /><br /></td><td class="Cell-R1">22:55<br />22:50<br />22:50</td><td class="Cell-R1">04:30<br />04:30<br />04:30</td><td class="Cell-R1">27.10-27.03<br />29.10-28.12<br />03.01-25.03</td><td class="Cell-R1">2 3 5 6<br />1 4 7<br />1 4 7</td><td class="Cell-R1">Аэрофлот-РА<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">SU<br /></td><td class="Cell-R1">1473<br /></td><td class="Cell-R1">А-321<br /></td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО<br /></td><td class="Cell-R1">20:30<br />20:30</td><td class="Cell-R1">22:15<br />22:15</td><td class="Cell-R1">30.10-27.12<br />03.01-26.03</td><td class="Cell-R1">5 7 <br />5 7</td><td class="Cell-R1"><br /></td><td class="Cell-R1">1472<br /></td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО<br /></td><td class="Cell-R1">13:40<br />13:40</td><td class="Cell-R1">19:20<br />19:20</td><td class="Cell-R1">01.11-27.12<br />03.01-26.03</td><td class="Cell-R1">5 7<br />5 7</td><td class="Cell-R1">Аэрофлот-РА<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">SU</td><td class="Cell-R1">1649</td><td class="Cell-R1">А-321</td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО</td><td class="Cell-R1">18:10</td><td class="Cell-R1">19:50</td><td class="Cell-R1">31.12-31.12</td><td class="Cell-R1">4</td><td class="Cell-R1"></td><td class="Cell-R1">1648</td><td class="Cell-R1">МОСКВА / ШЕРЕМЕТЬЕВО</td><td class="Cell-R1">10:30</td><td class="Cell-R1">17:10</td><td class="Cell-R1">31.12-31.12</td><td class="Cell-R1">4</td><td class="Cell-R1">Аэрофлот-РА</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">S7<br /></td><td class="Cell-R1">5328<br /></td><td class="Cell-R1"> E-170<br /></td><td class="Cell-R1">НОВОСИБИРСК<br /></td><td class="Cell-R1">04:00<br />04:00</td><td class="Cell-R1">07:25<br />07:25</td><td class="Cell-R1">26.10-31.12<br />02.01-27.03</td><td class="Cell-R1">ежедневно<br />ежедневно</td><td class="Cell-R1"><br /></td><td class="Cell-R1">5327<br /></td><td class="Cell-R1">НОВОСИБИРСК<br /></td><td class="Cell-R1">03:55<br />03:55</td><td class="Cell-R1">03:30<br />03:30</td><td class="Cell-R1">26.10-31.12<br />02.01-28.03</td><td class="Cell-R1">ежедневно<br />ежедневно</td><td class="Cell-R1">Сибирь<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">S7<br /><br /><br /></td><td class="Cell-R1">5364<br /><br /><br /></td><td class="Cell-R1"> E-170<br /><br /><br /></td><td class="Cell-R1">НОВОСИБИРСК<br /><br /><br /></td><td class="Cell-R1">22:10<br />22:10<br />22:10<br />22:10</td><td class="Cell-R1">01:35<br />01:35<br />01:35<br />01:35</td><td class="Cell-R1">30.10-13.11<br />18.12-25.12<br />26.12-27.12<br />30.12-30.12</td><td class="Cell-R1">5<br />5<br />6 7<br />3</td><td class="Cell-R1"><br /><br /><br /></td><td class="Cell-R1">5363<br /><br /><br /></td><td class="Cell-R1">НОВОСИБИРСК<br /><br /><br /></td><td class="Cell-R1">22:05<br />22:05<br />22:10<br />22:05</td><td class="Cell-R1">21:40<br />21:40<br />21:40<br />21:40</td><td class="Cell-R1">30-10-13.11<br />18.12-25.12<br />27.12-27.12<br />26.12-30.12</td><td class="Cell-R1">5<br />5<br />7<br />3 6</td><td class="Cell-R1">Сибирь<br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">S7<br /><br /><br /></td><td class="Cell-R1">7096<br /><br /><br /></td><td class="Cell-R1"> E-170<br /><br /><br /></td><td class="Cell-R1">НОВОСИБИРСК<br /><br /><br /></td><td class="Cell-R1">22:10<br />22:10<br />22:10<br />22:10</td><td class="Cell-R1">01:35<br />01:35<br />01:35<br />01:35</td><td class="Cell-R1">27.10-29.12<br />28.10-23.12<br />20.11-11.12<br />01.01-26.03</td><td class="Cell-R1">2<br />3<br />5<br />2 3 5</td><td class="Cell-R1"><br /><br /><br /></td><td class="Cell-R1">7095<br /><br /><br /></td><td class="Cell-R1">НОВОСИБИРСК<br /><br /><br /></td><td class="Cell-R1">22:05<br />22:05<br />22:05<br />22:05</td><td class="Cell-R1">21:40<br />21:40<br />21:40<br />21:40</td><td class="Cell-R1">27.10-29.12<br />28.10-23.12<br />20.11-11.12<br />01.01-26.03</td><td class="Cell-R1">2<br />3<br />5<br />2 3 5</td><td class="Cell-R1">Сибирь<br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">UT</td><td class="Cell-R1">135</td><td class="Cell-R1">ATR-72</td><td class="Cell-R1">НЯГАНЬ</td><td class="Cell-R1">10:50</td><td class="Cell-R1">12:50</td><td class="Cell-R1">28.10-24.03</td><td class="Cell-R1">3</td><td class="Cell-R1"></td><td class="Cell-R1">136</td><td class="Cell-R1">НЯГАНЬ</td><td class="Cell-R1">13:50</td><td class="Cell-R1">15:25</td><td class="Cell-R1">28.10-24.03</td><td class="Cell-R1">3</td><td class="Cell-R1">Ютэйр</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">UT</td><td class="Cell-R1">188</td><td class="Cell-R1">ATR-72</td><td class="Cell-R1">ОМСК</td><td class="Cell-R1">10:50</td><td class="Cell-R1">13:50</td><td class="Cell-R1">25.10-26.03</td><td class="Cell-R1">1 5 7</td><td class="Cell-R1"></td><td class="Cell-R1">187</td><td class="Cell-R1">ОМСК</td><td class="Cell-R1">14:40</td><td class="Cell-R1">15:45</td><td class="Cell-R1">25.10-26.03</td><td class="Cell-R1">1 5 7</td><td class="Cell-R1">ЮТэйр</td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">SU<br />FV<br /><br /><br /><br /></td><td class="Cell-R1">6112<br /><br /><br /><br /><br /></td><td class="Cell-R1">А-319<br /><br /><br /><br /><br /></td><td class="Cell-R1">САНКТ-ПЕТЕРБУРГ<br /><br /><br /><br /><br /></td><td class="Cell-R1">07:05<br />07:05<br />07:05<br />07:05<br />07:05<br />07:05</td><td class="Cell-R1">08:45<br />08:45<br />08:45<br />08:45<br />08:45<br />08:45</td><td class="Cell-R1">26.10-21.11<br />23.11-14.12<br />15.12-29.12<br />02.01-16.01<br />18.01-27.02<br />01.03-27.03</td><td class="Cell-R1">1 2 5 6<br />1 2 6<br />1 2 5 6<br />1 2 5 6<br />1 2 6<br />1 2 5 6</td><td class="Cell-R1"><br /><br /><br /><br /><br /></td><td class="Cell-R1">6111<br /><br /><br /><br /><br /></td><td class="Cell-R1">САНКТ-ПЕТЕРБУРГ<br /><br /><br /><br /><br /></td><td class="Cell-R1">00:30<br />00:30<br />00:30<br />00:30<br />00:30<br />00:30</td><td class="Cell-R1">06:05<br />06:05<br />06:05<br />06:05<br />06:05<br />06:05</td><td class="Cell-R1">26.10-23.11<br />24.11-15.12<br />18.12-29.12<br />02.01-18.01<br />19.01-01.03<br />02.03-27.03</td><td class="Cell-R1">1 2 5 6<br />1 2 6<br />1 2 5 6<br />1 2 5 6<br />1 2 6<br />1 2 5 6</td><td class="Cell-R1">Аэрофлот-РА <br />Россия<br /><br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">А4<br /><br /><br /></td><td class="Cell-R1">4048<br /><br /><br /></td><td class="Cell-R1">SU9<br /><br /><br /></td><td class="Cell-R1">САМАРА<br /><br /><br /></td><td class="Cell-R1">11:20<br />11:55<br />11:20<br />11:20</td><td class="Cell-R1">13:40<br />14:00<br />13:40<br />13:30</td><td class="Cell-R1">28.10-11.11<br />07.11-07.11<br />14.11-27.03<br />16.11-30.11</td><td class="Cell-R1">3<br />6<br />3 6 <br />1</td><td class="Cell-R1"><br /><br /><br /></td><td class="Cell-R1">4047<br /><br /><br /></td><td class="Cell-R1">САМАРА<br /><br /><br /></td><td class="Cell-R1">06:30<br />07:30<br />06:30<br />06:30</td><td class="Cell-R1">10:20<br />10:55<br />10:20<br />10:20</td><td class="Cell-R1">28.10-11.11<br />07.11-07.11<br />14.11-27.03<br />16.11-30.11</td><td class="Cell-R1">3<br />6<br /> 3 6<br />1</td><td class="Cell-R1">Азимут                           <br /><br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">7R</td><td class="Cell-R1">815</td><td class="Cell-R1">CRJ-200</td><td class="Cell-R1">ТОМСК</td><td class="Cell-R1">05:50</td><td class="Cell-R1">09:05</td><td class="Cell-R1">25.10-25.03</td><td class="Cell-R1">3 4 7</td><td class="Cell-R1"></td><td class="Cell-R1">816</td><td class="Cell-R1">ТОМСК</td><td class="Cell-R1">09:50</td><td class="Cell-R1">09:15</td><td class="Cell-R1">25.10-25.03</td><td class="Cell-R1">3 4 7</td><td class="Cell-R1">Руслайн</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">UT<br /><br /></td><td class="Cell-R1">288<br /><br /></td><td class="Cell-R1">ATR-72<br /><br /></td><td class="Cell-R1">ТЮМЕНЬ<br /><br /></td><td class="Cell-R1">20:50<br /><br /></td><td class="Cell-R1">23:10<br /><br /></td><td class="Cell-R1">25.10-24.03<br /><br /></td><td class="Cell-R1">3 7<br /><br /></td><td class="Cell-R1"><br /><br /></td><td class="Cell-R1">287<br /><br /></td><td class="Cell-R1">ТЮМЕНЬ<br /><br /></td><td class="Cell-R1">07:55<br />07:50<br />07:55</td><td class="Cell-R1">10:00<br />10:00<br />10:00</td><td class="Cell-R1">26.10-27.03<br />28.10-24.03<br />25.10-25.10</td><td class="Cell-R1">1 2 4 5 6 7 <br />3<br />7</td><td class="Cell-R1">ЮТэйр<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">UT</td><td class="Cell-R1">1288</td><td class="Cell-R1">ATR-72</td><td class="Cell-R1">ТЮМЕНЬ</td><td class="Cell-R1">23:20</td><td class="Cell-R1">01:30</td><td class="Cell-R1">26.10-27.03</td><td class="Cell-R1">1 2 4 5 6</td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1">ЮТэйр</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">UT<br /><br /></td><td class="Cell-R1">152<br /><br /></td><td class="Cell-R1">Б-735<br /><br /></td><td class="Cell-R1">УФА<br /><br /></td><td class="Cell-R1">00:30<br />00:30<br /></td><td class="Cell-R1">03:00<br />03:00<br /></td><td class="Cell-R1">26.10-28.12<br />02.01-27.03<br /></td><td class="Cell-R1">1 4 5 6<br />1 4 5 6<br /></td><td class="Cell-R1"><br /><br /></td><td class="Cell-R1">151<br /><br /></td><td class="Cell-R1">УФА<br /><br /></td><td class="Cell-R1">21:00<br />14:00<br />21:00</td><td class="Cell-R1">23:25<br />16:25<br />23:25</td><td class="Cell-R1">25.10-30.12<br />31.12-31.12<br />01.01-26.03</td><td class="Cell-R1">3 4 5 7<br />4<br />3 4 5 7</td><td class="Cell-R1">ЮТэйр<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">UT</td><td class="Cell-R1">1152</td><td class="Cell-R1">Б-735</td><td class="Cell-R1">УФА</td><td class="Cell-R1">17:25</td><td class="Cell-R1">19:55</td><td class="Cell-R1">31.12-31.12</td><td class="Cell-R1">4</td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1"></td><td class="Cell-R1">ЮТэйр</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">IO<br /></td><td class="Cell-R1">206<br /></td><td class="Cell-R1">SU9<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">17:00<br />17:00</td><td class="Cell-R1">19:10<br />19:10</td><td class="Cell-R1">16.11-16.11<br />15.12-15.12</td><td class="Cell-R1">1<br />2</td><td class="Cell-R1"><br /></td><td class="Cell-R1">205<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">14:00<br />14:00</td><td class="Cell-R1">16:00<br />16:00</td><td class="Cell-R1">16.11-16.11<br />15.12-15.12</td><td class="Cell-R1">1<br />2</td><td class="Cell-R1">Ираэро<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">UT<br /></td><td class="Cell-R1">316<br /></td><td class="Cell-R1">ATR-72<br /></td><td class="Cell-R1">ХАНТЫ-МАНСИЙСК<br /></td><td class="Cell-R1">10:50<br />16:30</td><td class="Cell-R1">12:10<br />17:50</td><td class="Cell-R1">27.10-27.03<br />25.10-24.03</td><td class="Cell-R1">2 4 6<br />3 7</td><td class="Cell-R1"><br /></td><td class="Cell-R1">315<br /></td><td class="Cell-R1">ХАНТЫ-МАНСИЙСК<br /></td><td class="Cell-R1">20:45<br />18:40</td><td class="Cell-R1">22:00<br />20:00</td><td class="Cell-R1">27.10-27.03<br />25.10-24.03</td><td class="Cell-R1">2 4 6<br />3 7</td><td class="Cell-R1">ЮТэйр<br /></td>
+		</tr>
+		<tr class="menu-left">
+			<td colspan="16" class="Cell-R1"> <p style="text-align: left; ">  МЕЖДУНАРОДНЫЕ РЕЙСЫ</p></td>
+		</tr>
+		<tr class="Shedule-caption">
+			<td class="Cell-R1">Код<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Тип воздушного судна<br /><br /></td><td class="Cell-R1">Прибытие в аэропорт назначения<br /><br /></td><td class="Cell-R1">Время отправления из Нижневартовска<br /><br /></td><td class="Cell-R1">Время прибытия в аэропорт назначения<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Посадка в аэропорту<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Отправление из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время отправления из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время прибытия в Нижневартовск<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Предприятие авиаперевозчик<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">HY<br /></td><td class="Cell-R1">9808<br /></td><td class="Cell-R1">А-320<br /></td><td class="Cell-R1">НАМАНГАН<br /></td><td class="Cell-R1">23:15<br />23:15</td><td class="Cell-R1">03:05<br />03:05</td><td class="Cell-R1">30.10-25.12<br />08.01-26.03</td><td class="Cell-R1">5<br />5</td><td class="Cell-R1"><br /></td><td class="Cell-R1">9807<br /></td><td class="Cell-R1">НАМАНГАН<br /></td><td class="Cell-R1">18:00<br />18:00</td><td class="Cell-R1">21:45<br />21:45</td><td class="Cell-R1">30.10-25.12<br />08.01-26.03</td><td class="Cell-R1">5<br />5</td><td class="Cell-R1">UZBEKISTAN AIRWAYS<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">S7<br /></td><td class="Cell-R1">4365<br /></td><td class="Cell-R1">А-320<br /></td><td class="Cell-R1">НАМАНГАН<br /></td><td class="Cell-R1">23:15<br />23:15</td><td class="Cell-R1">03:05<br />03:05</td><td class="Cell-R1">30.10-25.12<br />08.01-26.03</td><td class="Cell-R1">5<br />5</td><td class="Cell-R1"><br /></td><td class="Cell-R1">4364<br /></td><td class="Cell-R1">НАМАНГАН<br /></td><td class="Cell-R1">18:00<br />18:00</td><td class="Cell-R1">21:45<br />21:45</td><td class="Cell-R1">30.10-25.12<br />08.01-26.03</td><td class="Cell-R1">5<br />5</td><td class="Cell-R1">Сибирь<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">U6</td><td class="Cell-R1">2705</td><td class="Cell-R1">A-320</td><td class="Cell-R1">ОШ</td><td class="Cell-R1">14:35</td><td class="Cell-R1">19:00</td><td class="Cell-R1">18.11-24.03</td><td class="Cell-R1">3</td><td class="Cell-R1"></td><td class="Cell-R1">2706</td><td class="Cell-R1">ОШ</td><td class="Cell-R1">10:15</td><td class="Cell-R1">12:45</td><td class="Cell-R1">18.11-24.03</td><td class="Cell-R1">3</td><td class="Cell-R1">Уральские авиалинии</td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">HY</td><td class="Cell-R1">9666</td><td class="Cell-R1">А-320</td><td class="Cell-R1">ТАШКЕНТ</td><td class="Cell-R1">10:15</td><td class="Cell-R1">13:40</td><td class="Cell-R1">25.10-21.03</td><td class="Cell-R1">7</td><td class="Cell-R1"></td><td class="Cell-R1">9665</td><td class="Cell-R1">ТАШКЕНТ</td><td class="Cell-R1">05:20</td><td class="Cell-R1">08:45</td><td class="Cell-R1">25.10-21.03</td><td class="Cell-R1">7</td><td class="Cell-R1">UZBEKISTAN AIRWAYS</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">S7</td><td class="Cell-R1">4341</td><td class="Cell-R1">А-320</td><td class="Cell-R1">ТАШКЕНТ</td><td class="Cell-R1">10:15</td><td class="Cell-R1">13:40</td><td class="Cell-R1">25.10-21.03</td><td class="Cell-R1">7</td><td class="Cell-R1"></td><td class="Cell-R1">4340</td><td class="Cell-R1">ТАШКЕНТ</td><td class="Cell-R1">05:20</td><td class="Cell-R1">08:45</td><td class="Cell-R1">25.10-21.03</td><td class="Cell-R1">7</td><td class="Cell-R1">Сибирь</td>
+		</tr>
+		<tr class="menu-left">
+			<td colspan="16" class="Cell-R1"> <p style="text-align: left; ">  ЗАКАЗНЫЕ РЕЙСЫ</p></td>
+		</tr>
+		<tr class="Shedule-caption">
+			<td class="Cell-R1">Код<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Тип воздушного судна<br /><br /></td><td class="Cell-R1">Прибытие в аэропорт назначения<br /><br /></td><td class="Cell-R1">Время отправления из Нижневартовска<br /><br /></td><td class="Cell-R1">Время прибытия в аэропорт назначения<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Посадка в аэропорту<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Отправление из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время отправления из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время прибытия в Нижневартовск<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Предприятие авиаперевозчик<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">ЮВ<br /></td><td class="Cell-R1">9870<br /></td><td class="Cell-R1">CRJ-200<br /></td><td class="Cell-R1">БРАТСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ 1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9871<br /></td><td class="Cell-R1">БРАТСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ 1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ЮВТ АЭРО<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">ЮТ<br /></td><td class="Cell-R1">6142<br /></td><td class="Cell-R1">Б-734<br /></td><td class="Cell-R1">ИЖЕВСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"> <br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">6141<br /></td><td class="Cell-R1">ИЖЕВСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПАО Ютэйр<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">ЮВ<br /></td><td class="Cell-R1">9775<br /></td><td class="Cell-R1">CRJ-200<br /></td><td class="Cell-R1">ИЖЕВСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9774<br /></td><td class="Cell-R1">ИЖЕВСК<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ЮВТ АЭРО<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">U6<br /></td><td class="Cell-R1">9507<br /></td><td class="Cell-R1">А-321<br /></td><td class="Cell-R1">МАХАЧКАЛА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  2 РАЗА В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9508<br /></td><td class="Cell-R1">МАХАЧКАЛА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  2 РАЗА  В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">Уральские авиалинии<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">ЮТ<br /></td><td class="Cell-R1">9306<br /></td><td class="Cell-R1">Б-734<br /></td><td class="Cell-R1">МИРНЫЙ<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9307<br /></td><td class="Cell-R1">МИРНЫЙ<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПАО Ютэйр<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">ЮТ<br /></td><td class="Cell-R1">9308<br /></td><td class="Cell-R1">Б-734<br /></td><td class="Cell-R1">ТЮМЕНЬ<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9305<br /></td><td class="Cell-R1">ТЮМЕНЬ<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПАО Ютэйр<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">U6<br /></td><td class="Cell-R1">9904<br /></td><td class="Cell-R1">А-321<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9903<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">Уральские авиалинии<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">U6<br /></td><td class="Cell-R1">9786<br /></td><td class="Cell-R1">А-321<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9785<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">Уральские авиалинии<br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">U6<br /></td><td class="Cell-R1">9896<br /></td><td class="Cell-R1">А-321<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">9895<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  1 РАЗ В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">Уральские авиалинии<br /></td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">ЮТ<br /></td><td class="Cell-R1">6112<br /></td><td class="Cell-R1">Б-734<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  2 РАЗА В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">6111<br /></td><td class="Cell-R1">УФА<br /></td><td class="Cell-R1">ВРЕМЯ ПО СОГЛАСОВАНИЮ <br />С ПЕРЕВОЗЧИКОМ</td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПО ДАТАМ  2 РАЗА В МЕСЯЦ<br /></td><td class="Cell-R1"><br /></td><td class="Cell-R1">ПАО Ютэйр<br /></td>
+		</tr>
+		<tr class="menu-left">
+			<td colspan="16" class="Cell-R1"> <p style="text-align: left; ">МУНИЦИПАЛЬНЫЕ РЕЙСЫ</p></td>
+		</tr>
+		<tr class="Shedule-caption">
+			<td class="Cell-R1">Код<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Тип воздушного судна<br /><br /></td><td class="Cell-R1">Прибытие в аэропорт назначения<br /><br /></td><td class="Cell-R1">Время отправления из Нижневартовска<br /><br /></td><td class="Cell-R1">Время прибытия в аэропорт назначения<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Посадка в аэропорту<br /><br /></td><td class="Cell-R1">Номер рейса<br /><br /></td><td class="Cell-R1">Отправление из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время отправления из  аэропорта назначения<br /><br /></td><td class="Cell-R1">Время прибытия в Нижневартовск<br /><br /></td><td class="Cell-R1">Период выполнения<br /><br /></td><td class="Cell-R1">Частота движения<br /><br /></td><td class="Cell-R1">Предприятие авиаперевозчик<br /><br /></td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">НП</td><td class="Cell-R1">9803</td><td class="Cell-R1">МИ-8</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">09:10</td><td class="Cell-R1">12:39</td><td class="Cell-R1">31.10                                                          02.11,07.11,16.11,28.11                                  05.12,14.12,26.12,28.12</td><td class="Cell-R1">1 6</td><td class="Cell-R1">БОЛЬШОЙ ЛАРЬЯК-ЧЕХЛОМЕЙ-ЛАРЬЯК</td><td class="Cell-R1">9804</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">13:00</td><td class="Cell-R1">16:25</td><td class="Cell-R1">31.10                                                02.11,07.11,16.11,28.11                                          05.12,14.12,26.12,28.12</td><td class="Cell-R1">1 6</td><td class="Cell-R1">НВА</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">НП</td><td class="Cell-R1">9806</td><td class="Cell-R1"> </td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">09:10</td><td class="Cell-R1">12:54</td><td class="Cell-R1">03.11,10.11                                    01.12,08.12</td><td class="Cell-R1">2</td><td class="Cell-R1">СОСНОВЫЙ БОР -                       ЛАРЬЯК</td><td class="Cell-R1">9807</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">13:30</td><td class="Cell-R1">16:45</td><td class="Cell-R1">03.11,10.11                                  01.12,08.12</td><td class="Cell-R1">2</td><td class="Cell-R1">НВА</td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">НП</td><td class="Cell-R1">9808</td><td class="Cell-R1">МИ-8</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">09:10</td><td class="Cell-R1">11:59</td><td class="Cell-R1">14.11,17.11,21.11,24.11,26.11                       12.12,17.12,19.12,22.12,29.12</td><td class="Cell-R1">2 4 6</td><td class="Cell-R1">ЛАРЬЯК</td><td class="Cell-R1">9809</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">12:30</td><td class="Cell-R1">15:30</td><td class="Cell-R1">14.11,17.11,21.11,24.11,26.11                  12.12,17.12,19.12,22.12,29.12</td><td class="Cell-R1">2 4 6</td><td class="Cell-R1">НВА</td>
+		</tr>
+		<tr class="Shedule-R2">
+			<td class="Cell-R1">НП</td><td class="Cell-R1">9819</td><td class="Cell-R1">МИ-8</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">09:10</td><td class="Cell-R1">12:10</td><td class="Cell-R1">29.10                                                05.11,12.11                                  10.12,24.12      </td><td class="Cell-R1">4</td><td class="Cell-R1">ЛАРЬЯК-ЧЕХЛОМЕЙ</td><td class="Cell-R1">9820</td><td class="Cell-R1">КОРЛИКИ</td><td class="Cell-R1">12:40</td><td class="Cell-R1">15:50</td><td class="Cell-R1">29.10                                                05.11,12.11                                  10.12,24.12      </td><td class="Cell-R1">4</td><td class="Cell-R1">НВА</td>
+		</tr>
+		<tr class="Shedule-R1">
+			<td class="Cell-R1">НП</td><td class="Cell-R1">9805</td><td class="Cell-R1">МИ-8</td><td class="Cell-R1">ПОКУР</td><td class="Cell-R1">08:10</td><td class="Cell-R1">09:41</td><td class="Cell-R1">04.11,11.11,18.11,25.11                                   02.12,09.12,16.12,23.12,30.12</td><td class="Cell-R1">3</td><td class="Cell-R1">БЫЛИНО - ВАМПУГОЛ</td><td class="Cell-R1">9805</td><td class="Cell-R1">ПОКУР</td><td class="Cell-R1">09:45</td><td class="Cell-R1">10:20</td><td class="Cell-R1">04.11,11.11,18.11,25.11                                   02.12,09.12,16.12,23.12,30.12</td><td class="Cell-R1">3</td><td class="Cell-R1">НВА</td>
+		</tr>
+	</table><!-- end table 02cbd593-5276-4b45-ac7d-a4ff542ab74e -->
+
+</div> <p style="text-align: center; "><strong><span style="color: rgb(0, 0, 128); font-size: larger; ">ИHФОРМАЦИЯ ООО &quot;Нижневартовск Аэро&quot;</span></strong></p> <p style="text-align: center; ">Авиа и железнодорожные билеты можно приобрести в кассах:Аэропорт 2 этаж; </p><p style="text-align: center; ">Возможны изменения в расписании, уточнять по телефону: АЭРОПОРТ +7(3466) 49-21-75 </p><p style="text-align: center; ">Перевозка грузов воздушным транспортом тел. +7 (3466) 49-21-81,49-20-43;  ЛИЦЕНЗИЯ ПП0064, ПГ0065</p>
+
+                        
+   
+
+                    </div>
+
+                    <div class="content-clear" >
+                        
+                    </div>
+
+            </div>
+        </div>
+        
+        <div class="foot-container" >
+            <div   class="foot-container-left" > 
+                   
+            </div>
+            <div   class="foot-container-right" align ="right" > 
+                <img src="../Content/Images/Cap16_1200_01_RG.png" alt="" /> 
+            </div>
+        </div> 
+
+        <div class="footer">
+                <p class="copyright">© 2023-2026 ООО "НИЖНЕВАРТОВСК АЭРО" </p>
+        </div>
+
+        <div class="footer-right">
+
+        </div>
+    </div>
+   </div>
+  <!--<script> src="../../Content/jquery-1.11min.js"</script>-->
+  <!--<script src="../../Content/mibok.js"></script>-->
+  <script src="../../Content/toolbar.min.js"></script>
+  <script src="../../Content/blind-script.js"></script>
+  <script src="../../Content/blind-min.js"></script>
+</body>
+</html>

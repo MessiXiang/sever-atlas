@@ -5076,6 +5076,318 @@
     "retrievedAt": "2026-11-04"
   },
   {
+    "file": "sources/ugra-nv/a247-home.html",
+    "bytes": 186352,
+    "sha256": "a570d76930adbd06fe779d89eb1747980fc0985a4010cc690d41617842429a18",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/a247-regular-browser.html",
+    "bytes": 114542,
+    "sha256": "459b9354b5f09fb401f9ed5d7e01477d0e7e4c17ecafee7cc0f96a0b10919e3d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/BELOGORYE.html",
+    "bytes": 174604,
+    "sha256": "2656acde38a7a6fd1442c7acbe5a92ddb019bebb77e516386339ec8d47d71ef1",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/BOLSHIYE-LEUSHI.html",
+    "bytes": 136754,
+    "sha256": "0dec612de21511f84d081a6a050655a3e26a3eac490c9f36ec0c90dfc10a366a",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/BOLSHOY-ATLYM.html",
+    "bytes": 149969,
+    "sha256": "b88c71946a59490464b7703943da74b0f121f1904ba3c82be132593619d00e72",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/BOLSHOY-LARYAK.html",
+    "bytes": 134551,
+    "sha256": "eb5c354a3574c08f98f382fa846a6ea8cd7e595afc1e0153265999282f30860e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/CHEKHLOMEY.html",
+    "bytes": 136128,
+    "sha256": "6d02fc5cad0bdde440e278becd9e950b4a4870f0bc09a9a16db2ba17a4c4eba8",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/ELIZAROVO.html",
+    "bytes": 173812,
+    "sha256": "96b6d1e75573aba1de86d84968bea22bf0cfacd3ee7cda12c63ae36ff132335b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/GORNORECHENSK.html",
+    "bytes": 145966,
+    "sha256": "7b20c17648204a3c7bfceec2866b078a5aa5206eb52cdcdd6cd9e0952902470b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KARYMKARY.html",
+    "bytes": 168653,
+    "sha256": "bb8b8de244e0c83fb820370de9b9e459d7bba36c2ba4e4719f7218b3dfba4434",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KEDROVY.html",
+    "bytes": 162185,
+    "sha256": "9a207c05f016e3115dc2d6903e8c7036e09c535e855cac64d99cf9868d7b887e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KIRPICHNY.html",
+    "bytes": 163640,
+    "sha256": "bdf2149b46b47c9bdd2fdffe56a55d644f6c1540291134c5f8d4c7051bbc4026",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KOMSOMOLSKY.html",
+    "bytes": 147545,
+    "sha256": "91e348dfb36bad3b574f7f6290d9a17ae165ca23d9a939cb8cbda51e31344f01",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KORLIKI.html",
+    "bytes": 139288,
+    "sha256": "e23a471ee623f7d5bc0d2bc99f5b2fae04332807e1d37733b804c42ea24f4000",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/KORMUZHIKHANKA.html",
+    "bytes": 145055,
+    "sha256": "f52004291e3e547a543109b276481ab54b220baedcbfed7ad02f75807e1ec5f7",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/LARYAK.html",
+    "bytes": 180493,
+    "sha256": "68f9ad83959ebb9e9819fb7d376143ef0ec3536e3a57503e09164c49eb2f46c7",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/LUGOVSKOY.html",
+    "bytes": 170271,
+    "sha256": "b4656d17a847a378ab2c16118e9692cd508cd4cac7f0729260c1a7701ee174ed",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/NIZHNIYE-NARYKARY.html",
+    "bytes": 148548,
+    "sha256": "c4144746590db2433904949f7602ddfdb3d8afa14fa6b228e7723f2a5d254a1e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/NYALINSKOYE.html",
+    "bytes": 137282,
+    "sha256": "19c150bc08863de94f9109ab745a8ded97ab5c15c6887eb21d706b1f733f3c56",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/OKTYABRSKOYE.html",
+    "bytes": 255632,
+    "sha256": "00d4625b29c069e7dc0277b2f370667e2db1235691a661c0121fb4b6a97655d3",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/PALYANOVO.html",
+    "bytes": 138046,
+    "sha256": "5644b840286e9860473a7129cd5e1a38d4fc61e1233627b6418297422eca5931",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/PEREGREBNOYE.html",
+    "bytes": 166430,
+    "sha256": "cc6eabab7fb86d38d460b4e4a103f0ef0366f1b09935d94163dcff5ba24808e0",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/REPOLOVO.html",
+    "bytes": 156906,
+    "sha256": "f1d50efc5b62c6b809830eeedb34292500f8fe3e8337e1f7f5c33df7f7b244cf",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/SELIYAROVO.html",
+    "bytes": 185874,
+    "sha256": "6a35d76e5f0b344ad45675d4a4a268f6ce19aa7f3e3c94e7e3461b5e5d37db34",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/SERGINO.html",
+    "bytes": 224707,
+    "sha256": "57263eeb60df7379597c3fc1962b20c09e96f0966112069137813400f019aad7",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/SHERKALY.html",
+    "bytes": 188869,
+    "sha256": "c059cddbba4396a06489e12a19c1cd752b2a2eeaaf1b7d0310a326c7e63a4ade",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/SOSNOVY-BOR.html",
+    "bytes": 153985,
+    "sha256": "a4f3168336349ddb758eb04ffb5cfecad5a12e453c42f19a72a5cafbde891fc8",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/TROITSA.html",
+    "bytes": 160891,
+    "sha256": "ad0cad5f5688e23b1a5c2d12e9ae2a051521d9caebc748802cdca8e8945e360b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/TYULI.html",
+    "bytes": 145070,
+    "sha256": "5daf97370bdbb05c004a311bdb17a5ffed7250a97b1e1e415691e1126b854392",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/URMANNY.html",
+    "bytes": 136391,
+    "sha256": "8827e3c9f459fbb93e64f52f5c2585e44a87d57a6fdf0271dd482b8e2b4cd8d2",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/geo/ZENKOVO.html",
+    "bytes": 155877,
+    "sha256": "df5a4e4bfc2588ddbd9c69097b8859dccc5906373f0aa4f7c8e0e0c7e15bd53d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/hma-a247-posts.html",
+    "bytes": 57734,
+    "sha256": "e0f73a4ed091b503528db029b43ee95ad742bb2c9655883055e7a9f4818803e2",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/hma-district-image.png",
+    "bytes": 50203,
+    "sha256": "cfdb77eda66cfc0a15f981d96d0abac15d1aba13a59ef5e6e63b125e4c15508e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/hma-district.html",
+    "bytes": 99959,
+    "sha256": "1bf9495de89bfeee7a383f06018f105809acf1408f0e22ad925fb2a56adea478",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/hma-pdf.pdf",
+    "bytes": 1030798,
+    "sha256": "d196fe9d76c34ecffc1484018a20f656450ed558dafface7c1b19b504a34437c",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/kras-HMA-UFA.json",
+    "bytes": 38883,
+    "sha256": "b0ac9e44d729c41888fd67894390dfa5e5e4b9d12cc61e078d937c9c0c5c53f1",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/kras-UFA-HMA.json",
+    "bytes": 38883,
+    "sha256": "76c43609e197661aad3127b7dd8d807e6ede49bc4fa32da06999f1849a17e80b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/nv-local.html",
+    "bytes": 43335,
+    "sha256": "1d81ad008119f325a7c6f14dc2604a1c546f28ad6fed3bbe4a16cf64886461d0",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/nv-schedule.html",
+    "bytes": 84936,
+    "sha256": "6f4323a030f6fbc3c58ab8e74b6daf692705c496cc9873a0bd480152193cb795",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/nvavia-contacts.html",
+    "bytes": 36406,
+    "sha256": "c6e465af180f54e0763ef31969389045c109c7dec093521307836ba3729c108b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/nvavia-municipal.html",
+    "bytes": 43763,
+    "sha256": "0ef86b5f912f742b275b454b9ce9f36dbb9a7584bb0cc3c916cdb1207ace9e37",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/okt-etickets.html",
+    "bytes": 68420,
+    "sha256": "6554cf935e56cf683e2db9f16511b0930e2dd374fb6a06b255876ae6152199ec",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/okt-etickets.pdf",
+    "bytes": 620041,
+    "sha256": "32f7a9a5cf2600d585c5c453f1fc88727996d7d70a48d6737c25d50226bd8412",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/okt-intermunicipal.html",
+    "bytes": 72622,
+    "sha256": "8ad49527e0d17de674358e391750cdaec498856833d0451322a2971ece446e0d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/okt-municipal.html",
+    "bytes": 73839,
+    "sha256": "7cca6e54b2df950d8e2ba15474cdd34cf6bef83bf8ced55cf309321f46a007b8",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ufa-hma.html",
+    "bytes": 173976,
+    "sha256": "552f290f0afa11b4b076366123fbef135598c1f19cc010ba158c7f47963ef11d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-board.json",
+    "bytes": 55154,
+    "sha256": "b1c5cbba28ed546c1219eda9845ed23885e73e0597adf21100c527bb2a7f5ac2",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-contacts.html",
+    "bytes": 24467,
+    "sha256": "0b626f778cb3b173596fc7562a01049686a61667a13abebe0406c9eec419c156",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-local-news.html",
+    "bytes": 95775,
+    "sha256": "f53feddbbe455f55deace098bfb3aa48e1e5361be8277a8a31171edf62015f4e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-reps.html",
+    "bytes": 27779,
+    "sha256": "c111b42237b4da4c15c0824f24a8857858f8a647edeaa6d0d85c7e0a22158025",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-schedule.html",
+    "bytes": 68855,
+    "sha256": "262957e3f93c0e5a03a7f8f2cfe2521ee43c662be15059422fa04c420a42f29b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/ugra-nv/ugra-schedule.json",
+    "bytes": 105738,
+    "sha256": "52b97caa35d93dc652353453ebcd9b788bebe9a5c0e2b394bc61857862324c2b",
+    "retrievedAt": "2026-11-05"
+  },
+  {
     "file": "sources/vityaz_capacity.json",
     "bytes": 207,
     "sha256": "a828c2591639bb12f593a42a3ed3cf007e108012a29ae252ee612c5a1a5b1884",

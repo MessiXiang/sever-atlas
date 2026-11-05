@@ -179,7 +179,7 @@
     "url": "https://iraero.ru/",
     "note": "逐个查询官网 54 个出发地，窗口 2026-11-04 至 2026-12-04；录入 AN4、AN6、SU9，排除 A319 / CRJ。更远日期尚未抓取。",
     "airlineId": "iraero",
-    "records": 422,
+    "records": 424,
     "checkedAt": "2026-11-04"
   },
   {
@@ -449,12 +449,29 @@
     "localCode": "",
     "certificate": "576 от 18.08.2017",
     "wiki": "https://ru.wikipedia.org/wiki/Азимут_(авиакомпания)",
-    "review": "blocked",
+    "review": "partial",
     "aerialWorkCertificate": "",
     "generalAviationCertificate": "",
-    "url": "https://booking.azimuth.ru/timetable/",
-    "note": "官网查询一度取得结果，发现A4代码共享含S7空客；后续请求502/页面加载失败，完整逐班数据尚未取得。未凭纯SSJ机队假定所有A4航班为SSJ。",
-    "checkedAt": "2026-11-04"
+    "url": "https://azimuth.ru/",
+    "note": "机场官方冬季表明确SU9且列Azimuth承运，新增HMA/NJC相关20条时刻。航司时刻API本轮返回403；不凭纯SSJ机队扩展其他班次，排除未核实代码共享。",
+    "checkedAt": "2026-11-05",
+    "airlineId": "azimuth",
+    "zh": "方位角航空",
+    "records": 20,
+    "evidence": [
+      {
+        "title": "汉特-曼西斯克机场 · 官方时刻接口",
+        "url": "https://ugraavia.ru/api/air/schedule/get",
+        "local": "sources/ugra-nv/ugra-schedule.json",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "local": "sources/ugra-nv/nv-schedule.html",
+        "checkedAt": "2026-11-05"
+      }
+    ]
   },
   {
     "name": "Ангара",
@@ -1644,10 +1661,35 @@
     "localCode": "НП",
     "certificate": "470 от 11.04.2005",
     "wiki": null,
-    "review": "pending",
+    "review": "partial",
     "aerialWorkCertificate": "АР-110 от 25.07.2022",
     "generalAviationCertificate": "",
-    "checkedAt": null
+    "checkedAt": "2026-11-05",
+    "airlineId": "nizhnevartovskavia",
+    "zh": "下瓦尔托夫斯克航空",
+    "url": "https://nvavia.ru/",
+    "note": "已加入8条Mi-8T市政时刻；机场与航司双重核对。НП9805经停顺序冲突，单列待核。机场二楼柜台，提前15天开售。",
+    "records": 8,
+    "evidence": [
+      {
+        "title": "Нижневартовскавиа · 2026 Mi-8T 市政航线",
+        "url": "https://nvavia.ru/Home/Show?_id=6114",
+        "local": "sources/ugra-nv/nvavia-municipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "下瓦尔托夫斯克机场 · 2026/27 冬季时刻",
+        "url": "https://nv-aero.ru/Home/Show?_id=26",
+        "local": "sources/ugra-nv/nv-schedule.html",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "下瓦尔托夫斯克机场 · 地方航线与承运人",
+        "url": "https://nv-aero.ru/Home/Show?_id=6114&_cl=s",
+        "local": "sources/ugra-nv/nv-local.html",
+        "checkedAt": "2026-11-05"
+      }
+    ]
   },
   {
     "name": "Петрозаводск (аэропорт)",
@@ -1979,24 +2021,43 @@
     "aerialWorkCertificate": "АР-50 от 03.12.2021",
     "generalAviationCertificate": "АОН-09-23-006 от 04.08.2023",
     "url": "https://heli.utair.ru/",
-    "note": "机场官方接口取得Mi-8时刻；先补入Sogom双向8条日期/时间变体。其他多站环线保留在地方航线清单，逐段时间未核齐。",
-    "checkedAt": "2026-11-04",
+    "note": "新增19条时刻（4条完整跨区链路、8条秋季市政表、5条环线、2条返程），复核8条Sogom。十月区与Sogom可Utair官网购票，其他本区线路联系代表确认。NF不代表只能线下售票。",
+    "checkedAt": "2026-11-05",
     "airlineId": "utair-heli",
-    "records": 8,
+    "records": 27,
     "evidence": [
       {
-        "title": "汉特-曼西斯克机场 · 季节时刻原始数据",
+        "title": "汉特-曼西斯克机场 · 官方时刻接口",
         "url": "https://ugraavia.ru/api/air/schedule/get",
-        "local": "sources/remote-routes/ugra-timetable.json",
-        "checkedAt": "2026-11-04"
+        "local": "sources/ugra-nv/ugra-schedule.json",
+        "checkedAt": "2026-11-05"
       },
       {
-        "title": "汉特-曼西斯克机场 · 当日状态快照",
-        "url": "https://ugraavia.ru/api/air/schedule/get_online",
-        "local": "sources/remote-routes/ugra-board.json",
-        "checkedAt": "2026-11-04"
+        "title": "十月区政府 · 2026秋季 Mi-8T 跨区航班",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/grafik-dvizheniya-passazhirskikh-vertoletov-mi-8t-ao-yuteyr-vertoletnye-uslugi-na-period-osennei-ra/",
+        "local": "sources/ugra-nv/okt-intermunicipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "十月区政府 · 2026秋季 Mi-8 市政航班",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/raspisanie-dvizhen1iya-passazhirskikh-vertoletov-ao-yuteyr-vertoletnye-uslugi/",
+        "local": "sources/ugra-nv/okt-municipal.html",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "十月区政府 · Utair 官网与授权代理购票",
+        "url": "https://oktregion.ru/transport-i-svyaz/raspisaniya-dvizheniya-transporta/vozdushnyy-transport/priobretenie-elektronnykh-biletov-na-munitsipalnye-marshruty/",
+        "local": "sources/ugra-nv/okt-etickets.html",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "title": "十月区政府 · Utair 电子票操作指南（含Sogom示例）",
+        "url": "https://oktregion.ru/upload/docs/transport-i-svyaz/raspisaniya/2026/Pamyatka_pokupki_elektronnikh_biletov_cherez_sait_Aviakompanii.pdf",
+        "local": "sources/ugra-nv/okt-etickets.pdf",
+        "checkedAt": "2026-11-05"
       }
-    ]
+    ],
+    "zh": "Utair 直升机服务"
   },
   {
     "name": "Южный Альянс",
