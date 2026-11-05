@@ -1,8 +1,49 @@
 {
-  "asOf": "2026-11-04",
+  "asOf": "2026-11-05",
   "title": "冷门与线下航线补查",
-  "summary": "本轮新增42条时刻记录，并保留政府年度客运计划、缺时刻的地方航段和特别许可目的地。不同线路的证据完整度逐项标注。",
+  "summary": "11月5日补查亚马尔与极地航空官网：新增73条亚马尔时刻，复核极地航空54条冬季时刻；累计两轮新增115条。逐项保留换季条件、原表冲突和购票渠道。",
   "items": [
+    {
+      "id": "polar-winter-review",
+      "region": "雅库特",
+      "title": "极地航空冬季表：54条时刻已逐行复核",
+      "routeRu": "Якутск — Батагай / Белая Гора / Жиганск / Зырянка / Мома / Нюрба / Олекминск / Саскылах / Саккырыр / Среднеколымск / Сунтар / Тикси / Усть-Куйга",
+      "operator": "Полярные авиалинии · Polar Airlines",
+      "aircraft": "An-24 / An-26；官网另列 Q300 替代可能",
+      "status": "imported",
+      "period": "2026-10-25 至 2027-03-27；部分周四班仅10–12月",
+      "schedule": "官网27行×双向共54条时刻均已在库，本轮未重复新增；另有6条R3营销号记录保留独立查询证据。Мома、Саскылах周五班隔周起算不明，继续标注待确认。",
+      "booking": "官网订票入口或 8 800 100-59-59；各地柜台见航司官网。",
+      "notes": "重新下载网页、Excel、图片和设计PDF，确认这页仅列雅库茨克固定翼冬季表，不含地方Mi-8村际时刻，不能据此宣布该航司全部航线已齐全。共同机型标题不证明每班都是An-24或An-26。",
+      "sources": [
+        {
+          "title": "Полярные авиалинии · 官方冬季时刻页",
+          "url": "https://polar-aero.ru/passazhiru/obshchaya-informatsiya/raspisanie-reysov/",
+          "local": "sources/yamal-polar/polar.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "冬季Excel",
+          "url": "https://polar-aero.ru/upload/2026/расписание%20рекламное%20зима%202026.xlsx",
+          "local": "sources/yamal-polar/polar-winter.xlsx",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "官方设计版PDF",
+          "url": "https://polar-aero.ru/upload/2026/рас_осень26_END.pdf",
+          "local": "sources/yamal-polar/polar-design.pdf",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=polar",
+      "tags": [
+        "Polar",
+        "Polyarnye avialinii",
+        "Саскылах",
+        "Saskylakh"
+      ]
+    },
     {
       "id": "aeroservice",
       "region": "后贝加尔 / 马加丹",
@@ -35,6 +76,34 @@
         "TVS-2MS 待核",
         "Аэросервис",
         "Aeroservis"
+      ]
+    },
+    {
+      "id": "yamal-84-conflict",
+      "region": "亚马尔",
+      "title": "ЯЛ-84/85：Тазовский — Антипаюта 原表起终点冲突",
+      "routeRu": "Тазовский — Антипаюта — Тазовский",
+      "operator": "Ямал · Yamal Helicopter Airline",
+      "aircraft": "Mi-8（官网原行）",
+      "status": "unresolved",
+      "period": "周三；官网未列有效日期",
+      "schedule": "原表“Вылет из”和“А/п назначения”均写Тазовский，经停Антипаюта；另有去程ЯЛ-84 09:10–10:40、返程ЯЛ-85 11:10–12:40。",
+      "booking": "请向Тазовский柜台8 (34940) 2-19-27核实方向和适用日期。",
+      "notes": "时间列看起来像一对往返航班，但目的地字段有矛盾；未自行把它改成直飞或按整条环线导入地图。原行完整保存在逐行审计JSON和官网快照。",
+      "sources": [
+        {
+          "title": "Ямал · 官方时刻 · 第2页",
+          "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/?PAGEN_1=2",
+          "local": "sources/yamal-polar/yamal-2.html",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "checkedAt": "2026-11-05",
+      "tags": [
+        "ЯЛ84",
+        "ЯЛ85",
+        "Tazovsky",
+        "Antipayuta"
       ]
     },
     {
@@ -530,26 +599,54 @@
     {
       "id": "yamal-heli",
       "region": "亚马尔",
-      "title": "Salekhard / Antipayuta 周边直升机网络",
-      "routeRu": "Салехард — Новый Порт; Антипаюта — Тазовский / Новый Уренгой / Находка; Овгорт · Гыда · Питляр · Горки · Кутопьюган · Шурышкары · Ныда",
-      "operator": "Ямал（直升机客运业务，与固定翼YC法人区分）",
-      "aircraft": "Mi-8（报道）",
-      "status": "lead",
-      "period": "2026年地方报道；11月逐线班表待取得",
-      "schedule": "5月报道确认地方客运、远端预约系统与柜台售票。7月Salekhard–NovyPort加班为周二五，不能据此认定11月仍有相同加班。",
-      "booking": "报道列 https://yamalaero.ru/ 和Yamal柜台；问询 +7 34922 2-52-51。部分偏远点已能网上出票，不应全部称为只能线下购票。",
-      "notes": "本轮官网访问受限；将线路与购票线索保留，未捏造当前具体航班。",
+      "title": "亚马尔 Mi-8 / Mi-8T：三页官方地方客运时刻",
+      "routeRu": "Салехард · Лабытнанги · Яр-Сале · Мужи · Мыс Каменный · Новый Порт · Сеяха · Надым — Кутопьюган — Нори — Ныда · Новый Уренгой · Красноселькуп · Тарко-Сале · Толька · Антипаюта · Гыда",
+      "operator": "ООО «Авиационная компания «Ямал» · Yamal Helicopter Airline",
+      "aircraft": "Mi-8 / Mi-8T（单列子型）",
+      "status": "imported",
+      "period": "2026年：逐条保留有效期；换季与无日期记录另标待确认",
+      "schedule": "新增73条时刻：34条按周班期、12条指定日期、22条换季条件、4条未写有效期、1条附加班日期未定。每条含航班号、往返时间、经停、原始俄文班期和来源页码。纳德姆ЯЛ-92/94保留完整环线。",
+      "booking": "https://booking.akyamal.ru/websky/#/search 在线售票；https://akyamal.ru/info/ 各地柜台。萨列哈尔德8 (349) 222-52-52转2200；新乌连戈伊8 (3494) 93-63-88；纳德姆8 958 164 4826。",
+      "notes": "45行逐行审核，剔除4行过期记录和2行往返重复展示；ЯЛ-84/85原表起终点冲突另列。换季和未公布适用期的记录不推演指定日期；星号日期未解释条件，单独显示待确认。原表未注明时区，暂不用于可靠衔接。村镇点明确标为参考坐标；普罗夫斯基与克拉斯诺谢尔库普斯基的两个Толька分别定位。",
       "sources": [
         {
-          "title": "2026-05-07 Antipayuta地方客运与远端系统",
-          "url": "https://ks-yanao.ru/news/obschestvo/v-antipajute-otkrylas-onlajn-registratsija-na-vertoletnye-rejsy"
+          "title": "Ямал · 官方时刻 · 第1页",
+          "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/",
+          "local": "sources/yamal-polar/yamal.html",
+          "checkedAt": "2026-11-05"
         },
         {
-          "title": "2026-05-28 Novy Port柜台售票及7月加班",
-          "url": "https://ks-yanao.ru/news/obschestvo/otkrylas-prodazha-biletov-na-vertolety-iz-saleharda-v-novyj-port"
+          "title": "Ямал · 官方时刻 · 第2页",
+          "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/?PAGEN_1=2",
+          "local": "sources/yamal-polar/yamal-2.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Ямал · 官方时刻 · 第3页",
+          "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/?PAGEN_1=3",
+          "local": "sources/yamal-polar/yamal-3.html",
+          "checkedAt": "2026-11-05"
+        },
+        {
+          "title": "Ямал · 官方柜台地址和电话",
+          "url": "https://akyamal.ru/info/",
+          "local": "sources/yamal-polar/yamal-offices.html",
+          "checkedAt": "2026-11-05"
         }
       ],
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-05",
+      "mapQuery": "airline=yamal-heli",
+      "tags": [
+        "Ямал",
+        "Yamal",
+        "Mi-8T",
+        "Салехард",
+        "Salekhard",
+        "Надым",
+        "Nadym",
+        "Толька",
+        "Tolka"
+      ]
     },
     {
       "id": "menza-year",
@@ -1431,7 +1528,7 @@
   "unresolvedRegions": [
     {
       "region": "雅库特地方直升机",
-      "detail": "当前极地航空固定翼冬季表不能代表整个Mi-8村际网络；本轮未取得可核验的现行逐线班期。"
+      "detail": "2026-11-05重新核对极地航空冬季页及其三种附件，全部仅列雅库茨克固定翼27行；地方Mi-8村际网络仍缺现行逐线班期。"
     },
     {
       "region": "图瓦 / Kyzyl–Kungurtug",

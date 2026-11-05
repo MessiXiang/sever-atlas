@@ -1,7 +1,7 @@
 {
-  "records": 2044,
-  "airports": 304,
-  "operators": 20,
+  "records": 2117,
+  "airports": 335,
+  "operators": 21,
   "organizers": 1,
   "errors": [],
   "possibleSameDayConflicts": 6,
@@ -189,7 +189,7 @@
     "MAG-SINEGORYE"
   ],
   "status": {
-    "confirmed": 1923,
+    "confirmed": 1996,
     "mixed": 91,
     "fleet-supported": 28,
     "conflict": 2

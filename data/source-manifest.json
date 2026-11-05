@@ -7918,5 +7918,215 @@
     "bytes": 7354,
     "sha256": "c68d0e9c49fc128dda76761dbf5878d6cf928d9ef55554e884c4a8244adc30d3",
     "retrievedAt": "2026-11-04"
+  },
+  {
+    "file": "sources/yamal-polar/geo/ANTIPAYUTA.html",
+    "bytes": 262667,
+    "sha256": "ebfd7ee0057f714497796be3db538ec199f5a14120a85c7e188680c3a7c3244c",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/AZOVY.html",
+    "bytes": 201049,
+    "sha256": "e7233748cbb9fb79f8013fd758ae061133c815563255a0ecb411e82aad61a7fd",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/BELOYARSK.html",
+    "bytes": 166287,
+    "sha256": "50085e809c685f22344405c28168afdc56b440e7f34c623ec86c0beb2e74c602",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/GORKI.html",
+    "bytes": 197821,
+    "sha256": "435870c55c16a5f7d5da28445748d15d376ce7bcc46c5bb8bbf2d214fa034a5d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/GYDA.html",
+    "bytes": 242376,
+    "sha256": "d0247a3a6e2e39a9172bd56c5c3bd43c7e212b3ea45b53eb5542f94d372010cb",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/KAZYM-MYS.html",
+    "bytes": 191642,
+    "sha256": "53d10668eba1e2d900ab2c6d10a18ff3f0d734fcd62ef97abb7ab151e6d9cdbd",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/KHALYASAVEY.html",
+    "bytes": 208044,
+    "sha256": "ef56a316db347893e5a77d92e656c03eee9ab2a9cf9247a28b8ea52e4dc9c771",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/KUTOPYUGAN.html",
+    "bytes": 161817,
+    "sha256": "e02fe0f5a8836e7c16881972486838aa403418e2517c0bd747cc086dc39d7061",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/LOPKHARI.html",
+    "bytes": 223031,
+    "sha256": "a7778769ef5a256f18aefa31c7b0d9cf86469093dc63590baa6fa6674c5e46d1",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/MUZHI.html",
+    "bytes": 224021,
+    "sha256": "d68951c4c9b074375e49a53c464a8fddc39437cb6e47b44b991392988277f550",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/MYS-KAMENNY.html",
+    "bytes": 182456,
+    "sha256": "5b42264cfeef38fce55a922d1fae608bdd43c5af04418977f71195c8aca4c524",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/NAKHODKA.html",
+    "bytes": 233854,
+    "sha256": "7c4b27ea385b6600ed78b5acebd141e2901ca8fdbeaa8f79df790b6941cff6ba",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/NORI.html",
+    "bytes": 157951,
+    "sha256": "d2021563109aa9026a065103306834c81475ea50330287489c2cb3917984dc7d",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/NOVY-PORT.html",
+    "bytes": 308514,
+    "sha256": "12c36b4841704322d15be8e64c238763e9ae07bb49d1cf47c0a2b140f113c39e",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/NYDA.html",
+    "bytes": 241492,
+    "sha256": "cac81df64b66e7a7ea83a9264ff7790de8c64f0a5c6e6cf03530b93c44529466",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/OVGORT.html",
+    "bytes": 171937,
+    "sha256": "6a8b0cface81265237e00f996faf49ccce533b21ffc66018dfb728c8ee107507",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/PANAEVSK.html",
+    "bytes": 203464,
+    "sha256": "9bee57f1b34935a96defc75a97bd5a4139984ece1a37c52bce7db4d08ae67e42",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/PITLYAR.html",
+    "bytes": 224929,
+    "sha256": "811a3ecefae6b76b0b873d43b8a954bed666fffbd34e6460f9e8eebed4f5bda6",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/SALEMAL.html",
+    "bytes": 207877,
+    "sha256": "61b9be7d215944f4b6955de0caba2f2468bf4e660ab117d05a13350cdf4f3287",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/SAMBURG.html",
+    "bytes": 222340,
+    "sha256": "c3cffd51b12652f70ca1204c29f75ebf09ea32d4861311951b61f9fc09c907b9",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/SEYAKHA.html",
+    "bytes": 249917,
+    "sha256": "011b837bd896f113e1474a09d5c9d251488f7356512a9b072765a95056258def",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/SHURYSHKARY.html",
+    "bytes": 189818,
+    "sha256": "ccc9429588d24918df32a0f90b74a14b2f92f37547eec1d84e8c078d9dc08efc",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/TAZOVSKY.html",
+    "bytes": 275832,
+    "sha256": "cf98c5422d4997d2a51f993e80e5bbe0aa57fbd1f84aab0b8f04a13cacf34841",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/TOLKA-PUR.html",
+    "bytes": 190598,
+    "sha256": "8cd037361a7eda0fd98165734aa683b0498452a1f7aee37299e510b4d6511752",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/VOSYAKHOVO.html",
+    "bytes": 189269,
+    "sha256": "43fa122881fa9177bc60bdda5af1b661c7897d164fa141b9b7f8e6d355b93a21",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/geo/YAR-SALE.html",
+    "bytes": 213639,
+    "sha256": "80d9de611f740a3e2711c21a81a15e7391153d5983a82a82b64e474e2c4684ca",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/polar-design.pdf",
+    "bytes": 4497691,
+    "sha256": "c4dcabc7a13beaedaa76763389d43dae496c3a6c4854425b067a8be9ac1c5ebb",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/polar-winter.jpg",
+    "bytes": 300836,
+    "sha256": "a26f6b35544447bcc3bcc45ef840ccdb9808e1b94859c8c3804f2387b4c0e406",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/polar-winter.xlsx",
+    "bytes": 20405,
+    "sha256": "b5b58361c5fa81b901367211a269cce6fd646b2314eb79a2199e89be80f42b46",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/polar.html",
+    "bytes": 27852,
+    "sha256": "0f10dabce1d3e154c15ce19a84073e84fec29bc57dd7a1773293f5b76bed972f",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/yamal-2.html",
+    "bytes": 314498,
+    "sha256": "2c2112c7a2ba6f5035494a574b26909494812263abc531b302d0c4a72ee3ed7f",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/yamal-3.html",
+    "bytes": 309080,
+    "sha256": "17a11b5ff2cbdd557c081e2c355dbb0e306b552ba86de1d043f75f93c1b2b239",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/yamal-about.html",
+    "bytes": 255388,
+    "sha256": "10cc09e1cd1c0f3b5f61f8734ec5743c340efdd1dd05aa15299439a9a40528f6",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/yamal-offices.html",
+    "bytes": 255633,
+    "sha256": "33b6f166567cfbe995cc9e5d842eaff452fa9d0ce4efad9013485bce3ddefbe6",
+    "retrievedAt": "2026-11-05"
+  },
+  {
+    "file": "sources/yamal-polar/yamal.html",
+    "bytes": 313233,
+    "sha256": "9fdfebfabdc284e45449dfd785bc4730e1e5a58eb2971a08435a210d81c61334",
+    "retrievedAt": "2026-11-05"
   }
 ]

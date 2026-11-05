@@ -11,7 +11,7 @@ for f in F:
  for d in f.get('dates') or []:
   datetime.date.fromisoformat(d)
   if d<f['start'] or (f['end'] and d>f['end']):errors.append([f['id'],'date outside period',d])
- if not f['aircraft'] or any(x not in ['An-2','TVS','An-24','An-26','An-28','An-38','Yak-40','Yak-42','Mi-8','SSJ100','Tu-204','Tu-214','L-410'] for x in f['aircraft']):errors.append([f['id'],'bad aircraft',f['aircraft']])
+ if not f['aircraft'] or any(x not in ['An-2','TVS','An-24','An-26','An-28','An-38','Yak-40','Yak-42','Mi-8','Mi-8T','SSJ100','Tu-204','Tu-214','L-410'] for x in f['aircraft']):errors.append([f['id'],'bad aircraft',f['aircraft']])
  if f.get('localSource') and not (ROOT/f['localSource']).exists():errors.append([f['id'],'missing snapshot',f['localSource']])
 for a in A.values():
  if a['lat'] is not None and not (-90<=a['lat']<=90 and -180<=a['lon']<=180):errors.append([a['id'],'bad coords'])

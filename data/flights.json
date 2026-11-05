@@ -756,8 +756,8 @@
       "id": "NUX",
       "iata": "NUX",
       "icao": "USMU",
-      "ru": "Novy Urengoy",
-      "zh": null,
+      "ru": "Новый Уренгой",
+      "zh": "新乌连戈伊",
       "en": "Novy Urengoy Airport",
       "lat": 66.06939697265625,
       "lon": 76.52030181884766,
@@ -3468,8 +3468,8 @@
       "id": "NYM",
       "iata": "NYM",
       "icao": "USMM",
-      "ru": "Nadym",
-      "zh": null,
+      "ru": "Надым",
+      "zh": "纳德姆",
       "en": "Nadym Airport",
       "lat": 65.48090362548828,
       "lon": 72.69889831542969,
@@ -4983,6 +4983,533 @@
       "icao": "",
       "iata": "",
       "note": "现用起降点坐标待核；不采用标为 closed 的旧机场坐标。"
+    },
+    "YAN-YAR-SALE": {
+      "id": "YAN-YAR-SALE",
+      "iata": null,
+      "icao": null,
+      "ru": "Яр-Сале",
+      "en": "Yar-Sale",
+      "zh": null,
+      "lat": 66.86333,
+      "lon": 70.83,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80-%D0%A1%D0%B0%D0%BB%D0%B5",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-MUZHI": {
+      "id": "YAN-MUZHI",
+      "iata": null,
+      "icao": null,
+      "ru": "Мужи",
+      "en": "Muzhi",
+      "zh": null,
+      "lat": 65.39806,
+      "lon": 64.69861,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B6%D0%B8_(%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-BELOYARSK": {
+      "id": "YAN-BELOYARSK",
+      "iata": null,
+      "icao": null,
+      "ru": "Белоярск",
+      "en": "Beloyarsk",
+      "zh": null,
+      "lat": 66.86667,
+      "lon": 68.15556,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%8F%D1%80%D1%81%D0%BA_(%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-MYS-KAMENNY": {
+      "id": "YAN-MYS-KAMENNY",
+      "iata": null,
+      "icao": null,
+      "ru": "Мыс Каменный",
+      "en": "Mys Kamenny",
+      "zh": null,
+      "lat": 68.469014,
+      "lon": 73.596312,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%81_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-KAZYM-MYS": {
+      "id": "YAN-KAZYM-MYS",
+      "iata": null,
+      "icao": null,
+      "ru": "Казым-Мыс",
+      "en": "Kazym-Mys",
+      "zh": null,
+      "lat": 64.669932,
+      "lon": 65.637859,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D1%8B%D0%BC-%D0%9C%D1%8B%D1%81",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-OVGORT": {
+      "id": "YAN-OVGORT",
+      "iata": null,
+      "icao": null,
+      "ru": "Овгорт",
+      "en": "Ovgort",
+      "zh": null,
+      "lat": 64.82806,
+      "lon": 63.97194,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B2%D0%B3%D0%BE%D1%80%D1%82",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-GORKI": {
+      "id": "YAN-GORKI",
+      "iata": null,
+      "icao": null,
+      "ru": "Горки",
+      "en": "Gorki",
+      "zh": null,
+      "lat": 65.05317,
+      "lon": 65.28111,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BA%D0%B8_(%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-NOVY-PORT": {
+      "id": "YAN-NOVY-PORT",
+      "iata": null,
+      "icao": null,
+      "ru": "Новый Порт",
+      "en": "Novy Port",
+      "zh": null,
+      "lat": 67.69194,
+      "lon": 72.89639,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9F%D0%BE%D1%80%D1%82",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-LOPKHARI": {
+      "id": "YAN-LOPKHARI",
+      "iata": null,
+      "icao": null,
+      "ru": "Лопхари",
+      "en": "Lopkhari",
+      "zh": null,
+      "lat": 64.98333,
+      "lon": 65.75833,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D1%85%D0%B0%D1%80%D0%B8",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-SEYAKHA": {
+      "id": "YAN-SEYAKHA",
+      "iata": null,
+      "icao": null,
+      "ru": "Сеяха",
+      "en": "Seyakha",
+      "zh": null,
+      "lat": 70.16667,
+      "lon": 72.50833,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%8F%D1%85%D0%B0",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-AZOVY": {
+      "id": "YAN-AZOVY",
+      "iata": null,
+      "icao": null,
+      "ru": "Азовы",
+      "en": "Azovy",
+      "zh": null,
+      "lat": 64.892984,
+      "lon": 65.0637,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D0%B2%D1%8B",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-KUTOPYUGAN": {
+      "id": "YAN-KUTOPYUGAN",
+      "iata": null,
+      "icao": null,
+      "ru": "Кутопьюган",
+      "en": "Kutopyugan",
+      "zh": null,
+      "lat": 66.321449,
+      "lon": 70.382706,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%BE%D0%BF%D1%8C%D1%8E%D0%B3%D0%B0%D0%BD",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-ANTIPAYUTA": {
+      "id": "YAN-ANTIPAYUTA",
+      "iata": null,
+      "icao": null,
+      "ru": "Антипаюта",
+      "en": "Antipayuta",
+      "zh": null,
+      "lat": 69.1,
+      "lon": 76.86667,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%B0%D1%8E%D1%82%D0%B0",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-TAZOVSKY": {
+      "id": "YAN-TAZOVSKY",
+      "iata": null,
+      "icao": null,
+      "ru": "Тазовский",
+      "en": "Tazovsky",
+      "zh": null,
+      "lat": 67.47389,
+      "lon": 78.72472,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-TOLKA-PUR": {
+      "id": "YAN-TOLKA-PUR",
+      "iata": null,
+      "icao": null,
+      "ru": "Толька (Пуровский район)",
+      "en": "Tolka (Purovsky District)",
+      "zh": null,
+      "lat": 63.39722,
+      "lon": 80.0875,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%B0_(%D0%9F%D1%83%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-SAMBURG": {
+      "id": "YAN-SAMBURG",
+      "iata": null,
+      "icao": null,
+      "ru": "Самбург",
+      "en": "Samburg",
+      "zh": null,
+      "lat": 67.003493,
+      "lon": 78.223876,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-KHALYASAVEY": {
+      "id": "YAN-KHALYASAVEY",
+      "iata": null,
+      "icao": null,
+      "ru": "Халясавэй",
+      "en": "Khalyasavey",
+      "zh": null,
+      "lat": 63.3860028,
+      "lon": 78.326556,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D1%8F%D1%81%D0%B0%D0%B2%D1%8D%D0%B9",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-GYDA": {
+      "id": "YAN-GYDA",
+      "iata": null,
+      "icao": null,
+      "ru": "Гыда",
+      "en": "Gyda",
+      "zh": null,
+      "lat": 70.8947917,
+      "lon": 78.5039361,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%93%D1%8B%D0%B4%D0%B0_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-NAKHODKA": {
+      "id": "YAN-NAKHODKA",
+      "iata": null,
+      "icao": null,
+      "ru": "Находка",
+      "en": "Nakhodka",
+      "zh": null,
+      "lat": 67.71667,
+      "lon": 77.65,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D0%BA%D0%B0_(%D0%AF%D0%BC%D0%B0%D0%BB%D0%BE-%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-SALEMAL": {
+      "id": "YAN-SALEMAL",
+      "iata": null,
+      "icao": null,
+      "ru": "Салемал",
+      "en": "Salemal",
+      "zh": null,
+      "lat": 66.76111,
+      "lon": 69.15972,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B5%D0%BC%D0%B0%D0%BB",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-PANAEVSK": {
+      "id": "YAN-PANAEVSK",
+      "iata": null,
+      "icao": null,
+      "ru": "Панаевск",
+      "en": "Panaevsk",
+      "zh": null,
+      "lat": 66.74556,
+      "lon": 70.09083,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%B5%D0%B2%D1%81%D0%BA",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-SHURYSHKARY": {
+      "id": "YAN-SHURYSHKARY",
+      "iata": null,
+      "icao": null,
+      "ru": "Шурышкары",
+      "en": "Shuryshkary",
+      "zh": null,
+      "lat": 65.9025,
+      "lon": 65.35083,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D1%80%D1%8B%D1%88%D0%BA%D0%B0%D1%80%D1%8B",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-VOSYAKHOVO": {
+      "id": "YAN-VOSYAKHOVO",
+      "iata": null,
+      "icao": null,
+      "ru": "Восяхово",
+      "en": "Vosyakhovo",
+      "zh": null,
+      "lat": 65.575496,
+      "lon": 64.599765,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%8F%D1%85%D0%BE%D0%B2%D0%BE",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-PITLYAR": {
+      "id": "YAN-PITLYAR",
+      "iata": null,
+      "icao": null,
+      "ru": "Питляр",
+      "en": "Pitlyar",
+      "zh": null,
+      "lat": 65.8400398,
+      "lon": 65.9136772,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%BB%D1%8F%D1%80_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-NORI": {
+      "id": "YAN-NORI",
+      "iata": null,
+      "icao": null,
+      "ru": "Нори",
+      "en": "Nori",
+      "zh": null,
+      "lat": 66.14417,
+      "lon": 72.41917,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B8_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "YAN-NYDA": {
+      "id": "YAN-NYDA",
+      "iata": null,
+      "icao": null,
+      "ru": "Ныда",
+      "en": "Nyda",
+      "zh": null,
+      "lat": 66.629737,
+      "lon": 72.927076,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "All points within Yamalo-Nenets Autonomous Okrug (UTC+5); geographic coordinates cross-checked.",
+      "coordinateStatus": "settlement",
+      "coordinateSource": "https://ru.wikipedia.org/wiki/%D0%9D%D1%8B%D0%B4%D0%B0_(%D1%81%D0%B5%D0%BB%D0%BE)",
+      "coordinateNote": "村镇参考点；官网公布的起降场位置未独立确认，不等同精确直升机场坐标。"
+    },
+    "SLY": {
+      "id": "SLY",
+      "iata": "SLY",
+      "icao": "USDD",
+      "sourceCode": "USDD",
+      "ru": "Салехард",
+      "en": "Salekhard",
+      "zh": "萨列哈尔德",
+      "lat": 66.5907974243164,
+      "lon": 66.61100006103516,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
+      "coordinateStatus": "airport",
+      "coordinateSource": "https://ourairports.com/airports/USDD/"
+    },
+    "KKQ": {
+      "id": "KKQ",
+      "iata": "KKQ",
+      "icao": "USDP",
+      "sourceCode": "USDP",
+      "ru": "Красноселькуп",
+      "en": "Krasnoselkup",
+      "zh": null,
+      "lat": 65.717,
+      "lon": 82.455,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
+      "coordinateStatus": "airport",
+      "coordinateSource": "https://ourairports.com/airports/USDP/"
+    },
+    "TQL": {
+      "id": "TQL",
+      "iata": "TQL",
+      "icao": "USDS",
+      "sourceCode": "USDS",
+      "ru": "Тарко-Сале",
+      "en": "Tarko-Sale",
+      "zh": null,
+      "lat": 64.930485,
+      "lon": 77.811295,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
+      "coordinateStatus": "airport",
+      "coordinateSource": "https://ourairports.com/airports/USDS/"
+    },
+    "YAN-TOLKA-KRAS": {
+      "id": "YAN-TOLKA-KRAS",
+      "iata": null,
+      "icao": "USDO",
+      "sourceCode": "USDO",
+      "ru": "Толька (Красноселькупский район)",
+      "en": "Tolka (Krasnoselkupsky District)",
+      "zh": null,
+      "lat": 63.987808,
+      "lon": 82.050889,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
+      "coordinateStatus": "airport",
+      "coordinateSource": "https://ourairports.com/airports/USDO/"
+    },
+    "YAN-LABYTNANGI": {
+      "id": "YAN-LABYTNANGI",
+      "iata": null,
+      "icao": null,
+      "sourceCode": "USDL",
+      "ru": "Лабытнанги",
+      "en": "Labytnangi",
+      "zh": null,
+      "lat": 66.67449951171875,
+      "lon": 66.44200134277344,
+      "region": "RU-YAN",
+      "tz": "Asia/Yekaterinburg",
+      "tzVerified": true,
+      "timezoneSource": "IANA Asia/Yekaterinburg; all route points within Yamalo-Nenets Autonomous Okrug.",
+      "coordinateStatus": "airport",
+      "coordinateSource": "https://ourairports.com/airports/USDL/"
     }
   },
   "flights": [
@@ -17749,14 +18276,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B19:K19",
-      "id": "f-973962f953e4"
+      "id": "f-973962f953e4",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17778,14 +18306,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B19:K19",
-      "id": "f-ba761b58007e"
+      "id": "f-ba761b58007e",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17807,14 +18336,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B20:K20",
-      "id": "f-7332ed38b126"
+      "id": "f-7332ed38b126",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17836,14 +18366,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B20:K20",
-      "id": "f-da8ae3a4581f"
+      "id": "f-da8ae3a4581f",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17865,14 +18396,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B21:K21",
-      "id": "f-1bb4301242bc"
+      "id": "f-1bb4301242bc",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17894,14 +18426,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B21:K21",
-      "id": "f-1fd0586b0002"
+      "id": "f-1fd0586b0002",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17923,14 +18456,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B22:K22",
-      "id": "f-fc3f6f17d8db"
+      "id": "f-fc3f6f17d8db",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17952,14 +18486,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B22:K22",
-      "id": "f-492a717f17f0"
+      "id": "f-492a717f17f0",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -17981,14 +18516,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B23:K23",
-      "id": "f-77f5ca56466a"
+      "id": "f-77f5ca56466a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18010,14 +18546,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B23:K23",
-      "id": "f-42351ac85951"
+      "id": "f-42351ac85951",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18039,14 +18576,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B24:K24",
-      "id": "f-f308479311b6"
+      "id": "f-f308479311b6",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18068,14 +18606,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B24:K24",
-      "id": "f-df65fac3920e"
+      "id": "f-df65fac3920e",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18097,14 +18636,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B25:K25",
-      "id": "f-126973e58e43"
+      "id": "f-126973e58e43",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18126,14 +18666,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B25:K25",
-      "id": "f-29bb6ad1818e"
+      "id": "f-29bb6ad1818e",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18155,14 +18696,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B26:K26",
-      "id": "f-4e9d24510ca7"
+      "id": "f-4e9d24510ca7",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18184,14 +18726,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B26:K26",
-      "id": "f-01c2dc0f021b"
+      "id": "f-01c2dc0f021b",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18213,14 +18756,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B27:K27",
-      "id": "f-e50fd269f418"
+      "id": "f-e50fd269f418",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18242,14 +18786,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B27:K27",
-      "id": "f-c6804c34d770"
+      "id": "f-c6804c34d770",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18271,14 +18816,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B28:K28",
-      "id": "f-b75a1d62f766"
+      "id": "f-b75a1d62f766",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18300,14 +18846,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B28:K28",
-      "id": "f-371b5955fea9"
+      "id": "f-371b5955fea9",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18329,14 +18876,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。每两周一次；官网未给出可独立核实的首班日期。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "biweekly-unconfirmed",
       "sourceLocator": "Зима-26!B29:K29",
-      "id": "f-dc0bf732f8d1"
+      "id": "f-dc0bf732f8d1",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18358,14 +18906,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。每两周一次；官网未给出可独立核实的首班日期。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "biweekly-unconfirmed",
       "sourceLocator": "Зима-26!B29:K29",
-      "id": "f-f93d26bfe7e7"
+      "id": "f-f93d26bfe7e7",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18387,14 +18936,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B30:K30",
-      "id": "f-14ce4de7a4ce"
+      "id": "f-14ce4de7a4ce",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18414,16 +18964,24 @@
       "end": "2027-03-23",
       "dates": null,
       "source": "polar",
-      "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。",
+      "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。 官网注明与Нюрба/Сунтар合并执行；地图中经停顺序依据两地列出的共同起降及中间时刻推定，需向航司确认。未假定中间航段可单独购票。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B30:K30",
-      "id": "f-59094978e47a"
+      "id": "f-59094978e47a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx",
+      "route": [
+        "NYR",
+        "SUY",
+        "YKS"
+      ],
+      "routeKind": "combined",
+      "routeInference": "Ordering inferred from combined-service note and published endpoint times."
     },
     {
       "airline": "polar",
@@ -18445,14 +19003,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B31:K31",
-      "id": "f-55c8d93b04b1"
+      "id": "f-55c8d93b04b1",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18474,14 +19033,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B31:K31",
-      "id": "f-e6be0915528a"
+      "id": "f-e6be0915528a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18503,14 +19063,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B32:K32",
-      "id": "f-c5f025f386a6"
+      "id": "f-c5f025f386a6",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18532,14 +19093,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B32:K32",
-      "id": "f-7f21717f981a"
+      "id": "f-7f21717f981a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18561,14 +19123,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B33:K33",
-      "id": "f-5fa72d19a4e0"
+      "id": "f-5fa72d19a4e0",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18590,14 +19153,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B33:K33",
-      "id": "f-51437e899589"
+      "id": "f-51437e899589",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18619,14 +19183,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。每两周一次；官网未给出可独立核实的首班日期。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "biweekly-unconfirmed",
       "sourceLocator": "Зима-26!B34:K34",
-      "id": "f-2329ed9693b8"
+      "id": "f-2329ed9693b8",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18648,14 +19213,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。每两周一次；官网未给出可独立核实的首班日期。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "biweekly-unconfirmed",
       "sourceLocator": "Зима-26!B34:K34",
-      "id": "f-34660b13b418"
+      "id": "f-34660b13b418",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18677,14 +19243,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B35:K35",
-      "id": "f-6480f554a0e9"
+      "id": "f-6480f554a0e9",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18706,14 +19273,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B35:K35",
-      "id": "f-f90759ae317d"
+      "id": "f-f90759ae317d",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18735,14 +19303,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B36:K36",
-      "id": "f-cf1aa7ef86be"
+      "id": "f-cf1aa7ef86be",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18764,14 +19333,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B36:K36",
-      "id": "f-68d27ecfb9d0"
+      "id": "f-68d27ecfb9d0",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18793,14 +19363,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B37:K37",
-      "id": "f-088fb76eea61"
+      "id": "f-088fb76eea61",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18822,14 +19393,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B37:K37",
-      "id": "f-ede3950557e2"
+      "id": "f-ede3950557e2",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18851,14 +19423,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B38:K38",
-      "id": "f-10338cf9dd5a"
+      "id": "f-10338cf9dd5a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18880,14 +19453,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B38:K38",
-      "id": "f-fa51d5a17831"
+      "id": "f-fa51d5a17831",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18907,16 +19481,24 @@
       "end": "2027-03-23",
       "dates": null,
       "source": "polar",
-      "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。",
+      "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。 官网注明与Нюрба/Сунтар合并执行；地图中经停顺序依据两地列出的共同起降及中间时刻推定，需向航司确认。未假定中间航段可单独购票。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B39:K39",
-      "id": "f-b367c472b081"
+      "id": "f-b367c472b081",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx",
+      "route": [
+        "YKS",
+        "NYR",
+        "SUY"
+      ],
+      "routeKind": "combined",
+      "routeInference": "Ordering inferred from combined-service note and published endpoint times."
     },
     {
       "airline": "polar",
@@ -18938,14 +19520,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。与 Нюрба / Сунтар 联合航路，可能经停。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B39:K39",
-      "id": "f-1eaec510ee11"
+      "id": "f-1eaec510ee11",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18967,14 +19550,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B40:K40",
-      "id": "f-109120d10d19"
+      "id": "f-109120d10d19",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -18996,14 +19580,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B40:K40",
-      "id": "f-c7aa413d2a7a"
+      "id": "f-c7aa413d2a7a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19025,14 +19610,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B41:K41",
-      "id": "f-a35568487d84"
+      "id": "f-a35568487d84",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19054,14 +19640,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B41:K41",
-      "id": "f-2a44c85c67f4"
+      "id": "f-2a44c85c67f4",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19083,14 +19670,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B42:K42",
-      "id": "f-993bfe79612b"
+      "id": "f-993bfe79612b",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19112,14 +19700,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B42:K42",
-      "id": "f-db26effdc88e"
+      "id": "f-db26effdc88e",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19141,14 +19730,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B43:K43",
-      "id": "f-229e0e51276f"
+      "id": "f-229e0e51276f",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19170,14 +19760,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B43:K43",
-      "id": "f-29b8af76e630"
+      "id": "f-29b8af76e630",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19199,14 +19790,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B44:K44",
-      "id": "f-2f15d2d2086a"
+      "id": "f-2f15d2d2086a",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19228,14 +19820,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B44:K44",
-      "id": "f-0c5e6d95b00b"
+      "id": "f-0c5e6d95b00b",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19257,14 +19850,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B45:K45",
-      "id": "f-b449e123b336"
+      "id": "f-b449e123b336",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "polar",
@@ -19286,14 +19880,15 @@
       "source": "polar",
       "note": "该区块统一标注 Ан-24, Ан-26-100, Q-300，单班机型未锁定。",
       "status": "mixed",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-05",
       "timeBasis": "local",
       "alternatives": [
         "DHC-8 Q300"
       ],
       "recurrence": "weekly",
       "sourceLocator": "Зима-26!B45:K45",
-      "id": "f-e88a9019873d"
+      "id": "f-e88a9019873d",
+      "localSource": "sources/yamal-polar/polar-winter.xlsx"
     },
     {
       "airline": "arctic",
@@ -82997,6 +83592,3237 @@
         "source": "https://ap-avia.ru/"
       },
       "durationMinutes": 120
+    },
+    {
+      "id": "yp-de88ec53fe70",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-50",
+      "from": "SLY",
+      "to": "YAN-YAR-SALE",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:30",
+      "arrival": "11:00",
+      "days": [
+        2,
+        6
+      ],
+      "start": "2026-01-03",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 6  с 03.01.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-SALEMAL",
+        "YAN-PANAEVSK",
+        "YAN-YAR-SALE"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-744fd2721c06",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-51",
+      "from": "YAN-YAR-SALE",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:05",
+      "arrival": "12:35",
+      "days": [
+        2,
+        6
+      ],
+      "start": "2026-01-03",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 6  с 03.01.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-YAR-SALE",
+        "YAN-PANAEVSK",
+        "YAN-SALEMAL",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-624739b51916",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-30",
+      "from": "SLY",
+      "to": "YAN-YAR-SALE",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:40",
+      "arrival": "11:30",
+      "days": [
+        1,
+        5
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 5 с 12.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 2",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-2f8308e36a9b",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-31",
+      "from": "YAN-YAR-SALE",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:40",
+      "arrival": "12:30",
+      "days": [
+        1,
+        5
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 5 с 12.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 2",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-b14c1ad235db",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-52",
+      "from": "SLY",
+      "to": "YAN-MUZHI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:30",
+      "arrival": "11:35",
+      "days": [
+        4,
+        7
+      ],
+      "start": "2026-10-11",
+      "end": "2026-12-27",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "7  с 11.10.26г. по 28.12.26г. По датам: 15.10, 29.10, 05.11, 19.11.26г.",
+      "dateBasis": "官网每周日班期加列出的周四日期；展开日期与原文均保留。",
+      "dates": [
+        "2026-10-11",
+        "2026-10-15",
+        "2026-10-18",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-11-01",
+        "2026-11-05",
+        "2026-11-08",
+        "2026-11-15",
+        "2026-11-19",
+        "2026-11-22",
+        "2026-11-29",
+        "2026-12-06",
+        "2026-12-13",
+        "2026-12-20",
+        "2026-12-27"
+      ],
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-SHURYSHKARY",
+        "YAN-VOSYAKHOVO",
+        "YAN-MUZHI"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-f104b9faf20b",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-53",
+      "from": "YAN-MUZHI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:40",
+      "arrival": "12:45",
+      "days": [
+        4,
+        7
+      ],
+      "start": "2026-10-11",
+      "end": "2026-12-27",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "7  с 11.10.26г. по 28.12.26г. По датам: 15.10, 29.10, 05.11, 19.11.26г.",
+      "dateBasis": "官网每周日班期加列出的周四日期；展开日期与原文均保留。",
+      "dates": [
+        "2026-10-11",
+        "2026-10-15",
+        "2026-10-18",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-11-01",
+        "2026-11-05",
+        "2026-11-08",
+        "2026-11-15",
+        "2026-11-19",
+        "2026-11-22",
+        "2026-11-29",
+        "2026-12-06",
+        "2026-12-13",
+        "2026-12-20",
+        "2026-12-27"
+      ],
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-MUZHI",
+        "YAN-VOSYAKHOVO",
+        "YAN-SHURYSHKARY",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-b9ab16a088a5",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-18",
+      "from": "SLY",
+      "to": "YAN-MUZHI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "МИ-8",
+      "departure": "14:10",
+      "arrival": "15:00",
+      "days": [
+        1
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-07",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1  с 12.10.26г. по 07.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 4",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-1c6656fa0b0e",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-19",
+      "from": "YAN-MUZHI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "МИ-8",
+      "departure": "15:10",
+      "arrival": "16:00",
+      "days": [
+        1
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-07",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1  с 12.10.26г. по 07.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 4",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-ffdf3c9b7cac",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-54",
+      "from": "SLY",
+      "to": "YAN-BELOYARSK",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "13:40",
+      "arrival": "14:10",
+      "days": [
+        2,
+        6
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2,6 (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 5",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-43a537127755",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-55",
+      "from": "YAN-BELOYARSK",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "14:20",
+      "arrival": "14:50",
+      "days": [
+        2,
+        6
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2,6 (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 5",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-58f0221365f0",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-36",
+      "from": "SLY",
+      "to": "YAN-MYS-KAMENNY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:20",
+      "arrival": "11:20",
+      "days": [
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-25",
+      "recurrence": "weekly",
+      "scheduleOriginal": "5 с 02.10.26г. по 25.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 6",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-acb478f30b94",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-37",
+      "from": "YAN-MYS-KAMENNY",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:50",
+      "arrival": "13:50",
+      "days": [
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-25",
+      "recurrence": "weekly",
+      "scheduleOriginal": "5 с 02.10.26г. по 25.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 6",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-91fde508f9d1",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-58",
+      "from": "SLY",
+      "to": "YAN-KAZYM-MYS",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:10",
+      "arrival": "11:50",
+      "days": [
+        2
+      ],
+      "start": "2026-10-13",
+      "end": "2026-12-22",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "2 по датам: 13.10, 27.10, 10.11, 24.11, 08.12, 22.12.26г.",
+      "dates": [
+        "2026-10-13",
+        "2026-10-27",
+        "2026-11-10",
+        "2026-11-24",
+        "2026-12-08",
+        "2026-12-22"
+      ],
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 7",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-MUZHI",
+        "YAN-GORKI",
+        "YAN-KAZYM-MYS"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-dd0752ee7ddb",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-59",
+      "from": "YAN-KAZYM-MYS",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "13:40",
+      "days": [
+        2
+      ],
+      "start": "2026-10-13",
+      "end": "2026-12-22",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "2 по датам: 13.10, 27.10, 10.11, 24.11, 08.12, 22.12.26г.",
+      "dates": [
+        "2026-10-13",
+        "2026-10-27",
+        "2026-11-10",
+        "2026-11-24",
+        "2026-12-08",
+        "2026-12-22"
+      ],
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 7",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-KAZYM-MYS",
+        "YAN-GORKI",
+        "YAN-MUZHI",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-08c23d6aa36e",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-60",
+      "from": "SLY",
+      "to": "YAN-OVGORT",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:30",
+      "arrival": "11:55",
+      "days": [
+        1,
+        4
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 4  с 12.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 8",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-MUZHI",
+        "YAN-OVGORT"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-6803340b42ee",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-61",
+      "from": "YAN-OVGORT",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "13:25",
+      "days": [
+        1,
+        4
+      ],
+      "start": "2026-10-12",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 4  с 12.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 8",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-OVGORT",
+        "YAN-MUZHI",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-6afb3be4f2a9",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-62",
+      "from": "SLY",
+      "to": "YAN-GORKI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:20",
+      "arrival": "11:40",
+      "days": [
+        3,
+        5
+      ],
+      "start": "2026-10-14",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "3, 5  с 14.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 9",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-PITLYAR",
+        "YAN-MUZHI",
+        "YAN-GORKI"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-8c63836bff18",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-63",
+      "from": "YAN-GORKI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:45",
+      "arrival": "13:05",
+      "days": [
+        3,
+        5
+      ],
+      "start": "2026-10-14",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "3, 5  с 14.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 9",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-GORKI",
+        "YAN-MUZHI",
+        "YAN-PITLYAR",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-6c6d0a07e31d",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-64",
+      "from": "SLY",
+      "to": "YAN-NOVY-PORT",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:50",
+      "arrival": "11:25",
+      "days": [
+        2
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2 (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 10",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。 仅在换季交通中断期间执行，官网未给本轮起止日期。",
+      "route": [
+        "SLY",
+        "YAN-YAR-SALE",
+        "YAN-NOVY-PORT"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-451dab5cb9ae",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-65",
+      "from": "YAN-NOVY-PORT",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:35",
+      "arrival": "13:05",
+      "days": [
+        2
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2 (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 10",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。 仅在换季交通中断期间执行，官网未给本轮起止日期。",
+      "route": [
+        "YAN-NOVY-PORT",
+        "YAN-YAR-SALE",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-980c63d28c7a",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-34",
+      "from": "SLY",
+      "to": "YAN-NOVY-PORT",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:50",
+      "arrival": "11:20",
+      "days": [
+        5
+      ],
+      "start": "2026-10-16",
+      "end": "2026-12-25",
+      "recurrence": "weekly",
+      "scheduleOriginal": "5 с 16.10.26г. по 25.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 11",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-de1a87cd23c0",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-35",
+      "from": "YAN-NOVY-PORT",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:50",
+      "arrival": "13:20",
+      "days": [
+        5
+      ],
+      "start": "2026-10-16",
+      "end": "2026-12-25",
+      "recurrence": "weekly",
+      "scheduleOriginal": "5 с 16.10.26г. по 25.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 11",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-dcc135ecba02",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-66",
+      "from": "SLY",
+      "to": "YAN-LOPKHARI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:30",
+      "arrival": "11:45",
+      "days": [
+        2
+      ],
+      "start": "2026-10-13",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2 с 13.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 12",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-MUZHI",
+        "YAN-LOPKHARI"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-3e7d9d50cbb5",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-67",
+      "from": "YAN-LOPKHARI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:50",
+      "arrival": "13:05",
+      "days": [
+        2
+      ],
+      "start": "2026-10-13",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2 с 13.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 12",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-LOPKHARI",
+        "YAN-MUZHI",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-8868d9f89339",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-68",
+      "from": "SLY",
+      "to": "YAN-SEYAKHA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:00",
+      "arrival": "12:30",
+      "days": [
+        1,
+        4
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 4 с 01.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 13",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-YAR-SALE",
+        "YAN-MYS-KAMENNY",
+        "YAN-SEYAKHA"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-ba744e4bdc54",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-69",
+      "from": "YAN-SEYAKHA",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "13:00",
+      "arrival": "16:20",
+      "days": [
+        1,
+        4
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 4 с 01.10.26г. по 28.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 13",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-SEYAKHA",
+        "YAN-MYS-KAMENNY",
+        "YAN-YAR-SALE",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-de759a2f5741",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-28",
+      "from": "SLY",
+      "to": "YAN-SEYAKHA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:00",
+      "arrival": "11:50",
+      "days": [
+        2
+      ],
+      "start": "2026-10-06",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2 с 06.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 14",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-65ee3f0093ac",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-29",
+      "from": "YAN-SEYAKHA",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:20",
+      "arrival": "15:10",
+      "days": [
+        2
+      ],
+      "start": "2026-10-06",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2 с 06.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 14",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-66185983e0e6",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "07:00",
+      "arrival": "07:20",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 15",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-912821835e12",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "07:40",
+      "arrival": "08:00",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 15",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-afa67c304442",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70Д",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "08:30",
+      "arrival": "08:50",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 16",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-2327362720d3",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71Д",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:10",
+      "arrival": "09:30",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 16",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-85c1cb1411cf",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70Е",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:00",
+      "arrival": "10:20",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 17",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-bdc9cbe4142b",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71Е",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:40",
+      "arrival": "11:00",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 17",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-a9fbfae51ded",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70К",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:30",
+      "arrival": "11:50",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 18",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-1052bed472a3",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71К",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:10",
+      "arrival": "12:30",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 18",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-43b5c911cad5",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70Л",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "13:15",
+      "arrival": "13:35",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 19",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-ee776b4e9774",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71Л",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "13:55",
+      "arrival": "14:15",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 19",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-88376998dc9a",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70Н",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "14:45",
+      "arrival": "15:05",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 20",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-5501e863f025",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71Н",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "15:25",
+      "arrival": "15:45",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-1",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal.html / table row 20",
+      "localSource": "sources/yamal-polar/yamal.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-39effe8893eb",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70П",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "16:15",
+      "arrival": "16:35",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-750b98ac0703",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71П",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "16:55",
+      "arrival": "17:15",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-824f0819bcbc",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-70Р",
+      "from": "SLY",
+      "to": "YAN-LABYTNANGI",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "17:45",
+      "arrival": "18:05",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 2",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-de2e68473280",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-71Р",
+      "from": "YAN-LABYTNANGI",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "18:25",
+      "arrival": "18:45",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "ЕЖЕДНЕВНО (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 2",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-6d5be614ba29",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-74",
+      "from": "SLY",
+      "to": "YAN-AZOVY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:20",
+      "arrival": "11:55",
+      "days": [
+        7
+      ],
+      "start": "2026-10-11",
+      "end": "2026-12-20",
+      "recurrence": "weekly",
+      "scheduleOriginal": "7 с 11.10.26г. по 20.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-MUZHI",
+        "YAN-GORKI",
+        "YAN-AZOVY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-c964c1c628ee",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-75",
+      "from": "YAN-AZOVY",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "13:45",
+      "days": [
+        7
+      ],
+      "start": "2026-10-11",
+      "end": "2026-12-20",
+      "recurrence": "weekly",
+      "scheduleOriginal": "7 с 11.10.26г. по 20.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-AZOVY",
+        "YAN-GORKI",
+        "YAN-MUZHI",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-95d8f31da4f0",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-44",
+      "from": "NUX",
+      "to": "YAN-ANTIPAYUTA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:30",
+      "arrival": "12:50",
+      "days": [
+        1,
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 5 с 02.10.26  по 28.12.26",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 6",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-f5e90a30da4d",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-45",
+      "from": "YAN-ANTIPAYUTA",
+      "to": "NUX",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "13:30",
+      "arrival": "15:50",
+      "days": [
+        1,
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-28",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 5 с 02.10.26  по 28.12.26",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 6",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-2e4a5f70fb4b",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-41",
+      "from": "NUX",
+      "to": "KKQ",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "13:35",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 4, 6 с 01.10.26г  по 29.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 7",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-7d43c69a94fe",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-40",
+      "from": "KKQ",
+      "to": "NUX",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:00",
+      "arrival": "10:35",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 4, 6 с 01.10.26г  по 29.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 7",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-44a5ab875b45",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-72",
+      "from": "YAN-TAZOVSKY",
+      "to": "NUX",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:10",
+      "arrival": "10:10",
+      "days": [
+        2
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2  (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 9",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-4805fcf4e893",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-73",
+      "from": "NUX",
+      "to": "YAN-TAZOVSKY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "13:00",
+      "days": [
+        2
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "seasonal-unconfirmed",
+      "scheduleOriginal": "2  (В ПЕРИОД МЕЖСЕЗОНЬЯ)",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 9",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 仅在换季交通中断期间执行，官网未给本轮起止日期。"
+    },
+    {
+      "id": "yp-45ff8d5f3d7a",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-78",
+      "from": "TQL",
+      "to": "YAN-TOLKA-KRAS",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:40",
+      "arrival": "11:00",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 4, 6 с 01.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 10",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-01b9cd124f97",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-79",
+      "from": "YAN-TOLKA-KRAS",
+      "to": "TQL",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:40",
+      "arrival": "13:00",
+      "days": [
+        2,
+        4,
+        6
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-29",
+      "recurrence": "weekly",
+      "scheduleOriginal": "2, 4, 6 с 01.10.26г. по 29.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 10",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-bb8c47ceb732",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-92",
+      "from": "NYM",
+      "to": "NYM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:00",
+      "arrival": "12:50",
+      "days": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "start": "2026-01-03",
+      "end": "2026-12-28",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "03, 08, 15, 22, 29 января 2026 г. 05, 12, 19, 26 февраля 2026 г. 05, 12, 19, 26 марта 2026 г. 02, 09, 16, 23, 29 апреля 2026 г. 04, 08, 13, 18, 22, 28 мая 2026 г. 01, 05, 11, 15, 19, 25, 29 июня 2026 г.  03, 09, 13, 17, 24, 30 июля 2026 г. 03, 07, 13, 17, 21, 27, 31 августа 2026 г.  04, 10, 14, 18, 24, 28 сентября 2026 г. 02, 08, 12, 16, 22, 26, 30 октября 2026 г. 05, 09, 13, 18, 23, 30 ноября 2026 г.   07, 14, 21, 28 декабря 2026 г.",
+      "dates": [
+        "2026-01-03",
+        "2026-01-08",
+        "2026-01-15",
+        "2026-01-22",
+        "2026-01-29",
+        "2026-02-05",
+        "2026-02-12",
+        "2026-02-19",
+        "2026-02-26",
+        "2026-03-05",
+        "2026-03-12",
+        "2026-03-19",
+        "2026-03-26",
+        "2026-04-02",
+        "2026-04-09",
+        "2026-04-16",
+        "2026-04-23",
+        "2026-04-29",
+        "2026-05-04",
+        "2026-05-08",
+        "2026-05-13",
+        "2026-05-18",
+        "2026-05-22",
+        "2026-05-28",
+        "2026-06-01",
+        "2026-06-05",
+        "2026-06-11",
+        "2026-06-15",
+        "2026-06-19",
+        "2026-06-25",
+        "2026-06-29",
+        "2026-07-03",
+        "2026-07-09",
+        "2026-07-13",
+        "2026-07-17",
+        "2026-07-24",
+        "2026-07-30",
+        "2026-08-03",
+        "2026-08-07",
+        "2026-08-13",
+        "2026-08-17",
+        "2026-08-21",
+        "2026-08-27",
+        "2026-08-31",
+        "2026-09-04",
+        "2026-09-10",
+        "2026-09-14",
+        "2026-09-18",
+        "2026-09-24",
+        "2026-09-28",
+        "2026-10-02",
+        "2026-10-08",
+        "2026-10-12",
+        "2026-10-16",
+        "2026-10-22",
+        "2026-10-26",
+        "2026-10-30",
+        "2026-11-05",
+        "2026-11-09",
+        "2026-11-13",
+        "2026-11-18",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 11",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "NYM",
+        "YAN-KUTOPYUGAN",
+        "YAN-NORI",
+        "YAN-NYDA",
+        "NYM"
+      ],
+      "routeKind": "circuit"
+    },
+    {
+      "id": "yp-2d4d0a447fcb",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-94",
+      "from": "NYM",
+      "to": "NYM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:00",
+      "arrival": "12:50",
+      "days": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "start": "2026-01-05",
+      "end": "2026-12-30",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "05, 12, 19, 26 января 2026 г. 02, 09, 16, 23 февраля 2026 г. 02, 09, 16, 23, 30 марта 2026 г. 06, 13, 20, 27 апреля 2026 г. 01, 06, 11, 15, 21, 25, 29 мая 2026 г. 04, 08, 12, 18, 22, 26 июня 2026 г. 02, 06, 10, 16, 20, 27, 31 июля 2026 г. 06, 10, 14, 20, 24, 28 августа 2026 г. 03, 07, 11, 17, 21, 25 сентября 2026 г. 01, 05, 09, 15, 19, 23, 29 октября 2026 г. 02, 06, 11, 16, 20, 26 ноября 2026 г. 03, 10, 17, 24, 30 декабря 2026 г.",
+      "dates": [
+        "2026-01-05",
+        "2026-01-12",
+        "2026-01-19",
+        "2026-01-26",
+        "2026-02-02",
+        "2026-02-09",
+        "2026-02-16",
+        "2026-02-23",
+        "2026-03-02",
+        "2026-03-09",
+        "2026-03-16",
+        "2026-03-23",
+        "2026-03-30",
+        "2026-04-06",
+        "2026-04-13",
+        "2026-04-20",
+        "2026-04-27",
+        "2026-05-01",
+        "2026-05-06",
+        "2026-05-11",
+        "2026-05-15",
+        "2026-05-21",
+        "2026-05-25",
+        "2026-05-29",
+        "2026-06-04",
+        "2026-06-08",
+        "2026-06-12",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-26",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-10",
+        "2026-07-16",
+        "2026-07-20",
+        "2026-07-27",
+        "2026-07-31",
+        "2026-08-06",
+        "2026-08-10",
+        "2026-08-14",
+        "2026-08-20",
+        "2026-08-24",
+        "2026-08-28",
+        "2026-09-03",
+        "2026-09-07",
+        "2026-09-11",
+        "2026-09-17",
+        "2026-09-21",
+        "2026-09-25",
+        "2026-10-01",
+        "2026-10-05",
+        "2026-10-09",
+        "2026-10-15",
+        "2026-10-19",
+        "2026-10-23",
+        "2026-10-29",
+        "2026-11-02",
+        "2026-11-06",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-20",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-30"
+      ],
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 12",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "NYM",
+        "YAN-NYDA",
+        "YAN-NORI",
+        "YAN-KUTOPYUGAN",
+        "NYM"
+      ],
+      "routeKind": "circuit"
+    },
+    {
+      "id": "yp-34350f9136ea",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-92Д",
+      "from": "NYM",
+      "to": "NYM",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "10:00",
+      "arrival": "12:50",
+      "days": [],
+      "start": "2026-01-03",
+      "end": "2026-12-30",
+      "recurrence": "additional-unconfirmed",
+      "scheduleOriginal": "с 03.01.2026 г. по 30.12.2026 г.",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 14",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。 附加班未公布具体执飞日期或星期。",
+      "route": [
+        "NYM",
+        "YAN-KUTOPYUGAN",
+        "YAN-NORI",
+        "YAN-NYDA",
+        "NYM"
+      ],
+      "routeKind": "circuit"
+    },
+    {
+      "id": "yp-c395cd3f3fbd",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-90",
+      "from": "KKQ",
+      "to": "YAN-TOLKA-KRAS",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:00",
+      "arrival": "10:15",
+      "days": [
+        1
+      ],
+      "start": "2026-01-12",
+      "end": "2026-12-31",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1 с 12.01.2026г по 31.12.2026г",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 15",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-d7490ec2b804",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-91",
+      "from": "YAN-TOLKA-KRAS",
+      "to": "KKQ",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:00",
+      "arrival": "12:15",
+      "days": [
+        1
+      ],
+      "start": "2026-01-12",
+      "end": "2026-12-31",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1 с 12.01.2026г по 31.12.2026г",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 15",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-ba8784da5935",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-88",
+      "from": "YAN-TAZOVSKY",
+      "to": "YAN-ANTIPAYUTA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:10",
+      "arrival": "10:40",
+      "days": [
+        5
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "period-unconfirmed",
+      "scheduleOriginal": "5",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 16",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。 官网有星期和时刻但未公布适用日期区间。",
+      "route": [
+        "YAN-TAZOVSKY",
+        "YAN-NAKHODKA",
+        "YAN-ANTIPAYUTA"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-ca0a8d19d6e3",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-89",
+      "from": "YAN-ANTIPAYUTA",
+      "to": "YAN-TAZOVSKY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:10",
+      "arrival": "12:40",
+      "days": [
+        5
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "period-unconfirmed",
+      "scheduleOriginal": "5",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 16",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。 官网有星期和时刻但未公布适用日期区间。",
+      "route": [
+        "YAN-ANTIPAYUTA",
+        "YAN-NAKHODKA",
+        "YAN-TAZOVSKY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-8ceb9d8ae871",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-76",
+      "from": "YAN-TAZOVSKY",
+      "to": "YAN-GYDA",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:10",
+      "arrival": "12:00",
+      "days": [
+        2,
+        4
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "period-unconfirmed",
+      "scheduleOriginal": "2,4",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 17",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 官网有星期和时刻但未公布适用日期区间。"
+    },
+    {
+      "id": "yp-ecbf4aa6f9d5",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-77",
+      "from": "YAN-GYDA",
+      "to": "YAN-TAZOVSKY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:30",
+      "arrival": "15:20",
+      "days": [
+        2,
+        4
+      ],
+      "start": null,
+      "end": null,
+      "recurrence": "period-unconfirmed",
+      "scheduleOriginal": "2,4",
+      "scheduleUnconfirmed": true,
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 17",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 官网有星期和时刻但未公布适用日期区间。"
+    },
+    {
+      "id": "yp-2a202fa8db67",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-81",
+      "from": "TQL",
+      "to": "KKQ",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:00",
+      "arrival": "10:20",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 3, 5 с 02.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 19",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-ef972536f32f",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-80",
+      "from": "KKQ",
+      "to": "TQL",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "11:00",
+      "arrival": "12:20",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "start": "2026-10-02",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 3, 5 с 02.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-2",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-2.html / table row 19",
+      "localSource": "sources/yamal-polar/yamal-2.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。"
+    },
+    {
+      "id": "yp-6af4db8ebe4c",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-56",
+      "from": "SLY",
+      "to": "YAN-MYS-KAMENNY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "09:20",
+      "arrival": "11:35",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 3 с 01.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。",
+      "route": [
+        "SLY",
+        "YAN-YAR-SALE",
+        "YAN-NOVY-PORT",
+        "YAN-MYS-KAMENNY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-015b0c8b65d7",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-57",
+      "from": "YAN-MYS-KAMENNY",
+      "to": "SLY",
+      "aircraft": [
+        "Mi-8"
+      ],
+      "aircraftOriginal": "Ми-8",
+      "departure": "12:00",
+      "arrival": "14:20",
+      "days": [
+        1,
+        3
+      ],
+      "start": "2026-10-01",
+      "end": "2026-12-30",
+      "recurrence": "weekly",
+      "scheduleOriginal": "1, 3 с 01.10.26г. по 30.12.26г.",
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 1",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 保留官网经停顺序；未公布中途起降时间。返程经停按公布往返线路反向展示，逐站时刻待确认。",
+      "route": [
+        "YAN-MYS-KAMENNY",
+        "YAN-NOVY-PORT",
+        "YAN-YAR-SALE",
+        "SLY"
+      ],
+      "routeKind": "via"
+    },
+    {
+      "id": "yp-0dc68d3b7a9f",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-12",
+      "from": "TQL",
+      "to": "YAN-SAMBURG",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "10:00",
+      "arrival": "11:40",
+      "days": [
+        2,
+        4
+      ],
+      "start": "2026-05-07",
+      "end": "2026-11-17",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "07.05, 14.05, 19.05, 21.05, 26.05, 28.05*, 02.06, 04.06, 09.06*, 13.10, 15.10, 20.10, 27.10*, 03.11, 10.11, 17.11*26г.",
+      "unconfirmedDates": [
+        "2026-05-28",
+        "2026-06-09",
+        "2026-10-27",
+        "2026-11-17"
+      ],
+      "dates": [
+        "2026-05-07",
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-21",
+        "2026-05-26",
+        "2026-05-28",
+        "2026-06-02",
+        "2026-06-04",
+        "2026-06-09",
+        "2026-10-13",
+        "2026-10-15",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 星号日期的执行条件未在表内说明，保留供查询，但不作为已确认日期计算衔接。",
+      "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "yp-a900e1351edb",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-13",
+      "from": "YAN-SAMBURG",
+      "to": "TQL",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "11:50",
+      "arrival": "13:35",
+      "days": [
+        2,
+        4
+      ],
+      "start": "2026-05-07",
+      "end": "2026-11-17",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "07.05, 14.05, 19.05, 21.05, 26.05, 28.05*, 02.06, 04.06, 09.06*, 13.10, 15.10, 20.10, 27.10*, 03.11, 10.11, 17.11*26г.",
+      "unconfirmedDates": [
+        "2026-05-28",
+        "2026-06-09",
+        "2026-10-27",
+        "2026-11-17"
+      ],
+      "dates": [
+        "2026-05-07",
+        "2026-05-14",
+        "2026-05-19",
+        "2026-05-21",
+        "2026-05-26",
+        "2026-05-28",
+        "2026-06-02",
+        "2026-06-04",
+        "2026-06-09",
+        "2026-10-13",
+        "2026-10-15",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 3",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 星号日期的执行条件未在表内说明，保留供查询，但不作为已确认日期计算衔接。",
+      "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "yp-ad35bc9a0b62",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-14",
+      "from": "TQL",
+      "to": "YAN-KHALYASAVEY",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "10:00",
+      "arrival": "11:35",
+      "days": [
+        2
+      ],
+      "start": "2026-04-07",
+      "end": "2026-12-08",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "07.04, 21.04*, 12.05, 26.05*, 09.06, 16.06, 23.06, 30.06*,  07.07, 21.07, 28.07*, 04.08, 18.08, 25.08*, 01.09,22.09, 29.09*, 13.10, 27.10*, 10.11, 24.11*, 08.12*.26г.",
+      "unconfirmedDates": [
+        "2026-04-21",
+        "2026-05-26",
+        "2026-06-30",
+        "2026-07-28",
+        "2026-08-25",
+        "2026-09-29",
+        "2026-10-27",
+        "2026-11-24",
+        "2026-12-08"
+      ],
+      "dates": [
+        "2026-04-07",
+        "2026-04-21",
+        "2026-05-12",
+        "2026-05-26",
+        "2026-06-09",
+        "2026-06-16",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-07-07",
+        "2026-07-21",
+        "2026-07-28",
+        "2026-08-04",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-13",
+        "2026-10-27",
+        "2026-11-10",
+        "2026-11-24",
+        "2026-12-08"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 4",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 星号日期的执行条件未在表内说明，保留供查询，但不作为已确认日期计算衔接。",
+      "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "yp-da3f1f70a92a",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-15",
+      "from": "YAN-KHALYASAVEY",
+      "to": "TQL",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "11:45",
+      "arrival": "13:20",
+      "days": [
+        2
+      ],
+      "start": "2026-04-07",
+      "end": "2026-12-08",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "07.04, 21.04*, 12.05, 26.05*, 09.06, 16.06, 23.06, 30.06*,  07.07, 21.07, 28.07*, 04.08, 18.08, 25.08*, 01.09,22.09, 29.09*, 13.10, 27.10*, 10.11, 24.11*, 08.12*.26г.",
+      "unconfirmedDates": [
+        "2026-04-21",
+        "2026-05-26",
+        "2026-06-30",
+        "2026-07-28",
+        "2026-08-25",
+        "2026-09-29",
+        "2026-10-27",
+        "2026-11-24",
+        "2026-12-08"
+      ],
+      "dates": [
+        "2026-04-07",
+        "2026-04-21",
+        "2026-05-12",
+        "2026-05-26",
+        "2026-06-09",
+        "2026-06-16",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-07-07",
+        "2026-07-21",
+        "2026-07-28",
+        "2026-08-04",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-13",
+        "2026-10-27",
+        "2026-11-10",
+        "2026-11-24",
+        "2026-12-08"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 4",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。 星号日期的执行条件未在表内说明，保留供查询，但不作为已确认日期计算衔接。",
+      "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "yp-2de1dcf27be5",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-16",
+      "from": "TQL",
+      "to": "YAN-TOLKA-PUR",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "10:00",
+      "arrival": "11:30",
+      "days": [
+        5
+      ],
+      "start": "2026-01-23",
+      "end": "2026-12-18",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "23.01, 06.02, 06.03, 10.04, 08.05, 05.06, 10.07, 07.08, 11.09, 09.10, 13.11, 18.12.26г.",
+      "dates": [
+        "2026-01-23",
+        "2026-02-06",
+        "2026-03-06",
+        "2026-04-10",
+        "2026-05-08",
+        "2026-06-05",
+        "2026-07-10",
+        "2026-08-07",
+        "2026-09-11",
+        "2026-10-09",
+        "2026-11-13",
+        "2026-12-18"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 5",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。",
+      "aircraftParent": "Mi-8"
+    },
+    {
+      "id": "yp-0a37dc0c83ef",
+      "airline": "yamal-heli",
+      "number": "ЯЛ-17",
+      "from": "YAN-TOLKA-PUR",
+      "to": "TQL",
+      "aircraft": [
+        "Mi-8T"
+      ],
+      "aircraftOriginal": "МИ-8Т",
+      "departure": "12:30",
+      "arrival": "14:00",
+      "days": [
+        5
+      ],
+      "start": "2026-01-23",
+      "end": "2026-12-18",
+      "recurrence": "specified-dates",
+      "scheduleOriginal": "23.01, 06.02, 06.03, 10.04, 08.05, 05.06, 10.07, 07.08, 11.09, 09.10, 13.11, 18.12.26г.",
+      "dates": [
+        "2026-01-23",
+        "2026-02-06",
+        "2026-03-06",
+        "2026-04-10",
+        "2026-05-08",
+        "2026-06-05",
+        "2026-07-10",
+        "2026-08-07",
+        "2026-09-11",
+        "2026-10-09",
+        "2026-11-13",
+        "2026-12-18"
+      ],
+      "source": "yamal-heli-3",
+      "status": "confirmed",
+      "checkedAt": "2026-11-05",
+      "timeBasis": "unconfirmed",
+      "sourceLocator": "yamal-3.html / table row 5",
+      "localSource": "sources/yamal-polar/yamal-3.html",
+      "arrivalDayOffset": 0,
+      "publicAccess": "published-schedule",
+      "booking": {
+        "method": "官网在线售票 / 地方柜台",
+        "url": "https://booking.akyamal.ru/websky/#/search",
+        "source": "https://akyamal.ru/info/",
+        "text": "官网提供网上售票与各村镇柜台。萨列哈尔德：8 (349) 222-52-52 转2200；新乌连戈伊：8 (3494) 93-63-88；纳德姆：8 958 164 4826；其余点见官方柜台清单。"
+      },
+      "note": "官网公开客运时刻。原表未注明时区；全部航点位于亚马尔同一时区，出行前需向航司确认时间口径。",
+      "aircraftParent": "Mi-8"
     }
   ],
   "sources": {
@@ -83013,9 +86839,16 @@
       "page": "https://polar-aero.ru/passazhiru/obshchaya-informatsiya/raspisanie-reysov/",
       "title": "Полярные авиалинии · Зима-26",
       "type": "xlsx",
-      "local": "sources/polar-winter-2026.xlsx",
+      "local": "sources/yamal-polar/polar-winter.xlsx",
       "valid": "2026-10-25 至 2027-03-27",
-      "note": "已对照同页 PDF。机型仅按雅库茨克出发整体列示 An-24 / An-26-100 / Q300，不能确定单班机型。"
+      "note": "2026-11-05重新取回并逐行对照Excel、网页图片和设计PDF：27行×双向=54条时刻，全部已在库。共同机型标题Ан-24 / Ан-26-100 / Q300，不代表每班锁定An型号。本页没有地方Mi-8班表。",
+      "checkedAt": "2026-11-05",
+      "snapshots": [
+        "sources/yamal-polar/polar.html",
+        "sources/yamal-polar/polar-winter.xlsx",
+        "sources/yamal-polar/polar-winter.jpg",
+        "sources/yamal-polar/polar-design.pdf"
+      ]
     },
     "chuko_an": {
       "url": "https://chukotavia.ru/ru/article/view/id/512/",
@@ -83163,6 +86996,33 @@
       "type": "html",
       "valid": "仅预约页列出的 2026 年 11 月计划日期",
       "note": "新地岛需要特别许可，一般无法进入。该公司是包机组织方；本次资料未独立确认执飞法人。预约页未逐班标机型，Yak-42D 来自公司业务介绍。"
+    },
+    "yamal-heli-1": {
+      "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/",
+      "title": "Ямал · Mi-8 官方时刻表 · 第1页",
+      "type": "html",
+      "local": "sources/yamal-polar/yamal.html",
+      "valid": "按各条有效期、指定日期或换季条件",
+      "checkedAt": "2026-11-05",
+      "note": "三个分页共45行。官网同时保留过期、换季和日期未定班次；未把这些条件展开为每日实际执飞。原表未注明时区，详情保留官网时间并标待确认。"
+    },
+    "yamal-heli-2": {
+      "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/?PAGEN_1=2",
+      "title": "Ямал · Mi-8 官方时刻表 · 第2页",
+      "type": "html",
+      "local": "sources/yamal-polar/yamal-2.html",
+      "valid": "按各条有效期、指定日期或换季条件",
+      "checkedAt": "2026-11-05",
+      "note": "三个分页共45行。官网同时保留过期、换季和日期未定班次；未把这些条件展开为每日实际执飞。原表未注明时区，详情保留官网时间并标待确认。"
+    },
+    "yamal-heli-3": {
+      "url": "https://akyamal.ru/passazhiram/raspisanie-dvizheniya/?PAGEN_1=3",
+      "title": "Ямал · Mi-8 官方时刻表 · 第3页",
+      "type": "html",
+      "local": "sources/yamal-polar/yamal-3.html",
+      "valid": "按各条有效期、指定日期或换季条件",
+      "checkedAt": "2026-11-05",
+      "note": "三个分页共45行。官网同时保留过期、换季和日期未定班次；未把这些条件展开为每日实际执飞。原表未注明时区，详情保留官网时间并标待确认。"
     }
   },
   "airlines": {
@@ -83296,6 +87156,15 @@
       "url": "https://ap-avia.ru/",
       "en": "Arktika Perevozki",
       "role": "organizer"
+    },
+    "yamal-heli": {
+      "ru": "Ямал (авиационная компания)",
+      "en": "Yamal Helicopter Airline",
+      "zh": "亚马尔直升机航空",
+      "code": "ЯЛ",
+      "url": "https://akyamal.ru/",
+      "legal": "ООО «Авиационная компания «Ямал»",
+      "note": "直升机承运人，与 YC / LLM 固定翼亚马尔航空分开。"
     }
   },
   "issues": [
@@ -83390,8 +87259,8 @@
       "occurrences": 1
     }
   ],
-  "asOf": "2026-11-04",
-  "version": "2026.11.04-remote-routes",
+  "asOf": "2026-11-05",
+  "version": "2026.11.05-yamal-polar",
   "coverage": [
     {
       "name": "2-й Архангельский объединённый авиаотряд",
@@ -83671,10 +87540,10 @@
       "generalAviationCertificate": "",
       "zh": "极地航空",
       "url": "https://polar-aero.ru/",
-      "note": "已读取冬季 XLSX 并对照 PDF。An-24 / An-26-100 / Q300 共用机型标题；单班必须另行确认。",
+      "note": "2026-11-05对照官网图片、XLSX及PDF，54条冬季时刻均已收录；另有6条R3营销号查询证据。无新时刻遗漏；地方Mi-8网络不在此表内，仍待取得逐线计划。",
       "airlineId": "polar",
       "records": 60,
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-05"
     },
     {
       "name": "Россия",
@@ -83994,10 +87863,13 @@
       "review": "partial",
       "aerialWorkCertificate": "АР-155 от 17.01.2023",
       "generalAviationCertificate": "",
-      "url": "https://yamalaero.ru/",
-      "note": "2026地方报道确认Mi-8网络和柜台/网上售票并存。不能将7月加班推为11月时刻；11月逐航线计划未取回。",
-      "checkedAt": "2026-11-04",
-      "evidence": []
+      "url": "https://akyamal.ru/",
+      "note": "官网三页45行已完整核对，新增73条Mi-8 / Mi-8T时刻。按官网分别保留经停、环线、换季条件和指定日期；4行已过期，2行是往返重复展示，ЯЛ-84/85原表起终点冲突待确认。",
+      "checkedAt": "2026-11-05",
+      "evidence": [],
+      "zh": "亚马尔直升机航空",
+      "airlineId": "yamal-heli",
+      "records": 73
     },
     {
       "name": "223-й лётный отряд",
@@ -88449,9 +92321,9 @@
     "file": "data/geography-corrections.json"
   },
   "remoteResearch": {
-    "asOf": "2026-11-04",
+    "asOf": "2026-11-05",
     "url": "remote-routes.html",
-    "addedTimetableRecords": 42,
+    "addedTimetableRecords": 115,
     "references": {
       "aeroservice-winter": {
         "title": "Аэросервис · 2026 冬季官方时刻",
@@ -88568,5 +92440,16 @@
         "checkedAt": "2026-11-04"
       }
     }
-  }
+  },
+  "timetableReviews": [
+    {
+      "date": "2026-11-05",
+      "airlines": [
+        "yamal-heli",
+        "polar"
+      ],
+      "addedRecords": 73,
+      "audit": "data/yamal-polar-audit.json"
+    }
+  ]
 }

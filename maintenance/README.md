@@ -42,3 +42,5 @@ carrier 允许6r（ALROSA）、kv（KrasAvia）、wz（Red Wings）。请求使�
 
 10. 三字符 IATA 不等于 OurAirports ident：NYA 必须对应 USHN；Бурный 必须结合航司 БУЫ、埃文基地域和相邻航段，不能自动配成 ULSJ。村镇点保留 coordinateStatus=settlement。
 11. 更改机场或航班 ID 时更新 airportAliases / flightAliases，保留浏览器旧筛选和行程；执行地理回归校验。
+
+12. 亚马尔直升机与YC/LLM分开。Mi-8T单列并用aircraftParent=Mi-8；scheduleUnconfirmed不展开日期，unconfirmedDates保留原星号并排除确定日期匹配，timeBasis=unconfirmed不计算可靠衔接。不得以checkedAt补造有效期。

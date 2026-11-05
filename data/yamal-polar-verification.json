@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-05",
+  "base": "http://127.0.0.1:8765/",
+  "report": {
+    "total": 2117,
+    "yamal": 73,
+    "mi8t": 6,
+    "airports": 335,
+    "unconfirmed": 27,
+    "polar": 54
+  },
+  "checks": {
+    "seasonalDates": [],
+    "seasonalActive": false,
+    "muNov5": true,
+    "muNov12": false,
+    "samburgNov10": true,
+    "samburgStarNov17": false,
+    "nadymNov5": true,
+    "nadymNov6": false,
+    "nadymReverseNov6": true,
+    "unknownPeriod": false,
+    "reliableTiming": null,
+    "tolly": true,
+    "noInvented84": true
+  },
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "scrollW": 1440,
+      "scrollH": 900,
+      "list": 635
+    },
+    {
+      "width": 1024,
+      "height": 600,
+      "scrollW": 1024,
+      "scrollH": 600,
+      "list": 372
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollW": 390,
+      "scrollH": 6203,
+      "list": 5430
+    }
+  ],
+  "errors": [],
+  "regressionChecks": [
+    "Nyagan USHN and Evenki Burny/KV783 geography",
+    "penguin avatar and appreciation dialog",
+    "Cyrillic/Latin search on map, overview and sources",
+    "compact header, collapsing filter options, flight list visibility",
+    "desktop viewport containment and list scrolling"
+  ]
+}

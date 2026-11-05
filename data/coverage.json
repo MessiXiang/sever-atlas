@@ -277,10 +277,10 @@
     "generalAviationCertificate": "",
     "zh": "极地航空",
     "url": "https://polar-aero.ru/",
-    "note": "已读取冬季 XLSX 并对照 PDF。An-24 / An-26-100 / Q300 共用机型标题；单班必须另行确认。",
+    "note": "2026-11-05对照官网图片、XLSX及PDF，54条冬季时刻均已收录；另有6条R3营销号查询证据。无新时刻遗漏；地方Mi-8网络不在此表内，仍待取得逐线计划。",
     "airlineId": "polar",
     "records": 60,
-    "checkedAt": "2026-11-04"
+    "checkedAt": "2026-11-05"
   },
   {
     "name": "Россия",
@@ -600,10 +600,13 @@
     "review": "partial",
     "aerialWorkCertificate": "АР-155 от 17.01.2023",
     "generalAviationCertificate": "",
-    "url": "https://yamalaero.ru/",
-    "note": "2026地方报道确认Mi-8网络和柜台/网上售票并存。不能将7月加班推为11月时刻；11月逐航线计划未取回。",
-    "checkedAt": "2026-11-04",
-    "evidence": []
+    "url": "https://akyamal.ru/",
+    "note": "官网三页45行已完整核对，新增73条Mi-8 / Mi-8T时刻。按官网分别保留经停、环线、换季条件和指定日期；4行已过期，2行是往返重复展示，ЯЛ-84/85原表起终点冲突待确认。",
+    "checkedAt": "2026-11-05",
+    "evidence": [],
+    "zh": "亚马尔直升机航空",
+    "airlineId": "yamal-heli",
+    "records": 73
   },
   {
     "name": "223-й лётный отряд",
