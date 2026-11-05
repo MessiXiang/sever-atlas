@@ -277,7 +277,6 @@
       mapped = [...used].filter(id => ll(id)),
       rs = new Set(visible.flatMap(f => segments(f).map(s => s.slice().sort().join('|'))));
     $('mapStats').innerHTML = `<div><strong>${mapped.length}</strong><span>地图航点</span></div><div><strong>${rs.size}</strong><span>双向合并航线</span></div><div><strong>${new Set(visible.map(f=>f.airline)).size}</strong><span>已收录航司</span></div>`;
-    $('mapTip').textContent = '悬停机场预览，点击筛选' + (used.size > mapped.length ? ' · ' + (used.size - mapped.length) + ' 个航点坐标待核实' : '');
     if (!map) return;
     routeLayer.clearLayers();
     markerLayer.clearLayers();
@@ -704,6 +703,7 @@
     renderMap()
   };
   $('appreciationButton').onclick = () => $('appreciationDialog').showModal();
+  $('contactButton').onclick = () => $('contactDialog').showModal();
   $('tripButton').onclick = () => {
     renderTrip();
     $('tripDialog').showModal()

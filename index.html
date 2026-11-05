@@ -7,22 +7,18 @@
   <meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
   <link href="assets/penguin-avatar.jpg" rel="icon" type="image/jpeg"/>
   <title>
-   北境航迹 · Soviet &amp; Russian Aircraft Atlas
+   毛机指南 by Messerschmitt.X
   </title>
   <link href="assets/leaflet.css" rel="stylesheet"/>
   <link href="style.css" rel="stylesheet"/>
  </head>
  <body class="titles-collapsed" data-page="explore">
   <header class="app-header" id="appHeader">
-   <a aria-label="北境航迹首页" class="brand" href="#">
+   <a aria-label="毛机指南 by Messerschmitt.X 首页" class="brand" href="#">
     <img class="brand-avatar" src="assets/penguin-avatar.jpg" width="44" height="44" alt="企鹅头像"/>
-    <span>
-     <strong>
-      北境航迹
-     </strong>
-     <small>
-      SEVER · FLIGHT ATLAS
-     </small>
+    <span class="brand-copy">
+     <strong>毛机指南</strong>
+     <span class="brand-byline">by Messerschmitt.X</span>
     </span>
    </a>
    <nav aria-label="主导航">
@@ -52,6 +48,10 @@
      </span>
     </button>
     <button class="appreciation-button" id="appreciationButton" aria-haspopup="dialog" aria-controls="appreciationDialog"><span aria-hidden="true">♡</span> 赞赏</button>
+    <div class="header-social">
+     <button class="header-link" id="contactButton" aria-haspopup="dialog" aria-controls="contactDialog">联系我</button>
+     <a class="header-link github-star" id="githubStar" href="https://github.com/MessiXiang/sever-atlas" target="_blank" rel="noopener noreferrer" aria-label="在 GitHub 为毛机指南仓库点 Star（新窗口打开）" title="在 GitHub 上支持这个项目"><svg aria-hidden="true" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="m12 3 2.78 5.63L21 9.54l-4.5 4.39 1.06 6.2L12 17.2l-5.56 2.93 1.06-6.2L3 9.54l6.22-.91L12 3Z"/></svg><span>Star</span></a>
+    </div>
     <button id="headerToggle" class="layout-icon" aria-label="展开标题区" aria-expanded="false" aria-controls="mapTitle" title="展开标题区">↕</button>
    </div>
   </header>
@@ -216,9 +216,6 @@
      </div>
      <div class="map-stats" id="mapStats">
      </div>
-    </div>
-    <div class="map-tip" id="mapTip">
-     悬停机场预览，点击机场筛选航班
     </div>
    </section>
   </main>
@@ -394,6 +391,15 @@
      清空行程
     </button>
    </div>
+  </dialog>
+  <dialog id="contactDialog" aria-labelledby="contactTitle">
+   <button aria-label="关闭联系方式" class="dialog-close" autofocus>×</button>
+   <span class="eyebrow">MESSERSCHMITT.X</span>
+   <h2 id="contactTitle">联系我</h2>
+   <dl class="contact-details">
+    <div><dt>邮箱</dt><dd><a href="mailto:3495812558@qq.com">3495812558@qq.com</a></dd></div>
+    <div><dt>QQ</dt><dd>3495812558</dd></div>
+   </dl>
   </dialog>
   <dialog id="appreciationDialog" aria-labelledby="appreciationTitle" aria-describedby="appreciationDescription">
    <button aria-label="关闭赞赏二维码" class="dialog-close" autofocus>×</button>
