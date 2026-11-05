@@ -13,7 +13,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## Geographic data
 
-- Natural Earth country polygons: public domain, https://www.naturalearthdata.com/ . Cartographic reference, not a statement of political boundaries.
+- Natural Earth polygon subset: public domain, https://www.naturalearthdata.com/ . This edition ships only a limited Russia reference layer from the prior repository dataset, excluding its separate Crimea polygon; it is not an approved political boundary map.
 - OurAirports airport data: public domain, https://ourairports.com/data/ . Individual entries are referenced in airport.coordinateSource.
 - Russian Wikipedia roster and settlement coordinates: CC BY-SA 4.0; original page URLs retained. Roster: https://ru.wikipedia.org/wiki/Список_действующих_авиакомпаний_России . Text is summarized and status annotations are original research.
 - timezonefinder 9.2 / timezone-boundary-builder geographic lookup and browser IANA Intl rules inform timezone verification; timezonefinder code is not shipped in the browser.

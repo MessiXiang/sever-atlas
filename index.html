@@ -5,7 +5,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
 <meta content="#f7f8fa" name="theme-color"/>
-<meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
+<meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线示意图、班期查询与旅行规划工具。" name="description"/>
 <link href="assets/maoji-icon.png" rel="icon" type="image/png"/>
 <title>毛机指南 · 小红书版</title>
 <link href="assets/leaflet.css" rel="stylesheet"/>
@@ -22,7 +22,7 @@
 </div>
 <nav aria-label="主导航">
 <button class="nav active" data-view="explore" disabled="">
-     探索地图
+     探索航线
     </button>
 <button class="nav" data-view="flights" disabled="">
      航班总览
@@ -51,8 +51,8 @@
 <div class="phone-only phone-explore-bar">
 <div class="phone-search"><span aria-hidden="true">⌕</span><input aria-label="搜索机场、航司或航班号，支持中俄英" enterkeyhint="search" id="phoneSearch" placeholder="机场 / 航司 / 航班号 · 中俄英" type="search"/></div>
 <div class="phone-view-controls">
-<div aria-label="地图与航班列表" class="phone-view-switch" role="group">
-<button aria-pressed="true" data-phone-view="map" disabled="" id="phoneMapView">地图</button>
+<div aria-label="航线图与航班列表" class="phone-view-switch" role="group">
+<button aria-pressed="true" data-phone-view="map" disabled="" id="phoneMapView">航线图</button>
 <button aria-pressed="false" data-phone-view="list" disabled="" id="phoneListView">航班 <span id="phoneResultCount"></span></button>
 </div>
 <button aria-controls="phoneFilterDialog" aria-haspopup="dialog" class="phone-filter-button" disabled="" id="phoneFilters">筛选 <span id="phoneFilterCount"></span><svg aria-hidden="true" fill="none" height="16" stroke="currentColor" stroke-width="1.6" viewbox="0 0 24 24" width="16"><path d="M4 6h16M7 12h10M10 18h4"></path></svg></button>
@@ -147,9 +147,9 @@
      </span>
 </div>
 </aside>
-<section aria-label="航线交互地图" class="map-section">
+<section aria-label="航线交互示意图" class="map-section">
 <div class="phone-only phone-map-actions">
-<select aria-label="跳转地图区域" id="phoneRegion"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
+<select aria-label="跳转航点区域" id="phoneRegion"><option value="">选择区域</option><option value="all">全部</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
 <button aria-label="清除机场筛选" disabled="" hidden="" id="phoneAirportChip"></button>
 </div>
 <section aria-label="机场预览" class="airport-preview" hidden="" id="airportPreview" tabindex="-1">
@@ -157,7 +157,8 @@
 <div aria-live="polite" class="airport-preview-content" id="airportPreviewContent"></div>
 <div class="airport-preview-actions" id="airportPreviewActions"></div>
 </section>
-<div aria-label="航线地图，可拖动、双指缩放或点选机场" id="map">
+<div class="route-diagram-note" id="routeDiagramNote"><strong>俄罗斯区域参考 · 航点连线示意</strong><span>其他地区未绘制 · 连线非实际飞行路径</span></div>
+<div aria-describedby="routeDiagramNote" aria-label="航线示意图，可拖动、双指缩放或点选机场" id="map">
 </div>
 <div class="map-top">
 <div class="map-title" id="mapTitle">
@@ -172,7 +173,7 @@
 </div>
 <div class="region-tabs">
 <button class="selected" data-region="all" disabled="">
-       全境
+       全部
       </button>
 <button data-region="west" disabled="">
        欧洲北部
@@ -240,12 +241,12 @@
       航班总览
      </h1>
 <p>
-      与地图共用筛选条件。点击一行查看班期、有效期和官方来源。
+      与航线图共用筛选条件。点击一行查看班期、有效期和官方来源。
      </p>
 </div>
 
 </div>
-<div class="directory-search"><label for="tableSearch">搜索航班</label><input id="tableSearch" placeholder="机场 / 航司 / 航班号 · 中俄英与俄语转写" type="search"/><span>与地图同步筛选</span></div>
+<div class="directory-search"><label for="tableSearch">搜索航班</label><input id="tableSearch" placeholder="机场 / 航司 / 航班号 · 中俄英与俄语转写" type="search"/><span>与航线图同步筛选</span></div>
 <div class="table-wrap">
 <table>
 <thead>
@@ -313,15 +314,14 @@
      清空行程
     </button>
 </div>
-<p class="offline-credit">本地航线资料 · Natural Earth / OurAirports · 航班计划可能调整</p></dialog>
+<p class="offline-credit">本地航线资料 · OurAirports · 航班计划可能调整</p></dialog>
 
 
 <div id="toast" role="status">
 </div>
 <script src="minitool-runtime.js"></script><script src="assets/leaflet.js">
 </script>
-<script src="data/geography.js">
-</script>
+<script src="data/geography-russia.js"></script>
 <script src="data/flights.js">
 </script>
 <script src="assets/search.js">

@@ -11,7 +11,7 @@ FILES = (
     'index.html', 'style.css', 'app.js', 'minitool-runtime.js', 'legal-notices.js',
     'assets/leaflet.css', 'assets/leaflet.js', 'assets/search.js',
     'assets/maoji-icon.png', 'assets/maoji-logo.png',
-    'data/flights.js', 'data/geography.js',
+    'data/flights.js', 'data/geography-russia.js',
 )
 DIST = ROOT / 'dist'
 OUT = ROOT / 'artifacts' / 'maoji-xiaohongshu.zip'

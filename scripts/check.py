@@ -31,6 +31,20 @@ class Page(HTMLParser):
                 resource(a[key], DIST)
 
 Page().feed((DIST / 'index.html').read_text())
+check(not (DIST / 'data/geography.js').exists(), 'Full country basemap must not ship')
+app_source = (DIST / 'app.js').read_text()
+check('ATLAS_GEOGRAPHY' not in app_source and 'L.tileLayer(' not in app_source, 'Global or online basemap reintroduced')
+check('ATLAS_RUSSIA_GEOGRAPHY' in app_source and 'stroke: false' in app_source, 'Expected limited reference layer without border strokes')
+geo_source = (DIST / 'data/geography-russia.js').read_text()
+geo = json.loads(geo_source[geo_source.index('{'):].rstrip(';' + chr(10) + ' '))
+check(len(geo['features']) == 13, 'Unexpected reference polygon count')
+for feature in geo['features']:
+    check(feature['properties'] == {'layer':'russia-reference'}, 'Unreviewed country properties')
+    check(feature['geometry']['type'] == 'Polygon', 'Unexpected reference geometry')
+    points = feature['geometry']['coordinates'][0]
+    check(not all(32 < p[0] < 37 and 44 < p[1] < 47 for p in points), 'Excluded peninsula must not reappear')
+check('routeDiagramNote' in (DIST / 'index.html').read_text(), 'Missing route diagram explanation')
+
 for path in DIST.rglob('*.css'):
     css = path.read_text()
     for url in re.findall(r'url\(["\x27]?([^\)"\x27]+)', css):

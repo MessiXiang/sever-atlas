@@ -459,6 +459,23 @@ margin-right:var(--flow-col,0px);}
   background: var(--green);
   border-radius: 100%
 }
+.route-diagram-note {
+  position:absolute;
+  left:16px;
+  bottom:24px;
+  max-width:calc(100% - 32px);
+  z-index:450;
+  padding:8px 12px;
+  border:1px solid var(--line);
+  border-radius:6px;
+  background:rgba(255,255,255,.96);
+  color:var(--muted);
+  font-size:11px;
+  line-height:1.6;
+  pointer-events:none;
+}
+.route-diagram-note strong {display:block;color:var(--ink);font-weight:600;}
+.route-diagram-note span {display:block;}
 .map-section {
   position: relative;
   overflow: hidden;
@@ -2307,3 +2324,10 @@ grid-gap:7px;}
  dialog::backdrop {
  -webkit-backdrop-filter:blur(3px); backdrop-filter:blur(3px); }
  }
+
+/* Keep the schematic explanation visible without covering controls. */
+.map-bottom { bottom:84px; }
+@media(max-width:600px), (max-width:1000px) and (max-height:500px) and (pointer:coarse) {
+ .route-diagram-note {left:12px;right:12px;bottom:20px;max-width:none;font-size:10px;padding:6px 10px;}
+ .airport-preview {bottom:82px;}
+}
