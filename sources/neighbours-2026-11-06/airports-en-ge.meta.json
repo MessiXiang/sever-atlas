@@ -1,0 +1,2949 @@
+{
+  "id": "airports-en-ge",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+  "retrievedAt": "2026-11-06T08:22:28.526463+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+  "bytes": 230443,
+  "sha256": "cc00bdeb55524383987a866fd6c75b0343259d491533bf5993d22f1ba3f1b8fc",
+  "file": "sources/neighbours-2026-11-06/airports-en-ge.html",
+  "title": "List of airports in Georgia (country) - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Georgia+%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Georgia+%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Georgia+%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Georgia+%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "1 Passenger statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#Passenger_statistics",
+      "lang": ""
+    },
+    {
+      "text": "2 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#Airports",
+      "lang": ""
+    },
+    {
+      "text": "3 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#See_also",
+      "lang": ""
+    },
+    {
+      "text": "4 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#References",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_und_Flugpl%C3%A4tze_in_Georgien",
+      "lang": "de"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Gruusia_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporti_in_Georgia",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%9B%BD%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Gruzji",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_flygplatser_i_Georgien",
+      "lang": "sv"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/G%C3%BCrcistan%27daki_havaalanlar%C4%B1_listesi",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%93%D1%80%D1%83%D0%B7%D1%96%D1%97",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Gruziya_aeroportlari_ro%CA%BByxati",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q3499311#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&oldid=1343157382",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Georgia_%28country%29&id=1343157382&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Georgia_%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Georgia_%28country%29&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q3499311",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airports",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "sovereign state",
+      "url": "https://en.wikipedia.org/wiki/Country",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Eurasia",
+      "url": "https://en.wikipedia.org/wiki/Eurasia",
+      "lang": ""
+    },
+    {
+      "text": "Black Sea",
+      "url": "https://en.wikipedia.org/wiki/Black_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Russia",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "regions",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "autonomous republics",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_republic",
+      "lang": ""
+    },
+    {
+      "text": "capital city",
+      "url": "https://en.wikipedia.org/wiki/Capital_city",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi Airport",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi Airport",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "Batumi Airport",
+      "url": "https://en.wikipedia.org/wiki/Batumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari Airfield",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari",
+      "lang": ""
+    },
+    {
+      "text": "Queen Tamar Airport",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Mestia",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri Airport",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "City served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Region",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Adjara",
+      "url": "https://en.wikipedia.org/wiki/Adjara",
+      "lang": ""
+    },
+    {
+      "text": "[†]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#endnote_Adjara",
+      "lang": ""
+    },
+    {
+      "text": "Batumi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°36′37″N 041°35′58″E ﻿ / ﻿ 41.61028°N 41.59944°E ﻿ / 41.61028; 41.59944 ﻿ ( Batumi International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_36_37_N_041_35_58_E_region:GE_type:airport&title=Batumi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "Imereti",
+      "url": "https://en.wikipedia.org/wiki/Imereti",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°10′35″N 042°28′57″E ﻿ / ﻿ 42.17639°N 42.48250°E ﻿ / 42.17639; 42.48250 ﻿ ( Kopitnari Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42_10_35_N_042_28_57_E_region:GE_type:airport&title=Kopitnari+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°40′09″N 044°57′17″E ﻿ / ﻿ 41.66917°N 44.95472°E ﻿ / 41.66917; 44.95472 ﻿ ( Tbilisi International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_40_09_N_044_57_17_E_region:GE_type:airport&title=Tbilisi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "[‡]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#endnote_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi Babushara Airport",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°51′29″N 041°07′41″E ﻿ / ﻿ 42.85806°N 41.12806°E ﻿ / 42.85806; 41.12806 ﻿ ( Sukhumi Babushara Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42_51_29_N_041_07_41_E_region:GE_type:airport&title=Sukhumi+Babushara+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Mestia",
+      "lang": ""
+    },
+    {
+      "text": "Samegrelo-Zemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Queen Tamar Airport",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "43°03′16″N 042°45′00″E ﻿ / ﻿ 43.05444°N 42.75000°E ﻿ / 43.05444; 42.75000 ﻿ ( Queen Tamar Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=43_03_16_N_042_45_00_E_region:GE_type:airport&title=Queen+Tamar+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Racha-Lechkhumi - Kvemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Racha-Lechkhumi_and_Kvemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri Airport",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°31′36″N 43°08′07″E ﻿ / ﻿ 42.5266°N 43.1352°E ﻿ / 42.5266; 43.1352",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42.5266_N_43.1352_E_",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari",
+      "lang": ""
+    },
+    {
+      "text": "Mtskheta-Mtianeti",
+      "url": "https://en.wikipedia.org/wiki/Mtskheta-Mtianeti",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari Airfield",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "41°55′16″N 044°42′50″E ﻿ / ﻿ 41.92111°N 44.71389°E ﻿ / 41.92111; 44.71389 ﻿ ( Natakhtari Airfield )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_55_16_N_044_42_50_E_region:GE_type:airport&title=Natakhtari+Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Telavi",
+      "url": "https://en.wikipedia.org/wiki/Telavi",
+      "lang": ""
+    },
+    {
+      "text": "Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "Telavi Erekle II Airport",
+      "url": "https://en.wikipedia.org/wiki/Telavi_Erekle_II_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "41°57′12″N 045°30′29″E ﻿ / ﻿ 41.95333°N 45.50806°E ﻿ / 41.95333; 45.50806 ﻿ ( Telavi Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_57_12_N_045_30_29_E_region:GE_type:airport&title=Telavi+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sighnaghi",
+      "url": "https://en.wikipedia.org/wiki/Sighnaghi",
+      "lang": ""
+    },
+    {
+      "text": "Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "41°38′04″N 46°00′46″E ﻿ / ﻿ 41.634444°N 46.012778°E ﻿ / 41.634444; 46.012778",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.634444_N_46.012778_E_",
+      "lang": ""
+    },
+    {
+      "text": "Mukhrani",
+      "url": "https://en.wikipedia.org/wiki/Mukhrani",
+      "lang": ""
+    },
+    {
+      "text": "Mtskheta-Mtianeti",
+      "url": "https://en.wikipedia.org/wiki/Mtskheta-Mtianeti",
+      "lang": ""
+    },
+    {
+      "text": "Mukhrani Airport",
+      "url": "https://en.wikipedia.org/wiki/Mukhrani_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "41°55′59″N 44°34′59″E ﻿ / ﻿ 41.933°N 44.583°E ﻿ / 41.933; 44.583",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.933_N_44.583_E_",
+      "lang": ""
+    },
+    {
+      "text": "Pskhu",
+      "url": "https://en.wikipedia.org/wiki/Pskhu",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "43°23′10″N 40°48′37″E ﻿ / ﻿ 43.38620°N 40.810328°E ﻿ / 43.38620; 40.810328",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=43.3862_N_40.810328_E_",
+      "lang": ""
+    },
+    {
+      "text": "Ozurgeti",
+      "url": "https://en.wikipedia.org/wiki/Ozurgeti",
+      "lang": ""
+    },
+    {
+      "text": "Guria",
+      "url": "https://en.wikipedia.org/wiki/Guria",
+      "lang": ""
+    },
+    {
+      "text": "41°55′44″N 41°51′55″E ﻿ / ﻿ 41.928942°N 41.865335°E ﻿ / 41.928942; 41.865335",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.928942_N_41.865335_E_",
+      "lang": ""
+    },
+    {
+      "text": "Lagodekhi",
+      "url": "https://en.wikipedia.org/wiki/Lagodekhi",
+      "lang": ""
+    },
+    {
+      "text": "Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "Lagodekhi Airfield",
+      "url": "https://en.wikipedia.org/wiki/Lagodekhi_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "41°48′54″N 46°14′03″E ﻿ / ﻿ 41.8150179°N 46.2341595°E ﻿ / 41.8150179; 46.2341595",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.8150179_N_46.2341595_E_",
+      "lang": ""
+    },
+    {
+      "text": "Tsalka",
+      "url": "https://en.wikipedia.org/wiki/Tsalka",
+      "lang": ""
+    },
+    {
+      "text": "Kvemo-Kartli",
+      "url": "https://en.wikipedia.org/wiki/Kvemo_Kartli",
+      "lang": ""
+    },
+    {
+      "text": "41°35′36″N 44°04′34″E ﻿ / ﻿ 41.593399°N 44.0761986°E ﻿ / 41.593399; 44.0761986",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.593399_N_44.0761986_E_",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti",
+      "lang": ""
+    },
+    {
+      "text": "Samegrelo-Zemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Poti International Airport",
+      "url": "https://en.wikipedia.org/wiki/Poti_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°09′47″N 041°42′08″E ﻿ / ﻿ 42.16306°N 41.70222°E ﻿ / 42.16306; 41.70222 ﻿ ( Poti Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42_09_47_N_041_42_08_E_region:GE_type:airport&title=Poti+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zugdidi",
+      "url": "https://en.wikipedia.org/wiki/Zugdidi",
+      "lang": ""
+    },
+    {
+      "text": "Samegrelo-Zemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "42°29′19″N 41°49′06″E ﻿ / ﻿ 42.488665°N 41.818213°E ﻿ / 42.488665; 41.818213",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42.488665_N_41.818213_E_",
+      "lang": ""
+    },
+    {
+      "text": "Akhalkalaki",
+      "url": "https://en.wikipedia.org/wiki/Akhalkalaki",
+      "lang": ""
+    },
+    {
+      "text": "Samtskhe-Javakheti",
+      "url": "https://en.wikipedia.org/wiki/Samtskhe–Javakheti",
+      "lang": ""
+    },
+    {
+      "text": "41°22′37″N 43°28′48″E ﻿ / ﻿ 41.3769989°N 43.4799995°E ﻿ / 41.3769989; 43.4799995",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41.3769989_N_43.4799995_E_",
+      "lang": ""
+    },
+    {
+      "text": "Tskhinvali",
+      "url": "https://en.wikipedia.org/wiki/Tskhinvali",
+      "lang": ""
+    },
+    {
+      "text": "Shida-Kartli",
+      "url": "https://en.wikipedia.org/wiki/Shida_Kartli",
+      "lang": ""
+    },
+    {
+      "text": "42°11′24″N 43°56′24″E ﻿ / ﻿ 42.1899986°N 43.9399986°E ﻿ / 42.1899986; 43.9399986",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42.1899986_N_43.9399986_E_",
+      "lang": ""
+    },
+    {
+      "text": "Omalo",
+      "url": "https://en.wikipedia.org/wiki/Omalo",
+      "lang": ""
+    },
+    {
+      "text": "Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "Tusheti",
+      "url": "https://en.wikipedia.org/wiki/Tusheti",
+      "lang": ""
+    },
+    {
+      "text": "Anaklia",
+      "url": "https://en.wikipedia.org/wiki/Anaklia",
+      "lang": ""
+    },
+    {
+      "text": "Samegrelo-Zemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Gudauta",
+      "url": "https://en.wikipedia.org/wiki/Gudauta",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "[‡]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#endnote_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Gudauta Air Base",
+      "url": "https://en.wikipedia.org/wiki/Gudauta_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "43°06′14″N 040°34′45″E ﻿ / ﻿ 43.10389°N 40.57917°E ﻿ / 43.10389; 40.57917 ﻿ ( Gudauta Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=43_06_14_N_040_34_45_E_region:GE_type:airport&title=Gudauta+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Kobuleti",
+      "url": "https://en.wikipedia.org/wiki/Kobuleti",
+      "lang": ""
+    },
+    {
+      "text": "Adjara",
+      "url": "https://en.wikipedia.org/wiki/Adjara",
+      "lang": ""
+    },
+    {
+      "text": "[†]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#endnote_Adjara",
+      "lang": ""
+    },
+    {
+      "text": "Kobuleti Airfield",
+      "url": "https://en.wikipedia.org/wiki/Kobuleti_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "41°50′26″N 041°47′57″E ﻿ / ﻿ 41.84056°N 41.79917°E ﻿ / 41.84056; 41.79917 ﻿ ( Marneuli Airfield )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_50_26_N_041_47_57_E_region:GE_type:airport&title=Marneuli+Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Marneuli",
+      "url": "https://en.wikipedia.org/wiki/Marneuli",
+      "lang": ""
+    },
+    {
+      "text": "Kvemo Kartli",
+      "url": "https://en.wikipedia.org/wiki/Kvemo_Kartli",
+      "lang": ""
+    },
+    {
+      "text": "Marneuli Air Base",
+      "url": "https://en.wikipedia.org/wiki/Marneuli_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "41°27′33″N 044°46′59″E ﻿ / ﻿ 41.45917°N 44.78306°E ﻿ / 41.45917; 44.78306 ﻿ ( Marneuli Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_27_33_N_044_46_59_E_region:GE_type:airport&title=Marneuli+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Senaki",
+      "url": "https://en.wikipedia.org/wiki/Senaki",
+      "lang": ""
+    },
+    {
+      "text": "Samegrelo-Zemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Senaki Air Base",
+      "url": "https://en.wikipedia.org/wiki/Senaki_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "42°14′34″N 042°03′03″E ﻿ / ﻿ 42.24278°N 42.05083°E ﻿ / 42.24278; 42.05083 ﻿ ( Senaki Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=42_14_34_N_042_03_03_E_region:GE_type:airport&title=Senaki+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Soganlugi Air Base",
+      "url": "https://en.wikipedia.org/wiki/Soganlugi_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "41°38′57″N 044°56′11″E ﻿ / ﻿ 41.64917°N 44.93639°E ﻿ / 41.64917; 44.93639 ﻿ ( Soganlugi Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_38_57_N_044_56_11_E_region:GE_type:airport&title=Soganlugi+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Vaziani Military Base",
+      "url": "https://en.wikipedia.org/wiki/Vaziani_Military_Base",
+      "lang": ""
+    },
+    {
+      "text": "41°37′40″N 045°01′50″E ﻿ / ﻿ 41.62778°N 45.03056°E ﻿ / 41.62778; 45.03056 ﻿ ( Vaziani Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Georgia_(country)&params=41_37_40_N_045_01_50_E_region:GE_type:airport&title=Vaziani+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Adjara",
+      "url": "https://en.wikipedia.org/wiki/Adjara",
+      "lang": ""
+    },
+    {
+      "text": "autonomous republic",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_republic",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "de facto",
+      "url": "https://en.wikipedia.org/wiki/De_facto",
+      "lang": ""
+    },
+    {
+      "text": "1992-93 war",
+      "url": "https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992–93)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "de jure",
+      "url": "https://en.wikipedia.org/wiki/De_jure",
+      "lang": ""
+    },
+    {
+      "text": "Government of the Autonomous Republic of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_the_Autonomous_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "International recognition of Abkhazia and South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/International_recognition_of_Abkhazia_and_South_Ossetia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Georgia_%28country%29",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Air Force",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazian Air Force",
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UG - Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UG_-_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Tourism in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Telavi Airport \"Mimino\" will be Officially Opened on April 25 - CBW.ge\"",
+      "url": "http://cbw.ge/economy/telavi-airport-mimino-will-officially-opened-april-25/",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20120426225215/http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"IATA Airline and Airport Code Search\"",
+      "url": "http://www.iata.org/publications/Pages/code-search.aspx",
+      "lang": ""
+    },
+    {
+      "text": "International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Georgia\"",
+      "url": "http://www.unece.org/fileadmin/DAM/cefact/locode/ge.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Georgia\"",
+      "url": "http://www.gcmap.com/search?Q=country:GE",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Albania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Albania",
+      "lang": ""
+    },
+    {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Andorra",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Austria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Austria",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bosnia_and_Herzegovina",
+      "lang": ""
+    },
+    {
+      "text": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+      "lang": ""
+    },
+    {
+      "text": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Croatia",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Czech_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Denmark",
+      "lang": ""
+    },
+    {
+      "text": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Estonia",
+      "lang": ""
+    },
+    {
+      "text": "Finland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Finland",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_France",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Germany",
+      "lang": ""
+    },
+    {
+      "text": "Greece",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Greece",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iceland",
+      "lang": ""
+    },
+    {
+      "text": "Ireland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_Ireland",
+      "lang": ""
+    },
+    {
+      "text": "Italy",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Italy",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Latvia",
+      "lang": ""
+    },
+    {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Liechtenstein",
+      "lang": ""
+    },
+    {
+      "text": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lithuania",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Luxembourg",
+      "lang": ""
+    },
+    {
+      "text": "Malta",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malta",
+      "lang": ""
+    },
+    {
+      "text": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Moldova",
+      "lang": ""
+    },
+    {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Monaco",
+      "lang": ""
+    },
+    {
+      "text": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Montenegro",
+      "lang": ""
+    },
+    {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Netherlands",
+      "lang": ""
+    },
+    {
+      "text": "North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Macedonia",
+      "lang": ""
+    },
+    {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Norway",
+      "lang": ""
+    },
+    {
+      "text": "Poland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Poland",
+      "lang": ""
+    },
+    {
+      "text": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Portugal",
+      "lang": ""
+    },
+    {
+      "text": "Romania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Romania",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "San Marino",
+      "url": "https://en.wikipedia.org/wiki/Torraccia_airfield",
+      "lang": ""
+    },
+    {
+      "text": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Serbia",
+      "lang": ""
+    },
+    {
+      "text": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovakia",
+      "lang": ""
+    },
+    {
+      "text": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovenia",
+      "lang": ""
+    },
+    {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
+      "lang": ""
+    },
+    {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sweden",
+      "lang": ""
+    },
+    {
+      "text": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Switzerland",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Vatican_City#Air_transport",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kosovo",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Transnistria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Transnistria",
+      "lang": ""
+    },
+    {
+      "text": "Åland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Åland",
+      "lang": ""
+    },
+    {
+      "text": "Faroe Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Faroe_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Gibraltar",
+      "url": "https://en.wikipedia.org/wiki/Gibraltar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guernsey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Guernsey",
+      "lang": ""
+    },
+    {
+      "text": "Isle of Man",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jersey",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svalbard",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia_(country)_topics",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Georgia_(country)_topics",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Georgia_(country)_topics",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "History",
+      "url": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Prehistoric Georgia",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Shulaveri–Shomu culture",
+      "url": "https://en.wikipedia.org/wiki/Shulaveri–Shomu_culture",
+      "lang": ""
+    },
+    {
+      "text": "Kura–Araxes culture",
+      "url": "https://en.wikipedia.org/wiki/Kura–Araxes_culture",
+      "lang": ""
+    },
+    {
+      "text": "Trialeti–Vanadzor culture",
+      "url": "https://en.wikipedia.org/wiki/Trialeti–Vanadzor_culture",
+      "lang": ""
+    },
+    {
+      "text": "Colchian culture",
+      "url": "https://en.wikipedia.org/wiki/Colchian_culture",
+      "lang": ""
+    },
+    {
+      "text": "Mushki",
+      "url": "https://en.wikipedia.org/wiki/Mushki",
+      "lang": ""
+    },
+    {
+      "text": "Diauehi",
+      "url": "https://en.wikipedia.org/wiki/Diauehi",
+      "lang": ""
+    },
+    {
+      "text": "Colchis",
+      "url": "https://en.wikipedia.org/wiki/Colchis",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Iberia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iberia",
+      "lang": ""
+    },
+    {
+      "text": "Lazica",
+      "url": "https://en.wikipedia.org/wiki/Lazica",
+      "lang": ""
+    },
+    {
+      "text": "Roman era",
+      "url": "https://en.wikipedia.org/wiki/Georgia_in_the_Roman_era",
+      "lang": ""
+    },
+    {
+      "text": "Sasanian Iberia",
+      "url": "https://en.wikipedia.org/wiki/Sasanian_Iberia",
+      "lang": ""
+    },
+    {
+      "text": "Christianization of the Kingdom of Iberia",
+      "url": "https://en.wikipedia.org/wiki/Christianization_of_the_Kingdom_of_Iberia",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Iberia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Iberia",
+      "lang": ""
+    },
+    {
+      "text": "Bagrationi dynasty",
+      "url": "https://en.wikipedia.org/wiki/Bagrationi_dynasty",
+      "lang": ""
+    },
+    {
+      "text": "Arab rule",
+      "url": "https://en.wikipedia.org/wiki/Arab_rule_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Emirate of Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Emirate_of_Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of the Iberians",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Iberians",
+      "lang": ""
+    },
+    {
+      "text": "Unification of the Georgian realm",
+      "url": "https://en.wikipedia.org/wiki/Unification_of_the_Georgian_realm",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Hereti",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hereti",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Kakheti-Hereti",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kakheti-Hereti",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Georgia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Byzantine wars",
+      "url": "https://en.wikipedia.org/wiki/Byzantine–Georgian_wars",
+      "lang": ""
+    },
+    {
+      "text": "Seljuk wars",
+      "url": "https://en.wikipedia.org/wiki/Georgian–Seljuk_wars",
+      "lang": ""
+    },
+    {
+      "text": "Battle of Didgori",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori",
+      "lang": ""
+    },
+    {
+      "text": "Golden Age",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Golden_Age",
+      "lang": ""
+    },
+    {
+      "text": "Mongol invasions",
+      "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Timur's invasions",
+      "url": "https://en.wikipedia.org/wiki/Timurid_invasions_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Samtskhe-Saatabago",
+      "url": "https://en.wikipedia.org/wiki/Samtskhe-Saatabago",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen incursions",
+      "url": "https://en.wikipedia.org/wiki/Turkoman_invasions_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Collapse of the Georgian realm",
+      "url": "https://en.wikipedia.org/wiki/Collapse_of_the_Georgian_realm",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Imereti",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Imereti",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Guria",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Guria",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Mingrelia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Mingrelia",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Kartli",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kartli",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "Safavid Georgia",
+      "url": "https://en.wikipedia.org/wiki/Safavid_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Shah Abbas I's invasions",
+      "url": "https://en.wikipedia.org/wiki/Abbas_I's_Kakhetian_and_Kartlian_campaigns",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Kartli-Kakheti",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kartli-Kakheti",
+      "lang": ""
+    },
+    {
+      "text": "1795 Persian Invasion",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Krtsanisi",
+      "lang": ""
+    },
+    {
+      "text": "Absorption by the Russian Empire",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire",
+      "lang": ""
+    },
+    {
+      "text": "Democratic Republic of Georgia",
+      "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Armenian War",
+      "url": "https://en.wikipedia.org/wiki/Armeno-Georgian_War",
+      "lang": ""
+    },
+    {
+      "text": "Red Army invasion",
+      "url": "https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Soviet Socialist Republic",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Soviet_Socialist_Republic",
+      "lang": ""
+    },
+    {
+      "text": "April 9 tragedy",
+      "url": "https://en.wikipedia.org/wiki/April_9_tragedy",
+      "lang": ""
+    },
+    {
+      "text": "Independent Georgia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)#Independent_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Civil War",
+      "url": "https://en.wikipedia.org/wiki/Georgian_civil_war_of_1991–1993",
+      "lang": ""
+    },
+    {
+      "text": "War in Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992–1993)",
+      "lang": ""
+    },
+    {
+      "text": "Rose Revolution",
+      "url": "https://en.wikipedia.org/wiki/Rose_Revolution",
+      "lang": ""
+    },
+    {
+      "text": "Russo-Georgian War",
+      "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+      "lang": ""
+    },
+    {
+      "text": "Names of Georgia",
+      "url": "https://en.wikipedia.org/wiki/Names_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Monarchs",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_Georgian_monarchs",
+      "lang": ""
+    },
+    {
+      "text": "States",
+      "url": "https://en.wikipedia.org/wiki/List_of_historical_states_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Military history",
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Wars",
+      "url": "https://en.wikipedia.org/wiki/List_of_wars_involving_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Battles",
+      "url": "https://en.wikipedia.org/wiki/List_of_battles_involving_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Timeline of Georgian history",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_Georgian_history",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:History_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Geography",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Borders",
+      "url": "https://en.wikipedia.org/wiki/Template:Borders_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Birds",
+      "url": "https://en.wikipedia.org/wiki/List_of_birds_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Black Sea",
+      "url": "https://en.wikipedia.org/wiki/Black_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Climate",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Georgia_(country)#Climate",
+      "lang": ""
+    },
+    {
+      "text": "Earthquakes",
+      "url": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Environmental issues",
+      "url": "https://en.wikipedia.org/wiki/Environmental_issues_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Glaciers",
+      "url": "https://en.wikipedia.org/wiki/Glaciers_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Greater Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Greater_Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Lakes",
+      "url": "https://en.wikipedia.org/wiki/List_of_lakes_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Lesser Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Lesser_Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Mammals",
+      "url": "https://en.wikipedia.org/wiki/List_of_mammals_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "National parks",
+      "url": "https://en.wikipedia.org/wiki/National_parks_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Protected areas",
+      "url": "https://en.wikipedia.org/wiki/List_of_protected_areas_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Rivers",
+      "url": "https://en.wikipedia.org/wiki/List_of_rivers_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Roads",
+      "url": "https://en.wikipedia.org/wiki/Roads_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Volcanoes",
+      "url": "https://en.wikipedia.org/wiki/List_of_volcanoes_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:Geography_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Subdivisions",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Administrative divisions",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Cities and towns",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Regions",
+      "url": "https://en.wikipedia.org/wiki/Mkhare",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:Administrative_divisions_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Russian-occupied territories",
+      "url": "https://en.wikipedia.org/wiki/Russian-occupied_territories_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/South_Ossetia",
+      "lang": ""
+    },
+    {
+      "text": "Politics",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Constitution",
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Elections",
+      "url": "https://en.wikipedia.org/wiki/Elections_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Foreign relations",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Government",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Human rights",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "LGBT",
+      "url": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Law enforcement",
+      "url": "https://en.wikipedia.org/wiki/Law_enforcement_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Military",
+      "url": "https://en.wikipedia.org/wiki/Defence_Forces_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Parliament",
+      "url": "https://en.wikipedia.org/wiki/Parliament_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Political parties",
+      "url": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "President",
+      "url": "https://en.wikipedia.org/wiki/President_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Prime Minister",
+      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Economy",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Agriculture",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Central bank",
+      "url": "https://en.wikipedia.org/wiki/National_Bank_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Companies",
+      "url": "https://en.wikipedia.org/wiki/List_of_companies_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Energy",
+      "url": "https://en.wikipedia.org/wiki/Energy_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Lari (currency)",
+      "url": "https://en.wikipedia.org/wiki/Georgian_lari",
+      "lang": ""
+    },
+    {
+      "text": "Mining",
+      "url": "https://en.wikipedia.org/wiki/Mining_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Stock Exchange",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Stock_Exchange",
+      "lang": ""
+    },
+    {
+      "text": "Telecommunications",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Tourism",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Transport",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:Economy_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Culture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Alphabet",
+      "url": "https://en.wikipedia.org/wiki/Georgian_scripts",
+      "lang": ""
+    },
+    {
+      "text": "Architecture",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Art",
+      "url": "https://en.wikipedia.org/wiki/Georgian_art",
+      "lang": ""
+    },
+    {
+      "text": "Chokha",
+      "url": "https://en.wikipedia.org/wiki/Chokha",
+      "lang": ""
+    },
+    {
+      "text": "Cinema",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Cuisine",
+      "url": "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "lang": ""
+    },
+    {
+      "text": "Wine",
+      "url": "https://en.wikipedia.org/wiki/Georgian_wine",
+      "lang": ""
+    },
+    {
+      "text": "Dance",
+      "url": "https://en.wikipedia.org/wiki/Georgian_dance",
+      "lang": ""
+    },
+    {
+      "text": "Gambling",
+      "url": "https://en.wikipedia.org/wiki/Gambling_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Georgian",
+      "url": "https://en.wikipedia.org/wiki/Georgian_language",
+      "lang": ""
+    },
+    {
+      "text": "Laz",
+      "url": "https://en.wikipedia.org/wiki/Laz_language",
+      "lang": ""
+    },
+    {
+      "text": "Mingrelian",
+      "url": "https://en.wikipedia.org/wiki/Mingrelian_language",
+      "lang": ""
+    },
+    {
+      "text": "Svan",
+      "url": "https://en.wikipedia.org/wiki/Svan_language",
+      "lang": ""
+    },
+    {
+      "text": "Libraries",
+      "url": "https://en.wikipedia.org/wiki/List_of_libraries_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Media",
+      "url": "https://en.wikipedia.org/wiki/Mass_media_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Mythology",
+      "url": "https://en.wikipedia.org/wiki/Georgian_mythology",
+      "lang": ""
+    },
+    {
+      "text": "Names",
+      "url": "https://en.wikipedia.org/wiki/Georgian_name",
+      "lang": ""
+    },
+    {
+      "text": "Public holidays",
+      "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Sports",
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "World Heritage Sites",
+      "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:Culture_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Demographics",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Education",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Ethnic minorities",
+      "url": "https://en.wikipedia.org/wiki/Ethnic_minorities_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgians",
+      "url": "https://en.wikipedia.org/wiki/Georgians",
+      "lang": ""
+    },
+    {
+      "text": "List",
+      "url": "https://en.wikipedia.org/wiki/List_of_Georgians",
+      "lang": ""
+    },
+    {
+      "text": "Diaspora",
+      "url": "https://en.wikipedia.org/wiki/Georgian_diaspora",
+      "lang": ""
+    },
+    {
+      "text": "Health care",
+      "url": "https://en.wikipedia.org/wiki/Healthcare_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Women",
+      "url": "https://en.wikipedia.org/wiki/Women_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "more",
+      "url": "https://en.wikipedia.org/wiki/Category:Demographics_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Anthem",
+      "url": "https://en.wikipedia.org/wiki/Tavisupleba",
+      "lang": ""
+    },
+    {
+      "text": "Bolnisi cross",
+      "url": "https://en.wikipedia.org/wiki/Bolnisi_cross",
+      "lang": ""
+    },
+    {
+      "text": "Borjgali",
+      "url": "https://en.wikipedia.org/wiki/Borjgali",
+      "lang": ""
+    },
+    {
+      "text": "Coat of arms",
+      "url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Flag",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Motto",
+      "url": "https://en.wikipedia.org/wiki/Dzala_ertobashia",
+      "lang": ""
+    },
+    {
+      "text": "Saint George",
+      "url": "https://en.wikipedia.org/wiki/Saint_George",
+      "lang": ""
+    },
+    {
+      "text": "cross",
+      "url": "https://en.wikipedia.org/wiki/Saint_George's_Cross",
+      "lang": ""
+    },
+    {
+      "text": "Saint Nino",
+      "url": "https://en.wikipedia.org/wiki/Saint_Nino",
+      "lang": ""
+    },
+    {
+      "text": "cross",
+      "url": "https://en.wikipedia.org/wiki/Grapevine_cross",
+      "lang": ""
+    },
+    {
+      "text": "Outline",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&oldid=1343157382",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&oldid=1343157382",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country) transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Georgia_(country)_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Georgia_(country)&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-ge.txt"
+}

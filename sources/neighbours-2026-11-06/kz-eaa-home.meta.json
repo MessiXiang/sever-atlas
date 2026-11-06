@@ -1,0 +1,395 @@
+{
+  "id": "kz-eaa-home",
+  "url": "https://www.eaa.kz/",
+  "retrievedAt": "2026-11-06T09:56:10.583042+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://www.eaa.kz/",
+  "bytes": 1508169,
+  "sha256": "27120bbea693dd754ea52ac0e1ab851d052687adc30ec1918d3a87f5972f98ca",
+  "file": "sources/neighbours-2026-11-06/kz-eaa-home.html",
+  "title": "Main",
+  "links": [
+    {
+      "text": "RU |",
+      "url": "https://www.eaa.kz/ru/main",
+      "lang": ""
+    },
+    {
+      "text": "KZ",
+      "url": "https://www.eaa.kz/kz",
+      "lang": ""
+    },
+    {
+      "text": "request a quote",
+      "url": "https://www.eaa.kz/#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "about",
+      "url": "https://www.eaa.kz/about",
+      "lang": ""
+    },
+    {
+      "text": "fleet",
+      "url": "https://www.eaa.kz/fleet",
+      "lang": ""
+    },
+    {
+      "text": "services",
+      "url": "https://www.eaa.kz/services",
+      "lang": ""
+    },
+    {
+      "text": "contacts",
+      "url": "https://www.eaa.kz/contacts",
+      "lang": ""
+    },
+    {
+      "text": "menu",
+      "url": "https://www.eaa.kz/#menuopen",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "url": "https://www.eaa.kz/about",
+      "lang": ""
+    },
+    {
+      "text": "Fleet",
+      "url": "https://www.eaa.kz/fleet",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.eaa.kz/services",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://www.eaa.kz/contacts",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.eaa.kz/ru/main",
+      "lang": ""
+    },
+    {
+      "text": "KZ",
+      "url": "https://www.eaa.kz/kz",
+      "lang": ""
+    },
+    {
+      "text": "request a flight →",
+      "url": "https://www.eaa.kz/#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "get to know more →",
+      "url": "https://www.eaa.kz/about",
+      "lang": ""
+    },
+    {
+      "text": "get to know more →",
+      "url": "https://www.eaa.kz/services#charterflights",
+      "lang": ""
+    },
+    {
+      "text": "get to know more →",
+      "url": "https://www.eaa.kz/services#helicoptertransportation",
+      "lang": ""
+    },
+    {
+      "text": "get to know more →",
+      "url": "https://www.eaa.kz/services#aircraftmaintenance",
+      "lang": ""
+    },
+    {
+      "text": "get to know more →",
+      "url": "https://www.eaa.kz/services#aircraftmanagement",
+      "lang": ""
+    },
+    {
+      "text": "3D tour →",
+      "url": "https://pano3d.kz/EAA_VR/UP-EM015_VR/",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "http://airtengri.kz/constructionpage",
+      "lang": ""
+    },
+    {
+      "text": "Airplane interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "https://drive.google.com/uc?export=download&id=1IGqiNDf6pFzt2rxNjDxo6RBwwC2l1gno",
+      "lang": ""
+    },
+    {
+      "text": "Airplane interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery1",
+      "lang": ""
+    },
+    {
+      "text": "3D tour →",
+      "url": "https://pano3d.kz/EAA_VR/UP-EM016_VR/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "https://drive.google.com/uc?export=download&id=1pCPjUZL4H5HOAdT2DsNfomuqLgrjp4Sw",
+      "lang": ""
+    },
+    {
+      "text": "Airplane interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Airplane interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery3",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "https://drive.google.com/uc?export=download&id=14vIZJb0l2BO94EmU-hJ_zuvBquqCu2V2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "https://drive.google.com/uc?export=download&id=1wfW6cYJULqe1NKDhEKs066Lwce7NQqc1",
+      "lang": ""
+    },
+    {
+      "text": "Airplane interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery4",
+      "lang": ""
+    },
+    {
+      "text": "3D tour →",
+      "url": "https://www.google.com/maps/@43.1995046,76.8742425,3a,90y,65.92h,90.45t/data=!3m8!1e1!3m6!1sAF1QipO9N-CF6A4QyQ6jLMGXHPWump9HTAAsLS6D1tVU!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipO9N-CF6A4QyQ6jLMGXHPWump9HTAAsLS6D1tVU%3Dw900-h600-k-no-pi-0.4469399999999979-ya287.8913512207031-ro0-fo100!7i10000!8i5000?entry=ttu&g_ep=EgoyMDI2MDEyNi4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "http://airtengri.kz/constructionpage",
+      "lang": ""
+    },
+    {
+      "text": "Helicopter interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery5",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "Download brochure ↓",
+      "url": "https://drive.google.com/uc?export=download&id=1Gskfo0wAI7VNipuOOxbTiW27F7dwLDHW",
+      "lang": ""
+    },
+    {
+      "text": "Helicopter interior tour →",
+      "url": "https://www.eaa.kz/#popup:mygallery6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#next",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.eaa.kz/#prev",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DTR_BY6DAdj/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "Instagram →",
+      "url": "https://www.instagram.com/airtengri.kz/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DTR_EFVjGlj/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DTR-_TsjDLM/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DTCn-NcjDp_/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DUYTJJlDAa_/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/reel/DUU006ADLSh/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "info@airtengri.kz",
+      "url": "mailto:info@airtengri.kz",
+      "lang": ""
+    },
+    {
+      "text": "sales@airtengri.kz",
+      "url": "mailto:sales@airtengri.kz",
+      "lang": ""
+    },
+    {
+      "text": "+7 (727) 311-09-34",
+      "url": "tel:+7 (727) 311-09-34",
+      "lang": ""
+    },
+    {
+      "text": "use of cookies",
+      "url": "https://www.eaa.kz/cookiespolicy",
+      "lang": ""
+    },
+    {
+      "text": "About",
+      "url": "https://www.eaa.kz/about",
+      "lang": ""
+    },
+    {
+      "text": "+7 (727) 311-09-34",
+      "url": "tel:+7 (727) 311-09-34",
+      "lang": ""
+    },
+    {
+      "text": "info@airtengri.kz",
+      "url": "mailto:info@airtengri.kz",
+      "lang": ""
+    },
+    {
+      "text": "Fleet",
+      "url": "https://www.eaa.kz/fleet",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.eaa.kz/services",
+      "lang": ""
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/airtengri.kz/?hl=en",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://www.eaa.kz/contacts",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://www.eaa.kz/privacypolicy",
+      "lang": ""
+    },
+    {
+      "text": "Public Offer",
+      "url": "https://www.eaa.kz/publicoffer",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.eaa.kz/termsofuse",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kz-eaa-home.txt"
+}

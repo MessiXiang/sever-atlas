@@ -1,0 +1,3264 @@
+{
+  "id": "ap-tm-01",
+  "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:43.626544+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+  "bytes": 324403,
+  "sha256": "1d23861e272bfab626645ceae72e3a51f1cfb3d3297d20ee461e5a63825c151c",
+  "file": "sources/neighbours-2026-11-06/ap-tm-01.html",
+  "title": "Ashgabat International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ashgabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Ashgabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ashgabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Ashgabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Soviet",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Soviet",
+      "lang": ""
+    },
+    {
+      "text": "1.2 Independent Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Independent_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "1.3 New building (2016)",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#New_building_(2016)",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Runways",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Runways",
+      "lang": ""
+    },
+    {
+      "text": "2.2 Cargo terminal",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Cargo_terminal",
+      "lang": ""
+    },
+    {
+      "text": "2.3 Hotel",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Hotel",
+      "lang": ""
+    },
+    {
+      "text": "3 Services",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Services",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Passenger services",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Passenger_services",
+      "lang": ""
+    },
+    {
+      "text": "4 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "4.2 Cargo",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Cargo",
+      "lang": ""
+    },
+    {
+      "text": "5 Ground transportation",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Ground_transportation",
+      "lang": ""
+    },
+    {
+      "text": "5.1 Road",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Road",
+      "lang": ""
+    },
+    {
+      "text": "5.2 Bus",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Bus",
+      "lang": ""
+    },
+    {
+      "text": "5.3 Taxi",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Taxi",
+      "lang": ""
+    },
+    {
+      "text": "6 Commemoration",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#Commemoration",
+      "lang": ""
+    },
+    {
+      "text": "7 See also",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "8 References",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "9 External links",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%B9%D8%B4%D9%82_%D8%A2%D8%A8%D8%A7%D8%AF_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_Internacional_d%27Axgabat",
+      "lang": "ast"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/A%C5%9Fqabad_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_A%C5%9Fgabat",
+      "lang": "de"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Internacia_Flughaveno_de_A%C5%9D%C4%A5abado",
+      "lang": "eo"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Asjabad",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%B9%D8%B4%D9%82%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Achgabat",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%91%D7%99%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%90%D7%A9%D7%92%D7%91%D7%90%D7%98",
+      "lang": "he"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/A%C5%9Fgabat_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Ashgabat",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_A%C5%9Fgabat",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%90%E3%83%BC%E3%83%88%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EA%B0%80%EB%B0%94%ED%8A%B8_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Ashgabat",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Luchthaven_Asjchabad",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Aszchabad",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Asgabade",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Ashgabat",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%88%D1%85%D0%B0%D0%B1%D0%B0%D0%B4_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%D0%90%D1%88%D1%85%D0%B0%D0%B1%D0%B0%D0%B4",
+      "lang": "sr"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%90%D1%88%D1%85%D0%BE%D0%B1%D0%BE%D0%B4",
+      "lang": "tg"
+    },
+    {
+      "text": "ไทย",
+      "url": "https://th.wikipedia.org/wiki/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%95",
+      "lang": "th"
+    },
+    {
+      "text": "Türkmençe",
+      "url": "https://tk.wikipedia.org/wiki/Saparmyrat_T%C3%BCrkmenba%C5%9Fy_halkara_aeroporty",
+      "lang": "tk"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/A%C5%9Fkabat_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%90%D1%88%D0%B3%D0%B0%D0%B1%D0%B0%D1%82_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%B9%D8%B4%D9%82_%D8%A2%D8%A8%D8%A7%D8%AF_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Ashxobod_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Ashgabat",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BB%80%E5%93%88%E5%B7%B4%E5%BE%B7%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1148527#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&oldid=1378383758",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Ashgabat_International_Airport&id=1378383758&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAshgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Ashgabat_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ashgabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1148527",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "37°59′13″N 58°21′39″E ﻿ / ﻿ 37.98694°N 58.36083°E ﻿ / 37.98694; 58.36083",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Ashgabat_International_Airport&params=37_59_13_N_58_21_39_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_Airport_logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_-_Main_airport_terminal.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Arkadag",
+      "url": "https://en.wikipedia.org/wiki/Arkadag",
+      "lang": ""
+    },
+    {
+      "text": "Änew",
+      "url": "https://en.wikipedia.org/wiki/Änew",
+      "lang": ""
+    },
+    {
+      "text": "Bagtyýarlyk",
+      "url": "https://en.wikipedia.org/wiki/Bagtyýarlyk_District",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "TMT",
+      "url": "https://en.wikipedia.org/wiki/Time_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "UTC+05:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+05:00",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "37°59′13″N 58°21′39″E ﻿ / ﻿ 37.98694°N 58.36083°E ﻿ / 37.98694; 58.36083",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Ashgabat_International_Airport&params=37_59_13_N_58_21_39_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "ashgabatairport .gov .tm",
+      "url": "http://ashgabatairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:UTAA_Layout.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-AIP-3",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "international airports",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Saparmyrat Nyýazow",
+      "url": "https://en.wikipedia.org/wiki/Saparmyrat_Nyýazow",
+      "lang": ""
+    },
+    {
+      "text": "visa-free",
+      "url": "https://en.wikipedia.org/wiki/Visa_policy_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Hammond_Slides_Ashkhabad.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_Airport_(3202977543).jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_Airport_(36075375061).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Çärjew",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat",
+      "lang": ""
+    },
+    {
+      "text": "Daşhowuz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz",
+      "lang": ""
+    },
+    {
+      "text": "Toʻrtkoʻl",
+      "url": "https://en.wikipedia.org/wiki/Toʻrtkoʻl",
+      "lang": ""
+    },
+    {
+      "text": "Novo-Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench",
+      "lang": ""
+    },
+    {
+      "text": "Uzbek SSR",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_SSR",
+      "lang": ""
+    },
+    {
+      "text": "Junkers F.13",
+      "url": "https://en.wikipedia.org/wiki/Junkers_F.13",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germany",
+      "lang": ""
+    },
+    {
+      "text": "Kalinin K-4",
+      "url": "https://en.wikipedia.org/wiki/Kalinin_K-4",
+      "lang": ""
+    },
+    {
+      "text": "Kalinin K-5",
+      "url": "https://en.wikipedia.org/wiki/Kalinin_K-5",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev ANT-9",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_ANT-9",
+      "lang": ""
+    },
+    {
+      "text": "Çärjew Airport",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Çärjew",
+      "url": "https://en.wikipedia.org/wiki/Chardzhou",
+      "lang": ""
+    },
+    {
+      "text": "Daşhowuz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Po-2",
+      "url": "https://en.wikipedia.org/wiki/Polikarpov_Po-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Daşhowuz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Li-2",
+      "url": "https://en.wikipedia.org/wiki/Li-2",
+      "lang": ""
+    },
+    {
+      "text": "Moscow",
+      "url": "https://en.wikipedia.org/wiki/Moscow",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Astrakhan",
+      "url": "https://en.wikipedia.org/wiki/Astrakhan",
+      "lang": ""
+    },
+    {
+      "text": "Volgograd",
+      "url": "https://en.wikipedia.org/wiki/Volgograd",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-12",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-12",
+      "lang": ""
+    },
+    {
+      "text": "Il-14",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-14",
+      "lang": ""
+    },
+    {
+      "text": "An-2",
+      "url": "https://en.wikipedia.org/wiki/An-2",
+      "lang": ""
+    },
+    {
+      "text": "Yak-12",
+      "url": "https://en.wikipedia.org/wiki/Yak-12",
+      "lang": ""
+    },
+    {
+      "text": "Tu-104",
+      "url": "https://en.wikipedia.org/wiki/Tu-104",
+      "lang": ""
+    },
+    {
+      "text": "Tu-114",
+      "url": "https://en.wikipedia.org/wiki/Tu-114",
+      "lang": ""
+    },
+    {
+      "text": "Il-18",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Daşhowuz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "Tu-154",
+      "url": "https://en.wikipedia.org/wiki/Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "Yak-40",
+      "url": "https://en.wikipedia.org/wiki/Yak-40",
+      "lang": ""
+    },
+    {
+      "text": "Yak-42",
+      "url": "https://en.wikipedia.org/wiki/Yak-42",
+      "lang": ""
+    },
+    {
+      "text": "An-24",
+      "url": "https://en.wikipedia.org/wiki/An-24",
+      "lang": ""
+    },
+    {
+      "text": "An-26",
+      "url": "https://en.wikipedia.org/wiki/An-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-История_аэропорта-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Saparmyrat Nyýazow",
+      "url": "https://en.wikipedia.org/wiki/Saparmyrat_Nyýazow",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen SSR",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_SSR",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Oguz Han",
+      "url": "https://en.wikipedia.org/wiki/Oguz_Han",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "President",
+      "url": "https://en.wikipedia.org/wiki/President_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Gurbanguly Berdimuhamedow",
+      "url": "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "falcon",
+      "url": "https://en.wikipedia.org/wiki/Falcon",
+      "lang": ""
+    },
+    {
+      "text": "air traffic control",
+      "url": "https://en.wikipedia.org/wiki/Air_traffic_control",
+      "lang": ""
+    },
+    {
+      "text": "hangar",
+      "url": "https://en.wikipedia.org/wiki/Hangar",
+      "lang": ""
+    },
+    {
+      "text": "narrow-body aircraft",
+      "url": "https://en.wikipedia.org/wiki/Narrow-body_aircraft",
+      "lang": ""
+    },
+    {
+      "text": "fire brigade",
+      "url": "https://en.wikipedia.org/wiki/Fire_brigade",
+      "lang": ""
+    },
+    {
+      "text": "flight simulation",
+      "url": "https://en.wikipedia.org/wiki/Flight_simulation",
+      "lang": ""
+    },
+    {
+      "text": "repair and maintenance",
+      "url": "https://en.wikipedia.org/wiki/Repair_and_maintenance",
+      "lang": ""
+    },
+    {
+      "text": "wide-body",
+      "url": "https://en.wikipedia.org/wiki/Wide-body",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A380",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A380",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 747-8",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_Airport_(36075390431).jpg",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:ANTONOV_AN-225.TRABZON_-_panoramio.jpg",
+      "lang": ""
+    },
+    {
+      "text": "An-124",
+      "url": "https://en.wikipedia.org/wiki/An-124",
+      "lang": ""
+    },
+    {
+      "text": "dangerous goods",
+      "url": "https://en.wikipedia.org/wiki/Dangerous_goods",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenpoçta",
+      "url": "https://en.wikipedia.org/wiki/Turkmenpochta",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "Wi-Fi",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "Turkmentelecom",
+      "url": "https://en.wikipedia.org/wiki/Turkmentelecom",
+      "lang": ""
+    },
+    {
+      "text": "Internet",
+      "url": "https://en.wikipedia.org/wiki/Internet",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "China Southern Airlines",
+      "url": "https://en.wikipedia.org/wiki/China_Southern_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Diwopu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "Xi'an",
+      "url": "https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "flydubai",
+      "url": "https://en.wikipedia.org/wiki/Flydubai",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow–Domodedovo",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing–Capital",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-35",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-36",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "Frankfurt",
+      "url": "https://en.wikipedia.org/wiki/Frankfurt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-38",
+      "lang": ""
+    },
+    {
+      "text": "Ho Chi Minh City",
+      "url": "https://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-40",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Ğabdulla_Tuqay_Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-TM_Resumes_RU_NS25-42",
+      "lang": ""
+    },
+    {
+      "text": "Kuala Lumpur–International",
+      "url": "https://en.wikipedia.org/wiki/Kuala_Lumpur–International",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-43",
+      "lang": ""
+    },
+    {
+      "text": "London–Gatwick",
+      "url": "https://en.wikipedia.org/wiki/London–Gatwick",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-44",
+      "lang": ""
+    },
+    {
+      "text": "Milan–Malpensa",
+      "url": "https://en.wikipedia.org/wiki/Milan–Malpensa",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-45",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-46",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-47",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-48",
+      "lang": ""
+    },
+    {
+      "text": "Medina",
+      "url": "https://en.wikipedia.org/wiki/Prince_Mohammad_bin_Abdulaziz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-49",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "Air Belgium",
+      "url": "https://en.wikipedia.org/wiki/Air_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Brussels",
+      "url": "https://en.wikipedia.org/wiki/Brussels_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-50",
+      "lang": ""
+    },
+    {
+      "text": "Cargolux Italia",
+      "url": "https://en.wikipedia.org/wiki/Cargolux_Italia",
+      "lang": ""
+    },
+    {
+      "text": "Milan–Malpensa",
+      "url": "https://en.wikipedia.org/wiki/Milan–Malpensa",
+      "lang": ""
+    },
+    {
+      "text": "Cargolux",
+      "url": "https://en.wikipedia.org/wiki/Cargolux",
+      "lang": ""
+    },
+    {
+      "text": "Budapest",
+      "url": "https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "London–Stansted",
+      "url": "https://en.wikipedia.org/wiki/London–Stansted",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taipei–Taoyuan",
+      "url": "https://en.wikipedia.org/wiki/Taipei–Taoyuan",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "One Air",
+      "url": "https://en.wikipedia.org/wiki/One_Air",
+      "lang": ""
+    },
+    {
+      "text": "East Midlands",
+      "url": "https://en.wikipedia.org/wiki/East_Midlands_Airport",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines Cargo",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Abu Dhabi",
+      "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Dashoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–Al Maktoum",
+      "url": "https://en.wikipedia.org/wiki/Al_Maktoum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Frankfurt",
+      "url": "https://en.wikipedia.org/wiki/Frankfurt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hanoi",
+      "url": "https://en.wikipedia.org/wiki/Noi_Bai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Milan–Malpensa",
+      "url": "https://en.wikipedia.org/wiki/Milan–Malpensa",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Moscow–Sheremetyevo",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shenzhen",
+      "url": "https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Diwopu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-52",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-55",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-57",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-58",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=14",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=15",
+      "lang": ""
+    },
+    {
+      "text": "M37 highway",
+      "url": "https://en.wikipedia.org/wiki/M37_highway_(Turkmenistan)",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-59",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=16",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=17",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=18",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_banknote_-_2017_series_-_1_manat_-_reverse.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen manat",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_manat",
+      "lang": ""
+    },
+    {
+      "text": "[ 62 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-62",
+      "lang": ""
+    },
+    {
+      "text": "[ 63 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-63",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-64",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_note-65",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=19",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=20",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Общая информация\"",
+      "url": "https://web.archive.org/web/20210121213024/https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"ASHGABAT INTERNATIONAL AIRPORT\"",
+      "url": "https://web.archive.org/web/20231226063136/https://www.ashgabatairport.gov.tm/app/storage/app/media/@files/Broshura-%D0%9C%D0%90%D0%90.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.ashgabatairport.gov.tm/app/storage/app/media/@files/Broshura-%D0%9C%D0%90%D0%90.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-AIP_3-0",
+      "lang": ""
+    },
+    {
+      "text": "\"AIP\"",
+      "url": "https://web.archive.org/web/20130331010024/http://aviadocs.net/AIP/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Ещё больше транзитных рейсов в Таиланд из Казани\"",
+      "url": "https://kazan.aero/press-center/news/49719030/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-История_аэропорта_5-6",
+      "lang": ""
+    },
+    {
+      "text": "\"История аэропорта\"",
+      "url": "https://ashgabatairport.gov.tm/page/o-nas/istoriya",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"В Ашхабаде открыт пассажирский терминал нового Международного аэропорта | Интернет-газета\"",
+      "url": "http://www.turkmenistan.ru/ru/articles/39554.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"President Gurbanguly Berdimuhamedov attends the opening ceremony of a new terminal of the Ashgabat International Airport\"",
+      "url": "https://web.archive.org/web/20140524022728/http://turkmenistan.gov.tm/_eng/?id=3363",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://turkmenistan.gov.tm/_eng/?id=3363",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан: золотой век\"",
+      "url": "https://web.archive.org/web/20170812041107/http://www.turkmenistan.gov.tm/?id=5192",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenistan.gov.tm/?id=5192",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Грузовой терминал международного Аэропорта АшхабадИнформация\"",
+      "url": "https://turkmenistanairlines.tm/ru/information/show/gruzovoy-terminal-mezhdunarodnogo-aeroporta-ashhabad",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Ashgabat International Airport\"",
+      "url": "https://web.archive.org/web/20260804210834/https://www.naco.nl/en/projects/ashgabat-international-airport",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.naco.nl/en/projects/ashgabat-international-airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Ibelings van Tilburg architecten\"",
+      "url": "https://www.ibelingsvantilburg.nl/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Ashgabat International Airport\"",
+      "url": "https://web.archive.org/web/20250817155031/https://www.ibelingsvantilburg.nl/wp-content/uploads/2016/01/1790-I1.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.ibelingsvantilburg.nl/wp-content/uploads/2016/01/1790-I1.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"The President of Turkmenistan took part in the opening of new Ashgabat International Airport\"",
+      "url": "https://web.archive.org/web/20160918234422/http://www.turkmenistan.gov.tm/_eng/?id=6453",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenistan.gov.tm/_eng/?id=6453",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Türk firması Türkmenistan'da 2.25 milyar dolarlık ihale kazandı – Hürriyet EKONOMİ\"",
+      "url": "http://www.hurriyet.com.tr/ekonomi/22346975.asp",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"Toldy Construct – Transportation Buildings\"",
+      "url": "https://web.archive.org/web/20241009142034/https://toldyconstruct.com/stadiums",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://toldyconstruct.com/stadiums",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэропорт Ашхабада развивает потенциал крупного логистического центра на континенте » \"СНГ СЕГОДНЯ\" - последние новости стран СНГ читайте на SNG.TODAY\"",
+      "url": "https://sng.today/ashkhabad/6796-aeroport-ashhabada-razvivaet-potencial-krupnogo-logisticheskiy-centra-na-kontinente.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Грузовой терминал международного Аэропорта АшхабадИнформация - TurkmenistanAirlines\"",
+      "url": "https://turkmenistanairlines.tm/ru/information/show/gruzovoy-terminal-mezhdunarodnogo-aeroporta-ashhabad",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "Гостиница «Лачин» для транзитных пассажиров в аэропорту Ашхабада",
+      "url": "https://turkmenportal.com/catalog/1681",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Ashgabat International Airport\"",
+      "url": "https://www.ashgabatairport.gov.tm/services/4",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "New digital solutions at Ashgabat International Airport",
+      "url": "https://caa.gov.tm/item/2155",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "Международный аэропорт Ашхабада сообщил о запуске развлекательного ресурса для пассажиров",
+      "url": "https://turkmenportal.com/blog/91914/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"TELECOMWIFI в общественных местах | КЭ \"Туркментелеком\" \"",
+      "url": "https://telecom.tm/ru/wifi/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"«Лачин» - международный аэропорт экстра-класса\"",
+      "url": "https://tdh.gov.tm/ru/post/34224/lachin-mezhdunarodnyj-aeroport-ekstra-klassa",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания «Туркменистан» представила новое летнее расписание рейсов | Туризм\"",
+      "url": "https://turkmenportal.com/blog/75933/aviakompaniya-turkmenistan-predstavila-novoe-letnee-raspisanie-reisov",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "\"Ashgabat International Airport\"",
+      "url": "https://ashgabatairport.gov.tm/online_table",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Yandex\"",
+      "url": "https://rasp.yandex.ru/station/9631768/?event=arrival&date=all-days",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "\"China Southern Airlines boosts flights between Ashgabat and Urumqi\"",
+      "url": "https://en.trend.az/business/transport/3889481.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"南航2024冬航季启幕，乌鲁木齐出发，温暖每一程！\"",
+      "url": "https://mp.weixin.qq.com/s/3sa7RWOxmWqvAkrLtONO3Q",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Стало известно расписание рейсов FlyDubai из ОАЭ в Туркменистан и обратно | Туризм\"",
+      "url": "https://turkmenportal.com/blog/56226/stalo-izvestno-raspisanie-reisov-flydubai-iz-oae-v-turkmenistan-i-obratno",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"S7 Airlines flight schedule\"",
+      "url": "https://www.s7.ru/en/timetable/?departureCity=ASB",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines increases number of flights to Turkmenistan's Ashgabat\"",
+      "url": "https://www.azernews.az/region/206699.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "Новый международный аэропорт Балканабада начал принимать внутренние рейсы",
+      "url": "https://turkmenportal.com/ru/news/91207",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-35",
+      "lang": ""
+    },
+    {
+      "text": "\"Стали известны цены на рейсы \"Туркменских авиалиний\" в Пекин и Лондон из Ашхабада | Туризм\"",
+      "url": "https://turkmenportal.com/blog/58326/stali-izvestny-ceny-na-reisy-turkmenskih-avialinii-v-pekin-i-london-iz-ashhabada",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-36",
+      "lang": ""
+    },
+    {
+      "text": "Стало известно новое расписание внутренних рейсов авиакомпании «Туркменистан»",
+      "url": "https://www.turkmenportal.com/ru/news/58927-stalo-izvestno-novoe-raspisanie-vnutrennih-reisov-aviakompanii-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "Авиакомпания «Туркменистан» увеличит частоту рейсов из Ашхабада в Дели",
+      "url": "https://turkmenportal.com/ru/news/75948",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-38",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" станет реже летать из Ашхабада во Франкфурт-на-Майне | Туризм\"",
+      "url": "https://turkmenportal.com/blog/56291/aviakompaniya-turkmenistan-stanet-rezhe-letat-iz-ashhabada-vo-frankfurtnamaine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "New flights launched from Ashgabat to Milan and Ho Chi Minh City",
+      "url": "https://www.turkmenistan.gov.tm/en/post/81192/new-flights-launched-ashgabat-milan-and-ho-chi-minh-city",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-40",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines expands global reach with new international routes",
+      "url": "https://www.trend.az/business/4146545.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "Стало известно новое расписание внутренних рейсов авиакомпании «Туркменистан»",
+      "url": "https://www.turkmenportal.com/ru/news/58927",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-TM_Resumes_RU_NS25_42-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines to Resume Flights to Moscow and Kazan | Tourism\"",
+      "url": "https://www.turkmenportal.com/en/blog/90262/aviakompaniya-turkmenistan-vozobnovit-polety-v-moskvu-i-kazan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-43",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines launched two new flights",
+      "url": "https://www.turkmenistan.gov.tm/en/post/80493/turkmenistan-airlines-launched-two-new-flights",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-44",
+      "lang": ""
+    },
+    {
+      "text": "Вместо Хитроу самолет авиакомпании «Туркменистан» будет совершать посадку в Гатвике",
+      "url": "https://turkmenportal.com/ru/news/75236",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-45",
+      "lang": ""
+    },
+    {
+      "text": "New flights launched from Ashgabat to Milan and Ho Chi Minh City",
+      "url": "https://www.turkmenistan.gov.tm/en/post/81192/new-flights-launched-ashgabat-milan-and-ho-chi-minh-city",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-46",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines Launches Direct Flights between Ashgabat and Seoul",
+      "url": "https://turkmenportal.com/en/news/90674",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-47",
+      "lang": ""
+    },
+    {
+      "text": "Стало известно новое расписание внутренних рейсов авиакомпании «Туркменистан»",
+      "url": "https://www.turkmenportal.com/ru/news/58927-stalo-izvestno-novoe-raspisanie-vnutrennih-reisov-aviakompanii-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-48",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Turkmenistan\" Airlines will resume flights between Ashgabat and Turkmenbashy in August | Tourism\"",
+      "url": "https://turkmenportal.com/en/blog/93291/aviakompaniya-turkmenistan-vozobnovit-polety-mezhdu-ashhabadom-i-turkmenbashi-v-avguste",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-49",
+      "lang": ""
+    },
+    {
+      "text": "\"Special flight to perform Hajj will be organized for pilgrims from Turkmenistan\"",
+      "url": "https://caa.gov.tm/item/2114",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-50",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Belgium Completes First Flight to Turkmenistan | Logistics\"",
+      "url": "https://business.com.tm/post/16074/air-belgium-completes-first-flight-to-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"Cargolux Schedule Worldwide May 2023\"",
+      "url": "https://www.cargolux.com/media/x3inlsba/cargolux-schedule-worldwide-may-2023.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Cargolux",
+      "url": "https://en.wikipedia.org/wiki/Cargolux",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-52",
+      "lang": ""
+    },
+    {
+      "text": "\"A CARGO SHIP OF \"AIRBUS\" COMPANY HAS ARRIVED IN TURKMENISTAN\"",
+      "url": "https://turkmenistanairlines.tm/en/news/show/pervoe-vozdushnoe-sudno-kompanii-airbus-dostavleno-v-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"WELCOME CEREMONY OF THE SECOND CARGO AIRCRAFT AIRBUS 330-200 OF THE AGENCY \"TURKMENHOVAELLARY\" IN ASHGABAT INTERNATIONAL AIRPORT\"",
+      "url": "https://turkmenistanairlines.tm/en/news/show/tseremoniya-vstrechi-vtorogo-gruzovogo-samoleta-airbus-330-200-agentstva-turkmenhovaellary-v-mezhdunarodnom-aeroportu-ashhabada",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" открыли регулярные грузовые рейсы в Стамбул | Интернет-газета\"",
+      "url": "http://www.turkmenistan.ru/ru/node/28095",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-55",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" совершили первый грузовой рейс во Вьетнам на самолёте Airbus A330-200P2F\"",
+      "url": "https://web.archive.org/web/20230424182318/https://turkmenportal.com/blog/60908/turkmenskie-avialinii-sovershili-pervyi-gruzovoi-reis-vo-vetnam-na-samolete-airbus-a330200p2f",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://turkmenportal.com/blog/60908/turkmenskie-avialinii-sovershili-pervyi-gruzovoi-reis-vo-vetnam-na-samolete-airbus-a330200p2f",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" обеспечит грузовые перевозки между Вьетнамом и Великобританией\"",
+      "url": "https://web.archive.org/web/20230603083750/https://turkmenportal.com/blog/62197/aviakompaniya-turkmenistan-obespechit-gruzovye-perevozki-mezhdu-vetnamom-i-velikobritaniei",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://turkmenportal.com/blog/62197/aviakompaniya-turkmenistan-obespechit-gruzovye-perevozki-mezhdu-vetnamom-i-velikobritaniei",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-57",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" начинает грузовые перевозки в Милан и Шэньчжэнь\"",
+      "url": "https://web.archive.org/web/20230929143910/https://turkmenportal.com/blog/64188/aviakompaniya-turkmenistan-nachinaet-gruzovye-perevozki-v-milan-i-shenchzhen",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://turkmenportal.com/blog/64188/aviakompaniya-turkmenistan-nachinaet-gruzovye-perevozki-v-milan-i-shenchzhen",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-58",
+      "lang": ""
+    },
+    {
+      "text": "\"Шереметьево наградил пунктуальные и динамичные авиакомпании 2023 года // АвиаПорт.Новости\"",
+      "url": "https://www.aviaport.ru/news/sheremetevo-nagradil-punktualnye-i-dinamichnye-aviakompanii-2023-goda/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-59",
+      "lang": ""
+    },
+    {
+      "text": "\"Парковка машин\"",
+      "url": "https://ashgabatairport.gov.tm/page/uslugi/parkovka",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"Route | Automobile ministry of Turkmenistan\"",
+      "url": "https://ayauk.gov.tm/route/a/index?type=0",
+      "lang": ""
+    },
+    {
+      "text": "dead link",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Link_rot",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"Taksi hyzmatlaryny onlaýn usulynda sargyt etmek\"",
+      "url": "https://auh.com.tm/item/153",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-62",
+      "lang": ""
+    },
+    {
+      "text": "Банкноты образца 2017 года",
+      "url": "https://www.cbt.tm/ru/money/tm_manat_17.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-63",
+      "lang": ""
+    },
+    {
+      "text": "1 Manat Asian Martial Games",
+      "url": "https://ru.numista.com/204005",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-64",
+      "lang": ""
+    },
+    {
+      "text": "Туркменистан выпустил новые образцы банкнот и памятные монеты к Играм «Ашхабад 2017»",
+      "url": "https://turkmenportal.com/ru/news/11736",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport#cite_ref-65",
+      "lang": ""
+    },
+    {
+      "text": "К V Азиаде приурочен выпуск памятных монет и модифицированных образцов банкнот",
+      "url": "https://www.turkmenistan.gov.tm/index.php/ru/post/29577/k-v-aziade-priurochen-vypusk-pamyatnykh-monet-i-modifitsirovannykh-obraztsov-banknot",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&action=edit&section=21",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ashgabat%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://ashgabatairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for ASB",
+      "url": "https://web.archive.org/web/20121024075357/http://aviation-safety.net/database/airport/airport.php?id=ASB",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UTAA\"",
+      "url": "http://www.gcmap.com/airport/UTAA",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UTAA\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UTAA.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat International Airport presentation",
+      "url": "https://www.ashgabatairport.gov.tm/app/storage/app/media/@files/Broshura-%D0%9C%D0%90%D0%90.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20231226063136/https://www.ashgabatairport.gov.tm/app/storage/app/media/@files/Broshura-%D0%9C%D0%90%D0%90.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Oguzkhan Presidential Palace",
+      "url": "https://en.wikipedia.org/wiki/Oguzkhan_Presidential_Palace",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashy Palace",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashy_Palace?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "fr",
+      "url": "https://fr.wikipedia.org/wiki/Palais%20présidentiel%20d'Oguzhan",
+      "lang": ""
+    },
+    {
+      "text": "Ruhyýet Palace",
+      "url": "https://en.wikipedia.org/wiki/Ruhyýet_Palace",
+      "lang": ""
+    },
+    {
+      "text": "Wedding Palace",
+      "url": "https://en.wikipedia.org/wiki/Wedding_Palace_(Ashgabat)",
+      "lang": ""
+    },
+    {
+      "text": "Archabil Hotel Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Archabil_Hotel_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Grand Turkmen Hotel",
+      "url": "https://en.wikipedia.org/wiki/Grand_Turkmen_Hotel",
+      "lang": ""
+    },
+    {
+      "text": "Yyldyz Hotel",
+      "url": "https://en.wikipedia.org/wiki/Yyldyz_Hotel",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Flagpole",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Flagpole",
+      "lang": ""
+    },
+    {
+      "text": "Fountain",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Fountain",
+      "lang": ""
+    },
+    {
+      "text": "Halk Hakydasy Memorial Complex",
+      "url": "https://en.wikipedia.org/wiki/Halk_Hakydasy_Memorial_Complex",
+      "lang": ""
+    },
+    {
+      "text": "Independence Monument",
+      "url": "https://en.wikipedia.org/wiki/Independence_Monument,_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Monument to the Constitution",
+      "url": "https://en.wikipedia.org/wiki/Monument_to_the_Constitution",
+      "lang": ""
+    },
+    {
+      "text": "Neutrality Monument",
+      "url": "https://en.wikipedia.org/wiki/Neutrality_Monument",
+      "lang": ""
+    },
+    {
+      "text": "Ertuğrul Gazi Mosque",
+      "url": "https://en.wikipedia.org/wiki/Ertuğrul_Gazi_Mosque",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy Ruhy Mosque",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_Ruhy_Mosque",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat National Museum of History",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_National_Museum_of_History",
+      "lang": ""
+    },
+    {
+      "text": "Exhibition Hall of the Ministry of Culture",
+      "url": "https://en.wikipedia.org/wiki/Exhibition_Hall_of_the_Ministry_of_Culture",
+      "lang": ""
+    },
+    {
+      "text": "State Academy of Arts of Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/State_Academy_of_Arts_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen Carpet Museum",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Carpet_Museum",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Cultural Centre",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Cultural_Centre",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen Museum of Fine Arts",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Museum_of_Fine_Arts",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Mall",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Shopping_and_Entertainment_Center?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Altyn Asyr Bazaar",
+      "url": "https://en.wikipedia.org/wiki/Altyn_Asyr_Bazaar",
+      "lang": ""
+    },
+    {
+      "text": "Berkarar Mall",
+      "url": "https://en.wikipedia.org/wiki/Berkarar",
+      "lang": ""
+    },
+    {
+      "text": "Central Bank of Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Central_Bank_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Russian Bazaar",
+      "url": "https://en.wikipedia.org/wiki/Russian_Bazaar,_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat cinema",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_cinema",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen Puppet Theatre",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Puppet_Theatre",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen State Circus",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_State_Circus",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen National Theatre of Youth",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_National_Theatre_of_Youth",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Russian Drama Theatre",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Russian_Drama_Theatre_named_after_Pushkin",
+      "lang": ""
+    },
+    {
+      "text": "Magtymguly Pyragy Cultural Park Complex",
+      "url": "https://en.wikipedia.org/wiki/Magtymguly_Pyragy_Cultural_Park_Complex",
+      "lang": ""
+    },
+    {
+      "text": "Inspiration Park",
+      "url": "https://en.wikipedia.org/wiki/Inspiration_Park",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Zoo",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Zoo",
+      "lang": ""
+    },
+    {
+      "text": "Institute of International Relations",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_International_Relations_(Turkmenistan)",
+      "lang": ""
+    },
+    {
+      "text": "Institute of Telecommunications and Informatics of Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_Telecommunications_and_Informatics_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "International Oil and Gas University",
+      "url": "https://en.wikipedia.org/wiki/International_Oil_and_Gas_University",
+      "lang": ""
+    },
+    {
+      "text": "International Turkmen-Turkish University",
+      "url": "https://en.wikipedia.org/wiki/International_Turkmen-Turkish_University",
+      "lang": ""
+    },
+    {
+      "text": "International University of Humanities and Development",
+      "url": "https://en.wikipedia.org/wiki/International_University_of_Humanities_and_Development",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen Agricultural University",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Agricultural_University_Named_after_S.A._Niyazov",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen State Institute of Architecture and Construction",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_State_Institute_of_Architecture_and_Construction",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen State Institute of Economics and Management",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_State_Institute_of_Economics_and_Management",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen State Medical University",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_State_Medical_University",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen State University",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_State_University",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Stadium",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Stadium",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Velodrome",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Velodrome",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Watersports Complex",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Watersports_Complex",
+      "lang": ""
+    },
+    {
+      "text": "Galkan Winter Sports Centre",
+      "url": "https://en.wikipedia.org/wiki/Galkan_Winter_Sports_Centre",
+      "lang": ""
+    },
+    {
+      "text": "HTTU Stadium",
+      "url": "https://en.wikipedia.org/wiki/HTTU_Stadium",
+      "lang": ""
+    },
+    {
+      "text": "Köpetdag Stadium",
+      "url": "https://en.wikipedia.org/wiki/Köpetdag_Stadium",
+      "lang": ""
+    },
+    {
+      "text": "Nusaý Stadium",
+      "url": "https://en.wikipedia.org/wiki/Nusaý_Stadium",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Olympic Stadium",
+      "url": "https://en.wikipedia.org/wiki/Saparmurat_Turkmenbashi_Olympic_Stadium",
+      "lang": ""
+    },
+    {
+      "text": "Winter Sports Complex Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Winter_Sports_Complex_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Ice Palace",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Ice_Palace",
+      "lang": ""
+    },
+    {
+      "text": "International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cable Car",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Cable_Car",
+      "lang": ""
+    },
+    {
+      "text": "Monorail",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Monorail",
+      "lang": ""
+    },
+    {
+      "text": "Railway station",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Trolleybuses_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Archabil Avenue",
+      "url": "https://en.wikipedia.org/wiki/Archabil_Avenue",
+      "lang": ""
+    },
+    {
+      "text": "Bitarap Turkmenistan Avenue",
+      "url": "https://en.wikipedia.org/wiki/Bitarap_Turkmenistan_Avenue",
+      "lang": ""
+    },
+    {
+      "text": "Independence Square",
+      "url": "https://en.wikipedia.org/wiki/Independence_Square,_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Galkynysh Square",
+      "url": "https://en.wikipedia.org/wiki/Galkynysh_Square,_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Makhtumkuli Avenue",
+      "url": "https://en.wikipedia.org/wiki/Makhtumkuli_Avenue",
+      "lang": ""
+    },
+    {
+      "text": "Category:Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Category:Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&oldid=1378383758",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&oldid=1378383758",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Category:Transport_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 1994",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_1994",
+      "lang": ""
+    },
+    {
+      "text": "1994 establishments in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:1994_establishments_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from August 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Turkmen-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Turkmen-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Turkmen-language sources (tk)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Turkmen-language_sources_(tk)",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from August 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_August_2026",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All articles with dead external links",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with dead external links from July 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2026",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ashgabat_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tm-01.txt"
+}

@@ -1,0 +1,459 @@
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+Map of airports and military airbases in Belarus
+This is a
+list of
+airports
+in
+Belarus
+, grouped by type and sorted by location.
+Airports
+[
+edit
+]
+Airport names shown in
+bold
+indicate the airport has scheduled service on commercial airlines.
+City served
+Province
+ICAO
+IATA
+Airport name
+Coordinates
+Public airports
+Brest
+Brest Region
+UMBB
+BQT
+Brest Airport
+52°06′30″N
+023°53′53″E
+﻿
+/
+﻿
+52.10833°N 23.89806°E
+﻿
+/
+52.10833; 23.89806
+﻿
+(
+Brest Airport
+)
+Gomel
+(Homiel)
+Gomel Region
+UMGG
+GME
+Gomel Airport
+52°31′37″N
+031°01′00″E
+﻿
+/
+﻿
+52.52694°N 31.01667°E
+﻿
+/
+52.52694; 31.01667
+﻿
+(
+Gomel Airport
+)
+Grodno
+(Hrodna)
+Grodno Region
+UMMG
+GNA
+Grodno (Hrodna) Airport
+53°36′07″N
+024°03′13″E
+﻿
+/
+﻿
+53.60194°N 24.05361°E
+﻿
+/
+53.60194; 24.05361
+﻿
+(
+Hrodna Airport
+)
+Minsk
+Minsk Region
+UMMS
+MSQ
+Minsk National Airport
+(Minsk-2)
+53°52′56″N
+028°01′50″E
+﻿
+/
+﻿
+53.88222°N 28.03056°E
+﻿
+/
+53.88222; 28.03056
+﻿
+(
+Minsk National Airport (Minsk-2)
+)
+Mogilev
+(Mahilyow)
+Mogilev Region
+UMOO
+MVQ
+Mogilev Airport
+53°57′17″N
+030°05′42″E
+﻿
+/
+﻿
+53.95472°N 30.09500°E
+﻿
+/
+53.95472; 30.09500
+﻿
+(
+Mogilev Airport
+)
+Polotsk
+(Polatsk)
+Vitebsk Region
+Polotsk Airport
+55°24′42″N
+028°44′54″E
+﻿
+/
+﻿
+55.41167°N 28.74833°E
+﻿
+/
+55.41167; 28.74833
+﻿
+(
+Polotsk Airport
+)
+Vitebsk
+Vitebsk Region
+UMII
+VTB
+Vitebsk Vostochny Airport
+55°07′35″N
+030°20′58″E
+﻿
+/
+﻿
+55.12639°N 30.34944°E
+﻿
+/
+55.12639; 30.34944
+﻿
+(
+Vitebsk Vostochny Airport
+)
+Military airports
+Gomel
+(Homiel)
+Gomel Region
+Pribytki Air Base
+52°18′18″N
+031°09′48″E
+﻿
+/
+﻿
+52.30500°N 31.16333°E
+﻿
+/
+52.30500; 31.16333
+﻿
+(
+Pribytki Air Base
+)
+Luninets
+Brest Region
+UMNL
+Luninets Air Base
+52°16′30″N
+026°46′30″E
+﻿
+/
+﻿
+52.27500°N 26.77500°E
+﻿
+/
+52.27500; 26.77500
+﻿
+(
+Luninets Air Base
+)
+Machulishchy
+Minsk Region
+UMLI
+Machulishchy (air base)
+[
+1
+]
+53°46′24″N
+027°34′48″E
+﻿
+/
+﻿
+53.77333°N 27.58000°E
+﻿
+/
+53.77333; 27.58000
+﻿
+(
+Machulishi Air Base
+)
+Orsha
+Vitebsk Region
+Balbasovo Air Base
+54°26′24″N
+030°17′48″E
+﻿
+/
+﻿
+54.44000°N 30.29667°E
+﻿
+/
+54.44000; 30.29667
+﻿
+(
+Balbasovo Air Base
+)
+Pastavy
+(Postavy)
+Vitebsk Region
+Postavy Air Base
+55°07′00″N
+026°45′42″E
+﻿
+/
+﻿
+55.11667°N 26.76167°E
+﻿
+/
+55.11667; 26.76167
+﻿
+(
+Postavy Air Base
+)
+Polotsk
+(Polatsk)
+Vitebsk Region
+Borovitsy Air Base
+55°36′30″N
+028°40′42″E
+﻿
+/
+﻿
+55.60833°N 28.67833°E
+﻿
+/
+55.60833; 28.67833
+﻿
+(
+Borovitsy Air Base
+)
+Vitebsk
+Vitebsk Region
+Vitebsk Air Base
+55°15′18″N
+030°14′48″E
+﻿
+/
+﻿
+55.25500°N 30.24667°E
+﻿
+/
+55.25500; 30.24667
+﻿
+(
+Vitebsk Air Base
+)
+Babruysk
+Mogilev Region
+Babruysk Air Base
+53°06′17″N
+029°12′21″E
+﻿
+/
+﻿
+53.10472°N 29.20583°E
+﻿
+/
+53.10472; 29.20583
+﻿
+(
+Babruysk Air Base
+)
+Former airport
+Minsk
+Minsk Region
+UMMM
+MHP
+Minsk-1 Airport
+53°51′52″N
+027°32′22″E
+﻿
+/
+﻿
+53.86444°N 27.53944°E
+﻿
+/
+53.86444; 27.53944
+﻿
+(
+Minsk-1 Airport
+)
+See also
+[
+edit
+]
+Transport in Belarus
+Belarusian Air Force
+List of airports by ICAO code: U#UM - Belarus (and Kaliningrad, Russia)
+Wikipedia:WikiProject Aviation/Airline destination lists: Europe#Belarus
+References
+[
+edit
+]
+↑
+"UMLI - Minsk/Machulishchi Airport"
+. Archived from
+the original
+on 2019-04-14
+. Retrieved
+2016-05-18
+.
+"ICAO Location Indicators by State"
+(PDF)
+.
+International Civil Aviation Organization
+. 17 September 2010. Archived from
+the original
+(PDF)
+on 25 March 2019
+. Retrieved
+27 August
+2012
+.
+"IATA Airline and Airport Code Search"
+.
+International Air Transport Association
+.
+"UN Location Codes: Belarus"
+.
+UN/LOCODE
+2012-1
+.
+UNECE
+. 14 September 2012.
+– includes IATA codes
+"Airports in Belarus". World Aero Data.
+{{
+cite web
+}}
+:  CS1 maint: deprecated archival service (
+link
+)
+– ICAO codes and coordinates
+"Airports in Belarus"
+. Great Circle Mapper.
+– IATA codes, ICAO codes and coordinates
+v
+t
+e
+Airports
+in
+Belarus
+International
+Major
+Minsk National
+Minor
+Brest
+Gomel (Homyel)
+Viciebsk Uschodni
+Mahilyow
+Unscheduled
+Grodno (Hrodna)
+Defunct
+Minsk-1
+v
+t
+e
+Lists of airports in Europe
+Sovereign states
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Kazakhstan
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+North Macedonia
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Vatican City
+States with limited
+recognition
+Abkhazia
+Kosovo
+Northern Cyprus
+Transnistria
+Dependencies and
+other entities
+Åland
+Faroe Islands
+Gibraltar
+Guernsey
+Isle of Man
+Jersey
+Svalbard
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&oldid=1311828710
+"

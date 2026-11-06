@@ -1,0 +1,79 @@
+{
+  "id": "zhetysu-departures",
+  "url": "https://www.zhetysuavia.kz/ru/flights/departures",
+  "retrievedAt": "2026-11-06T08:33:08.451623+00:00",
+  "status": 200,
+  "finalUrl": "https://www.zhetysuavia.kz/ru/flights/departures",
+  "bytes": 176223,
+  "sha256": "b3616ddcd8375c60ef7e84212be3a6aea30ab5a2c0dc1cc4958fc30b031882a0",
+  "file": "sources/neighbours-2026-11-06/zhetysu-departures.html",
+  "title": "TDK & USJ Airport",
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.zhetysuavia.kz/",
+      "lang": ""
+    },
+    {
+      "text": "Вылет",
+      "url": "https://www.zhetysuavia.kz/ru/flights/departures",
+      "lang": ""
+    },
+    {
+      "text": "Прибытие",
+      "url": "https://www.zhetysuavia.kz/ru/flights/arrivals",
+      "lang": ""
+    },
+    {
+      "text": "Расписание рейсов",
+      "url": "https://www.zhetysuavia.kz/ru/flights/schedule",
+      "lang": ""
+    },
+    {
+      "text": "Аэропорт Талдыкорган",
+      "url": "https://www.zhetysuavia.kz/ru/airports/taldykorgan",
+      "lang": ""
+    },
+    {
+      "text": "Аэропорт Ушарал",
+      "url": "https://www.zhetysuavia.kz/ru/airports/usharal",
+      "lang": ""
+    },
+    {
+      "text": "Новости и обновления",
+      "url": "https://www.zhetysuavia.kz/ru/information/news",
+      "lang": ""
+    },
+    {
+      "text": "Доступность и специальная помощь",
+      "url": "https://www.zhetysuavia.kz/ru/information/special-assistance",
+      "lang": ""
+    },
+    {
+      "text": "Часто задаваемые вопросы",
+      "url": "https://www.zhetysuavia.kz/ru/information/faq",
+      "lang": ""
+    },
+    {
+      "text": "zhetysuavia@mail.ru",
+      "url": "mailto:zhetysuavia@mail.ru",
+      "lang": ""
+    },
+    {
+      "text": "Правительство Казахстана",
+      "url": "https://www.akorda.kz",
+      "lang": ""
+    },
+    {
+      "text": "Туризм Казахстана",
+      "url": "https://kazakhstan.travel/ru",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/zhetysuavia.kz",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/zhetysu-departures.txt"
+}

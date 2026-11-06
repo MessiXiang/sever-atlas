@@ -1,0 +1,469 @@
+{
+  "id": "silk-home-current",
+  "url": "https://www.silk-avia.com/en/",
+  "retrievedAt": "2026-11-06T11:05:02.682929+00:00",
+  "status": 200,
+  "finalUrl": "https://www.silk-avia.com/en/",
+  "bytes": 169917,
+  "sha256": "d219c31b787bf8e43f637d4d3d6f083af7958e2ab1e45d593adc1eaf1abfcc33",
+  "file": "sources/neighbours-2026-11-06/silk-home-current.html",
+  "title": "Silkavia",
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://www.silk-avia.com/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Our Fleet",
+      "url": "https://www.silk-avia.com/en/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Management",
+      "url": "https://www.silk-avia.com/en/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Important and useful",
+      "url": "https://www.silk-avia.com/en/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Rules",
+      "url": "https://www.silk-avia.com/en/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Career",
+      "url": "https://www.silk-avia.com/en/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Routes",
+      "url": "https://www.silk-avia.com/en/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Timetable",
+      "url": "https://drive.google.com/file/d/1MNiKJlPa6V9dvWaP2K12Lzdyz7wghf8W/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Manage Booking",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=en",
+      "lang": ""
+    },
+    {
+      "text": "Congratulations service",
+      "url": "https://www.silk-avia.com/en/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Flight certificate",
+      "url": "https://www.silk-avia.com/en/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Cancel booking",
+      "url": "https://www.silk-avia.com/en/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.silk-avia.com/en/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz",
+      "lang": ""
+    },
+    {
+      "text": "UZ",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://www.silk-avia.com/en/#minmenu-sub-1",
+      "lang": ""
+    },
+    {
+      "text": "Our Fleet",
+      "url": "https://www.silk-avia.com/en/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Management",
+      "url": "https://www.silk-avia.com/en/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Important and useful",
+      "url": "https://www.silk-avia.com/en/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Rules",
+      "url": "https://www.silk-avia.com/en/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Career",
+      "url": "https://www.silk-avia.com/en/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Routes",
+      "url": "https://www.silk-avia.com/en/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Timetable",
+      "url": "https://drive.google.com/file/d/1MNiKJlPa6V9dvWaP2K12Lzdyz7wghf8W/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Manage Booking",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=en",
+      "lang": ""
+    },
+    {
+      "text": "Congratulations service",
+      "url": "https://www.silk-avia.com/en/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Flight certificate",
+      "url": "https://www.silk-avia.com/en/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Cancel booking",
+      "url": "https://www.silk-avia.com/en/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.silk-avia.com/en/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://www.silk-avia.com/en/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501-22-12",
+      "url": "tel:+998 55 501-22-12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "mailto:silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Download",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "Download",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/",
+      "lang": ""
+    },
+    {
+      "text": "UZ",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/.min-menu, .min-header",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/#header-hidden",
+      "lang": ""
+    },
+    {
+      "text": "More",
+      "url": "https://silk-avia.com/en/flights/",
+      "lang": ""
+    },
+    {
+      "text": "From {{from_city.city_abbr}} From {{from_city.city_name}}",
+      "url": "https://www.silk-avia.com/en/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "To {{to_city.city_abbr}} To {{to_city.city_name}}",
+      "url": "https://www.silk-avia.com/en/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Departure date Select date",
+      "url": "https://www.silk-avia.com/en/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "Return Select date",
+      "url": "https://www.silk-avia.com/en/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/#modal-atention",
+      "lang": ""
+    },
+    {
+      "text": "Done",
+      "url": "javascript:;",
+      "lang": ""
+    },
+    {
+      "text": "From {{from_city.city_name}} {{from_city.city_abbr}}",
+      "url": "https://www.silk-avia.com/en/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "To {{to_city.city_name}} {{to_city.city_abbr}}",
+      "url": "https://www.silk-avia.com/en/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Departure date Select date",
+      "url": "https://www.silk-avia.com/en/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "Return Select date",
+      "url": "https://www.silk-avia.com/en/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/#passengers-sub",
+      "lang": ""
+    },
+    {
+      "text": "Done",
+      "url": "javascript:;",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/en/#modal-atention",
+      "lang": ""
+    },
+    {
+      "text": "Congratulations on Board: Silk Avia Launches a New Service for Your Special Moments! 3 June 2026",
+      "url": "https://www.silk-avia.com/en/news/congrats-on-board/",
+      "lang": ""
+    },
+    {
+      "text": "Update on Domestic Flight Fare Levels 15 January 2026",
+      "url": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia Launches Daily Flights from Tashkent to Issyk-Kul 30 June 2025",
+      "url": "https://www.silk-avia.com/en/news/silk-avia-launches-daily-flights-from-tashkent-to-issyk-kul/",
+      "lang": ""
+    },
+    {
+      "text": "Online Payments Now Available for Visa and MasterCard Holders 26 June 2025",
+      "url": "https://www.silk-avia.com/en/news/online-payments-now-available-for-visa-and-mastercard-holders/",
+      "lang": ""
+    },
+    {
+      "text": "First scheduled flight to Sariosiyo 30 May 2025",
+      "url": "https://www.silk-avia.com/en/news/first-scheduled-flight-to-sariosiyo/",
+      "lang": ""
+    },
+    {
+      "text": "Forgot password?",
+      "url": "https://www.silk-avia.com/en/auth/forgot.php",
+      "lang": ""
+    },
+    {
+      "text": "Register",
+      "url": "https://www.silk-avia.com/en/auth/reg.php",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501 22 12",
+      "url": "tel:+998 55 501 22 12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "https://www.silk-avia.com/en/silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/silkavia_live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "Routes",
+      "url": "https://www.silk-avia.com/en/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Timetable",
+      "url": "https://drive.google.com/file/d/1MNiKJlPa6V9dvWaP2K12Lzdyz7wghf8W/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Tenders",
+      "url": "https://drive.google.com/drive/folders/1la9oYFOXjQ91J6_fS30c3tnvz36T0H-y",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://www.silk-avia.com/en/about/",
+      "lang": ""
+    },
+    {
+      "text": "Our Fleet",
+      "url": "https://www.silk-avia.com/en/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Management",
+      "url": "https://www.silk-avia.com/en/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Offices",
+      "url": "https://www.silk-avia.com/en/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Career",
+      "url": "https://www.silk-avia.com/en/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Info",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "Important and useful",
+      "url": "https://www.silk-avia.com/en/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Rules",
+      "url": "https://www.silk-avia.com/en/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.silk-avia.com/en/news/",
+      "lang": ""
+    },
+    {
+      "text": "Feedback",
+      "url": "https://www.silk-avia.com/en/contacts/#feedback",
+      "lang": ""
+    },
+    {
+      "text": "Life-Style.uz",
+      "url": "https://life-style.uz/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/silk-home-current.txt"
+}

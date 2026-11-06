@@ -1,0 +1,24 @@
+{
+  "id": "tajikair-destinations",
+  "url": "https://www.tajikair.tj/destinations.html",
+  "retrievedAt": "2026-11-06T08:23:30.126470+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/destinations.html",
+  "bytes": 1972,
+  "sha256": "f4fd2febf5df2ad6a3cd68c89cd41a0f6f51b51b552cfad99aa11811755999a5",
+  "file": "sources/neighbours-2026-11-06/tajikair-destinations.html",
+  "title": "Направления — Tajik Air",
+  "links": [
+    {
+      "text": "+992 905-100-200",
+      "url": "tel:+992905100200",
+      "lang": ""
+    },
+    {
+      "text": "info@tajikairlines.com",
+      "url": "mailto:info@tajikairlines.com",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-destinations.txt"
+}

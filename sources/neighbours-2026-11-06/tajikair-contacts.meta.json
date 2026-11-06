@@ -1,0 +1,24 @@
+{
+  "id": "tajikair-contacts",
+  "url": "https://www.tajikair.tj/contacts.html",
+  "retrievedAt": "2026-11-06T08:23:30.127131+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/contacts.html",
+  "bytes": 1986,
+  "sha256": "6bded1a4152a29054480229572875820f396cb5f5205226b7cb47a9dc1739302",
+  "file": "sources/neighbours-2026-11-06/tajikair-contacts.html",
+  "title": "Контакты — Tajik Air",
+  "links": [
+    {
+      "text": "+992 905-100-200",
+      "url": "tel:+992905100200",
+      "lang": ""
+    },
+    {
+      "text": "info@tajikairlines.com",
+      "url": "mailto:info@tajikairlines.com",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt"
+}

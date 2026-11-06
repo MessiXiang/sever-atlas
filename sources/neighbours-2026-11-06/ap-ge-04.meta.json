@@ -1,0 +1,3894 @@
+{
+  "id": "ap-ge-04",
+  "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+  "retrievedAt": "2026-11-06T08:39:03.915237+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+  "bytes": 258416,
+  "sha256": "6e640222c8f8f93f363c6f2091e582050ea2577848df0420f8006188bb44288d",
+  "file": "sources/neighbours-2026-11-06/ap-ge-04.html",
+  "title": "Sukhum International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Sukhum+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Sukhum+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Sukhum+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Sukhum+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 Incidents",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#Incidents",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_de_Babushara",
+      "lang": "ast"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC%D1%96_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Sukhumi_Dranda_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Suchumi-Babu%C5%A1ara",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Sochumi-Babuschara",
+      "lang": "de"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_de_Babushara",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%B3%D9%88%D8%AE%D9%88%D9%85%DB%8C_%D8%AF%D8%B1%D9%86%D8%AF%D8%A7",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Soukhoumi-Dranda",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%A1%D7%95%D7%97%D7%95%D7%9E%D7%99_%D7%91%D7%91%D7%95%D7%A9%D7%A8%D7%94",
+      "lang": "he"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%95%E3%83%9F%E3%83%BB%E3%83%90%E3%83%96%E3%82%B7%E3%83%A3%E3%83%A9%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%91%E1%83%A3%E1%83%A8%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Babushara",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Suchumi-Dranda",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_de_Sucumi-Babushara",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Sukhumi_Babushara",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "ᱥᱟᱱᱛᱟᱲᱤ",
+      "url": "https://sat.wikipedia.org/wiki/%E1%B1%A5%E1%B1%A9%E1%B1%A0%E1%B1%B7%E1%B1%A9%E1%B1%A2%E1%B1%A4_%E1%B1%B5%E1%B1%9F%E1%B1%B5%E1%B1%A9%E1%B1%A5%E1%B1%9F%E1%B1%A8%E1%B1%9F_%E1%B1%A9%E1%B1%B0%E1%B1%9F%E1%B1%B9%E1%B1%B1_%E1%B1%B0%E1%B1%9F%E1%B1%B9%E1%B1%A6%E1%B1%A4",
+      "lang": "sat"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Suchumi_Dranda_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D1%81%D1%83%D1%85%D1%83%D0%BC%D0%B8_%D0%B4%D1%80%D0%BD%D0%B4%D0%BE",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Sohum_Dranda_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "მარგალური",
+      "url": "https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%91%E1%83%A3%E1%83%A8%E1%83%90%E1%83%A0%E1%83%90%E1%83%A8_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "xmf"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2347363#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&oldid=1372812545",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Sukhum_International_Airport&id=1372812545&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Sukhum_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2347363",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "42°51′29″N 041°07′41″E ﻿ / ﻿ 42.85806°N 41.12806°E ﻿ / 42.85806; 41.12806",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Sukhum_International_Airport&params=42_51_29_N_041_07_41_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi Babushara Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhumi_Babushara_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:SUI-logo-ru.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Новый_терминал_аэропорта_Сухум_(2025).jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "Moscow Time",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Time",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "42°51′29″N 041°07′41″E ﻿ / ﻿ 42.85806°N 41.12806°E ﻿ / 42.85806; 41.12806",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Sukhum_International_Airport&params=42_51_29_N_041_07_41_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://sukhumaero.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q2347363#P856",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Abkhazia_Locator_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Europe_blank_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:West_Asia_non_political_with_water_system.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Map_of_Eurasia.png",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Vladislav Ardzinba",
+      "url": "https://en.wikipedia.org/wiki/Vladislav_Ardzinba",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Dranda",
+      "url": "https://en.wikipedia.org/wiki/Dranda",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi",
+      "lang": ""
+    },
+    {
+      "text": "unrecognised republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Moscow",
+      "url": "https://en.wikipedia.org/wiki/Moscow",
+      "lang": ""
+    },
+    {
+      "text": "war in Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992–1993)",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "civil war",
+      "url": "https://en.wikipedia.org/wiki/Georgian_civil_war_of_1991–1993",
+      "lang": ""
+    },
+    {
+      "text": "HALO Trust",
+      "url": "https://en.wikipedia.org/wiki/HALO_Trust",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "government of the Republic of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_the_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Gudauta",
+      "url": "https://en.wikipedia.org/wiki/Gudauta",
+      "lang": ""
+    },
+    {
+      "text": "Russian military",
+      "url": "https://en.wikipedia.org/wiki/Russian_military",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "People's Assembly of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/People's_Assembly_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "UVT Aero",
+      "url": "https://en.wikipedia.org/wiki/UVT_Aero",
+      "lang": ""
+    },
+    {
+      "text": "Vnukovo Airport",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Ikar",
+      "url": "https://en.wikipedia.org/wiki/Ikar_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Nordwind Airlines",
+      "url": "https://en.wikipedia.org/wiki/Nordwind_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Kurchatov_Chelyabinsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Nizhniy Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Strigino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Omsk",
+      "url": "https://en.wikipedia.org/wiki/Omsk_Central_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Samara",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "RusLine",
+      "url": "https://en.wikipedia.org/wiki/RusLine",
+      "lang": ""
+    },
+    {
+      "text": "Khanty-Mansiysk",
+      "url": "https://en.wikipedia.org/wiki/Khanty-Mansiysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Orenburg",
+      "url": "https://en.wikipedia.org/wiki/Orenburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Ural Airlines",
+      "url": "https://en.wikipedia.org/wiki/Ural_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "Samara",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Tu-134A",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-134",
+      "lang": ""
+    },
+    {
+      "text": "Let L-410M",
+      "url": "https://en.wikipedia.org/wiki/Let_L-410_Turbolet",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Moscow",
+      "url": "https://en.wikipedia.org/wiki/Moscow",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "1993 Sukhumi airliner attacks",
+      "url": "https://en.wikipedia.org/wiki/1993_Sukhumi_airliner_attacks",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "is formally recognised as an independent state",
+      "url": "https://en.wikipedia.org/wiki/International_recognition_of_Abkhazia_and_South_Ossetia",
+      "lang": ""
+    },
+    {
+      "text": "de jure",
+      "url": "https://en.wikipedia.org/wiki/De_jure",
+      "lang": ""
+    },
+    {
+      "text": "Russian-occupied territory",
+      "url": "https://en.wikipedia.org/wiki/Occupied_territories_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Сертификат_соответствия_аэродрома_№1 - Международный аэропорт Сухум\"",
+      "url": "https://sukhumaero.com/upload/iblock/3c1/9479s9vcgjjlfoo7s2utvrlj3otkwa41/Sertifikat_sootvetstviya_aerodroma_1.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for Sukhumi Dranda Airport (UG29)\"",
+      "url": "http://www.worldaerodata.com/wad.cgi?airport=UG29",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Сертификат САБ № 1 - Международный аэропорт Сухум\"",
+      "url": "https://sukhumaero.com/upload/iblock/d80/1tayn63v0w3toumeeqnyr3h1lziq92xu/Sertifikat-SAB-_-1.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Russia Occupied Abkhazia Plans to Open Sokhumi Airport\"",
+      "url": "https://civil.ge/archives/315157",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Accident history for Sukhumi-Babusheri Airport (SUI / UGSS)\"",
+      "url": "https://web.archive.org/web/20061004031440/http://aviation-safety.net/database/airport/airport.php?id=SUI",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://aviation-safety.net/database/airport/airport.php?id=SUI",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Восстановлено авиасообщение между Россией и Абхазией\"",
+      "url": "https://www.svoboda.org/a/aeroport-suhumi-prinyal-pervyy-za-30-let-regulyarnyy-aviareys-iz-moskvy/33402316.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Sukhum's Airport May Soon Resume Operation\"",
+      "url": "https://web.archive.org/web/20070928080722/http://www.abkhaziagov.org/en/news/detail.php?ID=3820",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.abkhaziagov.org/en/news/detail.php?ID=3820",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgia's permission necessary to open int'l flights at Sukhum airport – Tbilisi\"",
+      "url": "http://www.interfax.com/newsinf.asp?id=917709",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Заседание Кабинета Министров под председательством Президента\"",
+      "url": "http://presidentofabkhazia.org/about/info/news/?ELEMENT_ID=10768",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Abkhazia approves private Russian investor to fund reconstruction of Sukhumi airport\"",
+      "url": "https://oc-media.org/abkhazia-approves-private-russian-investor-to-fund-reconstruction-of-sukhumi-airport/",
+      "lang": ""
+    },
+    {
+      "text": "OC Media",
+      "url": "https://en.wikipedia.org/wiki/OC_Media",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"В аэропорту «Сухум» приземлился первый тестовый рейс из Москвы\"",
+      "url": "https://www.kommersant.ru/doc/7494844",
+      "lang": ""
+    },
+    {
+      "text": "Kommersant",
+      "url": "https://en.wikipedia.org/wiki/Kommersant",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Из Москвы в Абхазию вылетел первый рейс после 30-летнего перерыва\"",
+      "url": "https://www.kommersant.ru/doc/7694732",
+      "lang": ""
+    },
+    {
+      "text": "Kommersant",
+      "url": "https://en.wikipedia.org/wiki/Kommersant",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight Perm(PEE) to Sukhumi(SUI)\"",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "url": "https://flyteam.jp/en/airline_route/sui_mrv/flight_schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Tu-134 c/n 17113\"",
+      "url": "https://www.scramble.nl/database/soviet/details/176_67863",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"L-410M c/n 781120\"",
+      "url": "https://www.scramble.nl/database/soviet/details/113_63786",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "\"Collision of Tu-134A and L-410M of Georgian UGA at Sukhumi Airport\"",
+      "url": "http://www.airdisaster.ru/database.php?id=44",
+      "lang": ""
+    },
+    {
+      "text": "\"Aircraft accident Let L-410M CCCP-67191 Sukhumi-Babusheri Airport (SUI)\"",
+      "url": "https://www.webcitation.org/6Fi3yUhsC?url=http://aviation-safety.net/database/record.php?id=19820814-0",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://aviation-safety.net/database/record.php?id=19820814-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Aircraft accident Tupolev 134A CCCP-65836 Sukhumi-Babusheri Airport (SUI)\"",
+      "url": "https://www.webcitation.org/6Fi3zAzqm?url=http://aviation-safety.net/database/record.php?id=19820814-1",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://aviation-safety.net/database/record.php?id=19820814-1",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Abkhazia_topics",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Abkhazia_topics",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Abkhazia_topics",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "articles",
+      "url": "https://en.wikipedia.org/wiki/Index_of_Abkhazia-related_articles",
+      "lang": ""
+    },
+    {
+      "text": "History",
+      "url": "https://en.wikipedia.org/wiki/History_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Prehistory",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Lazica",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Lazica",
+      "lang": ""
+    },
+    {
+      "text": "Abasgia",
+      "url": "https://en.wikipedia.org/wiki/Abasgia",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kingdom of Georgia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Duchy of Tskhumi",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Tskhumi",
+      "lang": ""
+    },
+    {
+      "text": "Principality of Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Russian rule",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Socialist_Soviet_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Autonomy",
+      "url": "https://en.wikipedia.org/wiki/Abkhaz_Autonomous_Soviet_Socialist_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Secession",
+      "url": "https://en.wikipedia.org/wiki/Abkhaz–Georgian_conflict",
+      "lang": ""
+    },
+    {
+      "text": "Georgian exodus",
+      "url": "https://en.wikipedia.org/wiki/Ethnic_cleansing_of_Georgians_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "United Nations Mission",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Observer_Mission_in_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Russo-Georgian War",
+      "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+      "lang": ""
+    },
+    {
+      "text": "Revolution",
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_Revolution",
+      "lang": ""
+    },
+    {
+      "text": "Politics",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Cabinet",
+      "url": "https://en.wikipedia.org/wiki/Cabinet_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Constitution",
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Foreign recognition",
+      "url": "https://en.wikipedia.org/wiki/International_recognition_of_Abkhazia_and_South_Ossetia",
+      "lang": ""
+    },
+    {
+      "text": "Foreign relations",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Government",
+      "url": "https://en.wikipedia.org/wiki/Government_of_the_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Government in exile",
+      "url": "https://en.wikipedia.org/wiki/Government_of_the_Autonomous_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Human rights",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Law enforcement",
+      "url": "https://en.wikipedia.org/wiki/Law_enforcement_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Military",
+      "url": "https://en.wikipedia.org/wiki/Military_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Parliament",
+      "url": "https://en.wikipedia.org/wiki/People's_Assembly_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "President",
+      "url": "https://en.wikipedia.org/wiki/President_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Prime Minister",
+      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Public Chamber",
+      "url": "https://en.wikipedia.org/wiki/Public_Chamber_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Subdivisions",
+      "url": "https://en.wikipedia.org/wiki/Subdivisions_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Sukhum Airport",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Central bank",
+      "url": "https://en.wikipedia.org/wiki/National_Bank_of_the_Republic_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Communications",
+      "url": "https://en.wikipedia.org/wiki/Communications_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Companies",
+      "url": "https://en.wikipedia.org/wiki/List_of_companies_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Economy",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Geography",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Railway",
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_railway",
+      "lang": ""
+    },
+    {
+      "text": "Tourism",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Culture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Anthem",
+      "url": "https://en.wikipedia.org/wiki/Aiaaira",
+      "lang": ""
+    },
+    {
+      "text": "Cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Demographics",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Emblem",
+      "url": "https://en.wikipedia.org/wiki/Emblem_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Flag",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Language",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Caucasian_languages",
+      "lang": ""
+    },
+    {
+      "text": "Literature",
+      "url": "https://en.wikipedia.org/wiki/Abkhaz_literature",
+      "lang": ""
+    },
+    {
+      "text": "Mass media",
+      "url": "https://en.wikipedia.org/wiki/Mass_media_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "People",
+      "url": "https://en.wikipedia.org/wiki/Abkhazians",
+      "lang": ""
+    },
+    {
+      "text": "Public holidays",
+      "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Sports",
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Women",
+      "url": "https://en.wikipedia.org/wiki/Women_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (outline)",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Outline",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Index",
+      "url": "https://en.wikipedia.org/wiki/Index_of_Abkhazia-related_articles",
+      "lang": ""
+    },
+    {
+      "text": "Bibliography",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia#References",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Belaya",
+      "url": "https://en.wikipedia.org/wiki/Belaya_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Borisoglebskoye",
+      "url": "https://en.wikipedia.org/wiki/Borisoglebskoye_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Burevestnik",
+      "url": "https://en.wikipedia.org/wiki/Burevestnik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dzyomgi",
+      "url": "https://en.wikipedia.org/wiki/Dzyomgi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Engels-2",
+      "url": "https://en.wikipedia.org/wiki/Engels-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Kirovsk–Apatity",
+      "url": "https://en.wikipedia.org/wiki/Kirovsk–Apatity_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Klyuchi",
+      "url": "https://en.wikipedia.org/wiki/Klyuchi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kondinskoye",
+      "url": "https://en.wikipedia.org/wiki/Kondinskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Levashovo",
+      "url": "https://en.wikipedia.org/wiki/Levashovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Magdagachi",
+      "url": "https://en.wikipedia.org/wiki/Magdagachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ozerne",
+      "url": "https://en.wikipedia.org/wiki/Ozerne_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Poltava",
+      "url": "https://en.wikipedia.org/wiki/Poltava_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pugachyov",
+      "url": "https://en.wikipedia.org/wiki/Pugachyov_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Ryazan Dyagilevo",
+      "url": "https://en.wikipedia.org/wiki/Dyagilevo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Rzhev",
+      "url": "https://en.wikipedia.org/wiki/Rzhev_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Samara Kryazh",
+      "url": "https://en.wikipedia.org/wiki/Samara_Kryazh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov West",
+      "url": "https://en.wikipedia.org/wiki/Saratov_West_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Shatalovo",
+      "url": "https://en.wikipedia.org/wiki/Shatalovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Shaykovka",
+      "url": "https://en.wikipedia.org/wiki/Shaykovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Sol'tsy-2",
+      "url": "https://en.wikipedia.org/wiki/Soltsy-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Tatishchevo",
+      "url": "https://en.wikipedia.org/wiki/Tatishchevo_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tilichiki",
+      "url": "https://en.wikipedia.org/wiki/Tilichiki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tushino Airfield",
+      "url": "https://en.wikipedia.org/wiki/Tushino_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Uka",
+      "url": "https://en.wikipedia.org/wiki/Uka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukrainka",
+      "url": "https://en.wikipedia.org/wiki/Ukrainka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vozdvizhenka",
+      "url": "https://en.wikipedia.org/wiki/Vozdvizhenka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yaroslavl Levtsovo",
+      "url": "https://en.wikipedia.org/wiki/Yaroslavl_Levtsovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yevpatoria",
+      "url": "https://en.wikipedia.org/wiki/Yevpatoria_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugorsk Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Yugorsk_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Baherove",
+      "url": "https://en.wikipedia.org/wiki/Baherove_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Bakharevka",
+      "url": "https://en.wikipedia.org/wiki/Bakharevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezovka",
+      "url": "https://en.wikipedia.org/wiki/Berezovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon",
+      "url": "https://en.wikipedia.org/wiki/Dolon_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon Southwest",
+      "url": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+      "lang": ""
+    },
+    {
+      "text": "Jonava",
+      "url": "https://en.wikipedia.org/wiki/Jonava_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lakhta",
+      "url": "https://en.wikipedia.org/wiki/Lakhta_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Lenino",
+      "url": "https://en.wikipedia.org/wiki/Lenino_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Pryluky",
+      "url": "https://en.wikipedia.org/wiki/Pryluky_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Raadi",
+      "url": "https://en.wikipedia.org/wiki/Raadi_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Saratov South",
+      "url": "https://en.wikipedia.org/wiki/Saratov_South_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Smirnykh",
+      "url": "https://en.wikipedia.org/wiki/Smirnykh_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Stryi",
+      "url": "https://en.wikipedia.org/wiki/Stryi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi West",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_West",
+      "lang": ""
+    },
+    {
+      "text": "Uzyn",
+      "url": "https://en.wikipedia.org/wiki/Uzyn_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vetrovoye",
+      "url": "https://en.wikipedia.org/wiki/Vetrovoye",
+      "lang": ""
+    },
+    {
+      "text": "Zavitinsk",
+      "url": "https://en.wikipedia.org/wiki/Zavitinsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belgorod",
+      "url": "https://en.wikipedia.org/wiki/Belgorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherkasy",
+      "url": "https://en.wikipedia.org/wiki/Cherkasy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Heydar Aliyev",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kemerovo",
+      "url": "https://en.wikipedia.org/wiki/Kemerovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kherson",
+      "url": "https://en.wikipedia.org/wiki/Kherson_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kogalym",
+      "url": "https://en.wikipedia.org/wiki/Kogalym_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumoch",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lviv Danylo Halytskyi",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Danylo_Halytskyi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magnitogorsk",
+      "url": "https://en.wikipedia.org/wiki/Magnitogorsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mariupol",
+      "url": "https://en.wikipedia.org/wiki/Mariupol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoi",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Riga",
+      "url": "https://en.wikipedia.org/wiki/Riga_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Roshchino",
+      "url": "https://en.wikipedia.org/wiki/Roshchino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sabetta",
+      "url": "https://en.wikipedia.org/wiki/Sabetta_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Simferopol",
+      "url": "https://en.wikipedia.org/wiki/Simferopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strigino",
+      "url": "https://en.wikipedia.org/wiki/Strigino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Surgut",
+      "url": "https://en.wikipedia.org/wiki/Farman_Salmanov_Surgut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tallinn",
+      "url": "https://en.wikipedia.org/wiki/Tallinn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talagi",
+      "url": "https://en.wikipedia.org/wiki/Talagi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tartu",
+      "url": "https://en.wikipedia.org/wiki/Tartu_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzhhorod",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ventspils",
+      "url": "https://en.wikipedia.org/wiki/Ventspils_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilnius",
+      "url": "https://en.wikipedia.org/wiki/Vilnius_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Volgograd",
+      "url": "https://en.wikipedia.org/wiki/Volgograd_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Voronezh",
+      "url": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yemelyanovo",
+      "url": "https://en.wikipedia.org/wiki/Yemelyanovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zvartnots",
+      "url": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aldan",
+      "url": "https://en.wikipedia.org/wiki/Aldan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Alykel",
+      "url": "https://en.wikipedia.org/wiki/Alykel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakovo",
+      "url": "https://en.wikipedia.org/wiki/Balakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baley",
+      "url": "https://en.wikipedia.org/wiki/Baley_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Barnaul",
+      "url": "https://en.wikipedia.org/wiki/Barnaul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batagay",
+      "url": "https://en.wikipedia.org/wiki/Batagay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baykit",
+      "url": "https://en.wikipedia.org/wiki/Baykit_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Begishevo",
+      "url": "https://en.wikipedia.org/wiki/Begishevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belaya Gora",
+      "url": "https://en.wikipedia.org/wiki/Belaya_Gora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezniki",
+      "url": "https://en.wikipedia.org/wiki/Berezniki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Beslan",
+      "url": "https://en.wikipedia.org/wiki/Beslan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Biysk",
+      "url": "https://en.wikipedia.org/wiki/Biysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bogashevo",
+      "url": "https://en.wikipedia.org/wiki/Bogashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boguchany",
+      "url": "https://en.wikipedia.org/wiki/Boguchany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bugulma",
+      "url": "https://en.wikipedia.org/wiki/Bugulma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bykovo",
+      "url": "https://en.wikipedia.org/wiki/Bykovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chara",
+      "url": "https://en.wikipedia.org/wiki/Chara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chaybukha",
+      "url": "https://en.wikipedia.org/wiki/Chaybukha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cheboksary",
+      "url": "https://en.wikipedia.org/wiki/Cheboksary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherepovets",
+      "url": "https://en.wikipedia.org/wiki/Cherepovets_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chersky",
+      "url": "https://en.wikipedia.org/wiki/Chersky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chistopol",
+      "url": "https://en.wikipedia.org/wiki/Chistopol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chokurdakh",
+      "url": "https://en.wikipedia.org/wiki/Chokurdakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Deputatsky",
+      "url": "https://en.wikipedia.org/wiki/Deputatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dikson",
+      "url": "https://en.wikipedia.org/wiki/Dikson_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dudinka",
+      "url": "https://en.wikipedia.org/wiki/Dudinka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Elista",
+      "url": "https://en.wikipedia.org/wiki/Elista_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erbogachen",
+      "url": "https://en.wikipedia.org/wiki/Erbogachen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gorno-Altaysk",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Altaysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grozny",
+      "url": "https://en.wikipedia.org/wiki/Grozny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Igarka",
+      "url": "https://en.wikipedia.org/wiki/Igarka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Inta",
+      "url": "https://en.wikipedia.org/wiki/Inta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk Northwest",
+      "url": "https://en.wikipedia.org/wiki/Irkutsk_Northwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ivanovo Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhevsk",
+      "url": "https://en.wikipedia.org/wiki/Izhevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhma",
+      "url": "https://en.wikipedia.org/wiki/Izhma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kadala",
+      "url": "https://en.wikipedia.org/wiki/Kadala_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaluga",
+      "url": "https://en.wikipedia.org/wiki/Kaluga_(Grabtsevo)_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kärdla",
+      "url": "https://en.wikipedia.org/wiki/Kärdla_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaunas",
+      "url": "https://en.wikipedia.org/wiki/Kaunas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazachinskoe",
+      "url": "https://en.wikipedia.org/wiki/Kazachinskoe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Keperveyem",
+      "url": "https://en.wikipedia.org/wiki/Keperveyem_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanty-Mansiysk",
+      "url": "https://en.wikipedia.org/wiki/Khanty-Mansiysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv North",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khatanga",
+      "url": "https://en.wikipedia.org/wiki/Khatanga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khmelnytskyi",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytskyi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyiv Chaika Airfield",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Chaika_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Kimry",
+      "url": "https://en.wikipedia.org/wiki/Kimry_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kirensk",
+      "url": "https://en.wikipedia.org/wiki/Kirensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kolpashevo",
+      "url": "https://en.wikipedia.org/wiki/Kolpashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Koltsovo",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostroma",
+      "url": "https://en.wikipedia.org/wiki/Kostroma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kotlas",
+      "url": "https://en.wikipedia.org/wiki/Kotlas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnokamensk",
+      "url": "https://en.wikipedia.org/wiki/Krasnokamensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnovishersk",
+      "url": "https://en.wikipedia.org/wiki/Krasnovishersk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurgan",
+      "url": "https://en.wikipedia.org/wiki/Kurgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyren",
+      "url": "https://en.wikipedia.org/wiki/Kyren_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Syr",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Syr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lavrentiya",
+      "url": "https://en.wikipedia.org/wiki/Lavrentiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lutsk",
+      "url": "https://en.wikipedia.org/wiki/Lutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan-13",
+      "url": "https://en.wikipedia.org/wiki/Magadan-13_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magan",
+      "url": "https://en.wikipedia.org/wiki/Magan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mama",
+      "url": "https://en.wikipedia.org/wiki/Mama_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Markovo",
+      "url": "https://en.wikipedia.org/wiki/Markovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maykop",
+      "url": "https://en.wikipedia.org/wiki/Maykop_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Menzelinsk",
+      "url": "https://en.wikipedia.org/wiki/Menzelinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mezen",
+      "url": "https://en.wikipedia.org/wiki/Mezen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Milkovo",
+      "url": "https://en.wikipedia.org/wiki/Milkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mirny",
+      "url": "https://en.wikipedia.org/wiki/Mirny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moma",
+      "url": "https://en.wikipedia.org/wiki/Moma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murmansk",
+      "url": "https://en.wikipedia.org/wiki/Murmansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Myachkovo",
+      "url": "https://en.wikipedia.org/wiki/Myachkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mys Shmidta",
+      "url": "https://en.wikipedia.org/wiki/Mys_Shmidta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nadym",
+      "url": "https://en.wikipedia.org/wiki/Nadym_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nalchik",
+      "url": "https://en.wikipedia.org/wiki/Nalchik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nazran",
+      "url": "https://en.wikipedia.org/wiki/Nazran_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neftekamsk",
+      "url": "https://en.wikipedia.org/wiki/Neftekamsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nefteyugansk",
+      "url": "https://en.wikipedia.org/wiki/Nefteyugansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neryungri–Chulman",
+      "url": "https://en.wikipedia.org/wiki/Chulman_Neryungri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolayevsk-on-Amur",
+      "url": "https://en.wikipedia.org/wiki/Nikolayevsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolsk",
+      "url": "https://en.wikipedia.org/wiki/Nikolsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolskoye",
+      "url": "https://en.wikipedia.org/wiki/Nikolskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhneangarsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhneangarsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhnevartovsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhnevartovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novy Urengoy",
+      "url": "https://en.wikipedia.org/wiki/Novy_Urengoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Noyabrsk",
+      "url": "https://en.wikipedia.org/wiki/Noyabrsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyagan",
+      "url": "https://en.wikipedia.org/wiki/Nyagan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyurba",
+      "url": "https://en.wikipedia.org/wiki/Nyurba_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oktyabrsky",
+      "url": "https://en.wikipedia.org/wiki/Oktyabrsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Olyokminsk",
+      "url": "https://en.wikipedia.org/wiki/Olyokminsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Omsk Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Omsk_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oral Ak Zhol",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orenburg Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Orenburg_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsk",
+      "url": "https://en.wikipedia.org/wiki/Orsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oryol Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Oryol_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Palana",
+      "url": "https://en.wikipedia.org/wiki/Palana_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pechora",
+      "url": "https://en.wikipedia.org/wiki/Pechora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Penza",
+      "url": "https://en.wikipedia.org/wiki/Penza_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavlovsk-Kamchatsky",
+      "url": "https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pevek",
+      "url": "https://en.wikipedia.org/wiki/Pevek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plekhanovo",
+      "url": "https://en.wikipedia.org/wiki/Plekhanovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plestsy",
+      "url": "https://en.wikipedia.org/wiki/Plestsy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pobedilovo",
+      "url": "https://en.wikipedia.org/wiki/Pobedilovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Podkamennaya Tunguska",
+      "url": "https://en.wikipedia.org/wiki/Podkamennaya_Tunguska_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk",
+      "url": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polyarny",
+      "url": "https://en.wikipedia.org/wiki/Polyarny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Provideniya Bay",
+      "url": "https://en.wikipedia.org/wiki/Provideniya_Bay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pulkovo",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pushkin",
+      "url": "https://en.wikipedia.org/wiki/Pushkin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Raduzhny",
+      "url": "https://en.wikipedia.org/wiki/Raduzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rostov-on-Don",
+      "url": "https://en.wikipedia.org/wiki/Rostov-on-Don_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rzhevka",
+      "url": "https://en.wikipedia.org/wiki/Rzhevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sakkyryr",
+      "url": "https://en.wikipedia.org/wiki/Sakkyryr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salekhard",
+      "url": "https://en.wikipedia.org/wiki/Salekhard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salka",
+      "url": "https://en.wikipedia.org/wiki/Salka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saransk",
+      "url": "https://en.wikipedia.org/wiki/Saransk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarmany",
+      "url": "https://en.wikipedia.org/wiki/Sarmany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarov",
+      "url": "https://en.wikipedia.org/wiki/Sarov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semenovskoye Shidrovo",
+      "url": "https://en.wikipedia.org/wiki/Semenovskoye_Shidrovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semyazino",
+      "url": "https://en.wikipedia.org/wiki/Semyazino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severny",
+      "url": "https://en.wikipedia.org/wiki/Severny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Eniseysk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Eniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Evensk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Evensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Seymchan",
+      "url": "https://en.wikipedia.org/wiki/Seymchan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sharypovo",
+      "url": "https://en.wikipedia.org/wiki/Sharypovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shimanovsk",
+      "url": "https://en.wikipedia.org/wiki/Shimanovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shirak",
+      "url": "https://en.wikipedia.org/wiki/Shirak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sibay",
+      "url": "https://en.wikipedia.org/wiki/Sibay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Smolensk South",
+      "url": "https://en.wikipedia.org/wiki/Smolensk_South_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Snezhnogorsk",
+      "url": "https://en.wikipedia.org/wiki/Snezhnogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan–Sokol",
+      "url": "https://en.wikipedia.org/wiki/Sokol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Solovki",
+      "url": "https://en.wikipedia.org/wiki/Solovki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Sovetsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Spichenkovo",
+      "url": "https://en.wikipedia.org/wiki/Spichenkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Srednekolymsk",
+      "url": "https://en.wikipedia.org/wiki/Srednekolymsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staraya Russa",
+      "url": "https://en.wikipedia.org/wiki/Staraya_Russa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staroselye",
+      "url": "https://en.wikipedia.org/wiki/Staroselye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stary Oskol",
+      "url": "https://en.wikipedia.org/wiki/Stary_Oskol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stavropol Shpakovskoye",
+      "url": "https://en.wikipedia.org/wiki/Stavropol_Shpakovskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stepanavan",
+      "url": "https://en.wikipedia.org/wiki/Stepanavan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strezhevoy",
+      "url": "https://en.wikipedia.org/wiki/Strezhevoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sumy",
+      "url": "https://en.wikipedia.org/wiki/Sumy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Susuman",
+      "url": "https://en.wikipedia.org/wiki/Susuman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svetlogorsk",
+      "url": "https://en.wikipedia.org/wiki/Svetlogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svobodny",
+      "url": "https://en.wikipedia.org/wiki/Svobodny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar Southwest",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Southwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taksimo",
+      "url": "https://en.wikipedia.org/wiki/Taksimo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tambov Donskoye",
+      "url": "https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tasayevo",
+      "url": "https://en.wikipedia.org/wiki/Tasayevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Teply Klyuch",
+      "url": "https://en.wikipedia.org/wiki/Teply_Klyuch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ternopil",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tolmachevo",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tretyakovo",
+      "url": "https://en.wikipedia.org/wiki/Tretyakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tunoshna",
+      "url": "https://en.wikipedia.org/wiki/Golden_Ring_Yaroslavl_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tura",
+      "url": "https://en.wikipedia.org/wiki/Tura_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turlatovo",
+      "url": "https://en.wikipedia.org/wiki/Turlatovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turukhansk",
+      "url": "https://en.wikipedia.org/wiki/Turukhansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tynda",
+      "url": "https://en.wikipedia.org/wiki/Tynda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maksimovka",
+      "url": "https://en.wikipedia.org/wiki/Maksimovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukhta",
+      "url": "https://en.wikipedia.org/wiki/Ukhta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uktus",
+      "url": "https://en.wikipedia.org/wiki/Uktus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulan-Ude Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulan-Ude_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Baratayevka",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Baratayevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uray",
+      "url": "https://en.wikipedia.org/wiki/Uray_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usinsk",
+      "url": "https://en.wikipedia.org/wiki/Usinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Ilimsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Ilimsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kamchatsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kamchatsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kut",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kuyga",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kuyga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Maya",
+      "url": "https://en.wikipedia.org/wiki/Ust-Maya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Nera",
+      "url": "https://en.wikipedia.org/wiki/Ust-Nera_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Pakhachi",
+      "url": "https://en.wikipedia.org/wiki/Ust-Pakhachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Tsilma",
+      "url": "https://en.wikipedia.org/wiki/Ust-Tsilma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uytash",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vanavara",
+      "url": "https://en.wikipedia.org/wiki/Vanavara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Varandey",
+      "url": "https://en.wikipedia.org/wiki/Varandey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vaskovo",
+      "url": "https://en.wikipedia.org/wiki/Vaskovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Velikiye Luki",
+      "url": "https://en.wikipedia.org/wiki/Velikiye_Luki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Veliky Ustyug",
+      "url": "https://en.wikipedia.org/wiki/Veliky_Ustyug_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnevilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Verkhnevilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnyaya Toyma",
+      "url": "https://en.wikipedia.org/wiki/Verkhnyaya_Toyma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Vilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vologda",
+      "url": "https://en.wikipedia.org/wiki/Vologda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vuktyl",
+      "url": "https://en.wikipedia.org/wiki/Vuktyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yakutsk",
+      "url": "https://en.wikipedia.org/wiki/Yakutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yamburg",
+      "url": "https://en.wikipedia.org/wiki/Yamburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeltsovka",
+      "url": "https://en.wikipedia.org/wiki/Yeltsovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeniseysk",
+      "url": "https://en.wikipedia.org/wiki/Yeniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yermolino",
+      "url": "https://en.wikipedia.org/wiki/Yermolino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yoshkar-Ola",
+      "url": "https://en.wikipedia.org/wiki/Yoshkar-Ola_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Kurilsk Mendeleyevo",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Sakhalinsk",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Sakhalinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zavodske",
+      "url": "https://en.wikipedia.org/wiki/Zavodske_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zheleznogorsk",
+      "url": "https://en.wikipedia.org/wiki/Zheleznogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhytomyr",
+      "url": "https://en.wikipedia.org/wiki/Zhytomyr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zonalnoye",
+      "url": "https://en.wikipedia.org/wiki/Zonalnoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka West",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_West_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bălți",
+      "url": "https://en.wikipedia.org/wiki/Bălți_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cahul",
+      "url": "https://en.wikipedia.org/wiki/Cahul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dnipro",
+      "url": "https://en.wikipedia.org/wiki/Dnipro_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donetsk",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Havryshivka Vinnytsia",
+      "url": "https://en.wikipedia.org/wiki/Havryshivka_Vinnytsia_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Iultin",
+      "url": "https://en.wikipedia.org/wiki/Iultin",
+      "lang": ""
+    },
+    {
+      "text": "Luhansk",
+      "url": "https://en.wikipedia.org/wiki/Luhansk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chernihiv Shestovytsia",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv_Shestovytsia_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Goris",
+      "url": "https://en.wikipedia.org/wiki/Goris_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan-2",
+      "url": "https://en.wikipedia.org/wiki/Kazan-2_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerch",
+      "url": "https://en.wikipedia.org/wiki/Kerch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanskaya",
+      "url": "https://en.wikipedia.org/wiki/Khanskaya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kozyrevsk",
+      "url": "https://en.wikipedia.org/wiki/Kozyrevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Novgorod_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rubtsovsk",
+      "url": "https://en.wikipedia.org/wiki/Rubtsovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Saratov_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severouralsk",
+      "url": "https://en.wikipedia.org/wiki/Severouralsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tarnogsky Gorodok",
+      "url": "https://en.wikipedia.org/wiki/Tarnogsky_Gorodok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yelabuga North",
+      "url": "https://en.wikipedia.org/wiki/Yelabuga_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugarenok",
+      "url": "https://en.wikipedia.org/wiki/Yugarenok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baikal",
+      "url": "https://en.wikipedia.org/wiki/Baikal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Odesa",
+      "url": "https://en.wikipedia.org/wiki/Odesa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Perm_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sevastopol",
+      "url": "https://en.wikipedia.org/wiki/Sevastopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Achinsk",
+      "url": "https://en.wikipedia.org/wiki/Achinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Amderma",
+      "url": "https://en.wikipedia.org/wiki/Amderma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bagdarin",
+      "url": "https://en.wikipedia.org/wiki/Bagdarin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bratsk",
+      "url": "https://en.wikipedia.org/wiki/Bratsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk Shagol",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Shagol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erebuni",
+      "url": "https://en.wikipedia.org/wiki/Erebuni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ignatyevo",
+      "url": "https://en.wikipedia.org/wiki/Ignatyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Komsomolsk",
+      "url": "https://en.wikipedia.org/wiki/Komsomolsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk Cheremshanka",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_Cheremshanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kursk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumkan",
+      "url": "https://en.wikipedia.org/wiki/Kurumkan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryan-Mar",
+      "url": "https://en.wikipedia.org/wiki/Naryan-Mar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orlik",
+      "url": "https://en.wikipedia.org/wiki/Orlik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsha",
+      "url": "https://en.wikipedia.org/wiki/Orsha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petrozavodsk",
+      "url": "https://en.wikipedia.org/wiki/Petrozavodsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pskov",
+      "url": "https://en.wikipedia.org/wiki/Pskov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi Babushara",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Suntar",
+      "url": "https://en.wikipedia.org/wiki/Suntar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ugolny",
+      "url": "https://en.wikipedia.org/wiki/Ugolny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vyazma",
+      "url": "https://en.wikipedia.org/wiki/Vyazma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeysk",
+      "url": "https://en.wikipedia.org/wiki/Yeysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bezymyanka",
+      "url": "https://en.wikipedia.org/wiki/Bezymyanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gromov Flight Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Gromov_Flight_Research_Institute",
+      "lang": ""
+    },
+    {
+      "text": "Nizhyn",
+      "url": "https://en.wikipedia.org/wiki/Nizhyn_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pridacha",
+      "url": "https://en.wikipedia.org/wiki/Pridacha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Valek",
+      "url": "https://en.wikipedia.org/wiki/Valek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&oldid=1372812545",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&oldid=1372812545",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Sukhumi",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Category:Transport_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "1960s establishments in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:1960s_establishments_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports built in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Novaport",
+      "url": "https://en.wikipedia.org/wiki/Category:Novaport",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from July 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_July_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Russian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Russian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from July 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_July_2026",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Sukhum_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-ge-04.txt"
+}

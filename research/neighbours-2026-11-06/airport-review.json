@@ -1,0 +1,2299 @@
+[
+  {
+    "id": "ap-ge-01",
+    "country": "GE",
+    "name": "Batumi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+    "listRow": "1. Batumi Adjara [†] UGSB BUS Batumi International Airport 41°36′37″N 041°35′58″E ﻿ / ﻿ 41.61028°N 41.59944°E ﻿ / 41.61028; 41.59944 ﻿ ( Batumi International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Air Astana Seasonal: Almaty , Astana [ 7 ] Air Samarkand Seasonal charter: Tashkent [ 8 ] airBaltic Seasonal: Riga [ 9 ] arkia Seasonal: Tel Aviv [ 10 ] Azerbaijan Airlines Baku [ 11 ] azimuth Mineralnye Vody , [ 12 ] Moscow–Vnukovo , [ 13 ] Sochi [ 14 ] Belavia Minsk Flyadeal Seasonal: Riyadh FlyArystan Seasonal: Almaty , [ 15 ] Aqtau , [ 16 ] Astana , [ 15 ] Atyrau , [ 15 ] Şymkent [ 15 ] Flydubai Seasonal: Dubai–International [ 17 ] Fly Khiva Tashkent [ 18 ] Flynas Seasonal: Dammam , Jeddah , [ 19 ] Riyadh Georgian Airways Moscow-Vnukovo , [ 20 ] Tbilisi [ 21 ] GetJet Airlines Seasonal charter: Vilnius [ 22 ] Iran Aseman Airlines Seasonal: Tehran–Imam Khomeini (suspended) [ 23 ] Israir Seasonal: Tel Aviv [ 24 ] Jazeera Airways Seasonal: Kuwait City [ 25 ] Jordan Aviation Amman [ 26 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 27 ] Red Wings Airlines Seasonal: Chelyabinsk , [ 28 ] Kazan , [ 28 ] Krasnodar , [ 29 ] Moscow–Zhukovsky , [ 28 ] Nizhny Novgorod , [ 28 ] Novosibirsk , [ 30 ] Orenburg , [ 28 ] Perm , [ 31 ] Saint Petersburg , [ 32 ] Samara , [ 28 ] Saratov , [ 28 ] Sochi , [ 28 ] Tyumen , [ 28 ] Ufa , [ 33 ] Volgograd , [ 28 ] Yekaterinburg [ 28 ] Saudia Seasonal: Riyadh SCAT Airlines Seasonal: Astana [ 34 ] Sundor Seasonal: Tel Aviv Turkish Airlines Istanbul [ 35 ] Uzbekistan Airways Seasonal: Tashkent [ 7 ] [ 36 ] Vanilla Sky Airlines Natakhtari [ 37 ] [ 38 ] Varesh Airlines Tehran–Imam Khomeini (suspended) [ 23 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-mestia",
+      "ge-ambrolauri",
+      "ge-kutaisi",
+      "ge-batumi"
+    ],
+    "reviewNoteZh": "国内公开支线已核查；L-410 逐班分配待确认。"
+  },
+  {
+    "id": "ap-ge-02",
+    "country": "GE",
+    "name": "Kutaisi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+    "listRow": "2. Kutaisi Imereti UGKO KUT Kutaisi International Airport 42°10′35″N 042°28′57″E ﻿ / ﻿ 42.17639°N 42.48250°E ﻿ / 42.17639; 42.48250 ﻿ ( Kopitnari Airport )",
+    "destinationTables": [
+      "Airlines Destinations Azimuth Moscow–Vnukovo [ 14 ] Belavia Minsk [ 15 ] Electra Airways Seasonal charter: Katowice FlyArystan Almaty , [ 16 ] Aqtau , [ 16 ] Astana , [ 16 ] Atyrau [ 16 ] Seasonal: Şymkent [ 17 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 18 ] Red Wings Airlines Moscow–Zhukovsky [ 19 ] Smartwings Seasonal charter: Warsaw–Chopin [ 20 ] Vanilla Sky Airlines Mestia [ 21 ] Wizz Air Athens , [ 22 ] Barcelona , [ 22 ] Beauvais , [ 22 ] Berlin , [ 22 ] Bratislava , [ 23 ] Budapest , [ 24 ] Charleroi , [ 22 ] [ 25 ] Dortmund , [ 22 ] Hahn , [ 22 ] Hamburg , [ 22 ] [ 26 ] Katowice , Larnaca , [ 22 ] Lyon , [ 27 ] Madrid , [ 22 ] [ 26 ] Memmingen , [ 22 ] [ 28 ] Milan–Malpensa , [ 22 ] Poznań , [ 22 ] [ 25 ] Prague , [ 22 ] Rome–Ciampino , [ 22 ] Thessaloniki , [ 22 ] Venice-Marco Polo , [ 29 ] Vilnius , [ 22 ] Warsaw–Chopin , [ 22 ] Wrocław [ 22 ] [ 30 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-mestia",
+      "ge-ambrolauri",
+      "ge-kutaisi",
+      "ge-batumi"
+    ],
+    "reviewNoteZh": "国内公开支线已核查；L-410 逐班分配待确认。"
+  },
+  {
+    "id": "ap-ge-03",
+    "country": "GE",
+    "name": "Tbilisi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+    "listRow": "3. Tbilisi (capital) UGTB TBS Tbilisi International Airport 41°40′09″N 044°57′17″E ﻿ / ﻿ 41.66917°N 44.95472°E ﻿ / 41.66917; 44.95472 ﻿ ( Tbilisi International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aegean Airlines Athens [ 22 ] [ 23 ] Air Arabia Sharjah , [ 24 ] Abu Dhabi [ 25 ] Air Astana Almaty [ 26 ] Air China Ürümqi [ 27 ] Air Serbia Belgrade [ 28 ] Air Samarkand Seasonal charter: Tashkent [ 29 ] airBaltic Riga [ 30 ] AJet Ankara , [ 31 ] Istanbul–Sabiha Gökçen [ 32 ] arkia Tel Aviv [ 23 ] Austrian Airlines Vienna [ 33 ] Azerbaijan Airlines Baku [ 23 ] azimuth Krasnodar , [ 34 ] Mineralnye Vody , [ 35 ] Moscow–Vnukovo , [ 36 ] Saint Petersburg , [ 37 ] Sochi , [ 38 ] Ufa [ 39 ] Belavia Minsk [ 23 ] [ 40 ] British Airways London–Heathrow [ 41 ] [ 42 ] Centrum Air Tashkent [ 43 ] China Eastern Airlines Shanghai–Pudong [ 44 ] China Southern Airlines Ürümqi [ 45 ] Condor Frankfurt [ 46 ] [ 47 ] Dan Air Bucharest–Otopeni [ 48 ] easyJet Geneva , [ 49 ] London–Luton , [ 49 ] Milan–Malpensa [ 49 ] Edelweiss Air Zürich [ 50 ] Eurowings Düsseldorf [ 51 ] Fly Baghdad Baghdad (suspended) [ 52 ] Flydubai Dubai–International [ 53 ] Fly Khiva Tashkent [ 54 ] Flynas Jeddah , [ 55 ] Riyadh [ 56 ] FlyOne Chișinău , [ 57 ] Yerevan [ 58 ] Georgian Airways Amsterdam , [ 59 ] Batumi , [ 60 ] Bergamo , [ 61 ] Berlin , [ 59 ] Doha , [ 62 ] Larnaca , [ 59 ] Moscow–Vnukovo , [ 63 ] Nice , [ 59 ] Novosibirsk , [ 64 ] Paris–Charles de Gaulle , [ 59 ] Rome–Fiumicino , [ 59 ] Saint Petersburg , [ 59 ] Vienna , [ 59 ] Yerevan [ 59 ] Seasonal: Forlì (suspended) [ 59 ] Gulf Air Bahrain [ 65 ] Iran Aseman Airlines Tehran–Imam Khomeini (suspended) [ 66 ] Israir Tel Aviv [ 23 ] Jazeera Airways Kuwait City [ 67 ] [ 23 ] Jordan Aviation Amman–Queen Alia [ 68 ] [ 23 ] Kuwait Airways Kuwait City [ 69 ] [ 23 ] LOT Polish Airlines Warsaw [ 70 ] Lufthansa Munich [ 23 ] Norwegian Air Shuttle Copenhagen [ 71 ] [ 72 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 73 ] Qatar Airways Doha [ 23 ] Qeshm Air Tehran–Imam Khomeini (suspended) [ 66 ] Red Wings Airlines Kazan , [ 74 ] Krasnodar , [ 74 ] Moscow–Zhukovsky , [ 74 ] Nizhny Novgorod , [ 75 ] Saint Petersburg , [ 74 ] Samara , [ 74 ] Sochi , [ 76 ] Tyumen , [ 74 ] Yekaterinburg [ 77 ] SCAT Airlines Aktau , [ 78 ] Şymkent [ 78 ] Sky Express Athens [ 79 ] Somon Air Dushanbe [ 80 ] SkyUp Airlines Chișinău [ 81 ] Sundor Tel Aviv [ 82 ] Transavia Amsterdam , [ 83 ] Paris–Orly [ 84 ] Turkish Airlines Istanbul [ 23 ] Uzbekistan Airways Tashkent [ 85 ] [ 86 ] Varesh Airlines Tehran–Imam Khomeini (suspended) [ 66 ]",
+      "Airlines Destinations SF Airlines Ürümqi [ 87 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-ge-04",
+    "country": "GE",
+    "name": "Sukhumi Babushara Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+    "listRow": "4. Sukhumi Abkhazia [‡] UGSS SUI Sukhumi Babushara Airport 42°51′29″N 041°07′41″E ﻿ / ﻿ 42.85806°N 41.12806°E ﻿ / 42.85806; 41.12806 ﻿ ( Sukhumi Babushara Airport )",
+    "destinationTables": [
+      "Airlines Destinations Ikar Seasonal: Moscow-Sheremetyevo [ 14 ] Nordwind Airlines Seasonal: Chelyabinsk , [ 15 ] Kazan , [ 16 ] Nizhniy Novgorod , [ 17 ] Omsk , [ 18 ] Samara , [ 19 ] Saint Petersburg , [ 20 ] Ufa , [ 21 ] Yekaterinburg [ 22 ] RusLine Seasonal: Khanty-Mansiysk , [ 23 ] Moscow-Vnukovo , [ 24 ] Mineralnye Vody , [ 25 ] Orenburg , [ 26 ] Ufa [ 27 ] Ural Airlines Seasonal: Moscow-Domodedovo , [ 28 ] Samara , [ 29 ] Yekaterinburg [ 30 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [],
+    "reviewNoteZh": "已按地理机场列表纳入；未找到新增毛机客班的直接证据。"
+  },
+  {
+    "id": "ap-ge-05",
+    "country": "GE",
+    "name": "Queen Tamar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+    "listRow": "5. Mestia Samegrelo-Zemo Svaneti UGMS Queen Tamar Airport 43°03′16″N 042°45′00″E ﻿ / ﻿ 43.05444°N 42.75000°E ﻿ / 43.05444; 42.75000 ﻿ ( Queen Tamar Airport )",
+    "destinationTables": [
+      "Airlines Destinations Vanilla Sky Airlines Kutaisi , [ 8 ] Natakhtari [ 7 ] [ 11 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-mestia",
+      "ge-ambrolauri",
+      "ge-kutaisi",
+      "ge-batumi"
+    ],
+    "reviewNoteZh": "国内公开支线已核查；L-410 逐班分配待确认。"
+  },
+  {
+    "id": "ap-ge-06",
+    "country": "GE",
+    "name": "Ambrolauri Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+    "listRow": "6. Ambrolauri Racha-Lechkhumi - Kvemo Svaneti UGAM Ambrolauri Airport 42°31′36″N 43°08′07″E ﻿ / ﻿ 42.5266°N 43.1352°E ﻿ / 42.5266; 43.1352",
+    "destinationTables": [
+      "Airlines Destinations Vanilla Sky Airlines Natakhtari [ 3 ] [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-mestia",
+      "ge-ambrolauri",
+      "ge-kutaisi",
+      "ge-batumi"
+    ],
+    "reviewNoteZh": "国内公开支线已核查；L-410 逐班分配待确认。"
+  },
+  {
+    "id": "ap-ge-07",
+    "country": "GE",
+    "name": "Natakhtari Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+    "listRow": "7. Natakhtari Mtskheta-Mtianeti UGSA Natakhtari Airfield 41°55′16″N 044°42′50″E ﻿ / ﻿ 41.92111°N 44.71389°E ﻿ / 41.92111; 44.71389 ﻿ ( Natakhtari Airfield )",
+    "destinationTables": [
+      "Airlines Destinations Vanilla Sky Airlines Ambrolauri , Batumi , Mestia [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-mestia",
+      "ge-ambrolauri",
+      "ge-kutaisi",
+      "ge-batumi"
+    ],
+    "reviewNoteZh": "国内公开支线已核查；L-410 逐班分配待确认。"
+  },
+  {
+    "id": "ap-ge-08",
+    "country": "GE",
+    "name": "Telavi Erekle II Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Telavi_Erekle_II_Airport?action=edit&redlink=1",
+    "listRow": "8. Telavi Kakheti UGGT Telavi Erekle II Airport [ 1 ] 41°57′12″N 045°30′29″E ﻿ / ﻿ 41.95333°N 45.50806°E ﻿ / 41.95333; 45.50806 ﻿ ( Telavi Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "ge-municipal-omalo"
+    ],
+    "reviewNoteZh": "图舍季公共直升机补查区域；起降场和资格未确认。"
+  },
+  {
+    "id": "ap-ge-09",
+    "country": "GE",
+    "name": "Mukhrani Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mukhrani_Airport?action=edit&redlink=1",
+    "listRow": "10. Mukhrani Mtskheta-Mtianeti UGMM Mukhrani Airport 41°55′59″N 44°34′59″E ﻿ / ﻿ 41.933°N 44.583°E ﻿ / 41.933; 44.583",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-ge-10",
+    "country": "GE",
+    "name": "Lagodekhi Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Lagodekhi_Airfield?action=edit&redlink=1",
+    "listRow": "13. Lagodekhi Kakheti Lagodekhi Airfield 41°48′54″N 46°14′03″E ﻿ / ﻿ 41.8150179°N 46.2341595°E ﻿ / 41.8150179; 46.2341595",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-ge-11",
+    "country": "GE",
+    "name": "Poti International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Poti_International_Airport",
+    "listRow": "15. Poti Samegrelo-Zemo Svaneti Poti International Airport 42°09′47″N 041°42′08″E ﻿ / ﻿ 42.16306°N 41.70222°E ﻿ / 42.16306; 41.70222 ﻿ ( Poti Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-ge-12",
+    "country": "GE",
+    "name": "Kobuleti Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Kobuleti_Airfield?action=edit&redlink=1",
+    "listRow": "2. Kobuleti Adjara [†] Kobuleti Airfield 41°50′26″N 041°47′57″E ﻿ / ﻿ 41.84056°N 41.79917°E ﻿ / 41.84056; 41.79917 ﻿ ( Marneuli Airfield )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-01",
+    "country": "AZ",
+    "name": "Akstafa Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Akstafa_Airport",
+    "listRow": "Ağstafa (Agstafa) UBBA UB17 Akstafa Airport 41°07′24″N 045°25′17″E ﻿ / ﻿ 41.12333°N 45.42139°E ﻿ / 41.12333; 45.42139 ﻿ ( Akstafa Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-02",
+    "country": "AZ",
+    "name": "Heydar Aliyev International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+    "listRow": "Baku UBBB GYD Heydar Aliyev International Airport 40°28′03″N 050°02′48″E ﻿ / ﻿ 40.46750°N 50.04667°E ﻿ / 40.46750; 50.04667 ﻿ ( Heydar Aliyev International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aegean Airlines Seasonal: Athens [ 27 ] Air Arabia Abu Dhabi , [ 28 ] Sharjah [ 29 ] Air Astana Almaty , [ 30 ] Atyrau [ 31 ] Airblue Lahore [ 32 ] Air Cairo Sharm El Sheikh [ 33 ] Air Serbia Belgrade [ 34 ] AJet Ankara , [ 35 ] Antalya , [ 36 ] Istanbul–Sabiha Gökçen [ citation needed ] Seasonal: Izmir [ citation needed ] arkia Tel Aviv [ 37 ] Azerbaijan Airlines Almaty , [ citation needed ] Antalya , [ citation needed ] Aqtau , [ citation needed ] Aqtöbe , [ 38 ] Astana , [ citation needed ] Astrakhan , [ 39 ] Atyrau , [ 40 ] Baghdad [ citation needed ] Bahrain , [ citation needed ] Barcelona , [ citation needed ] Batumi , [ citation needed ] Beijing–Capital , [ citation needed ] Berlin , [ citation needed ] Bishkek , [ citation needed ] Brussels (begins 8 May 2027), [ 41 ] Chișinău , [ 42 ] Dammam , [ citation needed ] Delhi , [ citation needed ] Dubai–International , [ citation needed ] Dushanbe , [ citation needed ] Fuzuli , [ citation needed ] Geneva , [ citation needed ] Islamabad , [ citation needed ] Istanbul , [ 43 ] Jeddah , [ citation needed ] Kars , [ 44 ] Lahore , [ citation needed ] London–Gatwick , [ 45 ] London–Heathrow , [ 46 ] Malé , [ citation needed ] Milan–Malpensa , [ citation needed ] Minsk , [ 47 ] Mumbai , [ citation needed ] Nakhchivan , [ 48 ] Paris–Charles de Gaulle , [ 49 ] Prague , [ citation needed ] Riyadh , [ citation needed ] Samarqand , [ citation needed ] Sharm El Sheikh , [ citation needed ] Şymkent , [ 50 ] Tashkent , [ 51 ] Tbilisi , [ citation needed ] Tel Aviv , [ 52 ] Trabzon , [ citation needed ] Urgench , [ 53 ] Vienna [ 54 ] Seasonal: Adana/Mersin , [ 55 ] Bodrum , [ citation needed ] Dalaman , [ citation needed ] Heraklion , [ citation needed ] Izmir , [ citation needed ] Tivat [ 56 ] Seasonal charter: Cairo [ 57 ] azimuth Astrakhan [ 58 ] Centrum Air Tashkent [ 59 ] China Southern Airlines Guangzhou , [ 60 ] Ürümqi [ citation needed ] Fly Baghdad Baghdad [ citation needed ] Flyadeal Seasonal: Jeddah [ citation needed ] FlyArystan Aqtau [ 56 ] Flydubai Dubai–International [ 61 ] FlyErbil Erbil [ citation needed ] Flynas Seasonal: Jeddah , [ citation needed ] Riyadh [ citation needed ] FlyOne Tashkent [ 62 ] Gulf Air Bahrain [ 63 ] IndiGo Delhi [ 64 ] IrAero Nizhnevartovsk , [ 65 ] Orenburg , [ 66 ] Perm [ 67 ] Seasonal: Chelyabinsk [ 68 ] Iran Air Tabriz , [ citation needed ] Tehran–Imam Khomeini [ 69 ] [ better source needed ] Iran Airtour Tehran–Imam Khomeini [ 69 ] [ better source needed ] Iraqi Airways Sulaymaniyah [ citation needed ] Kuwait Airways Kuwait City [ citation needed ] LOT Polish Airlines Warsaw–Chopin [ citation needed ] Lufthansa Frankfurt [ citation needed ] Pakistan International Airlines Islamabad , [ 70 ] Karachi , [ 71 ] [ 72 ] [ 73 ] Lahore [ citation needed ] Pegasus Airlines Ankara , [ citation needed ] Antalya , [ citation needed ] Istanbul–Sabiha Gökçen , [ 74 ] Izmir [ citation needed ] Royal Jordanian Charter: Amman–Queen Alia [ 75 ] Red Wings Airlines Moscow-Zhukovsky , [ 76 ] Yekaterinburg [ 77 ] S7 Airlines Novosibirsk [ 78 ] Salam Air Seasonal: Muscat [ citation needed ] Turkish Airlines Istanbul [ citation needed ] Seasonal: Antalya [ citation needed ] Uzbekistan Airways Tashkent [ citation needed ] Wizz Air Bratislava , [ 79 ] Budapest , [ 80 ] Rome–Fiumicino [ 81 ] [ 82 ]",
+      "Airlines Destinations Atlas Air [ 83 ] Delhi , Zaragoza Nippon Cargo Airlines [ 84 ] [ failed verification ] Tokyo–Narita Silk Way West Airlines [ 85 ] Amsterdam , Aqtau , Atyrau , Baghdad , Bagram , Bishkek , Chicago–O'Hare , [ 86 ] Dallas/Fort Worth , Delhi , Dhaka , Djibouti , Dubai–Al Maktoum , Dubai–International , Hahn , Hong Kong , Istanbul , Istanbul–Sabiha Gökçen , Jakarta–Soekarno-Hatta , Kandahar , Kuwait City , Kuala Lumpur–International , London–Stansted , Los Angeles , [ 87 ] Luxembourg , Maastricht/Aachen , Manila , Milan–Malpensa , Moscow–Sheremetyevo , Mumbai , New York–JFK , Oslo , [ 88 ] Seoul–Incheon , Shanghai–Pudong , Singapore , Tbilisi , Tehran–Imam Khomeini , Tel Aviv , Tokyo–Narita , [ 89 ] Ürümqi"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-03",
+    "country": "AZ",
+    "name": "Zabrat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+    "listRow": "Baku UBTT ZXT Zabrat Airport 40°29′42″N 049°58′37″E ﻿ / ﻿ 40.49500°N 49.97694°E ﻿ / 40.49500; 49.97694 ﻿ ( Zabrat Airport (Baku) )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "az-asg-offshore"
+    ],
+    "reviewNoteZh": "海上油田人员通勤单列；现机型及公众开放性未确认。"
+  },
+  {
+    "id": "ap-az-04",
+    "country": "AZ",
+    "name": "Balakan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Belokany_Airport",
+    "listRow": "Balakən (Balakan) UB0G UB16 Balakan Airport 41°45′12″N 046°21′19″E ﻿ / ﻿ 41.75333°N 46.35528°E ﻿ / 41.75333; 46.35528 ﻿ ( Balakan Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-05",
+    "country": "AZ",
+    "name": "Fuzuli International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+    "listRow": "Fuzuli UBBF FZL Fuzuli International Airport 39°59′44″N 47°19′6″E ﻿ / ﻿ 39.99556°N 47.31833°E ﻿ / 39.99556; 47.31833 ﻿ ( Fizuli International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Azerbaijan Airlines Baku [ 15 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-06",
+    "country": "AZ",
+    "name": "Ganja International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+    "listRow": "Ganja UBBG GNJ Ganja International Airport 40°44′15″N 046°19′03″E ﻿ / ﻿ 40.73750°N 46.31750°E ﻿ / 40.73750; 46.31750 ﻿ ( Ganja International Airport (Ganja) )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo AJet Istanbul–Sabiha Gökçen [ 13 ] Azerbaijan Airlines Moscow–Vnukovo , Nakhchivan Seasonal: Saint Petersburg [ 14 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 15 ] [ 16 ] Turkish Airlines Istanbul [ 17 ] Ural Airlines Moscow–Domodedovo [ 18 ] Utair Moscow–Vnukovo"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-07",
+    "country": "AZ",
+    "name": "Khojali Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+    "listRow": "Khankendi (Stepanakert) UBBS UB13 Khojali Airport (public) 39°54′05″N 046°47′13″E ﻿ / ﻿ 39.90139°N 46.78694°E ﻿ / 39.90139; 46.78694 ﻿ ( Stepanakert Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-08",
+    "country": "AZ",
+    "name": "Lachin International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+    "listRow": "Lachin - - LHL Lachin International Airport 39°52′45″N 046°20′48″E ﻿ / ﻿ 39.87917°N 46.34667°E ﻿ / 39.87917; 46.34667 ﻿ ( Lachin International Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-09",
+    "country": "AZ",
+    "name": "Lankaran International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+    "listRow": "Lankaran UBBL UB10 LLK Lankaran International Airport 38°44′47″N 048°49′04″E ﻿ / ﻿ 38.74639°N 48.81778°E ﻿ / 38.74639; 48.81778 ﻿ ( Lankaran International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Utair Moscow–Vnukovo [ 4 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-10",
+    "country": "AZ",
+    "name": "Nakhchivan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+    "listRow": "Nakhchivan UBBN UB15 NAJ Nakhchivan International Airport (public / military) 39°11′19″N 045°27′30″E ﻿ / ﻿ 39.18861°N 45.45833°E ﻿ / 39.18861; 45.45833 ﻿ ( Nakhchivan International Airport )",
+    "destinationTables": [
+      "Airlines Destinations AJet Istanbul–Sabiha Gökçen [ 6 ] Azerbaijan Airlines Baku , Ganja [ 7 ] Turkish Airlines Istanbul [ 8 ] Utair Moscow–Vnukovo"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-11",
+    "country": "AZ",
+    "name": "Qabala International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+    "listRow": "Qabala (Gabala / Qəbələ) UBBQ GBB Qabala International Airport 40°49′36″N 047°42′45″E ﻿ / ﻿ 40.82667°N 47.71250°E ﻿ / 40.82667; 47.71250 ﻿ ( Gabala Airport )",
+    "destinationTables": [
+      "Airlines Destinations Azerbaijan Airlines Baku [ 7 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-12",
+    "country": "AZ",
+    "name": "Yevlakh Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+    "listRow": "Yevlakh UBEE YLV Yevlakh Airport 40°37′57″N 047°08′28″E ﻿ / ﻿ 40.63250°N 47.14111°E ﻿ / 40.63250; 47.14111 ﻿ ( Yevlakh Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-13",
+    "country": "AZ",
+    "name": "Zangilan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+    "listRow": "Zangilan UBBZ ZZE Zangilan International Airport 39°5′39.89″N 46°44′2.75″E ﻿ / ﻿ 39.0944139°N 46.7340972°E ﻿ / 39.0944139; 46.7340972 ﻿ ( Zangilan International Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-az-14",
+    "country": "AZ",
+    "name": "Zaqatala International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+    "listRow": "Zaqatala UBBY ZTU Zaqatala International Airport 41°33′44″N 046°40′02″E ﻿ / ﻿ 41.56222°N 46.66722°E ﻿ / 41.56222; 46.66722 ﻿ ( Zaqatala Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-01",
+    "country": "KZ",
+    "name": "Aktau International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Aktau_International_Airport",
+    "listRow": "Aktau UATE SCO Aktau International Airport [ 1 ] 43°51′36″N 051°05′31″E ﻿ / ﻿ 43.86000°N 51.09194°E ﻿ / 43.86000; 51.09194 ﻿ ( Aktau International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo Air Astana Almaty , Astana Azerbaijan Airlines Baku [ 3 ] Centrum Air Nukus [ 4 ] FlyArystan Almaty , [ 5 ] Aqtöbe , [ 5 ] Astana , [ 5 ] Atyrau , [ 5 ] Baku , Dubai–International (suspended until 15 September 2026), [ 6 ] Istanbul (resumes 22 October 2026), [ 7 ] Kutaisi , [ 8 ] Oral , [ 5 ] Şymkent , [ 5 ] Ürümqi [ 9 ] Seasonal: Batumi [ 10 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 11 ] Red Wings Airlines Yekaterinburg [ 12 ] SCAT Airlines Almaty , Astana , Kökşetau , Qarağandy , [ 13 ] Şymkent , Tbilisi , Türkıstan , Urgench , [ 14 ] Yerevan [ 15 ] Seasonal charter: Ufa [ 16 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-02",
+    "country": "KZ",
+    "name": "Aktobe International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Aktobe_International_Airport",
+    "listRow": "Aktobe UATT AKX Aktobe International Airport [ 1 ] 50°14′45″N 57°12′24″E ﻿ / ﻿ 50.24583°N 57.20667°E ﻿ / 50.24583; 57.20667 ﻿ ( Aktobe International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Air Astana Almaty , Astana Air Cairo Seasonal: Sharm El Sheikh [ 4 ] Azerbaijan Airlines Baku [ 5 ] Centrum Air Tashkent [ 6 ] FlyArystan Almaty , [ 7 ] Aqtau , [ 7 ] Astana [ 7 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 8 ] SCAT Airlines Almaty , [ 9 ] Astana , Şymkent , [ 10 ] Türkistan [ 11 ] Sunday Airlines Seasonal charter: Antalya , [ 12 ] Sharm El Sheikh [ 12 ] VietJet Qazaqstan Astana"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-03",
+    "country": "KZ",
+    "name": "Almaty International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+    "listRow": "Almaty UAAA ALA Almaty International Airport [ 1 ] 43°21′19″N 077°02′41″E ﻿ / ﻿ 43.35528°N 77.04472°E ﻿ / 43.35528; 77.04472 ﻿ ( Almaty International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 26 ] Air Arabia Abu Dhabi , [ 27 ] Kuala Lumpur , [ 28 ] Sharjah [ 29 ] Air Astana Abu Dhabi , [ 30 ] Antalya , [ 31 ] Aqtau , [ 32 ] Aqtöbe , [ 33 ] Astana , [ 33 ] Atyrau , [ 34 ] Baku , Bangkok–Suvarnabhumi , [ 34 ] Beijing–Capital , [ 31 ] Bishkek , [ 35 ] Delhi , [ 36 ] Dubai–International , [ 37 ] Dushanbe , [ 36 ] Frankfurt , [ 38 ] Guangzhou , [ 31 ] Istanbul , [ 31 ] London–Heathrow , [ 39 ] Malé , [ 40 ] Mumbai , [ 41 ] Nha Trang , [ 31 ] Oral , [ 33 ] Öskemen , [ 42 ] Osh , [ 43 ] Phuket , [ 40 ] Phu Quoc , [ 34 ] Qyzylorda , [ 44 ] Salalah , [ 45 ] Şymkent , [ 33 ] Seoul–Incheon , [ 46 ] Shanghai–Pudong , [ 31 ] Tashkent , [ 31 ] Tbilisi , [ 31 ] Tokyo-Narita (begins 30 November 2026), [ 47 ] Ürümqi [ 31 ] Seasonal: Bodrum , [ 31 ] Da Nang , [ 31 ] Langkawi , [ 48 ] Larnaca , [ 31 ] Podgorica [ 31 ] Air Cairo Seasonal charter: El Alamein , [ 49 ] Sharm El Sheikh Air China Beijing–Capital [ 50 ] AirAsia X Kuala Lumpur–International [ 51 ] AJet Ankara , [ 52 ] Istanbul–Sabiha Gökçen (begins 5 January 2027) [ 53 ] Asiana Airlines Seoul–Incheon (ends 17 December 2026) [ 54 ] Asman Airlines Issyk-Kul [ 55 ] Azerbaijan Airlines Baku [ 56 ] Azimuth Mineralnye Vody , [ 57 ] Sochi [ 58 ] Belavia Minsk [ 59 ] Cathay Pacific Hong Kong (begins 9 January 2027) [ 60 ] Centrum Air Nukus , [ 61 ] Tashkent [ 61 ] China Eastern Airlines Shanghai–Pudong [ 62 ] China Southern Airlines Beijing–Daxing , [ 63 ] Guangzhou , [ citation needed ] Ürümqi , [ citation needed ] Xi'an [ citation needed ] Eastar Jet Seoul–Incheon [ 64 ] Seasonal: Busan [ 65 ] FlyArystan Aqtau , [ 66 ] Aqtöbe , [ 67 ] Astana , [ 68 ] Atyrau , [ 69 ] Chongqing , [ 70 ] Kostanay , [ 69 ] Kutaisi , [ 71 ] Kyzylorda , [ 69 ] Oral , [ 72 ] Öskemen , [ 69 ] Samarqand , [ 73 ] Şymkent , [ 69 ] Semey , [ 33 ] Pavlodar , [ 74 ] Türkıstan , [ 69 ] Qarağandy , [ 75 ] Qostanai , [ 76 ] Urgench , [ 77 ] Xi'an , [ 78 ] Yining [ 79 ] Seasonal: Batumi , [ 80 ] Gazipaşa/Alanya , [ 81 ] Issyk-Kul [ 82 ] Seasonal charter: Goa-Manohar [ 83 ] Flydubai Dubai–International [ 84 ] Flynas Jeddah [ 85 ] FlyOne Yerevan [ 86 ] Hunnu Air Ulaanbaatar [ 87 ] IndiGo Mumbai [ 88 ] Jazeera Airways Kuwait City [ 89 ] Loong Air Hangzhou [ 90 ] LOT Polish Airlines Warsaw–Chopin [ 91 ] Lufthansa Frankfurt [ 92 ] Neos Milan–Malpensa [ 93 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 94 ] Qatar Airways Doha [ 95 ] Qanot Sharq Tashkent [ 96 ] Qeshm Air Tehran–Imam Khomeini [ 97 ] Red Sea Airlines Seasonal charter: Sharm El Sheikh [ 98 ] Red Wings Airlines Kazan , [ 99 ] Yekaterinburg [ 99 ] Rossiya Airlines Saint Petersburg [ 100 ] S7 Airlines Novosibirsk [ 101 ] SalamAir Seasonal: Muscat [ 102 ] SCAT Airlines Aqtau , [ 103 ] Aqtöbe , [ 103 ] Astana , [ 103 ] Atyrau , [ 103 ] Jeddah , [ 104 ] Jezqazğan , [ 105 ] Kökşetau , [ 103 ] Medina , [ 104 ] Minsk , [ 106 ] Oral , [ 107 ] Öskemen , [ 108 ] Sanya , [ 109 ] Şymkent , [ 103 ] Petropavl , [ 103 ] Taraz , [ 110 ] Türkıstan [ citation needed ] Seasonal charter: Goa–Dabolim , [ 111 ] Nha Trang , [ 112 ] Pattaya , [ 113 ] Phuket , [ 114 ] Phu Quoc [ 112 ] Somon Air Dushanbe [ 115 ] Sunday Airlines Seasonal charter: Phuket [ 116 ] SunExpress İzmir [ 117 ] Thai AirAsia X Bangkok–Don Mueang [ 118 ] Turkish Airlines Istanbul [ 119 ] Uzbekistan Airways Tashkent , [ 120 ] Nukus [ 121 ] VietJet Air Hanoi , [ 122 ] Prague [ 122 ] Seasonal charter: Da Nang [ 123 ] VietJet Qazaqstan Astana [ 124 ] UVT Aero Orenburg [ 125 ]",
+      "Airlines Destinations Atlas Air [ 126 ] Amsterdam , Chongqing , Liège , Zaragoza , Zhengzhou flydubai Dubai-International [ 127 ] My Freighter Tashkent [ 128 ] Qatar Airways Cargo [ 129 ] Doha , Hong Kong Silk Way West Airlines [ 130 ] Baku , Hong Kong"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-04",
+    "country": "KZ",
+    "name": "Boraldai Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Boraldai_Airport",
+    "listRow": "Almaty UAAR BXJ Boraldai Airport 43°21′06″N 076°52′57″E ﻿ / ﻿ 43.35167°N 76.88250°E ﻿ / 43.35167; 76.88250 ﻿ ( Boraldai Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-kazaviaspas"
+    ],
+    "reviewNoteZh": "工业/直升机基地补查；机队不等于公开班表。"
+  },
+  {
+    "id": "ap-kz-05",
+    "country": "KZ",
+    "name": "Arkalyk Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+    "listRow": "Arkalyk UAUR AYK Arkalyk Airport 50°19′30″N 066°57′36″E ﻿ / ﻿ 50.32500°N 66.96000°E ﻿ / 50.32500; 66.96000 ﻿ ( Arkalyk Airport )",
+    "destinationTables": [
+      "Airlines Destinations SCAT Airlines Almaty , Astana , Kostanay [ 8 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-06",
+    "country": "KZ",
+    "name": "Nursultan Nazarbayev International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+    "listRow": "Astana UACC NQZ Nursultan Nazarbayev International Airport [ 1 ] 51°01′19″N 071°28′01″E ﻿ / ﻿ 51.02194°N 71.46694°E ﻿ / 51.02194; 71.46694 ﻿ ( Nursultan Nazarbayev International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 93 ] Air Astana Almaty , [ 94 ] Aqtau , [ 95 ] Aqtöbe , [ 96 ] Atyrau , [ 97 ] Bangkok-Suvarnabhumi (resumes 11 December 2026), [ 98 ] Beijing–Capital , [ 99 ] Dubai–International , [ 100 ] Frankfurt , [ 101 ] Guangzhou , [ 102 ] Istanbul , [ 103 ] Oral , [ 104 ] Oskemen , [ 105 ] Phuket , [ 106 ] Salalah (begins 24 October 2026), [ 107 ] Seoul–Incheon [ 108 ] Seasonal: Antalya , [ 109 ] Bodrum , [ 110 ] Da Nang , [ 111 ] Larnaca , [ 112 ] Nha Trang , [ 113 ] Phu Quoc , [ 114 ] Podgorica , [ 115 ] Qostanai , [ 116 ] Tashkent [ 117 ] Tbilisi [ 118 ] Seasonal charter: Doha , [ 119 ] Malè , [ 120 ] Sanya [ 121 ] Air Cairo Seasonal charter: Sharm El Sheikh [ 122 ] Air China Beijing–Capital , [ 123 ] Xi'an [ 124 ] AJet Ankara , [ 125 ] Istanbul–Sabiha Gökçen (begins 7 January 2027) [ 126 ] Azerbaijan Airlines Baku [ 127 ] Belavia Minsk [ 128 ] Centrum Air Tashkent [ 129 ] China Southern Airlines Ürümqi [ 130 ] FlyArystan Almaty , [ 131 ] Aqtau , [ 132 ] Aqtöbe , [ 133 ] Atyrau , [ 134 ] Kutaisi , [ 135 ] Oral , [ 136 ] Öskemen , [ 137 ] Qostanai , [ 138 ] Qyzylorda , [ 139 ] Semei , [ 140 ] Şymkent , [ 141 ] Tashkent , [ 142 ] Türkıstan , [ 143 ] Ürümqi , [ 144 ] Yining (begins 28 October 2026) [ 145 ] Seasonal: Batumi , [ 146 ] Bishkek , [ 147 ] Issyk-Kul [ 148 ] Seasonal charter: Gazipaşa/Alanya , [ 149 ] Goa-Dabolim , [ 150 ] Goa-Manohar [ 151 ] flydubai Dubai–International [ 152 ] LOT Polish Airlines Warsaw–Chopin [ 153 ] Lufthansa Frankfurt [ 154 ] Mavi Gök Airlines Seasonal charter: Antalya [ 155 ] Pegasus Airlines Antalya , Istanbul–Sabiha Gökçen [ 156 ] Red Sea Airlines Seasonal charter: Sharm El Sheikh [ 157 ] Red Wings Airlines Kazan , [ 158 ] Mineralnye Vody , [ 159 ] Yekaterinburg [ 160 ] Rossiya Airlines Saint Petersburg [ 161 ] Nordwind Airlines Kazan (begins 27 October 2026) [ 162 ] S7 Airlines Novosibirsk [ 163 ] SCAT Airlines Almaty , [ 164 ] Aqtau , [ 165 ] Aqtobe , [ 166 ] Atyrau , [ 167 ] Belgrade , [ 168 ] Moscow–Vnukovo , [ 169 ] Öskemen , [ 170 ] Pavlodar , [ 171 ] Prague , [ 172 ] Saint Petersburg , [ 173 ] Şymkent , [ 174 ] Taraz , [ 175 ] Ulaanbaatar [ 176 ] Seasonal: Batumi , [ 177 ] Pattaya , [ 178 ] Ürjar, [ 179 ] Üşaral [ 180 ] Seasonal charter: Antalya , [ 181 ] Da Nang , [ 182 ] El Alamein , [ 183 ] Nha Trang , [ 184 ] Sanya , [ 185 ] Sharm El Sheikh [ 186 ] Shirak Avia Yerevan [ 187 ] Somon Air Dushanbe [ 188 ] Turkish Airlines Istanbul [ 189 ] Seasonal charter: Antalya [ 190 ] Uzbekistan Airways Tashkent [ 191 ] VietJet Air Seasonal charter: Da Nang , [ 192 ] Nha Trang , [ 193 ] Phu Quoc [ 194 ] VietJet Qazaqstan Almaty , [ 195 ] Aqtobe , [ 196 ] Bishkek , [ 197 ] Jezqazğan , [ 198 ] Novosibirsk , [ 199 ] Omsk (resumes 16 October 2026), [ 200 ] Öskemen , [ 201 ] Petropavl , [ 202 ] Qostanai , [ 203 ] Qyzylorda , [ 204 ] Samarqand , [ 205 ] Şymkent , [ 206 ] Taldyqorğan , [ 207 ] Türkıstan [ 208 ] Seasonal: Balqaş , [ 209 ] Ürjar, [ 210 ] Üşaral [ 211 ]",
+      "Airlines Destinations Cargolux Luxembourg [ 212 ] Cathay Pacific Cargo Hong Kong [ 213 ] My Freighter Airlines Tashkent [ 214 ] Sichuan Airlines Cargo Budapest , Chengdu–Tianfu [ 215 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-07",
+    "country": "KZ",
+    "name": "Atbasar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+    "listRow": "Atbasar ATX Atbasar Airport 51°51′06″N 68°21′48″E ﻿ / ﻿ 51.85167°N 68.36333°E ﻿ / 51.85167; 68.36333 ﻿ ( Atbasar Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-08",
+    "country": "KZ",
+    "name": "Atyrau Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+    "listRow": "Atyrau UATG GUW Atyrau Airport [ 1 ] 47°07′19″N 051°49′17″E ﻿ / ﻿ 47.12194°N 51.82139°E ﻿ / 47.12194; 51.82139 ﻿ ( Atyrau Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot [ 2 ] Moscow–Sheremetyevo Air Astana Almaty , Amsterdam , Astana , Baku , [ 3 ] Dubai–International (suspended until 31 August 2026), [ 4 ] Istanbul Seasonal: Tbilisi [ 5 ] Air Cairo Sharm El Sheikh [ 6 ] Azerbaijan Airlines Baku [ 7 ] azimuth Sochi [ 8 ] Centrum Air Nukus [ 9 ] FlyArystan [ 10 ] Almaty , [ 11 ] Aqtau , [ 11 ] Astana , [ 11 ] Kutaisi , [ 11 ] Şymkent , [ 11 ] Seasonal: Batumi [ 12 ] Neos Milan–Malpensa [ 13 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 14 ] Qazaq Air Aqtöbe , Oral SCAT Airlines Almaty , Astana , Şymkent , [ 15 ] Taraz Uzbekistan Airways Nukus (begins 22 November 2026), [ 16 ] Tashkent [ 17 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-09",
+    "country": "KZ",
+    "name": "Yubileyniy Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Yubileyniy_Airport",
+    "listRow": "Baikonur UAON Yubileyniy Airport 46°03′N 63°14′E ﻿ / ﻿ 46.050°N 63.233°E ﻿ / 46.050; 63.233 ﻿ ( Yubileyniy Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-10",
+    "country": "KZ",
+    "name": "Balkhash Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Balkhash_Airport",
+    "listRow": "Balkhash UAAH BXH Balkhash Airport [ 1 ] 46°53′38″N 075°00′19″E ﻿ / ﻿ 46.89389°N 75.00528°E ﻿ / 46.89389; 75.00528 ﻿ ( Balkhash Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Seasonal: Astana [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-11",
+    "country": "KZ",
+    "name": "Ekibastuz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+    "listRow": "Ekibastuz UASB EKB Ekibastuz Airport 51°35′N 075°13′E ﻿ / ﻿ 51.583°N 75.217°E ﻿ / 51.583; 75.217 ﻿ ( Ekibastuz Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-12",
+    "country": "KZ",
+    "name": "Sary-Arka Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+    "listRow": "Karaganda UAKK KGF Sary-Arka Airport (Karaganda Airport) [ 1 ] 49°40′17″N 073°20′11″E ﻿ / ﻿ 49.67139°N 73.33639°E ﻿ / 49.67139; 73.33639 ﻿ ( Sary-Arka Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo FlyArystan Almaty [ 4 ] S7 Airlines Novosibirsk [ 5 ] SCAT Airlines Aqtau , [ 6 ] Jezqazğan , Oral , [ 6 ] Öskemen , Semei [ 6 ] Sunday Airlines Seasonal charter: Antalya [ 7 ]",
+      "Airlines Destinations MSC Air Cargo [ citation needed ] Hong Kong , Liege My Freighter [ 8 ] Tashkent SF Airlines [ citation needed ] Liege , Yantai"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-zhezair"
+    ],
+    "reviewNoteZh": "检查矿业及地区通勤；当前 Yak-40/L-410 未确认。"
+  },
+  {
+    "id": "ap-kz-13",
+    "country": "KZ",
+    "name": "Kokshetau International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+    "listRow": "Kokshetau UACK KOV Kokshetau International Airport [ 1 ] 53°19′48″N 069°35′48″E ﻿ / ﻿ 53.33000°N 69.59667°E ﻿ / 53.33000; 69.59667 ﻿ ( Kokshetau International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Almaty SCAT Airlines Almaty [ 20 ] , Aqtau , Şymkent"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-14",
+    "country": "KZ",
+    "name": "Kostanay Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kostanay_Airport",
+    "listRow": "Kostanay UAUU KSN Kostanay Airport [ 1 ] 53°12′25″N 063°33′01″E ﻿ / ﻿ 53.20694°N 63.55028°E ﻿ / 53.20694; 63.55028 ﻿ ( Kostanay Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 4 ] Air Astana Astana [ 5 ] Air Cairo Seasonal: Sharm El Sheikh [ 6 ] Centrum Air Tashkent [ 7 ] FlyArystan Almaty , [ 8 ] Astana [ 8 ] SCAT Shymkent [ 9 ] Seasonal charter: Antalya [ 10 ] Vietjet Qazaqstan Astana , [ 11 ] Türkıstan [ 12 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-15",
+    "country": "KZ",
+    "name": "Tengiz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tengiz_Airport?action=edit&redlink=1",
+    "listRow": "Kulsary UATZ Tengiz Airport [ 2 ] 46°18.12′N 53°25.65′E ﻿ / ﻿ 46.30200°N 53.42750°E ﻿ / 46.30200; 53.42750 ﻿ ( Tengiz Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-kazaviaspas"
+    ],
+    "reviewNoteZh": "工业/直升机基地补查；机队不等于公开班表。"
+  },
+  {
+    "id": "ap-kz-16",
+    "country": "KZ",
+    "name": "Kyzylorda Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kyzylorda_Airport",
+    "listRow": "Kyzylorda UAOO KZO Kyzylorda Airport [ 1 ] 44°42′25″N 065°35′33″E ﻿ / ﻿ 44.70694°N 65.59250°E ﻿ / 44.70694; 65.59250 ﻿ ( Kyzylorda Airport )",
+    "destinationTables": [
+      "Airlines Destinations Air Astana Almaty FlyArystan Almaty , [ 6 ] Astana [ 6 ] Vietjet Qazaqstan Almaty , Astana"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-17",
+    "country": "KZ",
+    "name": "Oral Ak Zhol Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+    "listRow": "Oral UARR URA Oral Ak Zhol Airport (Uralsk Airport) [ 1 ] 51°09′03″N 051°32′35″E ﻿ / ﻿ 51.15083°N 51.54306°E ﻿ / 51.15083; 51.54306 ﻿ ( Oral Ak Zhol Airport )",
+    "destinationTables": [
+      "Airlines Destinations Centrum Air Tashkent [ 7 ] Nordwind Airlines Moscow Sheremetyevo (begins 28 October 2026) [ 8 ] FlyArystan Aqtau , [ 9 ] Astana [ 9 ] Seasonal charter: Antalya [ citation needed ] Pegasus Airlines Istanbul-Sabiha Gökçen [ 10 ] SCAT Airlines Almaty , [ 11 ] Qarağandy [ citation needed ] Sunday Airlines Seasonal charter: Antalya [ 12 ] Vietjet Qazaqstan Aqtöbe [ citation needed ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-18",
+    "country": "KZ",
+    "name": "Oskemen Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+    "listRow": "Oskemen UASK UKK Oskemen Airport (Ust-Kamenogorsk Airport) [ 1 ] 50°02′10″N 082°29′39″E ﻿ / ﻿ 50.03611°N 82.49417°E ﻿ / 50.03611; 82.49417 ﻿ ( Oskemen Airport )",
+    "destinationTables": [
+      "Airlines Destinations Air Astana Almaty , Astana FlyArystan Almaty , [ 2 ] Astana [ 2 ] S7 Airlines Moscow–Domodedovo , Novosibirsk SCAT Airlines Almaty , Astana , Qarağandy , Ürjar, Zaisan Sunday Airlines Seasonal charter: Antalya"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-oskemen-zaysan"
+    ],
+    "reviewNoteZh": "有 2026 复航报道和 An-24 二手售票线索。"
+  },
+  {
+    "id": "ap-kz-19",
+    "country": "KZ",
+    "name": "Pavlodar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+    "listRow": "Pavlodar UASP PWQ Pavlodar Airport [ 1 ] 52°11′42″N 077°04′26″E ﻿ / ﻿ 52.19500°N 77.07389°E ﻿ / 52.19500; 77.07389 ﻿ ( Pavlodar Airport )",
+    "destinationTables": [
+      "Airlines Destinations FlyArystan Almaty [ 6 ] SCAT Airlines Astana [ 7 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-20",
+    "country": "KZ",
+    "name": "Petropavl Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+    "listRow": "Petropavl UACP PPK Petropavl Airport (Petropavlovsk Airport) [ 1 ] 54°46′28″N 069°11′06″E ﻿ / ﻿ 54.77444°N 69.18500°E ﻿ / 54.77444; 69.18500 ﻿ ( Petropavl Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Astana [ 2 ] SCAT Airlines Almaty , Şymkent [ 3 ] Seasonal charter: Sharm El Sheikh [ 4 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-21",
+    "country": "KZ",
+    "name": "Semey Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Semey_Airport",
+    "listRow": "Semey UASS PLX Semey Airport (Semipalatinsk Airport) [ 1 ] 50°21′05″N 080°14′04″E ﻿ / ﻿ 50.35139°N 80.23444°E ﻿ / 50.35139; 80.23444 ﻿ ( Semey Airport )",
+    "destinationTables": [
+      "Airlines Destinations FlyArystan Almaty , [ 3 ] Astana , [ 4 ] Şymkent SCAT Airlines Qarağandy , [ 5 ] Ürjar Vietjet Qazaqstan Astana [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-semei-urzhar"
+    ],
+    "reviewNoteZh": "An-24 地方补贴航线有 2026 政府原文。"
+  },
+  {
+    "id": "ap-kz-22",
+    "country": "KZ",
+    "name": "Shymkent International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+    "listRow": "Shymkent UAII CIT Shymkent International Airport [ 1 ] 42°21′54″N 069°28′34″E ﻿ / ﻿ 42.36500°N 69.47611°E ﻿ / 42.36500; 69.47611 ﻿ ( Shymkent International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 3 ] Air Astana Almaty , Jeddah [ 4 ] Seasonal charter: Doha [ 5 ] Azerbaijan Airlines Baku [ 6 ] FlyArystan Almaty , [ 7 ] Aqtau , [ 7 ] Astana , [ 7 ] Atyrau [ 7 ] Seasonal: Batumi , [ 8 ] Kutaisi [ 9 ] flydubai Dubai–International [ 10 ] [ 11 ] Pegasus Airlines Istanbul–Sabiha Gökçen [ 12 ] Seasonal: Antalya [ 13 ] S7 Airlines Novosibirsk [ 14 ] SCAT Airlines Almaty , Aqtau , Aqtöbe , [ 15 ] Astana , Atyrau , [ 16 ] Bangkok–Suvarnabhumi , [ 17 ] Bishkek , [ 18 ] Budapest , [ 19 ] Cairo , [ 15 ] Istanbul , Kökşetau , [ 20 ] Krasnodar , [ 21 ] Krasnoyarsk-International , [ 22 ] Moscow–Vnukovo , Munich , [ 23 ] Novosibirsk , [ 24 ] Saint Petersburg , [ 25 ] Sanya (begins 20 October 2026), [ 26 ] Seoul–Incheon , [ 27 ] Shanghai–Pudong , [ 28 ] Singapore (begins 20 October 2026), [ 26 ] Tbilisi , [ 16 ] Ürümqi , [ 29 ] Xi'an [ 30 ] Seasonal: Petropavl [ 31 ] Sunday Airlines Seasonal charter: Antalya , [ citation needed ] Sharm El Sheikh [ citation needed ] Vietjet Qazaqstan Almaty , Astana , Jezqazğan [ 32 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-23",
+    "country": "KZ",
+    "name": "Taldykorgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+    "listRow": "Taldykorgan UAAT TDK Taldykorgan Airport [ 1 ] 45°07′21″N 078°26′34″E ﻿ / ﻿ 45.12250°N 78.44278°E ﻿ / 45.12250; 78.44278 ﻿ ( Taldykorgan Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Astana , [ 3 ] Türkistan SCAT Airlines Astana [ 4 ] Zhetysu Seasonal: Üşaral"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-zhetysu"
+    ],
+    "reviewNoteZh": "检查 Zhetysu 历史 Yak-40/L-410，当前班表未确认。"
+  },
+  {
+    "id": "ap-kz-24",
+    "country": "KZ",
+    "name": "Taraz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Taraz_Airport",
+    "listRow": "Taraz UADD DMB Taraz Airport [ 1 ] 42°51′13″N 071°18′13″E ﻿ / ﻿ 42.85361°N 71.30361°E ﻿ / 42.85361; 71.30361 ﻿ ( Taraz Airport )",
+    "destinationTables": [
+      "Airlines Destinations SCAT Airlines Almaty , Astana , Atyrau Seasonal charter: Novosibirsk , [ 2 ] Phu Quoc , [ 3 ] Sharm El Sheikh , [ 4 ] Sihanoukville [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-25",
+    "country": "KZ",
+    "name": "Hazrat Sultan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Hazrat_Sultan_International_Airport",
+    "listRow": "Turkistan UAIT HSA Hazrat Sultan International Airport 43°18′40″N 068°33′01″E ﻿ / ﻿ 43.31111°N 68.55028°E ﻿ / 43.31111; 68.55028 ﻿ ( Hazrat Sultan International Airport )",
+    "destinationTables": [
+      "Airlines Destinations FlyArystan Almaty , [ 10 ] Astana [ 10 ] Jazeera Airways Kuwait City [ 11 ] SCAT Airlines Aqtau , [ 12 ] Aqtöbe , [ 13 ] Bukhara , [ 14 ] Oral , [ 15 ] Samarqand , [ 16 ] Urgench [ 17 ] Silk Avia Samarqand [ 18 ] Turkish Airlines Istanbul [ 19 ] Vietjet Qazaqstan Aqtöbe , [ 20 ] Astana , [ 20 ] Qostanai , [ 21 ] Samarqand [ 22 ]",
+      "Airlines Destinations Turkish Cargo Istanbul , Macau [ 23 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-26",
+    "country": "KZ",
+    "name": "Usharal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Usharal_Airport",
+    "listRow": "Usharal UAAL USJ Usharal Airport 46°11′25″N 080°49′53″E ﻿ / ﻿ 46.19028°N 80.83139°E ﻿ / 46.19028; 80.83139 ﻿ ( Usharal Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Seasonal: Astana Zhetysu Seasonal: Taldyqorğan"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-zhetysu"
+    ],
+    "reviewNoteZh": "检查 Zhetysu 历史 Yak-40/L-410，当前班表未确认。"
+  },
+  {
+    "id": "ap-kz-27",
+    "country": "KZ",
+    "name": "Ush Tobe Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ush_Tobe_Airport?action=edit&redlink=1",
+    "listRow": "Vostochny Ush Tobe Airport 50°33′13″N 66°38′57″E ﻿ / ﻿ 50.55361°N 66.64917°E ﻿ / 50.55361; 66.64917 ﻿ ( Ush Tobe Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kz-28",
+    "country": "KZ",
+    "name": "Zaysan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+    "listRow": "Zaysan UASZ SZI Zaysan Airport 47°29′13″N 084°53′17″E ﻿ / ﻿ 47.48694°N 84.88806°E ﻿ / 47.48694; 84.88806 ﻿ ( Zaysan Airport )",
+    "destinationTables": [
+      "Airlines Destinations SCAT Airlines Öskemen [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-oskemen-zaysan"
+    ],
+    "reviewNoteZh": "有 2026 复航报道和 An-24 二手售票线索。"
+  },
+  {
+    "id": "ap-kz-29",
+    "country": "KZ",
+    "name": "Zhezkazgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zhezkazgan_Airport",
+    "listRow": "Zhezkazgan UAKD DZN Zhezkazgan Airport [ 1 ] 47°42′32″N 067°44′21″E ﻿ / ﻿ 47.70889°N 67.73917°E ﻿ / 47.70889; 67.73917 ﻿ ( Zhezkazgan Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qazaq Air Astana , Öskemen , [ 3 ] Qarağandy , [ 4 ] Şymkent [ 5 ] SCAT Airlines Almaty , Astana Zhezkazgan Air Qarağandy"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kz-zhezair"
+    ],
+    "reviewNoteZh": "检查矿业及地区通勤；当前 Yak-40/L-410 未确认。"
+  },
+  {
+    "id": "ap-kg-01",
+    "country": "KG",
+    "name": "Manas International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+    "listRow": "Bishkek Chüy UCFM BSZ БИШ Manas International Airport 43°03′40″N 074°28′39″E ﻿ / ﻿ 43.06111°N 74.47750°E ﻿ / 43.06111; 74.47750 ﻿ ( Manas International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aero Nomad Airlines [ 12 ] Delhi , Islamabad , Lahore , Moscow–Vnukovo , Tashkent , [ 13 ] Osh , Surgut , [ 14 ] Ürümqi [ 15 ] Seasonal charter: Nha Trang , [ 16 ] Phu Quoc (begins 31 October 2026) [ 17 ] Aeroflot Moscow–Sheremetyevo Air Arabia Sharjah [ 18 ] [ 19 ] Air Astana Almaty Air China Beijing-Capital [ 20 ] AJet Ankara , [ 21 ] [ 22 ] Istanbul–Sabiha Gökçen [ 23 ] Asman Airlines [ 24 ] Batken , Manas , [ 25 ] Karakol , Kerben , [ 26 ] Naryn , Osh , Razzakov , Talas , Kazarman Avia Traffic Company Dushanbe , Grozny , Kazan , Krasnoyarsk–Yemelyanovo , Moscow–Domodedovo , Novosibirsk , Osh , Saint Petersburg Azerbaijan Airlines Baku [ 27 ] Centrum Air Tashkent [ 28 ] China Southern Airlines Beijing–Daxing , [ 29 ] Guangzhou , [ 30 ] Ürümqi [ 31 ] Flydubai Dubai–International [ 32 ] Flynas Jeddah [ 33 ] Jazeera Airways Kuwait City [ 34 ] Loong Air Chengdu–Tianfu , [ 35 ] Xi'an [ 36 ] Nordwind Airlines Kazan Pegasus Airlines Antalya , Istanbul–Sabiha Gökçen Red Sea Airlines Seasonal charter: Sharm El Sheikh [ 37 ] Red Wings Airlines Makhachkala Rossiya Airlines Krasnoyarsk–Yemelyanovo S7 Airlines Novosibirsk SCAT Airlines Şymkent [ 38 ] Sky FRU Osh , Moscow–Domodedovo [ 39 ] [ 40 ] Somon Air Dushanbe [ 41 ] Trinity Airways Seoul–Incheon [ 42 ] Turkish Airlines Istanbul [ 43 ] Ural Airlines Moscow–Domodedovo , Yekaterinburg Utair Surgut , [ 44 ] Tyumen [ 45 ] Qanot Sharq Phuket (begins 17 November 2026), [ 46 ] Tashkent (begins 17 November 2026) [ 47 ] Uzbekistan Airways Tashkent Vietjet Qazaqstan Astana [ 48 ]",
+      "Airlines Destinations My Freighter Tashkent [ 49 ] RUS Aviation [ 50 ] Sharjah Silk Way Airlines Baku , Ürümqi Turkish Cargo [ 51 ] Almaty , Bangkok–Suvarnabhumi , Guangzhou , Islamabad , Istanbul , Shanghai–Pudong Uzbekistan Airways Cargo Navoiy YTO Cargo Airlines [ 52 ] Shijiazhuang"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-02",
+    "country": "KG",
+    "name": "Osh Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Osh_Airport",
+    "listRow": "Osh Osh UCFO OSS ОШШ Osh Airport 40°36′32″N 072°47′35″E ﻿ / ﻿ 40.60889°N 72.79306°E ﻿ / 40.60889; 72.79306 ﻿ ( Osh Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 8 ] Aero Nomad Airlines [ 9 ] Bishkek , Moscow–Vnukovo , [ 10 ] Surgut Seasonal: Novosibirsk [ 11 ] Air Arabia Sharjah Air Astana Almaty [ 12 ] Asman Airlines Bishkek , [ 13 ] Issyk-Kul , Karakol [ 14 ] Avia Traffic Company Bishkek , Irkutsk , [ 15 ] Krasnoyarsk–International , Moscow–Domodedovo , Novosibirsk , Saint Petersburg , Yekaterinburg Centrum Air Tashkent [ 16 ] Chengdu Airlines Kashgar [ 17 ] China Southern Airlines Ürümqi [ 18 ] Flynas Jeddah [ 19 ] Jazeera Airways Kuwait City [ 20 ] Nordwind Airlines Tyumen Pegasus Airlines Istanbul–Sabiha Gökçen [ 21 ] Pobeda Moscow–Vnukovo [ 22 ] Red Wings Airlines Makhachkala [ 23 ] Rossiya Airlines Krasnoyarsk S7 Airlines Irkutsk , Novosibirsk SalamAir Muscat [ 24 ] Sky FRU Bishkek , Issyk-Kul [ 25 ] Ural Airlines Chelyabinsk , Irkutsk , [ 26 ] Kazan , [ 27 ] [ 28 ] Krasnoyarsk–International , [ 29 ] Mineralnye Vody , Moscow–Domodedovo , Moscow–Zhukovsky , [ 30 ] Nizhnevartovsk , [ 28 ] Saint Petersburg , Sochi , [ 31 ] Yekaterinburg"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-03",
+    "country": "KG",
+    "name": "Jalal-Abad Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+    "listRow": "Jalal-Abad Jalal-Abad UAFJ JBD ДЖБ Jalal-Abad Airport 40°56′39″N 072°58′40″E ﻿ / ﻿ 40.94417°N 72.97778°E ﻿ / 40.94417; 72.97778 ﻿ ( Jalal-Abad Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek [ 8 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-04",
+    "country": "KG",
+    "name": "Kazarman Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+    "listRow": "Kazarman Jalal-Abad UAFZ - КЗМ Kazarman Airport 41°24′37″N 074°02′39″E ﻿ / ﻿ 41.41028°N 74.04417°E ﻿ / 41.41028; 74.04417 ﻿ ( Kazarman Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-05",
+    "country": "KG",
+    "name": "Kerben Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kerben_Airport",
+    "listRow": "Kerben Jalal-Abad UAFE - КРФ Kerben Airport 41°29′04″N 071°44′01″E ﻿ / ﻿ 41.48444°N 71.73361°E ﻿ / 41.48444; 71.73361 ﻿ ( Kerben Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek [ 4 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-06",
+    "country": "KG",
+    "name": "Toktogul Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+    "listRow": "Toktogul Jalal-Abad UAFX - ТГЛ Toktogul Airport 41°52′40″N 072°51′44″E ﻿ / ﻿ 41.87778°N 72.86222°E ﻿ / 41.87778; 72.86222 ﻿ ( Toktogul Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kg-07",
+    "country": "KG",
+    "name": "Kanysh-Kiya Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+    "listRow": "Kanysh-Kyya Jalal-Abad - - КШЯ Kanysh-Kiya Airport 41°45′19″N 071°03′02″E ﻿ / ﻿ 41.75528°N 71.05056°E ﻿ / 41.75528; 71.05056 ﻿ ( Kanysh-Kiya Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kg-08",
+    "country": "KG",
+    "name": "Batken Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Batken_Airport",
+    "listRow": "Batken Batken UAFB - БАТ Batken Airport 40°02′33″N 070°50′17″E ﻿ / ﻿ 40.04250°N 70.83806°E ﻿ / 40.04250; 70.83806 ﻿ ( Batken Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek , [ 4 ] Tamchy [ 5 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-09",
+    "country": "KG",
+    "name": "Razzakov Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+    "listRow": "Razzakov Batken UAFI - ИФА Razzakov Airport 39°49′29″N 069°34′07″E ﻿ / ﻿ 39.82472°N 69.56861°E ﻿ / 39.82472; 69.56861 ﻿ ( Isfana Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek [ 9 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-10",
+    "country": "KG",
+    "name": "Kyzyl-Kiya Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+    "listRow": "Kyzyl-Kyya Batken UAFS - КЫК Kyzyl-Kiya Airport 40°16′18″N 072°02′49″E ﻿ / ﻿ 40.27167°N 72.04694°E ﻿ / 40.27167; 72.04694 ﻿ ( Kyzyl-Kiya Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kg-11",
+    "country": "KG",
+    "name": "Naryn Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Naryn_Airport",
+    "listRow": "Naryn Naryn UCFN - НЫН Naryn Airport 41°26′29″N 076°07′50″E ﻿ / ﻿ 41.44139°N 76.13056°E ﻿ / 41.44139; 76.13056 ﻿ ( Naryn Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek [ 11 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-12",
+    "country": "KG",
+    "name": "Talas Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Talas_Airport",
+    "listRow": "Talas Talas UAFT - ТЛС Talas Airport 42°30′21″N 072°15′47″E ﻿ / ﻿ 42.50583°N 72.26306°E ﻿ / 42.50583; 72.26306 ﻿ ( Talas Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek [ 7 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-13",
+    "country": "KG",
+    "name": "Issyk-Kul International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+    "listRow": "Tamchy Issyk-Kul UCFL IKL ИКУ Issyk-Kul International Airport 42°35′18″N 076°42′48″E ﻿ / ﻿ 42.58833°N 76.71333°E ﻿ / 42.58833; 76.71333 ﻿ ( Tamchy Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo Asman Airlines Tashkent [ 5 ] , Almaty , [ 6 ] Osh , Batken [ 7 ] Centrum Air Seasonal: Tashkent [ 8 ] FlyArystan Seasonal: Almaty [ 9 ] S7 Airlines Seasonal: Novosibirsk [ 10 ] Silk Avia Seasonal: Tashkent [ 11 ] Sky FRU Osh"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-14",
+    "country": "KG",
+    "name": "Karakol International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+    "listRow": "Karakol Issyk-Kul UCFP IKG КПЖ Karakol International Airport 42°30′29″N 078°24′28″E ﻿ / ﻿ 42.50806°N 78.40778°E ﻿ / 42.50806; 78.40778 ﻿ ( Karakol International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Asman Airlines Bishkek , [ 18 ] Osh [ 19 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "kg-asman-network"
+    ],
+    "reviewNoteZh": "Asman 官网覆盖的新/恢复地区网络，Q400。"
+  },
+  {
+    "id": "ap-kg-15",
+    "country": "KG",
+    "name": "Cholpon-Ata Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+    "listRow": "Cholpon-Ata Issyk-Kul UAFG - ЧЛА Cholpon-Ata Airport 42°39′13″N 077°03′24″E ﻿ / ﻿ 42.65361°N 77.05667°E ﻿ / 42.65361; 77.05667 ﻿ ( Cholpon-Ata Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kg-16",
+    "country": "KG",
+    "name": "Tamga Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tamga_Airport",
+    "listRow": "Tamga Issyk-Kul UAFA - ТМГ Tamga Airport 42°09′11″N 077°33′50″E ﻿ / ﻿ 42.15306°N 77.56389°E ﻿ / 42.15306; 77.56389 ﻿ ( Tamga Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-kg-17",
+    "country": "KG",
+    "name": "Tokmok Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+    "listRow": "Tokmok Chüy UAFF - ТКМ Tokmok Airport 42°49′44″N 075°20′09″E ﻿ / ﻿ 42.82889°N 75.33583°E ﻿ / 42.82889; 75.33583 ﻿ ( Tokmok Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-01",
+    "country": "UZ",
+    "name": "Andizhan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+    "listRow": "Andijan UZFA AZN Andizhan Airport Public 40°43′40″N 072°17′38″E ﻿ / ﻿ 40.72778°N 72.29389°E ﻿ / 40.72778; 72.29389 ﻿ ( Andizhan Airport )",
+    "destinationTables": [
+      "Airlines Destinations Centrum Air Novosibirsk [ 11 ] Flykhiva Seasonal charter: Medina [ 11 ] FlyOne Jeddah , [ 11 ] Medina [ 11 ] Pegasus Airlines Istanbul-Sabiha Gökçen (begins 18 December 2026) [ 12 ] S7 Airlines Irkutsk , [ 13 ] Novosibirsk [ 14 ] Silk Avia Tashkent [ 11 ] Uzbekistan Airways Istanbul , [ 15 ] Moscow–Vnukovo , [ 16 ] Novosibirsk , [ 17 ] Saint Petersburg , [ 17 ] Tashkent [ 17 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-02",
+    "country": "UZ",
+    "name": "Bukhara International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+    "listRow": "Bukhara UZSB BHK Bukhara International Airport Public 39°46′30″N 064°29′00″E ﻿ / ﻿ 39.77500°N 64.48333°E ﻿ / 39.77500; 64.48333 ﻿ ( Bukhara International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 4 ] Centrum Air Samarqand , [ 5 ] Tashkent , [ 6 ] Urgench , [ 6 ] Vladivostok [ 7 ] Pegasus Airlines Istanbul-Sabiha Gökçen (begins 14 December 2026) [ 8 ] Qanot Sharq Moscow–Domodedovo [ 9 ] Red Wings Yekaterinburg [ 10 ] SCAT Airlines Türkistan [ 11 ] Silk Avia Urgench , [ 12 ] Sariosiyo [ 13 ] Tashkent [ 14 ] Turkish Airlines Istanbul [ 15 ] Utair Moscow-Vnukovo [ 16 ] Uzbekistan Airways Moscow–Vnukovo , [ 17 ] Saint Petersburg , [ 18 ] Tashkent [ 19 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-03",
+    "country": "UZ",
+    "name": "Fergana International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+    "listRow": "Fergana UZFF FEG Fergana International Airport Public 40°21′32″N 071°44′42″E ﻿ / ﻿ 40.35889°N 71.74500°E ﻿ / 40.35889; 71.74500 ﻿ ( Fergana International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Centrum Air Tashkent , [ 7 ] Istanbul [ 8 ] Qanot Sharq Moscow–Domodedovo [ 9 ] S7 Airlines Irkutsk , Novosibirsk Silk Avia Urgench , [ 10 ] Bukhara , [ 11 ] Navoi , [ 12 ] Samarqand , [ 13 ] Tashkent Turkish Airlines Istanbul (suspended) [ 14 ] Ural Airlines Moscow–Domodedovo , Moscow–Zhukovsky Utair Moscow–Vnukovo , Surgut [ 15 ] Uzbekistan Airways Istanbul , [ 16 ] Kazan , Moscow–Vnukovo , [ 17 ] Novosibirsk , Saint Petersburg , [ 18 ] Tashkent Nordwind Airlines Kazan (begins 25 November 2026) [ 19 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-04",
+    "country": "UZ",
+    "name": "Zomin Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zomin_Airport",
+    "listRow": "Zomin UZTZ OMN Zomin Airport Public 39°58′11″N 068°32′35″E ﻿ / ﻿ 39.96972°N 68.54306°E ﻿ / 39.96972; 68.54306 ﻿ ( Zomin Airpor )",
+    "destinationTables": [
+      "Airlines Destinations Silk Avia Tashkent [ 13 ] Uzbekistan Airways Samarqand , [ 14 ] Tashkent [ 15 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "uz-zaamin"
+    ],
+    "reviewNoteZh": "L-410 官方航线公告；本期时刻未核实。"
+  },
+  {
+    "id": "ap-uz-05",
+    "country": "UZ",
+    "name": "Muynak Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Muynak_Airport",
+    "listRow": "Moynaq UZNM MOK Muynak Airport Public 43°45′19″N 059°01′51″E ﻿ / ﻿ 43.75528°N 59.03083°E ﻿ / 43.75528; 59.03083 ﻿ ( Muynak Airport )",
+    "destinationTables": [
+      "Airlines Destinations Silk Avia Nukus [ 5 ] Uzbekistan Airways Nukus [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "uz-muynak"
+    ],
+    "reviewNoteZh": "L-410 官方航线公告；本期时刻未核实。"
+  },
+  {
+    "id": "ap-uz-06",
+    "country": "UZ",
+    "name": "Nukus Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nukus_Airport",
+    "listRow": "Nukus UZNN NCU Nukus Airport Public 42°29′18″N 059°37′23″E ﻿ / ﻿ 42.48833°N 59.62306°E ﻿ / 42.48833; 59.62306 ﻿ ( Nukus Airport )",
+    "destinationTables": [
+      "Airlines Destinations Centrum Air Almaty , [ 3 ] Aqtau , [ 3 ] Atyrau , [ 4 ] Tashkent [ 3 ] FlyArystan Almaty [ 5 ] Pobeda Moscow–Vnukovo [ 6 ] SCAT Airlines Aqtau Silk Avia Tashkent [ 7 ] Uzbekistan Airways Almaty , [ 8 ] Aqtau , Atyrau (begins 22 November 2026), [ 9 ] Istanbul , [ 10 ] Moscow–Vnukovo , [ 11 ] Muynak , [ 12 ] Tashkent"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "uz-muynak"
+    ],
+    "reviewNoteZh": "L-410 官方航线公告；本期时刻未核实。"
+  },
+  {
+    "id": "ap-uz-07",
+    "country": "UZ",
+    "name": "Urgench International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+    "listRow": "Urgench UZNU UGC Urgench International Airport Public 41°35′03″N 060°38′30″E ﻿ / ﻿ 41.58417°N 60.64167°E ﻿ / 41.58417; 60.64167 ﻿ ( Urgench International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 10 ] Azerbaijan Airlines Baku [ 11 ] azimuth Moscow-Vnukovo [ 12 ] Qanot Sharq Milan–Bergamo [ 13 ] Centrum Air Tashkent , [ 14 ] Moscow–Domodedovo , Saint Petersburg , Samarqand [ 15 ] Fly Khiva Tashkent FlyArystan Almaty [ 16 ] Red Wings Airlines Makhachkala , Samara [ 17 ] S7 Airlines Moscow–Domodedovo [ 18 ] [ 19 ] SCAT Airlines Türkistan [ 20 ] Silk Avia Tashkent [ 21 ] Turkish Airlines Istanbul [ 22 ] Ural Airlines Moscow–Zhukovsky Uzbekistan Airways Bukhara , Frankfurt , [ 23 ] Istanbul , Madrid , [ 24 ] Milan–Malpensa , Moscow–Vnukovo , [ 25 ] Rome–Fiumicino , [ 26 ] Saint Petersburg , Tashkent",
+      "Airlines Destinations My Freighter Airlines Ürümqi [ 27 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-08",
+    "country": "UZ",
+    "name": "Namangan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Namangan_Airport",
+    "listRow": "Namangan UZFN NMA Namangan Airport Public 40°59′04″N 071°33′24″E ﻿ / ﻿ 40.98444°N 71.55667°E ﻿ / 40.98444; 71.55667 ﻿ ( Namangan Airport )",
+    "destinationTables": [
+      "Airlines Destinations Centrum Air Istanbul , [ 1 ] Moscow–Domodedovo , [ 2 ] Novosibirsk , [ 2 ] Saint Petersburg , [ 2 ] Samarqand [ 3 ] Flynas Jeddah [ 4 ] Jazeera Airways Kuwait City [ 5 ] Nordwind Airlines Kazan [ 6 ] Qanot Sharq Dubai–International , [ 7 ] Istanbul , [ 8 ] Moscow–Domodedovo , [ 9 ] Saint Petersburg [ 9 ] Red Wings Airlines Makhachkala Silk Avia Tashkent [ 10 ] Ural Airlines Irkutsk , [ 11 ] Moscow–Domodedovo , [ 12 ] Moscow–Zhukovsky , Sochi , [ 13 ] Yekaterinburg [ 14 ] Uzbekistan Airways Delhi [ 15 ] , Krasnodar , [ 16 ] Moscow–Vnukovo , [ 17 ] Perm , [ 18 ] Saint Petersburg , [ 19 ] Sochi , [ 13 ] Tashkent , Ufa , [ 20 ] Yekaterinburg"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-09",
+    "country": "UZ",
+    "name": "Navoiy International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+    "listRow": "Navoiy UZSA NVI Navoiy International Airport Public 40°07′04″N 065°10′30″E ﻿ / ﻿ 40.11778°N 65.17500°E ﻿ / 40.11778; 65.17500 ﻿ ( Navoiy International Airport )",
+    "destinationTables": [
+      "Airlines Destinations azimuth Moscow-Vnukovo (begins 21 October 2026 [ 3 ] Silk Avia Fergana , [ 4 ] Tashkent [ 4 ] Uzbekistan Airways Moscow–Vnukovo [ citation needed ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-10",
+    "country": "UZ",
+    "name": "Zarafshan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+    "listRow": "Zarafshan UZSN AFS Zarafshan Airport Public 41°36′49″N 064°13′58″E ﻿ / ﻿ 41.61361°N 64.23278°E ﻿ / 41.61361; 64.23278 ﻿ ( Zarafshan Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-11",
+    "country": "UZ",
+    "name": "Karshi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Karshi_Airport",
+    "listRow": "Qarshi UZSK KSQ Karshi Airport Public 38°48′14″N 065°46′14″E ﻿ / ﻿ 38.80389°N 65.77056°E ﻿ / 38.80389; 65.77056 ﻿ ( Karshi Airport )",
+    "destinationTables": [
+      "Airlines Destinations Qanot Sharq Istanbul [ 2 ] Silk Avia Tashkent [ 3 ] Ural Airlines Moscow–Domodedovo , [ 4 ] Moscow–Zhukovsky Uzbekistan Airways Moscow–Vnukovo , [ 5 ] Saint Petersburg [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-12",
+    "country": "UZ",
+    "name": "Samarkand International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+    "listRow": "Samarkand UZSS SKD Samarkand International Airport Public 39°42′02″N 066°59′02″E ﻿ / ﻿ 39.70056°N 66.98389°E ﻿ / 39.70056; 66.98389 ﻿ ( Samarkand Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Moscow–Sheremetyevo [ 24 ] Azerbaijan Airlines Baku [ 25 ] azimuth Krasnodar , [ 26 ] Sochi , [ 27 ] Ufa [ 28 ] Centrum Air Bukhara , [ 29 ] Dushanbe , [ 30 ] , Dubai–International [ 31 ] , Guangzhou , [ 32 ] Istanbul , [ 33 ] Khabarovsk , [ 34 ] Moscow–Domodedovo , [ 35 ] Moscow-Sheremetyevo , [ 36 ] Namangan , [ 37 ] Sochi , [ 37 ] Tashkent , Tel Aviv , [ 38 ] Urgench [ 39 ] FlyArystan Almaty [ 40 ] Flydubai Dubai–International [ 41 ] [ 42 ] Loong Air Xi'an [ 43 ] Nordwind Airlines Kazan [ 44 ] Pobeda Moscow–Vnukovo Qanot Sharq Moscow–Domodedovo , [ 45 ] Saint Petersburg , Tashkent , [ 46 ] Tel Aviv [ 46 ] Rossiya Airlines Saint Petersburg [ 47 ] S7 Airlines Novosibirsk SCAT Airlines Türkistan [ 48 ] Silk Avia Urgench , [ 49 ] Tashkent SunExpress İzmir [ 50 ] Turkish Airlines Istanbul [ 51 ] Ural Airlines Krasnoyarsk–International , [ 52 ] Moscow–Domodedovo , [ 53 ] Moscow–Zhukovsky , Yekaterinburg [ 54 ] Utair Moscow–Vnukovo , Saint Petersburg Uzbekistan Airways Istanbul , [ 55 ] [ 56 ] Moscow–Vnukovo , [ 57 ] Saint Petersburg , Tashkent , [ 58 ] Tel Aviv [ 59 ] Seasonal charter: Medina [ 60 ] Vietjet Qazaqstan Astana , [ 61 ] Türkistan [ 62 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-13",
+    "country": "UZ",
+    "name": "Termez Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Termez_Airport",
+    "listRow": "Termez UZST TMJ Termez Airport Public 37°17′12″N 067°18′36″E ﻿ / ﻿ 37.28667°N 67.31000°E ﻿ / 37.28667; 67.31000 ﻿ ( Termez Airport )",
+    "destinationTables": [
+      "Airlines Destinations azimuth Sochi [ 3 ] Flykhiva Istanbul [ 4 ] Pegasus Airlines Istanbul-Sabiha Gökçen (begins 1 March 2027) [ 5 ] Pobeda Moscow–Vnukovo [ 6 ] Qanot Sharq Saint Petersburg [ 7 ] Silk Avia Tashkent [ 8 ] Uzbekistan Airways Moscow–Vnukovo , [ 9 ] Saint Petersburg , Tashkent"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-uz-14",
+    "country": "UZ",
+    "name": "Tashkent International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+    "listRow": "Tashkent UZTT TAS Tashkent International Airport Public 41°15′28″N 069°16′52″E ﻿ / ﻿ 41.25778°N 69.28111°E ﻿ / 41.25778; 69.28111 ﻿ ( Tashkent International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Aero Nomad Airlines Bishkek [ 47 ] [ 48 ] Aeroflot Moscow–Sheremetyevo , [ 49 ] Saint Petersburg [ 50 ] Air Arabia Abu Dhabi , [ 51 ] Ras Al Khaimah , [ 52 ] Sharjah [ 53 ] Air Astana Almaty , [ 54 ] Astana [ 54 ] Air Cairo Seasonal charter: Sharm El Sheikh [ 55 ] Air China Beijing–Capital , [ 56 ] Chongqing , Ürümqi [ 57 ] Air Samarkand Seasonal charter: Doha , [ 58 ] İzmir , [ 59 ] Sharm El Sheikh [ 60 ] AirAsia X Kuala Lumpur–International [ 61 ] AJet Ankara [ 62 ] [ 63 ] Asiana Airlines Seoul–Incheon [ 64 ] Asman Airlines Tamchy [ 65 ] [ 66 ] AZAL Baku [ 67 ] azimuth Krasnodar , [ 68 ] Mineralnye Vody [ 69 ] Batik Air Malaysia Kuala Lumpur–International , [ 70 ] [ 63 ] Langkawi [ 71 ] Belavia Minsk [ 72 ] Centrum Air Almaty , Antalya , [ 73 ] Aqtöbe , [ 74 ] Astana , [ 75 ] Baku , [ 76 ] Bangkok–Suvarnabhumi , [ 77 ] Bishkek , [ 78 ] Bukhara , [ 79 ] Delhi , [ 80 ] Dubai–International , [ 81 ] Fergana , [ 82 ] Frankfurt , [ 83 ] Grozny , [ 84 ] Guangzhou , [ 85 ] Hyderabad , [ 86 ] Istanbul , [ 87 ] Karachi , [ 88 ] Kazan , [ 80 ] Krasnodar , [ 89 ] Krasnoyarsk–International , [ 90 ] Lahore , [ 91 ] Malé , Mineralnye Vody , [ 92 ] Moscow–Sheremetyevo , [ 93 ] Nha Trang , [ 94 ] Novosibirsk , [ 95 ] Nukus , [ 96 ] Omsk , [ 90 ] Oral , [ 80 ] Osh , [ 97 ] Perm , [ 98 ] Phuket , [ 99 ] Qostanai , [ 100 ] Saint Petersburg , [ 101 ] Salalah , [ 102 ] Samara , [ 90 ] Seoul–Incheon , [ 85 ] Sochi , [ 90 ] Tbilisi , [ 103 ] Tel Aviv , [ 104 ] Ufa , [ 98 ] Ulan-Ude , [ 105 ] Urgench , [ 106 ] Vladivostok , [ 80 ] Yekaterinburg [ 98 ] Seasonal: Hambantota–Mattala [ 107 ] China Eastern Airlines Shanghai–Pudong , [ 108 ] Xi'an [ 109 ] China Southern Airlines Beijing–Daxing , [ 110 ] Guangzhou , [ 110 ] Ürümqi [ 111 ] Etihad Airways Abu Dhabi [ 112 ] Flyadeal Jeddah [ 113 ] FlyArystan Astana , Atyrau [ 114 ] flydubai Dubai–International [ 115 ] Flykhiva Batumi , [ 116 ] Podgorica , [ 117 ] Tbilisi [ 118 ] [ 119 ] Flynas Jeddah , [ 120 ] Riyadh [ 121 ] FlyOne Baku , [ 122 ] Chișinău , [ 122 ] Delhi (begins 6 November 2026), [ 123 ] Grozny , [ 124 ] Kazan , [ 122 ] Mineralnye Vody , [ 122 ] Moscow–Vnukovo , [ 122 ] Novosibirsk , [ 122 ] Riga , [ 122 ] Yekaterinburg , [ 122 ] Yerevan [ 125 ] IndiGo Mumbai [ 126 ] Jazeera Airways Seasonal: Kuwait City [ 127 ] Kam Air Kabul [ 128 ] Loong Air Chengdu–Tianfu [ 129 ] LOT Polish Airlines Warsaw–Chopin [ 130 ] Nordwind Airlines Kazan [ 131 ] Oman Air Muscat [ 97 ] Pobeda Moscow-Vnukovo [ 132 ] Qanot Sharq Almaty , [ 133 ] Beijing–Daxing , [ 134 ] Bishkek (begins 17 November 2026), [ 135 ] Guangzhou , [ 136 ] Hangzhou , [ 137 ] Istanbul , [ 138 ] London–Gatwick , [ 139 ] Milan–Malpensa , [ 140 ] Moscow–Domodedovo , [ 141 ] New York–JFK , [ 142 ] Nha Trang , [ 143 ] Sanya , [ 144 ] Seoul–Incheon , [ 134 ] Tel Aviv , [ 134 ] Trabzon [ 145 ] Seasonal: Prague [ 134 ] Seasonal charter: Denpasar , [ 146 ] Phuket [ 134 ] Qatar Airways Doha [ 147 ] Red Sea Airlines Seasonal charter: Sharm El Sheikh [ 148 ] Red Wings Airlines Makhachkala [ 149 ] Rossiya Airlines Saint Peterburg [ 150 ] Royal Jordanian Amman–Queen Alia [ 151 ] S7 Airlines Novosibirsk [ 152 ] Shirak Avia Yerevan [ 153 ] Silk Avia Andizhan , [ 154 ] Bukhara , [ 155 ] Fergana , [ 156 ] Namangan , [ 156 ] [ 157 ] Navoi , [ 156 ] [ 157 ] Qarshi , [ 156 ] [ 157 ] Qoʻqon , [ 158 ] Samarqand , [ 156 ] [ 157 ] Termez , [ 159 ] Urgench , [ 156 ] Zaamin [ 160 ] Somon Air Dushanbe [ 161 ] SunExpress İzmir [ 162 ] Turkish Airlines Istanbul [ 163 ] Ural Airlines Irkutsk , [ 164 ] Moscow-Zhukovsky , [ 165 ] Sochi , [ 166 ] Yekaterinburg [ 167 ] [ 168 ] UTAir Surgut , [ 169 ] Tyumen , [ 170 ] Ufa [ 171 ] UVT Aero Kazan , [ 172 ] Nizhnekamsk , [ 173 ] Perm [ 174 ] Uzbekistan Airways Almaty , [ 175 ] Andizhan , [ 176 ] Ankara , [ 177 ] Astana , [ 175 ] Atyrau , [ 178 ] Bangkok–Suvarnabhumi , [ 179 ] Beijing–Daxing , [ 180 ] Bishkek , [ 181 ] Bukhara , [ 182 ] Delhi , [ 183 ] Dubai–International , [ 184 ] Fergana , [ 185 ] Grozny , [ 186 ] Guangzhou , [ 187 ] Hangzhou , [ 188 ] Heydar , [ 182 ] Irkutsk , [ 189 ] Islamabad , [ 190 ] Istanbul , [ 191 ] Jeddah , [ 182 ] Kazan , [ 192 ] Khabarovsk , [ 193 ] Krasnodar , [ 194 ] Kuala Lumpur–International , [ 195 ] Lahore , [ 190 ] London–Gatwick , [ 196 ] London–Heathrow , [ 196 ] Madrid , [ 197 ] Makhachkala , [ 149 ] Milan–Malpensa , [ 198 ] [ 199 ] Mineralnye Vody [ 200 ] Minsk , [ 201 ] Moscow–Domodedovo , [ 202 ] Moscow–Vnukovo , [ 203 ] Mumbai , [ 204 ] [ 205 ] Munich , [ 206 ] [ 197 ] Nah Trang , [ 207 ] Namangan , [ 208 ] New York–JFK , [ 209 ] Nizhnevartovsk , [ 210 ] Nizhny Novgorod , [ 211 ] Paris , [ 199 ] Phuket , [ 205 ] Riga , [ 197 ] [ 212 ] Rome–Fiumicino , [ 213 ] Saint Petersburg , [ 182 ] Samarqand , [ 214 ] Sanya , [ 215 ] Seoul–Incheon , [ 182 ] Sochi , [ 216 ] Tbilisi , [ 217 ] Tel Aviv , [ 218 ] Termez , [ 219 ] Tokyo–Narita , [ 220 ] Ufa , [ 221 ] Urgench , [ 222 ] [ 223 ] [ 224 ] Ürümqi , [ 225 ] [ 226 ] Yekaterinburg , [ 227 ] Zaamin [ 228 ] Seasonal: Phu Quoc , [ 229 ] [ 230 ] Sharm El Sheikh [ 231 ] Seasonal charter: Mauritius (begins 26 December 2026) [ 232 ] [ 233 ] [ 234 ]",
+      "Airlines Destinations My Freighter Amsterdam , [ 235 ] Astana , [ 235 ] Batumi , [ citation needed ] Bishkek , [ 235 ] Budapest , [ citation needed ] Dhaka , [ 236 ] Dubai–International , [ 235 ] Dushanbe , [ 235 ] Hangzhou , [ 235 ] Istanbul , [ 235 ] Jeddah , [ 235 ] Madrid , [ 237 ] Nairobi , [ 238 ] Shanghai–Pudong , [ 235 ] Tbilisi , [ citation needed ] Turkmenabat , [ 239 ] Wenzhou , [ 240 ] Zhengzhou [ 241 ] YTO Cargo Airlines Hangzhou , [ 242 ] Yining [ 243 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "uz-shakhrisabz",
+      "uz-zaamin",
+      "uz-sariosiyo"
+    ],
+    "reviewNoteZh": "L-410 老公告与 2026 ATR72 新航线分开。"
+  },
+  {
+    "id": "ap-uz-15",
+    "country": "UZ",
+    "name": "Tashkent-Humo Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+    "listRow": "Tashkent UZTP TVT Tashkent-Humo Airport Private 41°18′37″N 069°23′33″E ﻿ / ﻿ 41.31028°N 69.39250°E ﻿ / 41.31028; 69.39250 ﻿ ( New Tashkent Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tj-01",
+    "country": "TJ",
+    "name": "Ayni Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ayni_Airport",
+    "listRow": "Ayni Sughd Ayni Airport 39°24′14″N 068°31′26″E ﻿ / ﻿ 39.40389°N 68.52389°E ﻿ / 39.40389; 68.52389 ﻿ ( Ayni Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tj-02",
+    "country": "TJ",
+    "name": "Dushanbe International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+    "listRow": "Dushanbe RRP UTDD DYU Dushanbe International Airport 38°32′36″N 068°49′30″E ﻿ / ﻿ 38.54333°N 68.82500°E ﻿ / 38.54333; 68.82500 ﻿ ( Dushanbe International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Air Astana Almaty [ 8 ] Azerbaijan Airlines Baku [ 9 ] Centrum Air Tashkent [ 10 ] China Southern Airlines Beijing–Daxing , [ citation needed ] Ürümqi , [ citation needed ] Xi'an [ 11 ] flydubai Dubai–International [ 12 ] FlyOne Yerevan [ 13 ] Jazeera Airways Kuwait City [ citation needed ] Kish Airlines Seasonal charter: Kish [ 14 ] Loong Air Xi'an [ 15 ] Nordwind Airlines Ufa , [ 16 ] Kazan , [ 17 ] Tyumen [ 18 ] Raimon Airways Mashhad [ 14 ] Red Wings Airlines Makhachkala [ 19 ] Somon Air Almaty , [ citation needed ] Astana , [ 20 ] Bishkek–Manas , [ 21 ] Delhi , [ 22 ] Doha , [ citation needed ] Dubai–International , [ 23 ] Islamabad , [ citation needed ] Istanbul , [ 24 ] Jeddah , [ citation needed ] Kazan , [ 25 ] Khujand , [ 26 ] Krasnoyarsk–International , [ 27 ] Makhachkala , [ 28 ] Mineralnye Vody , [ 29 ] Minsk , [ 30 ] Moscow–Domodedovo , [ 31 ] Moscow–Zhukovsky , [ 28 ] Munich , [ 32 ] Novosibirsk , [ 33 ] Samara , [ 28 ] Sochi , [ 34 ] Tashkent , [ citation needed ] Tbilisi , [ 35 ] Tehran–Imam Khomeini , [ 10 ] Trabzon , [ citation needed ] Ufa , [ 36 ] Ürümqi , [ 37 ] Yekaterinburg [ 38 ] Seasonal charter: Sharm El Sheikh , [ 39 ] Tajik Air Gharm , [ 40 ] Khorog , [ 41 ] Kulob , [ 41 ] Panjakent , [ 41 ] Rasht [ 42 ] Turkish Airlines Istanbul [ 43 ] Ural Airlines Krasnodar , [ 44 ] Ufa , [ 45 ] Moscow–Domodedovo , [ 46 ] Samara , [ 47 ] Yekaterinburg , [ 48 ] Kazan , [ 47 ] Krasnoyarsk–International , [ 47 ] St. Petersburg , [ 47 ] Moscow-Zhukovsky , [ 47 ] Mineralnye Vody , [ 49 ] Irkutsk , [ citation needed ] Sochi , [ 50 ] Chelyabinsk [ 51 ] S7 Airlines Novosibirsk [ 52 ] Uzbekistan Airways Tashkent [ citation needed ] Utair Moscow Vnukovo [ 53 ] Varesh Airlines Mashhad , [ 54 ] Tehran–Imam Khomeini [ 55 ]",
+      "Airlines Destinations My Freighter Tashkent [ 56 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tj-khorog",
+      "tj-kulob",
+      "tj-panjakent",
+      "tj-rasht",
+      "tj-khovaling",
+      "tj-vanj",
+      "tj-shohin-l410"
+    ],
+    "reviewNoteZh": "六个 An-28 目的地及 Shohin L-410NG 已单列；演示班表剔除。"
+  },
+  {
+    "id": "ap-tj-03",
+    "country": "TJ",
+    "name": "Garm Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+    "listRow": "Garm (Gharm) RRP Garm Airport 39°00′14″N 070°17′29″E ﻿ / ﻿ 39.00389°N 70.29139°E ﻿ / 39.00389; 70.29139 ﻿ ( Garm Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tj-rasht"
+    ],
+    "reviewNoteZh": "Gharm/Garm 与 Rasht 同一地区线索，避免双计。"
+  },
+  {
+    "id": "ap-tj-04",
+    "country": "TJ",
+    "name": "Isfara Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Isfara_Airport",
+    "listRow": "Isfara Sughd Isfara Airport 40°07′18″N 070°39′55″E ﻿ / ﻿ 40.12167°N 70.66528°E ﻿ / 40.12167; 70.66528 ﻿ ( Isfara Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tj-05",
+    "country": "TJ",
+    "name": "Khorog Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khorog_Airport",
+    "listRow": "Khorog (Khorugh) GBAO UTOD Khorog Airport 37°30′08″N 071°30′48″E ﻿ / ﻿ 37.50222°N 71.51333°E ﻿ / 37.50222; 71.51333 ﻿ ( Khorog Airport )",
+    "destinationTables": [
+      "Airlines Destinations Tajik Air Dushanbe [ 5 ] [ 6 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tj-khorog",
+      "tj-shohin-l410"
+    ],
+    "reviewNoteZh": "An-28 和新 L-410NG 分开，当前公众班表需线下确认。"
+  },
+  {
+    "id": "ap-tj-06",
+    "country": "TJ",
+    "name": "Khujand Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khujand_Airport",
+    "listRow": "Khujand Sughd UTDL LBD Khujand Airport 40°12′55″N 069°41′40″E ﻿ / ﻿ 40.21528°N 69.69444°E ﻿ / 40.21528; 69.69444 ﻿ ( Khudzhand Airport )",
+    "destinationTables": [
+      "Airlines Destinations Chengdu Airlines Kashgar [ 4 ] Nordwind Airlines Kazan , [ 5 ] Tyumen , [ 6 ] Ufa [ 7 ] S7 Airlines Novosibirsk Somon Air Dushanbe , Moscow–Domodedovo , Surgut , Ürümqi [ 8 ] Ural Airlines Chelyabinsk , Krasnoyarsk–Yemelyanovo , Mineralnye Vody , Moscow–Domodedovo , Moscow–Zhukovsky , [ 9 ] Saint Petersburg , Samara , Yekaterinburg Utair Moscow–Vnukovo , [ 10 ] Surgut , [ 11 ] Tyumen Yamal Airlines Tyumen"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tj-07",
+    "country": "TJ",
+    "name": "Kulob Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kulob_Airport",
+    "listRow": "Kulob (Kulyab) Khatlon UTDK TJU Kulob Airport 37°59′00″N 069°48′00″E ﻿ / ﻿ 37.98333°N 69.80000°E ﻿ / 37.98333; 69.80000 ﻿ ( Kulob Airport )",
+    "destinationTables": [
+      "Airlines Destinations Nordwind Airlines Kazan (since 2026-09-27) [ 4 ] Tajik Air Dushanbe [ 5 ] Ural Airlines Moscow–Domodedovo , [ 6 ] Moscow–Zhukovsky [ 7 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tj-kulob"
+    ],
+    "reviewNoteZh": "官网目的地；当前班次待确认。"
+  },
+  {
+    "id": "ap-tj-08",
+    "country": "TJ",
+    "name": "Murgab Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+    "listRow": "Murgab (Murghab) GBAO Murgab Airport 38°11′25″N 074°01′29″E ﻿ / ﻿ 38.19028°N 74.02472°E ﻿ / 38.19028; 74.02472 ﻿ ( Murgab Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tj-09",
+    "country": "TJ",
+    "name": "Penjikent Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+    "listRow": "Penjikent (Panjakent) Sughd Penjikent Airport 39°29′02″N 067°36′12″E ﻿ / ﻿ 39.48389°N 67.60333°E ﻿ / 39.48389; 67.60333 ﻿ ( Penjikent Airport )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tj-panjakent"
+    ],
+    "reviewNoteZh": "官网目的地；当前班次待确认。"
+  },
+  {
+    "id": "ap-tj-10",
+    "country": "TJ",
+    "name": "Bokhtar International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+    "listRow": "Bokhtar Khatlon UTDT KQT Bokhtar International Airport 37°51′44″N 068°51′46″E ﻿ / ﻿ 37.86222°N 68.86278°E ﻿ / 37.86222; 68.86278 ﻿ ( Qurghonteppa International Airport )",
+    "destinationTables": [
+      "Airlines Destinations Nordwind Airlines Moscow–Sheremetyevo"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-tm-01",
+    "country": "TM",
+    "name": "Ashgabat International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+    "listRow": "Ashgabat UTAA ASB Ashgabat International Airport 37°59′13″N 058°21′39″E ﻿ / ﻿ 37.98694°N 58.36083°E ﻿ / 37.98694; 58.36083 ﻿ ( Ashgabat Airport )",
+    "destinationTables": [
+      "Airlines Destinations China Southern Airlines Ürümqi , [ 28 ] Xi'an [ 29 ] flydubai Dubai–International [ 30 ] [ 31 ] S7 Airlines Moscow–Domodedovo [ 32 ] Turkish Airlines Istanbul [ 33 ] Turkmenistan Airlines Balkanabat , [ 34 ] Beijing–Capital , [ 35 ] Daşoguz , [ 36 ] Delhi , [ 37 ] Frankfurt , [ 38 ] Ho Chi Minh City , [ 39 ] Istanbul , [ 40 ] Mary , [ 41 ] Kazan , [ 42 ] Kuala Lumpur–International , [ 43 ] London–Gatwick , [ 44 ] Milan–Malpensa , [ 45 ] Seoul–Incheon , [ 46 ] Türkmenabat , [ 47 ] Türkmenbaşy [ 48 ] Seasonal: Medina [ 49 ]",
+      "Airlines Destinations Refs Air Belgium Brussels [ 50 ] Cargolux Italia Milan–Malpensa Cargolux Budapest , London–Stansted , Luxembourg , Taipei–Taoyuan [ 51 ] One Air East Midlands [ citation needed ] Turkmenistan Airlines Cargo Abu Dhabi , Daşoguz , Dubai–Al Maktoum , Frankfurt , Hanoi , Istanbul , Mary , Milan–Malpensa , Moscow–Sheremetyevo , Seoul–Incheon , Shenzhen , Türkmenbaşy , Ürümqi [ 52 ] [ 53 ] [ 54 ] [ 55 ] [ 56 ] [ 57 ] [ 58 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-02",
+    "country": "TM",
+    "name": "Balkanabat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+    "listRow": "Balkanabat UT1H BKN Balkanabat Airport 39°28′53″N 54°21′46″E ﻿ / ﻿ 39.48139°N 54.36278°E ﻿ / 39.48139; 54.36278 ﻿ ( Balkanabat Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-03",
+    "country": "TM",
+    "name": "Dashoguz International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Daşoguz_International_Airport",
+    "listRow": "Dashoguz UTAT TAZ Dashoguz International Airport 41°45′53″N 59°49′59″E ﻿ / ﻿ 41.76472°N 59.83306°E ﻿ / 41.76472; 59.83306 ﻿ ( Dashoguz Airport )",
+    "destinationTables": [
+      "Airlines Destinations Turkmenistan Airlines Aşgabat , [ 9 ] [ 10 ] Balkanabat , [ 11 ] Mary , [ 10 ] Türkmenabat [ 10 ]",
+      "Airlines Destinations Turkmenistan Airlines [ 12 ] [ 13 ] Ashgabat , Bangkok–Suvarnabhumi , [ 14 ] Mary , Türkmenbaşy (suspended) [ 11 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-04",
+    "country": "TM",
+    "name": "Kerki International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kerki_International_Airport",
+    "listRow": "Kerki UTAE [ 1 ] KEA [ 2 ] Kerki International Airport 37°49′20″N 065°08′17″E ﻿ / ﻿ 37.82222°N 65.13806°E ﻿ / 37.82222; 65.13806 ﻿ ( Kerkiçi Airport )",
+    "destinationTables": [
+      "Airlines Destinations Turkmenistan Airlines Ashgabat , Balkanabat [ 15 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-05",
+    "country": "TM",
+    "name": "Mary International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+    "listRow": "Mary UTAM MYP Mary International Airport 37°36′24″N 61°54′05″E ﻿ / ﻿ 37.60667°N 61.90139°E ﻿ / 37.60667; 61.90139 ﻿ ( Mary Airport )",
+    "destinationTables": [
+      "Airlines Destinations Turkmenistan Airlines [ 4 ] Ashgabat , Balkanabat , [ 5 ] Daşoguz [ 6 ]",
+      "Airlines Destinations Turkmenistan Airlines [ 7 ] [ 8 ] Ashgabat , Bangkok–Suvarnabhumi , [ 9 ] Daşoguz , Türkmenbaşy (suspended) [ 5 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-06",
+    "country": "TM",
+    "name": "Turkmenbashi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+    "listRow": "Turkmenbashy UTAK KRW Turkmenbashi International Airport 40°03′48″N 053°00′26″E ﻿ / ﻿ 40.06333°N 53.00722°E ﻿ / 40.06333; 53.00722 ﻿ ( Turkmenbashi Airport )",
+    "destinationTables": [
+      "Airlines Destinations Belavia Minsk [ 26 ] [ 27 ] Turkmenistan Airlines Aşgabat [ 28 ]",
+      "Airlines Destinations Turkmenistan Airlines [ 29 ] [ 30 ] Ashgabat , Daşoguz , Mary Fly Pro [ 31 ] Zaragoza"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-07",
+    "country": "TM",
+    "name": "Turkmenabat International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Turkmenabat_International_Airport",
+    "listRow": "Turkmenabat UTAV CRZ Turkmenabat International Airport 39°05′00″N 063°36′08″E ﻿ / ﻿ 39.08333°N 63.60222°E ﻿ / 39.08333; 63.60222 ﻿ ( Turkmenabat Airport )",
+    "destinationTables": [
+      "Airlines Destinations Turkmenistan Airlines Ashgabat , Balkanabat , Daşoguz [ 14 ] [ 15 ] [ 16 ]",
+      "Airlines Destinations MNG Airlines [ 17 ] Ankara , Chengdu , Istanbul , Hong Kong [ 18 ] Georgian Airlines Tbilisi My Freighter Tashkent [ 19 ] Geosky [ 20 ] Zaragosa , [ 21 ] [ 22 ] Zhengzhou , [ 22 ] Paris , [ 23 ] Tbilisi"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-tm-08",
+    "country": "TM",
+    "name": "Balkanabat International",
+    "wiki": "https://en.wikipedia.org/wiki/Jebel_Airport",
+    "listRow": "Jebel UTAN BKN Balkanabat International [ 3 ] 39°40′42″N 054°12′28″E ﻿ / ﻿ 39.67833°N 54.20778°E ﻿ / 39.67833; 54.20778 ﻿ ( Jebel Airport )",
+    "destinationTables": [
+      "Airlines Destinations Turkmenistan Airlines [ 30 ] Aşgabat , Daşoguz , Mary , Türkmenabat , Kerki [ 31 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "tm-domestic"
+    ],
+    "reviewNoteZh": "已用官方七机场国内网络反查；旧/新 Balkanabat 两条列表记录不能当两个当前机场。"
+  },
+  {
+    "id": "ap-by-01",
+    "country": "BY",
+    "name": "Brest Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Brest_Airport",
+    "listRow": "Brest Brest Region UMBB BQT Brest Airport 52°06′30″N 023°53′53″E ﻿ / ﻿ 52.10833°N 23.89806°E ﻿ / 52.10833; 23.89806 ﻿ ( Brest Airport )",
+    "destinationTables": [
+      "Airlines Destinations Belavia Moscow–Sheremetyevo , [ 28 ] Saint Petersburg [ 28 ] Seasonal charter: Antalya , [ 28 ] El Alamein , [ 29 ] Sharm El Sheikh [ 28 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-02",
+    "country": "BY",
+    "name": "Gomel Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Gomel_Airport",
+    "listRow": "Gomel (Homiel) Gomel Region UMGG GME Gomel Airport 52°31′37″N 031°01′00″E ﻿ / ﻿ 52.52694°N 31.01667°E ﻿ / 52.52694; 31.01667 ﻿ ( Gomel Airport )",
+    "destinationTables": [
+      "Airlines Destinations Belavia Moscow–Sheremetyevo , [ 3 ] Moscow–Vnukovo , [ 4 ] Saint Petersburg [ 5 ] Seasonal charter: Antalya , [ 3 ] Hurghada (begins 27 October 2026), [ 6 ] Sharm El Sheikh [ 7 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-03",
+    "country": "BY",
+    "name": "Grodno (Hrodna) Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Hrodna_Airport",
+    "listRow": "Grodno (Hrodna) Grodno Region UMMG GNA Grodno (Hrodna) Airport 53°36′07″N 024°03′13″E ﻿ / ﻿ 53.60194°N 24.05361°E ﻿ / 53.60194; 24.05361 ﻿ ( Hrodna Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-04",
+    "country": "BY",
+    "name": "Minsk National Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+    "listRow": "Minsk Minsk Region UMMS MSQ Minsk National Airport (Minsk-2) 53°52′56″N 028°01′50″E ﻿ / ﻿ 53.88222°N 28.03056°E ﻿ / 53.88222; 28.03056 ﻿ ( Minsk National Airport (Minsk-2) )",
+    "destinationTables": [
+      "Airlines Destinations Aeroflot Cheboksary , [ 24 ] Moscow–Sheremetyevo , [ 25 ] Nizhny Novgorod [ 26 ] Air China [ 27 ] Beijing–Capital , Xi'an [ 28 ] Azimuth Mineralnye Vody [ 29 ] Belavia [ 30 ] [ 31 ] Almaty , [ 32 ] Astana , Baku , Batumi , Bangkok–Suvarnabhumi , [ 33 ] Delhi , [ 34 ] Dubai–International , [ 35 ] Istanbul , [ 36 ] Kazan , Kaliningrad , Kutaisi , Moscow–Domodedovo , Moscow–Sheremetyevo , Moscow–Vnukovo , [ 37 ] Moscow-Zhukovsky , [ 38 ] Saint Petersburg , Sochi , Tashkent , Tel Aviv , [ 39 ] Tbilisi , Türkmenbaşy , [ 40 ] Ufa , [ 41 ] Ürümqi , [ 42 ] Yekaterinburg , Yerevan Seasonal: Makhachkala , [ 43 ] Murmansk [ 44 ] Seasonal charter: Antalya , [ 45 ] Bodrum , [ 45 ] Da Nang , [ 46 ] Enfidha , [ 47 ] Hambantota–Mattala , [ 48 ] El Alamein , [ 49 ] Hurghada , [ 50 ] İzmir , [ 45 ] Nha Trang , [ 51 ] Phu Quoc , [ 52 ] Sanya , [ 53 ] Sharm El Sheikh , [ 50 ] Pattaya , [ 45 ] Phuket [ 54 ] Flydubai [ 55 ] Dubai–International [ 56 ] Pobeda Moscow–Vnukovo , [ 57 ] Saint Petersburg [ 57 ] Red Wings Airlines Arkhangelsk–Talagi , Chelyabinsk , [ 58 ] Moscow-Zhukovsky , [ 59 ] Perm , [ 60 ] Samara , [ 61 ] Ufa , Ulyanovsk–Baratayevka [ 62 ] SCAT Airlines Almaty [ 63 ] Severstal Avia Cherepovets Seasonal: Petrozavodsk [ 64 ] Somon Air Dushanbe [ 65 ] Turkish Airlines Istanbul [ 66 ] Uzbekistan Airways Tashkent [ 67 ] VietJet Air Seasonal charter: Da Nang [ 68 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-05",
+    "country": "BY",
+    "name": "Mogilev Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+    "listRow": "Mogilev (Mahilyow) Mogilev Region UMOO MVQ Mogilev Airport 53°57′17″N 030°05′42″E ﻿ / ﻿ 53.95472°N 30.09500°E ﻿ / 53.95472; 30.09500 ﻿ ( Mogilev Airport )",
+    "destinationTables": [
+      "Airlines Destinations Belavia Moscow–Vnukovo [ 12 ] Seasonal charter: Antalya , [ 13 ] Sharm El Sheikh [ 14 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "by-mogilev-an2"
+    ],
+    "reviewNoteZh": "城市通航俱乐部已补查；不默认俱乐部起降场等于商业机场。"
+  },
+  {
+    "id": "ap-by-06",
+    "country": "BY",
+    "name": "Polotsk Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+    "listRow": "Polotsk (Polatsk) Vitebsk Region Polotsk Airport 55°24′42″N 028°44′54″E ﻿ / ﻿ 55.41167°N 28.74833°E ﻿ / 55.41167; 28.74833 ﻿ ( Polotsk Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-07",
+    "country": "BY",
+    "name": "Vitebsk Vostochny Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+    "listRow": "Vitebsk Vitebsk Region UMII VTB Vitebsk Vostochny Airport 55°07′35″N 030°20′58″E ﻿ / ﻿ 55.12639°N 30.34944°E ﻿ / 55.12639; 30.34944 ﻿ ( Vitebsk Vostochny Airport )",
+    "destinationTables": [
+      "Airlines Destinations Belavia Seasonal charter: Antalya , [ 1 ] Sharm El Sheikh [ 1 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-by-08",
+    "country": "BY",
+    "name": "Minsk-1 Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+    "listRow": "Minsk Minsk Region UMMM MHP Minsk-1 Airport 53°51′52″N 027°32′22″E ﻿ / ﻿ 53.86444°N 27.53944°E ﻿ / 53.86444; 27.53944 ﻿ ( Minsk-1 Airport )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-01",
+    "country": "MN",
+    "name": "Altai Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Altai_Airport",
+    "listRow": "Altai Airport Altai Domestic Govi-Altai ZMAT LTI 10/28: 2290m x 60m, grass 46°22′33″N 096°13′09″E ﻿ / ﻿ 46.37583°N 96.21917°E ﻿ / 46.37583; 96.21917 ﻿ ( ZMAT )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 4 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-02",
+    "country": "MN",
+    "name": "Arvaikheer Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Arvaikheer_Airport",
+    "listRow": "Arvaikheer Airport Arvaikheer Domestic Övörhkangai ZMAH AVK 14/32: 2300m x 50m, grass 46°15′09″N 102°47′57″E ﻿ / ﻿ 46.25250°N 102.79917°E ﻿ / 46.25250; 102.79917 ﻿ ( ZMAH )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-03",
+    "country": "MN",
+    "name": "Baruun-Urt Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Baruun-Urt_Airport",
+    "listRow": "Baruun-Urt Airport Baruun-Urt Domestic Sükhbaatar ZMBU UUN 18/36: 2200m x 50m, grass 46°39′37″N 113°17′07″E ﻿ / ﻿ 46.66028°N 113.28528°E ﻿ / 46.66028; 113.28528 ﻿ ( ZMBU )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-04",
+    "country": "MN",
+    "name": "Baruunturuun Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+    "listRow": "Baruunturuun Airport Baruunturuun Domestic Uvs 01/19: 2200m x 50m, grass 49°40′20.64″N 94°22′21″E ﻿ / ﻿ 49.6724000°N 94.37250°E ﻿ / 49.6724000; 94.37250 ﻿ ( Baruunturuun )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-05",
+    "country": "MN",
+    "name": "Bayankhongor Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bayankhongor_Airport",
+    "listRow": "Bayankhongor Airport Bayankhongor Domestic Bayankhongor ZMBH BYN 16L/34R: 2800m x 35m, asphalt/concrete 16R/34L: 2100m x 50m, grass 46°10′14″N 100°42′00″E ﻿ / ﻿ 46.17056°N 100.70000°E ﻿ / 46.17056; 100.70000 ﻿ ( ZMBH )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-06",
+    "country": "MN",
+    "name": "Bulgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bulgan_Airport",
+    "listRow": "Bulgan Airport Bulgan Domestic Bulgan ZMBN UGA 13/31: 1900m x 50m, grass 48°51′15″N 103°29′03″E ﻿ / ﻿ 48.85417°N 103.48417°E ﻿ / 48.85417; 103.48417 ﻿ ( ZMBN )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-07",
+    "country": "MN",
+    "name": "Bulgan Airport, Khovd",
+    "wiki": "https://en.wikipedia.org/wiki/Bulgan_Airport,_Khovd",
+    "listRow": "Bulgan Airport, Khovd Bulgan, Khovd Domestic Khovd ZMBS HBU 17/35: 1800m x 40m, grass 46°06′06″N 091°34′55″E ﻿ / ﻿ 46.10167°N 91.58194°E ﻿ / 46.10167; 91.58194 ﻿ ( ZMBS )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-08",
+    "country": "MN",
+    "name": "Buyant-Ukhaa International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+    "listRow": "Buyant-Ukhaa International Airport (formerly Chingis Khaan International Airport) Ulaanbaatar International (capital) ZMUB ULN 14/32: 3100m x 60m, asphalt 15/33: 2000m x 40m, grass 47°50′35″N 106°45′59″E ﻿ / ﻿ 47.84306°N 106.76639°E ﻿ / 47.84306; 106.76639 ﻿ ( ZMUB )",
+    "destinationTables": [
+      "Airlines Destinations Aero Mongolia Altai , Dalanzadgad , Irkutsk , Khovd , Mörön , Ölgii , Ovoot , Oyu Tolgoi , Tavan Tolgoi , Tianjin , Ulaangom Aeroflot Moscow–Sheremetyevo Air Busan Busan Air China Beijing–Capital , Hohhot [ 10 ] Asiana Airlines Seoul–Incheon [ 11 ] Eznis Airways Hong Kong [ 12 ] Hunnu Air Bayankhongor , Choibalsan , Dalanzadgad , Khovd , Mörön , Ölgii , Ulaangom , Ulan-Ude [ 13 ] IrAero Seasonal: Ulan-Ude [ 14 ] Korean Air Seoul–Incheon MIAT Mongolian Airlines [ 15 ] Beijing–Capital , Berlin , Hong Kong , Seoul–Incheon , Tokyo–Narita Seasonal: Bangkok–Suvarnabhumi [ citation needed ] SCAT Airlines Astana Tianjin Airlines Tianjin [ 16 ] Turkish Airlines Istanbul [ 17 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "mn-mining-charters"
+    ],
+    "reviewNoteZh": "旧 ULN 的国际航线表可能过时；勿把当前 UBN 国际航班放到此处。"
+  },
+  {
+    "id": "ap-mn-09",
+    "country": "MN",
+    "name": "Chinggis Khaan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+    "listRow": "Chinggis Khaan International Airport Ulaanbaatar International Töv ZMCK UBN 3600 m x 45 m, concrete 47°39′00″N 106°49′08″E ﻿ / ﻿ 47.65000°N 106.81889°E ﻿ / 47.65000; 106.81889 ﻿ ( ZMCK )",
+    "destinationTables": [
+      "Airlines Destinations Aero K Cheongju [ 40 ] [ 41 ] Aero Mongolia [ 42 ] Hohhot , [ 43 ] Seoul–Incheon , [ 44 ] Tokyo–Narita [ 45 ] Air Busan [ 42 ] Busan Air China Beijing–Capital , [ 46 ] Hohhot [ 47 ] Asiana Airlines [ 42 ] Seoul–Incheon [ 48 ] China United Airlines Ordos Hunnu Air [ 42 ] Almaty , [ 49 ] Beijing–Daxing , [ 50 ] Delhi , [ 51 ] Erenhot , Manzhouli , [ 52 ] Ölgii , [ 53 ] Shenzhen [ 54 ] Seasonal charter: Manila , [ 55 ] Yangyang [ 56 ] IrAero Irkutsk [ 57 ] Jeju Air Busan , [ 58 ] Seoul–Incheon [ 59 ] Jin Air Busan [ 60 ] Juneyao Air Sanya (resumes 3 November 2026) [ 61 ] [ 62 ] Korean Air [ 42 ] Seoul–Incheon KrasAvia [ 42 ] Krasnoyarsk–International [ 63 ] Seasonal: Kyzyl [ 64 ] MIAT Mongolian Airlines [ 42 ] Altai , [ 65 ] Beijing–Capital , Busan , Dalanzadgad , [ 65 ] Frankfurt , [ 66 ] Guangzhou , Hohhot , [ 67 ] Hong Kong , Istanbul , [ 68 ] Khovd , [ 65 ] Mörön , [ 69 ] Ölgii , [ 65 ] Seoul–Incheon , Shanghai–Pudong , [ 70 ] Tokyo–Narita , Ulaangom , [ 69 ] Uliastai [ 65 ] Seasonal: Bangkok–Suvarnabhumi , [ 71 ] Ho Chi Minh City , [ 72 ] Osaka–Kansai , [ 73 ] Singapore , [ 74 ] Phuket [ 75 ] S7 Airlines Irkutsk (begins 15 December 2026) [ 76 ] Spring Airlines Shanghai–Pudong [ 77 ] Trinity Airways Cheongju [ 78 ] Seasonal: Daegu , [ 79 ] Seoul–Incheon [ 80 ] Turkish Airlines [ 42 ] Istanbul [ 81 ] United Airlines Seasonal: Tokyo–Narita [ 82 ] VietJet Air Nha Trang [ 83 ] Seasonal charter: Phu Quoc [ 84 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "int-34"
+    ],
+    "reviewNoteZh": "当前 UBN：原始官方快照确认伊尔库茨克入境 SSJ。"
+  },
+  {
+    "id": "ap-mn-10",
+    "country": "MN",
+    "name": "Choibalsan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+    "listRow": "Choibalsan Airport Choibalsan Domestic Dornod ZMCD COQ 12/30: 2600m x 40m, concrete 48°08′08″N 114°38′46″E ﻿ / ﻿ 48.13556°N 114.64611°E ﻿ / 48.13556; 114.64611 ﻿ ( ZMCD )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-11",
+    "country": "MN",
+    "name": "Dadal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dadal_Airport",
+    "listRow": "Dadal Airport Dadal Domestic Khentii ZMDA 14/32: 1600m x 40m, unpaved 49°00′54″N 111°30′28″E ﻿ / ﻿ 49.01500°N 111.50778°E ﻿ / 49.01500; 111.50778 ﻿ ( ZMDA )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-12",
+    "country": "MN",
+    "name": "Dalanzadgad Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+    "listRow": "Dalanzadgad Airport Dalanzadgad Domestic Ömnögovi ZMDZ DLZ 03/21: 2300m x 50m, concrete 43°36′31″N 104°22′01″E ﻿ / ﻿ 43.60861°N 104.36694°E ﻿ / 43.60861; 104.36694 ﻿ ( ZMDZ )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 5 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-13",
+    "country": "MN",
+    "name": "Donoi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Donoi_Airport",
+    "listRow": "Donoi Airport Uliastai Domestic Zavkhan ZMDN ULZ 03/21: 2300m x 50m, concrete 47°42′46″N 96°31′27″E ﻿ / ﻿ 47.71278°N 96.52417°E ﻿ / 47.71278; 96.52417 ﻿ ( ZMDN )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-14",
+    "country": "MN",
+    "name": "Khanbumbat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+    "listRow": "Khanbumbat Airport Oyuu Tolgoi Domestic Ömnögovi ZMKB n.a. 15/33: 3250m x 45m, concrete 43°08′05″N 106°50′47″E ﻿ / ﻿ 43.13472°N 106.84639°E ﻿ / 43.13472; 106.84639 ﻿ ( ZMKB )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "mn-mining-charters"
+    ],
+    "reviewNoteZh": "矿区通勤/包机已纳入，未据机场用途推定苏制机型。"
+  },
+  {
+    "id": "ap-mn-15",
+    "country": "MN",
+    "name": "Kharkhorin Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kharkhorin_Airport",
+    "listRow": "Kharkhorin Airport Kharkhorin Domestic Övörkhangai ZMHH KHR 01/19: 1800x x 50m, grass 47°14′48″N 102°49′34″E ﻿ / ﻿ 47.24667°N 102.82611°E ﻿ / 47.24667; 102.82611 ﻿ ( ZMHH )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-16",
+    "country": "MN",
+    "name": "Khatgal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+    "listRow": "Khatgal Airport Khatgal Domestic Khövsgöl ZMHG HTM 15/33: 2400m x 30m, unpaved 50°26′33.72″N 100°07′56.28″E ﻿ / ﻿ 50.4427000°N 100.1323000°E ﻿ / 50.4427000; 100.1323000 ﻿ ( ZMHG )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-17",
+    "country": "MN",
+    "name": "Khovd Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khovd_Airport",
+    "listRow": "Khovd Airport Khovd Domestic Khovd ZMKD HVD 16L/34R: 2850m x 49m, asphalt/concrete 16R/34L: 2000m x 50m, grass 47°57′41″N 91°37′33″E ﻿ / ﻿ 47.96139°N 91.62583°E ﻿ / 47.96139; 91.62583 ﻿ ( ZMKD )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-18",
+    "country": "MN",
+    "name": "Khujirt Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+    "listRow": "Khujirt Airport Khujirt Domestic Övörkhangai ZMHU HJT 09/27: 2200m x 60m, grass 46°55′31″N 102°46′29″E ﻿ / ﻿ 46.92528°N 102.77472°E ﻿ / 46.92528; 102.77472 ﻿ ( ZMHU )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-19",
+    "country": "MN",
+    "name": "Mörön Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mörön_Airport",
+    "listRow": "Mörön Airport Mörön International [ 1 ] Khövsgöl ZMMN MXV 10L/28R: 2440m x 42m, asphalt/concrete 10R/28L: 2000m x 40m, gravel 49°39′47″N 100°05′57″E ﻿ / ﻿ 49.66306°N 100.09917°E ﻿ / 49.66306; 100.09917 ﻿ ( ZMMN )",
+    "destinationTables": [
+      "Airlines Destinations Hunnu Air Cheongju , [ 3 ] Ulaanbaatar MIAT Mongolian Airlines Ulaanbaatar [ 4 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-20",
+    "country": "MN",
+    "name": "Ölgii Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+    "listRow": "Ölgii Airport Ölgii International [ 2 ] [ 3 ] Bayan-Ölgii ZMUL ULG 13/31: 2850m x 30m, concrete 48°59′40″N 89°55′11″E ﻿ / ﻿ 48.99444°N 89.91972°E ﻿ / 48.99444; 89.91972 ﻿ ( ZMUL )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 5 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-21",
+    "country": "MN",
+    "name": "Öndörkhaan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Öndörkhaan_Airport?action=edit&redlink=1",
+    "listRow": "Öndörkhaan Airport Öndörkhaan Domestic Khentii ZMUH UNR 06/24: 1800m x 50m, grass 47°18′15″N 110°36′27″E ﻿ / ﻿ 47.30417°N 110.60750°E ﻿ / 47.30417; 110.60750 ﻿ ( ZMUH )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-22",
+    "country": "MN",
+    "name": "Ovoot Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+    "listRow": "Ovoot Airport Ovoot Tolgoi / Nariin Sukhait Domestic Ömnögovi ZMGT n.a. 2220m x 30m, concrete 43°0′41.76″N 101°20′1.68″E ﻿ / ﻿ 43.0116000°N 101.3338000°E ﻿ / 43.0116000; 101.3338000 ﻿ ( ZMGT )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "mn-mining-charters"
+    ],
+    "reviewNoteZh": "矿区通勤/包机已纳入，未据机场用途推定苏制机型。"
+  },
+  {
+    "id": "ap-mn-23",
+    "country": "MN",
+    "name": "Tavan Tolgoi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+    "listRow": "Tavan Tolgoi Airport Tavan Tolgoi Domestic Ömnögovi ZMTT n.a. 2350m x 30m, grass 43°46′25″N 105°34′44″E ﻿ / ﻿ 43.77361°N 105.57889°E ﻿ / 43.77361; 105.57889 ﻿ ( ZMTT )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "targeted-followup",
+    "findingIds": [
+      "mn-mining-charters"
+    ],
+    "reviewNoteZh": "矿区通勤/包机已纳入，未据机场用途推定苏制机型。"
+  },
+  {
+    "id": "ap-mn-24",
+    "country": "MN",
+    "name": "Tosontsengel Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tosontsengel_Airport?action=edit&redlink=1",
+    "listRow": "Tosontsengel Airport Tosontsengel Domestic Zavkhaan ZMTL n.a. 10/28: 2400m x 50m, grass 48°44′21″N 98°17′24″E ﻿ / ﻿ 48.73917°N 98.29000°E ﻿ / 48.73917; 98.29000 ﻿ ( ZMTL )",
+    "destinationTables": [],
+    "fetchStatus": 404,
+    "status": "fetch-failed",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-25",
+    "country": "MN",
+    "name": "Tsetserleg Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tsetserleg_Airport",
+    "listRow": "Tsetserleg Airport Tsetserleg Domestic Arkhangai ZMTG TSZ 14/32: 1650m x 35m, grass 47°27′50″N 101°28′54″E ﻿ / ﻿ 47.46389°N 101.48167°E ﻿ / 47.46389; 101.48167 ﻿ ( ZMTG )",
+    "destinationTables": [],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "ap-mn-26",
+    "country": "MN",
+    "name": "Ulaangom Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+    "listRow": "Ulaangom Airport Ulaangom Domestic Uvs ZMUG ULO 15/19: 2697m x 30m, concrete 50°04′02″N 91°56′16″E ﻿ / ﻿ 50.06722°N 91.93778°E ﻿ / 50.06722; 91.93778 ﻿ ( ZMUG )",
+    "destinationTables": [
+      "Airlines Destinations MIAT Mongolian Airlines Ulaanbaatar [ 2 ]"
+    ],
+    "fetchStatus": 200,
+    "status": "secondary-screened",
+    "reviewLevel": "secondary-airport-screen",
+    "findingIds": [],
+    "reviewNoteZh": "已读取机场条目及可用航线表；未发现新的可确证毛机线索。此状态不等于已向机场确认没有航班。"
+  },
+  {
+    "id": "supp-ge-01",
+    "country": "GE",
+    "name": "Omalo / Tusheti helicopter landing area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "ge-municipal-omalo"
+    ],
+    "reviewNoteZh": "冬季居民公共直升机，当前时刻/机型/资格未核实。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-ge-02",
+    "country": "GE",
+    "name": "Shatili helicopter landing area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "ge-municipal-shatili"
+    ],
+    "reviewNoteZh": "村镇公共交通线索；不可用商业 AS350 航线替代证明。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-kz-03",
+    "country": "KZ",
+    "name": "Urzhar / Ürjar Airport (UZR)",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "kz-semei-urzhar"
+    ],
+    "reviewNoteZh": "原机场列表缺项；2026 政府确认 An-24。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-kg-04",
+    "country": "KG",
+    "name": "Karkyra helicopter base",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "kg-heliski",
+      "kg-engilchek"
+    ],
+    "reviewNoteZh": "公开旅游售卖，基地不必有 IATA。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-kg-05",
+    "country": "KG",
+    "name": "South Engilchek base-camp helipad",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "kg-engilchek"
+    ],
+    "reviewNoteZh": "三日旅游包内的直升机往返，机型需确认。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-kg-06",
+    "country": "KG",
+    "name": "Mayda-Adyr helicopter staging area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [],
+    "reviewNoteZh": "登山接驳补充检查点；本次未取得当前承运人/日期/机型证明，不计确认航线。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-uz-07",
+    "country": "UZ",
+    "name": "Shakhrisabz airport",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "uz-shakhrisabz"
+    ],
+    "reviewNoteZh": "原机场列表缺项；2025 官方 L-410 公告。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-uz-08",
+    "country": "UZ",
+    "name": "Sariosiyo airport",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "uz-sariosiyo"
+    ],
+    "reviewNoteZh": "原机场列表缺项；2026 官方公告为 ATR72。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-tj-09",
+    "country": "TJ",
+    "name": "Khovaling landing area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "tj-khovaling"
+    ],
+    "reviewNoteZh": "官网目的地；不使用演示 KHV 作为 IATA。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-tj-10",
+    "country": "TJ",
+    "name": "Vanj landing area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "tj-vanj"
+    ],
+    "reviewNoteZh": "官网目的地；不使用演示 VNJ 作为 IATA。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-tj-11",
+    "country": "TJ",
+    "name": "Lakhsh / Jirgatol landing area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "tj-lakhsh"
+    ],
+    "reviewNoteZh": "计划线索，未确认开航。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-tm-12",
+    "country": "TM",
+    "name": "Hazar / Cheleken offshore aviation area",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "tm-hazar"
+    ],
+    "reviewNoteZh": "工业通勤线索；无公开毛机售票证据。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-by-13",
+    "country": "BY",
+    "name": "Lipki aerodrome",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "by-minsk-mi2"
+    ],
+    "reviewNoteZh": "Mi-2 产品页明确基地。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-by-14",
+    "country": "BY",
+    "name": "Minsk Aeroclub An-2 departure field (to confirm)",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "by-minsk-an2"
+    ],
+    "reviewNoteZh": "产品可确认，不能把全部机型擅自都定位到 Lipki。",
+    "status": "followup-record-not-independent-airport-count"
+  },
+  {
+    "id": "supp-by-15",
+    "country": "BY",
+    "name": "Mogilev Aeroclub departure field (to confirm)",
+    "wiki": null,
+    "reviewLevel": "supplemental-site-or-area",
+    "findingIds": [
+      "by-mogilev-an2"
+    ],
+    "reviewNoteZh": "观光地点与商业机场不强行等同。",
+    "status": "followup-record-not-independent-airport-count"
+  }
+]

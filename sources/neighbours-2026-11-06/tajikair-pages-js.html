@@ -1,0 +1,1032 @@
+/*
+ * Рендеринг внутренних страниц сайта.
+ * Тексты, которые меняются со временем, находятся в js/content.js.
+ */
+(() => {
+  'use strict';
+
+  const C = window.TAJIK_AIR_CONTENT || {};
+  const bookingEnabled = C.bookingMode !== 'hidden';
+
+  function getLang() {
+    try {
+      const saved = localStorage.getItem('tajikAirLang');
+      return ['ru', 'tj', 'en'].includes(saved) ? saved : 'ru';
+    } catch { return 'ru'; }
+  }
+  function idx(lang) { return lang === 'ru' ? 0 : lang === 'tj' ? 1 : 2; }
+  function esc(v) {
+    return String(v).replace(/[&<>'"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[c]));
+  }
+
+  /* ── Реестр страниц ─────────────────────────────────────────────────── */
+  const pages = {
+    booking: {
+      title: ['Бронирование билетов', 'Фармоиши чипта', 'Booking'],
+      lead: ['Бронирование билетов доступно только по телефону службы бронирования.',
+             'Фармоиши чиптаҳо танҳо тавассути телефони хадамоти фармоиш дастрас аст.',
+             'Tickets can only be booked by calling our reservations team.'],
+      kind: 'booking'
+    },
+    destinations: {
+      title: ['Направления', 'Самтҳо', 'Destinations'],
+      lead: ['Шесть городов Таджикистана, куда можно долететь из Душанбе.',
+             'Шаш шаҳри Тоҷикистон, ки аз Душанбе парвоз кардан мумкин аст.',
+             'Six cities in Tajikistan you can reach from Dushanbe.'],
+      kind: 'destinations'
+    },
+    baggage: {
+      title: ['Багаж', 'Бағоҷ', 'Baggage'],
+      lead: ['Что можно взять с собой и как подготовить багаж к перелёту.',
+             'Чӣ гирифтан мумкин аст ва бағоҷро чӣ гуна омода кардан лозим.',
+             'What you may bring and how to prepare your baggage.'],
+      kind: 'passenger'
+    },
+    'carriage-rules': {
+      title: ['Правила перевозки', 'Қоидаҳои ҳамлу нақл', 'Conditions of carriage'],
+      lead: ['Документы, регистрация, посадка и права пассажира.',
+             'Ҳуҷҷатҳо, бақайдгирӣ, савор шудан ва ҳуқуқи мусофир.',
+             'Documents, check-in, boarding and passenger rights.'],
+      kind: 'passenger'
+    },
+    children: {
+      title: ['Полёт с детьми', 'Парвоз бо кӯдакон', 'Travelling with children'],
+      lead: ['Документы, места для младенцев и перелёт ребёнка без сопровождения.',
+             'Ҳуҷҷатҳо, ҷой барои тифлон ва парвози кӯдак бе ҳамроҳӣ.',
+             'Documents, infant seating and unaccompanied minors.'],
+      kind: 'passenger'
+    },
+    'special-assistance': {
+      title: ['Специальная помощь', 'Кумаки махсус', 'Special assistance'],
+      lead: ['Сопровождение в аэропорту, кресло-коляска и медицинские условия.',
+             'Ҳамроҳӣ дар фурудгоҳ, аробачаи маъюбӣ ва шароити тиббӣ.',
+             'Airport assistance, wheelchairs and medical requirements.'],
+      kind: 'passenger'
+    },
+    pets: {
+      title: ['Перевозка животных', 'Интиқоли ҳайвонот', 'Travelling with pets'],
+      lead: ['Как согласовать перевозку питомца и что подготовить заранее.',
+             'Интиқоли ҳайвонотро чӣ гуна мувофиқа кардан ва чӣ омода кардан лозим.',
+             'How to arrange pet travel and what to prepare in advance.'],
+      kind: 'passenger'
+    },
+    refunds: {
+      title: ['Возврат и обмен', 'Бозгашт ва иваз', 'Refunds and changes'],
+      lead: ['Как изменить дату, вернуть билет и что для этого понадобится.',
+             'Санаро чӣ гуна иваз кардан, чиптаро баргардонидан ва чӣ лозим аст.',
+             'How to change a date, refund a ticket and what you will need.'],
+      kind: 'passenger'
+    },
+    'service-classes': {
+      title: ['Классы обслуживания', 'Дараҷаҳои хизматрасонӣ', 'Cabin classes'],
+      lead: ['Чем отличаются тарифы и что входит в стоимость билета.',
+             'Фарқи тарифҳо ва он чи ба арзиши чипта дохил мешавад.',
+             'How fares differ and what your ticket includes.'],
+      kind: 'passenger'
+    },
+    'onboard-services': {
+      title: ['На борту', 'Дар ҳавопаймо', 'On board'],
+      lead: ['Что ожидать во время полёта на внутренних маршрутах.',
+             'Ҳангоми парвоз дар хатсайрҳои дохилӣ чӣ интизор аст.',
+             'What to expect during a domestic flight.'],
+      kind: 'passenger'
+    },
+    services: {
+      title: ['Услуги', 'Хизматрасониҳо', 'Services'],
+      lead: ['Всё, что нужно знать до вылета — в одном разделе.',
+             'Ҳама чизи зарурӣ то парвоз — дар як бахш.',
+             'Everything you need before departure, in one place.'],
+      kind: 'services'
+    },
+    passengers: {
+      title: ['Пассажирам', 'Ба мусофирон', 'For passengers'],
+      lead: ['Подготовьтесь к поездке за несколько минут.',
+             'Дар чанд дақиқа ба сафар омода шавед.',
+             'Get ready for your journey in a few minutes.'],
+      kind: 'passengers'
+    },
+    news: {
+      title: ['Новости', 'Хабарҳо', 'News'],
+      lead: ['Официальные сообщения авиакомпании.',
+             'Хабарҳои расмии ширкат.',
+             'Official announcements from the airline.'],
+      kind: 'news'
+    },
+    about: {
+      title: ['О компании', 'Дар бораи ширкат', 'About us'],
+      lead: ['Национальный авиаперевозчик Таджикистана с 1924 года.',
+             'Интиқолдиҳандаи миллии ҳавоии Тоҷикистон аз соли 1924.',
+             'The national air carrier of Tajikistan since 1924.'],
+      kind: 'about'
+    },
+    history: {
+      title: ['История', 'Таърих', 'History'],
+      lead: ['Столетие гражданской авиации Таджикистана.',
+             'Садсолаи авиатсияи граждании Тоҷикистон.',
+             'A century of Tajik civil aviation.'],
+      kind: 'history'
+    },
+    fleet: {
+      title: ['Флот', 'Парки ҳавопаймоҳо', 'Fleet'],
+      lead: ['Воздушные суда авиакомпании и планы по обновлению парка.',
+             'Ҳавопаймоҳои ширкат ва нақшаҳои навсозии парк.',
+             'The airline’s aircraft and its fleet renewal plans.'],
+      kind: 'fleet'
+    },
+    job: {
+      title: ['Вакансии', 'Ҷойҳои корӣ', 'Careers'],
+      lead: ['Работа в национальном авиаперевозчике Таджикистана.',
+             'Кор дар интиқолдиҳандаи миллии ҳавоии Тоҷикистон.',
+             'Working for the national air carrier of Tajikistan.'],
+      kind: 'jobs'
+    },
+    contacts: {
+      title: ['Контакты', 'Тамос', 'Contacts'],
+      lead: ['Телефоны, электронная почта и адрес офиса в Душанбе.',
+             'Телефонҳо, почтаи электронӣ ва суроғаи идора дар Душанбе.',
+             'Phone numbers, email and our Dushanbe office address.'],
+      kind: 'contact'
+    },
+    faq: {
+      title: ['Частые вопросы', 'Саволҳои маъмул', 'Common questions'],
+      lead: ['Короткие ответы на то, о чём спрашивают чаще всего.',
+             'Ҷавобҳои кӯтоҳ ба саволҳои маъмултарин.',
+             'Short answers to the questions we hear most.'],
+      kind: 'faq'
+    },
+    privacy: {
+      title: ['Конфиденциальность', 'Махфият', 'Privacy'],
+      lead: ['Какие данные собирает сайт и как они используются.',
+             'Сомона кадом маълумотро ҷамъ мекунад ва онҳо чӣ гуна истифода мешаванд.',
+             'What this website collects and how it is used.'],
+      kind: 'legal'
+    },
+    terms: {
+      title: ['Условия использования', 'Шартҳои истифода', 'Terms of use'],
+      lead: ['Правила пользования сайтом авиакомпании.',
+             'Қоидаҳои истифодаи сомонаи ширкат.',
+             'Rules for using the airline’s website.'],
+      kind: 'legal'
+    }
+  };
+
+  if (!bookingEnabled) {
+    pages.booking.title = ['Информация для пассажиров', 'Маълумот барои мусофирон', 'Passenger information'];
+    pages.booking.lead = ['Выберите раздел, чтобы узнать о направлениях, подготовке к поездке и контактах авиакомпании.',
+      'Барои шиносоӣ бо самтҳо, омодагӣ ба сафар ва тамосҳои ширкат бахшро интихоб кунед.',
+      'Explore our destinations, prepare for your journey and find airline contact details.'];
+  }
+
+  const files = {
+    booking: 'booking.html', destinations: 'destinations.html',
+    baggage: 'baggage.html', 'carriage-rules': 'carriage-rules.html', children: 'children.html',
+    'special-assistance': 'special-assistance.html', pets: 'pets.html', refunds: 'refunds.html',
+    'service-classes': 'service-classes.html', 'onboard-services': 'onboard-services.html',
+    services: 'services.html', passengers: 'passengers.html', news: 'news.html', about: 'about.html',
+    history: 'history.html', fleet: 'fleet.html', job: 'job.html', contacts: 'contacts.html',
+    faq: 'faq.html', privacy: 'privacy.html', terms: 'terms.html'
+  };
+
+  /* ── Подписи интерфейса ─────────────────────────────────────────────── */
+  const ui = {
+    home: ['Главная', 'Асосӣ', 'Home'],
+    inSection: ['Полезное рядом', 'Дар ин бахш', 'Also useful'],
+    callUs: ['Позвонить', 'Занг задан', 'Call us'],
+    contactUs: ['Связаться с нами', 'Бо мо тамос гиред', 'Contact us'],
+    readMore: ['Читать', 'Хондан', 'Read'],
+    allNews: ['Все новости', 'Ҳамаи хабарҳо', 'All news'],
+    bookByPhone: ['Забронировать по телефону', 'Тавассути телефон фармоиш диҳед', 'Book by phone'],
+    questions: ['Остались вопросы?', 'Савол доред?', 'Still have questions?'],
+    questionsCopy: ['Позвоните нам или напишите — ответим в рабочие часы офиса.',
+                    'Ба мо занг занед ё нависед — дар соатҳои корӣ ҷавоб медиҳем.',
+                    'Call or write to us — we reply during office hours.']
+  };
+
+  const L = (arr, lang) => (Array.isArray(arr) ? arr[idx(lang)] : arr);
+
+  /* ── Шапка и подвал ─────────────────────────────────────────────────── */
+  function header() {
+    return `<a class="skip-link" href="#main" data-i18n="skip">Перейти к содержанию</a>
+    <header class="site-header">
+      <div class="utility-bar"><div class="container utility-inner">
+        <span class="official-note" data-i18n="official">Официальный сайт авиакомпании</span>
+        <div class="utility-links">
+          <a href="tel:${C.contacts.phoneHref}">${C.contacts.phone}</a>
+          <a href="mailto:${C.contacts.email}">${C.contacts.email}</a>
+        </div>
+      </div></div>
+      <div class="nav-shell"><div class="container nav-inner">
+        <a class="brand" href="index.html" aria-label="Tajik Air"><img class="brand-logo" src="img/tajik-air-logo-2026-dark.png" width="800" height="200" alt="Tajik Air"></a>
+        <nav class="desktop-nav" aria-label="Основная навигация">
+          <a href="destinations.html" data-i18n="navTravel">Направления</a>
+          ${bookingEnabled ? '<a href="booking.html" data-i18n="navBooking">Бронирование</a>' : ''}
+          <a href="passengers.html" data-i18n="navServices">Пассажирам</a>
+          <a href="about.html" data-i18n="navAbout">О компании</a>
+          <a href="news.html" data-i18n="navNews">Новости</a>
+          <a href="contacts.html" data-i18n="navContacts">Контакты</a>
+        </nav>
+        <div class="nav-actions">
+          <button class="icon-button" id="searchOpen" type="button" aria-label="Поиск по сайту" title="Поиск"><span aria-hidden="true">⌕</span></button>
+          <div class="language-menu">
+            <button class="language-button" type="button" aria-haspopup="listbox" aria-controls="languageList" aria-label="Выбор языка" aria-expanded="false"><span id="activeLang">RU</span><span aria-hidden="true">⌄</span></button>
+            <div class="language-list" id="languageList" role="listbox" aria-label="Выбор языка">
+              <button type="button" role="option" data-lang="ru" lang="ru" tabindex="-1" aria-selected="true">Русский</button>
+              <button type="button" role="option" data-lang="tj" lang="tg" tabindex="-1" aria-selected="false">Тоҷикӣ</button>
+              <button type="button" role="option" data-lang="en" lang="en" tabindex="-1" aria-selected="false">English</button>
+            </div>
+          </div>
+          <button class="mobile-menu-button" id="mobileMenuButton" type="button" aria-label="Меню" aria-controls="mobileNav" aria-expanded="false"><span></span><span></span><span></span></button>
+        </div>
+      </div></div>
+      <nav class="mobile-nav" id="mobileNav" aria-label="Мобильная навигация" hidden>
+        <a href="destinations.html" data-i18n="navTravel">Направления</a>
+        ${bookingEnabled ? '<a href="booking.html" data-i18n="navBooking">Бронирование</a>' : ''}
+        <a href="passengers.html" data-i18n="navServices">Пассажирам</a>
+        <a href="about.html" data-i18n="navAbout">О компании</a>
+        <a href="news.html" data-i18n="navNews">Новости</a>
+        <a href="contacts.html" data-i18n="navContacts">Контакты</a>
+      </nav>
+    </header>`;
+  }
+
+  function footer(lang) {
+    const c = C.contacts;
+    return `<footer class="site-footer">
+      <div class="container footer-main">
+        <div class="footer-brand">
+          <a class="brand light" href="index.html"><img class="brand-logo" src="img/tajik-air-logo-2026-dark.png" width="800" height="200" alt="Tajik Air"></a>
+          <p data-i18n="footerAbout">Национальный авиаперевозчик Таджикистана. Основан в 1924 году.</p>
+          <a class="footer-social" href="${c.facebook}" target="_blank" rel="noopener">Facebook ↗</a>
+        </div>
+        <div><h2 data-i18n="passengersHead">Пассажирам</h2><ul>
+          ${bookingEnabled ? '<li><a href="booking.html" data-i18n="navBooking">Бронирование</a></li>' : ''}
+          <li><a href="baggage.html" data-i18n="baggage">Багаж</a></li>
+          <li><a href="carriage-rules.html" data-i18n="carriage">Правила перевозки</a></li>
+          <li><a href="special-assistance.html" data-i18n="specialHelp">Специальная помощь</a></li>
+          <li><a href="refunds.html" data-i18n="refunds">Возврат и обмен</a></li>
+        </ul></div>
+        <div><h2 data-i18n="companyHead">Компания</h2><ul>
+          <li><a href="about.html" data-i18n="navAbout">О компании</a></li>
+          <li><a href="history.html" data-i18n="history">История</a></li>
+          <li><a href="fleet.html" data-i18n="fleet">Флот</a></li>
+          <li><a href="news.html" data-i18n="navNews">Новости</a></li>
+          <li><a href="job.html" data-i18n="jobs">Вакансии</a></li>
+        </ul></div>
+        <div class="footer-contact"><h2 data-i18n="navContacts">Контакты</h2><address>
+          <a href="tel:${c.phoneHref}">${c.phone}</a>
+          <a href="mailto:${c.email}">${c.email}</a>
+          <span>${L(c.address, lang)}</span>
+          <span>${L(c.hours, lang)}</span>
+        </address></div>
+      </div>
+      <div class="container footer-bottom">
+        <span>© ${new Date().getFullYear()} Tajik Air</span>
+        <div>
+          <a href="privacy.html" data-i18n="privacy">Конфиденциальность</a>
+          <a href="terms.html" data-i18n="terms">Условия использования</a>
+          <a href="faq.html" data-i18n="faq">Частые вопросы</a>
+        </div>
+      </div>
+    </footer>`;
+  }
+
+  function sideNav(lang, current) {
+    const picks = ['booking', 'baggage', 'carriage-rules', 'special-assistance', 'refunds', 'faq', 'contacts']
+      .filter((k) => k !== current && (bookingEnabled || k !== 'booking'));
+    return `<aside class="side-nav"><h2>${L(ui.inSection, lang)}</h2>${picks
+      .map((k) => `<a href="${files[k]}">${L(pages[k].title, lang)}</a>`).join('')}</aside>`;
+  }
+
+  /* ── Блок «остались вопросы» ────────────────────────────────────────── */
+  function helpBlock(lang) {
+    return `<div class="help-block">
+      <div><h2>${L(ui.questions, lang)}</h2><p>${L(ui.questionsCopy, lang)}</p></div>
+      <div class="help-actions">
+        <a class="button button-primary" href="tel:${C.contacts.phoneHref}">${C.contacts.phone}</a>
+        <a class="button button-quiet" href="contacts.html">${L(ui.contactUs, lang)}</a>
+      </div>
+    </div>`;
+  }
+
+  /* ── Информационные разделы для пассажиров ──────────────────────────── */
+  const passengerSections = {
+    baggage: [
+      [['Норма багажа', 'Меъёри бағоҷ', 'Baggage allowance'],
+       ['Количество мест, вес и габариты указаны в вашем билете. На региональных рейсах нормы ниже, чем на магистральных, — проверьте их до поездки.',
+        'Шумораи ҷойҳо, вазн ва андоза дар чиптаи шумо нишон дода шудаанд. Дар парвозҳои минтақавӣ меъёрҳо камтаранд — онҳоро пеш аз сафар санҷед.',
+        'The number of pieces, weight and dimensions are shown on your ticket. Allowances on regional flights are lower than on trunk routes — check them before you travel.']],
+      [['Ручная кладь', 'Бори дастӣ', 'Hand luggage'],
+       ['Документы, деньги, лекарства и технику держите при себе. Жидкости — во флаконах до 100 мл, в одном прозрачном пакете.',
+        'Ҳуҷҷатҳо, пул, доруҳо ва техникаро бо худ доред. Моеъҳо — дар зарфҳои то 100 мл, дар як халтаи шаффоф.',
+        'Keep documents, money, medicines and electronics with you. Liquids must be in containers of up to 100 ml in a single transparent bag.']],
+      [['Крупные и хрупкие вещи', 'Ашёи калон ва шикананда', 'Large and fragile items'],
+       ['Спортивный инвентарь, музыкальные инструменты и негабаритные предметы согласуйте при бронировании — место для них ограничено.',
+        'Таҷҳизоти варзишӣ, асбобҳои мусиқӣ ва ашёи калонҳаҷмро ҳангоми фармоиш мувофиқа кунед — ҷой барои онҳо маҳдуд аст.',
+        'Arrange sports equipment, musical instruments and oversized items when booking — space for them is limited.']],
+      [['Что нельзя перевозить', 'Чиро бурдан мумкин нест', 'What you may not carry'],
+       ['Взрывчатые, легковоспламеняющиеся, ядовитые и радиоактивные вещества запрещены. Литиевые аккумуляторы — только в ручной клади.',
+        'Моддаҳои тарканда, зудоташгир, заҳрнок ва радиоактивӣ манъ аст. Аккумуляторҳои литийӣ — танҳо дар бори дастӣ.',
+        'Explosive, flammable, toxic and radioactive substances are prohibited. Lithium batteries must travel in hand luggage only.']]
+    ],
+    'carriage-rules': [
+      [['Документы', 'Ҳуҷҷатҳо', 'Documents'],
+       ['Имя в билете должно совпадать с документом, по которому вы летите. Для внутренних рейсов — паспорт гражданина, для детей — свидетельство о рождении.',
+        'Ном дар чипта бояд бо ҳуҷҷате, ки бо он парвоз мекунед, мувофиқ бошад. Барои парвозҳои дохилӣ — шиносномаи шаҳрванд, барои кӯдакон — шаҳодатномаи таваллуд.',
+        'The name on your ticket must match the document you travel with. Domestic flights require a national passport; children need a birth certificate.']],
+      [['Регистрация и посадка', 'Бақайдгирӣ ва савор шудан', 'Check-in and boarding'],
+       ['Приезжайте в аэропорт не позднее чем за полтора часа до вылета. Регистрация закрывается за 40 минут, выход на посадку — за 20 минут.',
+        'Ба фурудгоҳ на дертар аз якуним соат пеш аз парвоз оед. Бақайдгирӣ 40 дақиқа пеш, савор шудан 20 дақиқа пеш баста мешавад.',
+        'Arrive at the airport at least 90 minutes before departure. Check-in closes 40 minutes and boarding 20 minutes before the flight.']],
+      [['Погодные условия', 'Шароити обу ҳаво', 'Weather conditions'],
+       ['Рейсы в горные аэропорты зависят от погоды. При её ухудшении вылет переносят — это требование безопасности, а не отмена по вине компании.',
+        'Парвозҳо ба фурудгоҳҳои кӯҳӣ аз обу ҳаво вобастаанд. Ҳангоми бад шудани он парвоз мавқуф гузошта мешавад — ин талаботи бехатарӣ аст.',
+        'Flights to mountain airports depend on the weather. If conditions deteriorate, departure is postponed — a safety requirement, not a cancellation by the airline.']],
+      [['На борту', 'Дар ҳавопаймо', 'On board'],
+       ['Выполняйте указания экипажа, пристёгивайте ремень и держите электронные устройства в авиарежиме на протяжении всего полёта.',
+        'Дастури экипажро иҷро кунед, тасмаро бандед ва дастгоҳҳои электрониро дар тамоми парвоз дар ҳолати ҳавоӣ нигоҳ доред.',
+        'Follow crew instructions, keep your seatbelt fastened and keep electronic devices in flight mode throughout the flight.']]
+    ],
+    children: [
+      [['Дети до 2 лет', 'Кӯдакони то 2-сола', 'Infants under 2'],
+       ['Младенец летит на руках сопровождающего без отдельного места. Норма багажа на младенца ограничена — уточните её при бронировании.',
+        'Тифл дар оғӯши ҳамроҳ бе ҷойи алоҳида парвоз мекунад. Меъёри бағоҷ барои тифл маҳдуд аст — онро ҳангоми фармоиш аниқ кунед.',
+        'An infant travels on the accompanying adult’s lap without a separate seat. The infant baggage allowance is limited — confirm it when booking.']],
+      [['Дети от 2 до 12 лет', 'Кӯдакони 2–12-сола', 'Children aged 2 to 12'],
+       ['Ребёнок занимает отдельное место. Возьмите свидетельство о рождении и, если фамилии родителя и ребёнка различаются, документ, подтверждающий родство.',
+        'Кӯдак ҷойи алоҳида мегирад. Шаҳодатномаи таваллуд ва, агар насаби волидайн ва кӯдак фарқ кунад, ҳуҷҷати тасдиқкунандаи хешовандӣ гиред.',
+        'A child occupies a separate seat. Bring the birth certificate and, if the parent and child have different surnames, proof of relationship.']],
+      [['Без сопровождения', 'Бе ҳамроҳӣ', 'Unaccompanied minors'],
+       ['Перелёт ребёнка без взрослых оформляется отдельно и требует согласия авиакомпании. Подайте заявку заранее — за несколько дней до вылета.',
+        'Парвози кӯдак бе калонсолон алоҳида ба расмият дароварда шуда, розигии ширкатро талаб мекунад. Дархостро пешакӣ — чанд рӯз пеш аз парвоз пешниҳод кунед.',
+        'A child travelling alone must be arranged separately and requires airline approval. Apply several days before departure.']]
+    ],
+    'special-assistance': [
+      [['Как запросить помощь', 'Кумакро чӣ гуна дархост кардан', 'How to request assistance'],
+       ['Сообщите о необходимой помощи при бронировании или не позднее чем за 48 часов до вылета — так мы успеем подготовить сопровождение.',
+        'Дар бораи кумаки зарурӣ ҳангоми фармоиш ё на дертар аз 48 соат пеш аз парвоз хабар диҳед — то мо ҳамроҳиро омода созем.',
+        'Tell us what help you need when booking, or at least 48 hours before departure, so we can arrange support in time.']],
+      [['Кресло-коляска', 'Аробачаи маъюбӣ', 'Wheelchairs'],
+       ['Укажите тип коляски, её размеры и вес. Для колясок с литиевым аккумулятором нужны характеристики батареи — их проверяют по правилам безопасности.',
+        'Навъи аробача, андоза ва вазни онро нишон диҳед. Барои аробачаҳои аккумулятори литийӣ хусусиятҳои батарея лозим аст.',
+        'Specify the type, dimensions and weight of the wheelchair. Battery details are required for lithium-powered chairs under safety rules.']],
+      [['Здоровье в полёте', 'Саломатӣ дар парвоз', 'Health in flight'],
+       ['При некоторых состояниях требуется заключение врача о допустимости перелёта. Возьмите необходимые лекарства в ручную кладь вместе с рецептом.',
+        'Дар баъзе ҳолатҳо хулосаи духтур дар бораи иҷозати парвоз лозим аст. Доруҳои заруриро бо дорухат дар бори дастӣ гиред.',
+        'Some conditions require a doctor’s statement confirming fitness to fly. Carry necessary medication in your hand luggage with the prescription.']]
+    ],
+    pets: [
+      [['Согласуйте заранее', 'Пешакӣ мувофиқа кунед', 'Arrange in advance'],
+       ['Количество животных на рейсе ограничено. Получите подтверждение авиакомпании до покупки билета — без него питомца не примут к перевозке.',
+        'Шумораи ҳайвонот дар парвоз маҳдуд аст. То хариди чипта тасдиқи ширкатро гиред — бе он ҳайвон қабул намешавад.',
+        'The number of animals per flight is limited. Obtain airline confirmation before buying your ticket — without it the animal cannot be accepted.']],
+      [['Контейнер', 'Контейнер', 'Carrier'],
+       ['Переноска должна быть прочной, с жёстким дном, вентиляцией и надёжным замком. Животное должно свободно стоять и разворачиваться внутри.',
+        'Контейнер бояд мустаҳкам, бо таги сахт, вентилятсия ва қулфи боэътимод бошад. Ҳайвон бояд дар дохили он озод истода тавонад.',
+        'The carrier must be sturdy, with a solid base, ventilation and a secure lock. The animal must be able to stand and turn around inside.']],
+      [['Документы', 'Ҳуҷҷатҳо', 'Documents'],
+       ['Понадобится ветеринарный паспорт с отметками о прививках и справка установленной формы. Требования к ним устанавливает ветеринарная служба.',
+        'Шиносномаи ветеринарӣ бо қайди эмгузаронӣ ва маълумотномаи шакли муқарраршуда лозим мешавад.',
+        'You will need a veterinary passport with vaccination records and an official health certificate issued by the veterinary service.']]
+    ],
+    refunds: [
+      [['От чего зависит возврат', 'Бозгашт аз чӣ вобаста аст', 'What determines a refund'],
+       ['Сумма к возврату определяется тарифом, по которому куплен билет, и тем, за сколько времени до вылета вы обратились. Условия указаны в правилах вашего тарифа.',
+        'Маблағи бозгашт аз тарифи чипта ва он ки чанд вақт пеш аз парвоз муроҷиат кардед, вобаста аст.',
+        'The refundable amount depends on the fare you purchased and how far in advance you apply. The conditions are set out in your fare rules.']],
+      [['Куда обращаться', 'Ба куҷо муроҷиат кардан', 'Where to apply'],
+       ['Обращайтесь туда, где был куплен билет: в офис авиакомпании или к агенту. Подготовьте номер билета и документ пассажира.',
+        'Ба ҳамон ҷое муроҷиат кунед, ки чипта харида шуд: идораи ширкат ё агент. Рақами чипта ва ҳуҷҷати мусофирро омода кунед.',
+        'Apply where the ticket was bought — the airline office or your agent. Have the ticket number and passenger document ready.']],
+      [['Изменение даты', 'Иваз кардани сана', 'Changing your date'],
+       ['Перенести рейс обычно дешевле, чем вернуть билет. Обратитесь как можно раньше: чем ближе вылет, тем меньше свободных мест на других датах.',
+        'Иваз кардани парвоз одатан аз бозгардонидани чипта арзонтар аст. Ҳарчи зудтар муроҷиат кунед.',
+        'Changing your flight is usually cheaper than a refund. Apply as early as you can — the closer to departure, the fewer seats remain on other dates.']]
+    ],
+    'service-classes': [
+      [['Эконом', 'Эконом', 'Economy'],
+       ['Основной класс на внутренних рейсах. Включает норму багажа, указанную в билете, и обслуживание на борту в объёме, предусмотренном для маршрута.',
+        'Дараҷаи асосӣ дар парвозҳои дохилӣ. Меъёри бағоҷи дар чипта нишондодашуда ва хизматрасонӣ дар ҳавопайморо дар бар мегирад.',
+        'The main class on domestic flights. It includes the baggage allowance shown on your ticket and the on-board service provided for the route.']],
+      [['Что проверить до оплаты', 'То пардохт чиро санҷед', 'Check before you pay'],
+       ['Сверьте норму багажа, условия обмена и возврата, а также написание имени. После оплаты исправления возможны не всегда и могут быть платными.',
+        'Меъёри бағоҷ, шартҳои иваз ва бозгашт, инчунин навишти номро санҷед. Пас аз пардохт ислоҳ на ҳамеша имконпазир аст.',
+        'Check the baggage allowance, change and refund conditions, and the spelling of your name. Corrections after payment are not always possible and may be chargeable.']]
+    ],
+    'onboard-services': [
+      [['Полёт на Ан-28', 'Парвоз бо Ан-28', 'Flying on the An-28'],
+       ['Внутренние маршруты обслуживает турбовинтовой Ан-28 на 17 мест. Полёт длится от 40 до 60 минут и проходит на небольшой высоте над горами.',
+        'Хатсайрҳои дохилиро Ан-28-и турбовинтии 17-ҷоя хизмат мерасонад. Парвоз аз 40 то 60 дақиқа тӯл мекашад.',
+        'Domestic routes are flown by the 17-seat An-28 turboprop. Flights last 40 to 60 minutes at relatively low altitude over the mountains.']],
+      [['Комфорт в пути', 'Роҳатӣ дар роҳ', 'Comfort on board'],
+       ['На коротких рейсах питание не предусмотрено. Возьмите воду и всё необходимое с собой, учитывая ограничения по жидкостям.',
+        'Дар парвозҳои кӯтоҳ хӯрок пешбинӣ нашудааст. Об ва чизҳои заруриро бо назардошти маҳдудияти моеъҳо бо худ гиред.',
+        'Meals are not served on short flights. Bring water and essentials with you, keeping the liquid restrictions in mind.']],
+      [['Безопасность', 'Бехатарӣ', 'Safety'],
+       ['Посмотрите демонстрацию аварийно-спасательного оборудования и найдите ближайший аварийный выход. При турбулентности оставайтесь на месте с пристёгнутым ремнём.',
+        'Намоиши таҷҳизоти наҷотро тамошо кунед ва баромади наздиктарини изтирориро ёбед. Ҳангоми ларзиш дар ҷой бо тасмаи баста монед.',
+        'Watch the safety demonstration and locate your nearest emergency exit. During turbulence stay seated with your seatbelt fastened.']]
+    ]
+  };
+
+  function passengerMarkup(lang, key) {
+    const sections = passengerSections[key] || [];
+    return `<div class="info-sections">${sections.map(([h, p]) =>
+      `<section class="info-section"><h2>${L(h, lang)}</h2><p>${L(p, lang)}</p></section>`).join('')}</div>
+      ${helpBlock(lang)}`;
+  }
+
+  /* ── Бронирование ───────────────────────────────────────────────────── */
+  function bookingMarkup(lang) {
+    if (!bookingEnabled) {
+      return `<div class="card-grid">${['destinations', 'passengers', 'contacts'].map((key) =>
+        `<a class="link-card" href="${files[key]}"><h2>${L(pages[key].title, lang)}</h2><p>${L(pages[key].lead, lang)}</p><span aria-hidden="true">→</span></a>`).join('')}</div>`;
+    }
+    const c = C.contacts;
+    const steps = [
+      [['Выберите направление', 'Самтро интихоб кунед', 'Choose your destination'],
+       ['Шесть городов Таджикистана доступны из Душанбе. Посмотрите список направлений и выберите подходящий город.',
+        'Шаш шаҳри Тоҷикистон аз Душанбе дастрасанд. Рӯйхати самтҳоро бинед ва шаҳри мувофиқро интихоб кунед.',
+        'Six cities in Tajikistan are served from Dushanbe. Browse the destinations and pick the one you need.']],
+      [['Позвоните нам', 'Ба мо занг занед', 'Call us'],
+       ['Назовите направление, желаемую дату и количество пассажиров. Оператор подтвердит наличие мест и стоимость перелёта.',
+        'Самт, санаи дилхоҳ ва шумораи мусофиронро гӯед. Оператор мавҷудияти ҷой ва арзишро тасдиқ мекунад.',
+        'Tell us the route, your preferred date and the number of passengers. Our agent will confirm availability and the fare.']],
+      [['Оформите билет', 'Чиптаро ба расмият дароред', 'Complete your booking'],
+       ['Билет оформляется в офисе авиакомпании в Душанбе. Возьмите с собой паспорт, а для детей — свидетельство о рождении.',
+        'Чипта дар идораи ширкат дар Душанбе ба расмият дароварда мешавад. Шиноснома ва барои кӯдакон шаҳодатномаи таваллудро гиред.',
+        'Tickets are issued at the airline office in Dushanbe. Bring your passport, and a birth certificate for children.']]
+    ];
+    const prep = [
+      ['Паспорт каждого пассажира', 'Шиносномаи ҳар мусофир', 'A passport for each passenger'],
+      ['Свидетельство о рождении для детей', 'Шаҳодатномаи таваллуд барои кӯдакон', 'A birth certificate for children'],
+      ['Желаемая дата и запасной вариант', 'Санаи дилхоҳ ва варианти захиравӣ', 'Your preferred date and an alternative'],
+      ['Контактный телефон для связи', 'Телефони тамос', 'A contact telephone number']
+    ];
+    /* Онлайн-подбор рейса временно снят: бронирование идёт по телефону.
+       Чтобы вернуть форму, восстановите блок .booking-dock ниже и подключите
+       js/booking.js в booking.html. */
+    const howTitle = ['Как забронировать билет', 'Чипта чӣ гуна фармоиш дода мешавад', 'How to book a ticket'][idx(lang)];
+    const howLead = [
+      'Бронирование ведёт оператор справочной службы: он подтверждает наличие мест, дату и стоимость перелёта.',
+      'Фармоишро оператори хадамоти маълумот қабул мекунад: ӯ мавҷудияти ҷой, сана ва арзиши парвозро тасдиқ менамояд.',
+      'Bookings are handled by our reservations desk: an agent confirms seat availability, the date and the fare.'
+    ][idx(lang)];
+
+    return `<h2>${howTitle}</h2>
+      <p>${howLead}</p>
+      <ol class="steps">${steps.map(([h, p], i) =>
+      `<li><span class="step-num">${i + 1}</span><div><h2>${L(h, lang)}</h2><p>${L(p, lang)}</p></div></li>`).join('')}</ol>
+      <div class="call-panel">
+        <h2>${L(ui.bookByPhone, lang)}</h2>
+        <div class="call-numbers">${c.booking.map((b) =>
+          `<a class="call-number" href="tel:${b.href}">${b.label}</a>`).join('')}</div>
+        <p class="call-hours">${L(c.hours, lang)}</p>
+      </div>
+      <h2>${['Что подготовить', 'Чӣ омода кардан', 'What to prepare'][idx(lang)]}</h2>
+      <ul class="check-list">${prep.map((p) => `<li>${L(p, lang)}</li>`).join('')}</ul>
+      ${helpBlock(lang)}`;
+  }
+
+  /* ── Направления ────────────────────────────────────────────────────── */
+  function destinationsMarkup(lang) {
+    const list = (C.destinations || []).filter((d) => d.id !== 'dushanbe');
+    const i = idx(lang);
+    const route = (code) => (C.routes || []).find((r) => r.to === code);
+    const minWord = ['мин в полёте', 'дақиқа дар парвоз', 'min in the air'][i];
+    const findWord = ['Как забронировать', 'Чӣ гуна фармоиш додан', 'How to book'][i];
+
+    return `<div class="travel-grid">${list.map((d) => {
+      const r = route(d.code);
+      return `
+      <article class="travel-card" id="${d.id}">
+        <img src="${d.image}" width="900" height="600" loading="lazy"
+             alt="${esc(L(d.name, lang))}, ${esc(L(d.region, lang))}">
+        <div>
+          <span>${L(d.region, lang)}</span>
+          <h2>${L(d.name, lang)}</h2>
+          <p>${L(d.body, lang)}</p>
+          ${r ? `<p class="travel-facts">
+            <span>${r.duration} ${minWord}</span>
+            <span>${esc(r.aircraft)}</span>
+            ${bookingEnabled ? `<a class="travel-book" href="booking.html">${findWord} →</a>` : ''}
+          </p>` : ''}
+        </div>
+      </article>`;
+    }).join('')}</div>
+      <div class="note-line">${['Все рейсы выполняются из международного аэропорта Душанбе.',
+                                 'Ҳамаи парвозҳо аз фурудгоҳи байналмилалии Душанбе анҷом дода мешаванд.',
+                                 'All flights depart from Dushanbe International Airport.'][idx(lang)]}</div>
+      ${helpBlock(lang)}`;
+  }
+
+  /* ── О компании ─────────────────────────────────────────────────────── */
+  let aboutLeaders = [];
+
+  function aboutLeadershipMarkup(lang) {
+    if (!aboutLeaders.length) return '';
+    return `<h2>${L(['Руководство', 'Роҳбарият', 'Leadership'], lang)}</h2>${aboutLeaders.map(leader => `
+      <article class="leader-card">
+        <img src="${esc(leader.image)}" width="620" height="775" loading="lazy" alt="${esc(L(leader.name, lang))} — ${esc(L(leader.role, lang))} Tajik Air">
+        <div><span class="leader-role">${esc(L(leader.role, lang))}</span><h3>${esc(L(leader.name, lang))}</h3><p>${esc(L(leader.body, lang)).replace(/\r\n?|\n/g, '<br>')}</p></div>
+      </article>`).join('')}`;
+  }
+
+  async function hydrateLeadership() {
+    if (document.body.dataset.contentPage !== 'about' || !window.TajikAirLeadership) return;
+    let content = {};
+    try {
+      const response = await fetch('data/journey-content.json', { cache: 'no-store', signal: AbortSignal.timeout(4000) });
+      if (response.ok) content = await response.json();
+    } catch { /* Preserve the legacy profile when managed content is unavailable. */ }
+    aboutLeaders = window.TajikAirLeadership.list(content);
+    const container = document.getElementById('aboutLeadership');
+    if (container) container.innerHTML = aboutLeadershipMarkup(currentLang);
+  }
+
+  function aboutMarkup(lang) {
+    const i = idx(lang);
+    const intro = [
+      'Tajik Air — национальный авиаперевозчик Таджикистана. Первый рейс из Бухары в Душанбе состоялся 3 сентября 1924 года: авиация пришла в страну раньше железных дорог и связала горные районы со столицей.',
+      'Tajik Air интиқолдиҳандаи миллии ҳавоии Тоҷикистон аст. Нахустин парвоз аз Бухоро ба Душанбе 3 сентябри соли 1924 анҷом ёфт: авиатсия пеш аз роҳи оҳан ба кишвар омада, минтақаҳои кӯҳиро бо пойтахт пайваст.',
+      'Tajik Air is the national air carrier of Tajikistan. The first flight from Bukhara to Dushanbe took place on 3 September 1924 — aviation reached the country before the railways and connected mountain regions with the capital.'
+    ][i];
+    const today = [
+      'Сегодня компания выполняет рейсы из Душанбе в шесть городов страны, в том числе туда, где дорога по земле занимает целый день. В 2025 году авиакомпания рассчиталась с многолетними долгами и увеличила флот с одного воздушного судна до четырёх.',
+      'Имрӯз ширкат аз Душанбе ба шаш шаҳри кишвар парвоз мекунад, аз ҷумла ба ҷойҳое, ки роҳи заминӣ як рӯзро мегирад. Дар соли 2025 ширкат қарзҳои тӯлониро пардохт ва паркро аз як то чор ҳавопаймо расонд.',
+      'Today the airline flies from Dushanbe to six cities across the country, including places where the road journey takes a full day. In 2025 it settled long-standing debts and grew its fleet from one aircraft to four.'
+    ][i];
+    const missionH = ['Зачем мы летаем', 'Чаро мо парвоз мекунем', 'Why we fly'][i];
+    const mission = [
+      'Половина Таджикистана — горы, и во многие районы дорога идёт через перевалы, которые закрываются зимой. Регулярное авиасообщение для этих мест — не удобство, а связь с остальной страной.',
+      'Нисфи Тоҷикистон кӯҳ аст ва ба бисёр минтақаҳо роҳ аз ағбаҳое мегузарад, ки зимистон баста мешаванд. Парвози мунтазам барои ин ҷойҳо на роҳатӣ, балки алоқа бо кишвар аст.',
+      'Half of Tajikistan is mountainous, and many districts are reached over passes that close in winter. For these places scheduled air service is not a convenience but a link to the rest of the country.'
+    ][i];
+    return `<p class="lead-paragraph">${intro}</p><p>${today}</p>
+      <div class="stat-row">${(C.stats || []).map((s) =>
+        `<div><strong>${s.value}</strong><span>${L(s.label, lang)}</span></div>`).join('')}</div>
+      <h2>${missionH}</h2><p>${mission}</p>
+      <div id="aboutLeadership">${aboutLeadershipMarkup(lang)}</div>
+      <div class="link-row">
+        <a class="button button-quiet" href="history.html">${L(pages.history.title, lang)} →</a>
+        <a class="button button-quiet" href="fleet.html">${L(pages.fleet.title, lang)} →</a>
+        <a class="button button-quiet" href="job.html">${L(pages.job.title, lang)} →</a>
+      </div>`;
+  }
+
+  function historyMarkup(lang) {
+    const i = idx(lang);
+    const timeline = [
+      ['1924', ['Первый рейс', 'Нахустин парвоз', 'The first flight'],
+       ['3 сентября самолёт впервые пролетел по маршруту Бухара — Душанбе. Эта дата считается днём рождения гражданской авиации Таджикистана.',
+        '3 сентябр ҳавопаймо бори аввал бо хатсайри Бухоро — Душанбе парвоз кард. Ин сана рӯзи таваллуди авиатсияи граждании Тоҷикистон ба ҳисоб меравад.',
+        'On 3 September an aircraft flew the Bukhara – Dushanbe route for the first time. This date is considered the birth of Tajik civil aviation.']],
+      ['1930—1980', ['Дороги в небе', 'Роҳҳо дар осмон', 'Roads in the sky'],
+       ['Авиация связала столицу с Памиром и высокогорными посёлками. Самолёты Ан, Ил, Ту и Як работали там, где дорог не было вовсе.',
+        'Авиатсия пойтахтро бо Помир ва деҳаҳои баландкӯҳ пайваст. Ҳавопаймоҳои Ан, Ил, Ту ва Як дар ҷойҳое кор мекарданд, ки роҳ набуд.',
+        'Aviation linked the capital with the Pamirs and high-mountain settlements. An, Il, Tu and Yak aircraft served places with no roads at all.']],
+      ['2024', ['Возвращение', 'Бозгашт', 'The return'],
+       ['В октябре возобновились регулярные рейсы Душанбе — Хорог, прерванные на несколько лет.',
+        'Моҳи октябр парвозҳои мунтазами Душанбе — Хоруғ, ки чанд сол қатъ шуда буданд, аз нав оғоз ёфтанд.',
+        'In October scheduled Dushanbe – Khorugh flights resumed after a break of several years.']],
+      ['2025', ['Пять новых направлений', 'Панҷ самти нав', 'Five new destinations'],
+       ['Открыты рейсы в Кулоб, Панҷакент, Рашт, Ховалинг и Ванч. Урегулированы многолетние долги, флот вырос до четырёх воздушных судов.',
+        'Парвозҳо ба Кӯлоб, Панҷакент, Рашт, Ховалинг ва Ванҷ кушода шуданд. Қарзҳои тӯлонӣ танзим шуда, парк ба чор ҳавопаймо расид.',
+        'Flights opened to Kulob, Panjakent, Rasht, Khovaling and Vanj. Long-standing debts were settled and the fleet grew to four aircraft.']]
+    ];
+    return `<ol class="history-timeline">${timeline.map(([year, h, p]) =>
+      `<li><time>${year}</time><div><h2>${L(h, lang)}</h2><p>${L(p, lang)}</p></div></li>`).join('')}</ol>
+      <img src="img/tajikair-aircraft.webp" width="1200" height="674" loading="lazy" class="prose-image"
+           alt="${['Самолёт Tajik Air', 'Ҳавопаймои Tajik Air', 'Tajik Air aircraft'][i]}">
+      <div class="link-row"><a class="button button-quiet" href="fleet.html">${L(pages.fleet.title, lang)} →</a></div>`;
+  }
+
+  function fleetMarkup(lang) {
+    const i = idx(lang);
+    const plans = C.fleetPlans || [];
+    return `<div class="fleet-grid">${(C.fleet || []).map((a) => `
+      <article class="fleet-card">
+        <img src="${a.image}" width="1280" height="720" loading="lazy" alt="${['Самолёт Tajik Air', 'Ҳавопаймои Tajik Air', 'Tajik Air aircraft'][i]}">
+        <div class="fleet-body">
+          <span class="fleet-role">${L(a.role, lang)}</span>
+          <h2>${a.model}</h2>
+          <p class="fleet-reg">${a.reg}${a.seats !== '—' ? ` · ${a.seats} ${['мест', 'ҷой', 'seats'][i]}` : ''}</p>
+          <p>${L(a.body, lang)}</p>
+        </div>
+      </article>`).join('')}</div>
+      ${!plans.length ? '' : `<h2>${['Что дальше', 'Минбаъд чӣ', 'What comes next'][i]}</h2>
+      <p>${['Компания готовит замену Ан-28 на более вместительный самолёт для местных линий.',
+            'Ширкат ивази Ан-28-ро бо ҳавопаймои ғунҷоишноктар барои хатҳои маҳаллӣ омода мекунад.',
+            'The airline is preparing to replace the An-28 with a larger aircraft for local routes.'][i]}</p>
+      ${plans.map((p) => `<div class="fleet-plan">
+        <img src="${p.image}" width="1280" height="720" loading="lazy" alt="${['Самолёт Tajik Air', 'Ҳавопаймои Tajik Air', 'Tajik Air aircraft'][i]}">
+        <div><h3>${p.model}</h3><p>${L(p.body, lang)}</p></div></div>`).join('')}`}`;
+  }
+
+  /* ── Новости ────────────────────────────────────────────────────────── */
+  function newsMarkup(lang) {
+    const locale = lang === 'tj' ? 'tg-TJ' : lang === 'en' ? 'en-GB' : 'ru-RU';
+    const fmt = (d) => new Intl.DateTimeFormat(locale, { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(d));
+    const list = (C.news || []).slice().sort((a, b) => String(b.date).localeCompare(String(a.date)));
+    return `<div class="news-archive" id="newsArchive">${list.map((n) => `
+      <article class="news-item" id="${n.id}">
+        <a class="news-item-media" href="#${n.id}" tabindex="-1" aria-hidden="true"><img src="${n.image}" width="900" height="600" loading="lazy" alt="${esc(L(n.imageAlt, lang))}"></a>
+        <div class="news-item-body">
+          <p class="news-meta"><time datetime="${n.date}">${fmt(n.date)}</time><span class="news-tag">${L(n.tag, lang)}</span></p>
+          <h2>${L(n.title, lang)}</h2>
+          <p class="news-summary">${L(n.summary, lang)}</p>
+          <details class="news-details"><summary><span>${L(ui.readMore, lang)}</span></summary>
+            <div>${L(n.body, lang).map((p) => `<p>${p}</p>`).join('')}</div>
+          </details>
+        </div>
+      </article>`).join('')}</div>
+      ${facebookPanel(lang)}
+      ${videoMarkup(lang)}`;
+  }
+
+  /* ── Лента Facebook ─────────────────────────────────────────────────────
+   * Сам iframe подключается скриптом js/experience.js после нажатия кнопки. */
+  function facebookPanel(lang) {
+    const i = idx(lang);
+    const fb = C.contacts.facebook;
+    const title = ['Читайте нас в Facebook', 'Моро дар Facebook хонед', 'Follow us on Facebook'][i];
+    const copy = [
+      'Официальная страница Tajik Air: объявления о рейсах, фотографии и новости компании. Ленту можно листать и читать прямо здесь.',
+      'Саҳифаи расмии Tajik Air: эълонҳо дар бораи парвозҳо, аксҳо ва хабарҳои ширкат. Лентаро метавонед ҳамин ҷо варақ зада хонед.',
+      'The official Tajik Air page: flight announcements, photos and company news. You can scroll and read the feed right here.'
+    ][i];
+    const open = ['Открыть страницу', 'Кушодани саҳифа', 'Open the page'][i];
+    const show = ['Показать ленту', 'Лентаро нишон додан', 'Show the feed'][i];
+    const hint = ['Загрузится с серверов Facebook', 'Аз серверҳои Facebook бор мешавад', 'Loads from Facebook servers'][i];
+    const fail = ['Лента не загрузилась — возможно, Facebook сейчас недоступен.',
+                  'Лента бор нашуд — эҳтимол Facebook ҳоло дастрас нест.',
+                  'The feed did not load — Facebook may be unavailable right now.'][i];
+
+    return `
+    <section class="fb-band" data-fb-feed>
+      <div class="fb-band-copy">
+        <p class="eyebrow">Facebook</p>
+        <h2>${title}</h2>
+        <p>${copy}</p>
+        <a class="button button-quiet" href="${fb}" target="_blank" rel="noopener">${open} ↗</a>
+      </div>
+      <div class="fb-band-stage">
+        <button type="button" class="fb-start" data-fb-load>
+          <span class="fb-start-icon" aria-hidden="true">f</span>
+          <strong>${show}</strong>
+          <small>${hint}</small>
+        </button>
+        <iframe title="Facebook — Tajik Air" width="500" height="760"
+                style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        <p class="fb-fallback">${fail} <a href="${fb}" target="_blank" rel="noopener">${open} ↗</a></p>
+      </div>
+    </section>`;
+  }
+
+  function videoMarkup(lang) {
+    const v = C.videos;
+    if (!v || !v.items || !v.items.length) return '';
+    return `<section class="video-section">
+      <h2>${L(v.title, lang)}</h2>
+      <p>${L(v.lead, lang)}</p>
+      <div class="video-grid">${v.items.map((item) => `
+        <figure class="video-card">
+          <video controls preload="none" poster="${v.poster}" playsinline>
+            <source src="${item.src}" type="video/mp4">
+          </video>
+          <figcaption>${L(item.title, lang)}</figcaption>
+        </figure>`).join('')}</div>
+    </section>`;
+  }
+
+  /* ── Контакты ───────────────────────────────────────────────────────── */
+  function contactsMarkup(lang) {
+    const c = C.contacts;
+    const i = idx(lang);
+    return `<div class="contact-grid">
+        <div class="contact-card"><h2>${['Справочная служба', 'Хадамоти маълумот', 'Information desk'][i]}</h2>
+          <a class="contact-value" href="tel:${c.phoneHref}">${c.phone}</a>
+          <p>${L(c.hours, lang)}</p></div>
+        ${bookingEnabled ? `<div class="contact-card"><h2>${['Бронирование', 'Фармоиш', 'Booking'][i]}</h2>
+          ${c.booking.map((b) => `<a class="contact-value" href="tel:${b.href}">${b.label}</a>`).join('')}
+          <p>${['Внутренние рейсы по Таджикистану', 'Парвозҳои дохилӣ дар Тоҷикистон', 'Domestic flights within Tajikistan'][i]}</p></div>` : ''}
+        <div class="contact-card"><h2>${['Электронная почта', 'Почтаи электронӣ', 'Email'][i]}</h2>
+          <a class="contact-value" href="mailto:${c.email}">${c.email}</a>
+          <p>${['Обращения и деловые запросы', 'Муроҷиат ва дархостҳои корӣ', 'Enquiries and business requests'][i]}</p></div>
+        <div class="contact-card"><h2>${['Офис в Душанбе', 'Идора дар Душанбе', 'Dushanbe office'][i]}</h2>
+          <p class="contact-address">${L(c.address, lang)}</p>
+          <a class="text-link dark-link" href="${c.mapUrl}" target="_blank" rel="noopener"><span>${['Открыть на карте', 'Дар харита кушоед', 'Open in maps'][i]}</span><span aria-hidden="true">↗</span></a></div>
+      </div>
+      <h2>${['Написать нам', 'Ба мо нависед', 'Write to us'][i]}</h2>
+      <p>${['Заполните форму, затем откройте подготовленное письмо в почтовом приложении и отправьте его. Не указывайте данные банковских карт.',
+            'Шаклро пур кунед, баъд номаи омодашударо дар барномаи почта кушода фиристед. Маълумоти корти бонкиро нанависед.',
+            'Complete the form, then open the prepared email in your email app and send it. Please do not include bank card details.'][i]}</p>
+      <form class="page-form contact-form" novalidate>
+        <div class="form-row">
+          <label>${['Имя', 'Ном', 'Name'][i]}<input type="text" name="name" autocomplete="name" required></label>
+          <label>Email<input type="email" name="email" autocomplete="email" required></label>
+        </div>
+        <label>${['Тема', 'Мавзӯъ', 'Subject'][i]}<input type="text" name="subject" required></label>
+        <label>${['Сообщение', 'Паём', 'Message'][i]}<textarea name="message" rows="6" required></textarea></label>
+        <label class="honeypot" aria-hidden="true">Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+        <button class="button button-primary" type="submit">${['Подготовить письмо', 'Омода кардани нома', 'Prepare email'][i]}</button>
+        <p class="page-status" role="status" aria-live="polite"></p>
+      </form>`;
+  }
+
+  /* ── Частые вопросы ─────────────────────────────────────────────────── */
+  function faqMarkup(lang) {
+    const i = idx(lang);
+    const items = [
+      ...(bookingEnabled ? [[['Как купить билет?', 'Чиптаро чӣ гуна харидан?', 'How do I buy a ticket?'],
+       [`Позвоните по телефону бронирования ${C.contacts.booking[0].label}. Бронирование доступно только по телефону; онлайн-продажа на сайте пока не ведётся.`,
+        `Ба телефони фармоиш ${C.contacts.booking[0].label} занг занед. Фармоиш танҳо тавассути телефон дастрас аст; фурӯши онлайн ҳоло амал намекунад.`,
+        `Call our booking line on ${C.contacts.booking[0].label}. Reservations are available by phone only; online sales are not available yet.`]]] : []),
+      [['Куда летает Tajik Air?', 'Tajik Air ба куҷо парвоз мекунад?', 'Where does Tajik Air fly?'],
+       ['Из Душанбе в Хорог, Кулоб, Панҷакент, Рашт, Ховалинг и Ванч.',
+        'Аз Душанбе ба Хоруғ, Кӯлоб, Панҷакент, Рашт, Ховалинг ва Ванҷ.',
+        'From Dushanbe to Khorugh, Kulob, Panjakent, Rasht, Khovaling and Vanj.']],
+      [['Когда вылетает мой рейс?', 'Парвози ман кай аст?', 'When does my flight depart?'],
+       ['Расписание внутренних рейсов зависит от погоды в горных аэропортах. Уточняйте время вылета по телефону справочной службы накануне поездки.',
+        'Ҷадвали парвозҳои дохилӣ аз обу ҳаво дар фурудгоҳҳои кӯҳӣ вобаста аст. Вақти парвозро як рӯз пеш аз сафар бо телефон аниқ кунед.',
+        'Domestic schedules depend on weather at mountain airports. Confirm your departure time by phone the day before you travel.']],
+      [['Сколько багажа можно взять?', 'Чӣ қадар бағоҷ гирифтан мумкин?', 'How much baggage may I take?'],
+       ['Норма указана в вашем билете. На Ан-28 она ниже, чем на больших самолётах, — проверьте её при бронировании.',
+        'Меъёр дар чиптаи шумо нишон дода шудааст. Дар Ан-28 он камтар аст — ҳангоми фармоиш санҷед.',
+        'Your allowance is shown on your ticket. It is lower on the An-28 than on larger aircraft — check it when booking.']],
+      [['Что делать, если рейс перенесли?', 'Агар парвоз мавқуф гузошта шавад, чӣ кор кунам?', 'What if my flight is postponed?'],
+       ['Рейсы в горные аэропорты переносят из-за погоды. Оставьте контактный телефон при бронировании — вас предупредят об изменении.',
+        'Парвозҳо ба фурудгоҳҳои кӯҳӣ аз сабаби обу ҳаво мавқуф гузошта мешаванд. Ҳангоми фармоиш телефони тамос гузоред — шуморо огоҳ мекунанд.',
+        'Flights to mountain airports are postponed because of weather. Leave a contact number when booking and we will notify you of any change.']],
+      [['Можно ли лететь с ребёнком?', 'Бо кӯдак парвоз кардан мумкин?', 'Can I travel with a child?'],
+       ['Да. Дети до двух лет летят на руках взрослого, старше — на отдельном месте. Возьмите свидетельство о рождении.',
+        'Бале. Кӯдакони то дусола дар оғӯши калонсол, калонтар — дар ҷойи алоҳида парвоз мекунанд. Шаҳодатномаи таваллудро гиред.',
+        'Yes. Children under two travel on an adult’s lap; older children have their own seat. Bring the birth certificate.']],
+      [['Как вернуть билет?', 'Чиптаро чӣ гуна баргардонам?', 'How do I refund a ticket?'],
+       ['Обратитесь туда, где покупали билет. Сумма возврата зависит от тарифа и того, насколько заранее вы обратились.',
+        'Ба ҳамон ҷое муроҷиат кунед, ки чипта харидед. Маблағи бозгашт аз тариф ва вақти муроҷиат вобаста аст.',
+        'Contact the place where you bought the ticket. The refund depends on your fare and how far in advance you apply.']],
+      [['Как связаться с авиакомпанией?', 'Бо ширкат чӣ гуна тамос гирам?', 'How do I contact the airline?'],
+       [`Телефон ${C.contacts.phone}, почта ${C.contacts.email}. Офис в Душанбе работает по будням и выходным в разное время — расписание указано в контактах.`,
+        `Телефон ${C.contacts.phone}, почта ${C.contacts.email}. Идора дар Душанбе кор мекунад — ҷадвал дар бахши тамос.`,
+        `Call ${C.contacts.phone} or email ${C.contacts.email}. Our Dushanbe office hours are listed on the contacts page.`]]
+    ];
+    return `<div class="faq-list">${items.map(([q, a]) =>
+      `<details class="faq-item"><summary><span>${L(q, lang)}</span></summary><div><p>${L(a, lang)}</p></div></details>`).join('')}
+      </div>${helpBlock(lang)}`;
+  }
+
+  /* ── Правовые страницы ──────────────────────────────────────────────── */
+  function legalMarkup(lang, key) {
+    const i = idx(lang);
+    const privacy = [
+      [['Какие данные собирает сайт', 'Сомона кадом маълумотро ҷамъ мекунад', 'What this website collects'],
+       ['Сайт не требует регистрации и не собирает персональные данные автоматически. Выбранный язык интерфейса сохраняется в браузере и никуда не передаётся.',
+        'Сомона бақайдгириро талаб намекунад ва маълумоти шахсиро худкор ҷамъ намекунад. Забони интихобшуда дар браузер нигоҳ дошта мешавад.',
+        'The site requires no registration and does not collect personal data automatically. Your chosen language is stored in your browser and is not transmitted anywhere.']],
+      [['Форма обратной связи', 'Шакли алоқа', 'The contact form'],
+       ['Если вы пишете нам через форму, мы используем указанные имя, адрес почты и текст сообщения только для ответа на ваше обращение.',
+        'Агар тавассути шакл нависед, мо ном, суроғаи почта ва матни паёмро танҳо барои ҷавоб истифода мебарем.',
+        'If you write to us through the form, we use the name, email address and message text solely to reply to your enquiry.']],
+      [['Внешние сервисы', 'Хизматрасониҳои беруна', 'External services'],
+       ['На страницах используются шрифты Google Fonts и ссылки на карты и Facebook. Переходя по ним, вы попадаете на сайты, работающие по собственным правилам.',
+        'Дар саҳифаҳо шрифтҳои Google Fonts ва пайвандҳо ба харитаҳо ва Facebook истифода мешаванд. Онҳо қоидаҳои худро доранд.',
+        'The pages use Google Fonts and link to maps and Facebook. Those sites operate under their own policies.']],
+      [['Ваши обращения', 'Муроҷиати шумо', 'Your requests'],
+       [`По вопросам обработки данных пишите на ${C.contacts.email} или звоните ${C.contacts.phone}.`,
+        `Оид ба коркарди маълумот ба ${C.contacts.email} нависед ё ба ${C.contacts.phone} занг занед.`,
+        `For data questions write to ${C.contacts.email} or call ${C.contacts.phone}.`]]
+    ];
+    const terms = [
+      [['Назначение сайта', 'Таъиноти сомона', 'Purpose of this website'],
+       ['Сайт содержит справочную информацию о рейсах, услугах и деятельности авиакомпании. Он не является публичной офертой.',
+        'Сомона маълумоти маълумотдиҳанда дар бораи парвозҳо, хизматрасониҳо ва фаъолияти ширкатро дар бар мегирад. Он оферти оммавӣ нест.',
+        'This website provides reference information about flights, services and the airline’s activities. It does not constitute a public offer.']],
+      [['Точность информации', 'Дақиқии маълумот', 'Accuracy of information'],
+       ['Мы стремимся поддерживать информацию актуальной, однако условия перевозки, время вылета и стоимость подтверждаются авиакомпанией при бронировании.',
+        'Мо мекӯшем маълумотро нав нигоҳ дорем, вале шартҳои сафар, вақти парвоз ва арзиш ҳангоми фармоиш тасдиқ мешаванд.',
+        'We aim to keep information current, but travel conditions, departure times and fares are confirmed by the airline at the time of booking.']],
+      [['Использование материалов', 'Истифодаи маводҳо', 'Use of materials'],
+       ['Тексты, фотографии и логотип принадлежат авиакомпании. Для перепечатки материалов укажите источник или согласуйте использование с пресс-службой.',
+        'Матнҳо, аксҳо ва логотип ба ширкат тааллуқ доранд. Барои нашри такрорӣ манбаъро нишон диҳед ё бо хадамоти матбуот мувофиқа кунед.',
+        'Texts, photographs and the logo belong to the airline. When reproducing materials, credit the source or agree the use with our press office.']],
+      [['Ссылки на другие сайты', 'Пайвандҳо ба сомонаҳои дигар', 'Links to other sites'],
+       ['Мы не отвечаем за содержание внешних ресурсов, на которые ведут ссылки с этого сайта.',
+        'Мо барои мундариҷаи сомонаҳои беруна, ки аз ин ҷо пайванд доранд, ҷавобгар нестем.',
+        'We are not responsible for the content of external sites linked from these pages.']]
+    ];
+    const items = key === 'privacy' ? privacy : terms;
+    return `<div class="info-sections">${items.map(([h, p]) =>
+      `<section class="info-section"><h2>${L(h, lang)}</h2><p>${L(p, lang)}</p></section>`).join('')}</div>
+      <p class="note-line">${['Последнее обновление: август 2026 года.', 'Навсозии охирин: августи соли 2026.', 'Last updated: August 2026.'][i]}</p>`;
+  }
+
+  /* ── Услуги и раздел «Пассажирам» ───────────────────────────────────── */
+  const serviceCards = ['baggage', 'carriage-rules', 'children', 'special-assistance', 'pets', 'refunds', 'service-classes', 'onboard-services'];
+
+  function servicesMarkup(lang) {
+    return `<div class="card-grid">${serviceCards.map((k) =>
+      `<a class="link-card" href="${files[k]}"><h2>${L(pages[k].title, lang)}</h2><p>${L(pages[k].lead, lang)}</p><span aria-hidden="true">→</span></a>`).join('')}</div>
+      ${helpBlock(lang)}`;
+  }
+
+  function passengersMarkup(lang) {
+    const i = idx(lang);
+    const before = [
+      [['За день до вылета', 'Як рӯз пеш аз парвоз', 'The day before'],
+       ['Позвоните в справочную службу и подтвердите время вылета: рейсы в горные аэропорты зависят от погоды.',
+        'Ба хадамоти маълумот занг зада, вақти парвозро тасдиқ кунед: парвозҳо ба фурудгоҳҳои кӯҳӣ аз обу ҳаво вобастаанд.',
+        'Call the information desk to confirm your departure time — flights to mountain airports depend on the weather.']],
+      [['В день вылета', 'Дар рӯзи парвоз', 'On the day'],
+       ['Приезжайте в аэропорт за полтора часа. Возьмите паспорт, а для ребёнка — свидетельство о рождении.',
+        'Ба фурудгоҳ якуним соат пеш оед. Шиноснома ва барои кӯдак шаҳодатномаи таваллудро гиред.',
+        'Arrive at the airport 90 minutes early. Bring your passport, and a birth certificate for a child.']],
+      [['Перед вылетом', 'Пеш аз парвоз', 'Before departure'],
+       ['Взвесьте багаж заранее, переложите ценные вещи в ручную кладь и проверьте ограничения по жидкостям.',
+        'Бағоҷро пешакӣ баркашед, ашёи қиматбаҳоро ба бори дастӣ гузоред ва маҳдудияти моеъҳоро санҷед.',
+        'Weigh your baggage in advance, move valuables to your hand luggage and check the liquid restrictions.']]
+    ];
+    return `<div class="info-sections">${before.map(([h, p]) =>
+      `<section class="info-section"><h2>${L(h, lang)}</h2><p>${L(p, lang)}</p></section>`).join('')}</div>
+      <h2>${['Подробнее по темам', 'Муфассал аз рӯи мавзӯъҳо', 'More on each topic'][i]}</h2>
+      <div class="card-grid">${serviceCards.map((k) =>
+        `<a class="link-card" href="${files[k]}"><h2>${L(pages[k].title, lang)}</h2><p>${L(pages[k].lead, lang)}</p><span aria-hidden="true">→</span></a>`).join('')}</div>
+      ${helpBlock(lang)}`;
+  }
+
+  /* ── Вакансии ───────────────────────────────────────────────────────── */
+  function jobsMarkup(lang) {
+    const i = idx(lang);
+    const list = C.vacancies || [];
+    const intro = ['Мы ищем специалистов, готовых работать в авиации Таджикистана. Документы принимаются в офисе компании в Душанбе.',
+                   'Мо мутахассисонеро меҷӯем, ки дар авиатсияи Тоҷикистон кор кардан мехоҳанд. Ҳуҷҷатҳо дар идораи ширкат дар Душанбе қабул мешаванд.',
+                   'We are looking for specialists ready to work in Tajik aviation. Applications are accepted at the company office in Dushanbe.'][i];
+    if (!list.length) {
+      return `<p class="lead-paragraph">${intro}</p>${helpBlock(lang)}`;
+    }
+    return `<p class="lead-paragraph">${intro}</p>
+      <div class="vacancy-list">${list.map((v) => `
+        <details class="vacancy-card"><summary>
+          <span><strong>${L(v.title, lang)}</strong><small>${L(v.location, lang)}</small></span>
+        </summary><div>
+          <h3>${['Что подготовить', 'Чӣ омода кардан', 'What to prepare'][i]}</h3>
+          <ul class="check-list">${L(v.requirements, lang).map((r) => `<li>${r}</li>`).join('')}</ul>
+        </div></details>`).join('')}</div>
+      <div class="call-panel">
+        <h2>${['Как подать документы', 'Ҳуҷҷатҳоро чӣ гуна супоридан', 'How to apply'][i]}</h2>
+        <p>${[`Принесите пакет документов в офис компании или предварительно позвоните по телефону ${C.contacts.phone}.`,
+              `Бастаи ҳуҷҷатҳоро ба идораи ширкат оред ё пешакӣ ба ${C.contacts.phone} занг занед.`,
+              `Bring your documents to the company office or call ${C.contacts.phone} first.`][i]}</p>
+        <p class="call-hours">${L(C.contacts.address, lang)} · ${L(C.contacts.hours, lang)}</p>
+      </div>`;
+  }
+
+  /* ── Сборка страницы ────────────────────────────────────────────────── */
+  function bodyMarkup(key, lang) {
+    const kind = pages[key].kind;
+    switch (kind) {
+      case 'booking': return bookingMarkup(lang);
+      case 'destinations': return destinationsMarkup(lang);
+      case 'passenger': return passengerMarkup(lang, key);
+      case 'passengers': return passengersMarkup(lang);
+      case 'services': return servicesMarkup(lang);
+      case 'about': return aboutMarkup(lang);
+      case 'history': return historyMarkup(lang);
+      case 'fleet': return fleetMarkup(lang);
+      case 'news': return newsMarkup(lang);
+      case 'contact': return contactsMarkup(lang);
+      case 'faq': return faqMarkup(lang);
+      case 'legal': return legalMarkup(lang, key);
+      case 'jobs': return jobsMarkup(lang);
+      default: return '';
+    }
+  }
+
+  const WIDE = ['destinations', 'news', 'fleet', 'booking'];
+
+  function renderPage(lang) {
+    const shell = document.getElementById('pageShell');
+    const key = document.body.dataset.contentPage;
+    const page = pages[key] || pages.services;
+    const title = L(page.title, lang);
+    document.documentElement.lang = lang === 'tj' ? 'tg' : lang;
+    document.title = `${title} — Tajik Air`;
+    const wide = WIDE.includes(page.kind) || WIDE.includes(key);
+    const values = [...shell.querySelectorAll('.contact-form [name]')].map((field) => [field.name, field.value]);
+    const markup = `${header()}
+      <main id="main">
+        <section class="page-head">
+          <div class="container">
+            <nav class="breadcrumbs" aria-label="${L(['Навигационная цепочка', 'Роҳи саҳифа', 'Breadcrumb'], lang)}"><a href="index.html">${L(ui.home, lang)}</a><span aria-hidden="true">/</span><span aria-current="page">${title}</span></nav>
+            <h1>${title}</h1>
+            <p>${L(page.lead, lang)}</p>
+          </div>
+        </section>
+        <section class="page-body">
+          <div class="container ${wide ? 'content-wide' : 'content-layout'}">
+            <div class="prose">${bodyMarkup(key, lang)}</div>
+            ${wide ? '' : sideNav(lang, key)}
+          </div>
+        </section>
+      </main>
+      ${footer(lang)}
+      <div class="modal" id="searchModal" role="dialog" aria-modal="true" aria-labelledby="searchTitle" hidden>
+        <div class="modal-backdrop" data-close="searchModal"></div>
+        <div class="modal-card">
+          <button class="modal-close" type="button" data-close="searchModal" aria-label="Закрыть">×</button>
+          <h2 id="searchTitle" data-i18n="whatFind">Что вы ищете?</h2>
+          <label class="search-input">
+            <span class="sr-only" data-search-label>Поиск по сайту</span>
+            <input id="siteSearchInput" type="search" autocomplete="off">
+            <button id="siteSearchButton" type="button" aria-label="Искать">→</button>
+          </label>
+          <div class="search-results" id="searchResults" aria-live="polite"></div>
+        </div>
+      </div>`;
+    if (shell.querySelector('main')) {
+      // Keep navigation controls and their listeners mounted during translation.
+      const template = document.createElement('template');
+      template.innerHTML = markup;
+      shell.querySelector('main').replaceWith(template.content.querySelector('main'));
+      shell.querySelector('.site-footer').replaceWith(template.content.querySelector('.site-footer'));
+      values.forEach(([name, value]) => {
+        const field = shell.querySelector('.contact-form')?.elements.namedItem(name);
+        if (field) field.value = value;
+      });
+    } else {
+      shell.innerHTML = markup;
+    }
+    setupForms(lang);
+    hydrateNews(lang);
+  }
+
+  function setupForms(lang) {
+    document.querySelectorAll('.contact-form').forEach((form) => {
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+        const status = form.querySelector('.page-status');
+        if (form.elements.website?.value) return;
+        if (!form.checkValidity()) { form.reportValidity(); return; }
+        const i=idx(lang);
+        const body=`${['Имя','Ном','Name'][i]}: ${form.elements.name.value.trim()}\nEmail: ${form.elements.email.value.trim()}\n\n${form.elements.message.value.trim()}`;
+        const href=`mailto:${C.contacts.email}?subject=${encodeURIComponent(form.elements.subject.value.trim())}&body=${encodeURIComponent(body)}`;
+        const note=['Письмо подготовлено, но ещё не отправлено. Откройте его в почтовом приложении. Адрес получателя: ',
+                    'Нома омода шуд, аммо ҳанӯз фиристода нашудааст. Онро дар барномаи почта кушоед. Суроғаи қабулкунанда: ',
+                    'Your email is ready but has not been sent. Open it in your email app. Recipient: '][i];
+        status.replaceChildren(document.createTextNode(note+C.contacts.email+' '));
+        const open=document.createElement('a');open.href=href;open.className='button button-primary';open.style.marginTop='16px';
+        open.textContent=['Открыть почтовое приложение','Кушодани барномаи почта','Open email app'][i];status.append(document.createElement('br'),open);
+        status.classList.add('is-visible');
+      });
+      form.addEventListener('input',()=>{const status=form.querySelector('.page-status');status.replaceChildren();status.classList.remove('is-visible');});
+    });
+  }
+
+  /* Новости, добавленные через панель администратора */
+  function trusted(url) {
+    try {
+      const u = new URL(url);
+      return u.protocol === 'https:' &&
+        (u.hostname === 'tajikair.tj' || u.hostname === 'www.tajikair.tj' ||
+         (u.hostname === 'www.facebook.com' && u.pathname.toLowerCase().includes('tojikairlines')));
+    } catch { return false; }
+  }
+
+  async function hydrateNews(lang) {
+    const archive = document.getElementById('newsArchive');
+    if (!archive) return;
+    try {
+      const res = await fetch('data/site-content.json', { cache: 'no-store' });
+      if (!res.ok) return;
+      const data = await res.json();
+      if (!Array.isArray(data.news)) return;
+      const locale = lang === 'tj' ? 'tg-TJ' : lang === 'en' ? 'en-GB' : 'ru-RU';
+      data.news
+        .filter((e) => e?.date && e?.title && trusted(e.source))
+        .sort((a, b) => String(a.date).localeCompare(String(b.date)))
+        .forEach((e) => {
+          const image = /^img\/[a-zA-Z0-9._() -]+$/.test(e.image || '') ? e.image : 'img/tajikair-aircraft.webp';
+          const art = document.createElement('article');
+          art.className = 'news-item';
+          art.innerHTML = `<div class="news-item-media"><img src="${esc(image)}" width="900" height="600" loading="lazy" alt=""></div>
+            <div class="news-item-body">
+              <p class="news-meta"><time datetime="${esc(e.date)}">${new Intl.DateTimeFormat(locale, { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(e.date))}</time></p>
+              <h2>${esc(e.title)}</h2>
+              <p class="news-summary">${esc(e.summary || '')}</p>
+              <p><a class="text-link dark-link" href="${esc(e.source)}" target="_blank" rel="noopener"><span>${L(ui.readMore, lang)}</span><span aria-hidden="true">↗</span></a></p>
+            </div>`;
+          archive.prepend(art);
+        });
+    } catch { /* статичный список остаётся доступным */ }
+  }
+
+  let currentLang = getLang();
+  renderPage(currentLang);
+  hydrateLeadership();
+  document.addEventListener('tajikair:language', (event) => {
+    if (event.detail.lang === currentLang) return;
+    currentLang = event.detail.lang;
+    renderPage(currentLang);
+  });
+})();

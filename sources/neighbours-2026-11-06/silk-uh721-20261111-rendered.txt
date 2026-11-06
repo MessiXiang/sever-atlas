@@ -1,0 +1,91 @@
+- banner:
+  - link:
+    - /url: https://www.silk-avia.com/
+  - generic: Flight Section
+  - generic: Passenger
+  - generic: Additional Services
+  - generic: Payment
+  - generic: Confirmation
+  - button "UZS":
+    - generic: UZS
+  - button "EN":
+    - generic: EN
+- generic: Search
+- generic: Tashkent (TAS) - Shahrisabz (RBZ)
+- generic: Tue, Nov 10 |
+- generic: 1 Adult |
+- generic: One Way
+- link "TOTAL PRICE 0 UZS":
+  - /url: javascript:void(0)
+  - generic: TOTAL PRICE
+  - strong: "0"
+  - generic: UZS
+- dialog [active]:
+  - document:
+    - generic: Flight Information
+    - button "Close"
+    - table:
+      - rowgroup:
+        - row "Tashkent (TAS) - Shahrisabz (RBZ)":
+          - columnheader "Tashkent (TAS) - Shahrisabz (RBZ)": Tashkent (TAS) - Shahrisabz (RBZ)
+      - rowgroup:
+        - row "Flight Number UH-721":
+          - rowheader "Flight Number"
+          - cell "UH-721"
+        - row "From Tashkent, Tashkent International Airport (TAS)":
+          - rowheader "From"
+          - cell "Tashkent, Tashkent International Airport (TAS)"
+        - row "Departing Date 11 Nov 2026 - 12:00":
+          - rowheader "Departing Date"
+          - cell "11 Nov 2026 - 12:00"
+        - row "To Shahrisabz, Shahrisabz (RBZ)":
+          - rowheader "To"
+          - cell "Shahrisabz, Shahrisabz (RBZ)"
+        - row "Arrival Date 11 Nov 2026 - 13:00":
+          - rowheader "Arrival Date"
+          - cell "11 Nov 2026 - 13:00"
+        - row "Flight Duration 1 Hour":
+          - rowheader "Flight Duration"
+          - cell "1 Hour"
+        - row "Aircraft Type L410":
+          - rowheader "Aircraft Type"
+          - cell "L410"
+- strong: Departing Flight
+- generic: Tashkent (TAS) - Shahrisabz (RBZ)
+- button "Sort Flights":
+  - generic: Sort Flights
+- button
+- strong: "7"
+- generic: Nov,Saturday
+- strong: "8"
+- generic: Nov,Sunday
+- strong: "9"
+- generic: Nov,Monday
+- strong: "10"
+- generic: Nov,Tuesday
+- strong: "11"
+- generic: Nov,Wednesday
+- generic: 500 944 UZS
+- strong: "12"
+- generic: Nov,Thursday
+- strong: "13"
+- generic: Nov,Friday
+- generic: 500 944 UZS
+- button
+- button "Calendar":
+  - generic: Calendar
+- generic: Number of flights 1
+- generic: 12:00
+- generic: Tashkent (TAS)
+- generic: 11 Nov 2026
+- generic: 1h
+- text: Nonstop
+- generic: UH-721
+- generic: 13:00
+- generic: Shahrisabz (RBZ)
+- generic: 11 Nov 2026
+- generic: Flight Info
+- tab "BEST OFFER Select fare 500 944 UZS":
+  - generic: BEST OFFER
+  - generic: Select fare
+  - generic: 500 944 UZS

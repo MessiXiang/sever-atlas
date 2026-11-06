@@ -1,0 +1,2489 @@
+{
+  "id": "ap-ge-01",
+  "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:03.911762+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+  "bytes": 304389,
+  "sha256": "a5454c61233291b01bb0a9f77757f88fa7738564cb86d5808577c81609d11f6e",
+  "file": "sources/neighbours-2026-11-06/ap-ge-01.html",
+  "title": "Batumi International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Batumi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Batumi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Batumi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Batumi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Overview",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#Overview",
+      "lang": ""
+    },
+    {
+      "text": "2 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Most popular routes in summer 2021",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#Most_popular_routes_in_summer_2021",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%A8%D8%A7%D8%B7%D9%88%D9%85%D9%8A_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "مصرى",
+      "url": "https://arz.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%A8%D8%A7%D8%AA%D9%88%D9%85%D9%89_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%89",
+      "lang": "arz"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Batumi_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Беларуская (тарашкевіца)",
+      "url": "https://be-tarask.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D1%83%D0%BC%D1%96_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be-tarask"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%90%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82_%D0%91%D0%B0%D1%82%D1%83%D0%BC%D1%96_%D1%96%D0%BC%D1%8F_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9A%D0%B0%D1%80%D1%82%D0%B2%D0%B5%D0%BB%D1%96",
+      "lang": "be"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Batumi",
+      "lang": "de"
+    },
+    {
+      "text": "Ελληνικά",
+      "url": "https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82_%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF_%CE%9C%CF%80%CE%B1%CF%84%CE%BF%CF%8D%CE%BC%CE%B9",
+      "lang": "el"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Batumi",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Bathumi_rahvusvaheline_lennujaam",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D8%A8%D8%A7%D8%AA%D9%88%D9%85%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Batoumi-Alexandre-Kartveli",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%91%D7%99%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%A9%D7%9C_%D7%91%D7%AA%D7%95%D7%9E%D7%99",
+      "lang": "he"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Batumi_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%A9%D5%B8%D6%82%D5%B4%D5%AB_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6",
+      "lang": "hy"
+    },
+    {
+      "text": "Արեւմտահայերէն",
+      "url": "https://hyw.wikipedia.org/wiki/%D5%8A%D5%A1%D5%A9%D5%B8%D6%82%D5%B4%D5%AB_%D5%84%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%95%D5%A4%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6",
+      "lang": "hyw"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_Internazionale_di_Batumi",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%82%A5%E3%83%9F%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%97%E1%83%A3%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%94%ED%88%AC%EB%AF%B8_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Latviešu",
+      "url": "https://lv.wikipedia.org/wiki/Batumi_Starptautisk%C4%81_lidosta",
+      "lang": "lv"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Antarabangsa_Batumi",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Luchthaven_Batoemi",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Batumi",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Batumi",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D1%83%D0%BC%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Batumis_internationella_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Batum_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D1%83%D0%BC%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AA%D9%88%D9%85%DB%8C_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Batumi_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Batumi",
+      "lang": "vi"
+    },
+    {
+      "text": "მარგალური",
+      "url": "https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%97%E1%83%A3%E1%83%9B%E1%83%98%E1%83%A8_%E1%83%94%E1%83%A0%E1%83%94%E1%83%A4%E1%83%9D%E1%83%A8%E1%83%A5%E1%83%90%E1%83%A8%E1%83%94_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "xmf"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%B5%B1%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1200570#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&oldid=1381205010",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Batumi_International_Airport&id=1381205010&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBatumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Batumi_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1200570",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "41°36′37″N 41°35′58″E ﻿ / ﻿ 41.61028°N 41.59944°E ﻿ / 41.61028; 41.59944",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Batumi_International_Airport&params=41_36_37_N_41_35_58_E_region:GE_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Batumi_Airport_Logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Batumi_Airport_(full_view).jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "TAV Airports",
+      "url": "https://en.wikipedia.org/wiki/TAV_Airports",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Airways",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Airways",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "41°36′37″N 41°35′58″E ﻿ / ﻿ 41.61028°N 41.59944°E ﻿ / 41.61028; 41.59944",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Batumi_International_Airport&params=41_36_37_N_41_35_58_E_region:GE_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "www .batumiairport .com",
+      "url": "http://www.batumiairport.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkey_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Map_of_the_Black_Sea_with_bathymetry_and_surrounding_relief.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Statistics-1",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Black Sea",
+      "url": "https://en.wikipedia.org/wiki/Black_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Adjara",
+      "url": "https://en.wikipedia.org/wiki/Adjara",
+      "lang": ""
+    },
+    {
+      "text": "autonomous republic",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_republic",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Hopa",
+      "url": "https://en.wikipedia.org/wiki/Hopa",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Alexander Kartveli",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Kartveli",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Fadiko Gogitidze",
+      "url": "https://en.wikipedia.org/wiki/Fadiko_Gogitidze",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-:0-3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Georgian capital",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-auto-4",
+      "lang": ""
+    },
+    {
+      "text": "12th Military Base",
+      "url": "https://en.wikipedia.org/wiki/12th_Military_Base",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "pilots",
+      "url": "https://en.wikipedia.org/wiki/Pilot",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-auto-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Batumi_Airport_Karakas-2.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Air Astana",
+      "url": "https://en.wikipedia.org/wiki/Air_Astana",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-uzkz-7",
+      "lang": ""
+    },
+    {
+      "text": "Air Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Air_Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Air_Samarkand_TBS_BUS_Charters-8",
+      "lang": ""
+    },
+    {
+      "text": "airBaltic",
+      "url": "https://en.wikipedia.org/wiki/AirBaltic",
+      "lang": ""
+    },
+    {
+      "text": "Riga",
+      "url": "https://en.wikipedia.org/wiki/Riga_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "arkia",
+      "url": "https://en.wikipedia.org/wiki/Arkia",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Buta_Cease-11",
+      "lang": ""
+    },
+    {
+      "text": "azimuth",
+      "url": "https://en.wikipedia.org/wiki/Azimuth_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-A4_TBS_BUS-13",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Adler-Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Flyadeal",
+      "url": "https://en.wikipedia.org/wiki/Flyadeal",
+      "lang": ""
+    },
+    {
+      "text": "Riyadh",
+      "url": "https://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-FlyArystan_BUS_NS26-15",
+      "lang": ""
+    },
+    {
+      "text": "Aqtau",
+      "url": "https://en.wikipedia.org/wiki/Aqtau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-FlyArystan_BUS_NS26-15",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-FlyArystan_BUS_NS26-15",
+      "lang": ""
+    },
+    {
+      "text": "Şymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-FlyArystan_BUS_NS26-15",
+      "lang": ""
+    },
+    {
+      "text": "Flydubai",
+      "url": "https://en.wikipedia.org/wiki/Flydubai",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Fly Khiva",
+      "url": "https://en.wikipedia.org/wiki/Fly_Khiva",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Flynas",
+      "url": "https://en.wikipedia.org/wiki/Flynas",
+      "lang": ""
+    },
+    {
+      "text": "Dammam",
+      "url": "https://en.wikipedia.org/wiki/King_Fahd_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jeddah",
+      "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Riyadh",
+      "url": "https://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Airways",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "GetJet Airlines",
+      "url": "https://en.wikipedia.org/wiki/GetJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Vilnius",
+      "url": "https://en.wikipedia.org/wiki/Vilnius_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-tallvil-22",
+      "lang": ""
+    },
+    {
+      "text": "Iran Aseman Airlines",
+      "url": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Tehran–Imam Khomeini",
+      "url": "https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Iran_Baned-23",
+      "lang": ""
+    },
+    {
+      "text": "Israir",
+      "url": "https://en.wikipedia.org/wiki/Israir",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Jazeera Airways",
+      "url": "https://en.wikipedia.org/wiki/Jazeera_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait City",
+      "url": "https://en.wikipedia.org/wiki/Kuwait_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Jazeera_NS25-25",
+      "lang": ""
+    },
+    {
+      "text": "Jordan Aviation",
+      "url": "https://en.wikipedia.org/wiki/Jordan_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Amman",
+      "url": "https://en.wikipedia.org/wiki/Queen_Alia_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-JA_Dests-26",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Red Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Kurchatov_Chelyabinsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Krasnodar",
+      "url": "https://en.wikipedia.org/wiki/Krasnodar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-KRR_Schedule-29",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Nizhny Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Strigino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "Orenburg",
+      "url": "https://en.wikipedia.org/wiki/Orenburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Perm_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "Samara",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Saratov",
+      "url": "https://en.wikipedia.org/wiki/Saratov_Gagarin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Tyumen",
+      "url": "https://en.wikipedia.org/wiki/Roshchino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "Volgograd",
+      "url": "https://en.wikipedia.org/wiki/Volgograd_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-WZ_BUS_NS26-28",
+      "lang": ""
+    },
+    {
+      "text": "Saudia",
+      "url": "https://en.wikipedia.org/wiki/Saudia",
+      "lang": ""
+    },
+    {
+      "text": "Riyadh",
+      "url": "https://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "Sundor",
+      "url": "https://en.wikipedia.org/wiki/Sundor",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/David_Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-35",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-uzkz-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-36",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Sky Airlines",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-38",
+      "lang": ""
+    },
+    {
+      "text": "Varesh Airlines",
+      "url": "https://en.wikipedia.org/wiki/Varesh_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Tehran–Imam Khomeini",
+      "url": "https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Iran_Baned-23",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-Statistics-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_note-issuu.com_winter-40",
+      "lang": ""
+    },
+    {
+      "text": "Kyiv",
+      "url": "https://en.wikipedia.org/wiki/Kyiv",
+      "lang": ""
+    },
+    {
+      "text": "Boryspil International Airport",
+      "url": "https://en.wikipedia.org/wiki/Boryspil_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyiv International Airport",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany)",
+      "lang": ""
+    },
+    {
+      "text": "Bees Airline",
+      "url": "https://en.wikipedia.org/wiki/Bees_Airline",
+      "lang": ""
+    },
+    {
+      "text": "SkyUp Airlines",
+      "url": "https://en.wikipedia.org/wiki/SkyUp_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Yanair",
+      "url": "https://en.wikipedia.org/wiki/Yanair",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Tel_Aviv",
+      "lang": ""
+    },
+    {
+      "text": "Ben Gurion Airport",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Israir",
+      "url": "https://en.wikipedia.org/wiki/Israir",
+      "lang": ""
+    },
+    {
+      "text": "Arkia",
+      "url": "https://en.wikipedia.org/wiki/Arkia",
+      "lang": ""
+    },
+    {
+      "text": "El Al",
+      "url": "https://en.wikipedia.org/wiki/El_Al",
+      "lang": ""
+    },
+    {
+      "text": "Sundor",
+      "url": "https://en.wikipedia.org/wiki/Sundor",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Airways",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul Airport",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sabiha Gökçen International Airport",
+      "url": "https://en.wikipedia.org/wiki/Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Riyadh",
+      "url": "https://en.wikipedia.org/wiki/Riyadh",
+      "lang": ""
+    },
+    {
+      "text": "King Khalid International Airport",
+      "url": "https://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Flynas",
+      "url": "https://en.wikipedia.org/wiki/Flynas",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Statistics_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Statistics_1-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Number of Passengers Served Batumi Airport\"",
+      "url": "https://gcaa.ge/%e1%83%92%e1%83%90%e1%83%93%e1%83%90%e1%83%a7%e1%83%95%e1%83%90%e1%83%9c%e1%83%98%e1%83%9a-%e1%83%9b%e1%83%92%e1%83%96%e1%83%90%e1%83%95%e1%83%a0%e1%83%97%e1%83%90-%e1%83%a0%e1%83%90%e1%83%9d%e1%83%93/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "Batumi airport named after Alexander Kartveli",
+      "url": "http://gov.ge/index.php?lang_id=GEO&sec_id=406&info_id=51191",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20180115184605/http://gov.ge/index.php?lang_id=GEO&sec_id=406&info_id=51191",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-:0_3-0",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-auto_4-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-auto_4-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Batumi Airport\"",
+      "url": "https://web.archive.org/web/20201205075157/http://www.batumiairport.com/en-EN/Airlines/Documents/Georgia%20Airport%20Profile.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.batumiairport.com/en-EN/Airlines/Documents/Georgia%20Airport%20Profile.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Катастрофа Ил-18: никто не выжил\"",
+      "url": "https://www.ng.ru/events/2000-10-27/2_il-18.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Accident Ilyushin Il-18D RA-74295, Wednesday 25 October 2000\"",
+      "url": "https://asn.flightsafety.org/asndb/323403",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-uzkz_7-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-uzkz_7-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways makes inaugural direct Tashkent-Batumi flight\"",
+      "url": "https://agenda.ge/en/news/2022/1861",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Air_Samarkand_TBS_BUS_Charters_8-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Samarkand expands route network with new flights in May–June 2025\"",
+      "url": "https://www.uzdaily.uz/en/air-samarkand-expands-route-network-with-new-flights-in-may-june-2025/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"AirBaltic annuncia voli per Batumi\"",
+      "url": "https://italiavola.com/2022/02/16/airbaltic-annuncia-voli-per-batumi/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Buta_Cease_11-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Buta Airways August – October 2023 Network – 30JUL23\"",
+      "url": "https://www.aeroroutes.com/eng/230801-j2aug23e90",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Azimuth Adds Mineralnye Vody – Batumi Route in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250314-a4ns25bus",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-A4_TBS_BUS_13-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Azimuth Adds Moscow – Georgia Routes in NW23\"",
+      "url": "https://www.aeroroutes.com/eng/231004-a4nw24mow",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"«Азимут» начнет летать между Сочи и Батуми\"",
+      "url": "https://www.kommersant.ru/doc/7941510",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-FlyArystan_BUS_NS26_15-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-FlyArystan_BUS_NS26_15-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-FlyArystan_BUS_NS26_15-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-FlyArystan_BUS_NS26_15-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Kazakhstan's low-cost carrier to begin direct Astana-Batumi flights | Caliber.Az\"",
+      "url": "https://caliber.az/en/post/kazakhstan-s-low-cost-carrier-to-begin-direct-astana-batumi-flights",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"FlyArystan Launches Direct Flights from Aktau to Batumi for the Summer 2026 Season\"",
+      "url": "https://www.go.flyarystan.com/tpost/zv21ca0091-flyarystan-launches-direct-flights-from",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"flydubai resumes Batumi service in S20\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/288676/flydubai-resumes-batumi-service-in-s20/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Fly Khiva Schedules International Passenger Flights in late-May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250512-2umay25",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"flynas S20 Network Expansion\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/289864/flynas-s20-network-expansion/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgian Airways запускает рейсы Батуми–Москва с 25 июня\"",
+      "url": "https://www.bizzone.info/transportation/2026/1781704118.php",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgian Airways to launch regular Tbilisi–Batumi flights from June 25\"",
+      "url": "https://georgiatoday.ge/georgian-airways-to-launch-regular-tbilisi-batumi-flights-from-june-25/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-tallvil_22-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Getjet and Smartlynx to Resume Flights to Georgia\"",
+      "url": "https://georgianjournal.ge/discover-georgia/37266-getjet-and-smartlynx-to-resume-flights-to-georgia.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Iran_Baned_23-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Iran_Baned_23-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Iraq to suspend US-sanctioned Iranian airlines, government sources say\"",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/09/21/iraq-to-suspend-ussanctioned-iranian-airlines-government-sources-say",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"Israir NS24 Leased Smartwings Boeing 737 Operations\"",
+      "url": "https://www.aeroroutes.com/eng/240321-6hns24qs",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-Jazeera_NS25_25-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Jazeera Airways NS25 Europe Service Increases\"",
+      "url": "https://www.aeroroutes.com/eng/250227-j9ns25eu",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-JA_Dests_26-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Destinations\"",
+      "url": "https://www.jordanaviation.jo/Destinations",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Pegasus adds Istanbul – Batumi service from late-March 2020\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/288319/pegasus-adds-istanbul-batumi-service-from-late-march-2020/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-7",
+      "lang": ""
+    },
+    {
+      "text": "9",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-8",
+      "lang": ""
+    },
+    {
+      "text": "10",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-9",
+      "lang": ""
+    },
+    {
+      "text": "11",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-WZ_BUS_NS26_28-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Red Wings expands Georgia routes, opens flights from 15 Russian cities\"",
+      "url": "https://news.az/news/red-wings-expands-georgia-routes-opens-flights-from-15-russian-cities",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-KRR_Schedule_29-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Seasonal schedule\"",
+      "url": "https://web.archive.org/web/20211022133633/https://krr.aero/en/flights/seasonal-schedule/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://krr.aero/en/flights/seasonal-schedule/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"Russian airlines to launch direct Novosibirsk–Batumi flights | Caliber.Az\"",
+      "url": "https://caliber.az/en/post/russian-airlines-to-launch-direct-novosibirsk-batumi-flights",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights between Russia's Perm, Georgia's Batumi resume after years | Caliber.Az\"",
+      "url": "https://caliber.az/en/post/direct-flights-between-russia-s-perm-and-georgia-s-batumi-resume",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"Red Wings Adds St. Petersburg – Batumi From June 2024\"",
+      "url": "https://www.aeroroutes.com/eng/240501-wzjun24bus",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights to Batumi open from Ufa\"",
+      "url": "https://eng.bashinform.ru/news/social/2024-06-11/direct-flights-to-batumi-open-from-ufa-3807053",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "\"SCAT Airlines to launch Astana-Batumi service from Jun-2024\"",
+      "url": "https://centreforaviation.com/news/scat-airlines-to-launch-astana-batumi-service-from-jun-2024-1247980",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-35",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines NS24 European Service Expansion – 14JAN24\"",
+      "url": "https://www.aeroroutes.com/eng/240118-tkns24eu",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-36",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Schedules New International Routes in May 2022\"",
+      "url": "https://www.aeroroutes.com/eng/220425-hymay22",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "\"Flights to Mestia, Ambrolauri, and Batumi - Schedule and Prices\"",
+      "url": "https://mountainstories.ge/travel/item/1316-flights-to-mestia,-ambrolauri,-and-batumi-schedule-and-prices",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-38",
+      "lang": ""
+    },
+    {
+      "text": "\"Frequency on domestic flights increases in Georgia\"",
+      "url": "https://agenda.ge/en/news/2021/2027",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "\"According to total data for 2022, the number of flights recovered to the level of 88% from pre-Covid levels, whereas passenger count - to the level of 85% (in Georgian)\"",
+      "url": "https://gcaa.ge/2022-%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%AF%E1%83%90%E1%83%9B%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%AA%E1%83%94%E1%83%9B%E1%83%94%E1%83%91%E1%83%98%E1%83%97-%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98-%E1%83%A4%E1%83%A0%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%98-88-%E1%83%98%E1%83%97-%E1%83%AE%E1%83%9D%E1%83%9A%E1%83%9D-%E1%83%9B%E1%83%92%E1%83%96%E1%83%90%E1%83%95%E1%83%A0%E1%83%97%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%98-85-%E1%83%98%E1%83%97-%E1%83%90%E1%83%A6%E1%83%93%E1%83%92%E1%83%90",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport#cite_ref-issuu.com_winter_40-0",
+      "lang": ""
+    },
+    {
+      "text": "\"International passenger flights from Batumi Airport\"",
+      "url": "https://web.archive.org/web/20201027114921/http://gcaa.ge/eng/batumiout.php",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://gcaa.ge/eng/batumiout.php",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "http://www.batumiairport.com/en-EN/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q1200570#P856",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UGSB\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UGSB.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for BUS",
+      "url": "https://web.archive.org/web/20100621123223/http://aviation-safety.net/database/airport/airport.php?id=BUS",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Portal:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgian_Railways_logo_(2016-present).svg",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Railway",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazian railway",
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_railway",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Baku–Tbilisi–Kars railway",
+      "url": "https://en.wikipedia.org/wiki/Baku–Tbilisi–Kars_railway",
+      "lang": ""
+    },
+    {
+      "text": "Transcaucasus Railway",
+      "url": "https://en.wikipedia.org/wiki/Transcaucasus_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan Autonomous Republic",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Kars–Gyumri–Tbilisi railway",
+      "url": "https://en.wikipedia.org/wiki/Kars–Gyumri–Tbilisi_railway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Metro",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi Metro",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Metro",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Akhmeteli–Varketili_Line",
+      "lang": ""
+    },
+    {
+      "text": "Akhmeteli–Varketili Line",
+      "url": "https://en.wikipedia.org/wiki/Akhmeteli–Varketili_Line",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Saburtalo_Line",
+      "lang": ""
+    },
+    {
+      "text": "Saburtalo Line",
+      "url": "https://en.wikipedia.org/wiki/Saburtalo_Line",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Railways Class VMK EMU",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Railways_Class_VMK_EMU",
+      "lang": ""
+    },
+    {
+      "text": "Chiatura Ropeway",
+      "url": "https://en.wikipedia.org/wiki/Chiatura#Cablecars",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_railtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi railway station",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "Batumi railway station",
+      "url": "https://en.wikipedia.org/wiki/Batumi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:20_airtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_watertransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_Seaport",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Sea_Port",
+      "lang": ""
+    },
+    {
+      "text": "Kulevi",
+      "url": "https://en.wikipedia.org/wiki/Kulevi_oil_terminal",
+      "lang": ""
+    },
+    {
+      "text": "Supsa",
+      "url": "https://en.wikipedia.org/wiki/Supsa",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "North Caucasian Federal District (Russia)",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Russian_Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Template:Armenia_transit",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&oldid=1381205010",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&oldid=1381205010",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Adjara",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Adjara",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from May 2014",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_May_2014",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Chart extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Chart_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Batumi_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-ge-01.txt"
+}

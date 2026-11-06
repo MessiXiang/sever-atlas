@@ -1,0 +1,5034 @@
+{
+  "id": "ap-kg-01",
+  "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:25.225389+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+  "bytes": 365277,
+  "sha256": "932daecbe003bf52ee21cf8ba48d70fdea6bfba7c27d3856dec7e85c5f7bdd69",
+  "file": "sources/neighbours-2026-11-06/ap-kg-01.html",
+  "title": "Manas International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Manas+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Manas+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Manas+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Manas+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Redevelopment",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Redevelopment",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Cargo",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Cargo",
+      "lang": ""
+    },
+    {
+      "text": "4 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "4.1 Annual traffic",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Annual_traffic",
+      "lang": ""
+    },
+    {
+      "text": "5 Accidents and incidents",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#Accidents_and_incidents",
+      "lang": ""
+    },
+    {
+      "text": "6 See also",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "7 References",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "8 External links",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%85%D9%86%D8%A7%D8%B3_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Башҡортса",
+      "url": "https://ba.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ba"
+    },
+    {
+      "text": "Български",
+      "url": "https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%B8%D1%89%D0%B5_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81",
+      "lang": "bg"
+    },
+    {
+      "text": "Català",
+      "url": "https://ca.wikipedia.org/wiki/Aeroport_Internacional_de_Manas",
+      "lang": "ca"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Bishkek/Manas_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Dansk",
+      "url": "https://da.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": "da"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Manas",
+      "lang": "de"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Internacia_Flughaveno_Manas",
+      "lang": "eo"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Manas",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Manasi_rahvusvaheline_lennujaam",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D9%85%D9%86%D8%A7%D8%B3",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Manasin_kansainv%C3%A4linen_lentoasema",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Manas",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%91%D7%99%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%9E%D7%90%D7%A0%D7%90%D7%A1",
+      "lang": "he"
+    },
+    {
+      "text": "हिन्दी",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8_%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+      "lang": "hi"
+    },
+    {
+      "text": "Hrvatski",
+      "url": "https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Manas",
+      "lang": "hr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Manasz_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Manas",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Bi%C5%A1kek-Manas",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8A%E3%82%B9%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%82%98%EC%8A%A4_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_%D1%8D%D0%BB_%D0%B0%D1%80%D0%B0%D0%BB%D1%8B%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%83",
+      "lang": "ky"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_%D0%BE%D0%BB%D0%BE%D0%BD_%D1%83%D0%BB%D1%81%D1%8B%D0%BD_%D0%BD%D0%B8%D1%81%D1%8D%D1%85_%D0%B1%D1%83%D1%83%D0%B4%D0%B0%D0%BB",
+      "lang": "mn"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Antarabangsa_Manas",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Internationale_Luchthaven_Manas",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Biszkek",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Manas",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Manas",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Саха тыла",
+      "url": "https://sah.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82",
+      "lang": "sah"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Manas_internationella_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Manas_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D8%B3_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Manas_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Manas",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8E%9B%E7%BA%B3%E6%96%AF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q32997#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&oldid=1383792357",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Manas_International_Airport&id=1383792357&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Manas_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q32997",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "43°03′40″N 74°28′35″E ﻿ / ﻿ 43.06111°N 74.47639°E ﻿ / 43.06111; 74.47639",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Manas_International_Airport&params=43_03_40_N_74_28_35_E_scale:25000_region:KG-GB_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Kyrgyz",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Manas_International_Airport_logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Bishkek_-_Manas_(FRU_-_UAFM)_AN1593528.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-Bishkek_FRU_to_BSZ-1",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Sokuluk District",
+      "url": "https://en.wikipedia.org/wiki/Sokuluk_District",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Aero Nomad Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aero_Nomad_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Avia Traffic Company",
+      "url": "https://en.wikipedia.org/wiki/Avia_Traffic_Company",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "43°03′40″N 74°28′35″E ﻿ / ﻿ 43.06111°N 74.47639°E ﻿ / 43.06111; 74.47639",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Manas_International_Airport&params=43_03_40_N_74_28_35_E_scale:25000_region:KG-GB_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "airport.kg",
+      "url": "http://www.airport.kg/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kyrgyzstan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-AIP-2",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Kyrgyz",
+      "lang": ""
+    },
+    {
+      "text": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Russian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Russian",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-Bishkek_FRU_to_BSZ-1",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Frunzensky Airport",
+      "url": "https://en.wikipedia.org/wiki/Frunzensky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas",
+      "url": "https://en.wikipedia.org/wiki/Epic_of_Manas",
+      "lang": ""
+    },
+    {
+      "text": "Chinghiz Aitmatov",
+      "url": "https://en.wikipedia.org/wiki/Chinghiz_Aitmatov",
+      "lang": ""
+    },
+    {
+      "text": "Premier",
+      "url": "https://en.wikipedia.org/wiki/Premier_of_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Alexei Kosygin",
+      "url": "https://en.wikipedia.org/wiki/Alexei_Kosygin",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "aircraft boneyard",
+      "url": "https://en.wikipedia.org/wiki/Aircraft_boneyard",
+      "lang": ""
+    },
+    {
+      "text": "airport ramp",
+      "url": "https://en.wikipedia.org/wiki/Airport_ramp",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "11 September terrorist attacks",
+      "url": "https://en.wikipedia.org/wiki/September_11,_2001_attacks",
+      "lang": ""
+    },
+    {
+      "text": "United States invasion of Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "United States Department of Defense",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Marsden Matting",
+      "url": "https://en.wikipedia.org/wiki/Marsden_Matting",
+      "lang": ""
+    },
+    {
+      "text": "tent city",
+      "url": "https://en.wikipedia.org/wiki/Tent_city",
+      "lang": ""
+    },
+    {
+      "text": "New York Fire Department",
+      "url": "https://en.wikipedia.org/wiki/New_York_City_Fire_Department",
+      "lang": ""
+    },
+    {
+      "text": "Peter J. Ganci, Jr.",
+      "url": "https://en.wikipedia.org/wiki/Peter_J._Ganci,_Jr.",
+      "lang": ""
+    },
+    {
+      "text": "11 September terrorist attacks",
+      "url": "https://en.wikipedia.org/wiki/September_11,_2001_attacks",
+      "lang": ""
+    },
+    {
+      "text": "Manas Air Base",
+      "url": "https://en.wikipedia.org/wiki/Manas_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Transit Center at Manas",
+      "url": "https://en.wikipedia.org/wiki/Transit_Center_at_Manas",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "KC-135",
+      "url": "https://en.wikipedia.org/wiki/KC-135_Stratotanker",
+      "lang": ""
+    },
+    {
+      "text": "C-17",
+      "url": "https://en.wikipedia.org/wiki/C-17_Globemaster_III",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Manas_International_Airport_By_Darafsh_11.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Manas_International_Airport_By_Darafsh_04.jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-Bishkek_FRU_to_BSZ-1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "China Road and Bridge Corporation",
+      "url": "https://en.wikipedia.org/wiki/China_Road_and_Bridge_Corporation",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "ILS",
+      "url": "https://en.wikipedia.org/wiki/Instrument_Landing_System",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO",
+      "lang": ""
+    },
+    {
+      "text": "CAT II",
+      "url": "https://en.wikipedia.org/wiki/Instrument_Landing_System#ILS_categories",
+      "lang": ""
+    },
+    {
+      "text": "ceilings",
+      "url": "https://en.wikipedia.org/wiki/Ceiling_(cloud)",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Aero Nomad Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aero_Nomad_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-Aero_Nomad_Schedule-12",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Islamabad",
+      "url": "https://en.wikipedia.org/wiki/Islamabad_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lahore",
+      "url": "https://en.wikipedia.org/wiki/Allama_Iqbal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Surgut",
+      "url": "https://en.wikipedia.org/wiki/Farman_Salmanov_Surgut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Tianshan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "Nha Trang",
+      "url": "https://en.wikipedia.org/wiki/Cam_Ranh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Phu Quoc",
+      "url": "https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air Arabia",
+      "url": "https://en.wikipedia.org/wiki/Air_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Sharjah",
+      "url": "https://en.wikipedia.org/wiki/Sharjah_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Air Astana",
+      "url": "https://en.wikipedia.org/wiki/Air_Astana",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air China",
+      "url": "https://en.wikipedia.org/wiki/Air_China",
+      "lang": ""
+    },
+    {
+      "text": "Beijing-Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "AJet",
+      "url": "https://en.wikipedia.org/wiki/AJet",
+      "lang": ""
+    },
+    {
+      "text": "Ankara",
+      "url": "https://en.wikipedia.org/wiki/Ankara_Esenboğa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-aeroroutes_240313-vfns24-22",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Avia Traffic Company",
+      "url": "https://en.wikipedia.org/wiki/Avia_Traffic_Company",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grozny",
+      "url": "https://en.wikipedia.org/wiki/Grozny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk–Yemelyanovo",
+      "url": "https://en.wikipedia.org/wiki/Yemelyanovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Centrum Air",
+      "url": "https://en.wikipedia.org/wiki/Centrum_Air",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-C6-28",
+      "lang": ""
+    },
+    {
+      "text": "China Southern Airlines",
+      "url": "https://en.wikipedia.org/wiki/China_Southern_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Daxing",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "Guangzhou",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Diwopu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Flydubai",
+      "url": "https://en.wikipedia.org/wiki/Flydubai",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "Flynas",
+      "url": "https://en.wikipedia.org/wiki/Flynas",
+      "lang": ""
+    },
+    {
+      "text": "Jeddah",
+      "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-flynaskg-33",
+      "lang": ""
+    },
+    {
+      "text": "Jazeera Airways",
+      "url": "https://en.wikipedia.org/wiki/Jazeera_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait City",
+      "url": "https://en.wikipedia.org/wiki/Kuwait_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "Loong Air",
+      "url": "https://en.wikipedia.org/wiki/Loong_Air",
+      "lang": ""
+    },
+    {
+      "text": "Chengdu–Tianfu",
+      "url": "https://en.wikipedia.org/wiki/Chengdu_Tianfu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-35",
+      "lang": ""
+    },
+    {
+      "text": "Xi'an",
+      "url": "https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-36",
+      "lang": ""
+    },
+    {
+      "text": "Nordwind Airlines",
+      "url": "https://en.wikipedia.org/wiki/Nordwind_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Antalya",
+      "url": "https://en.wikipedia.org/wiki/Antalya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Red Sea Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Sea_Airlines_(charter_airline)",
+      "lang": ""
+    },
+    {
+      "text": "Sharm El Sheikh",
+      "url": "https://en.wikipedia.org/wiki/Sharm_El_Sheikh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-4snw25bszevn-37",
+      "lang": ""
+    },
+    {
+      "text": "Red Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Makhachkala",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rossiya Airlines",
+      "url": "https://en.wikipedia.org/wiki/Rossiya_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk–Yemelyanovo",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Şymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-SCAT_CIT_26-38",
+      "lang": ""
+    },
+    {
+      "text": "Sky FRU",
+      "url": "https://en.wikipedia.org/wiki/Sky_FRU",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-40",
+      "lang": ""
+    },
+    {
+      "text": "Somon Air",
+      "url": "https://en.wikipedia.org/wiki/Somon_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "Trinity Airways",
+      "url": "https://en.wikipedia.org/wiki/Trinity_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-42",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-43",
+      "lang": ""
+    },
+    {
+      "text": "Ural Airlines",
+      "url": "https://en.wikipedia.org/wiki/Ural_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Utair",
+      "url": "https://en.wikipedia.org/wiki/Utair",
+      "lang": ""
+    },
+    {
+      "text": "Surgut",
+      "url": "https://en.wikipedia.org/wiki/Farman_Salmanov_Surgut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-UT_CA_NS26-44",
+      "lang": ""
+    },
+    {
+      "text": "Tyumen",
+      "url": "https://en.wikipedia.org/wiki/Roschino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-45",
+      "lang": ""
+    },
+    {
+      "text": "Qanot Sharq",
+      "url": "https://en.wikipedia.org/wiki/Qanot_Sharq",
+      "lang": ""
+    },
+    {
+      "text": "Phuket",
+      "url": "https://en.wikipedia.org/wiki/Phuket_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-46",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-47",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vietjet Qazaqstan",
+      "url": "https://en.wikipedia.org/wiki/Vietjet_Qazaqstan",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-48",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+      "lang": ""
+    },
+    {
+      "text": "more citations",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability",
+      "lang": ""
+    },
+    {
+      "text": "improve this article",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "adding citations to reliable sources",
+      "url": "https://en.wikipedia.org/wiki/Help:Referencing_for_beginners",
+      "lang": ""
+    },
+    {
+      "text": "removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence",
+      "lang": ""
+    },
+    {
+      "text": "\"Manas International Airport\"",
+      "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Manas+International+Airport%22",
+      "lang": ""
+    },
+    {
+      "text": "news",
+      "url": "https://www.google.com/search?tbm=nws&q=%22Manas+International+Airport%22+-wikipedia&tbs=ar:1",
+      "lang": ""
+    },
+    {
+      "text": "newspapers",
+      "url": "https://www.google.com/search?&q=%22Manas+International+Airport%22&tbs=bkt:s&tbm=bks",
+      "lang": ""
+    },
+    {
+      "text": "books",
+      "url": "https://www.google.com/search?tbs=bks:1&q=%22Manas+International+Airport%22+-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "scholar",
+      "url": "https://scholar.google.com/scholar?q=%22Manas+International+Airport%22",
+      "lang": ""
+    },
+    {
+      "text": "JSTOR",
+      "url": "https://www.jstor.org/action/doBasicSearch?Query=%22Manas+International+Airport%22&acc=on&wc=on",
+      "lang": ""
+    },
+    {
+      "text": "Learn how and when to remove this message",
+      "url": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+      "lang": ""
+    },
+    {
+      "text": "My Freighter",
+      "url": "https://en.wikipedia.org/wiki/My_Freighter",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-C6_Cargo_NS25-49",
+      "lang": ""
+    },
+    {
+      "text": "RUS Aviation",
+      "url": "https://en.wikipedia.org/wiki/RUS_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-50",
+      "lang": ""
+    },
+    {
+      "text": "Sharjah",
+      "url": "https://en.wikipedia.org/wiki/Sharjah_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Silk Way Airlines",
+      "url": "https://en.wikipedia.org/wiki/Silk_Way_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Diwopu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Cargo",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Cargo",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok–Suvarnabhumi",
+      "url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guangzhou",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Islamabad",
+      "url": "https://en.wikipedia.org/wiki/Islamabad_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shanghai–Pudong",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways Cargo",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "YTO Cargo Airlines",
+      "url": "https://en.wikipedia.org/wiki/YTO_Cargo_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-52",
+      "lang": ""
+    },
+    {
+      "text": "Shijiazhuang",
+      "url": "https://en.wikipedia.org/wiki/Shijiazhuang_Zhengding_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin IL-62",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_IL-62",
+      "lang": ""
+    },
+    {
+      "text": "111th Fighter Wing",
+      "url": "https://en.wikipedia.org/wiki/111th_Fighter_Wing",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "US Air Force",
+      "url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "South Korean army",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Korea_Army",
+      "lang": ""
+    },
+    {
+      "text": "Manas Air Base",
+      "url": "https://en.wikipedia.org/wiki/Manas_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-55",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-154",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "KC-135",
+      "url": "https://en.wikipedia.org/wiki/KC-135_Stratotanker",
+      "lang": ""
+    },
+    {
+      "text": "jet fuel",
+      "url": "https://en.wikipedia.org/wiki/Jet_fuel",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "Iran Aseman Airlines Flight 6895",
+      "url": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_6895",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737",
+      "lang": ""
+    },
+    {
+      "text": "Itek Air",
+      "url": "https://en.wikipedia.org/wiki/Itek_Air",
+      "lang": ""
+    },
+    {
+      "text": "Tehran",
+      "url": "https://en.wikipedia.org/wiki/Tehran",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-57",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-134",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-134",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-58",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines Flight 6491",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 747-400F",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747-400F",
+      "lang": ""
+    },
+    {
+      "text": "ACT Airlines",
+      "url": "https://en.wikipedia.org/wiki/ACT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "wet lease",
+      "url": "https://en.wikipedia.org/wiki/Wet_lease",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Cargo",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-BTA_-_17-01-17-59",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-Bishkek_FRU_to_BSZ_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-Bishkek_FRU_to_BSZ_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-Bishkek_FRU_to_BSZ_1-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Manas Airport officially changes IATA code from FRU to BSZ -\"",
+      "url": "https://24.kg/english/339187_Manas_Airport_officially_changes_IATA_code_from_FRU_to_BSZ/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-AIP_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Aip, Aic\"",
+      "url": "https://web.archive.org/web/20140222185153/http://www.kanservice.com/index.php/aip-aic",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.kanservice.com/index.php/aip-aic",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэропорт «Манас»: от целинного поля до современной бетонки\"",
+      "url": "https://24.kg/obschestvo/276851_aeroport_laquomanasraquo_otnbsptselinnogo_polya_donbspsovremennoy_betonki/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "Manas airport in Bishkek is completely modernised",
+      "url": "http://www.avia.ru/news/?id=1186729698",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "В аэропорту \"Манас\" будет проведена реконструкция. Эскиз",
+      "url": "https://kaktus.media/doc/519238_v_aeroporty_manas_bydet_provedena_rekonstrykciia._eskiz.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "В международном аэропорту «Манас» начнется масштабная реконструкция",
+      "url": "https://24.kg/ekonomika/322008_vmejdunarodnom_aeroportu_manas_nachnetsya_masshtabnaya_rekonstruktsiya/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "Реконструкцию взлетно-посадочной полосы и перрона проведут в аэропорту «Манас»",
+      "url": "https://24.kg/obschestvo/322470_rekonstruktsiyu_vzletno-posadochnoy_polosyi_iperrona_provedut_vaeroportu_manas_/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"В аэропорту \"Манас\" открыли новый терминал. Изменена схема входа и выхода из аэровокзала\"",
+      "url": "https://kaktus.media/doc/546021_v_aeroporty_manas_otkryli_novyy_terminal._izmenena_shema_vhoda_i_vyhoda_iz_aerovokzala.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "Главный вход аэропорта «Манас» открыли после масштабной реконструкции",
+      "url": "https://24.kg/obschestvo/381457_glavnyiy_vhod_aeroporta_manas_otkryili_posle_masshtabnoy_rekonstruktsii/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan airlines head office changes its address",
+      "url": "https://web.archive.org/web/20021003155228/http://www.kyrgyzstanairlines.kg/020102_new_address.html",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "Flight International",
+      "url": "https://en.wikipedia.org/wiki/Flight_International",
+      "lang": ""
+    },
+    {
+      "text": "114",
+      "url": "http://www.flightglobal.com/pdfarchive/view/2000/2000%20-%201118.html?search=%22Kyrgyzstan%20Airlines%22",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-Aero_Nomad_Schedule_12-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight schedule\"",
+      "url": "https://web.archive.org/web/20230522144323/https://www.aeronomad.kg/index.php/en/2022-08-13-15-06-28/raspisanie-rejsov",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.aeronomad.kg/index.php/en/2022-08-13-15-06-28/raspisanie-rejsov",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan, Kyrgyzstan to launch twice-weekly Bishkek–Tashkent flights\"",
+      "url": "https://daryo.uz/en/2026/07/17/uzbekistan-and-kyrgyzstan-launch-twice-weekly-bishkektashkent-flights-from-august-23/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Aero Nomad Airlines launches new international route Bishkek-Surgut-Bishkek ✈️\"",
+      "url": "https://www.aeronomad.kg/en/aboutus/news/40-aero-nomad-airlines-launches-new-international-route-bishkek",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Domestic airline to begin operating flights from Bishkek to Urumqi -\"",
+      "url": "https://24.kg/english/378164_Domestic_airline_to_begin_operating_flights_from_Bishkek_to_Urumqi/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"New flight from Bishkek to Nha Trang opened\"",
+      "url": "https://en.kabar.kg/news/new-flight-from-bishkek-to-nha-trang-opened/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"Regular flights from Bishkek to Phu Quoc Island will be launched » News of Kyrgyzstan, Bishkek and Osh — latest events today\"",
+      "url": "https://open.kg/en/news/local-news/125082-iz-bishkeka-zapustjat-reguljarnye-rejsy-na-ostrov-fukuok.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Arabia\"",
+      "url": "https://www.airarabia.com/en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Air China to launch Bishkek–Beijing route, increasing number of flights to China -\"",
+      "url": "https://24.kg/english/366371/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"✅ ✈️️ Fly with Most Affordable and Cheap Ticket Opportunities | AnadoluJet\"",
+      "url": "https://www.anadolujet.com/en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-aeroroutes_240313-vfns24_22-0",
+      "lang": ""
+    },
+    {
+      "text": "\"AJet NS24 New Flight Number Designations – 12MAR24\"",
+      "url": "https://www.aeroroutes.com/eng/240313-vfns24",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"AJet Adds Istanbul – Bishkek Service in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250131-vfns25fru",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"Kyrgyzstan's Asman Airlines to serve all domestic airports by 2025\"",
+      "url": "https://daryo.uz/en/2024/12/14/kyrgyzstans-asman-airlines-to-serve-all-domestic-airports-by-2025",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "Авиакомпания «Asman Airlines» повышает цены на внутренние рейсы",
+      "url": "https://economist.kg/transport/2026/07/30/aviakompaniia-asman-airlines-povyshaet-tseny-na-vnutrennie-reisy/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "С 1 марта в Кыргызстане запускается рейс Бишкек — Кербен",
+      "url": "https://weproject.media/articles/detail/s-1-marta-v-kyrgyzstane-zapuskaetsya-reys-bishkek-kerben/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Airlines Begins Bishkek Service From late-July 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230727-j2jul23fru",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-C6_28-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air June 2025 Regional Network Expansion\"",
+      "url": "https://www.aeroroutes.com/eng/250610-c6jun25",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Kyrgyzstan's international airport welcomes first flight from Beijing\"",
+      "url": "https://en.trend.az/casia/kyrgyzstan/3853858.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"China Southern Airlines to launch direct Bishkek — Guangzhou flights\"",
+      "url": "https://24.kg/english/361679_China_Southern_Airlines_to_launch_direct_Bishkek__Guangzhou_flights/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"China Southern / Xiamen Airlines NW22 International Operations - 30OCT22\"",
+      "url": "https://www.aeroroutes.com/eng/221031-czmfnw22intl",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-flynaskg_33-0",
+      "lang": ""
+    },
+    {
+      "text": "\"flynas Adds Jeddah – Kyrgyzstan Routes in 3Q23\"",
+      "url": "https://www.aeroroutes.com/eng/230627-xy3q23kg",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "\"StackPath\"",
+      "url": "https://www.aviationpros.com/airlines/press-release/21228754/jazeera-airways-jazeera-airways-announces-flight-schedule-to-antalya-and-kyiv",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-35",
+      "lang": ""
+    },
+    {
+      "text": "\"Loong Air Adds Chengdu – Bishkek From Dec 2023\"",
+      "url": "https://www.aeroroutes.com/eng/231115-gjdec23xiyfru",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-36",
+      "lang": ""
+    },
+    {
+      "text": "\"3月26日起，长龙航空2023夏航季换季航线全新上线\"",
+      "url": "https://mp.weixin.qq.com/s/YqmhhKZUFHWAkW4aJ43OEQ",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-4snw25bszevn_37-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Red Sea Airlines NW25 Bishkek / Yerevan Scheduled Charters\"",
+      "url": "https://www.aeroroutes.com/eng/251021-4snw25bszevn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-SCAT_CIT_26_38-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Из городов Казахстана запустят новые рейсы в Японию, Иорданию и Польшу\"",
+      "url": "https://forbes.kz/articles/iz-gorodov-kazahstana-zapustyat-novye-reysy-v-yaponiyu-iordaniyu-i-polshu-54f08e",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.interfax.ru/world/1107668",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-40",
+      "lang": ""
+    },
+    {
+      "text": "Киргизская авиакомпания Sky Fru запускает рейсы из Домодедово в Бишкек",
+      "url": "https://www.interfax-russia.ru/tourism/news/kirgizskaya-aviakompaniya-sky-fru-zapuskaet-reysy-iz-domodedovo-v-bishkek",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "Бишкек и Душанбе возобновили авиасообщение: в «Манасе» приземлился самолет Somon Air",
+      "url": "https://economist.kg/transport/2025/03/14/bishkiek-i-dushanbie-vozobnovili-aviasoobshchieniie-v-manasie-priziemlilsia-samoliet-somon-air/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-42",
+      "lang": ""
+    },
+    {
+      "text": "\"T'way to begin regular flights to Kyrgyzstan\"",
+      "url": "https://www.koreajoongangdaily.com/business/tway-to-begin-regular-flights-to-kyrgyzstan/11754614",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-43",
+      "lang": ""
+    },
+    {
+      "text": "\"Istanbul New Airport Transition Delayed Until April 5, 2019 (At The Earliest)\"",
+      "url": "https://onemileatatime.com/istanbul-airport-transition-delay/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-UT_CA_NS26_44-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Из Сургута запустили дополнительные рейсы в Центральную Азию\"",
+      "url": "https://muksun.fm/news/2026-07-09/iz-surguta-zapustili-dopolnitelnye-reysy-v-tsentralnuyu-aziyu-563437",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-45",
+      "lang": ""
+    },
+    {
+      "text": "\"Utair запустит рейсы в Бишкек из Тюмени 22 сентября 2026\"",
+      "url": "https://www.utair.ru/about/news/utair-zapustit-reysy-v-bishkek-iz-tyumeni/",
+      "lang": ""
+    },
+    {
+      "text": "Utair",
+      "url": "https://en.wikipedia.org/wiki/Utair",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-46",
+      "lang": ""
+    },
+    {
+      "text": "Авиакомпания Qanot Sharq запустит прямые рейсы из Бишкека на Пхукет",
+      "url": "https://24.kg/obschestvo/390578_aviakompaniya_Qanot_Sharq_zapustit_pryamyie_reysyi_izbishkeka_naphuket/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-47",
+      "lang": ""
+    },
+    {
+      "text": "\"Qanot Sharq to launch regular Tashkent–Bishkek flights from 17 November\"",
+      "url": "https://www.flycentralasia.com/news/en/qanot-sharq-new-bishkek-service-weekly-tuesday-flights/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-48",
+      "lang": ""
+    },
+    {
+      "text": "\"Qazaq Air Nov 2025 Regional Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/251016-iqnw25nqz",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-C6_Cargo_NS25_49-0",
+      "lang": ""
+    },
+    {
+      "text": "\"My Freighter to launch flights from Shanghai to Schiphol\"",
+      "url": "https://www.aircargonews.net/supply-chains/my-freighter-to-launch-flights-from-shanghai-to-schiphol/1080441.article",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-50",
+      "lang": ""
+    },
+    {
+      "text": "rusaviation.com - Route map & Schedules",
+      "url": "https://rusaviation.com/route-map-schedules/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines Cargo Winter Schedule\"",
+      "url": "https://web.archive.org/web/20130604104217/http://wwwdownload.thy.com/kargo/pdf/winter2012_2013.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://wwwdownload.thy.com/kargo/pdf/winter2012_2013.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-52",
+      "lang": ""
+    },
+    {
+      "text": "\"YTO Express adds Kyrgyzstan freighter flights\"",
+      "url": "https://web.archive.org/web/20221122212145/https://www.aircargonews.net/airlines/freighter-operator/yto-express-adds-kyrgyzstan-freighter-flights/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.aircargonews.net/airlines/freighter-operator/yto-express-adds-kyrgyzstan-freighter-flights/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"press-centre\"",
+      "url": "http://www.airport.kg/press-center/news/247",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "111th SFS from the Pennsylvania Air National Guard",
+      "url": "https://web.archive.org/web/20170124194753/http://www.111attackwing.ang.af.mil/shared/media/document/AFD-110422-028.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-55",
+      "lang": ""
+    },
+    {
+      "text": "\"Accident Database: Accident Synopsis 10232002\"",
+      "url": "https://web.archive.org/web/20070930035204/http://www.airdisaster.com/cgi-bin/view_details.cgi?date=10232002&reg=RA-86452&airline=Tretyakovo+Air+Transport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "Flight International",
+      "url": "https://en.wikipedia.org/wiki/Flight_International",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-57",
+      "lang": ""
+    },
+    {
+      "text": "68 die, 22 survive airliner crash in Kyrgyzstan",
+      "url": "https://news.yahoo.com/s/ap/20080824/ap_on_re_as/kyrgyzstan_plane;_ylt=AgFWKKAiPJ.cxYWqgC4KJZas0NUE",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-58",
+      "lang": ""
+    },
+    {
+      "text": "\"All passengers survive after plane flips over in crash-landing\"",
+      "url": "http://uk.news.yahoo.com/every-passenger-survives-after-plane-flips-in-crash-landing.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-BTA_-_17-01-17_59-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belarus' First Deputy Foreign Minister signs Book of Condolences at Kyrgyzstan's embassy\"",
+      "url": "http://eng.belta.by/society/view/belarus-first-deputy-foreign-minister-signs-book-of-condolences-at-kyrgyzstans-embassy-98008-2017/",
+      "lang": ""
+    },
+    {
+      "text": "Belarusian Telegraph Agency",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_Telegraph_Agency",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"Crash: MyCargo B744 at Bishkek on Jan 16th 2017, impacted terrain on go around\"",
+      "url": "http://avherald.com/h?article=4a38d07d&opt=0",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"ASN Aircraft accident Boeing 747-412F TC-MCL Bishkek-Manas International Airport (FRU)\"",
+      "url": "https://aviation-safety.net/database/record.php?id=20170116-0",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Manas%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport Official Website",
+      "url": "http://www.airport.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "http://www.globalsecurity.org/military/facility/manas.htm",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for FRU",
+      "url": "https://web.archive.org/web/20080830042452/http://aviation-safety.net/database/airport/airport.php?id=FRU",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UAFM\"",
+      "url": "http://www.gcmap.com/airport/UAFM",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UAFM\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UAFM.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_(orthographic_projection).svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kant",
+      "url": "https://en.wikipedia.org/wiki/Kant_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Belaya",
+      "url": "https://en.wikipedia.org/wiki/Belaya_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Borisoglebskoye",
+      "url": "https://en.wikipedia.org/wiki/Borisoglebskoye_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Burevestnik",
+      "url": "https://en.wikipedia.org/wiki/Burevestnik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dzyomgi",
+      "url": "https://en.wikipedia.org/wiki/Dzyomgi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Engels-2",
+      "url": "https://en.wikipedia.org/wiki/Engels-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Kirovsk–Apatity",
+      "url": "https://en.wikipedia.org/wiki/Kirovsk–Apatity_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Klyuchi",
+      "url": "https://en.wikipedia.org/wiki/Klyuchi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kondinskoye",
+      "url": "https://en.wikipedia.org/wiki/Kondinskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Levashovo",
+      "url": "https://en.wikipedia.org/wiki/Levashovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Magdagachi",
+      "url": "https://en.wikipedia.org/wiki/Magdagachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ozerne",
+      "url": "https://en.wikipedia.org/wiki/Ozerne_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Poltava",
+      "url": "https://en.wikipedia.org/wiki/Poltava_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pugachyov",
+      "url": "https://en.wikipedia.org/wiki/Pugachyov_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Ryazan Dyagilevo",
+      "url": "https://en.wikipedia.org/wiki/Dyagilevo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Rzhev",
+      "url": "https://en.wikipedia.org/wiki/Rzhev_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Samara Kryazh",
+      "url": "https://en.wikipedia.org/wiki/Samara_Kryazh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov West",
+      "url": "https://en.wikipedia.org/wiki/Saratov_West_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Shatalovo",
+      "url": "https://en.wikipedia.org/wiki/Shatalovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Shaykovka",
+      "url": "https://en.wikipedia.org/wiki/Shaykovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Sol'tsy-2",
+      "url": "https://en.wikipedia.org/wiki/Soltsy-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Tatishchevo",
+      "url": "https://en.wikipedia.org/wiki/Tatishchevo_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tilichiki",
+      "url": "https://en.wikipedia.org/wiki/Tilichiki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tushino Airfield",
+      "url": "https://en.wikipedia.org/wiki/Tushino_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Uka",
+      "url": "https://en.wikipedia.org/wiki/Uka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukrainka",
+      "url": "https://en.wikipedia.org/wiki/Ukrainka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vozdvizhenka",
+      "url": "https://en.wikipedia.org/wiki/Vozdvizhenka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yaroslavl Levtsovo",
+      "url": "https://en.wikipedia.org/wiki/Yaroslavl_Levtsovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yevpatoria",
+      "url": "https://en.wikipedia.org/wiki/Yevpatoria_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugorsk Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Yugorsk_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Baherove",
+      "url": "https://en.wikipedia.org/wiki/Baherove_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Bakharevka",
+      "url": "https://en.wikipedia.org/wiki/Bakharevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezovka",
+      "url": "https://en.wikipedia.org/wiki/Berezovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon",
+      "url": "https://en.wikipedia.org/wiki/Dolon_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon Southwest",
+      "url": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+      "lang": ""
+    },
+    {
+      "text": "Jonava",
+      "url": "https://en.wikipedia.org/wiki/Jonava_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lakhta",
+      "url": "https://en.wikipedia.org/wiki/Lakhta_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Lenino",
+      "url": "https://en.wikipedia.org/wiki/Lenino_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Pryluky",
+      "url": "https://en.wikipedia.org/wiki/Pryluky_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Raadi",
+      "url": "https://en.wikipedia.org/wiki/Raadi_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Saratov South",
+      "url": "https://en.wikipedia.org/wiki/Saratov_South_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Smirnykh",
+      "url": "https://en.wikipedia.org/wiki/Smirnykh_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Stryi",
+      "url": "https://en.wikipedia.org/wiki/Stryi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi West",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_West",
+      "lang": ""
+    },
+    {
+      "text": "Uzyn",
+      "url": "https://en.wikipedia.org/wiki/Uzyn_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vetrovoye",
+      "url": "https://en.wikipedia.org/wiki/Vetrovoye",
+      "lang": ""
+    },
+    {
+      "text": "Zavitinsk",
+      "url": "https://en.wikipedia.org/wiki/Zavitinsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belgorod",
+      "url": "https://en.wikipedia.org/wiki/Belgorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherkasy",
+      "url": "https://en.wikipedia.org/wiki/Cherkasy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Heydar Aliyev",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kemerovo",
+      "url": "https://en.wikipedia.org/wiki/Kemerovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kherson",
+      "url": "https://en.wikipedia.org/wiki/Kherson_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kogalym",
+      "url": "https://en.wikipedia.org/wiki/Kogalym_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumoch",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lviv Danylo Halytskyi",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Danylo_Halytskyi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magnitogorsk",
+      "url": "https://en.wikipedia.org/wiki/Magnitogorsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mariupol",
+      "url": "https://en.wikipedia.org/wiki/Mariupol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoi",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Riga",
+      "url": "https://en.wikipedia.org/wiki/Riga_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Roshchino",
+      "url": "https://en.wikipedia.org/wiki/Roshchino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sabetta",
+      "url": "https://en.wikipedia.org/wiki/Sabetta_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Simferopol",
+      "url": "https://en.wikipedia.org/wiki/Simferopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strigino",
+      "url": "https://en.wikipedia.org/wiki/Strigino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Surgut",
+      "url": "https://en.wikipedia.org/wiki/Farman_Salmanov_Surgut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tallinn",
+      "url": "https://en.wikipedia.org/wiki/Tallinn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talagi",
+      "url": "https://en.wikipedia.org/wiki/Talagi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tartu",
+      "url": "https://en.wikipedia.org/wiki/Tartu_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzhhorod",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ventspils",
+      "url": "https://en.wikipedia.org/wiki/Ventspils_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilnius",
+      "url": "https://en.wikipedia.org/wiki/Vilnius_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Volgograd",
+      "url": "https://en.wikipedia.org/wiki/Volgograd_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Voronezh",
+      "url": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yemelyanovo",
+      "url": "https://en.wikipedia.org/wiki/Yemelyanovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zvartnots",
+      "url": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aldan",
+      "url": "https://en.wikipedia.org/wiki/Aldan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Alykel",
+      "url": "https://en.wikipedia.org/wiki/Alykel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakovo",
+      "url": "https://en.wikipedia.org/wiki/Balakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baley",
+      "url": "https://en.wikipedia.org/wiki/Baley_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Barnaul",
+      "url": "https://en.wikipedia.org/wiki/Barnaul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batagay",
+      "url": "https://en.wikipedia.org/wiki/Batagay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baykit",
+      "url": "https://en.wikipedia.org/wiki/Baykit_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Begishevo",
+      "url": "https://en.wikipedia.org/wiki/Begishevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belaya Gora",
+      "url": "https://en.wikipedia.org/wiki/Belaya_Gora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezniki",
+      "url": "https://en.wikipedia.org/wiki/Berezniki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Beslan",
+      "url": "https://en.wikipedia.org/wiki/Beslan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Biysk",
+      "url": "https://en.wikipedia.org/wiki/Biysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bogashevo",
+      "url": "https://en.wikipedia.org/wiki/Bogashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boguchany",
+      "url": "https://en.wikipedia.org/wiki/Boguchany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bugulma",
+      "url": "https://en.wikipedia.org/wiki/Bugulma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bykovo",
+      "url": "https://en.wikipedia.org/wiki/Bykovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chara",
+      "url": "https://en.wikipedia.org/wiki/Chara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chaybukha",
+      "url": "https://en.wikipedia.org/wiki/Chaybukha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cheboksary",
+      "url": "https://en.wikipedia.org/wiki/Cheboksary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherepovets",
+      "url": "https://en.wikipedia.org/wiki/Cherepovets_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chersky",
+      "url": "https://en.wikipedia.org/wiki/Chersky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chistopol",
+      "url": "https://en.wikipedia.org/wiki/Chistopol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chokurdakh",
+      "url": "https://en.wikipedia.org/wiki/Chokurdakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Deputatsky",
+      "url": "https://en.wikipedia.org/wiki/Deputatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dikson",
+      "url": "https://en.wikipedia.org/wiki/Dikson_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dudinka",
+      "url": "https://en.wikipedia.org/wiki/Dudinka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Elista",
+      "url": "https://en.wikipedia.org/wiki/Elista_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erbogachen",
+      "url": "https://en.wikipedia.org/wiki/Erbogachen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gorno-Altaysk",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Altaysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grozny",
+      "url": "https://en.wikipedia.org/wiki/Grozny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Igarka",
+      "url": "https://en.wikipedia.org/wiki/Igarka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Inta",
+      "url": "https://en.wikipedia.org/wiki/Inta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk Northwest",
+      "url": "https://en.wikipedia.org/wiki/Irkutsk_Northwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ivanovo Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhevsk",
+      "url": "https://en.wikipedia.org/wiki/Izhevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhma",
+      "url": "https://en.wikipedia.org/wiki/Izhma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kadala",
+      "url": "https://en.wikipedia.org/wiki/Kadala_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaluga",
+      "url": "https://en.wikipedia.org/wiki/Kaluga_(Grabtsevo)_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kärdla",
+      "url": "https://en.wikipedia.org/wiki/Kärdla_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaunas",
+      "url": "https://en.wikipedia.org/wiki/Kaunas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazachinskoe",
+      "url": "https://en.wikipedia.org/wiki/Kazachinskoe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Keperveyem",
+      "url": "https://en.wikipedia.org/wiki/Keperveyem_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanty-Mansiysk",
+      "url": "https://en.wikipedia.org/wiki/Khanty-Mansiysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv North",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khatanga",
+      "url": "https://en.wikipedia.org/wiki/Khatanga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khmelnytskyi",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytskyi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyiv Chaika Airfield",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Chaika_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Kimry",
+      "url": "https://en.wikipedia.org/wiki/Kimry_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kirensk",
+      "url": "https://en.wikipedia.org/wiki/Kirensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kolpashevo",
+      "url": "https://en.wikipedia.org/wiki/Kolpashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Koltsovo",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostroma",
+      "url": "https://en.wikipedia.org/wiki/Kostroma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kotlas",
+      "url": "https://en.wikipedia.org/wiki/Kotlas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnokamensk",
+      "url": "https://en.wikipedia.org/wiki/Krasnokamensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnovishersk",
+      "url": "https://en.wikipedia.org/wiki/Krasnovishersk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurgan",
+      "url": "https://en.wikipedia.org/wiki/Kurgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyren",
+      "url": "https://en.wikipedia.org/wiki/Kyren_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Syr",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Syr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lavrentiya",
+      "url": "https://en.wikipedia.org/wiki/Lavrentiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lutsk",
+      "url": "https://en.wikipedia.org/wiki/Lutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan-13",
+      "url": "https://en.wikipedia.org/wiki/Magadan-13_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magan",
+      "url": "https://en.wikipedia.org/wiki/Magan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mama",
+      "url": "https://en.wikipedia.org/wiki/Mama_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Markovo",
+      "url": "https://en.wikipedia.org/wiki/Markovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maykop",
+      "url": "https://en.wikipedia.org/wiki/Maykop_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Menzelinsk",
+      "url": "https://en.wikipedia.org/wiki/Menzelinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mezen",
+      "url": "https://en.wikipedia.org/wiki/Mezen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Milkovo",
+      "url": "https://en.wikipedia.org/wiki/Milkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mirny",
+      "url": "https://en.wikipedia.org/wiki/Mirny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moma",
+      "url": "https://en.wikipedia.org/wiki/Moma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murmansk",
+      "url": "https://en.wikipedia.org/wiki/Murmansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Myachkovo",
+      "url": "https://en.wikipedia.org/wiki/Myachkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mys Shmidta",
+      "url": "https://en.wikipedia.org/wiki/Mys_Shmidta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nadym",
+      "url": "https://en.wikipedia.org/wiki/Nadym_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nalchik",
+      "url": "https://en.wikipedia.org/wiki/Nalchik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nazran",
+      "url": "https://en.wikipedia.org/wiki/Nazran_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neftekamsk",
+      "url": "https://en.wikipedia.org/wiki/Neftekamsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nefteyugansk",
+      "url": "https://en.wikipedia.org/wiki/Nefteyugansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neryungri–Chulman",
+      "url": "https://en.wikipedia.org/wiki/Chulman_Neryungri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolayevsk-on-Amur",
+      "url": "https://en.wikipedia.org/wiki/Nikolayevsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolsk",
+      "url": "https://en.wikipedia.org/wiki/Nikolsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolskoye",
+      "url": "https://en.wikipedia.org/wiki/Nikolskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhneangarsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhneangarsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhnevartovsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhnevartovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novy Urengoy",
+      "url": "https://en.wikipedia.org/wiki/Novy_Urengoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Noyabrsk",
+      "url": "https://en.wikipedia.org/wiki/Noyabrsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyagan",
+      "url": "https://en.wikipedia.org/wiki/Nyagan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyurba",
+      "url": "https://en.wikipedia.org/wiki/Nyurba_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oktyabrsky",
+      "url": "https://en.wikipedia.org/wiki/Oktyabrsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Olyokminsk",
+      "url": "https://en.wikipedia.org/wiki/Olyokminsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Omsk Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Omsk_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oral Ak Zhol",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orenburg Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Orenburg_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsk",
+      "url": "https://en.wikipedia.org/wiki/Orsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oryol Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Oryol_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Palana",
+      "url": "https://en.wikipedia.org/wiki/Palana_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pechora",
+      "url": "https://en.wikipedia.org/wiki/Pechora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Penza",
+      "url": "https://en.wikipedia.org/wiki/Penza_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavlovsk-Kamchatsky",
+      "url": "https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pevek",
+      "url": "https://en.wikipedia.org/wiki/Pevek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plekhanovo",
+      "url": "https://en.wikipedia.org/wiki/Plekhanovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plestsy",
+      "url": "https://en.wikipedia.org/wiki/Plestsy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pobedilovo",
+      "url": "https://en.wikipedia.org/wiki/Pobedilovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Podkamennaya Tunguska",
+      "url": "https://en.wikipedia.org/wiki/Podkamennaya_Tunguska_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk",
+      "url": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polyarny",
+      "url": "https://en.wikipedia.org/wiki/Polyarny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Provideniya Bay",
+      "url": "https://en.wikipedia.org/wiki/Provideniya_Bay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pulkovo",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pushkin",
+      "url": "https://en.wikipedia.org/wiki/Pushkin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Raduzhny",
+      "url": "https://en.wikipedia.org/wiki/Raduzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rostov-on-Don",
+      "url": "https://en.wikipedia.org/wiki/Rostov-on-Don_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rzhevka",
+      "url": "https://en.wikipedia.org/wiki/Rzhevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sakkyryr",
+      "url": "https://en.wikipedia.org/wiki/Sakkyryr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salekhard",
+      "url": "https://en.wikipedia.org/wiki/Salekhard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salka",
+      "url": "https://en.wikipedia.org/wiki/Salka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saransk",
+      "url": "https://en.wikipedia.org/wiki/Saransk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarmany",
+      "url": "https://en.wikipedia.org/wiki/Sarmany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarov",
+      "url": "https://en.wikipedia.org/wiki/Sarov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semenovskoye Shidrovo",
+      "url": "https://en.wikipedia.org/wiki/Semenovskoye_Shidrovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semyazino",
+      "url": "https://en.wikipedia.org/wiki/Semyazino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severny",
+      "url": "https://en.wikipedia.org/wiki/Severny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Eniseysk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Eniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Evensk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Evensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Seymchan",
+      "url": "https://en.wikipedia.org/wiki/Seymchan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sharypovo",
+      "url": "https://en.wikipedia.org/wiki/Sharypovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shimanovsk",
+      "url": "https://en.wikipedia.org/wiki/Shimanovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shirak",
+      "url": "https://en.wikipedia.org/wiki/Shirak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sibay",
+      "url": "https://en.wikipedia.org/wiki/Sibay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Smolensk South",
+      "url": "https://en.wikipedia.org/wiki/Smolensk_South_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Snezhnogorsk",
+      "url": "https://en.wikipedia.org/wiki/Snezhnogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan–Sokol",
+      "url": "https://en.wikipedia.org/wiki/Sokol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Solovki",
+      "url": "https://en.wikipedia.org/wiki/Solovki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Sovetsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Spichenkovo",
+      "url": "https://en.wikipedia.org/wiki/Spichenkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Srednekolymsk",
+      "url": "https://en.wikipedia.org/wiki/Srednekolymsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staraya Russa",
+      "url": "https://en.wikipedia.org/wiki/Staraya_Russa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staroselye",
+      "url": "https://en.wikipedia.org/wiki/Staroselye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stary Oskol",
+      "url": "https://en.wikipedia.org/wiki/Stary_Oskol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stavropol Shpakovskoye",
+      "url": "https://en.wikipedia.org/wiki/Stavropol_Shpakovskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stepanavan",
+      "url": "https://en.wikipedia.org/wiki/Stepanavan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strezhevoy",
+      "url": "https://en.wikipedia.org/wiki/Strezhevoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sumy",
+      "url": "https://en.wikipedia.org/wiki/Sumy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Susuman",
+      "url": "https://en.wikipedia.org/wiki/Susuman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svetlogorsk",
+      "url": "https://en.wikipedia.org/wiki/Svetlogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svobodny",
+      "url": "https://en.wikipedia.org/wiki/Svobodny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar Southwest",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Southwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taksimo",
+      "url": "https://en.wikipedia.org/wiki/Taksimo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tambov Donskoye",
+      "url": "https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tasayevo",
+      "url": "https://en.wikipedia.org/wiki/Tasayevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Teply Klyuch",
+      "url": "https://en.wikipedia.org/wiki/Teply_Klyuch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ternopil",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tolmachevo",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tretyakovo",
+      "url": "https://en.wikipedia.org/wiki/Tretyakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tunoshna",
+      "url": "https://en.wikipedia.org/wiki/Golden_Ring_Yaroslavl_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tura",
+      "url": "https://en.wikipedia.org/wiki/Tura_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turlatovo",
+      "url": "https://en.wikipedia.org/wiki/Turlatovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turukhansk",
+      "url": "https://en.wikipedia.org/wiki/Turukhansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tynda",
+      "url": "https://en.wikipedia.org/wiki/Tynda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maksimovka",
+      "url": "https://en.wikipedia.org/wiki/Maksimovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukhta",
+      "url": "https://en.wikipedia.org/wiki/Ukhta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uktus",
+      "url": "https://en.wikipedia.org/wiki/Uktus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulan-Ude Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulan-Ude_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Baratayevka",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Baratayevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uray",
+      "url": "https://en.wikipedia.org/wiki/Uray_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usinsk",
+      "url": "https://en.wikipedia.org/wiki/Usinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Ilimsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Ilimsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kamchatsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kamchatsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kut",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kuyga",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kuyga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Maya",
+      "url": "https://en.wikipedia.org/wiki/Ust-Maya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Nera",
+      "url": "https://en.wikipedia.org/wiki/Ust-Nera_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Pakhachi",
+      "url": "https://en.wikipedia.org/wiki/Ust-Pakhachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Tsilma",
+      "url": "https://en.wikipedia.org/wiki/Ust-Tsilma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uytash",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vanavara",
+      "url": "https://en.wikipedia.org/wiki/Vanavara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Varandey",
+      "url": "https://en.wikipedia.org/wiki/Varandey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vaskovo",
+      "url": "https://en.wikipedia.org/wiki/Vaskovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Velikiye Luki",
+      "url": "https://en.wikipedia.org/wiki/Velikiye_Luki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Veliky Ustyug",
+      "url": "https://en.wikipedia.org/wiki/Veliky_Ustyug_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnevilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Verkhnevilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnyaya Toyma",
+      "url": "https://en.wikipedia.org/wiki/Verkhnyaya_Toyma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Vilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vologda",
+      "url": "https://en.wikipedia.org/wiki/Vologda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vuktyl",
+      "url": "https://en.wikipedia.org/wiki/Vuktyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yakutsk",
+      "url": "https://en.wikipedia.org/wiki/Yakutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yamburg",
+      "url": "https://en.wikipedia.org/wiki/Yamburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeltsovka",
+      "url": "https://en.wikipedia.org/wiki/Yeltsovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeniseysk",
+      "url": "https://en.wikipedia.org/wiki/Yeniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yermolino",
+      "url": "https://en.wikipedia.org/wiki/Yermolino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yoshkar-Ola",
+      "url": "https://en.wikipedia.org/wiki/Yoshkar-Ola_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Kurilsk Mendeleyevo",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Sakhalinsk",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Sakhalinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zavodske",
+      "url": "https://en.wikipedia.org/wiki/Zavodske_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zheleznogorsk",
+      "url": "https://en.wikipedia.org/wiki/Zheleznogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhytomyr",
+      "url": "https://en.wikipedia.org/wiki/Zhytomyr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zonalnoye",
+      "url": "https://en.wikipedia.org/wiki/Zonalnoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka West",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_West_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bălți",
+      "url": "https://en.wikipedia.org/wiki/Bălți_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cahul",
+      "url": "https://en.wikipedia.org/wiki/Cahul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dnipro",
+      "url": "https://en.wikipedia.org/wiki/Dnipro_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donetsk",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Havryshivka Vinnytsia",
+      "url": "https://en.wikipedia.org/wiki/Havryshivka_Vinnytsia_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Iultin",
+      "url": "https://en.wikipedia.org/wiki/Iultin",
+      "lang": ""
+    },
+    {
+      "text": "Luhansk",
+      "url": "https://en.wikipedia.org/wiki/Luhansk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chernihiv Shestovytsia",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv_Shestovytsia_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Goris",
+      "url": "https://en.wikipedia.org/wiki/Goris_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan-2",
+      "url": "https://en.wikipedia.org/wiki/Kazan-2_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerch",
+      "url": "https://en.wikipedia.org/wiki/Kerch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanskaya",
+      "url": "https://en.wikipedia.org/wiki/Khanskaya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kozyrevsk",
+      "url": "https://en.wikipedia.org/wiki/Kozyrevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Novgorod_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rubtsovsk",
+      "url": "https://en.wikipedia.org/wiki/Rubtsovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Saratov_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severouralsk",
+      "url": "https://en.wikipedia.org/wiki/Severouralsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tarnogsky Gorodok",
+      "url": "https://en.wikipedia.org/wiki/Tarnogsky_Gorodok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yelabuga North",
+      "url": "https://en.wikipedia.org/wiki/Yelabuga_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugarenok",
+      "url": "https://en.wikipedia.org/wiki/Yugarenok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baikal",
+      "url": "https://en.wikipedia.org/wiki/Baikal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Odesa",
+      "url": "https://en.wikipedia.org/wiki/Odesa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Perm_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sevastopol",
+      "url": "https://en.wikipedia.org/wiki/Sevastopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Achinsk",
+      "url": "https://en.wikipedia.org/wiki/Achinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Amderma",
+      "url": "https://en.wikipedia.org/wiki/Amderma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bagdarin",
+      "url": "https://en.wikipedia.org/wiki/Bagdarin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bratsk",
+      "url": "https://en.wikipedia.org/wiki/Bratsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk Shagol",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Shagol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erebuni",
+      "url": "https://en.wikipedia.org/wiki/Erebuni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ignatyevo",
+      "url": "https://en.wikipedia.org/wiki/Ignatyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Komsomolsk",
+      "url": "https://en.wikipedia.org/wiki/Komsomolsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk Cheremshanka",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_Cheremshanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kursk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumkan",
+      "url": "https://en.wikipedia.org/wiki/Kurumkan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryan-Mar",
+      "url": "https://en.wikipedia.org/wiki/Naryan-Mar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orlik",
+      "url": "https://en.wikipedia.org/wiki/Orlik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsha",
+      "url": "https://en.wikipedia.org/wiki/Orsha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petrozavodsk",
+      "url": "https://en.wikipedia.org/wiki/Petrozavodsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pskov",
+      "url": "https://en.wikipedia.org/wiki/Pskov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi Babushara",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Suntar",
+      "url": "https://en.wikipedia.org/wiki/Suntar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ugolny",
+      "url": "https://en.wikipedia.org/wiki/Ugolny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vyazma",
+      "url": "https://en.wikipedia.org/wiki/Vyazma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeysk",
+      "url": "https://en.wikipedia.org/wiki/Yeysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bezymyanka",
+      "url": "https://en.wikipedia.org/wiki/Bezymyanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gromov Flight Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Gromov_Flight_Research_Institute",
+      "lang": ""
+    },
+    {
+      "text": "Nizhyn",
+      "url": "https://en.wikipedia.org/wiki/Nizhyn_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pridacha",
+      "url": "https://en.wikipedia.org/wiki/Pridacha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Valek",
+      "url": "https://en.wikipedia.org/wiki/Valek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&oldid=1383792357",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&oldid=1383792357",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 1974",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_1974",
+      "lang": ""
+    },
+    {
+      "text": "Airports built in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Chüy Region",
+      "url": "https://en.wikipedia.org/wiki/Category:Ch%C3%BCy_Region",
+      "lang": ""
+    },
+    {
+      "text": "1974 establishments in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:1974_establishments_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "1974 establishments in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:1974_establishments_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Installations of the United States Air Force",
+      "url": "https://en.wikipedia.org/wiki/Category:Installations_of_the_United_States_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Category:Transport_in_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from January 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_January_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Kyrgyz-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Kyrgyz-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Russian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Russian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from October 2022",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2022",
+      "lang": ""
+    },
+    {
+      "text": "Articles needing additional references from April 2023",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_April_2023",
+      "lang": ""
+    },
+    {
+      "text": "All articles needing additional references",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Kyrgyz-language sources (ky)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Kyrgyz-language_sources_(ky)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Manas_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-kg-01.txt"
+}

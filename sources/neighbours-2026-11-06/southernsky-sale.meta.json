@@ -1,0 +1,119 @@
+{
+  "id": "southernsky-sale",
+  "url": "https://sale.hisky.kz/",
+  "retrievedAt": "2026-11-06T08:26:14.541314+00:00",
+  "status": 200,
+  "finalUrl": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+  "bytes": 39754,
+  "sha256": "3ca0d47bafd7fdb77ef03230996188544cc167ab6d6f52cc81a3a77018d4fcc4",
+  "file": "sources/neighbours-2026-11-06/southernsky-sale.html",
+  "title": "Поиск авиабилетов",
+  "links": [
+    {
+      "text": "Chrome",
+      "url": "https://www.google.com/chrome/",
+      "lang": ""
+    },
+    {
+      "text": "Firefox",
+      "url": "https://www.mozilla.org/firefox/",
+      "lang": ""
+    },
+    {
+      "text": "Opera",
+      "url": "https://www.opera.com",
+      "lang": ""
+    },
+    {
+      "text": "Edge",
+      "url": "https://www.microsoft.com/ru-ru/windows/microsoft-edge",
+      "lang": ""
+    },
+    {
+      "text": "Chrome",
+      "url": "https://www.google.com/chrome/",
+      "lang": ""
+    },
+    {
+      "text": "Firefox",
+      "url": "https://www.mozilla.org/firefox/",
+      "lang": ""
+    },
+    {
+      "text": "Opera",
+      "url": "https://www.opera.com",
+      "lang": ""
+    },
+    {
+      "text": "Edge",
+      "url": "https://www.microsoft.com/ru-ru/windows/microsoft-edge",
+      "lang": ""
+    },
+    {
+      "text": "Авиабилеты",
+      "url": "https://sale.hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "gst",
+      "url": "https://sale.hisky.kz/profile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://sale.hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "Авиабилеты",
+      "url": "https://sale.hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "Предложения",
+      "url": "https://onlytapesleftalive.com/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам",
+      "url": "https://sale.hisky.kz/onlytapesleftalive.com/support/",
+      "lang": ""
+    },
+    {
+      "text": "Войти",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=dbbb879be02c64bfad95f9bb5bed2c1d",
+      "lang": ""
+    },
+    {
+      "text": "Забыли пароль?",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    },
+    {
+      "text": "Я вспомнил пароль",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    },
+    {
+      "text": "Забыли пароль?",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    },
+    {
+      "text": "Я вспомнил пароль",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    },
+    {
+      "text": "Помощь",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    },
+    {
+      "text": "Обратная связь",
+      "url": "https://sale.hisky.kz/authorization__auth_client?back_location=d41d8cd98f00b204e9800998ecf8427e",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/southernsky-sale.txt"
+}

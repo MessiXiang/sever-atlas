@@ -1,0 +1,2134 @@
+{
+  "id": "airports-en-az",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+  "retrievedAt": "2026-11-06T08:22:28.527174+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+  "bytes": 206308,
+  "sha256": "a9637940f71acac2fd9c0e337db94e33f376d717bf37b607a629d6179bb91d76",
+  "file": "sources/neighbours-2026-11-06/airports-en-az.html",
+  "title": "List of airports in Azerbaijan - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Afrikaans",
+      "url": "https://af.wikipedia.org/wiki/Lys_van_lughawens_in_Azerbeidjan",
+      "lang": "af"
+    },
+    {
+      "text": "Aragonés",
+      "url": "https://an.wikipedia.org/wiki/Lista_d%27aeropuertos_d%27Azerbaich%C3%A1n",
+      "lang": "an"
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Llista_d%27aeropuertos_d%27Azerbaix%C3%A1n",
+      "lang": "ast"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Az%C9%99rbaycan_hava_limanlar%C4%B1_siyah%C4%B1s%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "تۆرکجه",
+      "url": "https://azb.wikipedia.org/wiki/%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86_%D8%AC%D9%88%D9%85%D9%87%D9%88%D8%B1%DB%8C%D8%AA%DB%8C%E2%80%8C%D9%86%DB%8C%D9%86_%D9%87%D8%A7%D9%88%D8%A7_%D9%84%DB%8C%D9%85%D8%A7%D9%86%D9%84%D8%A7%D8%B1%DB%8C%D9%86_%D8%B3%DB%8C%D8%A7%D9%87%D9%87%E2%80%8C%D8%B3%DB%8C",
+      "lang": "azb"
+    },
+    {
+      "text": "Български",
+      "url": "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%B8%D1%89%D0%B0%D1%82%D0%B0_%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD",
+      "lang": "bg"
+    },
+    {
+      "text": "Bosanski",
+      "url": "https://bs.wikipedia.org/wiki/Spisak_aerodroma_u_Azerbejd%C5%BEanu",
+      "lang": "bs"
+    },
+    {
+      "text": "Català",
+      "url": "https://ca.wikipedia.org/wiki/Llista_d%27aeroports_de_l%27Azerbaidjan",
+      "lang": "ca"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Seznam_leti%C5%A1%C5%A5_v_%C3%81zerb%C3%A1jd%C5%BE%C3%A1nu",
+      "lang": "cs"
+    },
+    {
+      "text": "Dansk",
+      "url": "https://da.wikipedia.org/wiki/Lufthavne_i_Aserbajdsjan",
+      "lang": "da"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_in_Aserbaidschan",
+      "lang": "de"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Anexo:Aeropuertos_de_Azerbaiy%C3%A1n",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Aserbaid%C5%BEaani_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_a%C3%A9roports_en_Azerba%C3%AFdjan",
+      "lang": "fr"
+    },
+    {
+      "text": "Gagauz",
+      "url": "https://gag.wikipedia.org/wiki/Azerbaycan_aeroportlar_listasi",
+      "lang": "gag"
+    },
+    {
+      "text": "Galego",
+      "url": "https://gl.wikipedia.org/wiki/Lista_de_aeroportos_en_Azerbaidj%C3%A1n",
+      "lang": "gl"
+    },
+    {
+      "text": "Hrvatski",
+      "url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_zra%C4%8Dnih_luka_u_Azerbajd%C5%BEanu",
+      "lang": "hr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Azerbajdzs%C3%A1n_rep%C3%BCl%C5%91tereinek_list%C3%A1ja",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Azerbaijan",
+      "lang": "id"
+    },
+    {
+      "text": "Interlingue",
+      "url": "https://ie.wikipedia.org/wiki/Liste_de_Aeroportus_in_Azerbaidjan",
+      "lang": "ie"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporti_in_Azerbaigian",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%96%E1%83%94%E1%83%A0%E1%83%91%E1%83%90%E1%83%98%E1%83%AF%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90",
+      "lang": "ka"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Senarai_lapangan_terbang_di_Azerbaijan",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Lijst_van_vliegvelden_in_Azerbeidzjan",
+      "lang": "nl"
+    },
+    {
+      "text": "Norsk nynorsk",
+      "url": "https://nn.wikipedia.org/wiki/Lufthamner_i_Aserbajdsjan",
+      "lang": "nn"
+    },
+    {
+      "text": "Norsk bokmål",
+      "url": "https://no.wikipedia.org/wiki/Liste_over_flyplasser_i_Aserbajdsjan",
+      "lang": "nb"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Azerbejd%C5%BCanie",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_aeroportos_do_Azerbaij%C3%A3o",
+      "lang": "pt"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Srpskohrvatski / српскохрватски",
+      "url": "https://sh.wikipedia.org/wiki/Lista_aerodroma_u_Azerbejd%C5%BEanu",
+      "lang": "sh"
+    },
+    {
+      "text": "Simple English",
+      "url": "https://simple.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": "en-simple"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B8_%D1%83_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B5%D1%98%D1%9F%D0%B0%D0%BD%D1%83",
+      "lang": "sr"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_flygplatser_i_Azerbajdzjan",
+      "lang": "sv"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Azerbaycan%27daki_havalimanlar%C4%B1_listesi",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D1%83",
+      "lang": "uk"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E6%A9%9F%E5%A0%B4%E5%88%97%E8%A1%A8",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2329358#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&oldid=1371236791",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Azerbaijan&id=1371236791&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Azerbaijan&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2329358",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aj-map.png",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Eurasia",
+      "url": "https://en.wikipedia.org/wiki/Eurasia",
+      "lang": ""
+    },
+    {
+      "text": "Caspian Sea",
+      "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/Iran",
+      "lang": ""
+    },
+    {
+      "text": "exclave",
+      "url": "https://en.wikipedia.org/wiki/Exclave",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhichivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Ministry of Transportation of Azerbaijan Republic",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Transportation_(Azerbaijan)",
+      "lang": ""
+    },
+    {
+      "text": "Lenkoran",
+      "url": "https://en.wikipedia.org/wiki/Lenkoran",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_(city)",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "City served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "Ələt",
+      "url": "https://en.wikipedia.org/wiki/Ələt",
+      "lang": ""
+    },
+    {
+      "text": "Alat Cargo Airport",
+      "url": "https://en.wikipedia.org/wiki/Alat_Cargo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°57′0″N 49°24′24″E ﻿ / ﻿ 39.95000°N 49.40667°E ﻿ / 39.95000; 49.40667 ﻿ ( Alat Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_57_0_N_49_24_24_E_region:AZ_type:airport&title=Alat+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağdam",
+      "url": "https://en.wikipedia.org/wiki/Agdam_District",
+      "lang": ""
+    },
+    {
+      "text": "Agdam Airport",
+      "url": "https://en.wikipedia.org/wiki/Agdam_District",
+      "lang": ""
+    },
+    {
+      "text": "39°58′33″N 47°0′0″E ﻿ / ﻿ 39.97583°N 47.00000°E ﻿ / 39.97583; 47.00000 ﻿ ( Agdam Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_58_33_N_47_0_0_E_region:AZ_type:airport&title=Agdam+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Agjabedi",
+      "url": "https://en.wikipedia.org/wiki/Ağcabədi",
+      "lang": ""
+    },
+    {
+      "text": "Agjabedi Airport",
+      "url": "https://en.wikipedia.org/wiki/Ağcabədi",
+      "lang": ""
+    },
+    {
+      "text": "40°1′20″N 47°26′57″E ﻿ / ﻿ 40.02222°N 47.44917°E ﻿ / 40.02222; 47.44917 ﻿ ( Agdam Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_1_20_N_47_26_57_E_region:AZ_type:airport&title=Agdam+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağstafa",
+      "url": "https://en.wikipedia.org/wiki/Ağstafa",
+      "lang": ""
+    },
+    {
+      "text": "Akstafa Airport",
+      "url": "https://en.wikipedia.org/wiki/Akstafa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°07′24″N 045°25′17″E ﻿ / ﻿ 41.12333°N 45.42139°E ﻿ / 41.12333; 45.42139 ﻿ ( Akstafa Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=41_07_24_N_045_25_17_E_region:AZ_type:airport&title=Akstafa+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Heydar Aliyev International Airport",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°28′03″N 050°02′48″E ﻿ / ﻿ 40.46750°N 50.04667°E ﻿ / 40.46750; 50.04667 ﻿ ( Heydar Aliyev International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_28_03_N_050_02_48_E_region:AZ_type:airport&title=Heydar+Aliyev+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Zabrat Airport",
+      "url": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°29′42″N 049°58′37″E ﻿ / ﻿ 40.49500°N 49.97694°E ﻿ / 40.49500; 49.97694 ﻿ ( Zabrat Airport (Baku) )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_29_42_N_049_58_37_E_region:AZ_type:airport&title=Zabrat+Airport+%28Baku%29",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Lokbatan Airport",
+      "url": "https://en.wikipedia.org/wiki/Lokbatan",
+      "lang": ""
+    },
+    {
+      "text": "40°20′59″N 49°40′11″E ﻿ / ﻿ 40.34972°N 49.66972°E ﻿ / 40.34972; 49.66972 ﻿ ( Lokbatan Airport (Baku) )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_20_59_N_49_40_11_E_region:AZ_type:airport&title=Lokbatan+Airport+%28Baku%29",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Pirallahi Heliport",
+      "url": "https://en.wikipedia.org/wiki/Pirallahi_Island",
+      "lang": ""
+    },
+    {
+      "text": "40°25′5″N 50°21′23″E ﻿ / ﻿ 40.41806°N 50.35639°E ﻿ / 40.41806; 50.35639 ﻿ ( Pirallahi Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_25_5_N_50_21_23_E_region:AZ_type:airport&title=Pirallahi+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Çilov Heliport",
+      "url": "https://en.wikipedia.org/wiki/Çilov",
+      "lang": ""
+    },
+    {
+      "text": "40°32′4″N 50°32′08″E ﻿ / ﻿ 40.53444°N 50.53556°E ﻿ / 40.53444; 50.53556 ﻿ ( Çilov Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_32_4_N_50_32_08_E_region:AZ_type:airport&title=%C3%87ilov+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Central Hospital Heliport",
+      "url": "https://en.wikipedia.org/wiki/Healthcare_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "40°39′7″N 49°30′18″E ﻿ / ﻿ 40.65194°N 49.50500°E ﻿ / 40.65194; 49.50500 ﻿ ( Hospital Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_39_7_N_49_30_18_E_region:AZ_type:airport&title=Hospital+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakən",
+      "url": "https://en.wikipedia.org/wiki/Balakən",
+      "lang": ""
+    },
+    {
+      "text": "Balakan Airport",
+      "url": "https://en.wikipedia.org/wiki/Belokany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°45′12″N 046°21′19″E ﻿ / ﻿ 41.75333°N 46.35528°E ﻿ / 41.75333; 46.35528 ﻿ ( Balakan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=41_45_12_N_046_21_19_E_region:AZ_type:airport&title=Balakan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_District",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli International Airport",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°59′44″N 47°19′6″E ﻿ / ﻿ 39.99556°N 47.31833°E ﻿ / 39.99556; 47.31833 ﻿ ( Fizuli International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_59_44_N_47_19_6_E_region:AZ_type:airport&title=Fizuli+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Ganja International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°44′15″N 046°19′03″E ﻿ / ﻿ 40.73750°N 46.31750°E ﻿ / 40.73750; 46.31750 ﻿ ( Ganja International Airport (Ganja) )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_44_15_N_046_19_03_E_region:AZ_type:airport&title=Ganja+International+Airport+%28Ganja%29",
+      "lang": ""
+    },
+    {
+      "text": "Hajiqabul",
+      "url": "https://en.wikipedia.org/wiki/Hajiqabul",
+      "lang": ""
+    },
+    {
+      "text": "Hajiqabul Airport",
+      "url": "https://en.wikipedia.org/wiki/Hajiqabul",
+      "lang": ""
+    },
+    {
+      "text": "40°2′7″N 48°54′36″E ﻿ / ﻿ 40.03528°N 48.91000°E ﻿ / 40.03528; 48.91000 ﻿ ( Hajiqabul Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_2_7_N_48_54_36_E_region:AZ_type:airport&title=Hajiqabul+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khachmaz",
+      "url": "https://en.wikipedia.org/wiki/Khachmaz_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Khachmaz Airport",
+      "url": "https://en.wikipedia.org/wiki/Khachmaz_(city)",
+      "lang": ""
+    },
+    {
+      "text": "41°45′16″N 48°26′01″E ﻿ / ﻿ 41.75444°N 48.43361°E ﻿ / 41.75444; 48.43361 ﻿ ( Khachmaz Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=41_45_16_N_48_26_01_E_region:AZ_type:airport&title=Khachmaz+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khankendi",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert",
+      "lang": ""
+    },
+    {
+      "text": "Khojali Airport",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°54′05″N 046°47′13″E ﻿ / ﻿ 39.90139°N 46.78694°E ﻿ / 39.90139; 46.78694 ﻿ ( Stepanakert Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_54_05_N_046_47_13_E_region:AZ_type:airport&title=Stepanakert+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lachin",
+      "url": "https://en.wikipedia.org/wiki/Lachin",
+      "lang": ""
+    },
+    {
+      "text": "Lachin International Airport",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°52′45″N 046°20′48″E ﻿ / ﻿ 39.87917°N 46.34667°E ﻿ / 39.87917; 46.34667 ﻿ ( Lachin International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_52_45_N_046_20_48_E_region:AZ_type:airport&title=Lachin+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lankaran",
+      "url": "https://en.wikipedia.org/wiki/Lankaran",
+      "lang": ""
+    },
+    {
+      "text": "Lankaran International Airport",
+      "url": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "38°44′47″N 048°49′04″E ﻿ / ﻿ 38.74639°N 48.81778°E ﻿ / 38.74639; 48.81778 ﻿ ( Lankaran International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=38_44_47_N_048_49_04_E_region:AZ_type:airport&title=Lankaran+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naftalan",
+      "url": "https://en.wikipedia.org/wiki/Naftalan,_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Naftalan Airport",
+      "url": "https://en.wikipedia.org/wiki/Naftalan,_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "40°30′57″N 46°49′46″E ﻿ / ﻿ 40.51583°N 46.82944°E ﻿ / 40.51583; 46.82944 ﻿ ( Naftalan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_30_57_N_46_49_46_E_region:AZ_type:airport&title=Naftalan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°11′19″N 045°27′30″E ﻿ / ﻿ 39.18861°N 45.45833°E ﻿ / 39.18861; 45.45833 ﻿ ( Nakhchivan International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_11_19_N_045_27_30_E_region:AZ_type:airport&title=Nakhchivan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qabala",
+      "url": "https://en.wikipedia.org/wiki/Qabala",
+      "lang": ""
+    },
+    {
+      "text": "Qabala International Airport",
+      "url": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°49′36″N 047°42′45″E ﻿ / ﻿ 40.82667°N 47.71250°E ﻿ / 40.82667; 47.71250 ﻿ ( Gabala Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_49_36_N_047_42_45_E_region:AZ_type:airport&title=Gabala+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shaki",
+      "url": "https://en.wikipedia.org/wiki/Shaki,_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Shaki Airport",
+      "url": "https://en.wikipedia.org/wiki/Shaki,_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "41°8′11″N 047°9′34″E ﻿ / ﻿ 41.13639°N 47.15944°E ﻿ / 41.13639; 47.15944 ﻿ ( Shaki Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=41_8_11_N_047_9_34_E_region:AZ_type:airport&title=Shaki+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yevlakh",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh",
+      "lang": ""
+    },
+    {
+      "text": "Yevlakh Airport",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°37′57″N 047°08′28″E ﻿ / ﻿ 40.63250°N 47.14111°E ﻿ / 40.63250; 47.14111 ﻿ ( Yevlakh Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_37_57_N_047_08_28_E_region:AZ_type:airport&title=Yevlakh+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zangilan",
+      "url": "https://en.wikipedia.org/wiki/Zangilan",
+      "lang": ""
+    },
+    {
+      "text": "Zangilan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°5′39.89″N 46°44′2.75″E ﻿ / ﻿ 39.0944139°N 46.7340972°E ﻿ / 39.0944139; 46.7340972 ﻿ ( Zangilan International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=39_5_39.89_N_46_44_2.75_E_region:AZ_type:airport&title=Zangilan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala International Airport",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°33′44″N 046°40′02″E ﻿ / ﻿ 41.56222°N 46.66722°E ﻿ / 41.56222; 46.66722 ﻿ ( Zaqatala Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=41_33_44_N_046_40_02_E_region:AZ_type:airport&title=Zaqatala+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "lang": ""
+    },
+    {
+      "text": "Baku Kala Air Base",
+      "url": "https://en.wikipedia.org/wiki/Baku_Kala_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "40°24′23″N 050°12′00″E ﻿ / ﻿ 40.40639°N 50.20000°E ﻿ / 40.40639; 50.20000 ﻿ ( Baku Kala Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_24_23_N_050_12_00_E_region:AZ_type:airport&title=Baku+Kala+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Dəllər",
+      "url": "https://en.wikipedia.org/wiki/Dəllər,_Shamkir",
+      "lang": ""
+    },
+    {
+      "text": "Dollyar Air Base",
+      "url": "https://en.wikipedia.org/wiki/Dollyar_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "40°53′15″N 045°57′25″E ﻿ / ﻿ 40.88750°N 45.95694°E ﻿ / 40.88750; 45.95694 ﻿ ( Dollyar Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_53_15_N_045_57_25_E_region:AZ_type:airport&title=Dollyar+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Kürdəmir",
+      "url": "https://en.wikipedia.org/wiki/Kürdəmir",
+      "lang": ""
+    },
+    {
+      "text": "Kyurdamir Air Base",
+      "url": "https://en.wikipedia.org/wiki/Kyurdamir_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "40°16′24″N 048°09′48″E ﻿ / ﻿ 40.27333°N 48.16333°E ﻿ / 40.27333; 48.16333 ﻿ ( Kyurdamir Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_16_24_N_048_09_48_E_region:AZ_type:airport&title=Kyurdamir+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Sitalçay",
+      "url": "https://en.wikipedia.org/wiki/Sitalçay",
+      "lang": ""
+    },
+    {
+      "text": "Sitalchay Military Airbase",
+      "url": "https://en.wikipedia.org/wiki/Sitalchay_Military_Airbase",
+      "lang": ""
+    },
+    {
+      "text": "40°47′02″N 049°24′02″E ﻿ / ﻿ 40.78389°N 49.40056°E ﻿ / 40.78389; 49.40056 ﻿ ( Sitalchay Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_47_02_N_049_24_02_E_region:AZ_type:airport&title=Sitalchay+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Sumqayit",
+      "url": "https://en.wikipedia.org/wiki/Sumqayit",
+      "lang": ""
+    },
+    {
+      "text": "Nasosnaya Air Base",
+      "url": "https://en.wikipedia.org/wiki/Nasosnaya_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "40°35′29″N 049°33′26″E ﻿ / ﻿ 40.59139°N 49.55722°E ﻿ / 40.59139; 49.55722 ﻿ ( Nasosnaya Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Azerbaijan&params=40_35_29_N_049_33_26_E_region:AZ_type:airport&title=Nasosnaya+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Air Force",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UB - Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UB_-_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "Airliner World",
+      "url": "https://en.wikipedia.org/wiki/Airliner_World",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan: Building Bridges for President Aliyev's Re-Election?\"",
+      "url": "http://www.eurasianet.org/departments/insight/articles/eav053007.shtml",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Survey of Russian Airfields, Edition 5 – 26 November 2005",
+      "url": "http://www.russianairfields.com/",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20130309155522/https://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"IATA Airline and Airport code Search\"",
+      "url": "http://www.iata.org/publications/Pages/code-search.aspx",
+      "lang": ""
+    },
+    {
+      "text": "International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Azerbaijan\"",
+      "url": "http://www.unece.org/fileadmin/DAM/cefact/locode/az.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Azerbaijan\"",
+      "url": "https://web.archive.org/web/20130804190457/http://worldaerodata.com/countries/Azerbaijan.php",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Azerbaijan\"",
+      "url": "http://www.gcmap.com/search?Q=country:AZ",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lənkəran",
+      "url": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qəbələ",
+      "url": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Füzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağstafa",
+      "url": "https://en.wikipedia.org/wiki/Aghstafa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakən",
+      "url": "https://en.wikipedia.org/wiki/Balakan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Laçın",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Xocalı",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yevlax",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zabrat",
+      "url": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zəngilan",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Albania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Albania",
+      "lang": ""
+    },
+    {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Andorra",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Austria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Austria",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bosnia_and_Herzegovina",
+      "lang": ""
+    },
+    {
+      "text": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+      "lang": ""
+    },
+    {
+      "text": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Croatia",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Czech_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Denmark",
+      "lang": ""
+    },
+    {
+      "text": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Estonia",
+      "lang": ""
+    },
+    {
+      "text": "Finland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Finland",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_France",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Germany",
+      "lang": ""
+    },
+    {
+      "text": "Greece",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Greece",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iceland",
+      "lang": ""
+    },
+    {
+      "text": "Ireland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_Ireland",
+      "lang": ""
+    },
+    {
+      "text": "Italy",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Italy",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Latvia",
+      "lang": ""
+    },
+    {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Liechtenstein",
+      "lang": ""
+    },
+    {
+      "text": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lithuania",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Luxembourg",
+      "lang": ""
+    },
+    {
+      "text": "Malta",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malta",
+      "lang": ""
+    },
+    {
+      "text": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Moldova",
+      "lang": ""
+    },
+    {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Monaco",
+      "lang": ""
+    },
+    {
+      "text": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Montenegro",
+      "lang": ""
+    },
+    {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Netherlands",
+      "lang": ""
+    },
+    {
+      "text": "North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Macedonia",
+      "lang": ""
+    },
+    {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Norway",
+      "lang": ""
+    },
+    {
+      "text": "Poland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Poland",
+      "lang": ""
+    },
+    {
+      "text": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Portugal",
+      "lang": ""
+    },
+    {
+      "text": "Romania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Romania",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "San Marino",
+      "url": "https://en.wikipedia.org/wiki/Torraccia_airfield",
+      "lang": ""
+    },
+    {
+      "text": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Serbia",
+      "lang": ""
+    },
+    {
+      "text": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovakia",
+      "lang": ""
+    },
+    {
+      "text": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovenia",
+      "lang": ""
+    },
+    {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
+      "lang": ""
+    },
+    {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sweden",
+      "lang": ""
+    },
+    {
+      "text": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Switzerland",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Vatican_City#Air_transport",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kosovo",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Transnistria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Transnistria",
+      "lang": ""
+    },
+    {
+      "text": "Åland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Åland",
+      "lang": ""
+    },
+    {
+      "text": "Faroe Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Faroe_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Gibraltar",
+      "url": "https://en.wikipedia.org/wiki/Gibraltar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guernsey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Guernsey",
+      "lang": ""
+    },
+    {
+      "text": "Isle of Man",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jersey",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svalbard",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&oldid=1371236791",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&oldid=1371236791",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Azerbaijan_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from December 2019",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_December_2019",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Azerbaijani-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Azerbaijani-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Azerbaijan&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-az.txt"
+}

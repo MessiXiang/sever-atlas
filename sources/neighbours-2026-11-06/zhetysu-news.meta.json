@@ -1,0 +1,79 @@
+{
+  "id": "zhetysu-news",
+  "url": "https://www.zhetysuavia.kz/ru/information/news",
+  "retrievedAt": "2026-11-06T08:33:10.701800+00:00",
+  "status": 200,
+  "finalUrl": "https://www.zhetysuavia.kz/ru/information/news",
+  "bytes": 178384,
+  "sha256": "72138d43772c0d834c979e237798a2c284db62aacccf781053d5335a844ee9d9",
+  "file": "sources/neighbours-2026-11-06/zhetysu-news.html",
+  "title": "TDK & USJ Airport",
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.zhetysuavia.kz/",
+      "lang": ""
+    },
+    {
+      "text": "10 сентября 2026 года Обучающая лекция по антикоррупционному комплаенсу Комплаенс-офицер Айдарханов М.М. ознакомил коллектив с изменениями в приказ Председателя Агентства РК по противодействию коррупции № 112. По итогам совещания приняты рекомендации по соблюдению антикоррупционного законодательства.",
+      "url": "https://www.zhetysuavia.kz/ru/information/anticorruption",
+      "lang": ""
+    },
+    {
+      "text": "3 сентября 2026 года Открыта регистрация на марафон «Читающая нация» Открыта регистрация на первый республиканский марафон чтения. Узнайте о семи направлениях, этапах, медиа и официальных материалах проекта.",
+      "url": "https://www.zhetysuavia.kz/ru/information/reading-nation",
+      "lang": ""
+    },
+    {
+      "text": "1 марта 2026 года Обновлённые тарифы на аэропортовые услуги с 1 марта 2026 года АО «Авиакомпания «Жетысу» объявило об изменении тарифов на регулируемые аэропортовые услуги с 1 марта 2026 года. Подробности — в разделе «Уведомления».",
+      "url": "https://www.zhetysuavia.kz/ru/information/announcements#tariff-notification-march-2026",
+      "lang": ""
+    },
+    {
+      "text": "Аэропорт Талдыкорган",
+      "url": "https://www.zhetysuavia.kz/ru/airports/taldykorgan",
+      "lang": ""
+    },
+    {
+      "text": "Аэропорт Ушарал",
+      "url": "https://www.zhetysuavia.kz/ru/airports/usharal",
+      "lang": ""
+    },
+    {
+      "text": "Новости и обновления",
+      "url": "https://www.zhetysuavia.kz/ru/information/news",
+      "lang": ""
+    },
+    {
+      "text": "Доступность и специальная помощь",
+      "url": "https://www.zhetysuavia.kz/ru/information/special-assistance",
+      "lang": ""
+    },
+    {
+      "text": "Часто задаваемые вопросы",
+      "url": "https://www.zhetysuavia.kz/ru/information/faq",
+      "lang": ""
+    },
+    {
+      "text": "zhetysuavia@mail.ru",
+      "url": "mailto:zhetysuavia@mail.ru",
+      "lang": ""
+    },
+    {
+      "text": "Правительство Казахстана",
+      "url": "https://www.akorda.kz",
+      "lang": ""
+    },
+    {
+      "text": "Туризм Казахстана",
+      "url": "https://kazakhstan.travel/ru",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/zhetysuavia.kz",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/zhetysu-news.txt"
+}

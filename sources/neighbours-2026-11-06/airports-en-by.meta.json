@@ -1,0 +1,1399 @@
+{
+  "id": "airports-en-by",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+  "retrievedAt": "2026-11-06T08:22:32.082934+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+  "bytes": 148517,
+  "sha256": "cb511ea66ddb98e216848da91460f3d9e1ea0807cc0a218139fb879b58e11ce3",
+  "file": "sources/neighbours-2026-11-06/airports-en-by.html",
+  "title": "List of airports in Belarus - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Belarus",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#References",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A8%D9%8A%D9%84%D8%A7%D8%B1%D9%88%D8%B3",
+      "lang": "ar"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%A1%D0%BF%D1%96%D1%81_%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%9E_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96",
+      "lang": "be"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_in_Belarus",
+      "lang": "de"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Valgevene_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D9%84%D8%A7%D8%B1%D9%88%D8%B3",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Luettelo_Valko-Ven%C3%A4j%C3%A4n_lentoasemista",
+      "lang": "fi"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Belarus",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporti_in_Bielorussia",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%AB%E3%83%BC%E3%82%B7%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%A8%EB%9D%BC%EB%A3%A8%EC%8A%A4%EC%9D%98_%EA%B3%B5%ED%95%AD_%EB%AA%A9%EB%A1%9D",
+      "lang": "ko"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_na_Bia%C5%82orusi",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8",
+      "lang": "ru"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%91%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%96",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Belarus_aeroportlari_ro%CA%BByxati",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1187711#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&oldid=1311828710",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Belarus&id=1311828710&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Belarus&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1187711",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Military_airbases_in_Belarus_(en).png",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "City served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Province",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "Brest",
+      "url": "https://en.wikipedia.org/wiki/Brest,_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Brest Region",
+      "url": "https://en.wikipedia.org/wiki/Brest_Region",
+      "lang": ""
+    },
+    {
+      "text": "Brest Airport",
+      "url": "https://en.wikipedia.org/wiki/Brest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "52°06′30″N 023°53′53″E ﻿ / ﻿ 52.10833°N 23.89806°E ﻿ / 52.10833; 23.89806 ﻿ ( Brest Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=52_06_30_N_023_53_53_E_region:BY_type:airport&title=Brest+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel",
+      "url": "https://en.wikipedia.org/wiki/Gomel",
+      "lang": ""
+    },
+    {
+      "text": "Gomel Region",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Region",
+      "lang": ""
+    },
+    {
+      "text": "Gomel Airport",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "52°31′37″N 031°01′00″E ﻿ / ﻿ 52.52694°N 31.01667°E ﻿ / 52.52694; 31.01667 ﻿ ( Gomel Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=52_31_37_N_031_01_00_E_region:BY_type:airport&title=Gomel+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno",
+      "url": "https://en.wikipedia.org/wiki/Grodno",
+      "lang": ""
+    },
+    {
+      "text": "Grodno Region",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Region",
+      "lang": ""
+    },
+    {
+      "text": "Grodno (Hrodna) Airport",
+      "url": "https://en.wikipedia.org/wiki/Hrodna_Airport",
+      "lang": ""
+    },
+    {
+      "text": "53°36′07″N 024°03′13″E ﻿ / ﻿ 53.60194°N 24.05361°E ﻿ / 53.60194; 24.05361 ﻿ ( Hrodna Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_36_07_N_024_03_13_E_region:BY_type:airport&title=Hrodna+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Minsk Region",
+      "url": "https://en.wikipedia.org/wiki/Minsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "53°52′56″N 028°01′50″E ﻿ / ﻿ 53.88222°N 28.03056°E ﻿ / 53.88222; 28.03056 ﻿ ( Minsk National Airport (Minsk-2) )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_52_56_N_028_01_50_E_region:BY_type:airport&title=Minsk+National+Airport+%28Minsk-2%29",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev",
+      "url": "https://en.wikipedia.org/wiki/Mogilev",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev Region",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Region",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev Airport",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+      "lang": ""
+    },
+    {
+      "text": "53°57′17″N 030°05′42″E ﻿ / ﻿ 53.95472°N 30.09500°E ﻿ / 53.95472; 30.09500 ﻿ ( Mogilev Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_57_17_N_030_05_42_E_region:BY_type:airport&title=Mogilev+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk",
+      "url": "https://en.wikipedia.org/wiki/Polotsk",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk Airport",
+      "url": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "55°24′42″N 028°44′54″E ﻿ / ﻿ 55.41167°N 28.74833°E ﻿ / 55.41167; 28.74833 ﻿ ( Polotsk Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=55_24_42_N_028_44_54_E_region:BY_type:airport&title=Polotsk+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Vostochny Airport",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "55°07′35″N 030°20′58″E ﻿ / ﻿ 55.12639°N 30.34944°E ﻿ / 55.12639; 30.34944 ﻿ ( Vitebsk Vostochny Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=55_07_35_N_030_20_58_E_region:BY_type:airport&title=Vitebsk+Vostochny+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel",
+      "url": "https://en.wikipedia.org/wiki/Gomel",
+      "lang": ""
+    },
+    {
+      "text": "Gomel Region",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Region",
+      "lang": ""
+    },
+    {
+      "text": "Pribytki Air Base",
+      "url": "https://en.wikipedia.org/wiki/Pribytki",
+      "lang": ""
+    },
+    {
+      "text": "52°18′18″N 031°09′48″E ﻿ / ﻿ 52.30500°N 31.16333°E ﻿ / 52.30500; 31.16333 ﻿ ( Pribytki Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=52_18_18_N_031_09_48_E_region:BY_type:airport&title=Pribytki+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Luninets",
+      "url": "https://en.wikipedia.org/wiki/Luninets",
+      "lang": ""
+    },
+    {
+      "text": "Brest Region",
+      "url": "https://en.wikipedia.org/wiki/Brest_Region",
+      "lang": ""
+    },
+    {
+      "text": "Luninets Air Base",
+      "url": "https://en.wikipedia.org/wiki/Luninets_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "52°16′30″N 026°46′30″E ﻿ / ﻿ 52.27500°N 26.77500°E ﻿ / 52.27500; 26.77500 ﻿ ( Luninets Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=52_16_30_N_026_46_30_E_region:BY_type:airport&title=Luninets+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Machulishchy",
+      "url": "https://en.wikipedia.org/wiki/Machulishchy",
+      "lang": ""
+    },
+    {
+      "text": "Minsk Region",
+      "url": "https://en.wikipedia.org/wiki/Minsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Machulishchy (air base)",
+      "url": "https://en.wikipedia.org/wiki/Machulishchy_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "53°46′24″N 027°34′48″E ﻿ / ﻿ 53.77333°N 27.58000°E ﻿ / 53.77333; 27.58000 ﻿ ( Machulishi Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_46_24_N_027_34_48_E_region:BY_type:airport&title=Machulishi+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Orsha",
+      "url": "https://en.wikipedia.org/wiki/Orsha",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Balbasovo Air Base",
+      "url": "https://en.wikipedia.org/wiki/Balbasovo_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "54°26′24″N 030°17′48″E ﻿ / ﻿ 54.44000°N 30.29667°E ﻿ / 54.44000; 30.29667 ﻿ ( Balbasovo Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=54_26_24_N_030_17_48_E_region:BY_type:airport&title=Balbasovo+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Pastavy",
+      "url": "https://en.wikipedia.org/wiki/Pastavy",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Postavy Air Base",
+      "url": "https://en.wikipedia.org/wiki/Postavy_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "55°07′00″N 026°45′42″E ﻿ / ﻿ 55.11667°N 26.76167°E ﻿ / 55.11667; 26.76167 ﻿ ( Postavy Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=55_07_00_N_026_45_42_E_region:BY_type:airport&title=Postavy+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk",
+      "url": "https://en.wikipedia.org/wiki/Polotsk",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Borovitsy Air Base",
+      "url": "https://en.wikipedia.org/wiki/Borovitsy",
+      "lang": ""
+    },
+    {
+      "text": "55°36′30″N 028°40′42″E ﻿ / ﻿ 55.60833°N 28.67833°E ﻿ / 55.60833; 28.67833 ﻿ ( Borovitsy Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=55_36_30_N_028_40_42_E_region:BY_type:airport&title=Borovitsy+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Region",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Air Base",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "55°15′18″N 030°14′48″E ﻿ / ﻿ 55.25500°N 30.24667°E ﻿ / 55.25500; 30.24667 ﻿ ( Vitebsk Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=55_15_18_N_030_14_48_E_region:BY_type:airport&title=Vitebsk+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Babruysk",
+      "url": "https://en.wikipedia.org/wiki/Babruysk",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev Region",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Region",
+      "lang": ""
+    },
+    {
+      "text": "Babruysk Air Base",
+      "url": "https://en.wikipedia.org/wiki/Babruysk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "53°06′17″N 029°12′21″E ﻿ / ﻿ 53.10472°N 29.20583°E ﻿ / 53.10472; 29.20583 ﻿ ( Babruysk Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_06_17_N_029_12_21_E_region:BY_type:airport&title=Babruysk+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Minsk Region",
+      "url": "https://en.wikipedia.org/wiki/Minsk_Region",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1 Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "53°51′52″N 027°32′22″E ﻿ / ﻿ 53.86444°N 27.53944°E ﻿ / 53.86444; 27.53944 ﻿ ( Minsk-1 Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Belarus&params=53_51_52_N_027_32_22_E_region:BY_type:airport&title=Minsk-1+Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Belarus",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belarusian Air Force",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UM - Belarus (and Kaliningrad, Russia)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UM_-_Belarus_(and_Kaliningrad,_Russia)",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia:WikiProject Aviation/Airline destination lists: Europe#Belarus",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Europe#Belarus",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"UMLI - Minsk/Machulishchi Airport\"",
+      "url": "https://web.archive.org/web/20190414232106/http://skyvector.com/airport/UMLI/Minsk-Machulishchi-Airport",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://skyvector.com/airport/UMLI/Minsk-Machulishchi-Airport",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20190325001252/https://www.icao.int/safety/ism/Accident%2520Incident%2520Reporting%2520Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"IATA Airline and Airport Code Search\"",
+      "url": "http://www.iata.org/publications/Pages/code-search.aspx",
+      "lang": ""
+    },
+    {
+      "text": "International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Belarus\"",
+      "url": "http://www.unece.org/fileadmin/DAM/cefact/locode/by.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Belarus\"",
+      "url": "http://www.gcmap.com/search?Q=country:BY",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Brest",
+      "url": "https://en.wikipedia.org/wiki/Brest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel (Homyel)",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Viciebsk Uschodni",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mahilyow",
+      "url": "https://en.wikipedia.org/wiki/Mahilyow_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno (Hrodna)",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Albania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Albania",
+      "lang": ""
+    },
+    {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Andorra",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Austria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Austria",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bosnia_and_Herzegovina",
+      "lang": ""
+    },
+    {
+      "text": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+      "lang": ""
+    },
+    {
+      "text": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Croatia",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Czech_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Denmark",
+      "lang": ""
+    },
+    {
+      "text": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Estonia",
+      "lang": ""
+    },
+    {
+      "text": "Finland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Finland",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_France",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Germany",
+      "lang": ""
+    },
+    {
+      "text": "Greece",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Greece",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iceland",
+      "lang": ""
+    },
+    {
+      "text": "Ireland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_Ireland",
+      "lang": ""
+    },
+    {
+      "text": "Italy",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Italy",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Latvia",
+      "lang": ""
+    },
+    {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Liechtenstein",
+      "lang": ""
+    },
+    {
+      "text": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lithuania",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Luxembourg",
+      "lang": ""
+    },
+    {
+      "text": "Malta",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malta",
+      "lang": ""
+    },
+    {
+      "text": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Moldova",
+      "lang": ""
+    },
+    {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Monaco",
+      "lang": ""
+    },
+    {
+      "text": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Montenegro",
+      "lang": ""
+    },
+    {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Netherlands",
+      "lang": ""
+    },
+    {
+      "text": "North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Macedonia",
+      "lang": ""
+    },
+    {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Norway",
+      "lang": ""
+    },
+    {
+      "text": "Poland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Poland",
+      "lang": ""
+    },
+    {
+      "text": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Portugal",
+      "lang": ""
+    },
+    {
+      "text": "Romania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Romania",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "San Marino",
+      "url": "https://en.wikipedia.org/wiki/Torraccia_airfield",
+      "lang": ""
+    },
+    {
+      "text": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Serbia",
+      "lang": ""
+    },
+    {
+      "text": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovakia",
+      "lang": ""
+    },
+    {
+      "text": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovenia",
+      "lang": ""
+    },
+    {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
+      "lang": ""
+    },
+    {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sweden",
+      "lang": ""
+    },
+    {
+      "text": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Switzerland",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Vatican_City#Air_transport",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kosovo",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Transnistria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Transnistria",
+      "lang": ""
+    },
+    {
+      "text": "Åland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Åland",
+      "lang": ""
+    },
+    {
+      "text": "Faroe Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Faroe_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Gibraltar",
+      "url": "https://en.wikipedia.org/wiki/Gibraltar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guernsey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Guernsey",
+      "lang": ""
+    },
+    {
+      "text": "Isle of Man",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jersey",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svalbard",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&oldid=1311828710",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&oldid=1311828710",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Belarus",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Belarus transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Belarus_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Belarus",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Belarus&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-by.txt"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "uz-airports-ourairports",
+  "url": "https://ourairports.com/countries/UZ/airports.csv",
+  "retrievedAt": "2026-11-06T11:09:15.539948+00:00",
+  "status": 200,
+  "finalUrl": "https://ourairports.com/countries/UZ/airports.csv",
+  "bytes": 34242,
+  "sha256": "35a0ae4db806d591599529350faa7f7fb69c545617668d97ffa8d27c49487151",
+  "file": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+  "title": "",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/uz-airports-ourairports.txt"
+}

@@ -1,0 +1,216 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,icao_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+6421,UAAA,large_airport,"Almaty International Airport",43.354267,77.042828,2234,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Almaty,1,UAAA,UAAA,ALA,,,https://en.wikipedia.org/wiki/Almaty_International_Airport,"Alma Ata",1275,2022-09-30T12:00:47+00:00
+6423,UACC,large_airport,"Nursultan Nazarbayev International Airport",51.027035,71.467094,1165,AS,Kazakhstan,KZ,"Astana City",KZ-AST,AST,Astana,1,UACC,UACC,NQZ,,https://www.nn-airport.kz,https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport,"TSE, Astana Airport",1275,2026-04-07T17:37:17+00:00
+6429,UAII,large_airport,"Shymkent International Airport",42.365021,69.47564,1385,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Shymkent,1,UAII,UAII,CIT,,,https://en.wikipedia.org/wiki/Shymkent_Airport,"Chimkent Airport, Аэропорт Шымкент, Аэропорт Чимкент",1000,2026-01-09T17:17:36+00:00
+6436,UATE,large_airport,"Aktau International Airport",43.860093,51.09086,73,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Aktau,1,UATE,UATE,SCO,,http://aktau-airport.kz/,https://en.wikipedia.org/wiki/Aktau_Airport,Akshukyr,1000,2026-01-10T00:55:44+00:00
+6438,UATT,large_airport,"Aktobe International Airport",50.248116,57.204144,738,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Aktobe,1,UATT,UATT,AKX,,,https://en.wikipedia.org/wiki/Aktobe_Airport,"Aktyubinsk Airport, Aktubinsk Airport, Аэропорт Актюбинск",1000,2026-01-08T21:31:24+00:00
+6437,UATG,large_airport,"Atyrau International Airport",47.121318,51.820343,-72,AS,Kazakhstan,KZ,"Atyrau Region",KZ-ATY,ATY,Atyrau,1,UATG,UATG,GUW,,https://guw.aero,https://en.wikipedia.org/wiki/Atyrau_Airport,,1000,2026-02-14T22:55:51+00:00
+6431,UAKK,large_airport,"Sary-Arka Airport",49.670799,73.334396,1765,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Karaganda,1,UAKK,UAKK,KGF,,,https://en.wikipedia.org/wiki/Sary-Arka_Airport,,1000,2026-01-08T21:38:26+00:00
+6432,UARR,large_airport,"Manshuk Mametova International Airport",51.151976,51.543652,125,AS,Kazakhstan,KZ,"West Kazakhstan Region",KZ-ZAP,ZAP,Uralsk,1,UARR,UARR,URA,,,https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport,"Podstepnyy, Uralsk International Airport, Oral Ak Zhol Airport",1000,2026-01-16T03:57:01+00:00
+6435,UASS,large_airport,"Semei International Airport",50.351295,80.234398,761,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Semey,1,UASS,UASS,PLX,,,https://en.wikipedia.org/wiki/Semey_Airport,"Semipalatinsk Airport, Semey International Airport",1000,2026-01-08T21:42:31+00:00
+6433,UASK,large_airport,"Oskemen International Airport",50.035033,82.496057,939,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,"Ust-Kamenogorsk (Oskemen)",1,UASK,UASK,UKK,,,https://en.wikipedia.org/wiki/Ust-Kamenogorsk_Airport,"Ust-Kamennogorsk Airport, Аэропорт Усть-Каменногорск",1000,2026-01-08T21:44:19+00:00
+44336,UAOL,large_airport,"Baikonur Krayniy International Airport",45.621994,63.210773,317,AS,Kazakhstan,KZ,"Baikonur City",KZ-BAY,BAY,Baikonur,1,UAOL,UAOL,BXY,,,https://en.wikipedia.org/wiki/Baikonur_Krayniy_Airport,"Krayniy Airport, Аэропорт Крайний",1000,2026-01-08T21:54:44+00:00
+6439,UAUU,large_airport,"Kostanay International Airport",53.206902,63.550301,595,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Kostanay,1,UAUU,UAUU,KSN,,,https://en.wikipedia.org/wiki/Kostanai_Airport,,1000,2026-01-08T21:47:03+00:00
+6434,UASP,large_airport,"Pavlodar International Airport",52.194982,77.073088,410,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Pavlodar,1,UASP,UASP,PWQ,,,https://en.wikipedia.org/wiki/Pavlodar_Airport,"Pavlodar South",1000,2026-01-08T21:51:15+00:00
+32495,UACP,large_airport,"Petropavl International Airport",54.775622,69.187415,453,AS,Kazakhstan,KZ,"North Kazakhstan Region",KZ-SEV,SEV,Petropavl,1,UACP,UACP,PPK,,,https://en.wikipedia.org/wiki/Petropavl_Airport_(Kazakhstan),,1000,2026-01-08T21:48:00+00:00
+337747,UAIT,large_airport,"Hazrat Sultan International Airport",43.311087,68.550352,951,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Turkıstan,1,UAIT,UAIT,HSA,,,https://en.wikipedia.org/wiki/Hazret_Sultan_International_Airport,,1000,2026-04-07T02:14:34+00:00
+6430,UAKD,large_airport,"Zhezkazgan National Airport",47.708953,67.738094,1250,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Zhezkazgan,1,UAKD,UAKD,DZN,,,https://en.wikipedia.org/wiki/Dzhezkazgan_Airport,"УАКД, Жезказган, Dzhezkazgan South",1000,2026-01-08T21:53:58+00:00
+31768,UACK,large_airport,"Kokshetau International Airport",53.329102,69.594597,900,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Kokshetau,1,UACK,UACK,KOV,,,https://en.wikipedia.org/wiki/Kokshetau_Airport,"KOKCHETAV TROFIMOVKA",1000,2026-01-08T21:49:43+00:00
+31794,UAOO,large_airport,"Korkyt Ata International Airport",44.706902,65.592499,433,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Kyzylorda,1,UAOO,UAOO,KZO,,,https://en.wikipedia.org/wiki/Kyzylorda_Airport,"Kyzylorda Southwest",1000,2026-01-08T21:28:07+00:00
+6424,UADD,large_airport,"Taraz International Airport",42.8536,71.303596,2184,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Taraz,1,UADD,UADD,DMB,,,https://en.wikipedia.org/wiki/Taraz_Airport,"Aulie Ata, Jambyl",1000,2026-01-16T03:52:44+00:00
+41868,UAAT,medium_airport,"Taldykorgan Airport",45.12255,78.442758,1925,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Taldykorgan,1,UAAT,UAAT,TDK,,,https://en.wikipedia.org/wiki/Taldykorgan_Airport,"Taldy Kurgan Airport, Taldy Kurgan Northeast Airport, Аэропорт Талды-Курган",500,2026-04-07T17:21:34+00:00
+44335,UAON,medium_airport,"Yubileyniy Airfield",46.052421,63.249185,328,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Töretam,0,UAON,UAON,,,,https://en.wikipedia.org/wiki/Yubileyniy_Airport,"Yubileyniy Airfield, Yubileiniy Airfield, Yubileyny Airfield, Yubileiny Airfield, Аэродром Юбилейный",250,2025-09-13T16:05:56+00:00
+346658,KZ-0114,small_airport,"Bayanaul Airport",50.778128,75.744596,,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Bayanaul,0,,,,,,,,50,2021-07-29T09:41:13+00:00
+342859,KZ-0112,small_airport,"Balapan Airfield",49.729771,73.300537,1795,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Karagandy,0,,,,,,,,50,2021-04-12T00:18:34+00:00
+41892,KZ-0040,small_airport,"Kokshetau Old Airport",53.3241,69.369003,731,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Kokshetau,0,,,,,,,,50,2021-04-12T00:40:00+00:00
+319914,KZ-0087,small_airport,"Kambala Air Base",46.02491,73.494567,1330,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Priozersk,0,,,,XAAM,,https://en.wikipedia.org/wiki/Kambala_(air_base),"Камбала, Sary Shagan",50,2025-01-30T21:33:52+00:00
+3964,UA34,small_airport,"Chardara Airport",41.2765007019043,67.97100067138672,709,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Shardara,0,UA34,,,UA34,,,,50,2008-08-05T15:31:46+00:00
+599862,KZ-7478,heliport,"Zhana-Arna Heliport",43.737642,77.026169,1542,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,,0,,,,,,,,0,2025-08-17T05:51:39+00:00
+599872,KZ-7488,heliport,"Targap Heliport",43.349061,75.47135,2375,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,,0,,,,,,,,0,2025-08-17T06:27:14+00:00
+599856,KZ-7472,heliport,"Akshatau Heliport",47.947583,74.016881,1640,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,,0,,,,,,,,0,2025-08-17T05:16:16+00:00
+599866,KZ-7482,heliport,"Medeo Heliport",43.152756,77.0635,5968,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Almaty,0,,,,,,,,0,2025-08-17T06:03:00+00:00
+599857,KZ-7473,heliport,"Anar Heliport",50.673825,72.388061,1444,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Anar,0,,,,,,,,0,2025-08-17T05:27:18+00:00
+599860,KZ-7476,heliport,"Hospital of the Medical Center of the Presidential Administration of the Republic of Kazakhstan Heliport",51.077336,71.423828,1148,AS,Kazakhstan,KZ,"Astana City",KZ-AST,AST,Astana,0,,,,,,,,0,2025-08-17T05:43:29+00:00
+599867,KZ-7483,heliport,"Airbus Helicopters Kazakhstan Engineering",51.042315,71.479777,,AS,Kazakhstan,KZ,"Astana City",KZ-AST,AST,Astana,0,,,,,,,,0,2025-08-17T06:09:18+00:00
+599868,KZ-7484,heliport,"National Scientific Cardiac Surgery Center Heliport",51.118722,71.405417,1148,AS,Kazakhstan,KZ,"Astana City",KZ-AST,AST,Astana,0,,,,,,,,0,2025-08-17T06:12:16+00:00
+599858,KZ-7474,heliport,"Balkhash Heliport",46.863189,74.877467,1148,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Balkhash,0,,,,,,,,0,2025-08-17T05:34:39+00:00
+599859,KZ-7475,heliport,"Beyneu Heliport",45.340539,55.172858,7,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Beyneu,0,,,,,,,,0,2025-08-17T05:37:16+00:00
+599861,KZ-7477,heliport,"Dossor Heliport",47.534342,52.956575,-82,AS,Kazakhstan,KZ,"Atyrau Region",KZ-ATY,ATY,Dossor,0,,,,,,,,0,2025-08-17T05:45:40+00:00
+599863,KZ-7479,heliport,"Kazaly Heliport",45.792917,62.110194,,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Kazaly,0,,,,,,,,0,2025-08-17T05:54:24+00:00
+599864,KZ-7480,heliport,"Kurty Heliport",43.881319,76.344294,2198,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Kurty,0,,,,,,,,0,2025-08-17T05:58:10+00:00
+599865,KZ-7481,heliport,"Makinsk Heliport",52.650783,70.3828,1204,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Makinsk,0,,,,HG59,,,"ХГ59, Макинск",0,2025-08-17T09:31:56+00:00
+599870,KZ-7486,heliport,"Semyonovka Heliport",51.055886,79.11415,,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Qarabas,0,,,,,,,,0,2025-08-17T06:20:33+00:00
+599869,KZ-7485,heliport,"Saryshaghan Heliport",46.137506,73.607444,1125,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Saryshaghan,0,,,,,,,,0,2025-08-17T06:17:36+00:00
+599871,KZ-7487,heliport,"Standart-Cement Heliport",42.347222,69.728611,2008,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Shymkent,0,,,,,,,,0,2025-08-21T19:38:08+00:00
+599874,KZ-7489,heliport,"Usharal Heliport",46.200036,80.870528,1476,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Usharal,0,,,,,,,,0,2025-08-17T06:29:58+00:00
+6422,UAAH,medium_airport,"Balkhash Airport",46.894246,75.004533,1446,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Balkhash,1,UAAH,UAAH,BXH,,,https://en.wikipedia.org/wiki/Balkhash_Airport,Balqash,500,2024-04-12T12:53:05+00:00
+32501,UASA,medium_airport,"Ayaguz Airport",47.919218,80.452194,2119,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Ayaguz,0,UASA,,,,,https://kk.wikipedia.org/wiki/%D0%90%D1%8F%D0%B3%D3%A9%D0%B7_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B,Ayagoz,250,2024-05-20T21:04:11+00:00
+41886,UASB,medium_airport,"Ekibastuz Airport",51.590999603271484,75.21499633789062,621,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Ekibastuz,0,UASB,UASB,EKB,,,https://en.wikipedia.org/wiki/Ekibastuz_Airport,"Аэропорт Экибастуз",250,2009-04-22T19:45:54+00:00
+44355,KZ-0068,medium_airport,"Kurchatov Airfield",50.736074,78.538942,545,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Kurchatov,0,,,,,,,"Аэродром Курчатов",250,2022-09-30T11:27:25+00:00
+34976,KZ-7470,medium_airport,"Dolon Air Base",50.536891,79.194689,705,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Semey,0,UASD,,,,,https://en.wikipedia.org/wiki/Dolon_(air_base),"Chagan-16, Semipalitinsk Dolon",250,2023-03-22T15:15:23+00:00
+44391,UATR,medium_airport,"Shalkar Airport",47.904999,59.619999,561,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Shalkar,0,UATR,,,,,https://kk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D2%9B%D0%B0%D1%80_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B,"Chelkar, Аэропорт Челкар, Аэропорт Шалкар",250,2024-05-20T21:04:28+00:00
+44357,KZ-0069,medium_airport,"Zhangiztobe Air Base",49.219952,81.317368,,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Zhangiztobe,0,,,,,,,"Zhangiz-Tobe Air Base, Аэродром Жангизтобе, Аэродром Жангиз-Тобе",250,2022-09-30T11:29:02+00:00
+313684,UZR,small_airport,"Urzhar Airport",47.091786,81.668216,,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Urzhar,1,UASU,UASU,UZR,,,https://en.wikipedia.org/wiki/Urzhar_Airport,"Urdzhar, Үржар, Урджар",100,2026-04-07T18:03:15+00:00
+318380,UAAL,small_airport,"Usharal Airport",46.190767,80.830922,1288,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Usharal,1,UAAL,UAAL,USJ,,,https://en.wikipedia.org/wiki/Usharal_Airport,"Enbekshi Airport",100,2024-04-12T12:36:15+00:00
+318183,UASZ,small_airport,"Zaysan Airport",47.487491,84.887675,1877,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Zaysan,1,UASZ,UASZ,SZI,,,https://en.wikipedia.org/wiki/Zaysan_Airport,Zaisan,100,2026-04-07T18:00:36+00:00
+41873,KZ-0021,closed,"Abay Bazar Airport",41.362202,68.987602,1179,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Abay,0,,,,,,,,50,2022-06-28T14:53:44+00:00
+41875,KZ-0023,closed,"Aitbuzum East Airport",41.096298,68.682503,965,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Aitbuzum,0,,,,,,,,50,2022-06-28T14:54:31+00:00
+41907,KZ-0055,closed,"Stepnoye East Airport",41.625198,69.3974,1718,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,"Ak Dzhar",0,,,,,,,,50,2022-06-28T15:00:06+00:00
+41908,KZ-0056,closed,"Stepnoye West Airport",41.621399,69.303299,1700,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,"Ak Dzhar",0,,,,,,,,50,2022-06-28T15:00:16+00:00
+319910,KZ-0083,small_airport,"Akchatau Airport",47.891086,74.054011,2135,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Akchatau,0,,,,,,,"TPC F-6A",50,2016-08-20T20:36:46+00:00
+317106,KZ-0076,closed,"Blagoveshchenskoye-Chu Airport",43.259973,74.038989,1795,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Aksu,0,,,,,,,,50,2026-04-07T01:55:24+00:00
+318186,KZ-0080,small_airport,"Akkala Airport",47.784326,82.65697,1890,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Aksuat,0,,,,ZCZ0,,,"Ekpin, Аккала, Аксуат",50,2022-09-30T11:29:14+00:00
+41870,KZ-0018,closed,"Yeskiikan Southeast Airport",43.265598,68.6427,896,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Aktobe,0,,,,,,,,50,2026-04-07T02:15:37+00:00
+44327,KZ-0066,small_airport,"Aktogay Air Base",46.89158,79.846745,1188,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Aktogay,0,ZDX5,,,,,,"Аэродром Актогай",50,2023-03-22T23:04:31+00:00
+46156,KZ-0001,small_airport,"Zhuz-Agach Air Base",47.072109,79.711225,1224,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Aktogay,0,XASA,,,,,,"Аэродром Жуз-Агач",50,2023-03-22T14:50:41+00:00
+342074,KZ-0096,closed,"Balkhash East Airfield",46.8861,75.3972,1135,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Aktogay,0,,,,,,,"ЬААХ, Актогай, XAAH",50,2026-01-19T17:25:57+00:00
+41861,KZ-0009,small_airport,"Gurvey Northeast Airport",47.224939,51.987159,100,AS,Kazakhstan,KZ,"Atyrau Region",KZ-ATY,ATY,Akzhar,0,UATL,,,,,,,50,2023-09-21T14:23:16+00:00
+318185,KZ-0079,small_airport,"Akzhar Airport",47.582142,83.726539,,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Akzhar,0,UASV,,,,,,,50,2023-03-22T23:04:59+00:00
+41874,KZ-0022,small_airport,"Almaty North Airport",43.37300109863281,76.9800033569336,2159,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Almaty,0,,,,,,,"Alma-Ata North Airport, Аэропорт Алма-Ата Северная",50,2009-04-22T05:10:42+00:00
+32502,UATA,small_airport,"Aralsk Airport",46.829572,61.612444,223,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Aralsk,0,UATA,UATA,,,,https://kk.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BB_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B,"Aral'sk Airport, Аэропорт Аральск",50,2025-09-13T16:10:49+00:00
+30668,UAUR,small_airport,"Arkalyk North Airport",50.318599700927734,66.95279693603516,1266,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Arkalyk,0,UAUR,UAUR,AYK,,,https://en.wikipedia.org/wiki/Arkalyk_Airport,,50,2008-09-15T08:54:44+00:00
+41854,KZ-0002,small_airport,"Arkalyk Airport",50.239498,66.941002,1152,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Arkalyk,0,HD2N,,,,,,,50,2023-03-22T20:08:58+00:00
+41877,KZ-0025,small_airport,"Arkaylyk South Airport",50.25979995727539,66.910400390625,1118,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Arkalyk,0,,,,,,,,50,2008-09-15T08:55:08+00:00
+41855,KZ-0003,closed,"Arys Northeast Airport",42.470299,68.838203,750,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Arys,0,,,,,,,,50,2026-04-07T02:32:12+00:00
+30659,KZ-ATX,small_airport,"Atbasar Airport",51.852306,68.366892,1010,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Atbasar,0,,,ATX,,,https://en.wikipedia.org/wiki/Atbasar_Airport,"Аэропорт Атбасар",50,2021-03-09T01:09:12+00:00
+41856,KZ-0004,closed,"Badam Airport",42.3913,69.280502,1102,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Badam,0,,,,,,,,50,2026-04-07T02:30:16+00:00
+319915,KZ-0088,small_airport,"Jeppesen Avia Club Airport",44.564,76.6392,1345,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Bakbakty,0,,,,ZBC5,,,,50,2016-08-21T00:21:23+00:00
+44401,KZ-0073,small_airport,"Chundzha Airfield",43.598202,79.427366,,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Bakhar,0,UAAM,,,,,,"Аэродром Чунджа",50,2023-03-22T14:10:58+00:00
+342076,KZ-0097,small_airport,"Barshatas Airfield",48.1616,78.6766,2188,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Barshatas,0,UASN,,,,,,,50,2023-03-22T23:06:58+00:00
+41876,KZ-0024,closed,"Aksu Airport",42.443501,69.821999,1900,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,"Belyye Vody",0,,,,,,,"Aksukent, Аксукент, Belyye Vody",50,2016-02-24T00:00:02+00:00
+319921,KZ-0090,small_airport,"Beyneu Airport",45.33196,55.12443,10,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Beyneu,0,,,,ZCV6,,,,50,2016-08-21T12:26:30+00:00
+41879,KZ-0027,closed,"Blinkovo Airport",42.2556,70.125801,3571,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Blinkovo,0,,,,,,,,50,2026-04-07T02:28:47+00:00
+41853,UAAR,small_airport,"Boralday Airport",43.352052,76.883039,2313,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Boralday,0,UAAR,UAAR,BXJ,,http://www.burundaiavia.kz/?lan=en,https://en.wikipedia.org/wiki/Boraldai_Airport,"Burunday Airport, Almaty Northwest, Alma-Ata Northwest, Аэропорт Боралдай, Аэропорт Бурундай, Аэропорт Алма-Ата Северозападная",50,2024-05-17T08:32:34+00:00
+41880,KZ-0028,closed,"Bugun Airport",42.7575,68.979599,803,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Bugun,0,,,,,,,,50,2026-04-07T02:18:04+00:00
+41881,KZ-0029,small_airport,"Burynshik Airport",45.38560104370117,51.76649856567383,1,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Burynshik,0,,,,,,,,50,2008-09-15T08:55:12+00:00
+41882,KZ-0030,small_airport,"Burynshik Southeast Airport",45.34389877319336,51.82680130004883,1,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Burynshik,0,,,,,,,,50,2008-09-15T08:55:13+00:00
+44428,KZ-0075,closed,"Charyn Airfield",43.720609,79.476141,,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Charyn,0,,,,,,,"Sharyn Airfield, Аэродром Чарын, Аэродром Шарын, ZFC0, ZDY0",50,2026-04-06T14:49:50+00:00
+41858,KZ-0006,small_airport,"Chilik Southeast Airfield",43.222679,78.717153,4497,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Chilik,0,,,,,,,,50,2021-04-11T22:16:44+00:00
+41884,KZ-0032,closed,"Chubarovka Airport",42.573502,69.364403,1100,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Chubarovka,0,,,,,,,,50,2026-04-07T02:20:25+00:00
+351304,KZ-0133,small_airport,"Dzhaksy Dzhartasskiy Airport",47.32725,80.52767,1732,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,"Dzhaksy Dzhartasskiy",0,,,,,,,,50,2022-09-30T11:30:01+00:00
+319911,KZ-0084,small_airport,"Gora Sasyrly Airport",47.187197,71.388559,1800,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Dzhambul,0,,,,,,,Gzhambul,50,2022-08-18T15:14:28+00:00
+41885,KZ-0033,small_airport,"Dzhetygara Airport",52.20649,61.174008,905,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Dzhetygara,0,,,,,,,,50,2022-01-07T16:24:17+00:00
+342856,KZ-0110,small_airport,"Zholaman Airfield",51.2987,71.4654,1169,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Gerasimovskoye,0,,,,,,,,50,2021-04-12T00:03:01+00:00
+342857,KZ-0111,small_airport,"Stolichny Airfield",51.31632,71.36083,1152,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Gerasimovskoye,0,,,,,,,,50,2021-04-12T00:05:20+00:00
+41909,KZ-0057,closed,"Syugaty Airport",43.172298,74.622002,2030,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Kalguta,0,,,,,,,,50,2026-04-07T01:56:29+00:00
+41864,KZ-0012,closed,"Karabulak Airport",42.502899,69.803101,1670,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Karabulak,0,,,,,,,UATN,50,2026-04-07T02:23:05+00:00
+41888,KZ-0036,small_airport,"Karaganda Southwest Airport",49.66510009765625,72.981201171875,1634,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Karaganda,0,,,,,,,,50,2008-09-15T08:55:19+00:00
+41887,KZ-0035,closed,"Karagandy Southeast Airport",49.808391,73.170138,1800,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Karagandy,0,,,,,,,,50,2021-04-13T03:07:07+00:00
+41889,KZ-0037,small_airport,"Karazhal Airport",47.98452,70.76531,2155,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Karazhal,0,,,,,,,,50,2025-01-30T21:21:16+00:00
+342847,KZ-0101,small_airport,"Arman Dala Airstrip",43.15743,76.6324,3380,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Kaskelen,0,,,,,,,,50,2021-04-11T21:42:05+00:00
+41890,KZ-0038,small_airport,"Kegan Airport",43.007767,79.219867,6051,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Kegen,0,,,,,,,,50,2022-06-28T16:48:42+00:00
+41891,KZ-0039,closed,"Kentau Airport",43.4883,68.495499,1275,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Kentau,0,,,,,,,,50,2026-04-07T02:16:31+00:00
+342854,KZ-0108,small_airport,"Kokpek Highway Strip",43.442318,78.858286,1067,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Kokpek,0,XAAK,,,,,,"Кокпек, Kokpek East",50,2023-03-22T14:11:36+00:00
+319912,KZ-0085,small_airport,"Koktas Southwest Airport",47.351,70.616,1474,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Koktas,0,,,,,,,,50,2022-09-30T12:14:22+00:00
+319913,KZ-0086,small_airport,"Koktas Airport",47.341,70.684,1504,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Koktas,0,,,,,,,,50,2022-09-30T12:14:10+00:00
+41862,KZ-0010,small_airport,"Iliysk North Airport",43.997849,77.136611,2343,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Konaev,0,,,,,,,,50,2026-04-06T15:37:06+00:00
+41866,KZ-0014,small_airport,"Kostanay Airport",53.229599,63.603199,549,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Kostanay,0,ZCY7,,,,,,,50,2023-03-22T20:10:51+00:00
+534351,KZ-0141,small_airport,"Ak Sunkar Airport",53.189394,63.744611,620,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Kostanay,0,,,,,,,"Qostanay, Tobyl",50,2024-06-21T13:22:19+00:00
+41857,KZ-0005,small_airport,"Buzachi Airport",45.193846,51.349721,1,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Kultay,0,UATD,,,,,https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B7%D0%B0%D1%89%D1%8B_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B,"Аэропорт Бузачи",50,2024-05-20T16:52:40+00:00
+41863,KZ-0011,small_airport,"Zhetygen Air Base",43.732848,77.120005,1638,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Kuygan,0,,,,XAAA,,,"Zhetygen Airport, Iliysk South Airport, Nikolayevka Air Base, Nikolaevka Air Base",50,2026-04-06T15:36:35+00:00
+41894,KZ-0042,closed,"Kyzylasker Airport",42.608601,69.589996,1231,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Kyzylasker,0,,,,,,,,50,2026-04-07T02:21:10+00:00
+41895,KZ-0043,closed,"Kyzylkishlak Airport",42.550701,69.658302,1457,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Kyzylkishlak,0,,,,,,,,50,2026-04-07T02:21:54+00:00
+41896,KZ-0044,closed,"Kyzylorda Old Airport",44.815701,65.556999,410,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Kyzylorda,0,,,,,,,,50,2021-04-11T23:28:31+00:00
+41865,KZ-0013,closed,"Kok-Tyube Airport",42.885601,68.979103,781,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Kyzyltu,0,,,,,,,,50,2026-04-07T02:17:25+00:00
+351303,KZ-0132,small_airport,"Lepsy Airfield",46.16,79.285,1345,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Lepsy,0,ZDX3,,,,,,,50,2025-01-30T21:51:29+00:00
+3966,UA36,small_airport,"Lugovoy Airport",42.972565,72.728051,2130,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Lugovoy,0,UA36,,,XAAL,,,,50,2021-04-11T13:59:06+00:00
+317105,KZ-0034,small_airport,"Moinkum Airport",43.609489,74.279346,3120,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Moinkum,0,,,,,,,"Moyynkum, Мойынкум",50,2021-04-11T22:56:48+00:00
+342852,KZ-0106,small_airport,"Moyynkum Airport",44.271803,72.947553,1145,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Moyynkum,0,,,,,,,,50,2026-04-07T01:50:47+00:00
+41800,UZ-0112,small_airport,"Malekskaya Airport",40.709064,68.581698,865,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Myrzakent,0,,,,,,,,50,2026-04-06T14:32:54+00:00
+41897,KZ-0045,closed,"Narynkol Airport",42.720001,80.186096,6012,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Narynkol,0,,,,,,,,50,2022-06-28T16:48:23+00:00
+512273,ZEZ4,small_airport,"Urzhar East Airport",47.078815,81.783439,,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Nauali,0,ZEZ4,,,,,,,50,2026-04-06T14:28:17+00:00
+319922,KZ-0091,small_airport,"Novotroitskoye Airport",53.9114,61.5384,745,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Novotroitskoye,0,,,,ZD00,,,,50,2016-08-21T13:56:35+00:00
+41899,KZ-0047,closed,"Obruchevka Airport",42.5107,69.115898,912,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Obruchevka,0,,,,,,,,50,2026-04-07T02:31:37+00:00
+41871,KZ-0019,small_airport,"Bayserke Airport",43.448002,77.049599,2038,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,"Otegen Batyr",0,UAAC,,,,,,"Zakirovskiy Airport",50,2022-01-07T12:21:03+00:00
+41900,KZ-0048,closed,"Pervomoyevka Airport",42.0947,69.901497,2949,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Pervomoyevka,0,,,,,,,,50,2026-04-07T02:29:37+00:00
+41901,KZ-0049,small_airport,"Petropavl North Airport",54.970204,69.070935,295,AS,Kazakhstan,KZ,"North Kazakhstan Region",KZ-SEV,SEV,Petropavl,0,,,,,,,,50,2021-04-12T00:42:20+00:00
+41902,KZ-0050,closed,"Podgorny Airport",43.11275,72.433876,2150,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Podgorny,0,,,,,,,,50,2026-04-06T17:57:25+00:00
+41903,KZ-0051,small_airport,"Rodnikovskiy Airport",50.641300201416016,57.1693000793457,1191,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Rodnikovskiy,0,,,,,,,,50,2008-09-15T08:55:34+00:00
+342855,KZ-0109,small_airport,"Romanovka Airfield",50.82409,71.368612,1211,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Romanovka,0,,,,,,,,50,2021-04-11T23:53:15+00:00
+607056,KZ-7500,small_airport,"Samsi Airstrip",43.30192,76.15901,2566,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Samsi,0,,,,,,,,50,2026-04-06T15:44:19+00:00
+41867,KZ-0015,closed,"Sarkand Airport",45.418598,79.931702,2500,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Sarkand,0,,,,,,,AG2234,50,2022-09-30T11:58:07+00:00
+41904,KZ-0052,closed,"Sary Agach Airport",41.4562,69.141899,1418,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,"Sary Agach",0,,,,,,,,50,2022-06-28T15:00:26+00:00
+44405,KZ-0074,small_airport,"Dzhaman Kuduk Air Base",46.347,72.82,1729,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,"Sary Shagan",0,XAAD,,,,,,"Аэродром Джаман Кудук",50,2025-01-30T21:32:29+00:00
+351215,KZ-0127,small_airport,"Sarykamys Airport",45.9154,53.58665,-75,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Sarykamys,0,,,,,,,,50,2022-01-05T10:01:30+00:00
+41859,KZ-0007,small_airport,"Sayram Airport",42.280563,69.807748,2470,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Sayram,0,,,,,,,,50,2021-12-24T11:59:04+00:00
+351007,KZ-0016,small_airport,"Berkut Military Sport Aviation Base Airport",42.29261,69.84615,2471,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Sayram,0,,,,,,,,50,2021-12-24T11:58:10+00:00
+34977,KZ-6022,small_airport,"Dolon Southwest Air Base",50.25,79.083298,830,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Semey,0,UASF,,,,,https://en.wikipedia.org/wiki/Dolon_Southwest,Semipalatinsk,50,2023-03-22T15:14:57+00:00
+41905,KZ-0053,closed,"Shagyr Airport",42.173698,68.841003,1006,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Shagyr,0,,,,,,,,50,2026-04-07T02:33:22+00:00
+41893,KZ-0041,closed,"Krasnyy Most East Airport",42.7691,69.279999,991,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Shaldar,0,,,,,,,,50,2026-04-07T02:18:36+00:00
+41906,KZ-0054,small_airport,"Shelpe Southeast Airport",44.068599700927734,52.2765007019043,935,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Shelpe,0,,,,,,,,50,2008-09-15T08:55:37+00:00
+512274,XAAP,small_airport,"Priozerny Air Base",47.825,83.642,,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Shengeldi,0,XAAP,,,,,,,50,2026-04-06T14:26:52+00:00
+320002,UACS,small_airport,"Stepnogorsk Airport",52.326747,71.855652,1060,AS,Kazakhstan,KZ,"Akmola Region",KZ-AKM,AKM,Stepnogorsk,0,UACS,,,,,,"Aksu, Степногорска, Аксу",50,2021-04-12T00:22:34+00:00
+41910,KZ-0058,closed,"Taganassay Airport",42.218102,69.004402,1035,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Taganassay,0,,,,,,,,50,2026-04-07T02:32:50+00:00
+41911,KZ-0059,closed,"Temirlanovka Airport",42.614498,69.249001,1033,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Temirlanovka,0,,,,,,,Tamerlanovka,50,2026-04-07T02:19:50+00:00
+351217,UATZ,small_airport,"Tengiz Airport",46.301673,53.427308,-78,AS,Kazakhstan,KZ,"Atyrau Region",KZ-ATY,ATY,Tengiz,0,UATZ,,,,,,TCOV,50,2022-08-18T14:42:35+00:00
+349401,KZ-0116,small_airport,"Kabanbay Airport",45.822913,80.679653,2279,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Terekty,0,ZE39,,,,,,"Imeni Pavla Chernousova",50,2025-01-30T21:54:43+00:00
+41912,KZ-0060,closed,"Togyzbay Airport",41.361698,68.741096,1005,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Togyzbay,0,,,,,,,,50,2022-06-28T14:54:05+00:00
+41898,KZ-0046,closed,"Novotroitskoye Airport",43.702801,73.745003,1487,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,"Tole Bi",0,,,,,,,UAAZ,50,2026-04-07T01:53:14+00:00
+318182,KZ-0077,small_airport,"Tughyl Airport",47.675444,84.300148,,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Tughyl,0,UASE,,,,,,,50,2023-03-22T23:05:19+00:00
+319622,UAUT,small_airport,"Turgay Airport",49.632395,63.4703,445,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Turgay,0,UAUT,,,,,,"УАУТ, Торгай",50,2016-07-24T19:34:36+00:00
+41913,KZ-0061,closed,"Turkistan Airport",43.324189,68.404387,820,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Turkistan,0,,,,,,,UAJT,50,2026-04-07T02:13:50+00:00
+342860,KZ-0113,small_airport,"Ulken Airport",45.1671,74.0011,1146,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Ulken,0,,,,,,,,50,2021-04-12T00:30:12+00:00
+41914,KZ-0062,closed,"Uralsk West Airport",51.211896,51.261193,153,AS,Kazakhstan,KZ,"West Kazakhstan Region",KZ-ZAP,ZAP,Uralsk,0,,,,,,,,50,2024-05-01T13:25:45+00:00
+342848,KZ-0102,small_airport,"Azem/Talis Aeroclub Airfield",43.18776,76.55724,2933,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Ushkonyr,0,,,,,,,,50,2021-04-11T21:46:22+00:00
+598393,KZ-7471,small_airport,"Novaya Uzenka Airfield",49.873098,73.021033,1693,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Uzenka,0,,,,ZF8G,,,"ЗФ8Г, Узенка",50,2025-06-20T09:24:12+00:00
+607055,KZ-7499,small_airport,"Ulan Airstrip",43.23408,76.38315,2772,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Uzynagash,0,,,,,,,,50,2026-04-06T15:42:54+00:00
+41916,KZ-0064,small_airport,"Volskoye Airport",50.38880157470703,73.09420013427734,1808,AS,Kazakhstan,KZ,"Karaganda Region",KZ-KAR,KAR,Volskoye,0,,,,,,,,50,2008-09-15T08:55:47+00:00
+41915,KZ-0063,small_airport,"Ush Tobe Airport",50.57619857788086,66.74220275878906,985,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Vostochnyy,0,,,,,,,,50,2008-09-15T08:55:46+00:00
+319920,KZ-0089,small_airport,"Yrgyz Airport",48.625167,61.238285,375,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Yrgyz,0,,,,ZBZ1,,,"Irgiz, Ырғыз, Иргиз",50,2021-12-26T19:19:58+00:00
+318184,KZ-0078,small_airport,"Zaysan West Airport",47.609809,84.57742,,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Zaysan,0,ZE36,,,,,,,50,2023-03-22T14:26:31+00:00
+41869,KZ-0017,small_airport,"Zhanaozen Airport",43.345854,52.933916,695,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Zhanaozen,0,UATW,,,,,https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D2%A3%D0%B0%D3%A9%D0%B7%D0%B5%D0%BD_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B,"Novy Uzen, Uzen",50,2024-05-20T16:52:58+00:00
+313249,HRC,small_airport,"Sary Su Airport",48.3974,70.1915,1307,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Zhayrem,0,,,HRC,,,,"Zhairem, Жайрем",50,2022-09-30T12:14:41+00:00
+44389,KZ-0071,small_airport,"Karas Air Base",48.737,58.042,,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Zhem,0,XATE,,,,,,"Emba Air Base, Аэродром Карась, Аэродром Эмба",50,2023-03-22T14:40:53+00:00
+41860,KZ-0008,closed,"Former Zhezkazgan Airport",47.769244,67.67385,1134,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Zhezkazgan,0,,,,,,,"Dzhezkazgan Airport, Аэропорт Джезказган, Аэропорт Жезказган",50,2022-09-30T12:15:01+00:00
+41872,KZ-0020,closed,"Zhilga South Airport",41.700443,69.005052,1318,AS,Kazakhstan,KZ,"Turkistan Region",KZ-YUZ,YUZ,Zhilga,0,,,,,,,,50,2026-04-07T02:34:04+00:00
+44386,KZ-0070,small_airport,"Zhosaly Airport",45.51813,64.085408,335,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Zhosaly,0,UAOD,,,,,,"Dzhusaly Airport, Josaly, Аэропорт Жосалы, Аэропорт Джусалы",50,2023-03-22T23:07:48+00:00
+318187,KZ-0081,small_airport,"Zubovsk Airport",49.800103,84.214661,,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,Zyryanovsk,0,UASY,,,,,,,50,2023-03-22T23:06:16+00:00
+44390,KZ-0072,heliport,"Aksu Heliport",52.057847,76.90756,381,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Aksu,0,,,,,,,,0,2021-12-26T19:26:53+00:00
+44326,KZ-0065,closed,"Aksuyek Airport",44.611459,74.561062,1341,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Aksuyek,0,,,,,,,"Aksuek Airport, Аэропорт Аксуек, UAAS, УААС",0,2025-01-31T00:39:34+00:00
+341917,KZ-0093,heliport,"Aktau Summer Sea Residence Heliport",43.680865,51.121455,,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Aktau,0,,,,,,,,0,2022-01-04T17:46:48+00:00
+341918,KZ-0094,heliport,"Aktau Summer Sea Harbor Heliport",43.678545,51.123348,,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Aktau,0,,,,,,,,0,2022-01-04T17:46:28+00:00
+341919,KZ-0095,heliport,"Sayakhat Beach Heliport",50.217927,57.288984,,AS,Kazakhstan,KZ,"Aktobe Region",KZ-AKT,AKT,Aktobe,0,,,,,,,,0,2021-03-09T14:03:01+00:00
+317104,KZ-0026,closed,"Novotroitskoye West Airfield",43.7193,73.538,1475,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Algatart,0,,,,,,,,0,2026-04-07T01:53:51+00:00
+351013,KZ-0118,heliport,"Malaya Almatynka Helipad",43.17608,77.00602,4829,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Almaty,0,,,,,,,,0,2021-12-26T19:38:18+00:00
+351014,KZ-0119,heliport,"MCHS Heliport",43.10987,76.91634,4777,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Almaty,0,,,,,,,,0,2021-12-26T19:40:02+00:00
+351295,KZ-0129,heliport,"Almaty City Clinical Hospital Number 4 Heliport",43.32059,76.96088,2300,AS,Kazakhstan,KZ,"Almaty City",KZ-ALA,ALA,Almaty,0,,,,,,,,0,2022-01-07T12:18:43+00:00
+328533,KZ-0092,closed,"Amangeldy Airfield",50.205601,65.178643,453,AS,Kazakhstan,KZ,"Kostanay Region",KZ-KUS,KUS,Amangeldi,0,,,,,,,Амангелді,0,2018-06-23T21:13:02+00:00
+607053,KZ-7497,closed,"Ushtobe Airport",45.21403,77.94242,1401,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Aytu,0,,,,,,,,0,2026-04-06T15:22:57+00:00
+508858,KZ-0139,heliport,"Baikonur Russian Ministry of Internal Affairs Heliport",45.63024,63.29861,338,AS,Kazakhstan,KZ,"Baikonur City",KZ-BAY,BAY,Baikonur,0,,,,,,,,0,2023-05-19T21:09:02+00:00
+508859,KZ-0140,heliport,"Baikonur Number 1 Hospital Heliport",45.61456,63.31261,299,AS,Kazakhstan,KZ,"Baikonur City",KZ-BAY,BAY,Baikonur,0,,,,,,,,0,2023-05-19T21:11:22+00:00
+351012,KZ-0117,heliport,"Bautino East Heliport",44.572237,50.291919,408,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Bautino,0,,,,,,,,0,2022-01-04T17:57:16+00:00
+351209,KZ-0124,heliport,"Bautino Port Heliport",44.56439,50.24676,-85,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Bautino,0,,,,,,,,0,2022-01-04T17:55:22+00:00
+351210,KZ-0125,heliport,"Teniz Hotel Heliport",44.53952,50.24407,-79,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Bautino,0,,,,,,,,0,2022-01-04T17:59:50+00:00
+351305,KZ-0134,heliport,"Bayanaul Heliport",50.83366,75.5568,1298,AS,Kazakhstan,KZ,"Pavlodar Region",KZ-PAV,PAV,Bayanaul,0,,,,,,,,0,2022-01-07T15:09:10+00:00
+599878,KZ-7490,heliport,"Borankul Heliport",46.197782,54.491655,-23,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Borankul,0,,,,HGR8,,,"ХГР8, Боранқұл",0,2025-08-17T08:00:28+00:00
+351074,KZ-0121,heliport,"Kendirli Recreation Center Heliport",42.78257,52.63324,-66,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Fetisovo,0,,,,,,,,0,2021-12-30T10:50:23+00:00
+351211,KZ-0126,heliport,"Akku Hotel Complex Heliport",44.51206,50.24457,-85,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Fort-Shevchenko,0,,,,,,,,0,2022-01-04T18:03:28+00:00
+351208,KZ-0123,heliport,"Ikum Heliport",43.19109,51.28709,-36,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Ikum,0,,,,,,,,0,2022-01-04T17:45:35+00:00
+351015,KZ-0120,heliport,"Karakum Private Heliport",46.83105,79.57243,1168,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Karakum,0,,,,,,,,0,2022-09-30T11:30:50+00:00
+342851,KZ-0105,closed,"Karashoky Airport",44.11078,77.90523,3333,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Karashoky,0,,,,,,,,0,2022-09-30T11:57:19+00:00
+575226,KZ-0143,heliport,"Karazhal Heliport",47.99494,70.79191,1552,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Karazhal,0,,,,,,,,0,2025-01-30T21:22:36+00:00
+351308,KZ-0135,heliport,"Kazakhstan Heliport",44.237344,76.734012,1434,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Kazakhstan,0,,,,,,,,0,2022-01-07T16:23:13+00:00
+607050,KZ-7494,heliport,"Altynkol Heliport",44.16572,80.29439,2336,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Khorgas,0,,,,,,,,0,2026-04-06T15:01:32+00:00
+607054,KZ-7498,heliport,"Kazakhstan Air Assault Forces Training Ground Heliport",43.89441,77.0232,1837,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Konaev,0,,,,,,,,0,2026-04-06T15:33:25+00:00
+607057,KZ-7501,heliport,"Korday Heliport",43.0247,74.73458,2165,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Korday,0,,,,,,,,0,2026-04-06T15:51:37+00:00
+607052,KZ-7496,heliport,"Krushdalasy Heliport",45.32902,77.98801,1381,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Krushdalasy,0,,,,,,,,0,2026-04-06T15:18:31+00:00
+351207,KZ-0122,heliport,"ERSAI Heliport",43.19402,51.58941,-71,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Kuryk,0,,,,,,,,0,2022-01-04T17:43:03+00:00
+342845,KZ-0099,heliport,"Kyzylagash Heliport",45.38011,78.7109,1552,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Kyzylagash,0,,,,,,,,0,2022-09-30T11:57:46+00:00
+575228,KZ-0144,closed,"Former Lepsy Airport",46.25687,78.90478,1339,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Lepsy,0,,,,,,,,0,2025-01-30T21:50:07+00:00
+607049,KZ-7493,heliport,"Qaljat Border Heliport",43.55356,80.66027,3668,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Qaljat,0,,,,,,,,0,2026-04-06T14:58:00+00:00
+342846,KZ-0100,heliport,"Sarkand Heliport",45.42361,79.93414,2474,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Sarkand,0,,,,,,,,0,2022-09-30T11:58:13+00:00
+351216,KZ-0128,heliport,"Yuzhnyy Tengiz Heliport",45.89095,53.56719,-88,AS,Kazakhstan,KZ,"Mangystau Region",KZ-MAN,MAN,Sarykamys,0,,,,,,,,0,2022-01-05T10:00:59+00:00
+342850,KZ-0104,heliport,"Shelek Heliport",43.63669,78.30801,1949,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Shelek,0,,,,,,,,0,2021-04-11T22:36:27+00:00
+356394,KZ-0137,closed,"Shelek Airport",43.63953,78.31338,,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Shelek,0,,,,,,,,0,2022-08-29T16:46:12+00:00
+351300,KZ-0130,heliport,"Shengeldy East Heliport",43.99468,77.48463,1834,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Shengeldy,0,,,,,,,,0,2022-01-07T14:34:57+00:00
+351301,KZ-0131,heliport,"Shengeldy North Heliport",43.99484,77.46949,1821,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Shengeldy,0,,,,,,,,0,2022-01-07T14:35:59+00:00
+599914,KZ-7492,closed,"Kamkaly Heliport",44.832878,70.01245,729,AS,Kazakhstan,KZ,"Jambyl Region",KZ-ZHA,ZHA,Shyganak,0,,,,,,,"UADL, УАДЛ. Шыганак, Қамқалы",0,2025-08-18T16:42:26+00:00
+342844,KZ-0098,heliport,"Tekeli Heliport",44.86743,78.70089,3159,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Tekeli,0,,,,,,,,0,2022-09-30T11:57:31+00:00
+508857,KZ-0138,heliport,"Baikonur Cosmodrome Heliport",45.91131,63.32676,427,AS,Kazakhstan,KZ,"Kyzylorda Region",KZ-KZY,KZY,Töretam,0,,,,,,,,0,2023-05-19T21:16:27+00:00
+599880,KZ-7491,heliport,"Usharal-2 Heliport",46.151565,80.95243,1332,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Usharal,0,,,,ZF9H,,,"ЗФ9Х, Үшарал",0,2025-08-17T10:02:42+00:00
+342849,KZ-0103,heliport,"Ushkonyr Mountain Heliport",43.08326,76.48102,6322,AS,Kazakhstan,KZ,"Almaty Region",KZ-ALM,ALM,Ushkonyr,0,,,,,,,,0,2021-04-11T21:59:35+00:00
+349398,KZ-0115,heliport,"Korshunovo Heliport",50.02167,82.76205,1027,AS,Kazakhstan,KZ,"East Kazakhstan Region",KZ-VOS,VOS,"Ust-Kamenogorsk (Oskemen)",0,,,,,,,,0,2021-11-01T15:20:26+00:00
+607051,KZ-7495,heliport,"Zhansugirov Heliport",45.403811,79.492784,2028,AS,Kazakhstan,KZ,"Jetisu Region",KZ-JET,JET,Zhansugirov,0,,,,,,,,0,2026-04-06T15:08:09+00:00
+575222,KZ-0142,heliport,"Zhezkazgan Heliport",47.77618,67.67774,1132,AS,Kazakhstan,KZ,"Ulytau Region",KZ-ULY,ULY,Zhezkazgan,0,,,,,,,,0,2025-01-30T20:06:29+00:00
+353455,KZ-0136,heliport,"Zhezkent Heliport",50.92777,81.36615,915,AS,Kazakhstan,KZ,"Abai Region",KZ-ABA,ABA,Zhezkent,0,,,,,,,,0,2022-09-30T11:32:27+00:00
+342853,KZ-0107,closed,"Zhuantobe Airport",44.77185,68.83379,568,AS,Kazakhstan,KZ,"North Kazakhstan Region",KZ-SEV,SEV,Zhuantobe,0,,,,,,,,0,2021-04-11T23:13:25+00:00

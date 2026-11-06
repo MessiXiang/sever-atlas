@@ -1,0 +1,2009 @@
+{
+  "id": "ap-mn-08",
+  "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:51.682251+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+  "bytes": 286780,
+  "sha256": "2e836a5d1ef140daf0f8b99429e1918121eb686d9b418b9b2cbe550ed71824cf",
+  "file": "sources/neighbours-2026-11-06/ap-mn-08.html",
+  "title": "Buyant-Ukhaa International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Buyant-Ukhaa+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Buyant-Ukhaa+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Buyant-Ukhaa+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Buyant-Ukhaa+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Development",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Development",
+      "lang": ""
+    },
+    {
+      "text": "1.2 Replacement airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Replacement_airport",
+      "lang": ""
+    },
+    {
+      "text": "2 Former airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Former_airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Traffic figures",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Traffic_figures",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Top destinations",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Top_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 Other facilities",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Other_facilities",
+      "lang": ""
+    },
+    {
+      "text": "5 See also",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "6 Notes",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#Notes",
+      "lang": ""
+    },
+    {
+      "text": "7 References",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "8 External links",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%AC%D9%86%D9%83%D9%8A%D8%B2_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_Internacional_Gengis_Kan",
+      "lang": "ast"
+    },
+    {
+      "text": "বাংলা",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BF%E0%A6%9C_%E0%A6%96%E0%A6%BE%E0%A6%A8_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0",
+      "lang": "bn"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Ulan-Bator_Chinggis_Khan_International_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_leti%C5%A1t%C4%9B_Bujant_Uch%C3%A1",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Chinggis_Khaan_International_Airport_(1961)",
+      "lang": "de"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Internacia_Flughaveno_Buyant-Ukhaa",
+      "lang": "eo"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Buyant-Ukhaa",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D8%A8%D9%88%DB%8C%D8%A7%D9%86%D8%AA-%D8%A7%D9%88%D8%AE%D8%A7",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Bujant-Uhaan_kansainv%C3%A4linen_lentoasema",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Buyant-Ukhaa",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%91%D7%99%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%91%D7%95%D7%99%D7%90%D7%A0%D7%98_%D7%90%D7%95%D7%9B%D7%90%D7%94",
+      "lang": "he"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Dzsingisz_K%C3%A1n_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Buyant-Ukhaa",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Ulan_Bator-Gengis_Khan",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%82%AA%E3%83%8F%E3%83%BC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%96%80%ED%8A%B8_%EC%9A%B0%EC%B9%B4_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Latviešu",
+      "url": "https://lv.wikipedia.org/wiki/Bujantuh%C4%81_starptautisk%C4%81_lidosta",
+      "lang": "lv"
+    },
+    {
+      "text": "മലയാളം",
+      "url": "https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%96%E0%B4%BE%E0%B5%BB_%E0%B4%85%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%B0%E0%B4%BE%E0%B4%B7%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0_%E0%B4%B5%E0%B4%BF%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%B5%E0%B4%B3%E0%B4%82",
+      "lang": "ml"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D0%91%D1%83%D1%8F%D0%BD%D1%82-%D0%A3%D1%85%D0%B0%D0%B0_%D0%BE%D0%BB%D0%BE%D0%BD_%D1%83%D0%BB%D1%81%D1%8B%D0%BD_%D0%BD%D0%B8%D1%81%D1%8D%D1%85_%D0%B1%D1%83%D1%83%D0%B4%D0%B0%D0%BB",
+      "lang": "mn"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Luchthaven_Dzjengis_Khan",
+      "lang": "nl"
+    },
+    {
+      "text": "Norsk bokmål",
+      "url": "https://no.wikipedia.org/wiki/Djengis_Khan_internasjonale_lufthavn",
+      "lang": "nb"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_U%C5%82an_Bator",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_Chinggis_Khaan",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Chinggis_Khaan",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%91%D1%83%D1%8F%D0%BD%D1%82-%D0%A3%D1%85%D0%B0%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Bujant-Uchaa_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B8%D0%BD%E2%80%8C%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D3%A3_%D1%87%D0%BD%D0%B3%D0%B8%D0%B7%D1%85%D0%BE%D0%BD",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Buyantu_Han_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%BD-%D0%91%D0%B0%D1%82%D0%BE%D1%80_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Th%C3%A0nh_C%C3%A1t_T%C6%B0_H%C3%A3n",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B8%83%E9%A1%8F%E7%89%B9%C2%B7%E7%83%8F%E5%8D%A1%E5%93%88%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q837745#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&oldid=1363023503",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Buyant-Ukhaa_International_Airport&id=1363023503&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBuyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Buyant-Ukhaa_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q837745",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "47°50′35″N 106°45′59″E ﻿ / ﻿ 47.84306°N 106.76639°E ﻿ / 47.84306; 106.76639",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Buyant-Ukhaa_International_Airport&params=47_50_35_N_106_45_59_E_region:MN_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Chinggis Khaan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:ULNAirportLogo.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Buyant-Ukhaa_International_Airport_2023.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Khan Uul",
+      "url": "https://en.wikipedia.org/wiki/Khan_Uul",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "47°50′35″N 106°45′59″E ﻿ / ﻿ 47.84306°N 106.76639°E ﻿ / 47.84306; 106.76639",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Buyant-Ukhaa_International_Airport&params=47_50_35_N_106_45_59_E_region:MN_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "buyant-ukhaa .airport .gov .mn",
+      "url": "https://buyant-ukhaa.airport.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Mongolia_location_map_2.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-mcaa.gov.mn-1",
+      "lang": ""
+    },
+    {
+      "text": "[ a ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ b ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-revert-old-name-4",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-:0-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-:1-6",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "replaced by a new airport",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-:1-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-:0-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "[ c ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-14",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-14",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian Revolution of 1990",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1990",
+      "lang": ""
+    },
+    {
+      "text": "Asian Development Bank",
+      "url": "https://en.wikipedia.org/wiki/Asian_Development_Bank",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "Philipp Holzmann",
+      "url": "https://en.wikipedia.org/wiki/Philipp_Holzmann",
+      "lang": ""
+    },
+    {
+      "text": "Wimpey Asphalt",
+      "url": "https://en.wikipedia.org/wiki/George_Wimpey",
+      "lang": ""
+    },
+    {
+      "text": "Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "lang": ""
+    },
+    {
+      "text": "800th anniversary of the establishment of a Mongolian State",
+      "url": "https://en.wikipedia.org/wiki/History_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "new Ulaanbaatar International Airport",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-revert-old-name-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Aero Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Aero_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/Irkutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oyu Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Oyu_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tianjin",
+      "url": "https://en.wikipedia.org/wiki/Tianjin_Binhai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air Busan",
+      "url": "https://en.wikipedia.org/wiki/Air_Busan",
+      "lang": ""
+    },
+    {
+      "text": "Busan",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air China",
+      "url": "https://en.wikipedia.org/wiki/Air_China",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hohhot",
+      "url": "https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "Asiana Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asiana_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Eznis Airways",
+      "url": "https://en.wikipedia.org/wiki/Eznis_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "Hunnu Air",
+      "url": "https://en.wikipedia.org/wiki/Hunnu_Air",
+      "lang": ""
+    },
+    {
+      "text": "Bayankhongor",
+      "url": "https://en.wikipedia.org/wiki/Bayankhongor_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulan-Ude",
+      "url": "https://en.wikipedia.org/wiki/Baikal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "IrAero",
+      "url": "https://en.wikipedia.org/wiki/IrAero",
+      "lang": ""
+    },
+    {
+      "text": "Ulan-Ude",
+      "url": "https://en.wikipedia.org/wiki/Baikal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Korean Air",
+      "url": "https://en.wikipedia.org/wiki/Korean_Air",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-MIAT-18",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berlin",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo–Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok–Suvarnabhumi",
+      "url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tianjin Airlines",
+      "url": "https://en.wikipedia.org/wiki/Tianjin_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Tianjin",
+      "url": "https://en.wikipedia.org/wiki/Tianjin_Binhai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-TK_FRU_ULN-20",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:MIAT_Boeing_737-800_at_ULN.jpg",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-800s",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-800",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_Ulan_Bator.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Uln-airport-interior.png",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-mcaa.gov.mn-1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "Oyu Tolgoi, Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii, Bayan-Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd, Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön, Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom, Uvs",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot, Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad, Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai, Govi-Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan, Dornod",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uliastai, Zavkhan",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-mcaa.gov.mn-1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon, Korea",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/China",
+      "lang": ""
+    },
+    {
+      "text": "Beijing, China",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Russia",
+      "lang": ""
+    },
+    {
+      "text": "Moscow, Russia",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Japan",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo, Japan",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Busan, South Korea",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/China",
+      "lang": ""
+    },
+    {
+      "text": "Erenhot, China",
+      "url": "https://en.wikipedia.org/wiki/Erenhot_Saiwusu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul, Turkey",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Atatürk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Germany",
+      "lang": ""
+    },
+    {
+      "text": "Berlin, Germany",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Tegel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/China",
+      "lang": ""
+    },
+    {
+      "text": "Hohhot, China",
+      "url": "https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-mcaa.gov.mn-1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "Aero Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Aero_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "Air Accident Investigation Bureau Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Air_Accident_Investigation_Bureau_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "List of airlines of Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "[ pʊ́jntʰ‿ʊχáː ɔ́ɮɞɴ ʊɬsíːɴ nísɪx pʊ́ːtəɬ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "[ t͡ɕʰíŋkɪs χaːɴ ɔ́ɮɞɴ ʊɬsíːɴ nísɪx pʊ́ːtəɬ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "[ ˌpʊjə̆n̥tʰ‿ʊˈχa ˈɲisɪç ɔɴɢɞʰt͡sˈni tʰɵw̹ ˈpʊˑtəɮ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-mcaa.gov.mn_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-mcaa.gov.mn_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-mcaa.gov.mn_1-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-mcaa.gov.mn_1-3",
+      "lang": ""
+    },
+    {
+      "text": "\"СТАТИСТИК МЭДЭЭЛЭЛ\"",
+      "url": "https://www.mcaa.gov.mn/?p=685",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-revert-old-name_4-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-revert-old-name_4-1",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Буянт-Ухаа\" нэрээр олон улсын нисэх буудлын үйл ажиллагаа хэвийн үргэлжилж байна\"",
+      "url": "https://news.mn/r/2321735/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-:0_5-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-:0_5-1",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Буянт-Ухаа\" нисэх буудал агаарын хөлгүүдээ Хөшигийн хөндий рүү үдлээ | News.MN\"",
+      "url": "https://news.mn/r/2449722/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-:1_6-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-:1_6-1",
+      "lang": ""
+    },
+    {
+      "text": "\"ОЛОН УЛСЫН НИСЭХ БУУДЛУУДЫН НЭРИЙГ ӨӨРЧЛӨХ, ТЭДГЭЭРИЙН АШИГЛАЛТЫН ТАЛААР АВАХ ЗАРИМ АРГА ХЭМЖЭЭНИЙ ТУХАЙ\"",
+      "url": "https://www.legalinfo.mn/law/details/14912",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210717102940/https://www.legalinfo.mn/law/details/14912",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "ISBN",
+      "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "99929-0-627-8",
+      "url": "https://en.wikipedia.org/wiki/Special:BookSources/99929-0-627-8",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar Airport and National Air Navigation Development Projects (Loans 1256/1370-MON [ SF ] )",
+      "url": "https://www.adb.org/documents/ulaanbaatar-airport-and-national-air-navigation-development-projects-loans-1256-1370-mon-sf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia delays launch of $500-million airport until 2019\"",
+      "url": "https://www.reuters.com/article/us-mongolia-airport-idUSKBN1ET0QH",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Монголын анхны агаарын шоуны үеэр 30 минут Улаанбаатар хотыг тойрч нисэх боломжтой\"",
+      "url": "https://ikon.mn/n/2vdn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Air China adds Hohhet – Ulan Baatar service from mid-Sep 2019\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/286257/air-china-adds-hohhet-ulan-baatar-service-from-mid-sep-2019/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Asiana Airlines adds Mongolia service from July 2019\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/284881/asiana-airlines-adds-mongolia-service-from-july-2019/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Eznis Airways schedules Hong Kong launch in June 2019\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/284655/eznis-airways-schedules-hong-kong-launch-in-june-2019/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"Hunnu Air adds new Russian routes in June 2017\"",
+      "url": "http://www.routesonline.com/news/38/airlineroute/273332/hunnu-air-adds-new-russian-routes-in-june-2017/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"Возобновление рейса - Улан-Удэ-Улан-Батор-Улан-Удэ!\"",
+      "url": "https://web.archive.org/web/20160310140143/http://iraero.ru/company/news/vozobnovlenie-reisa-ulan-ude-ulan-bator-ulan-ude",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://iraero.ru/company/news/vozobnovlenie-reisa-ulan-ude-ulan-bator-ulan-ude",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-MIAT_18-0",
+      "lang": ""
+    },
+    {
+      "text": "\"International Flight Schedule Summer 2021\"",
+      "url": "https://www.miat.com/timetableimg.php?s=summer&lang=en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"Tianjin Airlines plans Tianjin – Ulan Baatar flights from Aug 2019\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/285717/tianjin-airlines-plans-tianjin-ulan-baatar-flights-from-aug-2019/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-TK_FRU_ULN_20-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines Mongolia service adjustment from Jan 2020\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/287152/turkish-airlines-mongolia-service-adjustment-from-jan-2020/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"СТАТИСТИКИЙН ЭМХЭТГЭЛ 2020\"",
+      "url": "https://mcaa.gov.mn/wp-content/uploads/2018/03/%d0%ad%d0%bc%d1%85%d1%8d%d1%82%d0%b3%d1%8d%d0%bb-2020.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210717102939/https://mcaa.gov.mn/wp-content/uploads/2018/03/%D0%AD%D0%BC%D1%85%D1%8D%D1%82%D0%B3%D1%8D%D0%BB-2020.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "Ulanbator",
+      "url": "http://www.aeromongolia.mn/contact/index/id/29",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20181023160717/http://www.aeromongolia.mn/contact/index/id/29",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Aero Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Aero_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Address in Mongolian",
+      "url": "http://www.aeromongolia.mn/contact/index/id/29",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "Address of Accident Investigation Authorities as of March 2010",
+      "url": "http://www.aaib.gov.mn/index.php?option=com_content&view=article&id=66&Itemid=61&lang=en",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110903022656/http://www.aaib.gov.mn/index.php?option=com_content&view=article&id=66&Itemid=61&lang=en",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Air Accident Investigation Bureau",
+      "url": "https://en.wikipedia.org/wiki/Air_Accident_Investigation_Bureau_(Mongolia)",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Buyant-Ukhaa%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://web.archive.org/web/20190218021758/http://en.airport.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "Civil Aviation Authority of Mongolia",
+      "url": "https://web.archive.org/web/20150510153828/http://www.mcaa.gov.mn/index.php",
+      "lang": ""
+    },
+    {
+      "text": "Aeronautical Information Publication",
+      "url": "https://web.archive.org/web/20160416165420/https://ais.mn/index.php?option=com_content&view=frontpage&Itemid=1&lang=mn",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for ZMUB\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/ZMUB.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Authority control databases",
+      "url": "https://en.wikipedia.org/wiki/Help:Authority_control",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q837745#identifiers",
+      "lang": ""
+    },
+    {
+      "text": "Structurae",
+      "url": "https://structurae.net/structures/10001184",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&oldid=1363023503",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&oldid=1363023503",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "1961 establishments in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:1961_establishments_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Defunct airports",
+      "url": "https://en.wikipedia.org/wiki/Category:Defunct_airports",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 1961",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_1961",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Khan Uul",
+      "url": "https://en.wikipedia.org/wiki/Category:Khan_Uul",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Category:Transport_in_Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from September 2019",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_September_2019",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages with Mongolian IPA",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_with_Mongolian_IPA",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Mongolian-language sources (mn)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Mongolian-language_sources_(mn)",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from June 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_June_2025",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Chart extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Chart_extension",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Buyant-Ukhaa_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-08.txt"
+}

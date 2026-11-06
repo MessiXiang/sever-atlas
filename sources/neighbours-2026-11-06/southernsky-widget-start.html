@@ -1,0 +1,357 @@
+'use strict';
+
+/**
+ *
+ * @param tabName {string} 'Flights' 'Orderds' 'Schedule'
+ * wait for 1s until widget loaded, then select tab
+ */
+function openWidgetTab(tabName) {
+    const MAX_TRY = 20;
+
+    let i = 0;
+
+    const interval = setInterval(() => {
+        if (i > MAX_TRY) {
+            clearInterval(interval);
+        }
+
+        i++;
+
+        if (FlightsSearchWidget) {
+            FlightsSearchWidget.selectTab(tabName);
+
+            clearInterval(interval);
+        }
+    }, 50);
+}
+
+const openTicketsTab = openWidgetTab.bind(null, 'Flights');
+const openOrdersTab = openWidgetTab.bind(null, 'Orders');
+const openScheduleTab = openWidgetTab.bind(null, 'Schedule');
+const openCheckinTab = openWidgetTab.bind(null, 'Checkin');
+
+/**
+ *
+ * @param tabId {string}
+ * remove active class from all [data-tabs-control] elements and set
+ * active class to element with passed tabId
+ *2
+ */
+function setActiveControl(tabId) {
+    const $tabs = $('[data-tabs-control]');
+    const $control = $(`[href="${tabId}"]`);
+
+    $tabs.removeClass('active');
+    $control.addClass('active');
+
+    if ($control.data('overlay')) {
+        $('.main').addClass('overlay');
+    } else {
+        $('.main').removeClass('overlay');
+    }
+}
+
+/**
+ *
+ * @param tabId {string}
+ * remove active class from all [data-tab-id] elements and set
+ * active class to element with passed tabId
+ *
+ */
+function setActiveTab(tabId) {
+    const $tabs = $('[data-tab-id]'),
+        $ticketsTab = $('[data-tab-id="#tickets"]');
+    $tabs.removeClass('active');
+
+    switch (tabId) {
+        case '#tickets':
+            openTicketsTab();
+            $ticketsTab.addClass('active');
+            break;
+        case '#schedule':
+            openScheduleTab();
+            $ticketsTab.addClass('active');
+            break;
+        case '#orders':
+            openOrdersTab();
+            $ticketsTab.addClass('active');
+            break;
+        case '#checkin':
+            openCheckinTab();
+            $ticketsTab.addClass('active');
+            break;
+
+        default:
+            $(`[data-tab-id="${tabId}"]`).addClass('active');
+    }
+}
+
+const setActive = (el, active) => {
+    const formField = el.parentNode.parentNode;
+    if (active) {
+        formField.classList.add('form-group--is-active');
+    } else {
+        formField.classList.remove('form-group--is-active');
+        el.value === ''
+            ? formField.classList.remove('form-group--is-filled')
+            : formField.classList.add('form-group--is-filled');
+    }
+};
+
+window.addEventListener(
+    'hashchange',
+    function() {
+        if (location.hash === '#support' || location.hash === '#deals') {
+            $('.main').addClass('overlay');
+            console.log('hrere');
+        } else {
+            console.log('hrere');
+            $('.main').removeClass('overlay');
+        }
+    },
+    false
+);
+
+[].forEach.call(document.querySelectorAll('.form-control'), el => {
+    el.onblur = () => {
+        // setActive(el, false);
+    };
+    el.onfocus = () => {
+        // setActive(el, true);
+    };
+});
+
+var $document = $(document),
+    $window = $(window),
+    $body = $('body'),
+    $ww;
+
+function closePopup() {
+    $('body').removeClass('popup-active');
+    $('.popup.active').removeClass('active');
+}
+
+function copyWidgetToMobileLayout() {
+    const widget = $('.out_desktop [data-tab-id="#tickets"]').html();
+    $('.out_mobile [data-tab-id="#tickets"]').html(widget);
+}
+
+$(function() {
+    let hash = window.location.hash,
+        hashTab = $('[data-tab-id="' + hash + '"]');
+
+    if (location.hash === '#support' || location.hash === '#deals') {
+        $('.main').addClass('overlay');
+    }
+
+    // copyWidgetToMobileLayout();
+
+    if (hash != '' && $ww > 1150) {
+        setActiveControl(hash);
+        setActiveTab(hash);
+    }
+
+    if ($ww < 1150) {
+        $('tbody td').each(function() {
+            let $class = $(this).attr('class');
+            let $label = $('thead th[class = "' + $class + '"').text();
+            $(this).attr('data-label', $label);
+        });
+    }
+});
+$('[data-fancybox]').fancybox({
+    closeExisting: true
+});
+$document
+    .on('click', '.support__list-lnk', function(e) {
+        e.preventDefault();
+        $('body > jdiv').addClass('jshow');
+        jivo_api.open();
+    })
+    .on('click', '[data-search-form-modal]', function() {
+        // don't show searchForm modal because we want to init FlightsSearchWidget here
+    })
+    .on('click', '[data-iata] a', function(e) {
+        e.preventDefault();
+        const IATA = $(this)
+            .attr('href')
+            .replace('#', '');
+
+        if (!IATA) {
+            return;
+        }
+
+        $('.main').removeClass('overlay');
+        setActiveTab('#tickets');
+        setActiveControl('#tickets');
+        
+        const depIATA = (IATA.substring(0,3) != '' && IATA.substring(0,3).length == 3) ? IATA.substring(0,3) : ''; 
+        const arrIATA = (IATA.substring(3,6) != '' && IATA.substring(3,6).length == 3) ? IATA.substring(3,6) : '';      
+        FlightsSearchWidget.selectAirports({departure: depIATA, arrival: arrIATA});
+    })
+    .on('click', '[data-modal]', function() {
+        let $popupID = $(this).attr('data-modal-id');
+        $('body').addClass('popup-active');
+        $($popupID).addClass('active');
+    })
+    .on('click', '.close-popup_js', function() {
+        closePopup();
+    })
+    .on('click', '.burger-menu_js', function() {
+        $body.toggleClass('side-nav-active');
+    })
+    .on('click', '.close-side-nav_js', function() {
+        $body.removeClass('side-nav-active');
+    })
+    .on('click', '.modal-overlay', function() {
+        $body.removeClass('side-nav-active');
+        $body.removeClass('popup-active');
+        $('.popup').removeClass('active');
+    })
+    .on('click', '.accordion_js', function(e) {
+        e.preventDefault();
+        let $el = $(this),
+            $container = $el.closest('.accordion-item'),
+            $drop = $container.find('.accordion__drop');
+        if ($container.hasClass('active')) {
+            $drop.slideUp();
+            $container.removeClass('active');
+        } else {
+            $el.closest('.accordion')
+                .find('.accordion__drop')
+                .slideUp();
+            $el.closest('.accordion')
+                .find('.accordion-item')
+                .removeClass('active');
+            $container.addClass('active');
+            $drop.slideDown();
+        }
+    })
+
+    .on('click', '.useful-info_js', function() {
+        let $el = $(this),
+            $drop = $el.closest('.useful-info').find('.accordion__drop');
+        if ($el.hasClass('active')) {
+            $el.removeClass('active');
+            $drop.slideUp();
+        } else {
+            $el.addClass('active');
+            $drop.slideDown();
+        }
+    })
+
+    .on('click', '.form-group__control label', function() {
+        let $el = $(this);
+        $el.closest('.form-group__control')
+            .find('.form-control')
+            .focus();
+    })
+
+    .on('click', '.close-top-warning_js', function() {
+        $(this)
+            .closest('.top-warning')
+            .removeClass('active');
+    })
+
+    .on('click', '[data-tabs-control]', function(e) {
+        let $el = $(this),
+            $tabId = $el.attr('href'),
+            $ww = $(window).width();
+
+        if ($tabId.slice(0, 1) == '#' && $tabId.length > 1) {
+            e.preventDefault();
+            window.location.hash = $tabId.substr(1);
+
+            if ($ww > 1151) {
+                $('[data-tabs-control]').removeClass('active');
+
+                $el.closest('ul')
+                    .find('a')
+                    .removeClass('active');
+                $('.header__nav ul')
+                    .find('a')
+                    .removeClass('active');
+
+                $('.tab-item').removeClass('active');
+                $el.addClass('active');
+                $("[data-tab-id='" + $tabId + "']").addClass('active');
+
+                if ($("[data-tab-id='" + $tabId + "']").data('overlay')) {
+                    $('.main').addClass('overlay');
+                } else {
+                    $('.main').removeClass('overlay');
+                }
+
+                if ($el.attr('href') == '#tickets') {
+                    $('.sidebar__nav-item:first-child .sidebar__nav-lnk').addClass('active');
+                }
+                if ($el.is('[data-flights]')) {
+                    $('.header__nav-lnk[href = "#tickets"]').addClass('active');
+                } else {
+                    // $('#flights').removeClass('active')
+                }
+            } else {
+	            if ($("[data-mobile-id='" + $tabId + "']").length > 0) {
+	                $("[data-mobile-id='" + $tabId + "']")
+	                    .get(0)
+	                    .scrollIntoView();
+                }
+            }
+        }
+
+        setActiveControl($tabId);
+        setActiveTab($tabId);
+    })
+
+    .on('click', '.side-nav__lnk', function(e) {
+        let $href = $(this).attr('href');
+
+        if ($href.slice(0, 1) == '#' && $href.length > 1) {
+            e.preventDefault();
+            $body.toggleClass('side-nav-active');
+            $('[data-tabs-control][href = "' + $href + '"]').click();
+        }
+    });
+
+$('.custom-select_js').select2({
+    minimumResultsForSearch: -1,
+    width: '100%'
+});
+
+$('body').on('change', '.hsLanguage', function() {
+    var href = $(this)
+        .find('option:selected')
+        .data('href');
+    window.location = href;
+});
+
+$('body').on('change', '.hsCurrency', function() {
+    var currency = $(this).val();
+    window.location = './?currency=' + currency;
+});
+
+$('body').on('click', 'button[data-href]', function() {
+    window.location = $(this).data('href');
+});
+
+var trigger = true;
+
+$window
+    .on('resize', function() {
+        $ww = $(window).width();
+
+        if ($ww < 1150) {
+            if (trigger !== false) {
+                $('.sidebar__nav-item:first-child')
+                    .find('a')
+                    .trigger('click');
+            }
+            trigger = false;
+        }
+
+        if ($ww > 1151) {
+            $('.sidebar__nav-item:first-child .sidebar__nav-lnk').addClass('active');
+            trigger = true;
+        }
+    })
+    .resize();

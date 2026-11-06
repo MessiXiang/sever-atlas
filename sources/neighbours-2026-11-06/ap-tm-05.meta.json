@@ -1,0 +1,919 @@
+{
+  "id": "ap-tm-05",
+  "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:44.172809+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+  "bytes": 121520,
+  "sha256": "767473d42a578616717dd8fd4257a4d95378a38621f612e0a9a8025feddc5d52",
+  "file": "sources/neighbours-2026-11-06/ap-tm-05.html",
+  "title": "Mary International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Mary+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Mary+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Mary+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Mary+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "1.2 Cargo",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#Cargo",
+      "lang": ""
+    },
+    {
+      "text": "2 References",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "3 External links",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%8B_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Mary_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%85%D8%A7%D8%B1%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Mary",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Mary_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Mary",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Mary",
+      "lang": "it"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Mary",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Mary",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Mary",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%8B_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Merv_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Mari_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q651297#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&oldid=1381151950",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Mary_International_Airport&id=1381151950&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Mary_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q651297",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "37°36′24″N 61°54′05″E ﻿ / ﻿ 37.60667°N 61.90139°E ﻿ / 37.60667; 61.90139",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Mary_International_Airport&params=37_36_24_N_61_54_05_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "www .maryairport .gov .tm",
+      "url": "http://www.maryairport.gov.tm",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-AIP-2",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-BKN_resumption_NS25-5",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok–Suvarnabhumi",
+      "url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_note-BKN_resumption_NS25-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Общая информация\"",
+      "url": "https://web.archive.org/web/20210121213024/https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-AIP_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"AIP Turkmenistan\"",
+      "url": "https://web.archive.org/web/20130331010024/http://aviadocs.net/AIP/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Mary airport upgraded to international status\"",
+      "url": "http://www.turkmenistan.ru/?page_id=3&lang_id=en&elem_id=14545&type=event&sort=date_desc",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Mary Halkara Howa Menzili - Gatnawlaryň rejesi\"",
+      "url": "https://maryairport.gov.tm/gatnawlar/tm.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-BKN_resumption_NS25_5-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-BKN_resumption_NS25_5-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines Domestic Service Changes From May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250526-t5may25tm",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Направление и расписание рейсов - Услуги - Turkmenistan Airlines\"",
+      "url": "https://turkmenistanairlines.tm/ru/services/show/napravlenie-i-raspisanie-reysov",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight History of EZ-F429 (Turkmenistan Airlines)-11 May 2023\"",
+      "url": "https://flightaware.com/live/flight/EZF429/history",
+      "lang": ""
+    },
+    {
+      "text": "FlightAware",
+      "url": "https://en.wikipedia.org/wiki/FlightAware",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight History of EZ-F430\"",
+      "url": "https://www.flightradar24.com/data/aircraft/ez-f430",
+      "lang": ""
+    },
+    {
+      "text": "Flightradar24",
+      "url": "https://en.wikipedia.org/wiki/Flightradar24",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Первый рейс Ашхабад-Бангкок\"",
+      "url": "https://turkmenistaninfo.gov.tm/news/3074",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://maryairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q651297#P856",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Turkmenistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Turkmenistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&oldid=1381151950",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&oldid=1381151950",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Mary, Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Mary,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Turkmenistan_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mary_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tm-05.txt"
+}

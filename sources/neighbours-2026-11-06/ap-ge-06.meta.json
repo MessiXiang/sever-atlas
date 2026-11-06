@@ -1,0 +1,944 @@
+{
+  "id": "ap-ge-06",
+  "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+  "retrievedAt": "2026-11-06T08:39:05.762869+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+  "bytes": 161594,
+  "sha256": "677c92647fd8f62bbdbae4caa1b18a81292b545ed345fae5775ccdc4bf70ab25",
+  "file": "sources/neighbours-2026-11-06/ap-ge-06.html",
+  "title": "Ambrolauri Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ambrolauri+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Ambrolauri+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Ambrolauri+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Ambrolauri+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 General",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#General",
+      "lang": ""
+    },
+    {
+      "text": "2 History",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "5 See also",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "6 References",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "7 External links",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Ambrolauri_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Беларуская (тарашкевіца)",
+      "url": "https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D1%80%D0%B0%D0%BB%D0%B0%D1%83%D1%80%D1%8B_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be-tarask"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D1%80%D0%B0%D0%BB%D0%B0%D1%83%D1%80%D1%8B_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Ambrolaouri",
+      "lang": "fr"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9B%E1%83%91%E1%83%A0%E1%83%9D%E1%83%9A%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Luchthaven_Ambrolaoeri",
+      "lang": "nl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D1%80%D0%BE%D0%BB%D0%B0%D1%83%D1%80%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Ambrolauri_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D1%80%D0%BE%D0%BB%D0%B0%D1%83%D1%80%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q28797312#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&oldid=1362959492",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Ambrolauri_Airport&id=1362959492&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmbrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Ambrolauri_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q28797312",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ambrolauri_Airport.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Racha",
+      "url": "https://en.wikipedia.org/wiki/Racha",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "42°31′34″N 43°08′09″E ﻿ / ﻿ 42.52611°N 43.13583°E ﻿ / 42.52611; 43.13583",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Ambrolauri_Airport&params=42_31_34_N_43_08_09_E_region:GE_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_Racha-Lechkhumi_and_Kvemo_Svaneti_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Racha-Lechkhumi and Kvemo Svaneti",
+      "url": "https://en.wikipedia.org/wiki/Racha-Lechkhumi_and_Kvemo_Svaneti",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-open-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Racha",
+      "url": "https://en.wikipedia.org/wiki/Racha",
+      "lang": ""
+    },
+    {
+      "text": "Rioni",
+      "url": "https://en.wikipedia.org/wiki/Rioni",
+      "lang": ""
+    },
+    {
+      "text": "Racha",
+      "url": "https://en.wikipedia.org/wiki/Racha_Range",
+      "lang": ""
+    },
+    {
+      "text": "Lechkhumi Ranges",
+      "url": "https://en.wikipedia.org/wiki/Lechkhumi_Range",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Sky Airlines",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari Airfield",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Let L-410",
+      "url": "https://en.wikipedia.org/wiki/Let_L-410_Turbolet",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-restart2020-3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ambrolauri_Airport_terminal.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Mikheil Saakashvili",
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-open-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Sky Airlines",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-restart2020-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Civil Aviation Administration",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Civil_Aviation_Administration",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"პრემიერ-მინისტრმა ამბროლაურის აეროპორტი გახსნა\"",
+      "url": "https://web.archive.org/web/20150710164332/http://gov.ge/index.php?lang_id=GEO&sec_id=462&info_id=59198",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://gov.ge/index.php?lang_id=GEO&sec_id=462&info_id=59198",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-open_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-open_2-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgia welcomes airport in western Racha region\"",
+      "url": "https://agenda.ge/en/news/2017/82",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-restart2020_3-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-restart2020_3-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Domestic flights resume in Georgia starting tomorrow\"",
+      "url": "https://agenda.ge/en/news/2020/2344",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Mikheil Saakashvili got interested in the development of regional infrastructure and tourism\"",
+      "url": "https://web.archive.org/web/20241221210236/http://www.saakashviliarchive.info/en/PressOffice/News?5388",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.saakashviliarchive.info/en/PressOffice/News?5388",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgia renews four old airfields to develop rural aviation\"",
+      "url": "https://agenda.ge/en/news/2015/2217",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Flights to Mestia, Ambrolauri, and Batumi - Schedule and Prices\"",
+      "url": "https://mountainstories.ge/travel/item/1316-flights-to-mestia,-ambrolauri,-and-batumi-schedule-and-prices",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Number of Passengers Served\"",
+      "url": "https://gcaa.ge/%e1%83%92%e1%83%90%e1%83%93%e1%83%90%e1%83%a7%e1%83%95%e1%83%90%e1%83%9c%e1%83%98%e1%83%9a-%e1%83%9b%e1%83%92%e1%83%96%e1%83%90%e1%83%95%e1%83%a0%e1%83%97%e1%83%90-%e1%83%a0%e1%83%90%e1%83%9d%e1%83%93/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"According to total data for 2022, the number of flights recovered to the level of 88% from pre-Covid levels, whereas passenger count - to the level of 85% (in Georgian)\"",
+      "url": "https://gcaa.ge/2022-%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%AF%E1%83%90%E1%83%9B%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%AA%E1%83%94%E1%83%9B%E1%83%94%E1%83%91%E1%83%98%E1%83%97-%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98-%E1%83%A4%E1%83%A0%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%98-88-%E1%83%98%E1%83%97-%E1%83%AE%E1%83%9D%E1%83%9A%E1%83%9D-%E1%83%9B%E1%83%92%E1%83%96%E1%83%90%E1%83%95%E1%83%A0%E1%83%97%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%98-85-%E1%83%98%E1%83%97-%E1%83%90%E1%83%A6%E1%83%93%E1%83%92%E1%83%90",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "Queen Tamar Airport page on GCAA website",
+      "url": "https://web.archive.org/web/20151222095407/http://www.gcaa.ge/eng/mestiisaeroporti.php",
+      "lang": ""
+    },
+    {
+      "text": "United Airports of Georgia",
+      "url": "http://www.airports.ge/index.php/en",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20200227184951/http://www.airports.ge/index.php/en",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UGAM\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UGAM.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Portal:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&oldid=1362959492",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&oldid=1362959492",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description with empty Wikidata description",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_with_empty_Wikidata_description",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Chart extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Chart_extension",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Georgian-language sources (ka)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Georgian-language_sources_(ka)",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ambrolauri_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-ge-06.txt"
+}

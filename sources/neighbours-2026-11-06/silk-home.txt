@@ -1,0 +1,109 @@
+O‘zbekistonni bog‘lab
+Odamlar yaqinlashib, masofalar qisqarganda
+Batafsil
+Qayerdan
+{{from_city.city_abbr}}
+Qayerdan
+{{from_city.city_name}}
+Qayerga
+{{to_city.city_abbr}}
+Qayerga
+{{to_city.city_name}}
+Sana
+Sanani tanlang
+Qaytish
+Sanani tanlang
+Yoshi kattalar
+12 yoshdan katta
+{{passengers_1}}
+Bolalar
+2 yoshdan 12 yoshgacha
+{{passengers_2}}
+Go'daklar
+2 yoshgacha
+{{passengers_3}}
+Izlash
+Tez orada sotuvlar boshlanadi.
+Oqtosh
+Mo'ynoq
+Zomin
+Qo'qon
+Shahrisabz
+Sarıosıyo
+Amirsoy
+Andijon
+Buxoro
+Farg'ona
+Namangan
+Navoiy
+Nukus
+Qarshi
+Samarqand
+Termiz
+Toshkent
+Urganch
+Андижан
+Бухара
+Фергана
+Карши
+Наманган
+Навоий
+Нукус
+Самарканд
+Ташкент
+Термез
+Ургенч
+Sanani tanlang
+Borish
+Borish va qaytish
+Ok
+Qayerdan
+Qayerga
+{{item.city_name}}
+{{item.city_abbr}}
+Topilmadi
+Qayerdan
+{{from_city.city_name}}
+{{from_city.city_abbr}}
+Qayerga
+{{to_city.city_name}}
+{{to_city.city_abbr}}
+Sana
+Sanani tanlang
+Qaytish
+Sanani tanlang
+Yo'lovchilar
+Yo'lovchilar
+Yoshi kattalar
+12 yoshdan katta
+{{passengers_1}}
+Bolalar
+2 yoshdan 12 yoshgacha
+{{passengers_2}}
+Go'daklar
+2 yoshgacha
+{{passengers_3}}
+Ok
+Izlash
+Izlash
+Chipta qidirishdan oldin sana va yo'nalishni tanlang.
+Yangiliklar
+Buxoro, Urganch va Samarqandga yangi ORZU va ORZU PLUS tariflari bo‘yicha parvoz qiling!
+5 October 2026
+“Uzbekistan Helicopters” МЧЖ ходимлари  Ислом цивилизацияси марказига ташриф буюрдилар
+“Uzbekistan Helicopters” МЧЖ ходимлари Ислом цивилизацияси марказига ташриф буюрдилар
+Ходимларнинг маънавий-маърифий салоҳиятини юксалтириш, миллий тарихимиз ва бой маданий меросимизга ҳурмат туйғусини мустаҳкамлаш мақсадида 2026 йил 3 июль куни “Uzbekistan Helicopters” МЧЖ ходимлари учун Тошкент шаҳридаги Ислом цивилизацияси марказига маърифий экскурсия ташкил этилди.
+Ташриф давомида иштирокчилар Марказнинг замонавий экспозициялари орқали Ўзбекистон заминидан етишиб чиққан буюк алломаларнинг бой илмий ва маънавий мероси, ислом цивилизациясининг жаҳон илм-фани ва маданияти тараққиётига қўшган беқиёс ҳиссаси ҳамда халқимизнинг асрлар давомида шаклланган миллий ва маънавий қадриятлари билан яқиндан танишдилар.
+Экскурсия иштирокчиларига юртимизнинг бой тарихий мероси, илм-фан ва маърифат ривожига муносиб ҳисса қўшган аждодларимиз ҳаёти ва фаолияти ҳақида қизиқарли маълумотлар тақдим этилди. Бу эса ходимларда миллий ғурур, ватанпарварлик туйғуларини янада мустаҳкамлаш, тарихий меросимизга эҳтиромни ошириш ҳамда маънавий дунёқарашни бойитишга хизмат қилди.
+“Uzbekistan Helicopters” МЧЖда жамоанинг маънавий-маърифий салоҳиятини юксалтириш, ходимларни миллий ва умуминсоний қадриятлар руҳида тарбиялаш, шунингдек, ички туризмни ривожлантиришга қаратилган бундай тадбирларни мунтазам ташкил этишга алоҳида эътибор қаратилмоқда.
+10 July 2026
+Buxoro va Sariosiyoni bog‘lamoqdamiz: yanada ko‘proq qulay parvozlar!
+26 June 2026
+Silk Avia parvozlar dasturini kengaytirmoqda: yangi yo‘nalishlar va qatnovlar chastotasining oshishi
+26 June 2026
+Silk Avia parvozlar dasturining yangilanishi haqida: ustuvor vazifamiz — yo‘lovchilarimizning qulayligi va xavfsizligi
+26 June 2026
+Shaxsiy kabinetga kirish
+Parolni unutdingizmi?
+Roʻyxatdan oʻtish
+Bilan kiring:

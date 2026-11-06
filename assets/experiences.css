@@ -1,0 +1,82 @@
+/* A compact, model-first directory that shares the guide's existing palette. */
+.experiences-view { max-width:1280px; }
+.experience-intro { display:flex; justify-content:space-between; align-items:start; gap:30px; }
+.experience-intro h1 { font-size:32px; font-weight:600; margin:10px 0 12px; }
+.experience-intro p { color:var(--muted); font-size:13px; line-height:1.8; margin:0; }
+.experience-intro .experience-stamp { font-size:11px; text-align:right; white-space:nowrap; }
+.experience-stamp time,.experience-stamp span { display:block; font-variant-numeric:tabular-nums; }
+.experience-models { display:flex; flex-wrap:wrap; gap:8px; margin:26px 0 14px; }
+.experience-models a { display:flex; align-items:center; gap:20px; padding:10px 14px; min-height:44px; border:1px solid var(--line); border-radius:6px; background:white; color:var(--ink); font:13px var(--mono); transition:background .15s,border-color .15s; }
+.experience-models a:hover { border-color:var(--blue); background:var(--lightblue); text-decoration:none; }
+.experience-models span { font:11px var(--sans); color:var(--muted); }
+.experience-notice { color:var(--muted); font-size:12px; line-height:1.8; margin:0 0 24px; max-width:70em; }
+.experience-group { display:grid; grid-template-columns:150px minmax(0,1fr); gap:35px; padding:28px 0 10px; border-top:1px solid var(--line); scroll-margin-top:22px; }
+.experience-model-heading h2 { font:500 27px/1.2 var(--mono); color:var(--blue); margin:1px 0 12px; }
+.experience-model-heading p { font-size:11px; line-height:1.8; margin:0; color:var(--muted); }
+.experience-item { display:grid; grid-template-columns:125px minmax(0,1fr); gap:24px; padding:0 0 26px; }
+.experience-item + .experience-item { border-top:1px solid var(--line); padding-top:26px; }
+.experience-location { font-size:11px; line-height:1.8; }
+.experience-location span { color:var(--muted); }
+.experience-location b { display:block; font-size:13px; font-weight:500; margin:3px 0 7px; }
+.experience-location small { color:var(--muted); font-size:10px; }
+.experience-content { min-width:0; }
+.experience-title-row { display:flex; align-items:baseline; flex-wrap:wrap; gap:8px 12px; }
+.experience-title-row h3 { font-size:17px; line-height:1.5; font-weight:600; margin:0; }
+.experience-summary { font-size:13px; line-height:1.85; margin:9px 0; max-width:56em; }
+.experience-meta { display:flex; flex-wrap:wrap; gap:5px 18px; font-size:11px; line-height:1.8; color:var(--muted); }
+.experience-offer { display:flex; align-items:center; justify-content:space-between; gap:16px; margin:18px 0 10px; }
+.experience-price strong { display:block; font:500 21px/1.4 var(--mono); letter-spacing:-.6px; }
+.experience-price span { display:block; color:var(--muted); font-size:11px; margin-top:2px; }
+.experience-book { border:1px solid #c5d4f1; color:var(--blue); border-radius:5px; padding:10px 13px; min-height:44px; display:flex; align-items:center; justify-content:center; font-size:12px; white-space:nowrap; transition:background .15s; }
+.experience-book:hover { background:var(--lightblue); text-decoration:none; }
+.experience-price-note { margin:7px 0 10px; font-size:12px; line-height:1.8; color:var(--ink); }
+.experience-contacts { display:flex; gap:2px 18px; flex-wrap:wrap; }
+.experience-contacts a { font-size:11px; line-height:1.8; padding:7px 0; overflow-wrap:anywhere; }
+.experience-details { margin-top:9px; color:var(--muted); }
+.experience-details summary { cursor:pointer; font-size:11px; padding:9px 0; width:fit-content; min-height:34px; }
+.experience-detail-body { border-left:2px solid var(--line); margin-top:10px; padding:0 0 0 17px; font-size:12px; line-height:1.9; color:var(--ink); overflow-wrap:anywhere; }
+.experience-detail-body p { margin:9px 0; }
+.experience-detail-body ul { padding-left:18px; margin:12px 0; }
+.experience-detail-body small { color:var(--muted); font-size:10px; }
+.experience-prices { width:100%; border-collapse:collapse; text-align:left; font-size:12px; font-variant-numeric:tabular-nums; margin:0 0 15px; }
+.experience-prices caption { text-align:left; color:var(--muted); padding:0 0 8px; font-size:11px; }
+.experience-prices th,.experience-prices td { border-bottom:1px solid var(--line); padding:7px 8px 7px 0; font-weight:400; }
+.experience-prices thead { color:var(--muted); font-size:10px; }
+.experience-prices tbody td:nth-child(2) { font-family:var(--mono); }
+.experience-sources { display:grid; gap:6px; margin:14px 0 9px; }
+.experience-sources span { display:flex; flex-wrap:wrap; gap:5px 14px; }
+.experience-sources a { font-size:11px; }
+.experience-footer { border-top:1px solid var(--line); margin:16px 0 0; padding:22px 0; font-size:11px; color:var(--muted); line-height:2; }
+.experience-footer a { margin:0 4px; }
+.experience-models a:focus-visible,.experience-book:focus-visible,.experience-details summary:focus-visible,.experience-contacts a:focus-visible,.experience-model-heading h2:focus-visible { outline:2px solid var(--blue); outline-offset:4px; }
+.service-label { color:var(--muted); }
+@media(max-width:1000px) {
+ .experience-group { grid-template-columns:110px minmax(0,1fr); gap:24px; }
+ .experience-item { grid-template-columns:100px minmax(0,1fr); gap:18px; }
+}
+@media(max-width:700px) {
+ .experience-intro { gap:14px; }
+ .experience-intro h1 { font-size:26px; }
+ .experience-intro p { font-size:12px; }
+ .experience-intro .experience-stamp { font-size:9px; }
+ .experience-stamp span { max-width:85px; white-space:normal; }
+ .experience-models { gap:6px; margin-top:20px; }
+ .experience-models a { padding:9px 11px; gap:13px; font-size:12px; }
+ .experience-notice { font-size:11px; margin-bottom:18px; }
+ .experience-group { grid-template-columns:minmax(0,1fr); gap:20px; padding-top:22px; }
+ .experience-model-heading { display:flex; align-items:baseline; flex-wrap:wrap; gap:6px 14px; }
+ .experience-model-heading h2 { font-size:24px; margin:0; }
+ .experience-item { grid-template-columns:minmax(0,1fr); gap:9px; }
+ .experience-location { display:flex; flex-wrap:wrap; align-items:baseline; gap:3px 10px; }
+ .experience-location b { display:inline; font-size:11px; margin:0; }
+ .experience-location small { margin-left:auto; }
+ .experience-title-row h3 { font-size:16px; }
+ .experience-summary { font-size:12px; }
+ .experience-price strong { font-size:20px; }
+ .experience-book { padding:9px 10px; font-size:11px; }
+ .experience-contacts a,.experience-details summary { min-height:44px; display:inline-flex; align-items:center; }
+ .experience-details summary { display:list-item; padding:13px 0; }
+ .experience-offer { gap:10px; }
+ .experience-detail-body { padding-left:12px; }
+}
+@media(prefers-reduced-motion:reduce) { .experience-models a,.experience-book { transition:none; } }

@@ -1,0 +1,13 @@
+{
+  "id": "kz-semei-gov-rendered",
+  "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+  "finalUrl": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+  "title": "Авиасообщение по маршруту «Семей – Урджар – Семей» — 18 сентября 2026 15:34",
+  "retrievedAt": "2026-11-06T10:46:02.366153+00:00",
+  "method": "Browser rendered text; manually transcribed relevant passage/table, not a raw HTTP response",
+  "status": 200,
+  "file": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+  "textFile": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+  "bytes": 1070,
+  "sha256": "33cbd8bf6d9070f22c705723e3ead486db33a527451aa697b2ffddc9638eec36"
+}

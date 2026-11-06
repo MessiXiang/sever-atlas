@@ -1,0 +1,1294 @@
+{
+  "id": "ap-az-05",
+  "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:09.777911+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+  "bytes": 162548,
+  "sha256": "79f52e493e3c4d24152e995f6cc294b87eedc523243415b8418dfa20d9507956",
+  "file": "sources/neighbours-2026-11-06/ap-az-05.html",
+  "title": "Fuzuli International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Fuzuli+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Fuzuli+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Fuzuli+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Fuzuli+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 Gallery",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#Gallery",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%81%D8%B6%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/F%C3%BCzuli_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_leti%C5%A1t%C4%9B_Fuzuli",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_F%C3%BCzuli",
+      "lang": "de"
+    },
+    {
+      "text": "Ελληνικά",
+      "url": "https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82_%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%A6%CE%BF%CF%85%CE%B6%CE%BF%CF%8D%CE%BB%CE%B9",
+      "lang": "el"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_F%C3%BCzuli",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D9%81%D8%B6%D9%88%D9%84%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Fizouli",
+      "lang": "fr"
+    },
+    {
+      "text": "Hrvatski",
+      "url": "https://hr.wikipedia.org/wiki/Me%C4%91unarodna_zra%C4%8Dna_luka_Fuzuli",
+      "lang": "hr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/F%C3%BCzuli_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D5%96%D5%AB%D5%A6%D5%B8%D6%82%D5%AC%D5%AB%D5%AB_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6",
+      "lang": "hy"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Fuzuli",
+      "lang": "id"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A3%E1%83%96%E1%83%A3%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "Қазақша",
+      "url": "https://kk.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D1%83%D0%BB%D0%B8_%D1%85%D0%B0%D0%BB%D1%8B%D2%9B%D0%B0%D1%80%D0%B0%D0%BB%D1%8B%D2%9B_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B",
+      "lang": "kk"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/%D0%A4%D2%AF%D0%B7%D1%83%D0%BB%D0%B8_(%D0%B0%D0%B1%D0%B0_%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD)",
+      "lang": "ky"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_F%C3%BCzuli",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/F%C3%BCzuli_International_Airport",
+      "lang": "nl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Fuzuli",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Fuzuli",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D1%83%D0%BB%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Slovenčina",
+      "url": "https://sk.wikipedia.org/wiki/Medzin%C3%A1rodn%C3%A9_letisko_F%C3%BCzuli",
+      "lang": "sk"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/F%C3%BCzuli_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A4%D1%8E%D0%B7%D1%83%D0%BB%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D9%81%D8%B6%D9%88%D9%84%DB%8C_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Fuzuliy_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "მარგალური",
+      "url": "https://xmf.wikipedia.org/wiki/%E1%83%A4%E1%83%A3%E1%83%96%E1%83%A3%E1%83%9A%E1%83%98%E1%83%A8_%E1%83%9D%E1%83%94%E1%83%A0%E1%83%94%E1%83%A4%E1%83%9D%E1%83%A8%E1%83%A5%E1%83%90%E1%83%A8%E1%83%94_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "xmf"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E7%A5%96%E5%88%A9%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q104918311#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&oldid=1383671163",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Fuzuli_International_Airport&id=1383671163&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Fuzuli_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q104918311",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Fuzuli_Airport_Logo.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Fuzuli_International_Airport_Entrance.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Government of Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "39°35′40″N 47°11′48″E ﻿ / ﻿ 39.594400°N 47.196600°E ﻿ / 39.594400; 47.196600",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Fuzuli_International_Airport&params=39.594400_N_47.196600_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Azerbaijan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Europe_blank_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "airdrome",
+      "url": "https://en.wikipedia.org/wiki/Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "minefields",
+      "url": "https://en.wikipedia.org/wiki/Minefield",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "manats",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_manat",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "First Nagorno-Karabakh War",
+      "url": "https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani Armed Forces",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_Armed_Forces",
+      "lang": ""
+    },
+    {
+      "text": "ghost town",
+      "url": "https://en.wikipedia.org/wiki/Ghost_town",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-nyt-4",
+      "lang": ""
+    },
+    {
+      "text": "armed forces",
+      "url": "https://en.wikipedia.org/wiki/Artsakh_Defence_Army",
+      "lang": ""
+    },
+    {
+      "text": "Republic of Artsakh",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "Ministry of Transport, Communications and High Technologies",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Transport,_Communications_and_High_Technologies_(Azerbaijan)",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "State Civil Aviation Administration",
+      "url": "https://en.wikipedia.org/wiki/State_Civil_Aviation_Administration_(Azerbaijan)",
+      "lang": ""
+    },
+    {
+      "text": "airfield",
+      "url": "https://en.wikipedia.org/wiki/Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "airport codes",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "Ilham Aliyev",
+      "url": "https://en.wikipedia.org/wiki/Ilham_Aliyev",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "groundbreaking",
+      "url": "https://en.wikipedia.org/wiki/Groundbreaking",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A340-500",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A340-500",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 747-400",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747-400",
+      "lang": ""
+    },
+    {
+      "text": "cargo aircraft",
+      "url": "https://en.wikipedia.org/wiki/Cargo_aircraft",
+      "lang": ""
+    },
+    {
+      "text": "Silk Way Airlines",
+      "url": "https://en.wikipedia.org/wiki/Silk_Way_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "airport apron",
+      "url": "https://en.wikipedia.org/wiki/Airport_apron",
+      "lang": ""
+    },
+    {
+      "text": "airport terminal",
+      "url": "https://en.wikipedia.org/wiki/Airport_terminal",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "Recep Tayyip Erdogan",
+      "url": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdogan",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Fuzuli_International_Airport,_Azerbaijan_3.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Fuzuli_International_Airport,_Azerbaijan_4.jpg",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Lachin International Airport",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zangilan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani construction in areas gained in the 2020 Nagorno-Karabakh war",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_construction_in_areas_gained_in_the_2020_Nagorno-Karabakh_war",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Inaugurates Airport in Record Time\"",
+      "url": "https://airwaysmag.com/airports/azerbaijan-airport-record-time/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan inaugurates its first airport in Karabakh\"",
+      "url": "https://eurasianet.org/azerbaijan-inaugurates-its-first-airport-in-karabakh",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Всесоюзная перепись населения 1989 г. Численность городского населения союзных республик, их территориальных единиц, городских поселений и городских районов по полу\"",
+      "url": "http://www.demoscope.ru/weekly/ssp/sng89_reg2.php",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-nyt_4-0",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus City Falls to Armenian Forces",
+      "url": "https://www.nytimes.com/1993/08/24/world/caucasus-city-falls-to-armenian-forces.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan's Fizuli a ghost town after Karabakh battles\"",
+      "url": "https://www.france24.com/en/live-news/20201119-azerbaijan-s-fizuli-a-ghost-town-after-karabakh-battles",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"30 illlik Azərbaycan-Ərmənistan sentyabr müharibəsindən sonra Qarabağda bərpa prosesi\"",
+      "url": "https://politicon.co/az/analytics/121/ermənistanla-azərbaycan-arasındakı-üç-onillik-müharibədən-sonra-Qarabağın-yenidən-qurulması",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэродромы в Агдаме, Физули включены в каталог международных индексов местоположений\"",
+      "url": "https://mincom.gov.az/ru/view/news/1067/agdam-fuzuli-ve-xankendi-aerodromlari-beynelxalq-cografi-koordinat-indeksleri-siyahisina-daxil-edildi",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani Ministry of Transport, Communications and High Technologies",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Transport,_Communications_and_High_Technologies_(Azerbaijan)",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210130064834/https://mincom.gov.az/ru/view/news/1067/agdam-fuzuli-ve-xankendi-aerodromlari-beynelxalq-cografi-koordinat-indeksleri-siyahisina-daxil-edildi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Официальный сайт президента Азербайджанской Республики - НОВОСТИ » Мероприятия\"",
+      "url": "https://ru.president.az/articles/50184",
+      "lang": ""
+    },
+    {
+      "text": "President.az",
+      "url": "https://en.wikipedia.org/wiki/President_of_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Presidential Administration of Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Presidential_Administration_of_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210122142843/https://ru.president.az/articles/50184",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan opens new international airport in Karabakh\"",
+      "url": "https://www.airport-technology.com/news/azerbaijan-new-international-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"AZAL's \"KARABAKH\" aircraft lands in Fuzuli Airport (VIDEO)\"",
+      "url": "https://news.az/news/azals-karabakh-aircraft-lands-in-fuzuli-airport-video",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Landmark Development: AZAL's \"KARABAKH\" aircraft landed at Fuzuli Airport\"",
+      "url": "https://azertag.az/en/xeber/Landmark_Development_AZALs_KARABAKH_aircraft_landed_at_Fuzuli_Airport-1868773",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"The Karabakh Air Gate Opens: Future Prospects for Fuzuli Airport\"",
+      "url": "https://jamestown.org/program/the-karabakh-air-gate-opens-future-prospects-for-fuzuli-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Jamestown Foundation",
+      "url": "https://en.wikipedia.org/wiki/Jamestown_Foundation",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Fuzuli International Airport: Karabakh's air gate and symbol of development\"",
+      "url": "https://www.airport.az/en/press-release/fuzuli-international-airport-karabakhs-air-gate-and-symbol-of-development/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Erdogan To Join Aliyev At Ceremony To Open Airport Beside Nagorno-Karabakh\"",
+      "url": "https://www.rferl.org/a/erdogan-aliyev-fuzuli-airport-karabakh/31529853.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Airlines Resumes Baku – Fuzuli Service in 2Q25\"",
+      "url": "https://www.aeroroutes.com/eng/250507-j22q25fzl",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Fuzuli%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Video of Fuzuli airport",
+      "url": "https://www.youtube.com/watch?v=ngtzxuYUz3o",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lənkəran",
+      "url": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qəbələ",
+      "url": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Füzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağstafa",
+      "url": "https://en.wikipedia.org/wiki/Aghstafa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakən",
+      "url": "https://en.wikipedia.org/wiki/Balakan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Laçın",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Xocalı",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yevlax",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zabrat",
+      "url": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zəngilan",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Maiden_Tower_(Baku).jpg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&oldid=1383671163",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&oldid=1383671163",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Fuzuli District",
+      "url": "https://en.wikipedia.org/wiki/Category:Fuzuli_District",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Azerbaijani_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Azerbaijani-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Azerbaijani-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Azerbaijani-language sources (az)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Azerbaijani-language_sources_(az)",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Fuzuli_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-az-05.txt"
+}

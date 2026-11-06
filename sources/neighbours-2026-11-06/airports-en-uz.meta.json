@@ -1,0 +1,1684 @@
+{
+  "id": "airports-en-uz",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+  "retrievedAt": "2026-11-06T08:22:30.548320+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+  "bytes": 186272,
+  "sha256": "7614f8c220e3ed4e5523db54bc892ea01a705845054dde85405f37d98c7e2779",
+  "file": "sources/neighbours-2026-11-06/airports-en-uz.html",
+  "title": "List of airports in Uzbekistan - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan#References",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_und_Flugpl%C3%A4tze_in_Usbekistan",
+      "lang": "de"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Usbekistani_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/%D3%A8%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BD_%D0%B0%D0%B1%D0%B0_%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D1%81%D0%B8",
+      "lang": "ky"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Uzbekistanie",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/%C3%96zbekistan%27daki_havalimanlar%C4%B1_listesi",
+      "lang": "tr"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_aeroportlari",
+      "lang": "uz"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E7%83%8F%E8%8C%B2%E5%88%A5%E5%85%8B%E6%A9%9F%E5%A0%B4%E5%88%97%E8%A1%A8",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q978626#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&oldid=1378809889",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Uzbekistan&id=1378809889&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Uzbekistan&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q978626",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Uzbekistan,_administrative_divisions_-_de_-_monochrome.svg",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Regions",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbek",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+      "lang": ""
+    },
+    {
+      "text": "Central Asia",
+      "url": "https://en.wikipedia.org/wiki/Central_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "regions",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "autonomous republic",
+      "url": "https://en.wikipedia.org/wiki/Autonomous_republic",
+      "lang": ""
+    },
+    {
+      "text": "independent city",
+      "url": "https://en.wikipedia.org/wiki/Independent_city",
+      "lang": ""
+    },
+    {
+      "text": "districts",
+      "url": "https://en.wikipedia.org/wiki/Districts_of_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Location served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Andijan Region",
+      "url": "https://en.wikipedia.org/wiki/Andijan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Andijan",
+      "url": "https://en.wikipedia.org/wiki/Andijan",
+      "lang": ""
+    },
+    {
+      "text": "Andizhan Airport",
+      "url": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°43′40″N 072°17′38″E ﻿ / ﻿ 40.72778°N 72.29389°E ﻿ / 40.72778; 72.29389 ﻿ ( Andizhan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_43_40_N_072_17_38_E_region:UZ_type:airport&title=Andizhan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Marhamat",
+      "url": "https://en.wikipedia.org/wiki/Marhamat",
+      "lang": ""
+    },
+    {
+      "text": "40°29′00″N 072°16′54″E ﻿ / ﻿ 40.48333°N 72.28167°E ﻿ / 40.48333; 72.28167 ﻿ ( Kuva Southeast Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_29_00_N_072_16_54_E_region:UZ_type:airport&title=Kuva+Southeast+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara Region",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_Region",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara International Airport",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°46′30″N 064°29′00″E ﻿ / ﻿ 39.77500°N 64.48333°E ﻿ / 39.77500; 64.48333 ﻿ ( Bukhara International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_46_30_N_064_29_00_E_region:UZ_type:airport&title=Bukhara+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kagan",
+      "url": "https://en.wikipedia.org/wiki/Kagan,_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "39°41′17″N 064°32′41″E ﻿ / ﻿ 39.68806°N 64.54472°E ﻿ / 39.68806; 64.54472 ﻿ ( Kagan South Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_41_17_N_064_32_41_E_region:UZ_type:airport&title=Kagan+South+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Fergana Region",
+      "url": "https://en.wikipedia.org/wiki/Fergana_Region",
+      "lang": ""
+    },
+    {
+      "text": "Fergana",
+      "url": "https://en.wikipedia.org/wiki/Fergana",
+      "lang": ""
+    },
+    {
+      "text": "Fergana International Airport",
+      "url": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°21′32″N 071°44′42″E ﻿ / ﻿ 40.35889°N 71.74500°E ﻿ / 40.35889; 71.74500 ﻿ ( Fergana International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_21_32_N_071_44_42_E_region:UZ_type:airport&title=Fergana+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokand",
+      "url": "https://en.wikipedia.org/wiki/Kokand",
+      "lang": ""
+    },
+    {
+      "text": "40°26′58″N 070°59′49″E ﻿ / ﻿ 40.44944°N 70.99694°E ﻿ / 40.44944; 70.99694 ﻿ ( Kokand Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_26_58_N_070_59_49_E_region:UZ_type:airport&title=Kokand+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sokh",
+      "url": "https://en.wikipedia.org/wiki/Sokh",
+      "lang": ""
+    },
+    {
+      "text": "39°58′08″N 071°07′31″E ﻿ / ﻿ 39.96889°N 71.12528°E ﻿ / 39.96889; 71.12528 ﻿ ( Suh Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_58_08_N_071_07_31_E_region:UZ_type:airport&title=Suh+Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°30′17″N 071°54′08″E ﻿ / ﻿ 40.50472°N 71.90222°E ﻿ / 40.50472; 71.90222 ﻿ ( Kuva West Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_30_17_N_071_54_08_E_region:UZ_type:airport&title=Kuva+West+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jizzakh Region",
+      "url": "https://en.wikipedia.org/wiki/Jizzakh_Region",
+      "lang": ""
+    },
+    {
+      "text": "Arnasoy",
+      "url": "https://en.wikipedia.org/wiki/Arnasoy_District",
+      "lang": ""
+    },
+    {
+      "text": "40°35′30″N 067°37′35″E ﻿ / ﻿ 40.59167°N 67.62639°E ﻿ / 40.59167; 67.62639 ﻿ ( Arnasoy Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_35_30_N_067_37_35_E_region:UZ_type:airport&title=Arnasoy+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Paxtakor",
+      "url": "https://en.wikipedia.org/wiki/Paxtakor",
+      "lang": ""
+    },
+    {
+      "text": "40°15′10″N 067°54′38″E ﻿ / ﻿ 40.25278°N 67.91056°E ﻿ / 40.25278; 67.91056 ﻿ ( Pakhtakor Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_15_10_N_067_54_38_E_region:UZ_type:airport&title=Pakhtakor+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin",
+      "lang": ""
+    },
+    {
+      "text": "Zomin Airport",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°58′11″N 068°32′35″E ﻿ / ﻿ 39.96972°N 68.54306°E ﻿ / 39.96972; 68.54306 ﻿ ( Zomin Airpor )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_58_11_N_068_32_35_E_region:UZ_type:airport&title=Zomin+Airpor",
+      "lang": ""
+    },
+    {
+      "text": "Karakalpakstan Republic",
+      "url": "https://en.wikipedia.org/wiki/Karakalpakstan",
+      "lang": ""
+    },
+    {
+      "text": "Jasliq",
+      "url": "https://en.wikipedia.org/wiki/Jasliq",
+      "lang": ""
+    },
+    {
+      "text": "44°1′48″N 057°31′45″E ﻿ / ﻿ 44.03000°N 57.52917°E ﻿ / 44.03000; 57.52917 ﻿ ( Jaslyk Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=44_1_48_N_057_31_45_E_region:UZ_type:airport&title=Jaslyk+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Kungrad",
+      "url": "https://en.wikipedia.org/wiki/Kungrad",
+      "lang": ""
+    },
+    {
+      "text": "43°04′59″N 058°53′3″E ﻿ / ﻿ 43.08306°N 58.88417°E ﻿ / 43.08306; 58.88417 ﻿ ( Kungrad Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=43_04_59_N_058_53_3_E_region:UZ_type:airport&title=Kungrad+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moynaq",
+      "url": "https://en.wikipedia.org/wiki/Moynaq",
+      "lang": ""
+    },
+    {
+      "text": "Muynak Airport",
+      "url": "https://en.wikipedia.org/wiki/Muynak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "43°45′19″N 059°01′51″E ﻿ / ﻿ 43.75528°N 59.03083°E ﻿ / 43.75528; 59.03083 ﻿ ( Muynak Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=43_45_19_N_059_01_51_E_region:UZ_type:airport&title=Muynak+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus",
+      "lang": ""
+    },
+    {
+      "text": "Nukus Airport",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°29′18″N 059°37′23″E ﻿ / ﻿ 42.48833°N 59.62306°E ﻿ / 42.48833; 59.62306 ﻿ ( Nukus Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=42_29_18_N_059_37_23_E_region:UZ_type:airport&title=Nukus+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kantubek",
+      "url": "https://en.wikipedia.org/wiki/Kantubek",
+      "lang": ""
+    },
+    {
+      "text": "45°09′33″N 059°18′07″E ﻿ / ﻿ 45.15917°N 59.30194°E ﻿ / 45.15917; 59.30194 ﻿ ( Barkhan Airfield )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=45_09_33_N_059_18_07_E_region:UZ_type:airport&title=Barkhan+Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Khorezm Region",
+      "url": "https://en.wikipedia.org/wiki/Khorezm_Region",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench",
+      "lang": ""
+    },
+    {
+      "text": "Urgench International Airport",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°35′03″N 060°38′30″E ﻿ / ﻿ 41.58417°N 60.64167°E ﻿ / 41.58417; 60.64167 ﻿ ( Urgench International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_35_03_N_060_38_30_E_region:UZ_type:airport&title=Urgench+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Namangan Region",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Region",
+      "lang": ""
+    },
+    {
+      "text": "40°48′12″N 071°11′21″E ﻿ / ﻿ 40.80333°N 71.18917°E ﻿ / 40.80333; 71.18917 ﻿ ( Kara-Kalpak Airfield )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_48_12_N_071_11_21_E_region:UZ_type:airport&title=Kara-Kalpak+Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan",
+      "lang": ""
+    },
+    {
+      "text": "Namangan Airport",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°59′04″N 071°33′24″E ﻿ / ﻿ 40.98444°N 71.55667°E ﻿ / 40.98444; 71.55667 ﻿ ( Namangan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_59_04_N_071_33_24_E_region:UZ_type:airport&title=Namangan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy Region",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_Region",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy International Airport",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°07′04″N 065°10′30″E ﻿ / ﻿ 40.11778°N 65.17500°E ﻿ / 40.11778; 65.17500 ﻿ ( Navoiy International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_07_04_N_065_10_30_E_region:UZ_type:airport&title=Navoiy+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamdybulak",
+      "url": "https://en.wikipedia.org/wiki/Tamdybulak",
+      "lang": ""
+    },
+    {
+      "text": "41°45′44″N 064°36′01″E ﻿ / ﻿ 41.76222°N 64.60028°E ﻿ / 41.76222; 64.60028 ﻿ ( Tandy Bulak Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_45_44_N_064_36_01_E_region:UZ_type:airport&title=Tandy+Bulak+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uchkuduk",
+      "url": "https://en.wikipedia.org/wiki/Uchkuduk",
+      "lang": ""
+    },
+    {
+      "text": "42°04′59″N 063°26′57″E ﻿ / ﻿ 42.08306°N 63.44917°E ﻿ / 42.08306; 63.44917 ﻿ ( Uchkuduk Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=42_04_59_N_063_26_57_E_region:UZ_type:airport&title=Uchkuduk+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan",
+      "url": "https://en.wikipedia.org/wiki/Zarafshon",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan Airport",
+      "url": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°36′49″N 064°13′58″E ﻿ / ﻿ 41.61361°N 64.23278°E ﻿ / 41.61361; 64.23278 ﻿ ( Zarafshan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_36_49_N_064_13_58_E_region:UZ_type:airport&title=Zarafshan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qashqadaryo Region",
+      "url": "https://en.wikipedia.org/wiki/Qashqadaryo_Region",
+      "lang": ""
+    },
+    {
+      "text": "Maymanak",
+      "url": "https://en.wikipedia.org/wiki/Maymanak?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "uz",
+      "url": "https://uz.wikipedia.org/wiki/Maymanoq",
+      "lang": ""
+    },
+    {
+      "text": "39°08′16″N 065°09′55″E ﻿ / ﻿ 39.13778°N 65.16528°E ﻿ / 39.13778; 65.16528 ﻿ ( Maymanak Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_08_16_N_065_09_55_E_region:UZ_type:airport&title=Maymanak+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi",
+      "lang": ""
+    },
+    {
+      "text": "Karshi Airport",
+      "url": "https://en.wikipedia.org/wiki/Karshi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "38°48′14″N 065°46′14″E ﻿ / ﻿ 38.80389°N 65.77056°E ﻿ / 38.80389; 65.77056 ﻿ ( Karshi Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=38_48_14_N_065_46_14_E_region:UZ_type:airport&title=Karshi+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi",
+      "lang": ""
+    },
+    {
+      "text": "Karshi-Khanabad",
+      "url": "https://en.wikipedia.org/wiki/Karshi-Khanabad",
+      "lang": ""
+    },
+    {
+      "text": "38°50′01″N 065°55′17″E ﻿ / ﻿ 38.83361°N 65.92139°E ﻿ / 38.83361; 65.92139 ﻿ ( Karshi Airport/Karshi-Khanabad Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=38_50_01_N_065_55_17_E_region:UZ_type:airport&title=Karshi+Airport%2FKarshi-Khanabad+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Shakhrisabz",
+      "url": "https://en.wikipedia.org/wiki/Shakhrisabz",
+      "lang": ""
+    },
+    {
+      "text": "39°01′48″N 066°46′32″E ﻿ / ﻿ 39.03000°N 66.77556°E ﻿ / 39.03000; 66.77556 ﻿ ( Shakhrisabz Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_01_48_N_066_46_32_E_region:UZ_type:airport&title=Shakhrisabz+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand Region",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_Region",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand International Airport",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°42′02″N 066°59′02″E ﻿ / ﻿ 39.70056°N 66.98389°E ﻿ / 39.70056; 66.98389 ﻿ ( Samarkand Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=39_42_02_N_066_59_02_E_region:UZ_type:airport&title=Samarkand+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Surxondaryo Region",
+      "url": "https://en.wikipedia.org/wiki/Surxondaryo_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kakaydi",
+      "url": "https://en.wikipedia.org/wiki/Kakaydi",
+      "lang": ""
+    },
+    {
+      "text": "Kakaydy Air Base",
+      "url": "https://en.wikipedia.org/wiki/Kakaydy",
+      "lang": ""
+    },
+    {
+      "text": "37°37′30″N 067°31′2″E ﻿ / ﻿ 37.62500°N 67.51722°E ﻿ / 37.62500; 67.51722 ﻿ ( Kakaydy Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=37_37_30_N_067_31_2_E_region:UZ_type:airport&title=Kakaydy+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyo",
+      "url": "https://en.wikipedia.org/wiki/Sariosiyo",
+      "lang": ""
+    },
+    {
+      "text": "38°24′38″N 067°56′43″E ﻿ / ﻿ 38.41056°N 67.94528°E ﻿ / 38.41056; 67.94528 ﻿ ( Sary Asiya Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=38_24_38_N_067_56_43_E_region:UZ_type:airport&title=Sary+Asiya+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Termez",
+      "url": "https://en.wikipedia.org/wiki/Termez",
+      "lang": ""
+    },
+    {
+      "text": "Termez Airport",
+      "url": "https://en.wikipedia.org/wiki/Termez_Airport",
+      "lang": ""
+    },
+    {
+      "text": "37°17′12″N 067°18′36″E ﻿ / ﻿ 37.28667°N 67.31000°E ﻿ / 37.28667; 67.31000 ﻿ ( Termez Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=37_17_12_N_067_18_36_E_region:UZ_type:airport&title=Termez+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sirdaryo Region",
+      "url": "https://en.wikipedia.org/wiki/Sirdaryo_Region",
+      "lang": ""
+    },
+    {
+      "text": "Sirdaryo",
+      "url": "https://en.wikipedia.org/wiki/Sirdaryo",
+      "lang": ""
+    },
+    {
+      "text": "40°48′27″N 068°41′11″E ﻿ / ﻿ 40.80750°N 68.68639°E ﻿ / 40.80750; 68.68639 ﻿ ( Sirdaryo Airfield )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=40_48_27_N_068_41_11_E_region:UZ_type:airport&title=Sirdaryo+Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent City",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent International Airport",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°15′28″N 069°16′52″E ﻿ / ﻿ 41.25778°N 69.28111°E ﻿ / 41.25778; 69.28111 ﻿ ( Tashkent International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_15_28_N_069_16_52_E_region:UZ_type:airport&title=Tashkent+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent-Humo Airport",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°18′37″N 069°23′33″E ﻿ / ﻿ 41.31028°N 69.39250°E ﻿ / 41.31028; 69.39250 ﻿ ( New Tashkent Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_18_37_N_069_23_33_E_region:UZ_type:airport&title=New+Tashkent+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent Region",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_Region",
+      "lang": ""
+    },
+    {
+      "text": "Chirchik",
+      "url": "https://en.wikipedia.org/wiki/Chirchik",
+      "lang": ""
+    },
+    {
+      "text": "41°30′39″N 069°34′33″E ﻿ / ﻿ 41.51083°N 69.57583°E ﻿ / 41.51083; 69.57583 ﻿ ( Chirchik Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Uzbekistan&params=41_30_39_N_069_34_33_E_region:UZ_type:airport&title=Chirchik+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UT - Tajikistan, Turkmenistan, Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UT_-_Tajikistan,_Turkmenistan,_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20190325001252/https://www.icao.int/safety/ism/Accident%2520Incident%2520Reporting%2520Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Uzbekistan\"",
+      "url": "http://www.unece.org/fileadmin/DAM/cefact/locode/uz.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Uzbekistan\"",
+      "url": "http://www.gcmap.com/search?Q=country:UZ",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "help",
+      "url": "https://en.wikipedia.org/wiki/Help:CS1_errors#accessdate_missing_url",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Andizhan",
+      "url": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fergana",
+      "url": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Termez",
+      "url": "https://en.wikipedia.org/wiki/Termez_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokand",
+      "url": "https://en.wikipedia.org/wiki/Kokand_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Muynak",
+      "url": "https://en.wikipedia.org/wiki/Muynak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyo",
+      "url": "https://en.wikipedia.org/wiki/Sariosiyo_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Uchkuduk",
+      "url": "https://en.wikipedia.org/wiki/Uchkuduk_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan",
+      "url": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chirchik",
+      "url": "https://en.wikipedia.org/wiki/Chirchik_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Karshi-Khanabad",
+      "url": "https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kungrad",
+      "url": "https://en.wikipedia.org/wiki/Kungrad_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakhtakor",
+      "url": "https://en.wikipedia.org/wiki/Pakhtakor_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent-Vostochny Tuzel",
+      "url": "https://en.wikipedia.org/wiki/Vostochny_Tuzel_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&oldid=1378809889",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&oldid=1378809889",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Uzbekistan_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Uzbek-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Uzbek-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "CS1 errors: access-date without URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_errors:_access-date_without_URL",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Uzbekistan&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-uz.txt"
+}

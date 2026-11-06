@@ -1,0 +1,6 @@
+{
+  "id": "kg-asman-wiki",
+  "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+  "retrievedAt": "2026-11-06T09:52:46.865635+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://en.wikipedia.org/wiki/Asman_Airlines']' returned non-zero exit status 28."
+}

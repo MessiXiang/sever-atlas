@@ -1,0 +1,455 @@
+Airport
+Queen Tamar Airport
+თამარ მეფის აეროპორტი
+Airport main building
+IATA
+:
+none
+ICAO
+:
+UGMS
+Summary
+Airport
+type
+Public
+Owner
+United Airports of Georgia
+LLC
+Operator
+United Airports of Georgia LLC
+Serves
+Mestia
+,
+Svaneti
+, Georgia
+Elevation
+AMSL
+4,778
+ft (1,456
+m)
+Coordinates
+43°03′30″N
+042°45′02″E
+﻿
+/
+﻿
+43.05833°N 42.75056°E
+﻿
+/
+43.05833; 42.75056
+Map
+Queen Tamar Airport
+Location of airport in Georgia
+Show map of Georgia
+Queen Tamar Airport
+Queen Tamar Airport (Samegrelo-Zemo Svaneti)
+Show map of Samegrelo-Zemo Svaneti
+Runways
+Direction
+Length
+Surface
+m
+ft
+02/20
+1,158
+3,800
+Concrete
+Source: Georgian Civil Aviation Agency (GCAA),
+[
+1
+]
+Skyvector.com
+[
+2
+]
+Queen Tamar Airport runway
+Queen Tamar Airport
+(
+ICAO
+:
+UGMS
+)
+, or Mestia Airport, is a small domestic airport serving
+Mestia
+, a town in
+Samegrelo-Zemo Svaneti
+,
+Georgia
+. Since its reopening in 2010 it is named after the medieval "queen king" regnant
+Tamar of Georgia
+, who is a popular symbol in Georgian popular culture. The airport is owned and operated by
+United Airports of Georgia
+, a state-owned company. The airport is located at
+1,456
+m (4,777
+ft)
+above sea level in the valley near Mestia, wedged between the mountains of the
+Greater Caucasus
+.
+General
+[
+edit
+]
+Mestia Airport is a small regional airport, with a paved runway of
+1,156
+m (3,793
+ft)
+, which is served only domestically. It is located
+1,456
+m (4,777
+ft)
+above sea level in the valley of the Mestiachala River,  wedged between the mountains of the
+Greater Caucasus
+, with peaks above
+3,000
+m (9,800
+ft)
+. It serves not only summer tourism to the mountains of
+Svanetia
+, but also skiresorts Hatsvali and Tetnuldi. Due to the remoteness of the inaccessible mountain valley, Mestia was served by air in Soviet times, which was not without risks. Two
+Antonov An-2
+biplanes crashed near Mestia.
+[
+3
+]
+Upon reopening,
+Kenn Borek Air
+from Canada, a company specializing in flights in difficult conditions, started scheduled flights between Mestia and
+Natakhtari
+(
+Tbilisi
+) with a
+DHC-6 Twin Otter
+. This contract was terminated in mid-2013. It took until mid-2014 until flights to Mestia were resumed when Service Air, a Georgian company which owns and operates the Natakhtari airfield, won a contract for the route.
+[
+4
+]
+Its subsidiary
+Vanilla Sky Airlines
+services the route since with a 19-seat
+Let L-410
+. In spring 2016, the
+Kutaisi
+- Mestia route followed,
+[
+5
+]
+shortly after Hungarian
+Wizz Air
+committed to creating a hub out of Kutaisi airport, guaranteeing the flow of tourists.
+[
+6
+]
+Due to the outbreak of the corona pandemic, air traffic in Georgia was completely shut down by the government in 2020, except for mandated flights. While international traffic was not opened until February 2021, domestic traffic resumed in the summer of 2020,
+[
+7
+]
+and in November 2021 the connection with Kutaisi was restored.
+[
+8
+]
+Compared with Georgia's international airports, the passenger flow through Mestia was impacted relatively mild, and picked up again in 2021 in sold numbers.
+History
+[
+edit
+]
+After the 2003
+Rose Revolution
+of 2003, when tourism became a focal point of policy, Mestia was quickly identified to be upgraded with a new airport including a paved runway. In December 2010, the Queen Tamar Airport was opened by President
+Mikheil Saakashvili
+, who flew in with his government for a cabinet meeting.
+[
+9
+]
+[
+10
+]
+The airport building, designed by the German architect
+Jürgen Mayer
+, is a modern take on the
+Svan towers
+, the medieval defensive towers that are characteristic of the region.
+Airlines and destinations
+[
+edit
+]
+Airlines
+Destinations
+Vanilla Sky Airlines
+Kutaisi
+,
+[
+8
+]
+Natakhtari
+[
+7
+]
+[
+11
+]
+Statistics
+[
+edit
+]
+Annual passenger statistics Queen Tamar Mestia Airport
+[
+12
+]
+Year
+Passengers
+Change
+Passengers
+Year
+0
+2000
+4000
+6000
+8000
+10,000
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Passengers
+Annual passenger traffic
+2023
+10,217
+0
+0
+0
+8.89%
+2022
+9,385
+[
+13
+]
+82.6%
+2021
+5,141
+0
+0
+0
+62.3%
+2020
+3,165
+0
+0
+0
+63.3%
+2019
+8,625
+0
+0
+0
+25.8%
+2018
+6,858
+0
+0
+0
+0
+5.5%
+2017
+7,256
+0
+0
+0
+72.2%
+2016
+4,214
+0
+0
+0
+0
+5.6%
+2015
+4,465
+0
+0
+232.5%
+2014
+1,343
+0
+0
+151.8%
+2013
+0
+885
+0
+0
+0
+69.7%
+2012
+2,922
+0
+0
+0
+36.2%
+2011
+4,580
+10,178%
+2010
+0
+0
+45
+See also
+[
+edit
+]
+List of airports in Georgia
+Transport in Georgia
+Georgian Civil Aviation Administration
+References
+[
+edit
+]
+↑
+"gcaa.ge - Mestia Queen Tamar Airport"
+. Archived from
+the original
+on 2015-12-22
+. Retrieved
+2015-12-14
+.
+↑
+skyvector.com - Mestia Airport
+↑
+"ASN Aircraft accident Antonov An-2T CCCP-07960 Mestia (1975)"
+.
+Aviation Safety Network
+. Retrieved
+2022-02-09
+.
+↑
+"PM celebrates direct flights to Mestia"
+.
+Agenda.ge
+. 2014-07-14
+. Retrieved
+2022-02-09
+.
+↑
+"Seasonal travellers enjoy flights to Kutaisi, Mestia"
+.
+Agenda.ge
+. 2016-03-05
+. Retrieved
+2022-02-09
+.
+↑
+"Wizz Air opens base at Kutaisi International Airport"
+.
+Agenda.ge
+. 2016-02-04
+. Retrieved
+2022-02-09
+.
+1
+2
+"Domestic flights resume in Georgia starting tomorrow"
+.
+Agenda.ge
+. 2020-07-23
+. Retrieved
+2022-02-09
+.
+1
+2
+"Regular flights to resume between Kutaisi and Mestia"
+.
+Agenda.ge
+. 2021-11-03
+. Retrieved
+2022-02-09
+.
+↑
+"The President of Georgia visited recently completed facilities in Mestia"
+.
+President of Georgia Mikheil Saakashvili Archive
+. 2010-12-24. Archived from
+the original
+on 2021-12-02
+. Retrieved
+2022-02-09
+.
+↑
+"The President of Georgia held a government session in Mestia"
+.
+President of Georgia Mikheil Saakashvili Archive
+. 2010-12-24. Archived from
+the original
+on 2021-12-02
+. Retrieved
+2022-02-09
+.
+↑
+Ge, Mountainstories (2022-01-13).
+"Flights to Mestia, Ambrolauri, and Batumi - Schedule and Prices"
+.
+Mountain Stories
+. Retrieved
+2022-02-09
+.
+↑
+"Number of Passengers Served"
+.
+gcaa.ge
+. Civil Aviation Agency of Georgia. 23 May 2020
+. Retrieved
+2022-02-09
+.
+↑
+"According to total data for 2022, the number of flights recovered to the level of 88% from pre-Covid levels, whereas passenger count - to the level of 85% (in Georgian)"
+.
+Georgian Civil Aviation Authority
+. January 16, 2023
+. Retrieved
+January 18,
+2023
+.
+External links
+[
+edit
+]
+Queen Tamar Airport page on GCAA website
+(in English and Georgian)
+United Airports of Georgia
+Archived
+2020-02-27 at the
+Wayback Machine
+(in English and Georgian)
+"Current weather for UGMS"
+.
+NOAA
+/
+NWS
+.
+v
+t
+e
+Airports
+in
+Georgia
+International
+Batumi
+Kutaisi
+Sukhumi
+Tbilisi
+Domestic
+Ambrolauri
+Mestia
+Natakhtari
+Defunct
+Poti
+Statistics
+Portals
+:
+Georgia (country)
+Aviation
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Queen_Tamar_Airport&oldid=1371086621
+"

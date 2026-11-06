@@ -1,0 +1,305 @@
+{
+  "id": "southernsky-home-current",
+  "url": "https://hisky.kz/",
+  "retrievedAt": "2026-11-06T11:05:02.681796+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://hisky.kz/",
+  "bytes": 44285,
+  "sha256": "5a97cd7d1c8bd677d1cadc70b9789fda607f807aa3211b263fa3363c365f024d",
+  "file": "sources/neighbours-2026-11-06/southernsky-home-current.html",
+  "title": "Главная - Авиакомпания \"Южное Небо\"",
+  "links": [
+    {
+      "text": "",
+      "url": "https://hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "Покупка билета",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Возврат и обмен",
+      "url": "https://hisky.kz/#orders",
+      "lang": ""
+    },
+    {
+      "text": "Онлайн регистрация",
+      "url": "https://hisky.kz/#checkin",
+      "lang": ""
+    },
+    {
+      "text": "Расписание",
+      "url": "https://hisky.kz/#schedule",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/southern_sky_airlines/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/77775025184",
+      "lang": ""
+    },
+    {
+      "text": "На главную Поиск билетов",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Чартерные рейсы Аренда ВС",
+      "url": "https://hisky.kz/frakht-vs/",
+      "lang": ""
+    },
+    {
+      "text": "Корпоративный сайт Вход для агентов",
+      "url": "https://sale.hisky.kz",
+      "lang": ""
+    },
+    {
+      "text": "Предложения Выгодные цены на билеты",
+      "url": "https://hisky.kz/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Мои заказы Посмотреть историю заказов",
+      "url": "https://hisky.kz/#orders",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам Информационная поддержка",
+      "url": "https://hisky.kz/#support",
+      "lang": ""
+    },
+    {
+      "text": "Публичная оферта Договор между сторонами",
+      "url": "https://hisky.kz/publichnaya-oferta/",
+      "lang": ""
+    },
+    {
+      "text": "О нас Информация о Hi Sky Airlines",
+      "url": "https://hisky.kz/about/",
+      "lang": ""
+    },
+    {
+      "text": "главная",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Направления",
+      "url": "https://hisky.kz/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Помощь",
+      "url": "https://hisky.kz/#support",
+      "lang": ""
+    },
+    {
+      "text": "Семей⇄Урджар 17000₸",
+      "url": "https://hisky.kz/#PLXUZR",
+      "lang": ""
+    },
+    {
+      "text": "Оскемен⇄Зайсан 17000₸",
+      "url": "https://hisky.kz/#UKKSZI",
+      "lang": ""
+    },
+    {
+      "text": "+7 (7252) 92-04-50",
+      "url": "tel:+7 (7252) 92-04-50",
+      "lang": ""
+    },
+    {
+      "text": "Часто задаваемые вопросы",
+      "url": "https://hisky.kz/faq/",
+      "lang": ""
+    },
+    {
+      "text": "Перечень услуг и их стоимость",
+      "url": "https://hisky.kz/perechen-uslug-i-ih-stoimost/",
+      "lang": ""
+    },
+    {
+      "text": "Правила перевозок",
+      "url": "https://hisky.kz/accordeon-page/pravila-perevozok/",
+      "lang": ""
+    },
+    {
+      "text": "Политика конфиденциальности",
+      "url": "https://hisky.kz/politika-konfidenczialnosti/",
+      "lang": ""
+    },
+    {
+      "text": "Компенсация при изменении статуса рейса",
+      "url": "https://hisky.kz/compensation/",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://hisky.kz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "На главную Поиск билетов",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Чартерные рейсы Аренда ВС",
+      "url": "https://hisky.kz/frakht-vs/",
+      "lang": ""
+    },
+    {
+      "text": "Корпоративный сайт Вход для агентов",
+      "url": "https://sale.hisky.kz",
+      "lang": ""
+    },
+    {
+      "text": "Предложения Выгодные цены на билеты",
+      "url": "https://hisky.kz/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Мои заказы Посмотреть историю заказов",
+      "url": "https://hisky.kz/#orders",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам Информационная поддержка",
+      "url": "https://hisky.kz/#support",
+      "lang": ""
+    },
+    {
+      "text": "Публичная оферта Договор между сторонами",
+      "url": "https://hisky.kz/publichnaya-oferta/",
+      "lang": ""
+    },
+    {
+      "text": "О нас Информация о Hi Sky Airlines",
+      "url": "https://hisky.kz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Hi Sky",
+      "url": "https://hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "Покупка билета",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Возврат и обмен",
+      "url": "https://hisky.kz/#orders",
+      "lang": ""
+    },
+    {
+      "text": "Онлайн регистрация",
+      "url": "https://hisky.kz/#checkin",
+      "lang": ""
+    },
+    {
+      "text": "Расписание",
+      "url": "https://hisky.kz/#schedule",
+      "lang": ""
+    },
+    {
+      "text": "Семей⇄Урджар 17000₸",
+      "url": "https://hisky.kz/#PLXUZR",
+      "lang": ""
+    },
+    {
+      "text": "Оскемен⇄Зайсан 17000₸",
+      "url": "https://hisky.kz/#UKKSZI",
+      "lang": ""
+    },
+    {
+      "text": "Часто задаваемые вопросы",
+      "url": "https://hisky.kz/faq/",
+      "lang": ""
+    },
+    {
+      "text": "Перечень услуг и их стоимость",
+      "url": "https://hisky.kz/perechen-uslug-i-ih-stoimost/",
+      "lang": ""
+    },
+    {
+      "text": "Правила перевозок",
+      "url": "https://hisky.kz/accordeon-page/pravila-perevozok/",
+      "lang": ""
+    },
+    {
+      "text": "Политика конфиденциальности",
+      "url": "https://hisky.kz/politika-konfidenczialnosti/",
+      "lang": ""
+    },
+    {
+      "text": "Компенсация при изменении статуса рейса",
+      "url": "https://hisky.kz/compensation/",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://hisky.kz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "+7 (7252) 92-04-50",
+      "url": "tel:+7 (7252) 92-04-50",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/southern_sky_airlines/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/77775025184",
+      "lang": ""
+    },
+    {
+      "text": "Don't have a profile yet? Create",
+      "url": "https://hisky.kz/#registration-popup",
+      "lang": ""
+    },
+    {
+      "text": "Don't have a profile yet? Create",
+      "url": "https://hisky.kz/#registration-popup",
+      "lang": ""
+    },
+    {
+      "text": "Forgot password?",
+      "url": "https://hisky.kz/#reset-popup",
+      "lang": ""
+    },
+    {
+      "text": "Bak to login",
+      "url": "https://hisky.kz/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Back to login",
+      "url": "https://hisky.kz/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Bak to login",
+      "url": "https://hisky.kz/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Back to login",
+      "url": "https://hisky.kz/#login-popup",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/southernsky-home-current.txt"
+}

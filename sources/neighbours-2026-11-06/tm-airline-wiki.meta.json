@@ -1,0 +1,3024 @@
+{
+  "id": "tm-airline-wiki",
+  "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+  "retrievedAt": "2026-11-06T08:33:10.718337+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+  "bytes": 384640,
+  "sha256": "d49f75bce4aa59240e60a2466d1bdaf01f99aaf0d940cfbaea28360741287c34",
+  "file": "sources/neighbours-2026-11-06/tm-airline-wiki.html",
+  "title": "Turkmenistan Airlines - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Turkmenistan+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Turkmenistan+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Turkmenistan+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Turkmenistan+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Re-organization",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Re-organization",
+      "lang": ""
+    },
+    {
+      "text": "2 Destinations",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Destinations",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Interline agreements",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Interline_agreements",
+      "lang": ""
+    },
+    {
+      "text": "3 Fleet",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Fleet",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Current fleet",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Current_fleet",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Historical fleet",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Historical_fleet",
+      "lang": ""
+    },
+    {
+      "text": "3.2.1 Former Turkmenistan Airlines liveries",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Former_Turkmenistan_Airlines_liveries",
+      "lang": ""
+    },
+    {
+      "text": "4 Corporate affairs",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Corporate_affairs",
+      "lang": ""
+    },
+    {
+      "text": "4.1 Headquarters",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Headquarters",
+      "lang": ""
+    },
+    {
+      "text": "4.2 Branding",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Branding",
+      "lang": ""
+    },
+    {
+      "text": "4.3 Sponsorship",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Sponsorship",
+      "lang": ""
+    },
+    {
+      "text": "5 Services",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Services",
+      "lang": ""
+    },
+    {
+      "text": "5.1 Cabin",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Cabin",
+      "lang": ""
+    },
+    {
+      "text": "5.2 Catering",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#Catering",
+      "lang": ""
+    },
+    {
+      "text": "5.3 In-flight magazine",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#In-flight_magazine",
+      "lang": ""
+    },
+    {
+      "text": "6 References",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#References",
+      "lang": ""
+    },
+    {
+      "text": "7 External links",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
+      "lang": "ar"
+    },
+    {
+      "text": "مصرى",
+      "url": "https://arz.wikipedia.org/wiki/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86_%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "arz"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/T%C3%BCrkm%C9%99nistan_Hava_Yollar%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Žemaitėška",
+      "url": "https://bat-smg.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "sgs"
+    },
+    {
+      "text": "বাংলা",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8_%E0%A6%8F%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%B8",
+      "lang": "bn"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "cs"
+    },
+    {
+      "text": "Dansk",
+      "url": "https://da.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "da"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "de"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C_%D8%AA%D8%B1%DA%A9%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "fr"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%A8%D7%A7%D7%9E%D7%A0%D7%99%D7%A1%D7%98%D7%9F_%D7%90%D7%99%D7%99%D7%A8%D7%9C%D7%99%D7%99%D7%A0%D7%A1",
+      "lang": "he"
+    },
+    {
+      "text": "हिन्दी",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%AE%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8_%E0%A4%8F%E0%A4%AF%E0%A4%B0%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%B8",
+      "lang": "hi"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3%E8%88%AA%E7%A9%BA",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%ED%88%AC%EB%A5%B4%ED%81%AC%EB%A9%94%EB%8B%88%EC%8A%A4%ED%83%84_%ED%95%AD%EA%B3%B5",
+      "lang": "ko"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "pt"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8",
+      "lang": "ru"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%B5%D1%80%D0%BB%D0%B0%D1%98%D0%BD%D1%81",
+      "lang": "sr"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "sv"
+    },
+    {
+      "text": "ไทย",
+      "url": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+      "lang": "th"
+    },
+    {
+      "text": "Türkmençe",
+      "url": "https://tk.wikipedia.org/wiki/T%C3%BCrkmenistan_howa_%C3%BDollary",
+      "lang": "tk"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "tr"
+    },
+    {
+      "text": "Татарча / tatarça",
+      "url": "https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D1%80%D0%B5%D0%BA%D0%BC%D3%99%D0%BD_%D2%BB%D0%B0%D0%B2%D0%B0_%D1%8E%D0%BB%D0%BB%D0%B0%D1%80%D1%8B",
+      "lang": "tt"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86_%D8%A7%DB%8C%D8%A6%D8%B1_%D9%84%D8%A7%D8%A6%D9%86%D8%B2",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Turkmaniston_havo_yo%CA%BBllari",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": "vi"
+    },
+    {
+      "text": "粵語",
+      "url": "https://zh-yue.wikipedia.org/wiki/%E5%9C%9F%E5%BA%AB%E6%9B%BC%E8%88%AA%E7%A9%BA",
+      "lang": "yue"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%BA%93%E6%9B%BC%E6%96%AF%E5%9D%A6%E8%88%AA%E7%A9%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q796158#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&oldid=1383034324",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Turkmenistan_Airlines&id=1383034324&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTurkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Turkmenistan_Airlines&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q796158",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_Airlines_logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A782@PEK_(20241215151523).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-300ER",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#IATA_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#ICAO_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "Call sign",
+      "url": "https://en.wikipedia.org/wiki/Aviation_call_signs#Commercial_airline",
+      "lang": ""
+    },
+    {
+      "text": "Hubs",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Focus cities",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub#Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Parent company",
+      "url": "https://en.wikipedia.org/wiki/Holding_company#Parent_company",
+      "lang": ""
+    },
+    {
+      "text": "Government of Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "CEO",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "www .turkmenistanairlines .tm",
+      "url": "https://www.turkmenistanairlines.tm",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-turkmenistanairlines.tm-6",
+      "lang": ""
+    },
+    {
+      "text": "flag carrier",
+      "url": "https://en.wikipedia.org/wiki/Flag_carrier",
+      "lang": ""
+    },
+    {
+      "text": "airline",
+      "url": "https://en.wikipedia.org/wiki/Airline",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "open joint-stock company",
+      "url": "https://en.wikipedia.org/wiki/Open_joint-stock_company",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-turkmenistanairlines.tm-6",
+      "lang": ""
+    },
+    {
+      "text": "hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-300",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-300",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "IL-76",
+      "url": "https://en.wikipedia.org/wiki/IL-76",
+      "lang": ""
+    },
+    {
+      "text": "Brest, Belarus",
+      "url": "https://en.wikipedia.org/wiki/Brest,_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-turkmenistan.gov.tm-10",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 717s",
+      "url": "https://en.wikipedia.org/wiki/Boeing_717",
+      "lang": ""
+    },
+    {
+      "text": "MAKS",
+      "url": "https://en.wikipedia.org/wiki/MAKS_(air_show)",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-700",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+      "lang": ""
+    },
+    {
+      "text": "Boeing",
+      "url": "https://en.wikipedia.org/wiki/Boeing",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "electronic ticket",
+      "url": "https://en.wikipedia.org/wiki/Electronic_ticket",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "Brno",
+      "url": "https://en.wikipedia.org/wiki/Brno",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-turkmenistan.gov.tm-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Lviv",
+      "url": "https://en.wikipedia.org/wiki/Lviv",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Donetsk",
+      "url": "https://en.wikipedia.org/wiki/Donetsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Riga",
+      "url": "https://en.wikipedia.org/wiki/Riga",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "Paris",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "long-haul",
+      "url": "https://en.wikipedia.org/wiki/Flight_length",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-200LRs",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-200LR",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok",
+      "url": "https://en.wikipedia.org/wiki/Bangkok",
+      "lang": ""
+    },
+    {
+      "text": "Beijing",
+      "url": "https://en.wikipedia.org/wiki/Beijing",
+      "lang": ""
+    },
+    {
+      "text": "Birmingham",
+      "url": "https://en.wikipedia.org/wiki/Birmingham",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Delhi",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ashgabat_Airport_(36043305432).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "joint-stock company",
+      "url": "https://en.wikipedia.org/wiki/Joint-stock_company",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "European Aviation Safety Agency",
+      "url": "https://en.wikipedia.org/wiki/European_Aviation_Safety_Agency",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/France",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germany",
+      "lang": ""
+    },
+    {
+      "text": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-35",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-36",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-38",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Piece Concept",
+      "url": "https://en.wikipedia.org/wiki/Baggage_allowance",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-40",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "Dubai",
+      "url": "https://en.wikipedia.org/wiki/Dubai",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-42",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-43",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-44",
+      "lang": ""
+    },
+    {
+      "text": "stopover",
+      "url": "https://en.wikipedia.org/wiki/Layover",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-45",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-46",
+      "lang": ""
+    },
+    {
+      "text": "cargo aircraft",
+      "url": "https://en.wikipedia.org/wiki/Cargo_aircraft",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A330-200P2F",
+      "url": "https://en.wikipedia.org/wiki/AIRBUS_A330-200F",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-47",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A330-200P2F",
+      "url": "https://en.wikipedia.org/wiki/AIRBUS_A330-200F",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-48",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-49",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-port-50",
+      "lang": ""
+    },
+    {
+      "text": "Milan",
+      "url": "https://en.wikipedia.org/wiki/Milan",
+      "lang": ""
+    },
+    {
+      "text": "Ho Chi Minh City",
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+      "lang": ""
+    },
+    {
+      "text": "Jeddah",
+      "url": "https://en.wikipedia.org/wiki/Jeddah",
+      "lang": ""
+    },
+    {
+      "text": "Kuala Lumpur",
+      "url": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "in-flight entertainment",
+      "url": "https://en.wikipedia.org/wiki/In-flight_entertainment",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-52",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "Seoul",
+      "url": "https://en.wikipedia.org/wiki/Seoul",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-55",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_Boeing_737-800_KvW-3.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-800",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-800",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A011_Boeing_757_Turkmenistan-2_(34010932616).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 757-200",
+      "url": "https://en.wikipedia.org/wiki/Boeing_757-200",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A778_(24210878627).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-200LR",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-200LR",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-F426_IL76(TD)_Turkmenistan_UUMB_(32813610893).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-76TD",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76TD",
+      "lang": ""
+    },
+    {
+      "text": "List of Turkmenistan Airlines destinations",
+      "url": "https://en.wikipedia.org/wiki/List_of_Turkmenistan_Airlines_destinations",
+      "lang": ""
+    },
+    {
+      "text": "[ update ]",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-57",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-58",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-port-50",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-59",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "interline agreements",
+      "url": "https://en.wikipedia.org/wiki/Interlining",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "Coyne Airways",
+      "url": "https://en.wikipedia.org/wiki/Coyne_Airways",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "Hahn Air Systems GmbH",
+      "url": "https://en.wikipedia.org/wiki/Hahn_Air_Systems_GmbH",
+      "lang": ""
+    },
+    {
+      "text": "[ 62 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-62",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 63 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-63",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A782@PEK_(20241215151523).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-300ER",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "Beijing Capital International Airport",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Bombardier_Challenger_605_(3315373322).jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_British_Aerospace_BAe-125-1000B_Zammit-1.jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ update ]",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "Boeing",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Commercial_Airplanes",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-Boeing_Commerical-64",
+      "lang": ""
+    },
+    {
+      "text": "better source needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Questionable_sources",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+      "lang": ""
+    },
+    {
+      "text": "more citations",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability",
+      "lang": ""
+    },
+    {
+      "text": "improve this section",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "adding citations to reliable sources",
+      "url": "https://en.wikipedia.org/wiki/Help:Referencing_for_beginners",
+      "lang": ""
+    },
+    {
+      "text": "removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence",
+      "lang": ""
+    },
+    {
+      "text": "Learn how and when to remove this message",
+      "url": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-700",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-700",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-800",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-800",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737 MAX 8",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-65",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-Boeing_Commerical-64",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-200LR",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-200LR",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-300ER",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "Cathay Pacific",
+      "url": "https://en.wikipedia.org/wiki/Cathay_Pacific",
+      "lang": ""
+    },
+    {
+      "text": "[ 66 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-MAX&ER-66",
+      "lang": ""
+    },
+    {
+      "text": "[ 67 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-67",
+      "lang": ""
+    },
+    {
+      "text": "[ 68 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-68",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-700/BBJ1",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Business_Jet",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-200LR",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-200LR",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-69",
+      "lang": ""
+    },
+    {
+      "text": "Bombardier Global Express",
+      "url": "https://en.wikipedia.org/wiki/Bombardier_Global_Express",
+      "lang": ""
+    },
+    {
+      "text": "Bombardier CRJ-700",
+      "url": "https://en.wikipedia.org/wiki/Bombardier_CRJ-700",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A330-200/P2F",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A330",
+      "lang": ""
+    },
+    {
+      "text": "[ 70 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-70",
+      "lang": ""
+    },
+    {
+      "text": "[ 71 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-71",
+      "lang": ""
+    },
+    {
+      "text": "[ 72 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-72",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-76",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76",
+      "lang": ""
+    },
+    {
+      "text": "[ 73 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-73",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 717-200",
+      "url": "https://en.wikipedia.org/wiki/Boeing_717-200",
+      "lang": ""
+    },
+    {
+      "text": "[ 74 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-74",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-300",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-300",
+      "lang": ""
+    },
+    {
+      "text": "[ 75 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-75",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ilyushin_Il-76TD,_Turkmenistan_Airlines_AN0148813.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-76",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76",
+      "lang": ""
+    },
+    {
+      "text": "Sharjah International Airport",
+      "url": "https://en.wikipedia.org/wiki/Sharjah_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Boeing_717-22K,_Turkmenistan_Airlines_AN0184241.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 717",
+      "url": "https://en.wikipedia.org/wiki/Boeing_717",
+      "lang": ""
+    },
+    {
+      "text": "Ramenskoye Airport",
+      "url": "https://en.wikipedia.org/wiki/Ramenskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_Boeing_737-300_Misko-1.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-300",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-300",
+      "lang": ""
+    },
+    {
+      "text": "Domodedovo International Airport",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_Boeing_737-300_McKnight-1.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-300",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-300",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A012_B757-22K_Turkmenistan_FRA_04OCT08_(6602563031).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 757-200",
+      "url": "https://en.wikipedia.org/wiki/Boeing_757-200",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Boeing_737-800_(Turkmenistan_Airlines)_(2480407674).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-800",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737",
+      "lang": ""
+    },
+    {
+      "text": "London Heathrow Airport",
+      "url": "https://en.wikipedia.org/wiki/London_Heathrow_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 76 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-76",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Boeing_737-341,_Turkmenistan_Airlines_JP6144349.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EZ-A00525062013_(9148792511).jpg",
+      "lang": ""
+    },
+    {
+      "text": "falcon",
+      "url": "https://en.wikipedia.org/wiki/Falcon",
+      "lang": ""
+    },
+    {
+      "text": "[ 77 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-77",
+      "lang": ""
+    },
+    {
+      "text": "[ 78 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-78",
+      "lang": ""
+    },
+    {
+      "text": "fuselage",
+      "url": "https://en.wikipedia.org/wiki/Fuselage",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "2017 Asian Indoor and Martial Arts Games",
+      "url": "https://en.wikipedia.org/wiki/2017_Asian_Indoor_and_Martial_Arts_Games",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "[ 79 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-79",
+      "lang": ""
+    },
+    {
+      "text": "[ 80 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-80",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=14",
+      "lang": ""
+    },
+    {
+      "text": "Business Class",
+      "url": "https://en.wikipedia.org/wiki/Business_Class",
+      "lang": ""
+    },
+    {
+      "text": "Economy",
+      "url": "https://en.wikipedia.org/wiki/Economy_class",
+      "lang": ""
+    },
+    {
+      "text": "Premium Economy",
+      "url": "https://en.wikipedia.org/wiki/Premium_Economy",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 777-300ERs",
+      "url": "https://en.wikipedia.org/wiki/Boeing_777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "[ 81 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-81",
+      "lang": ""
+    },
+    {
+      "text": "[ 82 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-82",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=15",
+      "lang": ""
+    },
+    {
+      "text": "[ 83 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-83",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=16",
+      "lang": ""
+    },
+    {
+      "text": "[ 84 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-84",
+      "lang": ""
+    },
+    {
+      "text": "[ 85 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_note-85",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=17",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Täze PROMO nyrhy\"",
+      "url": "https://web.archive.org/web/20210420095049/https://turkmenistanairlines.tm/blog/New-tariff-PROMO",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://turkmenistanairlines.tm/blog/New-tariff-PROMO",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Стало известно, в какие 7 стран будут летать самолеты «Туркменских авиалиний» зимой | Туризм\"",
+      "url": "https://turkmenportal.com/blog/69296/stalo-izvestno-v-kakie-7-stran-budut-letat-samolety-turkmenskih-avialinii-zimoi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания «Туркменистан» обновила расписание внутренних рейсов\"",
+      "url": "https://turkmenportal.com/ru/news/93037-aviakompaniya-turkmenistan-obnovila-raspisanie-vnutrennih-reisov",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"REPRESENTATIVE OFFICE OF TURKMENISTAN AIRLINES OJSC IN UK overview - Find and update company information - GOV.UK\"",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/FC036275",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Bishkek-Ashgabat direct flight opening is in plan: Transport Ministry\"",
+      "url": "https://akipress.com/news:606237/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-turkmenistanairlines.tm_6-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-turkmenistanairlines.tm_6-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Online Booking Regulations\"",
+      "url": "https://web.archive.org/web/20190326223430/https://turkmenistanairlines.tm/services/online-booking-regulations",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://turkmenistanairlines.tm/services/online-booking-regulations",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "Flight International",
+      "url": "https://en.wikipedia.org/wiki/Flight_International",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://www.flightglobal.com/pdfarchive/view/2004/2004-09%20-%200330.html?search=%22Turkmenistan%20Airlines%2287",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Corporate\"",
+      "url": "https://web.archive.org/web/20150508063153/http://turkmenairlines.com/lang/en/o-kompani/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://turkmenairlines.com/lang/en/o-kompani/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\" \"ТУРКМЕНСКИЕ АВИАЛИНИИ\" ПОЛУЧИЛИ ЕЩЕ ОДИН \"БОИНГ\" \"",
+      "url": "http://www.turkmenistan.ru/ru/node/13699",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-turkmenistan.gov.tm_10-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-turkmenistan.gov.tm_10-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан: золотой век\"",
+      "url": "http://turkmenistan.gov.tm/?id=3927",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"ТУРКМЕНИЯ ОТПРАВИЛА НА МЕЖДУНАРОДНЫЙ АВИАСАЛОН \"МАКС-2001\" ТОЛЬКО ЧТО ПРИОБРЕТЕННЫЙ \"БОИНГ-717\" \"",
+      "url": "http://www.turkmenistan.ru/ru/node/13149",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Boeing\"",
+      "url": "http://boeing.mediaroom.com/index.php?s=43&item=824",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"В Ашхабаде открыт отель для транзитных авиапассажиров\"",
+      "url": "http://www.turkmenistan.ru/index.php?page_id=3&lang_id=ru&elem_id=14920&type=event",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"About company\"",
+      "url": "https://web.archive.org/web/20130916045346/http://www.turkmenairlines.com/en/about",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://turkmenairlines.com/en/about",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan airlines to introduce e-tickets from July 1\"",
+      "url": "https://web.archive.org/web/20180817060025/http://www.turkmenistan.ru/en/articles/14855.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenistan.ru/en/articles/14855.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"Electronic ticket\"",
+      "url": "https://web.archive.org/web/20131005203052/http://www.turkmenairlines.com/en/electronic-ticket",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenairlines.com/en/electronic-ticket",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" внедрят электронную систему продажи билетов\"",
+      "url": "http://www.turkmenistan.ru/ru/articles/35691.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Воздушный парк гражданской авиации Туркменистана пополнил новый пассажирский \"Боинг-737-800\" \"",
+      "url": "http://www.turkmenistan.ru/ru/articles/38581.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан: золотой век\"",
+      "url": "http://turkmenistan.gov.tm/?id=4181",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан: золотой век\"",
+      "url": "http://turkmenistan.gov.tm/?id=5534",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan: golden age\"",
+      "url": "http://www.turkmenistan.gov.tm/_eng/?id=1487",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Turkmenistan Airlines\" launches specialized magazine for air travelers\"",
+      "url": "https://web.archive.org/web/20140413143633/http://www.turkmenistan.ru/en/articles/16824.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenistan.ru/en/articles/16824.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"В Ашхабаде будет открыто современное агентство по продаже авиабилетов\"",
+      "url": "http://www.turkmenistan.ru/ru/articles/38181.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" открыли рейс в город Львов\"",
+      "url": "http://www.turkmenistan.ru/ru/articles/38798.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан: золотой век\"",
+      "url": "http://www.turkmenistan.gov.tm/?id=4873",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "\"New Airlines Open Flights in the Winter Season\"",
+      "url": "http://www.riga-airport.com/en/main/newsroom/news/new-airlines-open-flights-in-the-winter-season",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" открывают регулярный рейс в Париж\"",
+      "url": "http://www.turkmenistan.ru/ru/articles/39094.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines to go longhaul out of Ashgabat using B777s\"",
+      "url": "http://www.ch-aviation.com/portal/news/26200-turkmenistan-airlines-to-go-longhaul-out-of-ashgabat-using-b777s",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Timetable\"",
+      "url": "http://turkmenairlines.com/lang/en/raspisanietimetabletimetable/?country=1&city=Select+city",
+      "lang": ""
+    },
+    {
+      "text": "permanent dead link",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Link_rot",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"В Туркменистане будет создано акционерное общество по авиаперевозкам | Технологии\"",
+      "url": "https://turkmenportal.com/blog/9584",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Национальный авиаперевозчик Туркменистана будет преобразован в АО\"",
+      "url": "https://www.trend.az/casia/turkmenistan/2706403.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"Как купить авиабилеты онлайн в Туркменистане? Отзыв читателя «Туркменпортала»\"",
+      "url": "https://turkmenportal.com/ru/articles/724",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Banned airline leaves thousands stranded\"",
+      "url": "https://www.bbc.co.uk/news/business-47115732",
+      "lang": ""
+    },
+    {
+      "text": "BBC News",
+      "url": "https://en.wikipedia.org/wiki/BBC_News",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" возобновили полёты в страны Евросоюза | Общество\"",
+      "url": "https://turkmenportal.com/blog/23641/turkmenskie-avialinii-vozobnovili-polety-v-strany-evrosoyuza",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-35",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменские авиалинии\" из-за COVID-19 продлили отмену международных рейсов до 31 января\"",
+      "url": "https://tourism.interfax.ru/ru/news/articles/75860/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-36",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines продлила отмену международных рейсов до конца 2020 года\"",
+      "url": "https://tourism.interfax.ru/ru/news/articles/74531/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" решила пока не возобновлять международное авиасообщение | Общество\"",
+      "url": "https://turkmenportal.com/blog/35599/aviakompaniya-turkmenistan-reshila-poka-ne-vozobnovlyat-mezhdunarodnoe-aviasoobshchenie",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-38",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" запустит временный промо-тариф по международным маршрутам | Туризм\"",
+      "url": "https://turkmenportal.com/blog/36000/aviakompaniya-turkmenistan-zapustit-vremennyi-promotarif-po-mezhdunarodnym-marshrutam",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиарейсы из-за пределов Туркменистана временно перенаправляются в Туркменабат | Общество\"",
+      "url": "https://turkmenportal.com/blog/25818/aviareisy-izza-predelov-turkmenistana-vremenno-perenapravlyayutsya-v-turkmenabat",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-40",
+      "lang": ""
+    },
+    {
+      "text": "\"Täze PROMO nyrhy\"",
+      "url": "https://turkmenistanairlines.tm//",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" перешла на новую систему провоза багажа Piece Concept | Туризм\"",
+      "url": "https://turkmenportal.com/blog/36002/aviakompaniya-turkmenistan-pereshla-na-novuyu-sistemu-provoza-bagazha-piece-concept",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-42",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" частично возобновит полёты по международным направлениям | Туризм\"",
+      "url": "https://turkmenportal.com/blog/47518/aviakompaniya-turkmenistan-chastichno-vozobnovit-polety-po-mezhdunarodnym-napravleniyam",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-43",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" возобновила регулярные авиарейсы в столицу ОАЭ | Туризм\"",
+      "url": "https://turkmenportal.com/blog/56130/aviakompaniya-turkmenistan-vozobnovila-regulyarnye-aviareisy-v-stolicu-oae",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-44",
+      "lang": ""
+    },
+    {
+      "text": "\"Часть международных рейсов \"Туркменских авиалиний\" будут перенаправлять в Ашхабад | Туризм\"",
+      "url": "https://turkmenportal.com/blog/55027/chast-mezhdunarodnyh-reisov-turkmenskih-avialinii-budut-perenapravlyat-v-ashhabad",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-45",
+      "lang": ""
+    },
+    {
+      "text": "\"SalamNews\"",
+      "url": "https://salamnews.tm/ru/section/ykdysadyyet/ulag-kommunikasiya/aviakompaniya-turkmenistan-zapuskaet-na-vnutrennih-rejsah-novuyu-uslugu-stopover-bdee41",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-46",
+      "lang": ""
+    },
+    {
+      "text": "\"Два путешествия вместо одного: авиакомпания \"Туркменистан\" запускает услугу stopover на внутренних рейсах\"",
+      "url": "https://www.orient.tm/ru/post/46395/dva-puteshestviya-vmesto-odnogo-aviakompaniya-turkmenistan-zapuskaet-uslugu-stopover-na-vnutrennih-rejsah",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-47",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenhowaýollary\"",
+      "url": "https://caa.gov.tm/item/318",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-48",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenhowaýollary\"",
+      "url": "https://caa.gov.tm/item/317",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-49",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenhowaýollary\"",
+      "url": "https://caa.gov.tm/item/294",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-port_50-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-port_50-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Стало известно, в какие 7 стран будут летать самолеты «Туркменских авиалиний» зимой\"",
+      "url": "https://turkmenportal.com/ru/news/69296-stalo-izvestno-v-kakie-7-stran-budut-letat-samolety-turkmenskih-avialinii-zimoi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenhowaýollary\"",
+      "url": "https://caa.gov.tm/item/310",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-52",
+      "lang": ""
+    },
+    {
+      "text": "\"Мультимедийная система развлечений доступна на рейсах «Turkmenistan Airlines»\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/90456/multimedijnaya-sistema-razvlechenij-dostupna-na-rejsah-turkmenistan-airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"New Balkanabat International Airport Starts Accepting Domestic Flights\"",
+      "url": "https://turkmenportal.com/en/news/91207-novyi-mezhdunarodnyi-aeroport-balkanabada-nachal-prinimat-vnutrennie-reisy",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "\"Inauguration of direct flights between Turkmenistan and the Republic of Korea\"",
+      "url": "https://turkmenistan.gov.tm/en/post/97016/inauguration-direct-flights-between-turkmenistan-and-republic-korea",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-55",
+      "lang": ""
+    },
+    {
+      "text": "Central Asia Takes Off: Investment in Aviation Infrastructure",
+      "url": "https://eabr.org/upload/iblock/681/03d0ijcy3eft4d9azuuycdzgtaid561r/EDB_2026_Air_Transport_Infrastructure_Rus.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "\"Timetable\"",
+      "url": "http://turkmenairlines.com/lang/en/raspisanietimetabletimetable/?country=2&city=Select+city",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-57",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines - Cheap flights to Asia - - Route map\"",
+      "url": "https://www.flyturkmenistanairlines.eu/about-turkmenistan-airlines/route-map",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-58",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменские авиалинии на начало января летают по 10 международным направлениям\"",
+      "url": "https://turkmenportal.com/ru/news/72101-turkmenskie-avialinii-na-nachalo-yanvarya-letayut-po-10-mezhdunarodnym-napravleniyam",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-59",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания \"Туркменистан\" возобновила регулярные авиарейсы в столицу ОАЭ | Туризм\"",
+      "url": "https://turkmenportal.com/blog/56130/aviakompaniya-turkmenistan-vozobnovila-regulyarnye-aviareisy-v-stolicu-oae",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"Partner Airlines - BELAVIA - Belarusian Airlines\"",
+      "url": "https://web.archive.org/web/20250621110646/https://en.belavia.by/company/airlines_partners/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://en.belavia.by/company/airlines_partners/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"Services to Ashgabat Reinstated, Interline Agreement Signed with Turkmenistan Airlines\"",
+      "url": "https://coyneair.com/air-cargo-news/services-to-ashgabat-reinstated-interline-agreement-signed-with-turkmenistan-airlines/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-62",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines | Hahn Air Lines\"",
+      "url": "https://www.hahnair.com/en/carrier/t5-h1",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-63",
+      "lang": ""
+    },
+    {
+      "text": "\"Соглашение Интерлайн между S7 Airlines и Туркменские авиалинии - Авиакассир.ИНФО\"",
+      "url": "https://aviakassir.info/news/airlines/1190-soglashenie-interlajn-mezhdu-s7-airlines-i-turkmenskie-avialinii.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-Boeing_Commerical_64-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-Boeing_Commerical_64-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Commercial\"",
+      "url": "https://www.boeing.com/commercial#orders-deliveries",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-65",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines Expands Fleet with Boeing 737 MAX and 777-300ER\"",
+      "url": "https://www.aviacionline.com/turkmenistan-airlines-expands-fleet-with-boeing-737-max-and-777-300er",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-MAX&ER_66-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines Expands Fleet with Boeing 737 MAX and 777-300ER\"",
+      "url": "https://www.aviacionline.com/2023/07/turkmenistan-airlines-expands-fleet-with-boeing-737-max-and-777-300er/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-67",
+      "lang": ""
+    },
+    {
+      "text": "\"A new passenger aircraft 'Boeing 777-300ER' was delivered to Turkmenistan\"",
+      "url": "https://turkmenistanairlines.tm/en/news/show/novy-boenig-777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-68",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines Acquires Cathay Pacific 777s\"",
+      "url": "https://onemileatatime.com/news/turkmenistan-airlines-cathay-pacific-777/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-69",
+      "lang": ""
+    },
+    {
+      "text": "\"World's last Boeing 777-200LR for Turkmenistan Airlines\"",
+      "url": "https://www.aviationnepal.com/worlds-last-boeing-777-200lr-for-turkmenistan-airlines/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-70",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменистан впервые закупит два самолёта Airbus\"",
+      "url": "https://turkmenportal.com/blog/33401/turkmenistan-vpervye-zakupit-dva-samoleta-airbus",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-71",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines finalises A330 P2F freighter purchase\"",
+      "url": "https://www.ch-aviation.com/portal/news/99745-turkmenistan-airlines-finalises-a330-p2f-freighter-purchase",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-72",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines takes first A330-200(P2F)\"",
+      "url": "https://www.ch-aviation.com/portal/news/125891-turkmenistan-airlines-takes-first-a330-200p2f",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-73",
+      "lang": ""
+    },
+    {
+      "text": "«LAÇYN» - «TÜRKMENISTAN» AWIAKOMPANIÝASYNYŇ BORT BUKLETI № 36",
+      "url": "https://caa.gov.tm/storage/uploads/lachin/lachyn_36_small.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-74",
+      "lang": ""
+    },
+    {
+      "text": "\"ТУРКМЕНИЯ ОТПРАВИЛА НА МЕЖДУНАРОДНЫЙ АВИАСАЛОН «МАКС-2001» ТОЛЬКО ЧТО ПРИОБРЕТЕННЫЙ «БОИНГ-717»\"",
+      "url": "http://www.turkmenistan.ru/ru/node/13149",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-75",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Training - Turkmenhowayollary Training Center\"",
+      "url": "https://igat.icao.int/ated/trainingcatalogue/Profile/1361",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-76",
+      "lang": ""
+    },
+    {
+      "text": "\"Контакт | Turkmenhowayollary.com\"",
+      "url": "https://caa.gov.tm/ru/site/a/contact",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-77",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиация - на передовом рубеже развития\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/21495/aviatsiya--na-peredovom-rubezhe-razvitiya",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-78",
+      "lang": ""
+    },
+    {
+      "text": "\"В Ашхабаде открыт отель для транзитных авиапассажиров | Интернет-газета Turkmenistan.Ru\"",
+      "url": "https://www.turkmenistan.ru/ru/node/26626",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-79",
+      "lang": ""
+    },
+    {
+      "text": "\"Исполнительный комитет Азиады-2017 объявил о партнерстве с «Туркменскими авиалиниями» | Интернет-газета Turkmenistan.Ru\"",
+      "url": "https://www.turkmenistan.ru/ru/articles/42746.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-80",
+      "lang": ""
+    },
+    {
+      "text": "\"Туркменские авиалинии успешно справились с наплывом гостей «Азиады-2017» » \"СНГ СЕГОДНЯ\" - последние новости стран СНГ читайте на SNG.TODAY\"",
+      "url": "https://sng.today/ashkhabad/4463-turkmenskie-avialinii-uspeshno-spravilis-s-naplyvom-gostey-aziady-2017.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-81",
+      "lang": ""
+    },
+    {
+      "text": "\"В ТУРКМЕНИСТАН ДОСТАВЛЕН НОВЫЙ ПАССАЖИРСКИЙ САМОЛЕТ «БОИНГ-777-300ER» - Новости - Turkmenistan Airlines\"",
+      "url": "https://turkmenistanairlines.tm/ru/news/show/novy-boenig-777-300ER",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-82",
+      "lang": ""
+    },
+    {
+      "text": "\"Гражданская авиация Туркменистана пополнилась очередным новым «Боингом»\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/78182/grazhdanskaya-aviaciya-turkmenistana-popolnilas-ocherednym-novym-boingom",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-83",
+      "lang": ""
+    },
+    {
+      "text": "Питание на борту авиакомпании Turkmenistan Airlines",
+      "url": "https://avia-charter.com/turkmenistan-airlines/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-84",
+      "lang": ""
+    },
+    {
+      "text": "\"Летопись - 2012: транспорт и связь\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/18705/letopis--2012:-transport-i-svyaz",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines#cite_ref-85",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Туркменховаёллары\" начала выпускать собственный журнал | Общество | ИП \"ТУРКМЕНинформ\" \"",
+      "url": "https://turkmeninform.com/ru/news/20121030/06651.html",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&action=edit&section=18",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://commons.wikimedia.org/wiki/Category:Turkmenistan%20Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://turkmenistanairlines.tm/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q796158#P856",
+      "lang": ""
+    },
+    {
+      "text": "Office in Russian Federation",
+      "url": "https://turkmenistanairlines.ru/",
+      "lang": ""
+    },
+    {
+      "text": "Flight Information Region in Turkmenistan",
+      "url": "https://permit2fly.com/region/asia/turkmenistan-overflight-permits.html",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Companies",
+      "url": "https://en.wikipedia.org/wiki/Portal:Companies",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Authority control databases",
+      "url": "https://en.wikipedia.org/wiki/Help:Authority_control",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q796158#identifiers",
+      "lang": ""
+    },
+    {
+      "text": "VIAF",
+      "url": "https://viaf.org/viaf/316879402",
+      "lang": ""
+    },
+    {
+      "text": "United States",
+      "url": "https://id.loc.gov/authorities/no2015094063",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&oldid=1383034324",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&oldid=1383034324",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airlines of Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Airlines established in 1992",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_established_in_1992",
+      "lang": ""
+    },
+    {
+      "text": "Airlines formerly banned in the European Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_formerly_banned_in_the_European_Union",
+      "lang": ""
+    },
+    {
+      "text": "Former Aeroflot divisions",
+      "url": "https://en.wikipedia.org/wiki/Category:Former_Aeroflot_divisions",
+      "lang": ""
+    },
+    {
+      "text": "1992 establishments in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:1992_establishments_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Companies based in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Category:Companies_based_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from January 2021",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_January_2021",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Turkmen-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Turkmen-language_text",
+      "lang": ""
+    },
+    {
+      "text": "All articles with dead external links",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with dead external links from December 2017",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_December_2017",
+      "lang": ""
+    },
+    {
+      "text": "Articles with permanently dead external links",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_permanently_dead_external_links",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing potentially dated statements from July 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2025",
+      "lang": ""
+    },
+    {
+      "text": "All articles containing potentially dated statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing potentially dated statements from February 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_February_2025",
+      "lang": ""
+    },
+    {
+      "text": "All articles lacking reliable references",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_lacking_reliable_references",
+      "lang": ""
+    },
+    {
+      "text": "Articles lacking reliable references from May 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_lacking_reliable_references_from_May_2026",
+      "lang": ""
+    },
+    {
+      "text": "Articles needing additional references from May 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_May_2026",
+      "lang": ""
+    },
+    {
+      "text": "All articles needing additional references",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from May 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_May_2026",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenistan_Airlines&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tm-airline-wiki.txt"
+}

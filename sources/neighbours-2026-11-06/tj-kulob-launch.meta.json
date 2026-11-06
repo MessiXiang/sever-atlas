@@ -1,0 +1,6 @@
+{
+  "id": "tj-kulob-launch",
+  "url": "https://asiaplus.news/en/2025/01/16/tajikistans-national-airline-resumes-flights-from-dushanbe-to-kulob/",
+  "retrievedAt": "2026-11-06T09:48:27.931822+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://asiaplus.news/en/2025/01/16/tajikistans-national-airline-resumes-flights-from-dushanbe-to-kulob/']' returned non-zero exit status 28."
+}

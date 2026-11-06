@@ -1,0 +1,924 @@
+{
+  "id": "ap-mn-10",
+  "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+  "retrievedAt": "2026-11-06T08:39:52.820483+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+  "bytes": 119119,
+  "sha256": "d059b945b32e91b12d15bb8a23714508e3e7fd98ca84b2aaac1caed65b42e3d4",
+  "file": "sources/neighbours-2026-11-06/ap-mn-10.html",
+  "title": "Choibalsan Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Choibalsan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Choibalsan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Choibalsan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Choibalsan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 See also",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "2 References",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "3 External links",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Tschoibalsan",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%DA%86%D9%88%DB%8C%D8%A8%D8%A7%D9%84%D8%B3%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Choibalsan",
+      "lang": "id"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Czojbalsan",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Choibalsan",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%B9%D0%B1%D0%B0%D0%BB%D1%81%D0%B0%D0%BD_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Tjojbalsans_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D1%87%D1%83%D0%B8%D0%B1%D0%BE%D0%BB%D1%81%D0%BE%D0%BD",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87oybalsan_(hava_alan%C4%B1)",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D0%B9%D0%B1%D0%B0%D0%BB%D1%81%D0%B0%D0%BD_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Choibalsan",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B9%94%E5%B7%B4%E5%B1%B1%E6%9C%BA%E5%9C%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1932815#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&oldid=1363027718",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Choibalsan_Airport&id=1363027718&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChoibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Choibalsan_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1932815",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+      "lang": ""
+    },
+    {
+      "text": "more citations",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability",
+      "lang": ""
+    },
+    {
+      "text": "improve this article",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "adding citations to reliable sources",
+      "url": "https://en.wikipedia.org/wiki/Help:Referencing_for_beginners",
+      "lang": ""
+    },
+    {
+      "text": "removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence",
+      "lang": ""
+    },
+    {
+      "text": "\"Choibalsan Airport\"",
+      "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Choibalsan+Airport%22",
+      "lang": ""
+    },
+    {
+      "text": "news",
+      "url": "https://www.google.com/search?tbm=nws&q=%22Choibalsan+Airport%22+-wikipedia&tbs=ar:1",
+      "lang": ""
+    },
+    {
+      "text": "newspapers",
+      "url": "https://www.google.com/search?&q=%22Choibalsan+Airport%22&tbs=bkt:s&tbm=bks",
+      "lang": ""
+    },
+    {
+      "text": "books",
+      "url": "https://www.google.com/search?tbs=bks:1&q=%22Choibalsan+Airport%22+-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "scholar",
+      "url": "https://scholar.google.com/scholar?q=%22Choibalsan+Airport%22",
+      "lang": ""
+    },
+    {
+      "text": "JSTOR",
+      "url": "https://www.jstor.org/action/doBasicSearch?Query=%22Choibalsan+Airport%22&acc=on&wc=on",
+      "lang": ""
+    },
+    {
+      "text": "Learn how and when to remove this message",
+      "url": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Choibalsan_Airport.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "48°08′08″N 114°38′46″E ﻿ / ﻿ 48.13556°N 114.64611°E ﻿ / 48.13556; 114.64611",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Choibalsan_Airport&params=48_08_08_N_114_38_46_E_region:MN_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "http://choibalsannisekh.mn",
+      "url": "http://choibalsannisekh.mn",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Relief_map_of_Mongolia.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_relief_location_map.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:World_location_map_(equirectangular_180).svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Simplified Chinese",
+      "url": "https://en.wikipedia.org/wiki/Simplified_Chinese_characters",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "airport",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Dornod Province",
+      "url": "https://en.wikipedia.org/wiki/Dornod_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Sukhoi Su-7s",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-7",
+      "lang": ""
+    },
+    {
+      "text": "Sukhoi Su-17s",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-17",
+      "lang": ""
+    },
+    {
+      "text": "Hvardiiske, Simferopol Raion",
+      "url": "https://en.wikipedia.org/wiki/Hvardiiske,_Simferopol_Raion",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Монголын иргэний нисэхийн статистикийн эмхтгэл 2013\"",
+      "url": "https://web.archive.org/web/20150510153920/http://www.mcaa.gov.mn/index.php/page/detail/id/128",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.mcaa.gov.mn/index.php/page/detail/id/128",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"43rd Sevastopolskiy Red Banner order of Kutuzov Fighter-Bomber Aviation Regiment\"",
+      "url": "http://www.ww2.dk/new/air%20force/regiment/shap/43apib.htm",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "\"Descriptions of 22 Domestic Airports\"",
+      "url": "https://web.archive.org/web/20070928123059/http://www2.mcaa.gov.mn/pdf/mc/app51.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www2.mcaa.gov.mn/pdf/mc/app51.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for COQ",
+      "url": "https://web.archive.org/web/20121023072526/http://aviation-safety.net/database/airport/airport.php?id=COQ",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&oldid=1363027718",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&oldid=1363027718",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Air force installations of the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Air_force_installations_of_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Dornod Province",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Dornod_Province",
+      "lang": ""
+    },
+    {
+      "text": "Military installations of the Soviet Union in other countries",
+      "url": "https://en.wikipedia.org/wiki/Category:Military_installations_of_the_Soviet_Union_in_other_countries",
+      "lang": ""
+    },
+    {
+      "text": "Military installations established in 1968",
+      "url": "https://en.wikipedia.org/wiki/Category:Military_installations_established_in_1968",
+      "lang": ""
+    },
+    {
+      "text": "Military installations closed in 1990",
+      "url": "https://en.wikipedia.org/wiki/Category:Military_installations_closed_in_1990",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Mongolian_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles needing additional references from January 2021",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_January_2021",
+      "lang": ""
+    },
+    {
+      "text": "All articles needing additional references",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Chinese-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Chinese-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Articles using infobox templates with no data rows",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_using_infobox_templates_with_no_data_rows",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Choibalsan_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-10.txt"
+}

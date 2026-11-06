@@ -1,0 +1,1734 @@
+{
+  "id": "airports-en-mn",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+  "retrievedAt": "2026-11-06T08:22:32.214058+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+  "bytes": 199509,
+  "sha256": "3dc76971534c760b97419cf7617756435fc32146b2b0814dd55d51a680e0f736",
+  "file": "sources/neighbours-2026-11-06/airports-en-mn.html",
+  "title": "List of airports in Mongolia - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_in_der_Mongolei",
+      "lang": "de"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Anexo:Aeropuertos_y_aerol%C3%ADneas_de_Mongolia",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Mongoolia_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D8%BA%D9%88%D9%84%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Liste_des_a%C3%A9roports_en_Mongolie",
+      "lang": "fr"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Daftar_bandar_udara_di_Mongolia",
+      "lang": "id"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%9B%BD%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_aeroportos_da_Mong%C3%B3lia",
+      "lang": "pt"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+      "lang": "ru"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_s%C3%A2n_bay_t%E1%BA%A1i_M%C3%B4ng_C%E1%BB%95",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%88%97%E8%A1%A8",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2615229#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&oldid=1371386798",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Mongolia&id=1371386798&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Mongolia&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2615229",
+      "lang": ""
+    },
+    {
+      "text": "incomplete",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists",
+      "lang": ""
+    },
+    {
+      "text": "adding missing items",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "City served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Province",
+      "url": "https://en.wikipedia.org/wiki/Aimags_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Altai Airport",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_City",
+      "lang": ""
+    },
+    {
+      "text": "Govi-Altai",
+      "url": "https://en.wikipedia.org/wiki/Govi-Altai_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°22′33″N 096°13′09″E ﻿ / ﻿ 46.37583°N 96.21917°E ﻿ / 46.37583; 96.21917 ﻿ ( ZMAT )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_22_33_N_096_13_09_E_region:MN_type:airport&title=ZMAT",
+      "lang": ""
+    },
+    {
+      "text": "Arvaikheer Airport",
+      "url": "https://en.wikipedia.org/wiki/Arvaikheer_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arvaikheer",
+      "url": "https://en.wikipedia.org/wiki/Arvaikheer",
+      "lang": ""
+    },
+    {
+      "text": "Övörhkangai",
+      "url": "https://en.wikipedia.org/wiki/Övörkhangai_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°15′09″N 102°47′57″E ﻿ / ﻿ 46.25250°N 102.79917°E ﻿ / 46.25250; 102.79917 ﻿ ( ZMAH )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_15_09_N_102_47_57_E_region:MN_type:airport&title=ZMAH",
+      "lang": ""
+    },
+    {
+      "text": "Baruun-Urt Airport",
+      "url": "https://en.wikipedia.org/wiki/Baruun-Urt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baruun-Urt",
+      "url": "https://en.wikipedia.org/wiki/Baruun-Urt",
+      "lang": ""
+    },
+    {
+      "text": "Sükhbaatar",
+      "url": "https://en.wikipedia.org/wiki/Sükhbaatar_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°39′37″N 113°17′07″E ﻿ / ﻿ 46.66028°N 113.28528°E ﻿ / 46.66028; 113.28528 ﻿ ( ZMBU )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_39_37_N_113_17_07_E_region:MN_type:airport&title=ZMBU",
+      "lang": ""
+    },
+    {
+      "text": "Baruunturuun Airport",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baruunturuun",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Uvs",
+      "url": "https://en.wikipedia.org/wiki/Uvs_Province",
+      "lang": ""
+    },
+    {
+      "text": "49°40′20.64″N 94°22′21″E ﻿ / ﻿ 49.6724000°N 94.37250°E ﻿ / 49.6724000; 94.37250 ﻿ ( Baruunturuun )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=49_40_20.64_N_94_22_21_E_region:MN_type:airport&title=Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Bayankhongor Airport",
+      "url": "https://en.wikipedia.org/wiki/Bayankhongor_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bayankhongor",
+      "url": "https://en.wikipedia.org/wiki/Bayankhongor",
+      "lang": ""
+    },
+    {
+      "text": "Bayankhongor",
+      "url": "https://en.wikipedia.org/wiki/Bayankhongor_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°10′14″N 100°42′00″E ﻿ / ﻿ 46.17056°N 100.70000°E ﻿ / 46.17056; 100.70000 ﻿ ( ZMBH )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_10_14_N_100_42_00_E_region:MN_type:airport&title=ZMBH",
+      "lang": ""
+    },
+    {
+      "text": "Bulgan Airport",
+      "url": "https://en.wikipedia.org/wiki/Bulgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bulgan",
+      "url": "https://en.wikipedia.org/wiki/Bulgan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Bulgan",
+      "url": "https://en.wikipedia.org/wiki/Bulgan_Province",
+      "lang": ""
+    },
+    {
+      "text": "48°51′15″N 103°29′03″E ﻿ / ﻿ 48.85417°N 103.48417°E ﻿ / 48.85417; 103.48417 ﻿ ( ZMBN )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=48_51_15_N_103_29_03_E_region:MN_type:airport&title=ZMBN",
+      "lang": ""
+    },
+    {
+      "text": "Bulgan Airport, Khovd",
+      "url": "https://en.wikipedia.org/wiki/Bulgan_Airport,_Khovd",
+      "lang": ""
+    },
+    {
+      "text": "Bulgan, Khovd",
+      "url": "https://en.wikipedia.org/wiki/Bulgan,_Khovd",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°06′06″N 091°34′55″E ﻿ / ﻿ 46.10167°N 91.58194°E ﻿ / 46.10167; 91.58194 ﻿ ( ZMBS )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_06_06_N_091_34_55_E_region:MN_type:airport&title=ZMBS",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "47°50′35″N 106°45′59″E ﻿ / ﻿ 47.84306°N 106.76639°E ﻿ / 47.84306; 106.76639 ﻿ ( ZMUB )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_50_35_N_106_45_59_E_region:MN_type:airport&title=ZMUB",
+      "lang": ""
+    },
+    {
+      "text": "Chinggis Khaan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Töv",
+      "url": "https://en.wikipedia.org/wiki/Töv_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°39′00″N 106°49′08″E ﻿ / ﻿ 47.65000°N 106.81889°E ﻿ / 47.65000; 106.81889 ﻿ ( ZMCK )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_39_00_N_106_49_08_E_region:MN_type:airport&title=ZMCK",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan Airport",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Dornod",
+      "url": "https://en.wikipedia.org/wiki/Dornod_Province",
+      "lang": ""
+    },
+    {
+      "text": "48°08′08″N 114°38′46″E ﻿ / ﻿ 48.13556°N 114.64611°E ﻿ / 48.13556; 114.64611 ﻿ ( ZMCD )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=48_08_08_N_114_38_46_E_region:MN_type:airport&title=ZMCD",
+      "lang": ""
+    },
+    {
+      "text": "Dadal Airport",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal",
+      "lang": ""
+    },
+    {
+      "text": "Khentii",
+      "url": "https://en.wikipedia.org/wiki/Khentii_Province",
+      "lang": ""
+    },
+    {
+      "text": "49°00′54″N 111°30′28″E ﻿ / ﻿ 49.01500°N 111.50778°E ﻿ / 49.01500; 111.50778 ﻿ ( ZMDA )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=49_00_54_N_111_30_28_E_region:MN_type:airport&title=ZMDA",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad Airport",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad",
+      "lang": ""
+    },
+    {
+      "text": "Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ömnögovi_Province",
+      "lang": ""
+    },
+    {
+      "text": "43°36′31″N 104°22′01″E ﻿ / ﻿ 43.60861°N 104.36694°E ﻿ / 43.60861; 104.36694 ﻿ ( ZMDZ )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=43_36_31_N_104_22_01_E_region:MN_type:airport&title=ZMDZ",
+      "lang": ""
+    },
+    {
+      "text": "Donoi Airport",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uliastai",
+      "url": "https://en.wikipedia.org/wiki/Uliastai",
+      "lang": ""
+    },
+    {
+      "text": "Zavkhan",
+      "url": "https://en.wikipedia.org/wiki/Zavkhan_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°42′46″N 96°31′27″E ﻿ / ﻿ 47.71278°N 96.52417°E ﻿ / 47.71278; 96.52417 ﻿ ( ZMDN )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_42_46_N_96_31_27_E_region:MN_type:airport&title=ZMDN",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat Airport",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oyuu Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Oyuu_Tolgoi",
+      "lang": ""
+    },
+    {
+      "text": "Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ömnögovi_Province",
+      "lang": ""
+    },
+    {
+      "text": "43°08′05″N 106°50′47″E ﻿ / ﻿ 43.13472°N 106.84639°E ﻿ / 43.13472; 106.84639 ﻿ ( ZMKB )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=43_08_05_N_106_50_47_E_region:MN_type:airport&title=ZMKB",
+      "lang": ""
+    },
+    {
+      "text": "Kharkhorin Airport",
+      "url": "https://en.wikipedia.org/wiki/Kharkhorin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkhorin",
+      "url": "https://en.wikipedia.org/wiki/Kharkhorin",
+      "lang": ""
+    },
+    {
+      "text": "Övörkhangai",
+      "url": "https://en.wikipedia.org/wiki/Övörkhangai_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°14′48″N 102°49′34″E ﻿ / ﻿ 47.24667°N 102.82611°E ﻿ / 47.24667; 102.82611 ﻿ ( ZMHH )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_14_48_N_102_49_34_E_region:MN_type:airport&title=ZMHH",
+      "lang": ""
+    },
+    {
+      "text": "Khatgal Airport",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khatgal",
+      "url": "https://en.wikipedia.org/wiki/Khatgal,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "50°26′33.72″N 100°07′56.28″E ﻿ / ﻿ 50.4427000°N 100.1323000°E ﻿ / 50.4427000; 100.1323000 ﻿ ( ZMHG )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=50_26_33.72_N_100_07_56.28_E_region:MN_type:airport&title=ZMHG",
+      "lang": ""
+    },
+    {
+      "text": "Khovd Airport",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°57′41″N 91°37′33″E ﻿ / ﻿ 47.96139°N 91.62583°E ﻿ / 47.96139; 91.62583 ﻿ ( ZMKD )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_57_41_N_91_37_33_E_region:MN_type:airport&title=ZMKD",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt Airport",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt",
+      "lang": ""
+    },
+    {
+      "text": "Övörkhangai",
+      "url": "https://en.wikipedia.org/wiki/Övörkhangai_Province",
+      "lang": ""
+    },
+    {
+      "text": "46°55′31″N 102°46′29″E ﻿ / ﻿ 46.92528°N 102.77472°E ﻿ / 46.92528; 102.77472 ﻿ ( ZMHU )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=46_55_31_N_102_46_29_E_region:MN_type:airport&title=ZMHU",
+      "lang": ""
+    },
+    {
+      "text": "Mandalgovi",
+      "url": "https://en.wikipedia.org/wiki/Mandalgovi",
+      "lang": ""
+    },
+    {
+      "text": "Dundgovi",
+      "url": "https://en.wikipedia.org/wiki/Dundgovi_Province",
+      "lang": ""
+    },
+    {
+      "text": "45°44′08″N 106°16′10″E ﻿ / ﻿ 45.73556°N 106.26944°E ﻿ / 45.73556; 106.26944 ﻿ ( ZMMG )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=45_44_08_N_106_16_10_E_region:MN_type:airport&title=ZMMG",
+      "lang": ""
+    },
+    {
+      "text": "Mörön Airport",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_(city)",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "49°39′47″N 100°05′57″E ﻿ / ﻿ 49.66306°N 100.09917°E ﻿ / 49.66306; 100.09917 ﻿ ( ZMMN )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=49_39_47_N_100_05_57_E_region:MN_type:airport&title=ZMMN",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii Airport",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_(city)",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Bayan-Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Bayan-Ölgii_Province",
+      "lang": ""
+    },
+    {
+      "text": "48°59′40″N 89°55′11″E ﻿ / ﻿ 48.99444°N 89.91972°E ﻿ / 48.99444; 89.91972 ﻿ ( ZMUL )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=48_59_40_N_89_55_11_E_region:MN_type:airport&title=ZMUL",
+      "lang": ""
+    },
+    {
+      "text": "Öndörkhaan Airport",
+      "url": "https://en.wikipedia.org/wiki/Öndörkhaan_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Öndörkhaan",
+      "url": "https://en.wikipedia.org/wiki/Öndörkhaan",
+      "lang": ""
+    },
+    {
+      "text": "Khentii",
+      "url": "https://en.wikipedia.org/wiki/Khentii_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°18′15″N 110°36′27″E ﻿ / ﻿ 47.30417°N 110.60750°E ﻿ / 47.30417; 110.60750 ﻿ ( ZMUH )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_18_15_N_110_36_27_E_region:MN_type:airport&title=ZMUH",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot Airport",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot Tolgoi / Nariin Sukhait",
+      "url": "https://en.wikipedia.org/wiki/Nariin_Sukhait_mining_complex",
+      "lang": ""
+    },
+    {
+      "text": "Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ömnögovi_Province",
+      "lang": ""
+    },
+    {
+      "text": "43°0′41.76″N 101°20′1.68″E ﻿ / ﻿ 43.0116000°N 101.3338000°E ﻿ / 43.0116000; 101.3338000 ﻿ ( ZMGT )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=43_0_41.76_N_101_20_1.68_E_region:MN_type:airport&title=ZMGT",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi Airport",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi,_Ömnögovi",
+      "lang": ""
+    },
+    {
+      "text": "Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ömnögovi_Province",
+      "lang": ""
+    },
+    {
+      "text": "43°46′25″N 105°34′44″E ﻿ / ﻿ 43.77361°N 105.57889°E ﻿ / 43.77361; 105.57889 ﻿ ( ZMTT )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=43_46_25_N_105_34_44_E_region:MN_type:airport&title=ZMTT",
+      "lang": ""
+    },
+    {
+      "text": "Tosontsengel Airport",
+      "url": "https://en.wikipedia.org/wiki/Tosontsengel_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Tosontsengel",
+      "url": "https://en.wikipedia.org/wiki/Tosontsengel,_Zavkhan",
+      "lang": ""
+    },
+    {
+      "text": "Zavkhaan",
+      "url": "https://en.wikipedia.org/wiki/Zavkhan_Province",
+      "lang": ""
+    },
+    {
+      "text": "48°44′21″N 98°17′24″E ﻿ / ﻿ 48.73917°N 98.29000°E ﻿ / 48.73917; 98.29000 ﻿ ( ZMTL )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=48_44_21_N_98_17_24_E_region:MN_type:airport&title=ZMTL",
+      "lang": ""
+    },
+    {
+      "text": "Tsetserleg Airport",
+      "url": "https://en.wikipedia.org/wiki/Tsetserleg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tsetserleg",
+      "url": "https://en.wikipedia.org/wiki/Tsetserleg_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Arkhangai",
+      "url": "https://en.wikipedia.org/wiki/Arkhangai_Province",
+      "lang": ""
+    },
+    {
+      "text": "47°27′50″N 101°28′54″E ﻿ / ﻿ 47.46389°N 101.48167°E ﻿ / 47.46389; 101.48167 ﻿ ( ZMTG )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=47_27_50_N_101_28_54_E_region:MN_type:airport&title=ZMTG",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom Airport",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom",
+      "lang": ""
+    },
+    {
+      "text": "Uvs",
+      "url": "https://en.wikipedia.org/wiki/Uvs_Province",
+      "lang": ""
+    },
+    {
+      "text": "50°04′02″N 91°56′16″E ﻿ / ﻿ 50.06722°N 91.93778°E ﻿ / 50.06722; 91.93778 ﻿ ( ZMUG )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Mongolia&params=50_04_02_N_91_56_16_E_region:MN_type:airport&title=ZMUG",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: Z#ZM - Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_Z#ZM_-_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia:WikiProject Aviation/Airline destination lists: Asia#Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"First International Jeonju-Murun Flight Operated\"",
+      "url": "https://montsame.mn/en/read/375012",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20250812235155/https://montsame.mn/en/read/375012",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"БАЯН-ӨЛГИЙ АЙМАГ ДАХЬ ӨЛГИЙ НИСЭХ БУУДЛЫН ТОВЧ ТАНИЛЦУУЛГА\"",
+      "url": "https://ulgii.mcaa.gov.mn/?page_id=20",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Өлгий хотын өнгө жавхаа\"",
+      "url": "https://fliphtml5.com/kmgdc/fgsj/%D3%A8%D0%9B%D0%93%D0%98%D0%99_%D0%A5%D0%9E%D0%A2%D0%AB%D0%9D_%D3%A8%D0%9D%D0%93%D3%A8_%D0%96%D0%90%D0%92%D0%A5%D0%90%D0%90/63/",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian Civil Aviation Authority (MCAA)",
+      "url": "http://www.mcaa.gov.mn/?new_lang=en",
+      "lang": ""
+    },
+    {
+      "text": "\"Descriptions of 22 Domestic Airports\"",
+      "url": "https://web.archive.org/web/20070928123059/http://www2.mcaa.gov.mn/pdf/mc/app51.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www2.mcaa.gov.mn/pdf/mc/app51.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20070926235554/http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Mongolia\"",
+      "url": "http://www.unece.org/cefact/locode/mn.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Great Circle Mapper: Airports in Mongolia",
+      "url": "http://www.gcmap.com/search?Q=country:MN",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports%20in%20Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Civil Aviation Authority of Mongolia",
+      "url": "http://www.mcaa.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "Aeronautical Information Publication",
+      "url": "https://ais.mn/index",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&oldid=1371386798",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&oldid=1371386798",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Mongolia_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Incomplete transport lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Incomplete_transport_lists",
+      "lang": ""
+    },
+    {
+      "text": "Incomplete lists from October 2021",
+      "url": "https://en.wikipedia.org/wiki/Category:Incomplete_lists_from_October_2021",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Mongolian-language sources (mn)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Mongolian-language_sources_(mn)",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-mn.txt"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "kz-burundai-wiki",
+  "url": "https://en.wikipedia.org/wiki/Burundaiavia",
+  "retrievedAt": "2026-11-06T09:52:45.692374+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://en.wikipedia.org/wiki/Burundaiavia']' returned non-zero exit status 28."
+}

@@ -1,0 +1,35 @@
+{
+  "scopeCountries": {
+    "GE": "格鲁吉亚",
+    "AZ": "阿塞拜疆",
+    "KZ": "哈萨克斯坦",
+    "KG": "吉尔吉斯斯坦",
+    "UZ": "乌兹别克斯坦",
+    "TJ": "塔吉克斯坦",
+    "TM": "土库曼斯坦",
+    "BY": "白俄罗斯",
+    "MN": "蒙古"
+  },
+  "reviewDate": "2026-11-06",
+  "wikiListObservations": 308,
+  "operatorReviewGroups": 52,
+  "baseAirportRows": 139,
+  "supplementalSiteOrAreaRows": 15,
+  "airportReviewRows": 154,
+  "airportRowsByCountry": {
+    "GE": 14,
+    "AZ": 14,
+    "KZ": 30,
+    "KG": 20,
+    "UZ": 17,
+    "TJ": 13,
+    "TM": 9,
+    "BY": 11,
+    "MN": 26
+  },
+  "findings": 72,
+  "internationalAircraftRouteGroups": 34,
+  "internationalDistinctRoutes": 32,
+  "sourceRecords": 295,
+  "note": "Research only; no updates made to data/flights.json or the website."
+}

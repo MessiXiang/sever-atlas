@@ -1,0 +1,2471 @@
+[
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "AER",
+      "BUS"
+    ],
+    "count": 13,
+    "flightIds": [
+      "f-0d4cd0b949ac",
+      "f-3eb0551a4e2c",
+      "f-a8817aea11cf",
+      "f-221cc5a5b98d",
+      "f-b3e5722cba49",
+      "f-82b199dccc24",
+      "f-097f2f0ee100",
+      "f-65ede0c039a3",
+      "f-94c0446a3f99",
+      "f-8b0b751a35ab",
+      "f-5edd4043e83d",
+      "f-9d7ed4d8b431",
+      "f-e6683445c260"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 555",
+      "from": "AER",
+      "to": "BUS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "15:10",
+      "arrival": "17:10",
+      "days": [
+        5,
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-01-15",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2027-01-15"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-AER-BUS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "AER",
+        "BUS"
+      ],
+      "durationMinutes": 60,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-AER-BUS.json",
+      "id": "f-0d4cd0b949ac",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "AER",
+      "TBS"
+    ],
+    "count": 7,
+    "flightIds": [
+      "f-23efee0076f8",
+      "f-14bafaecb899",
+      "f-b883de7bab07",
+      "f-4fb8d3f17493",
+      "f-2e8ad99f5d84",
+      "f-3d699ad58a41",
+      "f-1671affc01cb"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 547",
+      "from": "AER",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:40",
+      "arrival": "15:00",
+      "days": [
+        2,
+        5,
+        7
+      ],
+      "start": "2026-12-27",
+      "end": "2027-01-10",
+      "dates": [
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-08",
+        "2027-01-10"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-AER-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "AER",
+        "TBS"
+      ],
+      "durationMinutes": 80,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-AER-TBS.json",
+      "id": "f-23efee0076f8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "KRR"
+    ],
+    "count": 7,
+    "flightIds": [
+      "f-78bb9c7c6c62",
+      "f-b5b055560b0c",
+      "f-85eebf05ff21",
+      "f-8f2ea0dea2e8",
+      "f-5b115c0919bc",
+      "f-88fcaee22e1f",
+      "f-4195d0c7ffeb"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1566",
+      "from": "BUS",
+      "to": "KRR",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:50",
+      "arrival": "13:00",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KRR.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KRR"
+      ],
+      "durationMinutes": 70,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KRR.json",
+      "id": "f-78bb9c7c6c62",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "KUF"
+    ],
+    "count": 6,
+    "flightIds": [
+      "f-fab727ae346f",
+      "f-f870e374ea41",
+      "f-d06f56252f46",
+      "f-28f0ee58fdd1",
+      "f-f88a819249f1",
+      "f-bd86fb45fbfe"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1302",
+      "from": "BUS",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "14:30",
+      "arrival": "17:30",
+      "days": [
+        6
+      ],
+      "start": "2026-12-26",
+      "end": "2027-01-09",
+      "dates": [
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KUF.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KUF"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KUF.json",
+      "id": "f-fab727ae346f",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "KZN"
+    ],
+    "count": 8,
+    "flightIds": [
+      "f-d86199a94711",
+      "f-3a3712c18fd4",
+      "f-2f62066d58eb",
+      "f-cf46e4b1b1ec",
+      "f-0638e17b6c1d",
+      "f-cf37720ca523",
+      "f-01df8fad088a",
+      "f-51effedf67dc"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1504",
+      "from": "BUS",
+      "to": "KZN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:25",
+      "arrival": "23:35",
+      "days": [
+        7
+      ],
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "dates": [
+        "2026-12-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KZN.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KZN"
+      ],
+      "durationMinutes": 190,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KZN.json",
+      "id": "f-d86199a94711",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "LED"
+    ],
+    "count": 9,
+    "flightIds": [
+      "f-b5573ffb5daf",
+      "f-454345ce8817",
+      "f-2d36b5a1c4d7",
+      "f-04a5c945d177",
+      "f-7a93ed083768",
+      "f-ee4263dce71f",
+      "f-005ac955d457",
+      "f-c3490df05a1c",
+      "f-228faa05f57d"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 708",
+      "from": "BUS",
+      "to": "LED",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:30",
+      "arrival": "16:55",
+      "days": [
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "dates": [
+        "2026-12-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-LED.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "LED"
+      ],
+      "durationMinutes": 265,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-LED.json",
+      "id": "f-b5573ffb5daf",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "SVX"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-62032f3d7813",
+      "f-a3ae7378f80a"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1204",
+      "from": "BUS",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "18:40",
+      "arrival": "23:10",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "SVX"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-SVX.json",
+      "id": "f-62032f3d7813",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BUS",
+      "ZIA"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-ce70465acf51",
+      "f-d84acae5aa50"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 552",
+      "from": "BUS",
+      "to": "ZIA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:35",
+      "arrival": "16:20",
+      "days": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "start": "2026-12-31",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-12-31",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-02-19",
+        "2027-02-21",
+        "2027-02-26",
+        "2027-02-28",
+        "2027-03-05",
+        "2027-03-07",
+        "2027-03-12",
+        "2027-03-14",
+        "2027-03-19",
+        "2027-03-21",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-BUS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "ZIA"
+      ],
+      "durationMinutes": 225,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+      "id": "f-ce70465acf51",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "GOJ",
+      "TBS"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-7325e2d5f45b",
+      "f-fdc151095171"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1339",
+      "from": "GOJ",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "08:45",
+      "arrival": "13:00",
+      "days": [
+        3,
+        4
+      ],
+      "start": "2026-12-24",
+      "end": "2027-01-13",
+      "dates": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-13"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-GOJ-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "GOJ",
+        "TBS"
+      ],
+      "durationMinutes": 195,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-GOJ-TBS.json",
+      "id": "f-7325e2d5f45b",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KRR",
+      "TBS"
+    ],
+    "count": 7,
+    "flightIds": [
+      "f-48c329f38f21",
+      "f-9ed3b72967b5",
+      "f-68e245665fde",
+      "f-edd99d6d3769",
+      "f-6767a85683a5",
+      "f-8ed5f17f86f1",
+      "f-5a3e83481f87"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1563",
+      "from": "KRR",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "14:15",
+      "arrival": "16:45",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KRR-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KRR",
+        "TBS"
+      ],
+      "durationMinutes": 90,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KRR-TBS.json",
+      "id": "f-48c329f38f21",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KUF",
+      "TBS"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-788422af3e07",
+      "f-35d232e625eb"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1369",
+      "from": "KUF",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "08:00",
+      "arrival": "10:50",
+      "days": [
+        2,
+        4,
+        7
+      ],
+      "start": "2026-11-12",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-27",
+        "2026-12-29",
+        "2026-12-31",
+        "2027-01-03",
+        "2027-01-05",
+        "2027-01-07",
+        "2027-01-10",
+        "2027-01-14",
+        "2027-01-17",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-21",
+        "2027-02-25",
+        "2027-02-28",
+        "2027-03-04",
+        "2027-03-07",
+        "2027-03-11",
+        "2027-03-14",
+        "2027-03-18",
+        "2027-03-21",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "TBS"
+      ],
+      "durationMinutes": 170,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-TBS.json",
+      "id": "f-788422af3e07",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KZN",
+      "TBS"
+    ],
+    "count": 13,
+    "flightIds": [
+      "f-a0eda606301a",
+      "f-29cccf042593",
+      "f-5825cc61018f",
+      "f-b6582b44ad13",
+      "f-36e9c0c027b6",
+      "f-ef3e0b26585a",
+      "f-1f911aba9546",
+      "f-3d62645ecd24",
+      "f-4c384cfa31c9",
+      "f-eaa2b7119620",
+      "f-76db8cb1ddc6",
+      "f-26f82ea9943b",
+      "f-7be4ecd002e5"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1501",
+      "from": "KZN",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:35",
+      "arrival": "16:30",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KZN-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KZN",
+        "TBS"
+      ],
+      "durationMinutes": 175,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KZN-TBS.json",
+      "id": "f-a0eda606301a",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "LED",
+      "TBS"
+    ],
+    "count": 9,
+    "flightIds": [
+      "f-3c1be411d747",
+      "f-6b2ee13cf37a",
+      "f-18ff6bd1d354",
+      "f-be58c0c9e087",
+      "f-9e2131d49743",
+      "f-2bceffc0536d",
+      "f-b5bb003a99b4",
+      "f-040fc5cb7d30",
+      "f-645f67df513e"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 701",
+      "from": "LED",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "04:20",
+      "arrival": "09:25",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-LED-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "LED",
+        "TBS"
+      ],
+      "durationMinutes": 245,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-LED-TBS.json",
+      "id": "f-3c1be411d747",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "SVX",
+      "TBS"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-cadf2e7f5f00",
+      "f-959549b07c8b"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1403",
+      "from": "SVX",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:55",
+      "arrival": "15:25",
+      "days": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-18",
+        "2026-11-20",
+        "2026-11-22",
+        "2026-11-27",
+        "2026-11-29",
+        "2026-12-04",
+        "2026-12-06",
+        "2026-12-11",
+        "2026-12-13",
+        "2026-12-18",
+        "2026-12-20",
+        "2026-12-23",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-30",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-06",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-13",
+        "2027-01-15",
+        "2027-01-17",
+        "2027-01-22",
+        "2027-01-24",
+        "2027-01-29",
+        "2027-01-31",
+        "2027-02-05",
+        "2027-02-07",
+        "2027-02-12",
+        "2027-02-14",
+        "2027-02-19",
+        "2027-02-21",
+        "2027-02-24",
+        "2027-02-26",
+        "2027-02-28",
+        "2027-03-03",
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-10",
+        "2027-03-12",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-17",
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-24",
+        "2027-03-26",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-SVX-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "SVX",
+        "TBS"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-SVX-TBS.json",
+      "id": "f-cadf2e7f5f00",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "TBS",
+      "ZIA"
+    ],
+    "count": 10,
+    "flightIds": [
+      "f-ceff768ac3dc",
+      "f-c99592438c1c",
+      "f-2bb3b1cee8d2",
+      "f-c872e5d9d037",
+      "f-050cc241ecd4",
+      "f-5b3149572749",
+      "f-c31ffc332441",
+      "f-4534e14ad287",
+      "f-ac2387242eb8",
+      "f-4869436e6b1d"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 560",
+      "from": "TBS",
+      "to": "ZIA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:35",
+      "arrival": "15:50",
+      "days": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-13",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-03",
+        "2027-02-10",
+        "2027-02-16",
+        "2027-02-17",
+        "2027-02-18",
+        "2027-02-23",
+        "2027-02-24",
+        "2027-02-25",
+        "2027-03-02",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-09",
+        "2027-03-10",
+        "2027-03-11",
+        "2027-03-16",
+        "2027-03-17",
+        "2027-03-18",
+        "2027-03-23",
+        "2027-03-24",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-TBS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "TBS",
+        "ZIA"
+      ],
+      "durationMinutes": 195,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+      "id": "f-ceff768ac3dc",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "Tu-204",
+      "Tu-214"
+    ],
+    "route": [
+      "BUS",
+      "ZIA"
+    ],
+    "count": 5,
+    "flightIds": [
+      "f-c237a25c1114",
+      "f-45eb07a95d70",
+      "f-0ff9f88f8a29",
+      "f-340c9c9cf7bd",
+      "f-511dbeb43482"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 552",
+      "from": "BUS",
+      "to": "ZIA",
+      "aircraft": [
+        "Tu-204",
+        "Tu-214"
+      ],
+      "departure": "14:20",
+      "arrival": "16:50",
+      "days": [
+        7
+      ],
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。官网统一标注 TU 204/214，未区分具体子型号；在 Tu-204 与 Tu-214 筛选中均作为候选，不保证具体一种。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-BUS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "ZIA"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+      "id": "f-c237a25c1114",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "airline": "redwings",
+    "aircraft": [
+      "Tu-204",
+      "Tu-214"
+    ],
+    "route": [
+      "TBS",
+      "ZIA"
+    ],
+    "count": 9,
+    "flightIds": [
+      "f-58fb69234c8f",
+      "f-f14118f92ea8",
+      "f-48641419da21",
+      "f-888337e50baa",
+      "f-f68b6e8843d1",
+      "f-5da041b2ca67",
+      "f-1d66efa5ab5d",
+      "f-e14cadd17fae",
+      "f-c7e78706ee09"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 560",
+      "from": "TBS",
+      "to": "ZIA",
+      "aircraft": [
+        "Tu-204",
+        "Tu-214"
+      ],
+      "departure": "13:50",
+      "arrival": "15:50",
+      "days": [
+        4,
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-12-25",
+        "2026-12-31"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。官网统一标注 TU 204/214，未区分具体子型号；在 Tu-204 与 Tu-214 筛选中均作为候选，不保证具体一种。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-TBS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "TBS",
+        "ZIA"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+      "id": "f-58fb69234c8f",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "airline": "iraero",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "GYD",
+      "KJA"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-c64c57890413",
+      "f-ad5a6e652610"
+    ],
+    "example": {
+      "airline": "iraero",
+      "number": "IO-474",
+      "from": "GYD",
+      "to": "KJA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "20:10",
+      "arrival": "04:10",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → KJA, 07.11.2026, IO-474",
+      "id": "f-c64c57890413"
+    }
+  },
+  {
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "airline": "iraero",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "GYD",
+      "PEE"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-929e466d3064",
+      "f-fae12e5d1191"
+    ],
+    "example": {
+      "airline": "iraero",
+      "number": "IO-484",
+      "from": "GYD",
+      "to": "PEE",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "02:05",
+      "arrival": "06:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → PEE, 07.11.2026, IO-484",
+      "id": "f-929e466d3064"
+    }
+  },
+  {
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "airline": "iraero",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "GYD",
+      "REN"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-225791d7d521",
+      "f-b953995bc4e7"
+    ],
+    "example": {
+      "airline": "iraero",
+      "number": "IO-506",
+      "from": "GYD",
+      "to": "REN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:00",
+      "arrival": "15:30",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → REN, 07.11.2026, IO-506",
+      "id": "f-225791d7d521"
+    }
+  },
+  {
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "ALA",
+      "KZN"
+    ],
+    "count": 3,
+    "flightIds": [
+      "f-430ebcb9eae8",
+      "f-695f0fe6fa30",
+      "f-b6ca191d4507"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 4630",
+      "from": "ALA",
+      "to": "KZN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:15",
+      "arrival": "08:05",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-ALA-KZN.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "ALA",
+        "KZN"
+      ],
+      "durationMinutes": 230,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-ALA-KZN.json",
+      "id": "f-430ebcb9eae8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "ALA",
+      "SVX"
+    ],
+    "count": 3,
+    "flightIds": [
+      "f-f16ad5b56c5d",
+      "f-cc7c3360bdfa",
+      "f-f42cab37e4c1"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1074",
+      "from": "ALA",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "16:30",
+      "arrival": "19:35",
+      "days": [
+        1,
+        3,
+        6
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-21",
+        "2026-11-23",
+        "2026-11-28",
+        "2026-11-30",
+        "2026-12-05",
+        "2026-12-07",
+        "2026-12-12",
+        "2026-12-14",
+        "2026-12-19",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-28",
+        "2026-12-30",
+        "2027-01-02",
+        "2027-01-04",
+        "2027-01-06",
+        "2027-01-09",
+        "2027-01-11",
+        "2027-01-13",
+        "2027-01-16",
+        "2027-01-18",
+        "2027-01-23",
+        "2027-01-25",
+        "2027-01-30",
+        "2027-02-01",
+        "2027-02-06",
+        "2027-02-08",
+        "2027-02-13",
+        "2027-02-15",
+        "2027-02-20",
+        "2027-02-22",
+        "2027-02-27",
+        "2027-03-01",
+        "2027-03-06",
+        "2027-03-08",
+        "2027-03-10",
+        "2027-03-13",
+        "2027-03-15",
+        "2027-03-17",
+        "2027-03-20",
+        "2027-03-22",
+        "2027-03-24",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-ALA-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "ALA",
+        "SVX"
+      ],
+      "durationMinutes": 185,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-ALA-SVX.json",
+      "id": "f-f16ad5b56c5d",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KZN",
+      "NQZ"
+    ],
+    "count": 4,
+    "flightIds": [
+      "f-ba19bb030c05",
+      "f-03c8192aced2",
+      "f-5fd701cff118",
+      "f-6ed441ce1977"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 4667",
+      "from": "KZN",
+      "to": "NQZ",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "01:05",
+      "arrival": "05:35",
+      "days": [
+        3,
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-12-25",
+        "2027-01-06",
+        "2027-03-19",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KZN-NQZ.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KZN",
+        "NQZ"
+      ],
+      "durationMinutes": 150,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KZN-NQZ.json",
+      "id": "f-ba19bb030c05",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "NQZ",
+      "SVX"
+    ],
+    "count": 7,
+    "flightIds": [
+      "f-8ef304b07bf6",
+      "f-36b7b97f5e54",
+      "f-96327930844b",
+      "f-abb931f50c87",
+      "f-7442caa945e4",
+      "f-0bf7ff320ff0",
+      "f-c6b030903fe7"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1098",
+      "from": "NQZ",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "18:50",
+      "arrival": "21:00",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-13",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-18",
+        "2027-01-20",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-27",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-01",
+        "2027-02-03",
+        "2027-02-05",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-08",
+        "2027-02-10",
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-17",
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21",
+        "2027-02-22",
+        "2027-02-24",
+        "2027-02-26",
+        "2027-02-27",
+        "2027-02-28",
+        "2027-03-01",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-08",
+        "2027-03-10",
+        "2027-03-11",
+        "2027-03-12",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-15",
+        "2027-03-17",
+        "2027-03-18",
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-22",
+        "2027-03-24",
+        "2027-03-25",
+        "2027-03-26",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-NQZ-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "NQZ",
+        "SVX"
+      ],
+      "durationMinutes": 130,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-NQZ-SVX.json",
+      "id": "f-8ef304b07bf6",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "KG",
+    "countryZh": "吉尔吉斯斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BSZ",
+      "MCX"
+    ],
+    "count": 3,
+    "flightIds": [
+      "f-4d3622778bda",
+      "f-b81a855d36eb",
+      "f-ee267c2f1cff"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 4752",
+      "from": "BSZ",
+      "to": "MCX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "22:40",
+      "arrival": "23:10",
+      "days": [
+        2
+      ],
+      "start": "2026-11-10",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-02-02",
+        "2027-02-16",
+        "2027-03-02",
+        "2027-03-16",
+        "2027-03-23"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BSZ-MCX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BSZ",
+        "MCX"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BSZ-MCX.json",
+      "id": "f-4d3622778bda",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BHK",
+      "MCX"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-47cbc2d4d7da",
+      "f-a0f24f4c8bbb"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1408",
+      "from": "BHK",
+      "to": "MCX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:50",
+      "arrival": "13:35",
+      "days": [
+        2
+      ],
+      "start": "2026-11-10",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-29",
+        "2027-01-19",
+        "2027-02-02",
+        "2027-02-16",
+        "2027-03-02",
+        "2027-03-23"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BHK-MCX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BHK",
+        "MCX"
+      ],
+      "durationMinutes": 165,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BHK-MCX.json",
+      "id": "f-47cbc2d4d7da",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "BHK",
+      "SVX"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-25713fc8c245",
+      "f-b3208910e460"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1440",
+      "from": "BHK",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "04:25",
+      "arrival": "07:25",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BHK-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BHK",
+        "SVX"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BHK-SVX.json",
+      "id": "f-25713fc8c245",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KUF",
+      "UGC"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-99ea87ff50a2",
+      "f-5ef629cf5adc"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1353",
+      "from": "KUF",
+      "to": "UGC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "00:50",
+      "arrival": "04:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-UGC.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "UGC"
+      ],
+      "durationMinutes": 150,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-UGC.json",
+      "id": "f-99ea87ff50a2",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "MCX",
+      "NMA"
+    ],
+    "count": 3,
+    "flightIds": [
+      "f-7b88adb03bc8",
+      "f-3f5a91798860",
+      "f-1f1ddd49c6f5"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1423",
+      "from": "MCX",
+      "to": "NMA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:10",
+      "arrival": "11:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-NMA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "NMA"
+      ],
+      "durationMinutes": 190,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-NMA.json",
+      "id": "f-7b88adb03bc8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "MCX",
+      "TAS"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-21a8539b3bbd",
+      "f-196613591721"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 4137",
+      "from": "MCX",
+      "to": "TAS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:10",
+      "arrival": "02:00",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-25",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-03-01",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-TAS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "TAS"
+      ],
+      "durationMinutes": 170,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-TAS.json",
+      "id": "f-21a8539b3bbd",
+      "arrivalDayOffset": 1,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "MCX",
+      "UGC"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-23b020b25559",
+      "f-ff7ce20cdbea"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 1425",
+      "from": "MCX",
+      "to": "UGC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "15:50",
+      "arrival": "19:45",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-UGC.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "UGC"
+      ],
+      "durationMinutes": 115,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-UGC.json",
+      "id": "f-23b020b25559",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "KUF",
+      "MSQ"
+    ],
+    "count": 9,
+    "flightIds": [
+      "f-b1b13654b180",
+      "f-4a6bea2ddd28",
+      "f-69f2793552d3",
+      "f-d7232c0e4057",
+      "f-cb8912d806df",
+      "f-646417d4ffd1",
+      "f-607f200c140c",
+      "f-963fb9400892",
+      "f-40d16ebf708c"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 5309",
+      "from": "KUF",
+      "to": "MSQ",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "07:00",
+      "arrival": "08:40",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-12-25",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11",
+        "2026-12-18",
+        "2026-12-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-MSQ.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "MSQ"
+      ],
+      "durationMinutes": 160,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-MSQ.json",
+      "id": "f-b1b13654b180",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "airline": "redwings",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "MSQ",
+      "PEE"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-21077b4b3bfc",
+      "f-0308352f9f8c"
+    ],
+    "example": {
+      "airline": "redwings",
+      "number": "WZ 5712",
+      "from": "MSQ",
+      "to": "PEE",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "09:30",
+      "arrival": "14:15",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11",
+        "2026-12-18",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08",
+        "2027-01-15",
+        "2027-01-22",
+        "2027-01-29",
+        "2027-02-05",
+        "2027-02-12",
+        "2027-02-19",
+        "2027-02-26",
+        "2027-03-05",
+        "2027-03-12",
+        "2027-03-19",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MSQ-PEE.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MSQ",
+        "PEE"
+      ],
+      "durationMinutes": 165,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MSQ-PEE.json",
+      "id": "f-21077b4b3bfc",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    }
+  },
+  {
+    "country": "MN",
+    "countryZh": "蒙古",
+    "airline": "iraero",
+    "aircraft": [
+      "SSJ100"
+    ],
+    "route": [
+      "IKT",
+      "UBN"
+    ],
+    "count": 2,
+    "flightIds": [
+      "f-2f3c5296531f",
+      "f-3c7db65d89f0"
+    ],
+    "example": {
+      "airline": "iraero",
+      "number": "IO-230",
+      "from": "IKT",
+      "to": "UBN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "00:05",
+      "arrival": "01:00",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "IKT → UBN, 05.11.2026, IO-230",
+      "id": "f-2f3c5296531f",
+      "localSource": "sources/iraero/io_IKT.html"
+    }
+  }
+]

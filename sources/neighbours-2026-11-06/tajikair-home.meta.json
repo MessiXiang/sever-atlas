@@ -1,0 +1,84 @@
+{
+  "id": "tajikair-home",
+  "url": "https://www.tajikair.tj/",
+  "retrievedAt": "2026-11-06T08:21:24.226546+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/",
+  "bytes": 5831,
+  "sha256": "f6158d7a7d0d8713dd6eb2496cf387c93a5803f5ddd743dfc0bcc01bc5147503",
+  "file": "sources/neighbours-2026-11-06/tajikair-home.html",
+  "title": "TAJIKAIR â Ð¿ÑÑÐµÑÐµÑÑÐ²Ð¸Ðµ Ð½Ð°ÑÐ¸Ð½Ð°ÐµÑÑÑ Ð·Ð´ÐµÑÑ",
+  "links": [
+    {
+      "text": "ÐÐµÑÐµÐ¹ÑÐ¸ Ðº ÑÐ¾Ð´ÐµÑÐ¶Ð°Ð½Ð¸Ñ",
+      "url": "https://www.tajikair.tj/#welcome",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.tajikair.tj/#home",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ»Ð°Ð²Ð½Ð°Ñ",
+      "url": "https://www.tajikair.tj/#welcome",
+      "lang": ""
+    },
+    {
+      "text": "Ð ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸",
+      "url": "https://www.tajikair.tj/#about",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ°Ð¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ",
+      "url": "https://www.tajikair.tj/#destinations",
+      "lang": ""
+    },
+    {
+      "text": "Ð£ÑÐ»ÑÐ³Ð¸",
+      "url": "https://www.tajikair.tj/#services",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÑ",
+      "url": "https://www.tajikair.tj/#safety",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ¾Ð½ÑÐ°ÐºÑÑ",
+      "url": "https://www.tajikair.tj/#contacts",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ°Ð¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ â",
+      "url": "https://www.tajikair.tj/#destinations",
+      "lang": ""
+    },
+    {
+      "text": "Ð ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸",
+      "url": "https://www.tajikair.tj/#about",
+      "lang": ""
+    },
+    {
+      "text": "â ÐÐ¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸ÑÑÑÑ Ñ TAJIKAIR ÐÑÐ¾ÐºÑÑÑÐ¸ÑÐµ Ð²Ð½Ð¸Ð·, ÑÑÐ¾Ð±Ñ Ð½Ð°ÑÐ°ÑÑ Ð¿ÑÑÐµÑÐµÑÑÐ²Ð¸Ðµ",
+      "url": "https://www.tajikair.tj/#welcome",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ°Ð¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ",
+      "url": "https://www.tajikair.tj/destinations.html",
+      "lang": ""
+    },
+    {
+      "text": "Ð ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸",
+      "url": "https://www.tajikair.tj/about.html",
+      "lang": ""
+    },
+    {
+      "text": "ÐÐ¾Ð½ÑÐ°ÐºÑÑ",
+      "url": "https://www.tajikair.tj/contacts.html",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-home.txt"
+}

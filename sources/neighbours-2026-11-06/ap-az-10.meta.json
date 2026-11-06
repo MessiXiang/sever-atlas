@@ -1,0 +1,1314 @@
+{
+  "id": "ap-az-10",
+  "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:12.138693+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+  "bytes": 165992,
+  "sha256": "032934440ab8dee19696dd5dff04b4b78c414da89659a01b26a9d21c9cedc65d",
+  "file": "sources/neighbours-2026-11-06/ap-az-10.html",
+  "title": "Nakhchivan International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Nakhchivan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Nakhchivan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Nakhchivan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Nakhchivan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2 History",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "5 See also",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "6 References",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "7 External links",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Nax%C3%A7%C4%B1van_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Nax%C3%A7%C4%B1van",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%86%D8%AE%D8%AC%D9%88%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nakhitchevan",
+      "lang": "fr"
+    },
+    {
+      "text": "Galego",
+      "url": "https://gl.wikipedia.org/wiki/Aeroporto_de_Nakhchivan",
+      "lang": "gl"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%91%D7%99%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%A0%D7%97%D7%A6%27%D7%99%D7%91%D7%90%D7%9F",
+      "lang": "he"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Nahicsev%C3%A1n_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D5%86%D5%A1%D5%AD%D5%AB%D5%BB%D6%87%D5%A1%D5%B6_(%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6)",
+      "lang": "hy"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Nakhchivan",
+      "lang": "id"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%90%E1%83%AE%E1%83%98%E1%83%A9%E1%83%94%E1%83%95%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Nakhchivan",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Nachiczewan",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Nahicevan",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%B8%D1%87%D0%B5%D0%B2%D0%B0%D0%BD%D1%8C_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Slovenščina",
+      "url": "https://sl.wikipedia.org/wiki/Letali%C5%A1%C4%8De_Nahi%C4%8Devan",
+      "lang": "sl"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%D0%9D%D0%B0%D1%85%D1%87%D0%B8%D0%B2%D0%B0%D0%BD",
+      "lang": "sr"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Nachitjevans_internationella_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%BC%D0%BE%D0%B4_%D0%BA%D1%80%D0%B8%D0%BA_(%D2%B3%D0%B8%D0%BD%D0%B7,_%D0%9E%D1%80%D0%B5%D0%B3%D0%BE%D0%BD)",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Nah%C3%A7%C4%B1van_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D1%96%D1%87%D0%B5%D0%B2%D0%B0%D0%BD%D1%8C_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Naxichevan_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Nakhichevan",
+      "lang": "vi"
+    },
+    {
+      "text": "მარგალური",
+      "url": "https://xmf.wikipedia.org/wiki/%E1%83%9C%E1%83%90%E1%83%AE%E1%83%98%E1%83%A9%E1%83%94%E1%83%95%E1%83%90%E1%83%9C%E1%83%98%E1%83%A8_%E1%83%94%E1%83%A0%E1%83%94%E1%83%A4%E1%83%9D%E1%83%A8%E1%83%A5%E1%83%90%E1%83%A8%E1%83%94_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "xmf"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q619376#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&oldid=1371994123",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Nakhchivan_International_Airport&id=1371994123&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Nakhchivan_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Nax%C3%A7%C4%B1van_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q619376",
+      "lang": ""
+    },
+    {
+      "text": "Naj",
+      "url": "https://en.wikipedia.org/wiki/Naj",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:NAJview.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Government of Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan (city)",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "39°11′19″N 045°27′30″E ﻿ / ﻿ 39.18861°N 45.45833°E ﻿ / 39.18861; 45.45833",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Nakhchivan_International_Airport&params=39_11_19_N_045_27_30_E_region:AZ_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "airportnakhchivan .com",
+      "url": "http://airportnakhchivan.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Azerbaijan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:West_Asia_non_political_with_water_system.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Europe_blank_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-GCM-2",
+      "lang": ""
+    },
+    {
+      "text": "ACI",
+      "url": "https://en.wikipedia.org/wiki/Airport_Council_International",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "airbase",
+      "url": "https://en.wikipedia.org/wiki/Airbase",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_City",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan Autonomous Republic",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "landlocked",
+      "url": "https://en.wikipedia.org/wiki/Landlocked_country",
+      "lang": ""
+    },
+    {
+      "text": "exclave",
+      "url": "https://en.wikipedia.org/wiki/Enclave_and_exclave",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Naj.jpg",
+      "lang": ""
+    },
+    {
+      "text": "mean sea level",
+      "url": "https://en.wikipedia.org/wiki/Mean_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "2026 Iranian strikes on Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "2026 Iran War",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_War",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "Iğdır Airport",
+      "url": "https://en.wikipedia.org/wiki/Iğdır_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Iğdır",
+      "url": "https://en.wikipedia.org/wiki/Iğdır",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "AJet",
+      "url": "https://en.wikipedia.org/wiki/AJet",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-VF_SAW–NAJ–GNJ-6",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Utair",
+      "url": "https://en.wikipedia.org/wiki/Utair",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-2012_WATR-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-2013_WATR-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_note-2014_WATR-11",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-WAD_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-WAD_1-1",
+      "lang": ""
+    },
+    {
+      "text": "Airport information for UBBN",
+      "url": "https://web.archive.org/web/20160304061932/http://www.worldaerodata.com/wad.cgi?airport=UBBN",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-GCM_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for NAJ\"",
+      "url": "http://www.gcmap.com/airport/NAJ",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Airports\"",
+      "url": "https://web.archive.org/web/20150413140236/http://www.azal.az/about/azerbaijan-airports",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.azal.az/about/azerbaijan-airports",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Missiles, drones coming from Iran fell on airport in Azerbaijan, source says\"",
+      "url": "https://www.reuters.com/world/asia-pacific/missiles-drones-coming-iran-fell-airport-azerbaijan-source-says-2026-03-05/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"AZAL-dan Naxçıvana reyslərlə bağlı VACİB AÇIQLAMA\"",
+      "url": "https://oxu.az/cemiyyet/azal-dan-naxcivana-reyslerle-bagli-vacib-aciqlama",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-VF_SAW–NAJ–GNJ_6-0",
+      "lang": ""
+    },
+    {
+      "text": "\"AJet Boosts Azerbaijan Network From June 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250321-vfns25az",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Flights from Nakhchivan to Ganja\"",
+      "url": "https://www.flightconnections.com/flights-from-naj-to-gnj",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-2012_WATR_9-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://leea.recherche.enac.fr/Bdd/AirTraffic2012.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-2013_WATR_10-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://leea.recherche.enac.fr/Bdd/WorldwideAirTraffic2013.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport#cite_ref-2014_WATR_11-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://haminfo-terminal.com/grafiken/WorldwideAirTraffic2014.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20160306051255/http://haminfo-terminal.com/grafiken/WorldwideAirTraffic2014.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Naxçıvan Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Naxçıvan%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan International airport at AZAL",
+      "url": "https://web.archive.org/web/20121015195312/http://azal.az/en/company-view/13/",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UBBN\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UBBN.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for NAJ",
+      "url": "https://web.archive.org/web/20121020023644/http://aviation-safety.net/database/airport/airport.php?id=NAJ",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lənkəran",
+      "url": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qəbələ",
+      "url": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Füzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağstafa",
+      "url": "https://en.wikipedia.org/wiki/Aghstafa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakən",
+      "url": "https://en.wikipedia.org/wiki/Balakan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Laçın",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Xocalı",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yevlax",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zabrat",
+      "url": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zəngilan",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Europe-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Europe-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Europe-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Maiden_Tower_(Baku).jpg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Azerbaijan-struct-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&oldid=1371994123",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&oldid=1371994123",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "1976 establishments in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:1976_establishments_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "1976 establishments in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:1976_establishments_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 1976",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_1976",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani Air Force bases",
+      "url": "https://en.wikipedia.org/wiki/Category:Azerbaijani_Air_Force_bases",
+      "lang": ""
+    },
+    {
+      "text": "Airports built in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in the Nakhchivan Autonomous Republic",
+      "url": "https://en.wikipedia.org/wiki/Category:Transportation_in_the_Nakhchivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "European airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:European_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Azerbaijani_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from April 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_April_2025",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Azerbaijani-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Azerbaijani-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Azerbaijani-language sources (az)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Azerbaijani-language_sources_(az)",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Nakhchivan_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-az-10.txt"
+}

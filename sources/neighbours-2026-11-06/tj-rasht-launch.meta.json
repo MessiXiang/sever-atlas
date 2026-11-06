@@ -1,0 +1,6 @@
+{
+  "id": "tj-rasht-launch",
+  "url": "https://asiaplus.news/2025/02/07/tadzhik-ejr-vypolnil-pervyj-rejs-po-marshrutu-dushanbe-rasht/",
+  "retrievedAt": "2026-11-06T09:48:25.606925+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://asiaplus.news/2025/02/07/tadzhik-ejr-vypolnil-pervyj-rejs-po-marshrutu-dushanbe-rasht/']' returned non-zero exit status 28."
+}

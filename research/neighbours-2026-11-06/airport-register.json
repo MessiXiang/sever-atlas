@@ -1,0 +1,975 @@
+[
+  {
+    "id": "ap-ge-01",
+    "country": "GE",
+    "name": "Batumi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+    "listRow": "1. Batumi Adjara [†] UGSB BUS Batumi International Airport 41°36′37″N 041°35′58″E ﻿ / ﻿ 41.61028°N 41.59944°E ﻿ / 41.61028; 41.59944 ﻿ ( Batumi International Airport )"
+  },
+  {
+    "id": "ap-ge-02",
+    "country": "GE",
+    "name": "Kutaisi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+    "listRow": "2. Kutaisi Imereti UGKO KUT Kutaisi International Airport 42°10′35″N 042°28′57″E ﻿ / ﻿ 42.17639°N 42.48250°E ﻿ / 42.17639; 42.48250 ﻿ ( Kopitnari Airport )"
+  },
+  {
+    "id": "ap-ge-03",
+    "country": "GE",
+    "name": "Tbilisi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+    "listRow": "3. Tbilisi (capital) UGTB TBS Tbilisi International Airport 41°40′09″N 044°57′17″E ﻿ / ﻿ 41.66917°N 44.95472°E ﻿ / 41.66917; 44.95472 ﻿ ( Tbilisi International Airport )"
+  },
+  {
+    "id": "ap-ge-04",
+    "country": "GE",
+    "name": "Sukhumi Babushara Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport",
+    "listRow": "4. Sukhumi Abkhazia [‡] UGSS SUI Sukhumi Babushara Airport 42°51′29″N 041°07′41″E ﻿ / ﻿ 42.85806°N 41.12806°E ﻿ / 42.85806; 41.12806 ﻿ ( Sukhumi Babushara Airport )"
+  },
+  {
+    "id": "ap-ge-05",
+    "country": "GE",
+    "name": "Queen Tamar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+    "listRow": "5. Mestia Samegrelo-Zemo Svaneti UGMS Queen Tamar Airport 43°03′16″N 042°45′00″E ﻿ / ﻿ 43.05444°N 42.75000°E ﻿ / 43.05444; 42.75000 ﻿ ( Queen Tamar Airport )"
+  },
+  {
+    "id": "ap-ge-06",
+    "country": "GE",
+    "name": "Ambrolauri Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+    "listRow": "6. Ambrolauri Racha-Lechkhumi - Kvemo Svaneti UGAM Ambrolauri Airport 42°31′36″N 43°08′07″E ﻿ / ﻿ 42.5266°N 43.1352°E ﻿ / 42.5266; 43.1352"
+  },
+  {
+    "id": "ap-ge-07",
+    "country": "GE",
+    "name": "Natakhtari Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+    "listRow": "7. Natakhtari Mtskheta-Mtianeti UGSA Natakhtari Airfield 41°55′16″N 044°42′50″E ﻿ / ﻿ 41.92111°N 44.71389°E ﻿ / 41.92111; 44.71389 ﻿ ( Natakhtari Airfield )"
+  },
+  {
+    "id": "ap-ge-08",
+    "country": "GE",
+    "name": "Telavi Erekle II Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Telavi_Erekle_II_Airport?action=edit&redlink=1",
+    "listRow": "8. Telavi Kakheti UGGT Telavi Erekle II Airport [ 1 ] 41°57′12″N 045°30′29″E ﻿ / ﻿ 41.95333°N 45.50806°E ﻿ / 41.95333; 45.50806 ﻿ ( Telavi Airport )"
+  },
+  {
+    "id": "ap-ge-09",
+    "country": "GE",
+    "name": "Mukhrani Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mukhrani_Airport?action=edit&redlink=1",
+    "listRow": "10. Mukhrani Mtskheta-Mtianeti UGMM Mukhrani Airport 41°55′59″N 44°34′59″E ﻿ / ﻿ 41.933°N 44.583°E ﻿ / 41.933; 44.583"
+  },
+  {
+    "id": "ap-ge-10",
+    "country": "GE",
+    "name": "Lagodekhi Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Lagodekhi_Airfield?action=edit&redlink=1",
+    "listRow": "13. Lagodekhi Kakheti Lagodekhi Airfield 41°48′54″N 46°14′03″E ﻿ / ﻿ 41.8150179°N 46.2341595°E ﻿ / 41.8150179; 46.2341595"
+  },
+  {
+    "id": "ap-ge-11",
+    "country": "GE",
+    "name": "Poti International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Poti_International_Airport",
+    "listRow": "15. Poti Samegrelo-Zemo Svaneti Poti International Airport 42°09′47″N 041°42′08″E ﻿ / ﻿ 42.16306°N 41.70222°E ﻿ / 42.16306; 41.70222 ﻿ ( Poti Airport )"
+  },
+  {
+    "id": "ap-ge-12",
+    "country": "GE",
+    "name": "Kobuleti Airfield",
+    "wiki": "https://en.wikipedia.org/wiki/Kobuleti_Airfield?action=edit&redlink=1",
+    "listRow": "2. Kobuleti Adjara [†] Kobuleti Airfield 41°50′26″N 041°47′57″E ﻿ / ﻿ 41.84056°N 41.79917°E ﻿ / 41.84056; 41.79917 ﻿ ( Marneuli Airfield )"
+  },
+  {
+    "id": "ap-az-01",
+    "country": "AZ",
+    "name": "Akstafa Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Akstafa_Airport",
+    "listRow": "Ağstafa (Agstafa) UBBA UB17 Akstafa Airport 41°07′24″N 045°25′17″E ﻿ / ﻿ 41.12333°N 45.42139°E ﻿ / 41.12333; 45.42139 ﻿ ( Akstafa Airport )"
+  },
+  {
+    "id": "ap-az-02",
+    "country": "AZ",
+    "name": "Heydar Aliyev International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+    "listRow": "Baku UBBB GYD Heydar Aliyev International Airport 40°28′03″N 050°02′48″E ﻿ / ﻿ 40.46750°N 50.04667°E ﻿ / 40.46750; 50.04667 ﻿ ( Heydar Aliyev International Airport )"
+  },
+  {
+    "id": "ap-az-03",
+    "country": "AZ",
+    "name": "Zabrat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+    "listRow": "Baku UBTT ZXT Zabrat Airport 40°29′42″N 049°58′37″E ﻿ / ﻿ 40.49500°N 49.97694°E ﻿ / 40.49500; 49.97694 ﻿ ( Zabrat Airport (Baku) )"
+  },
+  {
+    "id": "ap-az-04",
+    "country": "AZ",
+    "name": "Balakan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Belokany_Airport",
+    "listRow": "Balakən (Balakan) UB0G UB16 Balakan Airport 41°45′12″N 046°21′19″E ﻿ / ﻿ 41.75333°N 46.35528°E ﻿ / 41.75333; 46.35528 ﻿ ( Balakan Airport )"
+  },
+  {
+    "id": "ap-az-05",
+    "country": "AZ",
+    "name": "Fuzuli International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+    "listRow": "Fuzuli UBBF FZL Fuzuli International Airport 39°59′44″N 47°19′6″E ﻿ / ﻿ 39.99556°N 47.31833°E ﻿ / 39.99556; 47.31833 ﻿ ( Fizuli International Airport )"
+  },
+  {
+    "id": "ap-az-06",
+    "country": "AZ",
+    "name": "Ganja International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+    "listRow": "Ganja UBBG GNJ Ganja International Airport 40°44′15″N 046°19′03″E ﻿ / ﻿ 40.73750°N 46.31750°E ﻿ / 40.73750; 46.31750 ﻿ ( Ganja International Airport (Ganja) )"
+  },
+  {
+    "id": "ap-az-07",
+    "country": "AZ",
+    "name": "Khojali Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+    "listRow": "Khankendi (Stepanakert) UBBS UB13 Khojali Airport (public) 39°54′05″N 046°47′13″E ﻿ / ﻿ 39.90139°N 46.78694°E ﻿ / 39.90139; 46.78694 ﻿ ( Stepanakert Airport )"
+  },
+  {
+    "id": "ap-az-08",
+    "country": "AZ",
+    "name": "Lachin International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+    "listRow": "Lachin - - LHL Lachin International Airport 39°52′45″N 046°20′48″E ﻿ / ﻿ 39.87917°N 46.34667°E ﻿ / 39.87917; 46.34667 ﻿ ( Lachin International Airport )"
+  },
+  {
+    "id": "ap-az-09",
+    "country": "AZ",
+    "name": "Lankaran International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+    "listRow": "Lankaran UBBL UB10 LLK Lankaran International Airport 38°44′47″N 048°49′04″E ﻿ / ﻿ 38.74639°N 48.81778°E ﻿ / 38.74639; 48.81778 ﻿ ( Lankaran International Airport )"
+  },
+  {
+    "id": "ap-az-10",
+    "country": "AZ",
+    "name": "Nakhchivan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+    "listRow": "Nakhchivan UBBN UB15 NAJ Nakhchivan International Airport (public / military) 39°11′19″N 045°27′30″E ﻿ / ﻿ 39.18861°N 45.45833°E ﻿ / 39.18861; 45.45833 ﻿ ( Nakhchivan International Airport )"
+  },
+  {
+    "id": "ap-az-11",
+    "country": "AZ",
+    "name": "Qabala International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+    "listRow": "Qabala (Gabala / Qəbələ) UBBQ GBB Qabala International Airport 40°49′36″N 047°42′45″E ﻿ / ﻿ 40.82667°N 47.71250°E ﻿ / 40.82667; 47.71250 ﻿ ( Gabala Airport )"
+  },
+  {
+    "id": "ap-az-12",
+    "country": "AZ",
+    "name": "Yevlakh Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+    "listRow": "Yevlakh UBEE YLV Yevlakh Airport 40°37′57″N 047°08′28″E ﻿ / ﻿ 40.63250°N 47.14111°E ﻿ / 40.63250; 47.14111 ﻿ ( Yevlakh Airport )"
+  },
+  {
+    "id": "ap-az-13",
+    "country": "AZ",
+    "name": "Zangilan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+    "listRow": "Zangilan UBBZ ZZE Zangilan International Airport 39°5′39.89″N 46°44′2.75″E ﻿ / ﻿ 39.0944139°N 46.7340972°E ﻿ / 39.0944139; 46.7340972 ﻿ ( Zangilan International Airport )"
+  },
+  {
+    "id": "ap-az-14",
+    "country": "AZ",
+    "name": "Zaqatala International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+    "listRow": "Zaqatala UBBY ZTU Zaqatala International Airport 41°33′44″N 046°40′02″E ﻿ / ﻿ 41.56222°N 46.66722°E ﻿ / 41.56222; 46.66722 ﻿ ( Zaqatala Airport )"
+  },
+  {
+    "id": "ap-kz-01",
+    "country": "KZ",
+    "name": "Aktau International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Aktau_International_Airport",
+    "listRow": "Aktau UATE SCO Aktau International Airport [ 1 ] 43°51′36″N 051°05′31″E ﻿ / ﻿ 43.86000°N 51.09194°E ﻿ / 43.86000; 51.09194 ﻿ ( Aktau International Airport )"
+  },
+  {
+    "id": "ap-kz-02",
+    "country": "KZ",
+    "name": "Aktobe International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Aktobe_International_Airport",
+    "listRow": "Aktobe UATT AKX Aktobe International Airport [ 1 ] 50°14′45″N 57°12′24″E ﻿ / ﻿ 50.24583°N 57.20667°E ﻿ / 50.24583; 57.20667 ﻿ ( Aktobe International Airport )"
+  },
+  {
+    "id": "ap-kz-03",
+    "country": "KZ",
+    "name": "Almaty International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+    "listRow": "Almaty UAAA ALA Almaty International Airport [ 1 ] 43°21′19″N 077°02′41″E ﻿ / ﻿ 43.35528°N 77.04472°E ﻿ / 43.35528; 77.04472 ﻿ ( Almaty International Airport )"
+  },
+  {
+    "id": "ap-kz-04",
+    "country": "KZ",
+    "name": "Boraldai Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Boraldai_Airport",
+    "listRow": "Almaty UAAR BXJ Boraldai Airport 43°21′06″N 076°52′57″E ﻿ / ﻿ 43.35167°N 76.88250°E ﻿ / 43.35167; 76.88250 ﻿ ( Boraldai Airport )"
+  },
+  {
+    "id": "ap-kz-05",
+    "country": "KZ",
+    "name": "Arkalyk Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+    "listRow": "Arkalyk UAUR AYK Arkalyk Airport 50°19′30″N 066°57′36″E ﻿ / ﻿ 50.32500°N 66.96000°E ﻿ / 50.32500; 66.96000 ﻿ ( Arkalyk Airport )"
+  },
+  {
+    "id": "ap-kz-06",
+    "country": "KZ",
+    "name": "Nursultan Nazarbayev International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+    "listRow": "Astana UACC NQZ Nursultan Nazarbayev International Airport [ 1 ] 51°01′19″N 071°28′01″E ﻿ / ﻿ 51.02194°N 71.46694°E ﻿ / 51.02194; 71.46694 ﻿ ( Nursultan Nazarbayev International Airport )"
+  },
+  {
+    "id": "ap-kz-07",
+    "country": "KZ",
+    "name": "Atbasar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+    "listRow": "Atbasar ATX Atbasar Airport 51°51′06″N 68°21′48″E ﻿ / ﻿ 51.85167°N 68.36333°E ﻿ / 51.85167; 68.36333 ﻿ ( Atbasar Airport )"
+  },
+  {
+    "id": "ap-kz-08",
+    "country": "KZ",
+    "name": "Atyrau Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+    "listRow": "Atyrau UATG GUW Atyrau Airport [ 1 ] 47°07′19″N 051°49′17″E ﻿ / ﻿ 47.12194°N 51.82139°E ﻿ / 47.12194; 51.82139 ﻿ ( Atyrau Airport )"
+  },
+  {
+    "id": "ap-kz-09",
+    "country": "KZ",
+    "name": "Yubileyniy Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Yubileyniy_Airport",
+    "listRow": "Baikonur UAON Yubileyniy Airport 46°03′N 63°14′E ﻿ / ﻿ 46.050°N 63.233°E ﻿ / 46.050; 63.233 ﻿ ( Yubileyniy Airport )"
+  },
+  {
+    "id": "ap-kz-10",
+    "country": "KZ",
+    "name": "Balkhash Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Balkhash_Airport",
+    "listRow": "Balkhash UAAH BXH Balkhash Airport [ 1 ] 46°53′38″N 075°00′19″E ﻿ / ﻿ 46.89389°N 75.00528°E ﻿ / 46.89389; 75.00528 ﻿ ( Balkhash Airport )"
+  },
+  {
+    "id": "ap-kz-11",
+    "country": "KZ",
+    "name": "Ekibastuz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+    "listRow": "Ekibastuz UASB EKB Ekibastuz Airport 51°35′N 075°13′E ﻿ / ﻿ 51.583°N 75.217°E ﻿ / 51.583; 75.217 ﻿ ( Ekibastuz Airport )"
+  },
+  {
+    "id": "ap-kz-12",
+    "country": "KZ",
+    "name": "Sary-Arka Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+    "listRow": "Karaganda UAKK KGF Sary-Arka Airport (Karaganda Airport) [ 1 ] 49°40′17″N 073°20′11″E ﻿ / ﻿ 49.67139°N 73.33639°E ﻿ / 49.67139; 73.33639 ﻿ ( Sary-Arka Airport )"
+  },
+  {
+    "id": "ap-kz-13",
+    "country": "KZ",
+    "name": "Kokshetau International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+    "listRow": "Kokshetau UACK KOV Kokshetau International Airport [ 1 ] 53°19′48″N 069°35′48″E ﻿ / ﻿ 53.33000°N 69.59667°E ﻿ / 53.33000; 69.59667 ﻿ ( Kokshetau International Airport )"
+  },
+  {
+    "id": "ap-kz-14",
+    "country": "KZ",
+    "name": "Kostanay Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kostanay_Airport",
+    "listRow": "Kostanay UAUU KSN Kostanay Airport [ 1 ] 53°12′25″N 063°33′01″E ﻿ / ﻿ 53.20694°N 63.55028°E ﻿ / 53.20694; 63.55028 ﻿ ( Kostanay Airport )"
+  },
+  {
+    "id": "ap-kz-15",
+    "country": "KZ",
+    "name": "Tengiz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tengiz_Airport?action=edit&redlink=1",
+    "listRow": "Kulsary UATZ Tengiz Airport [ 2 ] 46°18.12′N 53°25.65′E ﻿ / ﻿ 46.30200°N 53.42750°E ﻿ / 46.30200; 53.42750 ﻿ ( Tengiz Airport )"
+  },
+  {
+    "id": "ap-kz-16",
+    "country": "KZ",
+    "name": "Kyzylorda Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kyzylorda_Airport",
+    "listRow": "Kyzylorda UAOO KZO Kyzylorda Airport [ 1 ] 44°42′25″N 065°35′33″E ﻿ / ﻿ 44.70694°N 65.59250°E ﻿ / 44.70694; 65.59250 ﻿ ( Kyzylorda Airport )"
+  },
+  {
+    "id": "ap-kz-17",
+    "country": "KZ",
+    "name": "Oral Ak Zhol Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+    "listRow": "Oral UARR URA Oral Ak Zhol Airport (Uralsk Airport) [ 1 ] 51°09′03″N 051°32′35″E ﻿ / ﻿ 51.15083°N 51.54306°E ﻿ / 51.15083; 51.54306 ﻿ ( Oral Ak Zhol Airport )"
+  },
+  {
+    "id": "ap-kz-18",
+    "country": "KZ",
+    "name": "Oskemen Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+    "listRow": "Oskemen UASK UKK Oskemen Airport (Ust-Kamenogorsk Airport) [ 1 ] 50°02′10″N 082°29′39″E ﻿ / ﻿ 50.03611°N 82.49417°E ﻿ / 50.03611; 82.49417 ﻿ ( Oskemen Airport )"
+  },
+  {
+    "id": "ap-kz-19",
+    "country": "KZ",
+    "name": "Pavlodar Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+    "listRow": "Pavlodar UASP PWQ Pavlodar Airport [ 1 ] 52°11′42″N 077°04′26″E ﻿ / ﻿ 52.19500°N 77.07389°E ﻿ / 52.19500; 77.07389 ﻿ ( Pavlodar Airport )"
+  },
+  {
+    "id": "ap-kz-20",
+    "country": "KZ",
+    "name": "Petropavl Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+    "listRow": "Petropavl UACP PPK Petropavl Airport (Petropavlovsk Airport) [ 1 ] 54°46′28″N 069°11′06″E ﻿ / ﻿ 54.77444°N 69.18500°E ﻿ / 54.77444; 69.18500 ﻿ ( Petropavl Airport )"
+  },
+  {
+    "id": "ap-kz-21",
+    "country": "KZ",
+    "name": "Semey Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Semey_Airport",
+    "listRow": "Semey UASS PLX Semey Airport (Semipalatinsk Airport) [ 1 ] 50°21′05″N 080°14′04″E ﻿ / ﻿ 50.35139°N 80.23444°E ﻿ / 50.35139; 80.23444 ﻿ ( Semey Airport )"
+  },
+  {
+    "id": "ap-kz-22",
+    "country": "KZ",
+    "name": "Shymkent International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+    "listRow": "Shymkent UAII CIT Shymkent International Airport [ 1 ] 42°21′54″N 069°28′34″E ﻿ / ﻿ 42.36500°N 69.47611°E ﻿ / 42.36500; 69.47611 ﻿ ( Shymkent International Airport )"
+  },
+  {
+    "id": "ap-kz-23",
+    "country": "KZ",
+    "name": "Taldykorgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+    "listRow": "Taldykorgan UAAT TDK Taldykorgan Airport [ 1 ] 45°07′21″N 078°26′34″E ﻿ / ﻿ 45.12250°N 78.44278°E ﻿ / 45.12250; 78.44278 ﻿ ( Taldykorgan Airport )"
+  },
+  {
+    "id": "ap-kz-24",
+    "country": "KZ",
+    "name": "Taraz Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Taraz_Airport",
+    "listRow": "Taraz UADD DMB Taraz Airport [ 1 ] 42°51′13″N 071°18′13″E ﻿ / ﻿ 42.85361°N 71.30361°E ﻿ / 42.85361; 71.30361 ﻿ ( Taraz Airport )"
+  },
+  {
+    "id": "ap-kz-25",
+    "country": "KZ",
+    "name": "Hazrat Sultan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Hazrat_Sultan_International_Airport",
+    "listRow": "Turkistan UAIT HSA Hazrat Sultan International Airport 43°18′40″N 068°33′01″E ﻿ / ﻿ 43.31111°N 68.55028°E ﻿ / 43.31111; 68.55028 ﻿ ( Hazrat Sultan International Airport )"
+  },
+  {
+    "id": "ap-kz-26",
+    "country": "KZ",
+    "name": "Usharal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Usharal_Airport",
+    "listRow": "Usharal UAAL USJ Usharal Airport 46°11′25″N 080°49′53″E ﻿ / ﻿ 46.19028°N 80.83139°E ﻿ / 46.19028; 80.83139 ﻿ ( Usharal Airport )"
+  },
+  {
+    "id": "ap-kz-27",
+    "country": "KZ",
+    "name": "Ush Tobe Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ush_Tobe_Airport?action=edit&redlink=1",
+    "listRow": "Vostochny Ush Tobe Airport 50°33′13″N 66°38′57″E ﻿ / ﻿ 50.55361°N 66.64917°E ﻿ / 50.55361; 66.64917 ﻿ ( Ush Tobe Airport )"
+  },
+  {
+    "id": "ap-kz-28",
+    "country": "KZ",
+    "name": "Zaysan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+    "listRow": "Zaysan UASZ SZI Zaysan Airport 47°29′13″N 084°53′17″E ﻿ / ﻿ 47.48694°N 84.88806°E ﻿ / 47.48694; 84.88806 ﻿ ( Zaysan Airport )"
+  },
+  {
+    "id": "ap-kz-29",
+    "country": "KZ",
+    "name": "Zhezkazgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zhezkazgan_Airport",
+    "listRow": "Zhezkazgan UAKD DZN Zhezkazgan Airport [ 1 ] 47°42′32″N 067°44′21″E ﻿ / ﻿ 47.70889°N 67.73917°E ﻿ / 47.70889; 67.73917 ﻿ ( Zhezkazgan Airport )"
+  },
+  {
+    "id": "ap-kg-01",
+    "country": "KG",
+    "name": "Manas International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+    "listRow": "Bishkek Chüy UCFM BSZ БИШ Manas International Airport 43°03′40″N 074°28′39″E ﻿ / ﻿ 43.06111°N 74.47750°E ﻿ / 43.06111; 74.47750 ﻿ ( Manas International Airport )"
+  },
+  {
+    "id": "ap-kg-02",
+    "country": "KG",
+    "name": "Osh Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Osh_Airport",
+    "listRow": "Osh Osh UCFO OSS ОШШ Osh Airport 40°36′32″N 072°47′35″E ﻿ / ﻿ 40.60889°N 72.79306°E ﻿ / 40.60889; 72.79306 ﻿ ( Osh Airport )"
+  },
+  {
+    "id": "ap-kg-03",
+    "country": "KG",
+    "name": "Jalal-Abad Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+    "listRow": "Jalal-Abad Jalal-Abad UAFJ JBD ДЖБ Jalal-Abad Airport 40°56′39″N 072°58′40″E ﻿ / ﻿ 40.94417°N 72.97778°E ﻿ / 40.94417; 72.97778 ﻿ ( Jalal-Abad Airport )"
+  },
+  {
+    "id": "ap-kg-04",
+    "country": "KG",
+    "name": "Kazarman Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+    "listRow": "Kazarman Jalal-Abad UAFZ - КЗМ Kazarman Airport 41°24′37″N 074°02′39″E ﻿ / ﻿ 41.41028°N 74.04417°E ﻿ / 41.41028; 74.04417 ﻿ ( Kazarman Airport )"
+  },
+  {
+    "id": "ap-kg-05",
+    "country": "KG",
+    "name": "Kerben Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kerben_Airport",
+    "listRow": "Kerben Jalal-Abad UAFE - КРФ Kerben Airport 41°29′04″N 071°44′01″E ﻿ / ﻿ 41.48444°N 71.73361°E ﻿ / 41.48444; 71.73361 ﻿ ( Kerben Airport )"
+  },
+  {
+    "id": "ap-kg-06",
+    "country": "KG",
+    "name": "Toktogul Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+    "listRow": "Toktogul Jalal-Abad UAFX - ТГЛ Toktogul Airport 41°52′40″N 072°51′44″E ﻿ / ﻿ 41.87778°N 72.86222°E ﻿ / 41.87778; 72.86222 ﻿ ( Toktogul Airport )"
+  },
+  {
+    "id": "ap-kg-07",
+    "country": "KG",
+    "name": "Kanysh-Kiya Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+    "listRow": "Kanysh-Kyya Jalal-Abad - - КШЯ Kanysh-Kiya Airport 41°45′19″N 071°03′02″E ﻿ / ﻿ 41.75528°N 71.05056°E ﻿ / 41.75528; 71.05056 ﻿ ( Kanysh-Kiya Airport )"
+  },
+  {
+    "id": "ap-kg-08",
+    "country": "KG",
+    "name": "Batken Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Batken_Airport",
+    "listRow": "Batken Batken UAFB - БАТ Batken Airport 40°02′33″N 070°50′17″E ﻿ / ﻿ 40.04250°N 70.83806°E ﻿ / 40.04250; 70.83806 ﻿ ( Batken Airport )"
+  },
+  {
+    "id": "ap-kg-09",
+    "country": "KG",
+    "name": "Razzakov Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+    "listRow": "Razzakov Batken UAFI - ИФА Razzakov Airport 39°49′29″N 069°34′07″E ﻿ / ﻿ 39.82472°N 69.56861°E ﻿ / 39.82472; 69.56861 ﻿ ( Isfana Airport )"
+  },
+  {
+    "id": "ap-kg-10",
+    "country": "KG",
+    "name": "Kyzyl-Kiya Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+    "listRow": "Kyzyl-Kyya Batken UAFS - КЫК Kyzyl-Kiya Airport 40°16′18″N 072°02′49″E ﻿ / ﻿ 40.27167°N 72.04694°E ﻿ / 40.27167; 72.04694 ﻿ ( Kyzyl-Kiya Airport )"
+  },
+  {
+    "id": "ap-kg-11",
+    "country": "KG",
+    "name": "Naryn Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Naryn_Airport",
+    "listRow": "Naryn Naryn UCFN - НЫН Naryn Airport 41°26′29″N 076°07′50″E ﻿ / ﻿ 41.44139°N 76.13056°E ﻿ / 41.44139; 76.13056 ﻿ ( Naryn Airport )"
+  },
+  {
+    "id": "ap-kg-12",
+    "country": "KG",
+    "name": "Talas Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Talas_Airport",
+    "listRow": "Talas Talas UAFT - ТЛС Talas Airport 42°30′21″N 072°15′47″E ﻿ / ﻿ 42.50583°N 72.26306°E ﻿ / 42.50583; 72.26306 ﻿ ( Talas Airport )"
+  },
+  {
+    "id": "ap-kg-13",
+    "country": "KG",
+    "name": "Issyk-Kul International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+    "listRow": "Tamchy Issyk-Kul UCFL IKL ИКУ Issyk-Kul International Airport 42°35′18″N 076°42′48″E ﻿ / ﻿ 42.58833°N 76.71333°E ﻿ / 42.58833; 76.71333 ﻿ ( Tamchy Airport )"
+  },
+  {
+    "id": "ap-kg-14",
+    "country": "KG",
+    "name": "Karakol International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+    "listRow": "Karakol Issyk-Kul UCFP IKG КПЖ Karakol International Airport 42°30′29″N 078°24′28″E ﻿ / ﻿ 42.50806°N 78.40778°E ﻿ / 42.50806; 78.40778 ﻿ ( Karakol International Airport )"
+  },
+  {
+    "id": "ap-kg-15",
+    "country": "KG",
+    "name": "Cholpon-Ata Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+    "listRow": "Cholpon-Ata Issyk-Kul UAFG - ЧЛА Cholpon-Ata Airport 42°39′13″N 077°03′24″E ﻿ / ﻿ 42.65361°N 77.05667°E ﻿ / 42.65361; 77.05667 ﻿ ( Cholpon-Ata Airport )"
+  },
+  {
+    "id": "ap-kg-16",
+    "country": "KG",
+    "name": "Tamga Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tamga_Airport",
+    "listRow": "Tamga Issyk-Kul UAFA - ТМГ Tamga Airport 42°09′11″N 077°33′50″E ﻿ / ﻿ 42.15306°N 77.56389°E ﻿ / 42.15306; 77.56389 ﻿ ( Tamga Airport )"
+  },
+  {
+    "id": "ap-kg-17",
+    "country": "KG",
+    "name": "Tokmok Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+    "listRow": "Tokmok Chüy UAFF - ТКМ Tokmok Airport 42°49′44″N 075°20′09″E ﻿ / ﻿ 42.82889°N 75.33583°E ﻿ / 42.82889; 75.33583 ﻿ ( Tokmok Airport )"
+  },
+  {
+    "id": "ap-uz-01",
+    "country": "UZ",
+    "name": "Andizhan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+    "listRow": "Andijan UZFA AZN Andizhan Airport Public 40°43′40″N 072°17′38″E ﻿ / ﻿ 40.72778°N 72.29389°E ﻿ / 40.72778; 72.29389 ﻿ ( Andizhan Airport )"
+  },
+  {
+    "id": "ap-uz-02",
+    "country": "UZ",
+    "name": "Bukhara International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+    "listRow": "Bukhara UZSB BHK Bukhara International Airport Public 39°46′30″N 064°29′00″E ﻿ / ﻿ 39.77500°N 64.48333°E ﻿ / 39.77500; 64.48333 ﻿ ( Bukhara International Airport )"
+  },
+  {
+    "id": "ap-uz-03",
+    "country": "UZ",
+    "name": "Fergana International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+    "listRow": "Fergana UZFF FEG Fergana International Airport Public 40°21′32″N 071°44′42″E ﻿ / ﻿ 40.35889°N 71.74500°E ﻿ / 40.35889; 71.74500 ﻿ ( Fergana International Airport )"
+  },
+  {
+    "id": "ap-uz-04",
+    "country": "UZ",
+    "name": "Zomin Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zomin_Airport",
+    "listRow": "Zomin UZTZ OMN Zomin Airport Public 39°58′11″N 068°32′35″E ﻿ / ﻿ 39.96972°N 68.54306°E ﻿ / 39.96972; 68.54306 ﻿ ( Zomin Airpor )"
+  },
+  {
+    "id": "ap-uz-05",
+    "country": "UZ",
+    "name": "Muynak Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Muynak_Airport",
+    "listRow": "Moynaq UZNM MOK Muynak Airport Public 43°45′19″N 059°01′51″E ﻿ / ﻿ 43.75528°N 59.03083°E ﻿ / 43.75528; 59.03083 ﻿ ( Muynak Airport )"
+  },
+  {
+    "id": "ap-uz-06",
+    "country": "UZ",
+    "name": "Nukus Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Nukus_Airport",
+    "listRow": "Nukus UZNN NCU Nukus Airport Public 42°29′18″N 059°37′23″E ﻿ / ﻿ 42.48833°N 59.62306°E ﻿ / 42.48833; 59.62306 ﻿ ( Nukus Airport )"
+  },
+  {
+    "id": "ap-uz-07",
+    "country": "UZ",
+    "name": "Urgench International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+    "listRow": "Urgench UZNU UGC Urgench International Airport Public 41°35′03″N 060°38′30″E ﻿ / ﻿ 41.58417°N 60.64167°E ﻿ / 41.58417; 60.64167 ﻿ ( Urgench International Airport )"
+  },
+  {
+    "id": "ap-uz-08",
+    "country": "UZ",
+    "name": "Namangan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Namangan_Airport",
+    "listRow": "Namangan UZFN NMA Namangan Airport Public 40°59′04″N 071°33′24″E ﻿ / ﻿ 40.98444°N 71.55667°E ﻿ / 40.98444; 71.55667 ﻿ ( Namangan Airport )"
+  },
+  {
+    "id": "ap-uz-09",
+    "country": "UZ",
+    "name": "Navoiy International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+    "listRow": "Navoiy UZSA NVI Navoiy International Airport Public 40°07′04″N 065°10′30″E ﻿ / ﻿ 40.11778°N 65.17500°E ﻿ / 40.11778; 65.17500 ﻿ ( Navoiy International Airport )"
+  },
+  {
+    "id": "ap-uz-10",
+    "country": "UZ",
+    "name": "Zarafshan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+    "listRow": "Zarafshan UZSN AFS Zarafshan Airport Public 41°36′49″N 064°13′58″E ﻿ / ﻿ 41.61361°N 64.23278°E ﻿ / 41.61361; 64.23278 ﻿ ( Zarafshan Airport )"
+  },
+  {
+    "id": "ap-uz-11",
+    "country": "UZ",
+    "name": "Karshi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Karshi_Airport",
+    "listRow": "Qarshi UZSK KSQ Karshi Airport Public 38°48′14″N 065°46′14″E ﻿ / ﻿ 38.80389°N 65.77056°E ﻿ / 38.80389; 65.77056 ﻿ ( Karshi Airport )"
+  },
+  {
+    "id": "ap-uz-12",
+    "country": "UZ",
+    "name": "Samarkand International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+    "listRow": "Samarkand UZSS SKD Samarkand International Airport Public 39°42′02″N 066°59′02″E ﻿ / ﻿ 39.70056°N 66.98389°E ﻿ / 39.70056; 66.98389 ﻿ ( Samarkand Airport )"
+  },
+  {
+    "id": "ap-uz-13",
+    "country": "UZ",
+    "name": "Termez Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Termez_Airport",
+    "listRow": "Termez UZST TMJ Termez Airport Public 37°17′12″N 067°18′36″E ﻿ / ﻿ 37.28667°N 67.31000°E ﻿ / 37.28667; 67.31000 ﻿ ( Termez Airport )"
+  },
+  {
+    "id": "ap-uz-14",
+    "country": "UZ",
+    "name": "Tashkent International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+    "listRow": "Tashkent UZTT TAS Tashkent International Airport Public 41°15′28″N 069°16′52″E ﻿ / ﻿ 41.25778°N 69.28111°E ﻿ / 41.25778; 69.28111 ﻿ ( Tashkent International Airport )"
+  },
+  {
+    "id": "ap-uz-15",
+    "country": "UZ",
+    "name": "Tashkent-Humo Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+    "listRow": "Tashkent UZTP TVT Tashkent-Humo Airport Private 41°18′37″N 069°23′33″E ﻿ / ﻿ 41.31028°N 69.39250°E ﻿ / 41.31028; 69.39250 ﻿ ( New Tashkent Airport )"
+  },
+  {
+    "id": "ap-tj-01",
+    "country": "TJ",
+    "name": "Ayni Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ayni_Airport",
+    "listRow": "Ayni Sughd Ayni Airport 39°24′14″N 068°31′26″E ﻿ / ﻿ 39.40389°N 68.52389°E ﻿ / 39.40389; 68.52389 ﻿ ( Ayni Airport )"
+  },
+  {
+    "id": "ap-tj-02",
+    "country": "TJ",
+    "name": "Dushanbe International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+    "listRow": "Dushanbe RRP UTDD DYU Dushanbe International Airport 38°32′36″N 068°49′30″E ﻿ / ﻿ 38.54333°N 68.82500°E ﻿ / 38.54333; 68.82500 ﻿ ( Dushanbe International Airport )"
+  },
+  {
+    "id": "ap-tj-03",
+    "country": "TJ",
+    "name": "Garm Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+    "listRow": "Garm (Gharm) RRP Garm Airport 39°00′14″N 070°17′29″E ﻿ / ﻿ 39.00389°N 70.29139°E ﻿ / 39.00389; 70.29139 ﻿ ( Garm Airport )"
+  },
+  {
+    "id": "ap-tj-04",
+    "country": "TJ",
+    "name": "Isfara Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Isfara_Airport",
+    "listRow": "Isfara Sughd Isfara Airport 40°07′18″N 070°39′55″E ﻿ / ﻿ 40.12167°N 70.66528°E ﻿ / 40.12167; 70.66528 ﻿ ( Isfara Airport )"
+  },
+  {
+    "id": "ap-tj-05",
+    "country": "TJ",
+    "name": "Khorog Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khorog_Airport",
+    "listRow": "Khorog (Khorugh) GBAO UTOD Khorog Airport 37°30′08″N 071°30′48″E ﻿ / ﻿ 37.50222°N 71.51333°E ﻿ / 37.50222; 71.51333 ﻿ ( Khorog Airport )"
+  },
+  {
+    "id": "ap-tj-06",
+    "country": "TJ",
+    "name": "Khujand Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khujand_Airport",
+    "listRow": "Khujand Sughd UTDL LBD Khujand Airport 40°12′55″N 069°41′40″E ﻿ / ﻿ 40.21528°N 69.69444°E ﻿ / 40.21528; 69.69444 ﻿ ( Khudzhand Airport )"
+  },
+  {
+    "id": "ap-tj-07",
+    "country": "TJ",
+    "name": "Kulob Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kulob_Airport",
+    "listRow": "Kulob (Kulyab) Khatlon UTDK TJU Kulob Airport 37°59′00″N 069°48′00″E ﻿ / ﻿ 37.98333°N 69.80000°E ﻿ / 37.98333; 69.80000 ﻿ ( Kulob Airport )"
+  },
+  {
+    "id": "ap-tj-08",
+    "country": "TJ",
+    "name": "Murgab Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+    "listRow": "Murgab (Murghab) GBAO Murgab Airport 38°11′25″N 074°01′29″E ﻿ / ﻿ 38.19028°N 74.02472°E ﻿ / 38.19028; 74.02472 ﻿ ( Murgab Airport )"
+  },
+  {
+    "id": "ap-tj-09",
+    "country": "TJ",
+    "name": "Penjikent Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+    "listRow": "Penjikent (Panjakent) Sughd Penjikent Airport 39°29′02″N 067°36′12″E ﻿ / ﻿ 39.48389°N 67.60333°E ﻿ / 39.48389; 67.60333 ﻿ ( Penjikent Airport )"
+  },
+  {
+    "id": "ap-tj-10",
+    "country": "TJ",
+    "name": "Bokhtar International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+    "listRow": "Bokhtar Khatlon UTDT KQT Bokhtar International Airport 37°51′44″N 068°51′46″E ﻿ / ﻿ 37.86222°N 68.86278°E ﻿ / 37.86222; 68.86278 ﻿ ( Qurghonteppa International Airport )"
+  },
+  {
+    "id": "ap-tm-01",
+    "country": "TM",
+    "name": "Ashgabat International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+    "listRow": "Ashgabat UTAA ASB Ashgabat International Airport 37°59′13″N 058°21′39″E ﻿ / ﻿ 37.98694°N 58.36083°E ﻿ / 37.98694; 58.36083 ﻿ ( Ashgabat Airport )"
+  },
+  {
+    "id": "ap-tm-02",
+    "country": "TM",
+    "name": "Balkanabat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+    "listRow": "Balkanabat UT1H BKN Balkanabat Airport 39°28′53″N 54°21′46″E ﻿ / ﻿ 39.48139°N 54.36278°E ﻿ / 39.48139; 54.36278 ﻿ ( Balkanabat Airport )"
+  },
+  {
+    "id": "ap-tm-03",
+    "country": "TM",
+    "name": "Dashoguz International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Daşoguz_International_Airport",
+    "listRow": "Dashoguz UTAT TAZ Dashoguz International Airport 41°45′53″N 59°49′59″E ﻿ / ﻿ 41.76472°N 59.83306°E ﻿ / 41.76472; 59.83306 ﻿ ( Dashoguz Airport )"
+  },
+  {
+    "id": "ap-tm-04",
+    "country": "TM",
+    "name": "Kerki International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kerki_International_Airport",
+    "listRow": "Kerki UTAE [ 1 ] KEA [ 2 ] Kerki International Airport 37°49′20″N 065°08′17″E ﻿ / ﻿ 37.82222°N 65.13806°E ﻿ / 37.82222; 65.13806 ﻿ ( Kerkiçi Airport )"
+  },
+  {
+    "id": "ap-tm-05",
+    "country": "TM",
+    "name": "Mary International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+    "listRow": "Mary UTAM MYP Mary International Airport 37°36′24″N 61°54′05″E ﻿ / ﻿ 37.60667°N 61.90139°E ﻿ / 37.60667; 61.90139 ﻿ ( Mary Airport )"
+  },
+  {
+    "id": "ap-tm-06",
+    "country": "TM",
+    "name": "Turkmenbashi International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+    "listRow": "Turkmenbashy UTAK KRW Turkmenbashi International Airport 40°03′48″N 053°00′26″E ﻿ / ﻿ 40.06333°N 53.00722°E ﻿ / 40.06333; 53.00722 ﻿ ( Turkmenbashi Airport )"
+  },
+  {
+    "id": "ap-tm-07",
+    "country": "TM",
+    "name": "Turkmenabat International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Turkmenabat_International_Airport",
+    "listRow": "Turkmenabat UTAV CRZ Turkmenabat International Airport 39°05′00″N 063°36′08″E ﻿ / ﻿ 39.08333°N 63.60222°E ﻿ / 39.08333; 63.60222 ﻿ ( Turkmenabat Airport )"
+  },
+  {
+    "id": "ap-tm-08",
+    "country": "TM",
+    "name": "Balkanabat International",
+    "wiki": "https://en.wikipedia.org/wiki/Jebel_Airport",
+    "listRow": "Jebel UTAN BKN Balkanabat International [ 3 ] 39°40′42″N 054°12′28″E ﻿ / ﻿ 39.67833°N 54.20778°E ﻿ / 39.67833; 54.20778 ﻿ ( Jebel Airport )"
+  },
+  {
+    "id": "ap-by-01",
+    "country": "BY",
+    "name": "Brest Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Brest_Airport",
+    "listRow": "Brest Brest Region UMBB BQT Brest Airport 52°06′30″N 023°53′53″E ﻿ / ﻿ 52.10833°N 23.89806°E ﻿ / 52.10833; 23.89806 ﻿ ( Brest Airport )"
+  },
+  {
+    "id": "ap-by-02",
+    "country": "BY",
+    "name": "Gomel Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Gomel_Airport",
+    "listRow": "Gomel (Homiel) Gomel Region UMGG GME Gomel Airport 52°31′37″N 031°01′00″E ﻿ / ﻿ 52.52694°N 31.01667°E ﻿ / 52.52694; 31.01667 ﻿ ( Gomel Airport )"
+  },
+  {
+    "id": "ap-by-03",
+    "country": "BY",
+    "name": "Grodno (Hrodna) Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Hrodna_Airport",
+    "listRow": "Grodno (Hrodna) Grodno Region UMMG GNA Grodno (Hrodna) Airport 53°36′07″N 024°03′13″E ﻿ / ﻿ 53.60194°N 24.05361°E ﻿ / 53.60194; 24.05361 ﻿ ( Hrodna Airport )"
+  },
+  {
+    "id": "ap-by-04",
+    "country": "BY",
+    "name": "Minsk National Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+    "listRow": "Minsk Minsk Region UMMS MSQ Minsk National Airport (Minsk-2) 53°52′56″N 028°01′50″E ﻿ / ﻿ 53.88222°N 28.03056°E ﻿ / 53.88222; 28.03056 ﻿ ( Minsk National Airport (Minsk-2) )"
+  },
+  {
+    "id": "ap-by-05",
+    "country": "BY",
+    "name": "Mogilev Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+    "listRow": "Mogilev (Mahilyow) Mogilev Region UMOO MVQ Mogilev Airport 53°57′17″N 030°05′42″E ﻿ / ﻿ 53.95472°N 30.09500°E ﻿ / 53.95472; 30.09500 ﻿ ( Mogilev Airport )"
+  },
+  {
+    "id": "ap-by-06",
+    "country": "BY",
+    "name": "Polotsk Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+    "listRow": "Polotsk (Polatsk) Vitebsk Region Polotsk Airport 55°24′42″N 028°44′54″E ﻿ / ﻿ 55.41167°N 28.74833°E ﻿ / 55.41167; 28.74833 ﻿ ( Polotsk Airport )"
+  },
+  {
+    "id": "ap-by-07",
+    "country": "BY",
+    "name": "Vitebsk Vostochny Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+    "listRow": "Vitebsk Vitebsk Region UMII VTB Vitebsk Vostochny Airport 55°07′35″N 030°20′58″E ﻿ / ﻿ 55.12639°N 30.34944°E ﻿ / 55.12639; 30.34944 ﻿ ( Vitebsk Vostochny Airport )"
+  },
+  {
+    "id": "ap-by-08",
+    "country": "BY",
+    "name": "Minsk-1 Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+    "listRow": "Minsk Minsk Region UMMM MHP Minsk-1 Airport 53°51′52″N 027°32′22″E ﻿ / ﻿ 53.86444°N 27.53944°E ﻿ / 53.86444; 27.53944 ﻿ ( Minsk-1 Airport )"
+  },
+  {
+    "id": "ap-mn-01",
+    "country": "MN",
+    "name": "Altai Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Altai_Airport",
+    "listRow": "Altai Airport Altai Domestic Govi-Altai ZMAT LTI 10/28: 2290m x 60m, grass 46°22′33″N 096°13′09″E ﻿ / ﻿ 46.37583°N 96.21917°E ﻿ / 46.37583; 96.21917 ﻿ ( ZMAT )"
+  },
+  {
+    "id": "ap-mn-02",
+    "country": "MN",
+    "name": "Arvaikheer Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Arvaikheer_Airport",
+    "listRow": "Arvaikheer Airport Arvaikheer Domestic Övörhkangai ZMAH AVK 14/32: 2300m x 50m, grass 46°15′09″N 102°47′57″E ﻿ / ﻿ 46.25250°N 102.79917°E ﻿ / 46.25250; 102.79917 ﻿ ( ZMAH )"
+  },
+  {
+    "id": "ap-mn-03",
+    "country": "MN",
+    "name": "Baruun-Urt Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Baruun-Urt_Airport",
+    "listRow": "Baruun-Urt Airport Baruun-Urt Domestic Sükhbaatar ZMBU UUN 18/36: 2200m x 50m, grass 46°39′37″N 113°17′07″E ﻿ / ﻿ 46.66028°N 113.28528°E ﻿ / 46.66028; 113.28528 ﻿ ( ZMBU )"
+  },
+  {
+    "id": "ap-mn-04",
+    "country": "MN",
+    "name": "Baruunturuun Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+    "listRow": "Baruunturuun Airport Baruunturuun Domestic Uvs 01/19: 2200m x 50m, grass 49°40′20.64″N 94°22′21″E ﻿ / ﻿ 49.6724000°N 94.37250°E ﻿ / 49.6724000; 94.37250 ﻿ ( Baruunturuun )"
+  },
+  {
+    "id": "ap-mn-05",
+    "country": "MN",
+    "name": "Bayankhongor Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bayankhongor_Airport",
+    "listRow": "Bayankhongor Airport Bayankhongor Domestic Bayankhongor ZMBH BYN 16L/34R: 2800m x 35m, asphalt/concrete 16R/34L: 2100m x 50m, grass 46°10′14″N 100°42′00″E ﻿ / ﻿ 46.17056°N 100.70000°E ﻿ / 46.17056; 100.70000 ﻿ ( ZMBH )"
+  },
+  {
+    "id": "ap-mn-06",
+    "country": "MN",
+    "name": "Bulgan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Bulgan_Airport",
+    "listRow": "Bulgan Airport Bulgan Domestic Bulgan ZMBN UGA 13/31: 1900m x 50m, grass 48°51′15″N 103°29′03″E ﻿ / ﻿ 48.85417°N 103.48417°E ﻿ / 48.85417; 103.48417 ﻿ ( ZMBN )"
+  },
+  {
+    "id": "ap-mn-07",
+    "country": "MN",
+    "name": "Bulgan Airport, Khovd",
+    "wiki": "https://en.wikipedia.org/wiki/Bulgan_Airport,_Khovd",
+    "listRow": "Bulgan Airport, Khovd Bulgan, Khovd Domestic Khovd ZMBS HBU 17/35: 1800m x 40m, grass 46°06′06″N 091°34′55″E ﻿ / ﻿ 46.10167°N 91.58194°E ﻿ / 46.10167; 91.58194 ﻿ ( ZMBS )"
+  },
+  {
+    "id": "ap-mn-08",
+    "country": "MN",
+    "name": "Buyant-Ukhaa International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+    "listRow": "Buyant-Ukhaa International Airport (formerly Chingis Khaan International Airport) Ulaanbaatar International (capital) ZMUB ULN 14/32: 3100m x 60m, asphalt 15/33: 2000m x 40m, grass 47°50′35″N 106°45′59″E ﻿ / ﻿ 47.84306°N 106.76639°E ﻿ / 47.84306; 106.76639 ﻿ ( ZMUB )"
+  },
+  {
+    "id": "ap-mn-09",
+    "country": "MN",
+    "name": "Chinggis Khaan International Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+    "listRow": "Chinggis Khaan International Airport Ulaanbaatar International Töv ZMCK UBN 3600 m x 45 m, concrete 47°39′00″N 106°49′08″E ﻿ / ﻿ 47.65000°N 106.81889°E ﻿ / 47.65000; 106.81889 ﻿ ( ZMCK )"
+  },
+  {
+    "id": "ap-mn-10",
+    "country": "MN",
+    "name": "Choibalsan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+    "listRow": "Choibalsan Airport Choibalsan Domestic Dornod ZMCD COQ 12/30: 2600m x 40m, concrete 48°08′08″N 114°38′46″E ﻿ / ﻿ 48.13556°N 114.64611°E ﻿ / 48.13556; 114.64611 ﻿ ( ZMCD )"
+  },
+  {
+    "id": "ap-mn-11",
+    "country": "MN",
+    "name": "Dadal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dadal_Airport",
+    "listRow": "Dadal Airport Dadal Domestic Khentii ZMDA 14/32: 1600m x 40m, unpaved 49°00′54″N 111°30′28″E ﻿ / ﻿ 49.01500°N 111.50778°E ﻿ / 49.01500; 111.50778 ﻿ ( ZMDA )"
+  },
+  {
+    "id": "ap-mn-12",
+    "country": "MN",
+    "name": "Dalanzadgad Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+    "listRow": "Dalanzadgad Airport Dalanzadgad Domestic Ömnögovi ZMDZ DLZ 03/21: 2300m x 50m, concrete 43°36′31″N 104°22′01″E ﻿ / ﻿ 43.60861°N 104.36694°E ﻿ / 43.60861; 104.36694 ﻿ ( ZMDZ )"
+  },
+  {
+    "id": "ap-mn-13",
+    "country": "MN",
+    "name": "Donoi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Donoi_Airport",
+    "listRow": "Donoi Airport Uliastai Domestic Zavkhan ZMDN ULZ 03/21: 2300m x 50m, concrete 47°42′46″N 96°31′27″E ﻿ / ﻿ 47.71278°N 96.52417°E ﻿ / 47.71278; 96.52417 ﻿ ( ZMDN )"
+  },
+  {
+    "id": "ap-mn-14",
+    "country": "MN",
+    "name": "Khanbumbat Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+    "listRow": "Khanbumbat Airport Oyuu Tolgoi Domestic Ömnögovi ZMKB n.a. 15/33: 3250m x 45m, concrete 43°08′05″N 106°50′47″E ﻿ / ﻿ 43.13472°N 106.84639°E ﻿ / 43.13472; 106.84639 ﻿ ( ZMKB )"
+  },
+  {
+    "id": "ap-mn-15",
+    "country": "MN",
+    "name": "Kharkhorin Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Kharkhorin_Airport",
+    "listRow": "Kharkhorin Airport Kharkhorin Domestic Övörkhangai ZMHH KHR 01/19: 1800x x 50m, grass 47°14′48″N 102°49′34″E ﻿ / ﻿ 47.24667°N 102.82611°E ﻿ / 47.24667; 102.82611 ﻿ ( ZMHH )"
+  },
+  {
+    "id": "ap-mn-16",
+    "country": "MN",
+    "name": "Khatgal Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+    "listRow": "Khatgal Airport Khatgal Domestic Khövsgöl ZMHG HTM 15/33: 2400m x 30m, unpaved 50°26′33.72″N 100°07′56.28″E ﻿ / ﻿ 50.4427000°N 100.1323000°E ﻿ / 50.4427000; 100.1323000 ﻿ ( ZMHG )"
+  },
+  {
+    "id": "ap-mn-17",
+    "country": "MN",
+    "name": "Khovd Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khovd_Airport",
+    "listRow": "Khovd Airport Khovd Domestic Khovd ZMKD HVD 16L/34R: 2850m x 49m, asphalt/concrete 16R/34L: 2000m x 50m, grass 47°57′41″N 91°37′33″E ﻿ / ﻿ 47.96139°N 91.62583°E ﻿ / 47.96139; 91.62583 ﻿ ( ZMKD )"
+  },
+  {
+    "id": "ap-mn-18",
+    "country": "MN",
+    "name": "Khujirt Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+    "listRow": "Khujirt Airport Khujirt Domestic Övörkhangai ZMHU HJT 09/27: 2200m x 60m, grass 46°55′31″N 102°46′29″E ﻿ / ﻿ 46.92528°N 102.77472°E ﻿ / 46.92528; 102.77472 ﻿ ( ZMHU )"
+  },
+  {
+    "id": "ap-mn-19",
+    "country": "MN",
+    "name": "Mörön Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Mörön_Airport",
+    "listRow": "Mörön Airport Mörön International [ 1 ] Khövsgöl ZMMN MXV 10L/28R: 2440m x 42m, asphalt/concrete 10R/28L: 2000m x 40m, gravel 49°39′47″N 100°05′57″E ﻿ / ﻿ 49.66306°N 100.09917°E ﻿ / 49.66306; 100.09917 ﻿ ( ZMMN )"
+  },
+  {
+    "id": "ap-mn-20",
+    "country": "MN",
+    "name": "Ölgii Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+    "listRow": "Ölgii Airport Ölgii International [ 2 ] [ 3 ] Bayan-Ölgii ZMUL ULG 13/31: 2850m x 30m, concrete 48°59′40″N 89°55′11″E ﻿ / ﻿ 48.99444°N 89.91972°E ﻿ / 48.99444; 89.91972 ﻿ ( ZMUL )"
+  },
+  {
+    "id": "ap-mn-21",
+    "country": "MN",
+    "name": "Öndörkhaan Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Öndörkhaan_Airport?action=edit&redlink=1",
+    "listRow": "Öndörkhaan Airport Öndörkhaan Domestic Khentii ZMUH UNR 06/24: 1800m x 50m, grass 47°18′15″N 110°36′27″E ﻿ / ﻿ 47.30417°N 110.60750°E ﻿ / 47.30417; 110.60750 ﻿ ( ZMUH )"
+  },
+  {
+    "id": "ap-mn-22",
+    "country": "MN",
+    "name": "Ovoot Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+    "listRow": "Ovoot Airport Ovoot Tolgoi / Nariin Sukhait Domestic Ömnögovi ZMGT n.a. 2220m x 30m, concrete 43°0′41.76″N 101°20′1.68″E ﻿ / ﻿ 43.0116000°N 101.3338000°E ﻿ / 43.0116000; 101.3338000 ﻿ ( ZMGT )"
+  },
+  {
+    "id": "ap-mn-23",
+    "country": "MN",
+    "name": "Tavan Tolgoi Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+    "listRow": "Tavan Tolgoi Airport Tavan Tolgoi Domestic Ömnögovi ZMTT n.a. 2350m x 30m, grass 43°46′25″N 105°34′44″E ﻿ / ﻿ 43.77361°N 105.57889°E ﻿ / 43.77361; 105.57889 ﻿ ( ZMTT )"
+  },
+  {
+    "id": "ap-mn-24",
+    "country": "MN",
+    "name": "Tosontsengel Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tosontsengel_Airport?action=edit&redlink=1",
+    "listRow": "Tosontsengel Airport Tosontsengel Domestic Zavkhaan ZMTL n.a. 10/28: 2400m x 50m, grass 48°44′21″N 98°17′24″E ﻿ / ﻿ 48.73917°N 98.29000°E ﻿ / 48.73917; 98.29000 ﻿ ( ZMTL )"
+  },
+  {
+    "id": "ap-mn-25",
+    "country": "MN",
+    "name": "Tsetserleg Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Tsetserleg_Airport",
+    "listRow": "Tsetserleg Airport Tsetserleg Domestic Arkhangai ZMTG TSZ 14/32: 1650m x 35m, grass 47°27′50″N 101°28′54″E ﻿ / ﻿ 47.46389°N 101.48167°E ﻿ / 47.46389; 101.48167 ﻿ ( ZMTG )"
+  },
+  {
+    "id": "ap-mn-26",
+    "country": "MN",
+    "name": "Ulaangom Airport",
+    "wiki": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+    "listRow": "Ulaangom Airport Ulaangom Domestic Uvs ZMUG ULO 15/19: 2697m x 30m, concrete 50°04′02″N 91°56′16″E ﻿ / ﻿ 50.06722°N 91.93778°E ﻿ / 50.06722; 91.93778 ﻿ ( ZMUG )"
+  }
+]

@@ -4,13 +4,14 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
   <meta content="#f7f8fa" name="theme-color"/>
-  <meta content="以俄罗斯航司官方时刻表为依据的苏俄及 L-410 机型航线地图、班期查询与旅行规划工具。" name="description"/>
+  <meta content="苏俄及 L-410 机型的客运航线地图、线上与线下购票信息，以及按机型整理的观光和飞行体验。" name="description"/>
   <link href="assets/maoji-icon.png" rel="icon" type="image/png"/>
   <title>
    毛机指南 by Messerschmitt.X
   </title>
   <link href="assets/leaflet.css" rel="stylesheet"/>
   <link href="style.css" rel="stylesheet"/>
+  <link href="assets/experiences.css" rel="stylesheet"/>
  </head>
  <body class="titles-collapsed" data-page="explore">
   <header class="app-header" id="appHeader">
@@ -27,6 +28,9 @@
     </button>
     <button class="nav" data-view="flights">
      航班总览
+    </button>
+    <button class="nav" data-view="experiences">
+     飞行体验
     </button>
     <button class="nav" data-view="coverage">
      收录与来源
@@ -124,7 +128,7 @@
      <span>
       仅看机型明确的班次
      </span>
-     <span class="help" title="仅保留单一入选机型、官网逐班明确的记录；排除多机型范围和机队推断。">
+     <span class="help" title="仅保留单一入选机型且逐班明确的记录；排除多机型范围、机队推断与班期待确认的航线资料。">
       ?
      </span>
     </label>
@@ -160,7 +164,7 @@
    </aside>
    <section aria-label="航线交互地图" class="map-section">
     <div class="phone-only phone-map-actions">
-     <select id="phoneRegion" aria-label="跳转地图区域"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
+     <select id="phoneRegion" aria-label="跳转地图区域"><option value="">选择区域</option><option value="all">全境</option><option value="west">欧洲北部</option><option value="central">中亚</option><option value="siberia">西伯利亚</option><option value="yakutia">雅库特</option><option value="east">远东</option></select>
      <button id="phoneAirportChip" hidden aria-label="清除机场筛选"></button>
     </div>
     <section id="airportPreview" class="airport-preview" hidden aria-label="机场预览" tabindex="-1">
@@ -188,6 +192,7 @@
       <button data-region="west">
        欧洲北部
       </button>
+      <button data-region="central">中亚</button>
       <button data-region="siberia">
        西伯利亚
       </button>
@@ -292,6 +297,20 @@
    <p class="muted" id="tableCount">
    </p>
   </section>
+  <section class="page-view experiences-view" hidden id="experiencesView" aria-labelledby="experiencesTitle">
+   <div class="experience-intro">
+    <div>
+     <span class="eyebrow">SIGHTSEEING &amp; FLIGHT EXPERIENCES</span>
+     <h1 id="experiencesTitle">飞行体验</h1>
+     <p>观光、特技飞行与整机包租。按机型查报价，直接向提供方预约。</p>
+    </div>
+    <p class="experience-stamp">资料核查 <time id="experienceDate"></time><span id="experienceCount"></span></p>
+   </div>
+   <nav class="experience-models" id="experienceModels" aria-label="按机型跳转"></nav>
+   <p class="experience-notice">报价按原币种保留，单人、整机和整组分别注明；具体日期与最终价格由提供方确认。Yak-52 为教练／特技飞机。</p>
+   <div id="experienceGroups"></div>
+   <p class="experience-footer">本轮范围见<a href="NEIGHBOURS-2026-11-06.md" target="_blank" rel="noopener">九国调研</a>。尚未核实可售的喷气战斗机体验。<a href="data/experiences.json" download>下载体验资料 ↓</a></p>
+  </section>
   <section class="page-view" hidden="" id="coverageView">
    <div class="page-heading">
     <div>
@@ -319,6 +338,7 @@
     </p>
    </div>
    <a class="research-link" href="remote-routes.html"><strong>冷门与线下航线补查 ↗</strong><span>An-2 / TVS、地方直升机、代理预约与新地岛受限包机 · 2026.11.04</span></a>
+   <a class="research-link" href="remote-routes.html?status=bookable"><strong>九国公开售票航线 ↗</strong><span>哈萨克斯坦 An-24、乌兹别克斯坦 L-410 · 5 组城市对 · 2026.11.06</span></a>
    <div class="coverage-controls">
     <input aria-label="搜索航司核查清单，支持中文、俄文与英文转写" id="coverageSearch" placeholder="航司名称 · 中文 / Русский / English" type="search"/>
     <label>
@@ -446,6 +466,8 @@
   </script>
   <script src="assets/search.js">
   </script>
+  <script src="data/experiences.js"></script>
+  <script src="assets/experiences.js"></script>
   <script src="app.js">
   </script>
  </body>

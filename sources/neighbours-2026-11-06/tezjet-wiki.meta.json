@@ -1,0 +1,1294 @@
+{
+  "id": "tezjet-wiki",
+  "url": "https://en.wikipedia.org/wiki/TezJet",
+  "retrievedAt": "2026-11-06T08:26:15.857816+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/TezJet",
+  "bytes": 145303,
+  "sha256": "f6bbb9126aa6163c9099a66cd0a25e22cb2b5061d354674a9e9cd2bd288418ac",
+  "file": "sources/neighbours-2026-11-06/tezjet-wiki.html",
+  "title": "TezJet Airlines - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/TezJet#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=TezJet+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=TezJet+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=TezJet+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=TezJet+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "1 Destinations",
+      "url": "https://en.wikipedia.org/wiki/TezJet#Destinations",
+      "lang": ""
+    },
+    {
+      "text": "2 Fleet",
+      "url": "https://en.wikipedia.org/wiki/TezJet#Fleet",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Fleet",
+      "url": "https://en.wikipedia.org/wiki/TezJet#Fleet_2",
+      "lang": ""
+    },
+    {
+      "text": "3 Accidents and incidents",
+      "url": "https://en.wikipedia.org/wiki/TezJet#Accidents_and_incidents",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/TezJet#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/TezJet#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/TezJet#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/TezJet",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/TezJet_Air",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D8%AA%D8%B2%D8%AC%D8%AA_%D8%A7%DB%8C%D8%B1%D9%84%D8%A7%DB%8C%D9%86%D8%B2",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": "fr"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%BA%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E8%88%AA%E7%A9%BA",
+      "lang": "ja"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/TezJet",
+      "lang": "ky"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": "ms"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": "ru"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/Tez_Jet_Airlines",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/TezJet",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q15850426#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&oldid=1379227183",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=TezJet_Airlines&id=1379227183&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=TezJet_Airlines&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:TezJet",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q15850426",
+      "lang": ""
+    },
+    {
+      "text": "TezJet",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:TezJet_Logo.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EX-80017_-_McDonnell_Douglas_MD-83_-_Tez_Jet_Airlines_-_53634_-_VGHS.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#IATA_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#ICAO_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "Call sign",
+      "url": "https://en.wikipedia.org/wiki/Aviation_call_signs#Commercial_airline",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-license-1",
+      "lang": ""
+    },
+    {
+      "text": "Hubs",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Parent company",
+      "url": "https://en.wikipedia.org/wiki/Holding_company#Parent_company",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Arun Kumar Singh",
+      "url": "https://en.wikipedia.org/wiki/Arun_Kumar_Singh",
+      "lang": ""
+    },
+    {
+      "text": "CEO",
+      "url": "https://en.wikipedia.org/wiki/CEO",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-MD-2",
+      "lang": ""
+    },
+    {
+      "text": "flytezjet .com",
+      "url": "http://flytezjet.com",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz Republic",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_Republic",
+      "lang": ""
+    },
+    {
+      "text": "BAe 146",
+      "url": "https://en.wikipedia.org/wiki/BAe_146",
+      "lang": ""
+    },
+    {
+      "text": "Avia Traffic Company",
+      "url": "https://en.wikipedia.org/wiki/Avia_Traffic_Company",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-About-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-Profile-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-Tez_Jet_Airlines-6",
+      "lang": ""
+    },
+    {
+      "text": "air operator's certificate",
+      "url": "https://en.wikipedia.org/wiki/Air_operator's_certificate",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-license-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-:1-7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Delhi",
+      "lang": ""
+    },
+    {
+      "text": "Indira Gandhi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad Airport",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-Dests-10",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "Osh Airport",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-Dests-10",
+      "lang": ""
+    },
+    {
+      "text": "Tamchy",
+      "url": "https://en.wikipedia.org/wiki/Tamchy",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul International Airport",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow",
+      "url": "https://en.wikipedia.org/wiki/Moscow",
+      "lang": ""
+    },
+    {
+      "text": "Moscow Domodedovo Airport",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent International Airport",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:MD83_Aircraft_of_TezJet.jpg",
+      "lang": ""
+    },
+    {
+      "text": "MD-83",
+      "url": "https://en.wikipedia.org/wiki/MD-83",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Avro_RJ85.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Avro RJ85",
+      "url": "https://en.wikipedia.org/wiki/Avro_RJ85",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Avro RJ85",
+      "url": "https://en.wikipedia.org/wiki/Avro_RJ85",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-:2-13",
+      "lang": ""
+    },
+    {
+      "text": "McDonnell Douglas MD-83",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-83",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-MD-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Avro RJ85",
+      "url": "https://en.wikipedia.org/wiki/Avro_RJ85",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-:2-13",
+      "lang": ""
+    },
+    {
+      "text": "McDonnell Douglas MD-83",
+      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-83",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_note-:1-7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "List of airlines of Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-license_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-license_1-1",
+      "lang": ""
+    },
+    {
+      "text": "\"TezJet's license was revoked after inspection\"",
+      "url": "https://24.kg/vlast/381339_uaviakompanii_TezJet_annulirovali_litsenziyu_posle_proverki/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-MD_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-MD_2-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Mad Dogs of TezJet\"",
+      "url": "https://www.key.aero/article/mad-dogs-tezjet",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\" \"TEZ JET\" (ТЕЗ ДЖЕТ) Жоопкерчилиги чектелген коому\"",
+      "url": "https://analyt-kg.com/kg/02304201310158",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-About_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"About\"",
+      "url": "https://web.archive.org/web/20220127123027/http://tezjet.kg/about.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://tezjet.kg/about.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-Profile_5-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Profile\"",
+      "url": "https://web.archive.org/web/20220504061644/https://centreforaviation.com/data/profiles/airlines/tez-jet-airlines-tez",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://centreforaviation.com/data/profiles/airlines/tez-jet-airlines-tez",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-Tez_Jet_Airlines_6-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Tez Jet Airlines\"",
+      "url": "https://web.archive.org/web/20220504061645/https://www.ch-aviation.com/portal/airline/TZJ",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.ch-aviation.com/portal/airline/TZJ",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-:1_7-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-:1_7-1",
+      "lang": ""
+    },
+    {
+      "text": "\"CAA revokes AOC of Kyrgyzstan's TezJet after crash\"",
+      "url": "https://www.ch-aviation.com/news/169402-caa-revokes-aoc-of-kyrgyzstans-tezjet-after-crash",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"TezJet launches Delhi–Bishkek flights, strengthening India–Kyrgyzstan air and trade ties - Air Cargo Week\"",
+      "url": "https://aircargoweek.com/tezjet-launches-delhi-bishkek-flights-strengthening-india-kyrgyzstan-air-and-trade-ties/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"TezJet launches direct Delhi–Bishkek flights\"",
+      "url": "https://www.traveldailymedia.com/tezjet-launches-direct-delhi-bishkek-flights/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-Dests_10-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-Dests_10-1",
+      "lang": ""
+    },
+    {
+      "text": "\"TezJet Flight Schedule\"",
+      "url": "https://web.archive.org/web/20250429205611/https://flytezjet.com/english/pdf/schedule.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://flytezjet.com/english/pdf/schedule.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"TezJet Plans Bishkek – Moscow late-August 2025 Launch\"",
+      "url": "https://www.aeroroutes.com/eng/250717-k9aug25dme",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"New air carrier TezJet entered the Uzbek market\"",
+      "url": "https://podrobno.uz/cat/obchestvo/novyy-aviaperevozchik-tezjet-zashel-na-rynok-uzbekistana",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-:2_13-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-:2_13-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Passengers Film Plane Engine Hanging Loose After In-Flight Explosion\"",
+      "url": "https://www.newsweek.com/plane-engine-explodes-passengers-watch-dangling-engine-831412",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/TezJet#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"A TezJet plane crashed during takeoff in Kyrgyzstan\"",
+      "url": "https://www.aa.com.tr/ru/%D0%BC%D0%B8%D1%80/%D0%B2-%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B5-%D0%BF%D1%80%D0%B8-%D0%B2%D0%B7%D0%BB%D0%B5%D1%82%D0%B5-%D0%B7%D0%B0%D0%B2%D0%B0%D0%BB%D0%B8%D0%BB%D1%81%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82-tezjet/3989355",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://flytezjet.com/",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Aerostan",
+      "url": "https://en.wikipedia.org/wiki/Aerostan",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Aero Nomad Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aero_Nomad_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Avia Traffic Company",
+      "url": "https://en.wikipedia.org/wiki/Avia_Traffic_Company",
+      "lang": ""
+    },
+    {
+      "text": "Sky FRU",
+      "url": "https://en.wikipedia.org/wiki/Sky_FRU",
+      "lang": ""
+    },
+    {
+      "text": "Air Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Air_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Air Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Air_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Air Manas",
+      "url": "https://en.wikipedia.org/wiki/Air_Manas",
+      "lang": ""
+    },
+    {
+      "text": "Anikay Air",
+      "url": "https://en.wikipedia.org/wiki/Anikay_Air",
+      "lang": ""
+    },
+    {
+      "text": "Click Airways",
+      "url": "https://en.wikipedia.org/wiki/Click_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Eastok Avia",
+      "url": "https://en.wikipedia.org/wiki/Eastok_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Esen Air",
+      "url": "https://en.wikipedia.org/wiki/Esen_Air",
+      "lang": ""
+    },
+    {
+      "text": "Galaxy Air",
+      "url": "https://en.wikipedia.org/wiki/Galaxy_Air",
+      "lang": ""
+    },
+    {
+      "text": "Golden Rule Airlines",
+      "url": "https://en.wikipedia.org/wiki/Golden_Rule_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Inter Trans Avia",
+      "url": "https://en.wikipedia.org/wiki/Inter_Trans_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Itek Air",
+      "url": "https://en.wikipedia.org/wiki/Itek_Air",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz Air",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_Air",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz International Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_International_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz Trans Avia",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_Trans_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "MAXavia",
+      "url": "https://en.wikipedia.org/wiki/MAXavia",
+      "lang": ""
+    },
+    {
+      "text": "Osh-Avia",
+      "url": "https://en.wikipedia.org/wiki/Osh-Avia",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Asia",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Phoenix Aviation",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Sky Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Sky_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Sky KG Airlines",
+      "url": "https://en.wikipedia.org/wiki/Sky_KG_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "TezJet Airlines",
+      "url": "https://en.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Nuvola_apps_ksysv_square.svg",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Kyrgyzstan-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Kyrgyzstan-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Kyrgyzstan-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airlineicon.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&oldid=1379227183",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&oldid=1379227183",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Defunct airlines of Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Defunct_airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airlines established in 2013",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_established_in_2013",
+      "lang": ""
+    },
+    {
+      "text": "Airlines disestablished in 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_disestablished_in_2026",
+      "lang": ""
+    },
+    {
+      "text": "2013 establishments in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:2013_establishments_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Asia transport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia_transport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Kyrgyzstan_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Asian airline stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airline_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from April 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_April_2026",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Kyrgyz-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Kyrgyz-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Kongo-language sources (kg)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Kongo-language_sources_(kg)",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=TezJet_Airlines&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/TezJet",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tezjet-wiki.txt"
+}

@@ -2,7 +2,7 @@
 (()=>{
 const D=window.REMOTE_ROUTES,S=window.ATLAS_SEARCH,$=id=>document.getElementById(id);
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const labels={imported:'已补入时刻','official-plan':'官方航线 / 计划',lead:'近期客运线索',unresolved:'仍待复核',restricted:'特别许可'};
+const labels={bookable:'公开售票 · 已录入地图',imported:'已补入时刻','official-plan':'官方航线 / 计划',lead:'近期客运线索',unresolved:'仍待复核',restricted:'特别许可'};
 const cache=new Map(D.items.map(x=>[x.id,S.index([x.title,x.routeRu,x.operator,x.region,x.aircraft,x.booking,x.notes,...(x.tags||[])])]));
 const u=new URLSearchParams(location.search);$('query').value=u.get('q')||'';$('status').value=u.get('status')||'';
 $('region').innerHTML+=[...new Set(D.items.map(x=>x.region))].map(x=>'<option>'+esc(x)+'</option>').join('');

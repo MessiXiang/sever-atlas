@@ -1,0 +1,904 @@
+{
+  "id": "kz-kazaviaspas-wiki",
+  "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+  "retrievedAt": "2026-11-06T10:19:25.059399+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Kazaviaspas",
+  "bytes": 100324,
+  "sha256": "2786cb134819c152987c42022bc4465fa6bf28796b482373f34f944ab9cbeaa5",
+  "file": "sources/neighbours-2026-11-06/kz-kazaviaspas-wiki.html",
+  "title": "Kazaviaspas - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "1 Fleet",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#Fleet",
+      "lang": ""
+    },
+    {
+      "text": "2 Accidents and incidents",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#Accidents_and_incidents",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#References",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Kazaviaspas",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B2%D8%A7%D9%88%DB%8C%D8%A7%D8%B3%D9%BE%D8%A7%D8%B3",
+      "lang": "fa"
+    },
+    {
+      "text": "Қазақша",
+      "url": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D0%B2%D0%B8%D0%B0%D2%9B%D2%B1%D1%82%D2%9B%D0%B0%D1%80%D1%83",
+      "lang": "kk"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Kazaviaspas",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Kazaviaspas",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%B2%D0%B8%D0%B0%D1%81%D0%BF%D0%B0%D1%81",
+      "lang": "ru"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2648276#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&oldid=1376546251",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Kazaviaspas&id=1376546251&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Kazaviaspas&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2648276",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#IATA_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#ICAO_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "Call sign",
+      "url": "https://en.wikipedia.org/wiki/Aviation_call_signs#Commercial_airline",
+      "lang": ""
+    },
+    {
+      "text": "Hubs",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Astana International Airport",
+      "url": "https://en.wikipedia.org/wiki/Astana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana",
+      "lang": ""
+    },
+    {
+      "text": "kazaviaspas.kz",
+      "url": "http://kazaviaspas.kz/?lang=en",
+      "lang": ""
+    },
+    {
+      "text": "Kazakh",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_language",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-76TD",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_note-AW-1",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-134A3",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-134",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_note-AW-1",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-154M",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_note-AW-1",
+      "lang": ""
+    },
+    {
+      "text": "Eurocopter EC-145",
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_EC-145",
+      "lang": ""
+    },
+    {
+      "text": "KA-32A11BC",
+      "url": "https://en.wikipedia.org/wiki/Ka-32",
+      "lang": ""
+    },
+    {
+      "text": "MI-26T",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-26",
+      "lang": ""
+    },
+    {
+      "text": "MI-8T, MI-8MTV",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-8",
+      "lang": ""
+    },
+    {
+      "text": "MI-171",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-17",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Bayterek District",
+      "url": "https://en.wikipedia.org/wiki/Bayterek_District",
+      "lang": ""
+    },
+    {
+      "text": "West Kazakhstan Region",
+      "url": "https://en.wikipedia.org/wiki/West_Kazakhstan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_ref-AW_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_ref-AW_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas#cite_ref-AW_1-2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Kazaviaspas",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airlines_of_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airlines_of_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airlines_of_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Air Astana",
+      "url": "https://en.wikipedia.org/wiki/Air_Astana",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "VietJet Qazaqstan",
+      "url": "https://en.wikipedia.org/wiki/VietJet_Qazaqstan",
+      "lang": ""
+    },
+    {
+      "text": "Zhezkazgan Air",
+      "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Air",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "Euro-Asia Air",
+      "url": "https://en.wikipedia.org/wiki/Euro-Asia_Air",
+      "lang": ""
+    },
+    {
+      "text": "Khozu Avia",
+      "url": "https://en.wikipedia.org/wiki/Khozu_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Prime Aviation",
+      "url": "https://en.wikipedia.org/wiki/Prime_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Sky Service",
+      "url": "https://en.wikipedia.org/wiki/Sky_Service_(Kazakhstan)",
+      "lang": ""
+    },
+    {
+      "text": "Sunday Airlines",
+      "url": "https://en.wikipedia.org/wiki/Sunday_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Zhetysu",
+      "url": "https://en.wikipedia.org/wiki/Zhetysu_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "East Wing",
+      "url": "https://en.wikipedia.org/wiki/East_Wing_(Kazakhstan)",
+      "lang": ""
+    },
+    {
+      "text": "Kazaviaspas",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Aerotur-KZ Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aerotur-KZ_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Air Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Air_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Air Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Air_Kokshetau",
+      "lang": ""
+    },
+    {
+      "text": "Almaty Aviation",
+      "url": "https://en.wikipedia.org/wiki/Almaty_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Asia Continental Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asia_Continental_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Asia Wings",
+      "url": "https://en.wikipedia.org/wiki/Asia_Wings",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau Airways",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Bek Air",
+      "url": "https://en.wikipedia.org/wiki/Bek_Air",
+      "lang": ""
+    },
+    {
+      "text": "Berkut Air",
+      "url": "https://en.wikipedia.org/wiki/Berkut_Air",
+      "lang": ""
+    },
+    {
+      "text": "Burundaiavia",
+      "url": "https://en.wikipedia.org/wiki/Burundaiavia",
+      "lang": ""
+    },
+    {
+      "text": "Caspiy",
+      "url": "https://en.wikipedia.org/wiki/Caspiy",
+      "lang": ""
+    },
+    {
+      "text": "DETA Air",
+      "url": "https://en.wikipedia.org/wiki/DETA_Air",
+      "lang": ""
+    },
+    {
+      "text": "Irtysh Air",
+      "url": "https://en.wikipedia.org/wiki/Irtysh_Air",
+      "lang": ""
+    },
+    {
+      "text": "Kaz Air Trans",
+      "url": "https://en.wikipedia.org/wiki/Kaz_Air_Trans",
+      "lang": ""
+    },
+    {
+      "text": "Kazair West",
+      "url": "https://en.wikipedia.org/wiki/Kazair_West",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Mega Aircompany",
+      "url": "https://en.wikipedia.org/wiki/Mega_Aircompany",
+      "lang": ""
+    },
+    {
+      "text": "Orient Eagle Airways",
+      "url": "https://en.wikipedia.org/wiki/Orient_Eagle_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Sayakhat Airlines",
+      "url": "https://en.wikipedia.org/wiki/Sayakhat_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Semeyavia",
+      "url": "https://en.wikipedia.org/wiki/Semeyavia",
+      "lang": ""
+    },
+    {
+      "text": "SkyBus International Airlines",
+      "url": "https://en.wikipedia.org/wiki/SkyBus_International_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Starline.kz",
+      "url": "https://en.wikipedia.org/wiki/Starline.kz",
+      "lang": ""
+    },
+    {
+      "text": "Tahmid Air",
+      "url": "https://en.wikipedia.org/wiki/Tahmid_Air",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airlineicon.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Flag_of_Kazakhstan.svg",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Kazakhstan-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Kazakhstan-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Kazakhstan-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&oldid=1376546251",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&oldid=1376546251",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airlines of Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_of_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Airlines established in 2003",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_established_in_2003",
+      "lang": ""
+    },
+    {
+      "text": "Airlines formerly banned in the European Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_formerly_banned_in_the_European_Union",
+      "lang": ""
+    },
+    {
+      "text": "Helicopter airlines",
+      "url": "https://en.wikipedia.org/wiki/Category:Helicopter_airlines",
+      "lang": ""
+    },
+    {
+      "text": "Asian airline stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airline_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Kazakhstan_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Kazakh-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Kazakh-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kazaviaspas&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Kazaviaspas",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kz-kazaviaspas-wiki.txt"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tajikair-news",
+  "url": "https://www.tajikair.tj/news.html",
+  "retrievedAt": "2026-11-06T08:23:30.127043+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/news.html",
+  "bytes": 2045,
+  "sha256": "83ba7f67161eedcb9fdd4f4b3ed34da48968a571bb2a5d872fe843d96c72038a",
+  "file": "sources/neighbours-2026-11-06/tajikair-news.html",
+  "title": "Новости — Tajik Air",
+  "links": [
+    {
+      "text": "+992 905-100-200",
+      "url": "tel:+992905100200",
+      "lang": ""
+    },
+    {
+      "text": "info@tajikairlines.com",
+      "url": "mailto:info@tajikairlines.com",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-news.txt"
+}

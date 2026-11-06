@@ -1,0 +1,205 @@
+{
+  "id": "kg-caa-airlines",
+  "url": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki",
+  "retrievedAt": "2026-11-06T09:48:25.606663+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki",
+  "bytes": 22266,
+  "sha256": "25b82b75d4b935f6e62bbe4b9e15d5f127a81c43de69296fbe6416750d66b347",
+  "file": "sources/neighbours-2026-11-06/kg-caa-airlines.html",
+  "title": "Бет табылган жок | Жарандык Авиация Мамлекеттик Агенттиги",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki#main-content",
+      "lang": ""
+    },
+    {
+      "text": "Версия для слабовидящих",
+      "url": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki",
+      "lang": ""
+    },
+    {
+      "text": "Кыр",
+      "url": "https://caa.kg/ky/system/404",
+      "lang": ""
+    },
+    {
+      "text": "Кыр",
+      "url": "https://caa.kg/ky/system/404",
+      "lang": ""
+    },
+    {
+      "text": "Рус",
+      "url": "https://caa.kg/ru/system/404",
+      "lang": ""
+    },
+    {
+      "text": "Eng",
+      "url": "https://caa.kg/en/system/404",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.kg/ky",
+      "lang": ""
+    },
+    {
+      "text": "Башкы",
+      "url": "https://caa.kg/ky",
+      "lang": ""
+    },
+    {
+      "text": "ЖАМА жөнүндө",
+      "url": "https://caa.kg/ky/about-us",
+      "lang": ""
+    },
+    {
+      "text": "ЖАМА жөнүндө",
+      "url": "https://caa.kg/ky/about-us",
+      "lang": ""
+    },
+    {
+      "text": "Биздин команда",
+      "url": "https://caa.kg/ky/team",
+      "lang": ""
+    },
+    {
+      "text": "Иш аракеттер",
+      "url": "https://caa.kg/ky/activity",
+      "lang": ""
+    },
+    {
+      "text": "Мыйзам чыгаруулар",
+      "url": "https://caa.kg/ky/node/93",
+      "lang": ""
+    },
+    {
+      "text": "Негизги авиациялык мыйзамдар",
+      "url": "https://caa.kg/ky/legislation/negizgi-aviaciyalyk-myyzamdar",
+      "lang": ""
+    },
+    {
+      "text": "Авиациялык эрежелер",
+      "url": "https://caa.kg/ky/legislation/kyrgyz-respublikasynyn-aviaciyalyk-erezheleri",
+      "lang": ""
+    },
+    {
+      "text": "Бошотуу",
+      "url": "https://caa.kg/ky/legislation/boshotuu",
+      "lang": ""
+    },
+    {
+      "text": "Нормативдик укуктук актылар долбоору",
+      "url": "https://caa.kg/ky/legislation/normativdik-ukuktuk-aktylar-dolbooru",
+      "lang": ""
+    },
+    {
+      "text": "Regulatory acts",
+      "url": "https://caa.kg/ky/legislation/regulatory-acts",
+      "lang": ""
+    },
+    {
+      "text": "Коррупцияга каршы саясат",
+      "url": "https://caa.kg/ky/korrupciyaga-karshy-sayasat",
+      "lang": ""
+    },
+    {
+      "text": "Маалыматтар",
+      "url": "https://caa.kg/ky/node/13",
+      "lang": ""
+    },
+    {
+      "text": "Аэродромдор",
+      "url": "https://caa.kg/ky/kyrgyz-respublikasynyn-zharandyk-aerodromdoru",
+      "lang": ""
+    },
+    {
+      "text": "Окуу/машыктыруучу залдар",
+      "url": "https://caa.kg/ky/node/22",
+      "lang": ""
+    },
+    {
+      "text": "Учуулардын коопсуздугун камсыздоо боюнча пландар",
+      "url": "https://caa.kg/ky/node/23",
+      "lang": ""
+    },
+    {
+      "text": "Airlines",
+      "url": "https://caa.kg/ky/airlines",
+      "lang": ""
+    },
+    {
+      "text": "Аэронавигациялык Маалыматтар Жыйнагы",
+      "url": "https://ansp.kg/aeronautical-information-service",
+      "lang": ""
+    },
+    {
+      "text": "Бош орундар",
+      "url": "https://caa.kg/ky/jobs",
+      "lang": ""
+    },
+    {
+      "text": "Байланыш номерлер",
+      "url": "https://caa.kg/ky/baylanysh-nomerler",
+      "lang": ""
+    },
+    {
+      "text": "Байланыш номерлер",
+      "url": "https://caa.kg/ky/baylanysh-nomerler",
+      "lang": ""
+    },
+    {
+      "text": "График приема граждан",
+      "url": "https://caa.kg/ky/node/606",
+      "lang": ""
+    },
+    {
+      "text": "Жарандардын кайрылуусу",
+      "url": "https://gses.tunduk.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Жаңылыктар",
+      "url": "https://caa.kg/ky/news",
+      "lang": ""
+    },
+    {
+      "text": "In content",
+      "url": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki#content",
+      "lang": ""
+    },
+    {
+      "text": "In documents",
+      "url": "https://caa.kg/ky/aviakompanii-kyrgyzskoy-respubliki#document",
+      "lang": ""
+    },
+    {
+      "text": "Башкы",
+      "url": "https://caa.kg/ky",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://instagram.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://facebook.com/Agency.CAA",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/@scaa",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://www.net.kg/stat.php?id=7192&fromsite=7192",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kg-caa-airlines.txt"
+}

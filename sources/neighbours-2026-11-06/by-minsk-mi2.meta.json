@@ -1,0 +1,469 @@
+{
+  "id": "by-minsk-mi2",
+  "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+  "retrievedAt": "2026-11-06T10:01:17.334803+00:00",
+  "status": 200,
+  "finalUrl": "https://aeroclub-minsk.by/polioty_na_vertolete",
+  "bytes": 64484,
+  "sha256": "d0477457be367afaf8ab239bbc4c2517ada02aa9d97d6e35137c2201c0d841ad",
+  "file": "sources/neighbours-2026-11-06/by-minsk-mi2.html",
+  "title": "Полеты на вертолете",
+  "links": [
+    {
+      "text": "",
+      "url": "https://aeroclub-minsk.by/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/skydive_belarus/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@minskaeroclub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://pogoda.by/weather/numerical-weather-6/26851",
+      "lang": ""
+    },
+    {
+      "text": "(44) 583 50 95 - Экскурсии",
+      "url": "tel:+375445835095",
+      "lang": ""
+    },
+    {
+      "text": "(29) 851 99 41 - Вертолет",
+      "url": "tel:+375298519941",
+      "lang": ""
+    },
+    {
+      "text": "(29) 792 64 14 - Самолет",
+      "url": "tel:+375297926414",
+      "lang": ""
+    },
+    {
+      "text": "Связаться",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "Главная",
+      "url": "https://aeroclub-minsk.by/",
+      "lang": ""
+    },
+    {
+      "text": "Аэроклуб ▾",
+      "url": "https://aeroclub-minsk.by/history",
+      "lang": ""
+    },
+    {
+      "text": "Об Аэроклубе",
+      "url": "https://aeroclub-minsk.by/history",
+      "lang": ""
+    },
+    {
+      "text": "Руководство",
+      "url": "https://aeroclub-minsk.by/rukovodstvo",
+      "lang": ""
+    },
+    {
+      "text": "Как добраться",
+      "url": "https://aeroclub-minsk.by/maps",
+      "lang": ""
+    },
+    {
+      "text": "Оплата услуг",
+      "url": "https://aeroclub-minsk.by/oplata_uslug",
+      "lang": ""
+    },
+    {
+      "text": "Прыжки с парашютом ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Прыжок в тандеме",
+      "url": "https://aeroclub-minsk.by/pryzhki-v-tandeme-s-instruktorom",
+      "lang": ""
+    },
+    {
+      "text": "Самостоятельный прыжок",
+      "url": "https://aeroclub-minsk.by/samostoyatelniy_pryzok",
+      "lang": ""
+    },
+    {
+      "text": "Обучение прыжкам AFF",
+      "url": "https://aeroclub-minsk.by/obuchenie_pryzkam_s_parashutom",
+      "lang": ""
+    },
+    {
+      "text": "Для спортсменов",
+      "url": "https://aeroclub-minsk.by/dly_sportsmenov",
+      "lang": ""
+    },
+    {
+      "text": "Музейный комплекс",
+      "url": "https://aeroclub-minsk.by/vistavochnii_kompleks",
+      "lang": ""
+    },
+    {
+      "text": "Парк",
+      "url": "https://aeroclub-minsk.by/park",
+      "lang": ""
+    },
+    {
+      "text": "Обзорные полеты ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "На вертолете",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "На самолете",
+      "url": "https://aeroclub-minsk.by/polety_na_samolete",
+      "lang": ""
+    },
+    {
+      "text": "Обучение PPL",
+      "url": "https://aeroclub-minsk.by/ppl",
+      "lang": ""
+    },
+    {
+      "text": "Авиасимулятор",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Спорт ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Парашютный спорт",
+      "url": "https://aeroclub-minsk.by/parashutnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Самолетный спорт",
+      "url": "https://aeroclub-minsk.by/samoletnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Вертолетный спорт",
+      "url": "https://aeroclub-minsk.by/vertoliotni_sport",
+      "lang": ""
+    },
+    {
+      "text": "Авиамодельный спорт",
+      "url": "https://aeroclub-minsk.by/aviamodelnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://aeroclub-minsk.by/contacts",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://aeroclub-minsk.by/",
+      "lang": ""
+    },
+    {
+      "text": "Связаться",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "Главная",
+      "url": "https://aeroclub-minsk.by/",
+      "lang": ""
+    },
+    {
+      "text": "Аэроклуб ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Об Аэроклубе",
+      "url": "https://aeroclub-minsk.by/history",
+      "lang": ""
+    },
+    {
+      "text": "Руководство",
+      "url": "https://aeroclub-minsk.by/rukovodstvo",
+      "lang": ""
+    },
+    {
+      "text": "Как добраться",
+      "url": "https://aeroclub-minsk.by/maps",
+      "lang": ""
+    },
+    {
+      "text": "Оплата услуг",
+      "url": "https://aeroclub-minsk.by/oplata_uslug",
+      "lang": ""
+    },
+    {
+      "text": "Прыжки с парашютом ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Прыжок в тандеме",
+      "url": "https://aeroclub-minsk.by/pryzhki-v-tandeme-s-instruktorom",
+      "lang": ""
+    },
+    {
+      "text": "Самостоятельный прыжок",
+      "url": "https://aeroclub-minsk.by/samostoyatelniy_pryzok",
+      "lang": ""
+    },
+    {
+      "text": "Обучение прыжкам AFF",
+      "url": "https://aeroclub-minsk.by/obuchenie_pryzkam_s_parashutom",
+      "lang": ""
+    },
+    {
+      "text": "Для спортсменов",
+      "url": "https://aeroclub-minsk.by/dly_sportsmenov",
+      "lang": ""
+    },
+    {
+      "text": "Музейный комплекс",
+      "url": "https://aeroclub-minsk.by/vistavochnii_kompleks",
+      "lang": ""
+    },
+    {
+      "text": "Парк активного отдыха",
+      "url": "https://aeroclub-minsk.by/park",
+      "lang": ""
+    },
+    {
+      "text": "Обзорные полеты ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "На вертолете",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "На самолете",
+      "url": "https://aeroclub-minsk.by/polety_na_samolete",
+      "lang": ""
+    },
+    {
+      "text": "Обучение PPL",
+      "url": "https://aeroclub-minsk.by/ppl",
+      "lang": ""
+    },
+    {
+      "text": "Авиасимулятор",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Спорт ▾",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Парашютный спорт",
+      "url": "https://aeroclub-minsk.by/parashutnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Самолетный спорт",
+      "url": "https://aeroclub-minsk.by/samoletnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Вертолетный спорт",
+      "url": "https://aeroclub-minsk.by/vertoliotni_sport",
+      "lang": ""
+    },
+    {
+      "text": "Авиамодельный спорт",
+      "url": "https://aeroclub-minsk.by/aviamodelnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://aeroclub-minsk.by/contacts",
+      "lang": ""
+    },
+    {
+      "text": "(44) 583 50 95 - Экскурсии",
+      "url": "tel:+375445835095",
+      "lang": ""
+    },
+    {
+      "text": "(29) 851 99 41 - Полеты на вертолете",
+      "url": "tel:+375298519941",
+      "lang": ""
+    },
+    {
+      "text": "(29) 792 64 14 - Полеты на самолете",
+      "url": "tel:+375297926414",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/skydive_belarus/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@minskaeroclub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://pogoda.by/weather/numerical-weather-6/26851",
+      "lang": ""
+    },
+    {
+      "text": "Ми-2",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8-2",
+      "lang": ""
+    },
+    {
+      "text": "+375 29 554 27 38.",
+      "url": "tel:+375 29 554-27-38.",
+      "lang": ""
+    },
+    {
+      "text": "аэродром Липки",
+      "url": "https://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki",
+      "lang": ""
+    },
+    {
+      "text": "Записаться",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "Записаться на полет",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete#popup:myform",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://president.gov.by/ru",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://beldosaaf.by/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://bfas.by/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://varb.mil.by/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://aviamed.by/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://pogoda.by/weather/numerical-weather-6/26851",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/skydive_belarus/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@minskaeroclub",
+      "lang": ""
+    },
+    {
+      "text": "Тандем с инструктором",
+      "url": "https://aeroclub-minsk.by/pryzhki-v-tandeme-s-instruktorom",
+      "lang": ""
+    },
+    {
+      "text": "Самостоятельный прыжок",
+      "url": "https://aeroclub-minsk.by/samostoyatelniy_pryzok",
+      "lang": ""
+    },
+    {
+      "text": "Статик Лайн",
+      "url": "https://aeroclub-minsk.by/static_line",
+      "lang": ""
+    },
+    {
+      "text": "Обучение",
+      "url": "https://aeroclub-minsk.by/obuchenie_pryzkam_s_parashutom",
+      "lang": ""
+    },
+    {
+      "text": "Вопрос-Ответ",
+      "url": "https://aeroclub-minsk.by/faq",
+      "lang": ""
+    },
+    {
+      "text": "Для спортсменов",
+      "url": "https://aeroclub-minsk.by/dly_sportsmenov",
+      "lang": ""
+    },
+    {
+      "text": "На самолете",
+      "url": "https://aeroclub-minsk.by/polety_na_samolete",
+      "lang": ""
+    },
+    {
+      "text": "На вертолете",
+      "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+      "lang": ""
+    },
+    {
+      "text": "Обучение PPL",
+      "url": "https://aeroclub-minsk.by/ppl",
+      "lang": ""
+    },
+    {
+      "text": "Парашютный",
+      "url": "https://aeroclub-minsk.by/parashutnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Вертолетный",
+      "url": "https://aeroclub-minsk.by/vertoliotni_sport",
+      "lang": ""
+    },
+    {
+      "text": "Самолетный",
+      "url": "https://aeroclub-minsk.by/samoletnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "Авиамодельный",
+      "url": "https://aeroclub-minsk.by/aviamodelnii_sport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/artismart28",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/by-minsk-mi2.txt"
+}

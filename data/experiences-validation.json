@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "experiences": 8,
+  "aircraftModels": 6,
+  "passengerServices": 10,
+  "datedFlights": 1,
+  "evidenceFiles": 15,
+  "scope": [
+    "AZ",
+    "BY",
+    "GE",
+    "KG",
+    "KZ",
+    "MN",
+    "TJ",
+    "TM",
+    "UZ"
+  ]
+}

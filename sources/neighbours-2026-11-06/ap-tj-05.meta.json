@@ -1,0 +1,969 @@
+{
+  "id": "ap-tj-05",
+  "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+  "retrievedAt": "2026-11-06T08:39:40.829657+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Khorog_Airport",
+  "bytes": 120609,
+  "sha256": "265ce687b6b2830ebe660483941e59c09a939de3252992b42cf0b0b55ca5a7b7",
+  "file": "sources/neighbours-2026-11-06/ap-tj-05.html",
+  "title": "Khorog Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities and aircraft",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#Facilities_and_aircraft",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 References",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "5 External links",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Khorog_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%AE%D8%A7%D8%B1%D9%88%D8%BA",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Khorog",
+      "lang": "fr"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Khorog",
+      "lang": "id"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Khorog,_UT0D",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Chorog",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%BE%D0%B3_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%A5%D0%BE%D1%80%D3%AF%D2%93",
+      "lang": "tg"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Xorug%CA%BB_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q6402378#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&oldid=1379323779",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Khorog_Airport&id=1379323779&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKhorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Khorog_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q6402378",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Khorug_Airport.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "37°30′08″N 071°30′48″E ﻿ / ﻿ 37.50222°N 71.51333°E ﻿ / 37.50222; 71.51333",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Khorog_Airport&params=37_30_08_N_071_30_48_E_region:TJ_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Tajikistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-GCM-2",
+      "lang": ""
+    },
+    {
+      "text": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Russian_language",
+      "lang": ""
+    },
+    {
+      "text": "Tajik",
+      "url": "https://en.wikipedia.org/wiki/Tajik_language",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "airport",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "Gorno-Badakhshan Autonomous Province",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Badakhshan_Autonomous_Province",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Tajik Air",
+      "url": "https://en.wikipedia.org/wiki/Tajik_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog",
+      "lang": ""
+    },
+    {
+      "text": "AN-28",
+      "url": "https://en.wikipedia.org/wiki/AN-28",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "elevation",
+      "url": "https://en.wikipedia.org/wiki/Elevation",
+      "lang": ""
+    },
+    {
+      "text": "mean sea level",
+      "url": "https://en.wikipedia.org/wiki/Mean_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-dlca.logcluster.org-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Tajik Air",
+      "url": "https://en.wikipedia.org/wiki/Tajik_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-WAD_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-WAD_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-WAD_1-2",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-GCM_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UTOD\"",
+      "url": "http://www.gcmap.com/airport/UTOD",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"«Таджик Эйр» начнет полеты по маршруту «Душанбе – Хорог – Душанбе» — НИАТ \"Ховар\" \"",
+      "url": "https://khovar.tj/rus/2024/09/tadzhik-ejr-nachnet-polety-po-marshrutu-dushanbe-horog-dushanbe/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-dlca.logcluster.org_4-0",
+      "lang": ""
+    },
+    {
+      "text": "http://dlca.logcluster.org/display/public/DLCA/2.2.5+Tajikistan+Khorog+Airport",
+      "url": "http://dlca.logcluster.org/display/public/DLCA/2.2.5+Tajikistan+Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Первый рейс Душанбе-Хорог состоялся сегодня - Азия-Плюс\"",
+      "url": "https://asiaplus.news/2024/10/03/pervyj-rejs-dushanbe-horog-sostoyalsya-segodnya/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "«Таджик Эйр» начнет полеты по маршруту «Душанбе – Хорог – Душанбе»",
+      "url": "https://khovar.tj/rus/2024/09/tadzhik-ejr-nachnet-polety-po-marshrutu-dushanbe-horog-dushanbe/",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Airport Guide",
+      "url": "http://airportguide.com/airport/info/UTOD",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/database/airport/airport.php?id=UTOD",
+      "lang": ""
+    },
+    {
+      "text": "World Airport Codes",
+      "url": "https://www.world-airport-codes.com/tajikistan/khorog-83151.html",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (airport)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Garm",
+      "url": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Isfara",
+      "url": "https://en.wikipedia.org/wiki/Isfara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murgab",
+      "url": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Penjikent",
+      "url": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (air base)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Authority control databases",
+      "url": "https://en.wikipedia.org/wiki/Help:Authority_control",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q6402378#identifiers",
+      "lang": ""
+    },
+    {
+      "text": "VIAF",
+      "url": "https://viaf.org/viaf/159680998",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:TajikistanStub.svg",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Tajikistan-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Tajikistan-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Tajikistan-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&oldid=1379323779",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&oldid=1379323779",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Gorno-Badakhshan Autonomous Region",
+      "url": "https://en.wikipedia.org/wiki/Category:Gorno-Badakhshan_Autonomous_Region",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan geography stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Tajikistan_geography_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Russian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Russian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Tajik-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Tajik-language_text",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khorog_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tj-05.txt"
+}

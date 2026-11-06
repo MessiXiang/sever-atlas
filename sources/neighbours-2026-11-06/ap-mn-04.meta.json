@@ -1,0 +1,889 @@
+{
+  "id": "ap-mn-04",
+  "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+  "retrievedAt": "2026-11-06T08:39:51.048043+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+  "bytes": 132565,
+  "sha256": "6e494bc0445a2e453a641ec803478a481800b1ac2db81aa87e5669fc32e0fa73",
+  "file": "sources/neighbours-2026-11-06/ap-mn-04.html",
+  "title": "Baruunturuun - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Climate",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#Climate",
+      "lang": ""
+    },
+    {
+      "text": "2 Administrative divisions",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#Administrative_divisions",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Baruunturuun_(kapital_sa_distrito)",
+      "lang": "ceb"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Baruunturuun",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D9%88%D9%86%E2%80%8C%D8%AA%D9%88%D8%B1%D9%88%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Baruunturuun_(Uvs)",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Bar%C3%BAntur%C3%BAn_j%C3%A1r%C3%A1s",
+      "lang": "hu"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Baruunturuun",
+      "lang": "it"
+    },
+    {
+      "text": "Македонски",
+      "url": "https://mk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%83%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BD,_%D0%A3%D0%B2%D1%81",
+      "lang": "mk"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%83%D1%83%D0%BD%D1%82%D1%83%D1%80%D1%83%D1%83%D0%BD_%D1%81%D1%83%D0%BC",
+      "lang": "mn"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Barum_Turum",
+      "lang": "pt"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%83%D1%83%D0%BD%D1%82%D1%83%D1%80%D1%83%D1%83%D0%BD",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Baruunturuun",
+      "lang": "sv"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%83%D1%83%D0%BD%D1%82%D1%83%D1%80%D1%83%D1%83%D0%BD",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D9%88%D9%86_%D8%AA%D9%88%D8%B1%D9%88%D9%86",
+      "lang": "ur"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/Baruunturuun,_Uvs",
+      "lang": "vi"
+    },
+    {
+      "text": "閩南語 / Bân-lâm-gí",
+      "url": "https://zh-min-nan.wikipedia.org/wiki/Baruunturuun",
+      "lang": "nan"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q3403748#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&oldid=1382924989",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Baruunturuun&id=1382924989&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBaruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Baruunturuun&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q3403748",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "49°39′30″N 94°23′57″E ﻿ / ﻿ 49.65833°N 94.39917°E ﻿ / 49.65833; 94.39917",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Baruunturuun&params=49_39_30_N_94_23_57_E_region:MN_type:city(2810)",
+      "lang": ""
+    },
+    {
+      "text": "Baruunturuun Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "District",
+      "url": "https://en.wikipedia.org/wiki/Districts_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "49°39′30″N 94°23′57″E ﻿ / ﻿ 49.65833°N 94.39917°E ﻿ / 49.65833; 94.39917",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Baruunturuun&params=49_39_30_N_94_23_57_E_region:MN_type:city(2810)",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "UTC+7",
+      "url": "https://en.wikipedia.org/wiki/UTC+7",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "sum",
+      "url": "https://en.wikipedia.org/wiki/Sums_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Uvs Province",
+      "url": "https://en.wikipedia.org/wiki/Uvs_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Turuun River",
+      "url": "https://en.wikipedia.org/wiki/Turuun_River",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "continental climate",
+      "url": "https://en.wikipedia.org/wiki/Continental_climate",
+      "lang": ""
+    },
+    {
+      "text": "Köppen",
+      "url": "https://en.wikipedia.org/wiki/Köppen_climate_classification",
+      "lang": ""
+    },
+    {
+      "text": "Trewartha",
+      "url": "https://en.wikipedia.org/wiki/Trewartha_climate_classification",
+      "lang": ""
+    },
+    {
+      "text": "subarctic climate",
+      "url": "https://en.wikipedia.org/wiki/Subarctic_climate",
+      "lang": ""
+    },
+    {
+      "text": "temperature inversions",
+      "url": "https://en.wikipedia.org/wiki/Inversion_(meteorology)",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-NCEI-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-NCEI-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-NCEI-3",
+      "lang": ""
+    },
+    {
+      "text": "precipitation",
+      "url": "https://en.wikipedia.org/wiki/Precipitation",
+      "lang": ""
+    },
+    {
+      "text": "relative humidity",
+      "url": "https://en.wikipedia.org/wiki/Relative_humidity",
+      "lang": ""
+    },
+    {
+      "text": "dew point",
+      "url": "https://en.wikipedia.org/wiki/Dew_point",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-NCEI-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-NOAA-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "bags",
+      "url": "https://en.wikipedia.org/wiki/Bags_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Baruunturuun, Mongolia\"",
+      "url": "http://www.fallingrain.com/world/MG/19/Baruunturuun.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-NCEI_3-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-NCEI_3-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-NCEI_3-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-NCEI_3-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Baruuhturuun Climate Normals 1991-2020\"",
+      "url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-2-WMO-Normals-9120/Mongolia/CSV/Baruunturuun_44213.csv",
+      "lang": ""
+    },
+    {
+      "text": "National Oceanic and Atmospheric Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-NOAA_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Baruuhturuun Climate Normals 1961-1990\"",
+      "url": "https://www.ncei.noaa.gov/pub/data/normals/WMO/1961-1990/RA-II/MO/44213.TXT",
+      "lang": ""
+    },
+    {
+      "text": "National Oceanic and Atmospheric Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Resident Population in Mongolia, by Bag/Khoroo\"",
+      "url": "https://www2.1212.mn/tablesdata1212.aspx?tbl_id=dt_nso_0300_004v5&ln=en",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Districts_of_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Districts_of_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Districts_of_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Districts",
+      "url": "https://en.wikipedia.org/wiki/Districts_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Uvs",
+      "url": "https://en.wikipedia.org/wiki/Uvs_Province",
+      "lang": ""
+    },
+    {
+      "text": "Baruunturuun",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun",
+      "lang": ""
+    },
+    {
+      "text": "Bökhmörön",
+      "url": "https://en.wikipedia.org/wiki/Bökhmörön,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Davst",
+      "url": "https://en.wikipedia.org/wiki/Davst,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Khyargas",
+      "url": "https://en.wikipedia.org/wiki/Khyargas,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Malchin",
+      "url": "https://en.wikipedia.org/wiki/Malchin,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Naranbulag",
+      "url": "https://en.wikipedia.org/wiki/Naranbulag,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Ömnögovi",
+      "url": "https://en.wikipedia.org/wiki/Ömnögovi,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Öndörkhangai",
+      "url": "https://en.wikipedia.org/wiki/Öndörkhangai,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Sagil",
+      "url": "https://en.wikipedia.org/wiki/Sagil,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Tarialan",
+      "url": "https://en.wikipedia.org/wiki/Tarialan,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Tes",
+      "url": "https://en.wikipedia.org/wiki/Tes,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Tsagaankhairkhan",
+      "url": "https://en.wikipedia.org/wiki/Tsagaankhairkhan,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Türgen",
+      "url": "https://en.wikipedia.org/wiki/Türgen,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom (city)",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom",
+      "lang": ""
+    },
+    {
+      "text": "Zavkhan",
+      "url": "https://en.wikipedia.org/wiki/Zavkhan,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Züüngovi",
+      "url": "https://en.wikipedia.org/wiki/Züüngovi,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "Züünkhangai",
+      "url": "https://en.wikipedia.org/wiki/Züünkhangai,_Uvs",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Mn_coa_uvs_aimag_1999.svg",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&oldid=1382924989",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&oldid=1382924989",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Districts of Uvs Province",
+      "url": "https://en.wikipedia.org/wiki/Category:Districts_of_Uvs_Province",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox mapframe without shape links in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox settlement with no map",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_settlement_with_no_map",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from November 2016",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_November_2016",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Baruunturuun&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Baruunturuun_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-04.txt"
+}

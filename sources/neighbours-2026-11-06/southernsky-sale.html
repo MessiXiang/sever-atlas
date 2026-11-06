@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+			<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+
+<title>Поиск авиабилетов</title>
+
+            <meta name="generator" content="Nemo IBE">
+
+
+	<link rel="stylesheet" href="/templates/wurst/f2.0/css/font/fontawesome/css/font-awesome.min.css">
+	<link href='//fonts.googleapis.com/css?family=Roboto:400,700,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/templates/wurst/f2.0/js/lib/pickmeup/style.css">
+	<link rel="stylesheet" href="/static/css/_frameworks/normalize/normalize-2.1.2-custom.css">
+	<link rel="stylesheet" href="/static/styles/css/flags/flags.css">
+	<link rel="stylesheet" href="/templates/wurst/css/jquery-ui-1.9.2.custom.css">
+	<link rel="stylesheet" href="/static/js/_frameworks/Print.js/v.1.0.13/dist/print.min.css">
+	<link rel="stylesheet" href="/templates/wurst/f2.0/css/style.css?version=v26.10.3.5">
+	<link rel="stylesheet" href="/templates/wurst/css/style.css?version=v26.10.3.5">
+	<link rel="stylesheet" href="/templates/wurst/css/to_preprocess.css">
+	
+	<!-- for IE 10 & IE 11 -->
+	<link rel="stylesheet" href="/templates/wurst/css/ie10_11.css">
+
+	
+	<script src="/static/js/_frameworks/jquery/jquery-1.8.3.min.js"></script>
+	<script src="/templates/wurst/f2.0/js/vm/EventManager.js"></script>
+	<script src="/templates/wurst/f2.0/js/lib/pickmeup/pickmeup.min.js"></script>
+	<script src="/static/js/jquery.printElement.js"></script>
+	<script src="/static/js/_frameworks/clipboard.js-master/dist/clipboard.min.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui/jquery-ui-1.9.2.full.min.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui/i18n/jquery.datepicker.ru.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui.new_popup/jquery.ui.new_popup.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui.popupRequest/jquery.ui.requestPopup.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui.thickbox/jquery.ui.thickbox.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui.geoautocomplete/jquery.ui.geoautocomplete.js"></script>
+	<script src="/static/js/_frameworks/jquery.tooltipster/jquery.tolltipster.js"></script>
+	<script src="/static/js/_frameworks/md5/md5.js"></script>
+	<script src="/static/js/_frameworks/jquery.i18n/jquery.i18n.js"></script>
+
+	<script src="/static/js/_frameworks/jquery.cookie/jquery.cookie.js"></script>
+	<script src="/static/js/_frameworks/jquery.chosen.min.js"></script>
+
+	<script src="/static/js/_frameworks/jquery.inputmask/jquery.inputmask.js"></script>
+	<script src="/static/js/_frameworks/jquery.inputmask/jquery.inputmask.date.extensions.js"></script>
+
+	<script src="/static/js/_frameworks/jquery.nemoSVARX/jquery.nemoSVARX.js"></script>
+	<script src="/static/js/_frameworks/jquery.nemoSVARX/jquery.nemoSVARX.validationExtension.js"></script>
+	<script src="/static/js/_frameworks/jquery.nemoSVARX/jquery.nemoSVARX.methods.main.js"></script>
+	<script src="/static/js/_frameworks/jquery.nemoSVARX/jquery.SVARXBinder.js"></script>
+	<script src="/static/js/_frameworks/jquery.jwerty/jquery.jwerty.js"></script>
+	<script src="/static/js/_frameworks/jquery.ui.popupRequest/jquery.ui.popupRequest.js"></script>
+
+	<script src="/static/js/_frameworks/knockoutjs/knockout-3.4.2.js"></script>
+	<script src="/static/js/_frameworks/knockoutjs/knockout.mapping-latest.js"></script>
+	<script src="/static/js/_frameworks/knockoutjs/knockout-repeat.js"></script>
+
+	<script src="/static/js/_frameworks/Print.js/v.1.0.13/dist/print.min.js"></script>
+
+	<script src="/static/js/ui.js"></script>
+	<script src="/static/js/scripts.js"></script>
+
+	
+
+	
+	<script type="text/javascript">
+		var _GLOBAL_POPUP_CLOSE_TEXT = 'Закрыть';
+
+		var _GLOBAL_POFFICE_NO_DATA_TEXT = 'Нет данных';
+
+		var _GLOBAL_CHOSEN_NOTFOUND = 'не найдено';
+
+		var PAGE_TYPE = '';
+	</script>
+
+	<script src="/static/js/_frameworks/numeral/1.5.2/numeral.min.js"></script>
+
+        
+<script src="/static/js/_frameworks/jquery.currencyConverter/jquery.currencyConverter.js"></script>
+<script>
+	$(function () {
+		$(document).currencyConverter({
+			useCache: false,
+			roundingFunction: Math.ceil,
+			defaultCurrency: 'KZT',
+			conversionTable: {"EUR":1,"USD":1.1267,"RUB":92.1581,"KZT":510.294},
+			currencyFixedFormat: {"BYN":"0,0.00 $","EUR":"0,0.00 $","USD":"0,0.00 $","GBP":"0,0.00 $","AZN":"0,0.00 $","GEL":"0,0.00 $","BYR":"0,0 $","KZT":"0,0 $","UZS":"0,0 $"},			currencyNames: {
+            'EUR': '€','USD': '$','RUB': 'руб','KZT': 'KZT'
+            },
+			currencyType: 'name'
+        }, function (options) { if (typeof vm !== 'undefined') {vm.data.currencyOptions = options;} });
+        });
+</script>	<script>
+		$.fn.svarx.methods.main.__classes.vis_error = 'nemo-ui-hint nemo-ui-hint_warn';
+		$.fn.svarx.methods.main.__classes.vis_errorfield = 'nemo-common-svarxErrorField';
+	</script>
+
+	
+
+
+
+<script>
+	</script><link rel="stylesheet" href="/templates/southernsky_manager/extfiles/style.css?version=v26.10.3.0" >
+	</head>
+
+	
+	<body>
+		<!-- BEGIN /frontend/index.tpl -->
+				<!-- BEGIN t:new old_browser.tpl -->
+    <div class="ie-must-die ie-must-die_main js-old-browser-full" style="display: none;">
+	<div class="ie-must-die__content">
+		<span class="ie-must-die__title">Вы используете устаревший браузер</span>
+		<p class="ie-must-die__text">Для того, чтобы использовать все возможности сайта, обновите браузер или загрузите и установите любой другой:</p>
+		<div class="ie-must-die__items">
+			<a href="https://www.google.com/chrome/" class="ie-must-die__item ie-must-die__item_chrome">
+				<div>Chrome</div>
+			</a>
+			<a href="https://www.mozilla.org/firefox/" class="ie-must-die__item ie-must-die__item_ff">
+				<div>Firefox</div>
+			</a>
+			<a href="https://www.opera.com" class="ie-must-die__item ie-must-die__item_opera">
+				<div>Opera</div>
+			</a>
+			<a href="https://www.microsoft.com/ru-ru/windows/microsoft-edge" class="ie-must-die__item ie-must-die__item_ie">
+				<div>Edge</div>
+			</a>
+		</div>
+
+		<div class="ie-must-die__close">Закрыть</div>
+	</div>
+</div>
+
+<div class="ie-must-die ie-must-die_fix js-old-browser-short" style="display: none;">
+	<div class="ie-must-die__content">
+		<div class="ie-must-die__header">
+			<span class="ie-must-die__title">Вы используете устаревший браузер</span>
+			<span class="ie-must-die__text">Скачать последнюю версию одного из интернет-браузеров:</span>
+		</div>
+		<div class="ie-must-die__items">
+			<a href="https://www.google.com/chrome/" class="ie-must-die__item ie-must-die__item_chrome">
+				<div>Chrome</div>
+			</a>
+			<a href="https://www.mozilla.org/firefox/" class="ie-must-die__item ie-must-die__item_ff">
+				<div>Firefox</div>
+			</a>
+			<a href="https://www.opera.com" class="ie-must-die__item ie-must-die__item_opera">
+				<div>Opera</div>
+			</a>
+			<a href="https://www.microsoft.com/ru-ru/windows/microsoft-edge" class="ie-must-die__item ie-must-die__item_ie">
+				<div>Edge</div>
+			</a>
+		</div>
+		<div class="ie-must-die__close">Закрыть</div>
+	</div>
+</div>
+<!-- END t:new old_browser.tpl -->		<!-- BEGIN t:new scrollTopPanel.tpl -->
+
+
+<!-- END t:new scrollTopPanel.tpl -->				
+			<div class="pro-wrapper js-pageWrapper pro-wrapper_wide">
+		
+
+
+<div class="nemo-common-mobileControl nemo-common-mobileControl_links js-nemo-mobileControl js-nemo-mobileControl_links">
+	<div class="nemo-common-mobileControl__pseudoHeader">
+		<div class="nemo-common-mobileControl__pseudoHeader__close js-nemo-mobileControl__close"></div>
+		<div class="nemo-common-mobileControl__pseudoHeader__options js-nemo-mobileControl__toOptions"></div>
+		<div class="nemo-common-mobileControl__pseudoHeader__title js-nemo-mobileControl__title"></div>
+	</div>
+	<div class="nemo-ui-subContainer nemo-common-mobileControl__sideblock">
+		<div class="nemo-common-mobileControl__sideblock__user">
+							<button class="nemo-ui-button nemo-ui-button_common nemo-common-mobileControl__sideblock__user__button js-header-auth_adaptive">
+					Войти
+				</button>
+
+							
+					</div>
+
+									<a class="nemo-common-mobileControl__sideblock__componentLink" href="/">
+					Авиабилеты
+				</a>
+										</div>
+</div>
+<div class="nemo-common-mobileControl nemo-common-mobileControl_options js-nemo-mobileControl js-nemo-mobileControl_options">
+	<div class="nemo-common-mobileControl__optionsInner">
+		<div class="nemo-common-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock_selector">
+						<div class="nemo-ui-subContainer nemo-common-mobileControl__optionsBlock__options">
+				<div class="nemo-common-mobileControl__optionsBlock__option" data-block="userInfo">
+					<span class="nemo-common-mobileControl__optionsBlock__option__value">
+						<a href="/profile">gst</a>
+													(Гость)
+											</span>
+				</div>
+				<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__optionsBlock__selector" data-block="language">
+					<span class="nemo-common-mobileControl__optionsBlock__option__additional">изменить</span>
+					<span class="nemo-common-mobileControl__optionsBlock__option__value">
+						Русский
+					</span>
+				</div>
+				<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__optionsBlock__selector" data-block="currency">
+					<span class="nemo-common-mobileControl__optionsBlock__option__additional">изменить</span>
+					<span class="nemo-common-mobileControl__optionsBlock__option__value js-nemo-mobileControl__currency__selected">Казахстанский тенге</span>
+				</div>
+			</div>
+			<div class="nemo-ui-button nemo-ui-button_common nemo-common-mobileControl__optionsBlock__cancel js-nemo-mobileControl__close">Закрыть</div>
+		</div>
+
+		<div class="nemo-common-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock_language" style="display: none;">
+			<div class="nemo-ui-subContainer nemo-common-mobileControl__optionsBlock__options">
+															<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-header-dropmenu__drop__language" data-language="en">
+							English
+						</div>
+																													<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-header-dropmenu__drop__language" data-language="kk">
+							Қазақша
+						</div>
+												</div>
+			<div class="nemo-ui-button nemo-ui-button_common nemo-common-mobileControl__optionsBlock__cancel js-nemo-mobileControl__optionsBlock__selector" data-block="selector">Назад</div>
+		</div>
+
+		<div class="nemo-common-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock js-nemo-mobileControl__optionsBlock_currency" style="display: none;">
+			<div class="nemo-ui-subContainer nemo-common-mobileControl__optionsBlock__options">
+									<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__currency__option" data-currency="EUR">
+						Евро
+					</div>
+									<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__currency__option" data-currency="USD">
+						Американский Доллар
+					</div>
+									<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__currency__option" data-currency="RUB">
+						Российский Рубль
+					</div>
+									<div class="nemo-common-mobileControl__optionsBlock__option js-nemo-mobileControl__currency__option" data-currency="KZT">
+						Казахстанский тенге
+					</div>
+							</div>
+			<div class="nemo-ui-button nemo-ui-button_common nemo-common-mobileControl__optionsBlock__cancel js-nemo-mobileControl__optionsBlock__selector" data-block="selector">Назад</div>
+		</div>
+	</div>
+</div>
+<header class="nemo-common-pageHeader">
+	<div class="nemo-common-pageHeader__inner">
+		<div class="nemo-common-pageHeader__mobileControl nemo-common-pageHeader__mobileControl_links js-nemo-mobileControl__toggler" data-control="links"></div>
+
+		<div class="nemo-common-pageHeader__mobileControl nemo-common-pageHeader__mobileControl_options js-nemo-mobileControl__toggler" data-control="options"></div>
+
+		<a href="/" class="nemo-common-pageHeader__logo">
+			<img class="nemo-common-pageHeader__logo__image" src="/templates/wurst/f2.0/img/nemo.travel.svg" alt="">
+		</a>
+
+		<div class="nemo-common-pageHeader__inner__headerLinks">
+						<div class="nemo-common-pageHeader__inner__headerRight__componentsLinks"><a href="/" class="nemo-ui-link nemo-common-pageHeader__inner__headerRight__componentsLinks__avia">Авиабилеты</a><a href="//onlytapesleftalive.com/#deals" class="nemo-ui-link nemo-common-pageHeader__inner__headerRight__componentsLinks__avia">Предложения</a><a href="onlytapesleftalive.com/support/" class="nemo-ui-link nemo-common-pageHeader__inner__headerRight__componentsLinks__avia">Пассажирам</a></div>
+		</div>
+
+		<div class="nemo-common-pageHeader__inner__headerRight">
+
+			
+				
+				<a href="/authorization__auth_client?back_location=dbbb879be02c64bfad95f9bb5bed2c1d"
+					class="nemo-ui-button nemo-ui-button_common nemo-ui-button_medium nemo-common-pageHeader__inner__headerLinks__item nemo-common-pageHeader__auth js-header-auth
+							">
+					Войти
+				</a>
+
+				<div class="js-header-restorepass" style="display: none;"></div>
+
+				<!-- BEGIN /authorization_popup.tpl -->
+<script>
+		
+
+		$(function () {
+			$('.js-auth-loginform')
+				.one('svarxfailed svarxloaded',function(e){
+					$(this).on('submit',function(e) {
+						if (e.isDefaultPrevented()) {
+							return;
+						}
+
+						var $form = $(this),
+							$stub = $('<div></div>').addClass('js-auth__form__stub nemo-auth__stub'),
+							$messageblock = $form.find('.js-auth__message').empty().hide(),
+							$errorblock = $form.find('.js-auth__error').empty().hide();
+
+						e.preventDefault();
+
+						// Creating stub
+						$(this).append($stub);
+
+						$.post(
+							$form.prop('action'),
+							$form.serialize()+'&json=1',
+							function (data) {
+								$stub.remove();
+								if (data.success) {
+									if(data.message.length > 0) {
+										$messageblock.empty().html(data.message).show();
+									}
+									if (typeof data.url != "undefined") {
+										document.location = (data.url != '') ? data.url : '/';
+									}
+								}
+								else {
+									$errorblock.empty().html(data.message).show();
+								}
+							},
+							'json'
+						).error(function(a,s,d,f){
+							$stub.remove();
+							$errorblock.empty().html(s).show();
+						});
+					})
+				})
+				.SVARXBinder({
+					XMLText: '<?xml version="1.0"?><svarx><preprocess/><validate>' +
+					'<rule for="/^(?!back_location)/" type="required" onerror="svarx-auth-required"/>' + // Rule for everything except "back_location" field
+					'<rule type="eq" onerror="svarx-auth-passsunequal">' +
+					'<el name="password"/>' +
+					'<el name="password_again"/>' +
+					'<errtarget name="password_again"/>' +
+					'</rule>' +
+					'</validate>' +
+					'</svarx>',
+					errorMessagesURL: '/SVARXSupport__getSVARXErrors',
+					SVARXOptions: {bindTo:'submit'}
+				});
+		});
+
+	
+	</script>
+
+<div class="js-auth__popupContainer nemo-auth nemo-auth_popup" style="display: none;">
+
+	<form class="nemo-auth__form nemo-auth__form_login js-auth-loginform" method="post" action="/authorization__auth_client?back_location=dbbb879be02c64bfad95f9bb5bed2c1d">
+
+				<div class="nemo-ui-hilight nemo-ui-hilight_error nemo-auth__error js-auth__error" style="display: none;"></div>
+
+		<div class="nemo-auth__field nemo-auth__field_username js-validation_anchor">
+			<div class="nemo-ui-textInput nemo-auth__field__label">
+				<input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+				       name="login"
+				       type="text"
+				       placeholder="Логин (эл. почта)">
+			</div>
+		</div>
+		<div class="nemo-auth__field nemo-auth__field_password js-validation_anchor">
+			<div class="nemo-ui-textInput nemo-auth__field__label">
+				<input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+				       id="password"
+				       name="pass"
+				       type="password"
+				       placeholder="Пароль"
+				       autocomplete="off">
+
+				<i class="fa fa-eye js-password-toggle nemo-ui-textInput__passVisible"></i>
+			</div>
+		</div>
+
+		<input name="back_location"
+		       type="hidden"
+		       value="d41d8cd98f00b204e9800998ecf8427e">
+
+				<div class="nemo-ui-hilight nemo-ui-hilight_info nemo-auth__info js-auth__message" style="display: none;"></div>
+
+		<div class="nemo-auth__mainButtons nemo-auth__mainButtons_noMargin">
+			<div class="nemo-auth__mainButtons__links">
+				<a href="#" class="nemo-ui-pseudoLink js-header-restorepass">Забыли пароль?</a>
+
+							</div>
+
+			<input type="submit" value="Войти" class="nemo-ui-button nemo-ui-button_main">
+		</div>
+	</form>
+
+	
+	</div>
+<!-- END /authorization_popup.tpl -->				<script>
+
+
+	$(function () {
+		$('.js-auth-restorepassform')
+				.one('svarxfailed svarxloaded',function(e){
+					$(this).on('submit',function(e) {
+						if (e.isDefaultPrevented()) {
+							return;
+						}
+
+						var $form = $(this),
+								$stub = $('<div></div>').addClass('js-auth__form__stub nemo-auth__stub'),
+								$messageblock = $form.find('.js-auth__message').empty().hide(),
+								$errorblock = $form.find('.js-auth__error').empty().hide();
+
+						e.preventDefault();
+
+						// Creating stub
+						$(this).append($stub);
+
+						$.post(
+							$form.prop('action'),
+							$form.serialize()+'&json=1',
+							function (data) {
+								$stub.remove();
+								if (data.success) {
+									$messageblock.empty().html(data.message).show();
+
+									if (typeof data.url != "undefined") {
+										document.location = (data.url != '') ? data.url : '/';
+									}
+								}
+								else {
+									$errorblock.empty().html(data.message).show();
+								}
+							},
+							'json'
+						).error(function(a,s,d,f){
+							$stub.remove();
+							$errorblock.empty().html(s).show();
+						});
+					})
+				})
+				.SVARXBinder({
+					XMLText: '<?xml version="1.0"?><svarx><preprocess/><validate>' +
+					'<rule for="/^(?!back_location)/" type="required" onerror="svarx-auth-required"/>' + // Rule for everything except "back_location" field
+					'</validate>' +
+					'</svarx>',
+					errorMessagesURL: '/SVARXSupport__getSVARXErrors',
+					SVARXOptions: {bindTo:'submit'}
+				});
+	});
+
+
+</script>
+
+<div class="js-restorePass__popupContainer nemo-auth nemo-auth_popup nemo-auth_passRecoveryPopup" style="display: none;">
+	<form class="nemo-auth__form nemo-auth__form_passrestore js-auth__form js-auth-restorepassform"
+	      method="post"
+	      action="/authorization__send_password_link?back_location=dbbb879be02c64bfad95f9bb5bed2c1d">
+
+				<div class="nemo-ui-hilight nemo-ui-hilight_error nemo-auth__error js-auth__error" style="display: none;"></div>
+
+				<div class="nemo-ui-hilight nemo-ui-hilight_info nemo-auth__info js-auth__message" style="display: none;"></div>
+
+				<div class="nemo-auth__field nemo-auth__field_username nemo-auth__field_passrestore js-validation_anchor">
+			<label class="nemo-ui-textInput nemo-auth__field__label">
+	          <input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+	                          name="login"
+	                          type="text"
+	                          autofocus="autofocus"
+	                          placeholder="Логин (эл. почта)">
+			</label>
+		</div>
+
+		<div class="nemo-auth__mainButtons nemo-auth__mainButtons_noMargin">
+			<a href='#' class="nemo-ui-pseudoLink js-header-backToAuth">Я вспомнил пароль</a>
+			<button type="button" class="nemo-ui-button nemo-ui-button_main js-header-restorePassSubmit" role="button">Восстановить</button>
+		</div>
+	</form>
+</div>
+				
+			
+			<div class="nemo-ui-dropMenu js-nemo-header-dropmenu nemo-common-pageHeader__dropMenu nemo-common-pageHeader__dropMenu_language
+				 nemo-common-pageHeader__dropMenu nemo-common-pageHeader__dropMenu_language_borderRight  ">
+
+				<div class="nemo-ui-dropMenu__main">
+					<button class="nemo-ui-button nemo-ui-button_common nemo-common-pageHeader__dropMenu__button js-nemo-header-dropmenu__button">
+						<span class="nemo-common-pageHeader__langSelectImage flag flag-RU"></span>
+					</button>
+				</div>
+
+				<div class="nemo-ui-dropMenu__drop js-nemo-header-dropmenu__drop nemo-common-pageHeader__droplist nemo-common-pageHeader__droplist_language">
+					<span class="nemo-common-pageHeader__droplist__header">Язык сайта</span>
+																		<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__language" data-language="en">
+								<div class="nemo-common-pageHeader__droplist__option__icon">
+									<span class="nemo-common-pageHeader__langSelectImage flag 
+										flag-EN"
+									>
+									</span>
+								</div>
+								<span class="nemo-common-pageHeader__droplist__option__text">
+									English
+								</span>
+							</div>
+																																			<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__language" data-language="kk">
+								<div class="nemo-common-pageHeader__droplist__option__icon">
+									<span class="nemo-common-pageHeader__langSelectImage flag 
+										flag-KK"
+									>
+									</span>
+								</div>
+								<span class="nemo-common-pageHeader__droplist__option__text">
+									Қазақша
+								</span>
+							</div>
+															</div>
+			</div>
+
+						<div class="nemo-ui-dropMenu js-nemo-header-dropmenu nemo-common-pageHeader__dropMenu nemo-common-pageHeader__dropMenu_currency">
+
+				<div class="nemo-ui-dropMenu__main">
+					<button class="nemo-ui-button nemo-ui-button_common nemo-common-pageHeader__dropMenu__button js-nemo-header-dropmenu__button">
+													₸
+											</button>
+				</div>
+
+				<div class="nemo-ui-dropMenu__drop js-nemo-header-dropmenu__drop nemo-common-pageHeader__droplist">
+					<span class="nemo-common-pageHeader__droplist__header">Валюта поиска и оплаты</span>
+											<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__currency" data-currency="EUR">
+							<div class="nemo-common-pageHeader__droplist__option__icon">
+																€
+															</div>
+							<span class="nemo-common-pageHeader__droplist__option__text">
+								Евро
+							</span>
+							<span class="js-nemo-header-dropmenu__drop__currency__text" style="display: none;">
+																€
+															</span>
+						</div>
+											<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__currency" data-currency="USD">
+							<div class="nemo-common-pageHeader__droplist__option__icon">
+																$
+															</div>
+							<span class="nemo-common-pageHeader__droplist__option__text">
+								Американский Доллар
+							</span>
+							<span class="js-nemo-header-dropmenu__drop__currency__text" style="display: none;">
+																$
+															</span>
+						</div>
+											<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__currency" data-currency="RUB">
+							<div class="nemo-common-pageHeader__droplist__option__icon">
+																<money><currency type="symbol" currency="RUB">RUB</currency></money>
+															</div>
+							<span class="nemo-common-pageHeader__droplist__option__text">
+								Российский Рубль
+							</span>
+							<span class="js-nemo-header-dropmenu__drop__currency__text" style="display: none;">
+																<money><currency type="symbol" currency="RUB">RUB</currency></money>
+															</span>
+						</div>
+											<div class="nemo-common-pageHeader__droplist__option js-nemo-header-dropmenu__drop__option js-nemo-header-dropmenu__drop__currency" data-currency="KZT">
+							<div class="nemo-common-pageHeader__droplist__option__icon">
+																₸
+															</div>
+							<span class="nemo-common-pageHeader__droplist__option__text">
+								Казахстанский тенге
+							</span>
+							<span class="js-nemo-header-dropmenu__drop__currency__text" style="display: none;">
+																₸
+															</span>
+						</div>
+					
+				</div>
+
+			</div>
+					</div>
+	</div>
+		<script>
+			
+
+		$(document).on('click', '.js-ui-alert__closer', function () {
+			var element = this,
+					$element = $(element),
+					$alert = $element.parents('.js-ui-alert');
+
+			if ($alert.length) {
+				$alert.animate({
+					opacity: 0
+				}, 300, function () {
+					setTimeout(function () {
+						$alert.remove();
+					}, 200);
+				});
+			}
+		});
+
+		var $pseudoSelectHeader = null,
+			closePseudoSelectHeader = true;
+
+		function hidePseudoSelectDropdown (e) {
+			$dropdown = $(document).find('.js-common-pseudoSelectHeader__dropdown');
+
+			if (
+				(!$(e.target).closest('.js-common-pseudoSelectHeader__toggle').length ||
+				($dropdown.is(':visible') && closePseudoSelectHeader)) && $pseudoSelectHeader
+			) {
+				$dropdown.hide();
+				$pseudoSelectHeader.removeClass('nemo-ui-select__toggle_open');
+				$pseudoSelectHeader = null;
+			}
+
+			closePseudoSelectHeader = true;
+		}
+
+		$(document).on('click', '.js-common-pseudoSelectHeader__toggle', function (e) {
+			var $this = $(e.target),
+				$dropdown = $(this).parent('.js-common-pseudoSelectHeader').find('.js-common-pseudoSelectHeader__dropdown'),
+				$lastPseudoSelectHeader = $pseudoSelectHeader,
+				$container = $(this).parents('.js-po-tableContainer');
+
+			hidePseudoSelectDropdown(e);
+
+			if ($this.is($lastPseudoSelectHeader)) {
+				return;
+			}
+
+			if (!$dropdown.length) {
+				console.log('length=0');
+				return;
+			}
+
+			$pseudoSelectHeader = $this;
+
+			$this.addClass('nemo-ui-select__toggle_open');
+
+			closePseudoSelectHeader = $dropdown.is(':visible');
+
+			$dropdown.css({top: '', bottom: ''}).show();
+
+			if ($container.length) {
+				var containerHeight = $container.outerHeight(),
+					containerTop    = $container.offset().top,
+					dropdownTop     = $dropdown.offset().top,
+					dropdownHeight  = $dropdown.outerHeight();
+
+				if (dropdownTop + dropdownHeight > containerTop + containerHeight) {
+					$dropdown.css('top', 0 - dropdownHeight + 'px');
+				}
+			}
+		});
+
+		$(document).on('click','.js-nemo-header-dropmenu__button', function (e) {
+			e.preventDefault();
+
+			var $this = $(this),
+				$dropdown = $this.closest('.js-nemo-header-dropmenu').find('.js-nemo-header-dropmenu__drop');
+
+			$('.js-nemo-header-dropmenu__drop').each(function () {
+				var $this = $(this);
+
+				if ($dropdown.is($this)) {
+					$('body').toggleClass('nemo-common-mobileControlOpen');
+					$this.toggle();
+				}
+				else {
+					$this.hide();
+					$this.closest('.js-nemo-header-dropmenu').removeClass('nemo-ui-dropMenu_open');
+				}
+			});
+
+			if ($this.closest('.js-nemo-header-dropmenu').find('.js-nemo-header-dropmenu__drop').is(':visible')) {
+				$this.closest('.js-nemo-header-dropmenu').addClass('nemo-ui-dropMenu_open');
+			}
+		});
+
+		$(document).on('click', function (e) {
+			var $t = $(e.target);
+
+			if (
+				!$t.hasClass('js-validation_errormessage') &&
+				(
+					$t.closest('.js-nemo-header-dropmenu').length == 0 ||
+					$t.closest('.js-nemo-header-dropmenu__drop__option').length > 0
+				)
+			) {
+				$('.js-nemo-header-dropmenu__drop').hide();
+				$('.js-nemo-header-dropmenu').removeClass('nemo-ui-dropMenu_open');
+			}
+
+			hidePseudoSelectDropdown(e);
+		});
+
+		$('.js-nemo-header-dropmenu__drop__currency').click(function() {
+			var $this = $(this);
+
+			$(document).trigger('cc:changeCurrency',{currency:$this.attr('data-currency')});
+
+			$this.parents('.js-nemo-header-dropmenu').find('.js-nemo-header-dropmenu__button').empty().append($this.find('.js-nemo-header-dropmenu__drop__currency__text').clone().show());
+		});
+
+		$('.js-nemo-header-dropmenu__drop__language').click(function() {
+			var location = document.location;
+
+			document.location = location.origin +
+								location.pathname +
+								(location.search ? location.search + '&' : '?') +
+								'changelang=' + $(this).attr('data-language') +
+								location.hash;
+		});
+
+		$(document).on('click', '.js-header-auth_adaptive', function (e) {
+			e.preventDefault();
+			$('.js-header-auth').click();
+		});
+
+		$(document).on('click', '.js-header-register_adaptive', function (e) {
+			e.preventDefault();
+			$('.js-header-register').click();
+		});
+
+		$(document).on('click', '.js-header-checkOrder_adaptive', function (e) {
+			e.preventDefault();
+			e.preventDefault();
+
+			$('.js-header-checkOrder').click();
+		});
+
+		$(document).on('click', '.js-header-checkOrder', function (e) {
+			e.preventDefault();
+
+			if ($(this).data('ui-popup')) {
+				$(this).popup('open');
+			}
+			else {
+				$(this).popup({
+					modal: true,
+					draggable: false,
+					closeText: '',//bindingContext.$root.i18n('common', 'popup_closeText'),
+					width: 'auto',
+					height: 'auto',
+					title: 'Проверить состояние заказа',
+					contentType: 'html',
+					contentData: $('.js-header-checkOrder__popup').show(),
+					contentClass: 'nemo-common-checkOrderPopup',
+					dialogClass: 'nemo-common-checkOrder__dialog',
+					buttons: [
+						{
+							text: 'Открыть',
+							class: 'nemo-ui-button_main',
+							click: function () {
+								$('.js-header-checkOrder__popup').submit();
+							}
+						}
+					],
+					close: function () {
+						closeTooltips();
+					}
+				});
+			}
+		});
+
+		var $authPopup = $('.js-auth__popupContainer'),
+			$registrationPopup = $('.js-registration-formcontainer_b2c'),
+			$remindPasswordPopup = $('.js-restorePass__popupContainer');
+
+		function closeTooltips () {
+			$('.js-validation_errormessage').each(function (index, element) {
+				$(this).hide();
+			});
+		}
+
+		$(document).on('click', '.js-header-auth', function (e) {
+			e.preventDefault();
+
+			if (!$authPopup) {
+				$authPopup = $(this);
+			}
+
+			if ($authPopup.data('ui-popup')) {
+				$authPopup.popup('open');
+			}
+			else {
+				$authPopup.popup({
+					modal: true,
+					draggable: false,
+					closeText: '',//bindingContext.$root.i18n('common', 'popup_closeText'),
+					width: 'auto',
+					height: 'auto',
+					title: 'Вход',
+					contentClass: 'nemo-authPopup',
+					dialogClass: 'nemo-auth__dialog',
+					close: function () { closeTooltips() }
+				});
+			}
+		});
+
+		$(document).on('click', '.js-header-goToRegFromAuth', function (e) {
+			e.preventDefault();
+
+			try {
+				$authPopup.popup('close');
+			}
+			catch (e) {}
+
+			$('.js-header-register').click();
+
+		});
+
+		$(document).on('click', '.js-header-goToAuthFromReg', function (e) {
+			e.preventDefault();
+
+			try {
+				$registrationPopup.popup('close');
+			}
+			catch (e) {}
+
+			$('.js-header-auth').click();
+		});
+
+		$(document).on('click', '.js-header-backToAuth', function (e) {
+			e.preventDefault();
+
+			try {
+				$remindPasswordPopup.popup('close');
+			}
+			catch (e) {}
+
+			$('.js-header-auth').click();
+		});
+
+		$(document).on('click', '.js-header-goToRemindPassFromReg', function (e) {
+			e.preventDefault();
+
+			try {
+				$registrationPopup.popup('close');
+			}
+			catch (e) {}
+
+			$('.js-header-restorepass').click();
+		});
+
+		$(document).on('click', '.js-header-restorepass', function (e) {
+			e.preventDefault();
+
+			try {
+				$authPopup.popup('close');
+			}
+			catch (e) {}
+
+			if ($remindPasswordPopup.data('ui-popup')) {
+				$remindPasswordPopup.popup('open');
+			}
+			else {
+				$remindPasswordPopup.popup({
+					modal: true,
+					draggable: false,
+					closeText: '',//bindingContext.$root.i18n('common', 'popup_closeText'),
+					width: 'auto',
+					height: 'auto',
+					title: 'Восстановление пароля',
+					contentClass: 'nemo-authPopup nemo-authPopup_restorepass',
+					dialogClass: 'nemo-auth__dialog',
+					close: function () { closeTooltips() }
+				});
+			}
+		});
+
+		$(document).on('click', '.js-password-toggle', function (e) {
+			const $target = $(e.target),
+				parent = $target.parent();
+				input = $(parent).find('input[id="password"]');
+
+			if (input.attr('type') === 'password') {
+				input.prop('type', 'text');
+				$target.removeClass('fa-eye');
+				$target.addClass('fa-eye-slash');
+			}
+			else {
+				input.prop('type', 'password');
+				$target.addClass('fa-eye');
+				$target.removeClass('fa-eye-slash');
+			}
+		})
+
+		$(document).on('click', '.js-header-restorePassSubmit', function (e) {
+			$('.js-auth-restorepassform').submit();
+		});
+
+		$(document).on('click', '.js-header-register', function (e) {
+			e.preventDefault();
+
+			if ($registrationPopup.data('ui-popup')) {
+				$registrationPopup.popup('open');
+			}
+			else {
+				$registrationPopup.popup({
+					modal: true,
+					draggable: false,
+					closeText: '',//bindingContext.$root.i18n('common', 'popup_closeText'),
+					width: 'auto',
+					height: 'auto',
+					title: 'Регистрация',
+					contentClass: 'nemo-registrationPopup',
+					dialogClass: 'nemo-auth__dialog',
+					close: function () { closeTooltips() }
+				});
+			}
+		});
+
+		function closeMobileControls () {
+			$('.js-nemo-mobileControl').removeClass('nemo-common-mobileControl_open');
+			$('body').removeClass('nemo-common-mobileControlOpen');
+		}
+
+		$('.js-nemo-mobileControl__toggler').click(function () {
+			$('.js-nemo-mobileControl_' + $(this).attr('data-control'))
+					.addClass('nemo-common-mobileControl_open')
+					.find('.js-nemo-mobileControl__title')
+					.text(document.title);
+
+			$('body').addClass('nemo-common-mobileControlOpen');
+		});
+
+		$('.js-nemo-mobileControl_links').click(function(e) {
+			var $this = $(this);
+
+			if ($(e.target).is($this)) {
+				closeMobileControls();
+			}
+		});
+
+		$('.js-nemo-mobileControl__toOptions').click(function(e) {
+			closeMobileControls();
+
+			$('.js-nemo-mobileControl__toggler[data-control="options"]').click();
+		});
+
+		$('.js-nemo-mobileControl__close').click(function(e) {
+			closeMobileControls();
+		});
+
+		function showMobileSelectorControls (name) {
+			$('.js-nemo-mobileControl__optionsBlock').hide().filter('.js-nemo-mobileControl__optionsBlock_'+name).show();
+		}
+
+		$('.js-nemo-mobileControl__optionsBlock__selector').click(function (e) {
+			showMobileSelectorControls ($(this).attr('data-block'));
+		});
+
+		$('.js-nemo-mobileControl__optionsBlock').on('click', function (e) {
+			if ($(e.target).is($(this))) {
+				showMobileSelectorControls ('selector');
+				closeMobileControls();
+			}
+		});
+
+		$('.js-nemo-mobileControl__currency__option').click(function (e) {
+			var $this = $(this);
+
+			$(document).trigger('cc:changeCurrency',{currency: $this.attr('data-currency')});
+
+			$this.parents('.js-nemo-mobileControl').find('.js-nemo-mobileControl__currency__selected').text($this.text());
+
+			showMobileSelectorControls ('selector');
+		});
+		
+	</script></header>
+									<div class="pro-wrapper">				<!-- BEGIN /authorization.tpl -->
+	
+			<div class="nemo-ui-container nemo-auth_separatePage_container">
+		<!-- BEGIN /authorization_actual_template.tpl -->
+<script src="/static/js/authorization.js"></script>
+<div class="nemo-auth_separatePage__header">Войти</div>
+<div class="js-auth__container nemo-auth nemo-auth_separatePage">
+			
+		 			<div class="nemo-auth__loginMessage">
+				
+			</div>
+
+					<form class="nemo-auth__form_login js-auth__form js-auth__form_login"
+				  method="post"
+				  action="/authorization__auth_client?back_location=dbbb879be02c64bfad95f9bb5bed2c1d">
+								<div class="nemo-ui-hilight nemo-ui-hilight_error nemo-auth__error js-auth__error" style="display: none;"></div>
+
+								<div class="nemo-ui-hilight nemo-ui-hilight_info nemo-auth__info js-auth__message" style="display: none;"></div>
+
+								<div class="nemo-auth__field nemo-auth__field_username js-validation_anchor">
+                    <label class="nemo-ui-textInput nemo-auth__field__label">
+                       <input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+                               name="login"
+                               type="text"
+                               autofocus="autofocus"
+                               placeholder="Логин (эл. почта)">
+                    </label>
+				</div>
+				<div class="nemo-auth__field nemo-auth__field_password js-validation_anchor">
+                    <label class="nemo-ui-textInput nemo-auth__field__label">
+						<input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+                               id="password"
+                               name="pass"
+                               type="password"
+                               placeholder="Пароль"
+                               autocomplete="off">
+
+						<i class="fa fa-eye js-password-toggle nemo-ui-textInput__passVisible"></i>
+                    </label>
+				</div>
+
+				<div class="nemo-auth__mainButtons nemo-auth__mainButtons_noMargin">
+					<div class="nemo-auth__mainButtons__links">
+						<a href='#' class="nemo-ui-pseudoLink js-auth__forgotpasslink">Забыли пароль?</a>
+											</div>
+					<input type="submit" class="nemo-ui-button nemo-ui-button_main" name="go" value="Войти">
+				</div>
+
+				<input name="back_location"
+					   type="hidden"
+					   value="d41d8cd98f00b204e9800998ecf8427e">
+
+			</form>
+
+						<form class="nemo-auth__form js-auth__form js-auth__form_restorepass"
+				  method="post"
+				  action="/authorization__send_password_link?back_location=dbbb879be02c64bfad95f9bb5bed2c1d"
+				  style="display: none;">
+								<div class="nemo-ui-hilight nemo-ui-hilight_error nemo-auth__error js-auth__error" style="display: none;"></div>
+
+								<div class="nemo-ui-hilight nemo-ui-hilight_info nemo-auth__info js-auth__message" style="display: none;"></div>
+
+				 				<div class="nemo-auth__field nemo-auth__field_username js-validation_anchor">
+                    <label class="nemo-ui-textInput nemo-auth__field__label">
+						<input class="nemo-ui-textInput__input nemo-auth__field__label__input"
+                               name="login"
+                               type="text"
+                               autofocus="autofocus"
+                               placeholder="Логин (эл. почта)">
+                    </label>
+				</div>
+
+				<div class="nemo-auth__mainButtons nemo-auth__mainButtons_noMargin">
+					<a href='#' class="nemo-ui-pseudoLink js-auth__rememberedpassslink">Я вспомнил пароль</a>
+					<input type="submit" class="nemo-ui-button nemo-ui-button_main" name="go" value="Восстановить">
+				</div>
+
+			</form>
+
+			
+		
+			</div>
+<!-- END /authorization_actual_template.tpl -->	</div>
+	<!-- END /authorization.tpl -->
+
+		</div>	</div>
+	<footer class="nemo-common-footer">
+	<div class="nemo-common-footer__footerInner">
+		<div class="nemo-common-footer__copyRight">
+			© nemo.travel
+		</div>
+		<div class="nemo-common-footer__footerMenu">
+			<a href="#" class="nemo-common-footer__footerMenu__item">
+				Помощь
+			</a>
+			<a href="#" class="nemo-common-footer__footerMenu__item">
+				Обратная связь
+			</a>
+		</div>
+	</div>
+</footer>
+		<!-- END /frontend/index.tpl -->
+		
+			</body>
+</html>

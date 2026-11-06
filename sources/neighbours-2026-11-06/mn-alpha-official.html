@@ -1,0 +1,1460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alpha Aurora Aviation</title>
+<meta name="description" content="Alpha Aurora Aviation is a full-spectrum aviation services organisation in Mongolia combining a Certified Part 145 Maintenance organisation, specialist rotary operations, and regional aerial services under one roof.">
+<link rel="icon" href="https://cygnusglobal.sg/wp-content/uploads/2026/08/rsw_600h_300cg_true.webp_2K_202608061141.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Montserrat:wght@300;400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #1e293b;
+    background: #ffffff;
+    overflow-x: hidden;
+  }
+  img { max-width: 100%; }
+  a { color: inherit; }
+
+  /* ================= CYGNUS HEADER ================= */
+  .cyg-hdr {
+    position: sticky; top: 0; z-index: 1000;
+    background: #ffffff;
+    box-shadow: 0 2px 14px rgba(4, 28, 90, 0.07);
+  }
+  .cyg-hdr-inner {
+    max-width: 1400px; margin: 0 auto;
+    padding: 15px 20px;
+    display: flex; align-items: center; justify-content: space-between; gap: 2rem;
+  }
+  .cyg-hdr-logo { flex-shrink: 0; display: block; }
+  .cyg-hdr-logo img { display: block; height: 100px; width: auto; }
+
+  .cyg-hdr-nav { display: flex; align-items: center; justify-content: center; flex: 1; }
+  .cyg-hdr-nav ul {
+    list-style: none; margin: 0; padding: 0;
+    display: flex; align-items: center; gap: 3.5rem;
+  }
+  .cyg-hdr-nav a {
+    position: relative; display: inline-block; overflow: hidden;
+    font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 19px;
+    color: #041C5A; text-decoration: none; padding-bottom: 0.55rem;
+    transition: all 0.3s ease;
+  }
+  .cyg-hdr-nav a::after {
+    content: ""; position: absolute; left: 0; bottom: 0;
+    width: 100%; height: 3px; background-color: #041C5A;
+    transform: scaleX(0); transform-origin: bottom right;
+    transition: transform 0.3s ease-in-out;
+  }
+  .cyg-hdr-nav a:hover::after {
+    transform: scaleX(1); transform-origin: bottom left;
+  }
+  .cyg-hdr-nav a.is-active::after { transform: scaleX(1); }
+  .cyg-hdr-nav a:focus-visible { outline: 2px solid #0c5bec; outline-offset: 3px; }
+
+  .cyg-hdr-cta {
+    flex-shrink: 0;
+    display: inline-flex; align-items: center; justify-content: center;
+    padding: 0.85rem 2.1rem; border-radius: 999px;
+    background: #0c5bec; color: #ffffff;
+    font-family: "DM Sans", sans-serif; font-weight: 500; font-size: 17px;
+    text-decoration: none; white-space: nowrap;
+    border: 1.5px solid #0c5bec;
+    transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  .cyg-hdr-cta:hover {
+    background: #ffffff; color: #0c5bec;
+    transform: translateY(-2px);
+    box-shadow: 0 12px 22px -12px rgba(12, 91, 236, 0.7);
+  }
+
+  .cyg-hdr-toggle {
+    display: none; background: transparent; border: none;
+    width: 28px; height: 20px; padding: 0; cursor: pointer;
+    flex-direction: column; justify-content: space-between; flex-shrink: 0;
+  }
+  .cyg-hdr-toggle span { display: block; height: 2px; width: 100%; background: #041C5A; border-radius: 2px; }
+
+  @media (max-width: 1024px) {
+    .cyg-hdr-inner { padding: 0.9rem 1.25rem; }
+    .cyg-hdr-nav ul { gap: 2rem; }
+    .cyg-hdr-nav a { font-size: 16px; }
+    .cyg-hdr-logo img { height: 42px; }
+  }
+  @media (max-width: 900px) {
+    .cyg-hdr-nav { display: none; }
+    .cyg-hdr-cta { display: none; }
+    .cyg-hdr-toggle { display: flex; }
+    .cyg-hdr.is-open .cyg-hdr-nav {
+      display: flex; position: absolute; top: 100%; left: 0; right: 0;
+      background: #ffffff; flex-direction: column; align-items: flex-start;
+      padding: 1.5rem; gap: 1rem; box-shadow: 0 14px 24px -14px rgba(4, 28, 90, 0.35);
+    }
+    .cyg-hdr.is-open .cyg-hdr-nav ul { flex-direction: column; align-items: flex-start; gap: 1.1rem; }
+    .cyg-hdr.is-open .cyg-hdr-cta { display: inline-flex; margin-top: 0.5rem; }
+  }
+
+  /* ---------- Hero ---------- */
+  .hero-section {
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: #040c21 url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5244.webp') top center / cover no-repeat;
+    color: #ffffff;
+    padding: 7rem 1rem;
+    box-sizing: border-box;
+  }
+  @media (min-width: 1025px) {
+    .hero-section { background-attachment: fixed; }
+  }
+  .hero-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background-image: linear-gradient(77deg, #040c21 38%, #e5e5e5 84%);
+    opacity: 0.48;
+  }
+  .hero-inner {
+    max-width: 1250px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 1rem;
+    box-sizing: border-box;
+  }
+  .hero-content {
+    max-width: 720px;
+  }
+  .hero-inner h1 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 900;
+    font-size: 62px;
+    line-height: 1.15;
+    margin: 0 0 1.5rem 0;
+    letter-spacing: -0.01em;
+  }
+  .hero-inner p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+    margin: 0 0 2.25rem 0;
+  }
+  .hero-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.95rem 2.2rem;
+    border-radius: 100px;
+    background: #0c5bec;
+    color: #ffffff;
+    font-family: "Red Hat Display", "DM Sans", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow: 0px 25px 40px 0px rgba(19, 19, 19, 0.3);
+    transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
+  }
+  @media (max-width: 767px) {
+    .hero-inner h1 { font-size: 40px; }
+    .hero-inner p { font-size: 16px; text-align: center; }
+    .hero-content { text-align: center; margin: 0 auto; }
+    .hero-cta { font-size: 16px; }
+  }
+  .hero-cta:hover {
+    background: #ffffff;
+    color: #000000;
+    transform: translateY(-2px);
+  }
+
+  /* ================= CYGNUS FOOTER ================= */
+  .cyg-ftr {
+    position: relative; isolation: isolate;
+    background: #ffffff;
+    padding: 4.5rem 2rem 2.25rem 2rem;
+    box-sizing: border-box; overflow: hidden;
+  }
+  .cyg-ftr-inner { max-width: 1400px; margin: 0 auto; }
+  .cyg-ftr-top {
+    display: flex; flex-direction: column; align-items: center; gap: 1.5rem;
+    padding-bottom: 2.25rem; text-align: center;
+  }
+  @media (min-width: 900px) {
+    .cyg-ftr-top { flex-direction: row; justify-content: space-between; text-align: left; }
+  }
+  .cyg-ftr-brand img { display: block; height: 80px; width: auto; margin: 0 auto; }
+  @media (min-width: 900px) { .cyg-ftr-brand img { margin: 0; } }
+  .cyg-ftr-tagline {
+    font-family: "Montserrat", sans-serif; font-weight: 400; font-size: 16px;
+    color: #475569; margin: 0;
+  }
+  .cyg-ftr-tagline a { color: #2563eb; font-weight: 600; text-decoration: none; transition: color 0.25s ease; }
+  .cyg-ftr-tagline a:hover { color: #062276; text-decoration: underline; }
+
+  .cyg-ftr-divider { height: 1px; background: rgba(6, 34, 118, 0.12); border: none; margin: 0; }
+
+  .cyg-ftr-bottom { text-align: center; padding-top: 1.75rem; }
+  .cyg-ftr-copy {
+    font-family: "Montserrat", sans-serif; font-size: 15px; font-weight: 400;
+    color: #94a3b8; margin: 0;
+  }
+  .cyg-ftr-social { display: flex; align-items: center; gap: 1.25rem; }
+  .cyg-ftr-social a { color: #062276; display: inline-flex; transition: opacity 0.25s ease, transform 0.25s ease; }
+  .cyg-ftr-social a:hover { opacity: 0.7; transform: translateY(-2px); }
+  .cyg-ftr-social svg { width: 20px; height: 20px; }
+
+  .cyg-ftr-totop {
+    position: fixed; right: 1.5rem; bottom: 1.5rem; z-index: 999;
+    width: 46px; height: 46px; border-radius: 6px; border: none;
+    background: #0c5bec; color: #ffffff;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; opacity: 0; visibility: hidden;
+    box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.55);
+    transition: opacity 0.3s ease, visibility 0.3s, transform 0.25s ease, background 0.25s ease;
+  }
+  .cyg-ftr-totop.is-visible { opacity: 1; visibility: visible; }
+  .cyg-ftr-totop:hover { background: #041C5A; transform: translateY(-3px); }
+  .cyg-ftr-totop svg { width: 18px; height: 18px; }
+
+  @media (max-width: 640px) {
+    .cyg-ftr { padding: 3.25rem 1.25rem 1.75rem 1.25rem; }
+    .cyg-ftr-brand img { height: 48px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="cyg-hdr" id="cygHeader">
+  <div class="cyg-hdr-inner">
+    <a class="cyg-hdr-logo" href="https://cygnusglobal.sg/">
+      <img src="https://alpha-avia.com/media/aaa-logo.webp" alt="Cygnus Global">
+    </a>
+
+    <nav class="cyg-hdr-nav" id="cygNav">
+      <ul>
+        <li><a class="is-active" href="#top" aria-current="page">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#fleet">Fleet</a></li>
+        <li><a href="#industries">Services</a></li>
+        <li><a href="#groups">Groups</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+    </nav>
+
+    <a class="cyg-hdr-cta" href="#contact">Contact Us</a>
+
+    <button class="cyg-hdr-toggle" id="cygToggle" aria-label="Menu Toggle" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero-section">
+    <div class="hero-inner">
+      <div class="hero-content">
+        <h1>Aviation Excellence,<br>Built on Services &amp; Trust</h1>
+        <p><strong>Alpha Aurora Aviation</strong> is a full-spectrum aviation services organisation combining a <strong>Certified Part 145 Maintenance organisation</strong>, specialist rotary operations, and regional aerial services under one roof. We do not just operate aircraft. We maintain them, manage them, and keep them airworthy to the highest international standards.</p>
+        <a class="hero-cta" href="#capabilities">Explore Our Aviation Services</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cygnus-intro-section" id="about">
+    <div class="cygnus-intro-inner">
+      <div class="cygnus-intro-grid">
+        <div class="cygnus-intro-photo cygnus-intro-reveal" style="--delay: 0s;">
+          <img decoding="async" src="https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.18.011.webp" alt="Alpha Aurora Aviation team with the fleet at the hangar" />
+        </div>
+        <div class="cygnus-intro-text">
+          <h2 class="cygnus-intro-reveal" style="--delay: 0.1s;">Introduction</h2>
+          <hr class="cygnus-intro-rule cygnus-intro-reveal" style="--delay: 0.15s;" />
+          <p class="cygnus-intro-reveal" style="--delay: 0.2s;">Since 2023, Alpha Aurora Aviation has been guided by one simple principle, which is aviation should be safe, reliable, and professionally managed.</p>
+          <p class="cygnus-intro-reveal" style="--delay: 0.25s;">We were founded to meet the growing need for reliable helicopter services in Mongolia. From the beginning, our focus has been on safety, operational excellence, strong engineering, and professional service.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cygnus-ms-section" id="milestones">
+    <div class="cygnus-ms-inner">
+      <div class="cygnus-ms-heading cygnus-ms-reveal" style="--delay: 0s;"><span class="cygnus-ms-eyebrow">Our Journey</span><h2>Key Milestones</h2></div>
+      <div class="cygnus-ms-timeline">
+        <div class="cygnus-ms-year-block cygnus-ms-reveal" style="--delay: 0.05s;">
+          <h3 class="cygnus-ms-year">2023</h3>
+          <ul class="cygnus-ms-list">
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>Alpha Aurora Aviation established in Mongolia.</p></li>
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>MCAA Part 135 Air Operator Certificate obtained.</p></li>
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>MCAA Part 145 Aircraft Maintenance Organization established.</p></li>
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>Operations commence with an Airbus H125, Airbus EC145 C2, Airbus H145 D3 and Robinson R66.</p></li>
+          </ul>
+        </div>
+        <div class="cygnus-ms-year-block cygnus-ms-reveal" style="--delay: 0.1s;">
+          <h3 class="cygnus-ms-year">2024</h3>
+          <ul class="cygnus-ms-list">
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>Three new Airbus H125 helicopters delivered by Airbus Helicopters.</p></li>
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>External load operations introduced in support of Mongolia&rsquo;s mining and exploration industries.</p></li>
+          </ul>
+        </div>
+        <div class="cygnus-ms-year-block cygnus-ms-reveal" style="--delay: 0.15s;">
+          <h3 class="cygnus-ms-year">2025</h3>
+          <ul class="cygnus-ms-list">
+            <li class="cygnus-ms-item"><span class="cygnus-ms-item-icon"><svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 10.5L8 14.5L16 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><p>Expansion into third-party aircraft maintenance, engineering support and operational services.</p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <style>
+  .cygnus-vid-section { background: #ffffff; padding: 100px 0 100px 0; box-sizing: border-box; position: relative; }
+  .cygnus-vid-inner { max-width: 1500px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; text-align: center; }
+  .cygnus-vid-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-vid-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-vid-eyebrow { display: block; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #2563eb; margin: 0 0 1rem 0; }
+  .cygnus-vid-inner h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 40px; color: #062276; margin: 0 0 1.25rem 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-vid-inner h2 { font-size: 30px; } }
+  .cygnus-vid-inner > p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.8; color: #475569; max-width: 760px; margin: 0 auto 3rem auto; }
+  .cygnus-vid-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; max-width: 1500px; margin: 0 auto; text-align: left; }
+  @media (min-width: 800px) { .cygnus-vid-grid { grid-template-columns: repeat(2, 1fr); gap: 2rem; } }
+  .cygnus-vid-frame { position: relative; width: 100%; border-radius: 20px; overflow: hidden; aspect-ratio: 16 / 9; box-shadow: 0 30px 60px -25px rgba(6, 34, 118, 0.45); background: #0b1329; cursor: pointer; border: none; padding: 0; display: block; text-decoration: none; }
+  .cygnus-vid-frame img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .cygnus-vid-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(4, 12, 33, 0.1) 0%, rgba(4, 12, 33, 0.45) 100%); transition: background 0.3s ease; }
+  .cygnus-vid-frame:hover .cygnus-vid-overlay { background: linear-gradient(180deg, rgba(4, 12, 33, 0.05) 0%, rgba(4, 12, 33, 0.3) 100%); }
+  .cygnus-vid-play { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 84px; height: 84px; border-radius: 50%; background: rgba(6, 34, 118, 0.88); display: flex; align-items: center; justify-content: center; transition: transform 0.3s ease, background 0.3s ease; }
+  @media (max-width: 640px) { .cygnus-vid-play { width: 64px; height: 64px; } }
+  .cygnus-vid-frame:hover .cygnus-vid-play { transform: translate(-50%, -50%) scale(1.08); background: #f2a53c; }
+  .cygnus-vid-play svg { width: 28px; height: 28px; fill: #ffffff; margin-left: 4px; }
+  @media (max-width: 640px) { .cygnus-vid-play svg { width: 20px; height: 20px; } }
+  .cygnus-vid-frame:focus-visible { outline: 3px solid #2563eb; outline-offset: 4px; }
+  </style>
+
+  <section class="cygnus-vid-section">
+    <div class="cygnus-vid-inner">
+      <span class="cygnus-vid-eyebrow cygnus-vid-reveal" style="--delay: 0s;">See Us In Action</span>
+      <h2 class="cygnus-vid-reveal" style="--delay: 0.05s;">Our Helicopters, In the Skies of Mongolia</h2>
+      <p class="cygnus-vid-reveal" style="--delay: 0.1s;">From high-altitude terrain to remote mining sites, watch our fleet operating across Mongolia &mdash; a closer look at the capability, precision and professionalism behind every mission.</p>
+      <div class="cygnus-vid-grid">
+        <a class="cygnus-vid-frame cygnus-vid-reveal" style="--delay: 0.15s;" href="https://www.youtube.com/watch?v=0n4YskaVno0" target="_blank" rel="noopener" aria-label="Watch on YouTube: Alpha Aurora Aviation helicopters operating in Mongolia">
+          <img decoding="async" loading="lazy" src="https://img.youtube.com/vi/0n4YskaVno0/hqdefault.jpg" alt="Alpha Aurora Aviation helicopter operating in Mongolia" />
+          <div class="cygnus-vid-overlay"></div>
+          <span class="cygnus-vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>
+        </a>
+        <a class="cygnus-vid-frame cygnus-vid-reveal" style="--delay: 0.2s;" href="https://www.youtube.com/watch?v=meCAKEQ_2u8" target="_blank" rel="noopener" aria-label="Watch on YouTube: Alpha Aurora Aviation">
+          <img decoding="async" loading="lazy" src="https://img.youtube.com/vi/meCAKEQ_2u8/hqdefault.jpg" alt="Alpha Aurora Aviation video" />
+          <div class="cygnus-vid-overlay"></div>
+          <span class="cygnus-vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function () {
+      function initCygnusVid() {
+        var section = document.querySelector(".cygnus-vid-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-vid-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusVid, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusVid); }
+    })();
+  </script>
+
+  <section class="cygnus-why-section" id="why">
+    <div class="cygnus-why-heading">
+      <h2 class="cygnus-why-reveal" style="--delay: 0s;">Why Choose Alpha Aurora Aviation</h2>
+      <p class="cygnus-why-reveal" style="--delay: 0.1s;">Choosing an aviation partner is about more than selecting an aircraft. It is about selecting an organization capable of planning, executing and supporting every aspect of the operation safely, efficiently and professionally.</p>
+      <p class="cygnus-why-reveal" style="--delay: 0.18s;">At Alpha Aurora Aviation, we have built our business around capability, not just capacity.</p>
+    </div>
+    <div class="cygnus-why-grid">
+      <div class="cygnus-why-card" style="--delay: 0s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.18.01.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">01</span><h3>Integrated Aviation Organization</h3><p>MCAA-certified Part 135 Air Operator and Part 145 MRO, delivering flight and engineering services under one roof.</p></div>
+      </div>
+      <div class="cygnus-why-card" style="--delay: 0.08s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp_Image_2026-08-07_at_10.17.5244.jpeg_202608180935.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">02</span><h3>Operational Experience</h3><p>Deep aviation, engineering and regulatory expertise across commercial, government and specialized operations in Mongolia.</p></div>
+      </div>
+      <div class="cygnus-why-card" style="--delay: 0.16s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.594.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">03</span><h3>Technical Capability</h3><p>Approved maintenance support for Airbus H125 and H145 D3 helicopters, for our own fleet and third-party operators.</p></div>
+      </div>
+      <div class="cygnus-why-card" style="--delay: 0.24s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/Crew_inspecting_helicopter_befor%E2%80%A6_2K_202608171514.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">04</span><h3>Safety-Driven Culture</h3><p>Safety comes first &mdash; in every plan, every repair, and every flight.</p></div>
+      </div>
+      <div class="cygnus-why-card" style="--delay: 0.32s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/Helicopter_supporting_remote_min%E2%80%A6_2K_202608171516.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">05</span><h3>Practical Solutions</h3><p><strong>Practical, efficient solutions</strong> tailored to each client and mission.</p></div>
+      </div>
+      <div class="cygnus-why-card" style="--delay: 0.4s; --item-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5255.webp');">
+        <div class="cygnus-why-lightbox"></div>
+        <div class="cygnus-why-card-inner"><span class="cygnus-why-card-index">06</span><h3>Long-Term Partnership</h3><p>Building <strong>long-term relationships</strong> through professionalism, trust and consistent performance.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <style>
+  .cygnus-grp-section { background: #f7f7f7; padding: 100px 0; box-sizing: border-box; }
+  .cygnus-grp-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-grp-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-grp-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-grp-eyebrow { display: block; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #2563eb; margin: 0 0 1rem 0; }
+  .cygnus-grp-featured { display: flex; flex-direction: column; gap: 1.75rem; align-items: flex-start; margin: 0 0 3rem 0; }
+  @media (min-width: 640px) { .cygnus-grp-featured { flex-direction: row; align-items: center; gap: 3rem; } }
+  @media (max-width: 639px) { .cygnus-grp-featured { align-items: center; text-align: center; } }
+  .cygnus-grp-featured-logo { width: 100%; max-width: 240px; flex-shrink: 0; box-sizing: border-box; }
+  .cygnus-grp-featured-logo img { display: block; width: 100%; height: auto; object-fit: contain; }
+  .cygnus-grp-featured-content { flex: 1 1 0%; min-width: 0; }
+  .cygnus-grp-featured-content h3 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 26px; color: #0b1329; margin: 0 0 0.85rem 0; letter-spacing: -0.01em; }
+  .cygnus-grp-featured-content p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.75; color: #475569; margin: 0 0 1.5rem 0; max-width: none; }
+  .cygnus-grp-featured-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.6rem; border-radius: 999px; background: #062276; color: #ffffff; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 14px; text-decoration: none; box-sizing: border-box; transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease, gap 0.3s ease; }
+  .cygnus-grp-featured-btn:hover { background: #041a5c; transform: translateY(-2px); box-shadow: 0 14px 26px -12px rgba(6, 34, 118, 0.5); gap: 0.7rem; }
+  .cygnus-grp-featured-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
+  .cygnus-grp-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+  @media (min-width: 640px) { .cygnus-grp-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1050px) { .cygnus-grp-grid { grid-template-columns: repeat(3, 1fr); gap: 1.75rem; } }
+  .cygnus-grp-card { position: relative; display: flex; flex-direction: column; gap: 0.9rem; padding: 2rem 1.75rem; border-radius: 14px; border: 1px solid rgba(6, 34, 118, 0.1); background: #ffffff; text-decoration: none; box-sizing: border-box; transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease; }
+  .cygnus-grp-card:hover { border-color: rgba(6, 34, 118, 0.35); box-shadow: 0 22px 34px -20px rgba(6, 34, 118, 0.35); transform: translateY(-4px); }
+  .cygnus-grp-card-icon { width: 48px; height: 48px; border-radius: 12px; background: #062276; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .cygnus-grp-card-icon svg { width: 22px; height: 22px; color: #ffffff; }
+  .cygnus-grp-card-badge { position: absolute; top: 1.25rem; right: 1.25rem; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: #062276; background: rgba(37, 99, 235, 0.1); padding: 0.3rem 0.65rem; border-radius: 999px; }
+  .cygnus-grp-card h3 { font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 20px; color: #0b1329; margin: 0; letter-spacing: -0.01em; }
+  .cygnus-grp-card-badge ~ h3 { margin-top: 1.5rem; }
+  .cygnus-grp-card p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.65; color: #64748b; margin: 0; flex-grow: 1; }
+  .cygnus-grp-card-link { display: inline-flex; align-items: center; gap: 0.4rem; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 14px; color: #2563eb; }
+  .cygnus-grp-card-link svg { width: 13px; height: 13px; transition: transform 0.3s ease; }
+  .cygnus-grp-card:hover .cygnus-grp-card-link svg { transform: translateX(3px); }
+  </style>
+
+  <script>
+    (function () {
+      function initCygnusGrp() {
+        var section = document.querySelector(".cygnus-grp-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-grp-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusGrp, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusGrp); }
+    })();
+  </script>
+
+
+  <style>
+  .cygnus-intro-section { background: #f7f7f7; padding: 100px 0 60px 0; box-sizing: border-box; position: relative; }
+  .cygnus-intro-section::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 100vw; margin-left: -50vw; background: #ffffff; z-index: -1; }
+  .cygnus-intro-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-intro-grid { display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center; }
+  @media (min-width: 900px) { .cygnus-intro-grid { grid-template-columns: 1.05fr 1fr; gap: 5rem; } }
+  .cygnus-intro-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-intro-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-intro-photo { position: relative; border-radius: 45px; overflow: hidden; height: 490px; box-shadow: 9px 9px 10px 0px rgba(0, 0, 0, 0.5); }
+  .cygnus-intro-photo img { display: block; width: 100%; height: 130%; position: absolute; left: 0; top: -15%; object-fit: cover; will-change: transform; }
+  @media (max-width: 1024px) { .cygnus-intro-photo { height: 360px; } }
+  @media (max-width: 767px) { .cygnus-intro-photo { height: 300px; } }
+  .cygnus-intro-text h2 { font-family: "DM Sans", sans-serif; font-weight: 900; font-size: 62px; color: #053077; margin: 0 0 1.5rem 0; letter-spacing: -0.01em; line-height: 1.1; text-shadow: 2px 7px 10px rgba(0, 0, 0, 0.3); }
+  @media (max-width: 1024px) { .cygnus-intro-text h2 { font-size: 40px; } }
+  @media (max-width: 767px) { .cygnus-intro-text h2 { font-size: 30px; } }
+  .cygnus-intro-text p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.85; color: #1e293b; margin: 0 0 1.25rem 0; }
+  .cygnus-intro-text p:last-of-type { margin-bottom: 0; }
+  .cygnus-intro-rule { width: 44px; height: 2px; background: #062276; border: none; margin: 0 0 1.75rem 0; }
+  </style>
+
+  <script>
+    (function () {
+      function initCygnusIntro() {
+        var section = document.querySelector(".cygnus-intro-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-intro-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+        var img = section.querySelector(".cygnus-intro-photo img");
+        if (img) {
+          var ticking = false;
+          function update() {
+            ticking = false;
+            var rect = img.parentElement.getBoundingClientRect();
+            var center = rect.top + rect.height / 2;
+            var offset = (window.innerHeight / 2 - center) * 0.12;
+            img.style.transform = "translateY(" + offset.toFixed(1) + "px)";
+          }
+          function request() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
+          update();
+          window.addEventListener("scroll", request, { passive: true });
+          window.addEventListener("resize", request);
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusIntro, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusIntro); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-fp-section { background: #ffffff; padding: 100px 0 60px 0; box-sizing: border-box; position: relative; }
+  .cygnus-fp-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-fp-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-fp-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-fp-heading { text-align: center; margin: 0 0 2.5rem 0; }
+  .cygnus-fp-heading h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 40px; color: #062276; margin: 0; letter-spacing: 0.02em; text-transform: uppercase; }
+  @media (max-width: 640px) { .cygnus-fp-heading h2 { font-size: 30px; } }
+  .cygnus-fp-intro { max-width: 850px; margin: 0 auto 5rem auto; align-content: center; }
+  .cygnus-fp-intro p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.85; color: #334155; margin: 0 0 1.25rem 0; }
+  .cygnus-fp-intro p:last-child { margin-bottom: 0; }
+  .cygnus-fp-aircraft { display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }
+  .cygnus-fp-aircraft:not(:last-child) { margin-bottom: 5rem; }
+  @media (min-width: 900px) {
+    .cygnus-fp-aircraft { grid-template-columns: 1fr 1fr; gap: 4rem; }
+    .cygnus-fp-aircraft.cygnus-fp-reverse .cygnus-fp-photo { order: 2; }
+    .cygnus-fp-aircraft.cygnus-fp-reverse .cygnus-fp-text { order: 1; }
+  }
+  .cygnus-fp-photo { position: relative; border-radius: 16px; overflow: hidden; aspect-ratio: 4 / 3; box-shadow: 0 25px 50px -25px rgba(6, 34, 118, 0.35); }
+  .cygnus-fp-photo img { display: block; position: absolute; left: 0; top: -15%; width: 100%; height: 130%; object-fit: cover; will-change: transform; }
+  .cygnus-fp-text h3 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 28px; color: #062276; margin: 0 0 1.25rem 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-fp-text h3 { font-size: 22px; } }
+  .cygnus-fp-text p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.8; color: #334155; margin: 0 0 1.1rem 0; }
+  .cygnus-fp-text p:last-child { margin-bottom: 0; }
+  @media (max-width: 640px) { .cygnus-fp-text { text-align: center; } }
+  </style>
+
+  <section class="cygnus-fp-section" id="fleet">
+    <div class="cygnus-fp-inner">
+      <div class="cygnus-fp-heading cygnus-fp-reveal" style="--delay: 0s;"><h2>Our Fleet</h2></div>
+      <div class="cygnus-fp-intro cygnus-fp-reveal" style="--delay: 0.05s;">
+        <p>Our fleet has been carefully selected to meet the diverse operational requirements of Mongolia. From passenger transport and aerial work to government support and operations in remote environments, each aircraft provides the reliability, versatility and performance required for demanding missions.</p>
+      </div>
+      <div class="cygnus-fp-aircraft cygnus-fp-reveal" style="--delay: 0.1s;">
+        <div class="cygnus-fp-photo"><img decoding="async" src="https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5244.webp" alt="Airbus H125" /></div>
+        <div class="cygnus-fp-text"><h3>Airbus H125</h3><p>A versatile and reliable single-engine helicopter built for Mongolia&rsquo;s challenging terrain, including high-altitude and hot-and-high operations.</p></div>
+      </div>
+      <div class="cygnus-fp-aircraft cygnus-fp-reverse cygnus-fp-reveal" style="--delay: 0.15s;">
+        <div class="cygnus-fp-photo"><img decoding="async" src="https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp_Image_2026-08-07_at_10.17.5244.jpeg_202608181127.webp" alt="Airbus H145 D3" /></div>
+        <div class="cygnus-fp-text"><h3>Airbus H145 D3</h3><p>A modern twin-engine helicopter designed for demanding missions, offering greater payload, advanced avionics, and enhanced operational flexibility.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function () {
+      function initCygnusFp() {
+        var section = document.querySelector(".cygnus-fp-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-fp-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+        var photos = section.querySelectorAll(".cygnus-fp-photo img");
+        var parallaxFactor = 0.15;
+        var ticking = false;
+        function updateParallax() {
+          ticking = false;
+          var viewportCenter = window.innerHeight / 2;
+          photos.forEach(function (img) {
+            var rect = img.parentElement.getBoundingClientRect();
+            var elementCenter = rect.top + rect.height / 2;
+            var offset = (viewportCenter - elementCenter) * parallaxFactor;
+            img.style.transform = "translateY(" + offset.toFixed(1) + "px)";
+          });
+        }
+        function requestParallaxUpdate() {
+          if (ticking) return;
+          ticking = true;
+          requestAnimationFrame(updateParallax);
+        }
+        if (photos.length) {
+          updateParallax();
+          window.addEventListener("scroll", requestParallaxUpdate, { passive: true });
+          window.addEventListener("resize", requestParallaxUpdate);
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusFp, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusFp); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-ind-section { background: #ffffff; padding: 100px 0 60px 0; box-sizing: border-box; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
+  .cygnus-ind-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-ind-reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.7s ease, transform 0.7s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-ind-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-ind-inner h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 44px; color: #062276; margin: 0 0 1.25rem 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-ind-inner h2 { font-size: 30px; } }
+  .cygnus-ind-intro { max-width: 100%; font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.7; color: #334155; margin: 0 0 3rem 0; }
+  .cygnus-ind-showcase { display: flex; flex-direction: column; border-radius: 20px; overflow: hidden; border: 1px solid rgba(4, 12, 33, 0.1); box-shadow: 0 30px 60px -30px rgba(6, 34, 118, 0.35); }
+  @media (min-width: 900px) { .cygnus-ind-showcase { flex-direction: row; min-height: 500px; } }
+  .cygnus-ind-tablist { position: relative; display: flex; flex-direction: row; overflow-x: auto; background: #062276; -webkit-overflow-scrolling: touch; scrollbar-width: thin; scrollbar-color: #60a5fa rgba(255, 255, 255, 0.12); }
+  .cygnus-ind-tablist::-webkit-scrollbar { height: 6px; }
+  .cygnus-ind-tablist::-webkit-scrollbar-track { background: rgba(255, 255, 255, 0.12); }
+  .cygnus-ind-tablist::-webkit-scrollbar-thumb { background: #60a5fa; border-radius: 999px; }
+  .cygnus-ind-tablist::-webkit-scrollbar-thumb:hover { background: #93c5fd; }
+  @media (min-width: 900px) { .cygnus-ind-tablist { flex-direction: column; width: 320px; flex-shrink: 0; overflow-x: visible; } }
+  .cygnus-ind-tab-indicator { position: absolute; background: #60a5fa; border-radius: 3px; transition: top 0.4s cubic-bezier(0.65, 0, 0.35, 1), left 0.4s cubic-bezier(0.65, 0, 0.35, 1), width 0.4s cubic-bezier(0.65, 0, 0.35, 1), height 0.4s cubic-bezier(0.65, 0, 0.35, 1); }
+  .cygnus-ind-tab { -webkit-appearance: none; -moz-appearance: none; appearance: none; background: transparent !important; background-image: none !important; border: none !important; border-radius: 0 !important; box-shadow: none !important; text-shadow: none !important; text-align: left !important; font-size: inherit; line-height: 1.3; color: inherit; width: auto; max-width: none; min-width: 0; cursor: pointer; outline: none; display: flex; flex-direction: column; gap: 0.3rem; margin: 0 !important; padding: 1.25rem 1.5rem !important; flex: 1 0 auto; white-space: nowrap; border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important; transition: background 0.3s ease, opacity 0.5s ease, transform 0.5s ease; transition-delay: var(--t-delay, 0s); opacity: 0; transform: translateY(10px); }
+  .cygnus-ind-tab:focus-visible { outline: 2px solid #60a5fa; outline-offset: -2px; }
+  @media (min-width: 900px) { .cygnus-ind-tab { flex: none; white-space: normal; transform: translateX(-14px); } }
+  .cygnus-ind-reveal.in-view .cygnus-ind-tab { opacity: 1; transform: none; }
+  .cygnus-ind-tablist .cygnus-ind-tab:nth-child(1) { --t-delay: 0.1s; }
+  .cygnus-ind-tablist .cygnus-ind-tab:nth-child(2) { --t-delay: 0.16s; }
+  .cygnus-ind-tablist .cygnus-ind-tab:nth-child(3) { --t-delay: 0.22s; }
+  .cygnus-ind-tablist .cygnus-ind-tab:nth-child(4) { --t-delay: 0.28s; }
+  .cygnus-ind-tablist .cygnus-ind-tab:nth-child(5) { --t-delay: 0.34s; }
+  .cygnus-ind-tab:hover { background: rgba(255, 255, 255, 0.06) !important; }
+  .cygnus-ind-tab.active { background: rgba(255, 255, 255, 0.1) !important; }
+  .cygnus-ind-tab-num { font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 13px; color: #60a5fa; }
+  .cygnus-ind-tab-name { font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 16px; color: rgba(255, 255, 255, 0.65); transition: color 0.3s ease; }
+  .cygnus-ind-tab.active .cygnus-ind-tab-name, .cygnus-ind-tab:hover .cygnus-ind-tab-name { color: #ffffff; }
+  .cygnus-ind-panelwrap { position: relative; flex: 1; min-height: 460px; }
+  @media (min-width: 900px) { .cygnus-ind-panelwrap { min-height: 500px; } }
+  .cygnus-ind-panel { position: absolute; inset: 0; overflow: hidden; background-color: #0b1329; opacity: 0; visibility: hidden; transition: opacity 0.6s ease, visibility 0.6s; }
+  .cygnus-ind-panel.active { opacity: 1; visibility: visible; }
+  .cygnus-ind-panel-bg { position: absolute; inset: -4%; background-image: var(--panel-image); background-size: cover; background-position: center; transform: scale(1); transition: transform 8s ease-out; }
+  .cygnus-ind-panel.active .cygnus-ind-panel-bg { transform: scale(1.1); }
+  .cygnus-ind-panel-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(4, 12, 33, 0.1) 0%, rgba(4, 12, 33, 0.92) 100%); }
+  .cygnus-ind-panel-content { position: relative; z-index: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; padding: 2.25rem 2.5rem; box-sizing: border-box; }
+  .cygnus-ind-panel-content h3, .cygnus-ind-panel-content p { opacity: 0; transform: translateY(14px); transition: opacity 0.55s ease, transform 0.55s ease; }
+  .cygnus-ind-panel-content h3 { transition-delay: 0.18s; }
+  .cygnus-ind-panel-content p { transition-delay: 0.26s; }
+  .cygnus-ind-panel.active .cygnus-ind-panel-content h3, .cygnus-ind-panel.active .cygnus-ind-panel-content p { opacity: 1; transform: translateY(0); }
+  .cygnus-ind-panel-content h3 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 32px; color: #ffffff; margin: 0 0 0.85rem 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-ind-panel-content h3 { font-size: 24px; } }
+  .cygnus-ind-panel-content p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.65; color: #e2e8f0; max-width: 540px; margin: 0; }
+  </style>
+
+  <section class="cygnus-ind-section" id="industries">
+    <div class="cygnus-ind-inner">
+      <h2 class="cygnus-ind-reveal" style="--delay: 0s;">Industries We Serve</h2>
+      <p class="cygnus-ind-intro cygnus-ind-reveal" style="--delay: 0.08s;">Our experience enables us to tailor aviation solutions to the operational requirements of each industry while maintaining the same commitment to safety, professionalism and reliability.</p>
+      <div class="cygnus-ind-showcase cygnus-ind-reveal" style="--delay: 0.16s;">
+        <div class="cygnus-ind-tablist" role="tablist">
+          <button class="cygnus-ind-tab active" type="button" data-target="1" role="tab" aria-selected="true"><span class="cygnus-ind-tab-num">01</span><span class="cygnus-ind-tab-name">Mining &amp; Exploration</span></button>
+          <button class="cygnus-ind-tab" type="button" data-target="2" role="tab" aria-selected="false"><span class="cygnus-ind-tab-num">02</span><span class="cygnus-ind-tab-name">Government</span></button>
+          <button class="cygnus-ind-tab" type="button" data-target="3" role="tab" aria-selected="false"><span class="cygnus-ind-tab-num">03</span><span class="cygnus-ind-tab-name">Infrastructure</span></button>
+          <button class="cygnus-ind-tab" type="button" data-target="4" role="tab" aria-selected="false"><span class="cygnus-ind-tab-num">04</span><span class="cygnus-ind-tab-name">Tourism</span></button>
+          <button class="cygnus-ind-tab" type="button" data-target="5" role="tab" aria-selected="false"><span class="cygnus-ind-tab-num">05</span><span class="cygnus-ind-tab-name">Emergency Response</span></button>
+          <span class="cygnus-ind-tab-indicator"></span>
+        </div>
+        <div class="cygnus-ind-panelwrap">
+          <div class="cygnus-ind-panel active" data-panel="1" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.514.webp');">
+            <div class="cygnus-ind-panel-bg"></div><div class="cygnus-ind-panel-overlay"></div>
+            <div class="cygnus-ind-panel-content"><h3>Mining &amp; Exploration</h3><p>Supporting mineral exploration, mine development and ongoing operations through personnel transport, external load operations, aerial reconnaissance and access to remote project sites.</p></div>
+          </div>
+          <div class="cygnus-ind-panel" data-panel="2" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.55.webp');">
+            <div class="cygnus-ind-panel-bg"></div><div class="cygnus-ind-panel-overlay"></div>
+            <div class="cygnus-ind-panel-content"><h3>Government</h3><p>Supporting government agencies through passenger transport, operational support and specialized missions where helicopter capability provides a safe and efficient solution.</p></div>
+          </div>
+          <div class="cygnus-ind-panel" data-panel="3" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.594.webp');">
+            <div class="cygnus-ind-panel-bg"></div><div class="cygnus-ind-panel-overlay"></div>
+            <div class="cygnus-ind-panel-content"><h3>Infrastructure</h3><p>Providing aviation support for infrastructure development, construction, inspection and maintenance projects in remote and difficult-to-access locations.</p></div>
+          </div>
+          <div class="cygnus-ind-panel" data-panel="4" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5366.webp');">
+            <div class="cygnus-ind-panel-bg"></div><div class="cygnus-ind-panel-overlay"></div>
+            <div class="cygnus-ind-panel-content"><h3>Tourism</h3><p>Providing charter flights and scenic experiences that showcase Mongolia's landscapes while maintaining the same operational standards applied to every commercial flight.</p></div>
+          </div>
+          <div class="cygnus-ind-panel" data-panel="5" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/20260810-080625.770-21.jpg_2K_202608171335.webp');">
+            <div class="cygnus-ind-panel-bg"></div><div class="cygnus-ind-panel-overlay"></div>
+            <div class="cygnus-ind-panel-content"><h3>Emergency Response</h3><p>Supporting emergency response and disaster relief operations by providing rapid access to affected areas, personnel transport and logistical support when aviation capability is critical.</p></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cygnus-wwd-block">
+        <div class="cygnus-wwd-tabs cygnus-wwd-reveal" style="--delay: 0.1s;" role="tablist">
+          <button class="cygnus-wwd-tab active" type="button" data-tab="flight" role="tab" aria-selected="true">Flight Operations</button>
+          <button class="cygnus-wwd-tab" type="button" data-tab="maintenance" role="tab" aria-selected="false">Aircraft Maintenance</button>
+          <span class="cygnus-wwd-tab-indicator"></span>
+        </div>
+        <div class="cygnus-wwd-panels cygnus-wwd-reveal" style="--delay: 0.2s;">
+          <div class="cygnus-wwd-panel active" data-panel="flight" role="tabpanel">
+            <ul class="cygnus-wwd-list">
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Charter Flights</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Government Operations</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Tourism &amp; Scenic Flights</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>External Load Operations</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Aerial Survey &amp; Observation</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Remote Area Transportation</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Special Missions</span></li>
+            </ul>
+          </div>
+          <div class="cygnus-wwd-panel" data-panel="maintenance" role="tabpanel">
+            <ul class="cygnus-wwd-list">
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Scheduled Maintenance</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Unscheduled Maintenance</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Inspections</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Defect Rectification</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Component Replacement</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Troubleshooting</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Engineering Support</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Maintenance Planning (PPC)</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Technical Records Management</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Airworthiness Support</span></li>
+              <li><span class="cygnus-wwd-check">&#10003;</span><span>Field Maintenance and AOG Support</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function () {
+      function initCygnusIndustries() {
+        var section = document.querySelector(".cygnus-ind-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-ind-reveal");
+        var indicator = section.querySelector(".cygnus-ind-tab-indicator");
+        var tabs = section.querySelectorAll(".cygnus-ind-tab");
+        var panels = section.querySelectorAll(".cygnus-ind-panel");
+        function moveIndicatorTo(tab) {
+          if (!indicator || !tab) return;
+          var isDesktop = window.matchMedia("(min-width: 900px)").matches;
+          if (isDesktop) {
+            indicator.style.left = "0px"; indicator.style.width = "3px";
+            indicator.style.top = tab.offsetTop + "px"; indicator.style.height = tab.offsetHeight + "px";
+            indicator.style.bottom = "auto";
+          } else {
+            indicator.style.top = "auto"; indicator.style.bottom = "0px"; indicator.style.height = "3px";
+            indicator.style.left = tab.offsetLeft + "px"; indicator.style.width = tab.offsetWidth + "px";
+          }
+        }
+        tabs.forEach(function (tab) {
+          tab.addEventListener("click", function () {
+            var target = tab.getAttribute("data-target");
+            tabs.forEach(function (t) {
+              var isActive = t === tab;
+              t.classList.toggle("active", isActive);
+              t.setAttribute("aria-selected", isActive ? "true" : "false");
+            });
+            panels.forEach(function (p) { p.classList.toggle("active", p.getAttribute("data-panel") === target); });
+            moveIndicatorTo(tab);
+          });
+        });
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+        var activeTab = section.querySelector(".cygnus-ind-tab.active");
+        setTimeout(function () { moveIndicatorTo(activeTab); }, 50);
+        window.addEventListener("resize", function () {
+          var current = section.querySelector(".cygnus-ind-tab.active");
+          moveIndicatorTo(current);
+        });
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusIndustries, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusIndustries); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-cap-section { background: #051c5c; box-sizing: border-box; position: relative; }
+  .cygnus-cap-section::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 100vw; margin-left: -50vw; background-image: radial-gradient(120% 90% at 12% -10%, rgba(10, 44, 134, 0.88) 0%, rgba(5, 28, 92, 0.86) 46%, rgba(3, 13, 46, 0.92) 100%), url('https://cygnusglobal.sg/wp-content/uploads/2026/08/Helicopter_flying_over_landscape_2K_202608171332.jpeg_2K_202608171524.webp'); background-size: cover; background-position: center; background-attachment: fixed; background-repeat: no-repeat; z-index: -2; }
+  .cygnus-cap-intro-wrap { padding: 100px 1rem 4rem 1rem; box-sizing: border-box; position: relative; }
+  .cygnus-cap-inner { max-width: 1100px; margin: 0 auto; position: relative; }
+  .cygnus-cap-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-cap-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-cap-eyebrow { display: block; font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace; font-size: 12px; font-weight: 500; letter-spacing: 0.24em; text-transform: uppercase; color: #f2a53c; text-align: center; margin: 0 0 1.1rem 0; }
+  .cygnus-cap-heading { text-align: center; margin: 0 0 1.25rem 0; }
+  .cygnus-cap-heading h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 44px; color: #eef1f8; margin: 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-cap-heading h2 { font-size: 30px; } }
+  .cygnus-cap-intro { max-width: 620px; margin: 0 auto; text-align: center; }
+  .cygnus-cap-intro p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 300; line-height: 1.85; color: #8fa0c9; margin: 0; }
+  .cygnus-cap-accordion { position: relative; left: 50%; width: 100vw; margin-left: -50vw; height: 100vh; display: flex; overflow: hidden; }
+  .cygnus-cap-acc-item { position: relative; height: 100%; flex: 1 1 0%; min-width: 0; overflow: hidden; cursor: pointer; display: flex; align-items: flex-end; }
+  .cygnus-cap-acc-bg { position: absolute; inset: 0; z-index: 0; background-image: linear-gradient(100deg, rgba(3, 13, 46, 0.94) 0%, rgba(5, 28, 92, 0.82) 45%, rgba(5, 28, 92, 0.6) 100%), var(--panel-image, none); background-size: cover; background-position: center; transform: scale(1.08); transform-origin: center; }
+  .cygnus-cap-acc-glyph { position: absolute; top: 50%; right: -8%; transform: translateY(-50%); width: min(52vw, 620px); height: min(52vw, 620px); z-index: 1; opacity: 0.5; pointer-events: none; }
+  .cygnus-cap-acc-glyph svg { width: 100%; height: 100%; stroke: #7f9be8; fill: none; stroke-width: 0.6; opacity: 0.16; }
+  .cygnus-cap-acc-collapsed { position: absolute; inset: 0; z-index: 2; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 2.5rem 0; box-sizing: border-box; pointer-events: none; }
+  .cygnus-cap-acc-index { font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace; font-size: 13px; font-weight: 500; letter-spacing: 0.2em; color: #f2a53c; }
+  .cygnus-cap-acc-vtitle { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 22px; color: #eef1f8; letter-spacing: 0.01em; white-space: nowrap; writing-mode: vertical-rl; transform: rotate(180deg); }
+  @media (max-width: 640px) { .cygnus-cap-acc-vtitle { font-size: 16px; } }
+  .cygnus-cap-acc-dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(242, 165, 60, 0.4); }
+  .cygnus-cap-acc-item.is-active .cygnus-cap-acc-dot { background: #f2a53c; }
+  .cygnus-cap-acc-expanded { position: relative; z-index: 3; width: 100%; max-width: 560px; padding: 0 2.25rem 4.5rem 2.25rem; box-sizing: border-box; opacity: 0; transform: translateY(24px); pointer-events: none; }
+  .cygnus-cap-acc-item.is-active .cygnus-cap-acc-expanded { pointer-events: auto; }
+  .cygnus-cap-code { display: block; font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace; font-size: 13px; font-weight: 500; letter-spacing: 0.14em; color: #f2a53c; margin: 0 0 1.1rem 0; }
+  .cygnus-cap-rule { width: 48px; height: 2px; background: #f2a53c; border: none; margin: 0 0 1.5rem 0; }
+  .cygnus-cap-acc-expanded h3 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 42px; color: #eef1f8; margin: 0 0 1.4rem 0; letter-spacing: -0.01em; line-height: 1.08; }
+  @media (max-width: 640px) { .cygnus-cap-acc-expanded h3 { font-size: 27px; } }
+  .cygnus-cap-acc-expanded p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 300; line-height: 1.8; color: #b7c2e2; margin: 0 0 1rem 0; }
+  .cygnus-cap-acc-expanded p:last-child { margin-bottom: 0; }
+  @media (prefers-reduced-motion: reduce) { .cygnus-cap-acc-bg { transform: none !important; } }
+  @media (max-width: 899px) {
+    .cygnus-cap-accordion { flex-direction: column; height: min(80vh, 680px); }
+    .cygnus-cap-acc-item { align-items: flex-end; min-height: 64px; }
+    .cygnus-cap-acc-collapsed { flex-direction: row; justify-content: flex-start; align-items: center; gap: 0.9rem; padding: 0 1.5rem; }
+    .cygnus-cap-acc-vtitle { writing-mode: horizontal-tb; transform: none; font-size: 17px; }
+    .cygnus-cap-acc-dot { display: none; }
+    .cygnus-cap-acc-expanded { padding: 0 1.5rem 2.25rem 1.5rem; }
+  }
+  </style>
+
+  <section class="cygnus-cap-section" id="capabilities">
+    <div class="cygnus-cap-intro-wrap">
+      <div class="cygnus-cap-inner">
+        <span class="cygnus-cap-eyebrow cygnus-cap-reveal" style="--delay: 0s;">Service Manifest</span>
+        <div class="cygnus-cap-heading cygnus-cap-reveal" style="--delay: 0.05s;"><h2>Our Capabilities</h2></div>
+        <div class="cygnus-cap-intro cygnus-cap-reveal" style="--delay: 0.1s;"><p>End-to-end helicopter services covering flight operations, maintenance, fleet management, and technical advisory.</p></div>
+      </div>
+    </div>
+    <div class="cygnus-cap-accordion">
+      <div class="cygnus-cap-acc-item" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5244.webp');">
+        <div class="cygnus-cap-acc-bg"></div>
+        <span class="cygnus-cap-acc-glyph" aria-hidden="true"><svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="6"/><path d="M100 100 L100 8 M100 8 C92 8 86 14 86 22 L86 70 C86 78 92 84 100 84"/><path d="M100 100 L182 130 M182 130 C186 122 184 113 176 109 L132 89 C124 85 115 88 111 96"/><path d="M100 100 L52 176 M52 176 C60 178 68 174 71 166 L91 122 C94 114 90 105 82 102"/></svg></span>
+        <div class="cygnus-cap-acc-collapsed" aria-hidden="true"><span class="cygnus-cap-acc-index">01</span><span class="cygnus-cap-acc-vtitle">Flight Operations</span><span class="cygnus-cap-acc-dot"></span></div>
+        <div class="cygnus-cap-acc-expanded"><span class="cygnus-cap-code">FLT-OPS &middot; PART 135</span><hr class="cygnus-cap-rule" /><h3>Flight Operations</h3><p>We provide commercial helicopter operations across Mongolia, serving corporate, government, and private clients.</p><p>Every mission is carefully planned and conducted in accordance with regulatory requirements and our operational standards.</p></div>
+      </div>
+      <div class="cygnus-cap-acc-item" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.594.webp');">
+        <div class="cygnus-cap-acc-bg"></div>
+        <span class="cygnus-cap-acc-glyph" aria-hidden="true"><svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="72" cy="72" r="46"/><circle cx="72" cy="72" r="3" fill="#7f9be8" stroke="none"/><path d="M72 72 L94 50"/><path d="M40 30 L40 12 M104 30 L104 12"/><path d="M120 132 L182 178 C188 182 189 191 184 197 C179 202 170 201 166 195 L124 148"/><path d="M108 118 L132 142"/></svg></span>
+        <div class="cygnus-cap-acc-collapsed" aria-hidden="true"><span class="cygnus-cap-acc-index">02</span><span class="cygnus-cap-acc-vtitle">Aircraft Maintenance</span><span class="cygnus-cap-acc-dot"></span></div>
+        <div class="cygnus-cap-acc-expanded"><span class="cygnus-cap-code">MRO &middot; PART 145</span><hr class="cygnus-cap-rule" /><h3>Aircraft Maintenance</h3><p>Our MCAA-approved Part 145 Aircraft Maintenance Organization provides scheduled and unscheduled maintenance, inspections, engineering support, maintenance planning and technical services for both our own fleet and third-party operators.</p></div>
+      </div>
+      <div class="cygnus-cap-acc-item" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.5255.webp');">
+        <div class="cygnus-cap-acc-bg"></div>
+        <span class="cygnus-cap-acc-glyph" aria-hidden="true"><svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><rect x="46" y="30" width="108" height="150" rx="6"/><rect x="78" y="20" width="44" height="20" rx="4"/><path d="M64 76 L80 92 L108 60"/><path d="M64 116 L80 132 L108 100"/><path d="M64 156 L136 156"/></svg></span>
+        <div class="cygnus-cap-acc-collapsed" aria-hidden="true"><span class="cygnus-cap-acc-index">03</span><span class="cygnus-cap-acc-vtitle">Aircraft Management</span><span class="cygnus-cap-acc-dot"></span></div>
+        <div class="cygnus-cap-acc-expanded"><span class="cygnus-cap-code">CAMO &middot; MGMT</span><hr class="cygnus-cap-rule" /><h3>Aircraft Management</h3><p>We assist aircraft owners with the operational and technical management of their aircraft, helping ensure continued airworthiness, regulatory compliance and efficient fleet utilization.</p></div>
+      </div>
+      <div class="cygnus-cap-acc-item" style="--panel-image: url('https://cygnusglobal.sg/wp-content/uploads/2026/08/Consultant_presenting_proposal_t%E2%80%A6_2K_202608061047.webp');">
+        <div class="cygnus-cap-acc-bg"></div>
+        <span class="cygnus-cap-acc-glyph" aria-hidden="true"><svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="76"/><circle cx="100" cy="100" r="3" fill="#7f9be8" stroke="none"/><path d="M100 100 L128 52 L108 100 L128 148 Z"/><path d="M100 30 L100 42 M100 158 L100 170 M30 100 L42 100 M158 100 L170 100"/></svg></span>
+        <div class="cygnus-cap-acc-collapsed" aria-hidden="true"><span class="cygnus-cap-acc-index">04</span><span class="cygnus-cap-acc-vtitle">Aviation Consulting</span><span class="cygnus-cap-acc-dot"></span></div>
+        <div class="cygnus-cap-acc-expanded"><span class="cygnus-cap-code">ADV &middot; CONSULT</span><hr class="cygnus-cap-rule" /><h3>Aviation Consulting</h3><p>Drawing on practical operational and engineering experience, we provide consulting services covering aviation operations, certification support, safety management, regulatory compliance, technical advisory and aviation project development.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script>
+    (function () {
+      function initCygnusCap() {
+        var section = document.querySelector(".cygnus-cap-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-cap-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+        if (typeof gsap === "undefined") return;
+        var accordion = section.querySelector(".cygnus-cap-accordion");
+        var items = section.querySelectorAll(".cygnus-cap-acc-item");
+        if (!accordion || !items.length) return;
+        var EXPANDED_GROW = 6;
+        var COLLAPSED_GROW = 1;
+        var reducedMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        var supportsHover = window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+        var DURATION = reducedMotion ? 0.01 : 0.9;
+        var activeIndex = 0;
+        function activate(index) {
+          if (index === activeIndex) return;
+          activeIndex = index;
+          items.forEach(function (item, i) {
+            var isActive = i === index;
+            item.classList.toggle("is-active", isActive);
+            gsap.to(item, { flexGrow: isActive ? EXPANDED_GROW : COLLAPSED_GROW, duration: DURATION, ease: "power3.inOut" });
+            var bg = item.querySelector(".cygnus-cap-acc-bg");
+            if (bg) gsap.to(bg, { scale: isActive ? 1 : 1.08, duration: DURATION, ease: "power3.inOut" });
+            var collapsed = item.querySelector(".cygnus-cap-acc-collapsed");
+            if (collapsed) gsap.to(collapsed, { opacity: isActive ? 0 : 1, duration: reducedMotion ? 0.01 : 0.4, ease: "power2.out" });
+            var expanded = item.querySelector(".cygnus-cap-acc-expanded");
+            if (expanded) {
+              gsap.to(expanded, { opacity: isActive ? 1 : 0, y: isActive ? 0 : 24, duration: reducedMotion ? 0.01 : 0.6, delay: isActive && !reducedMotion ? 0.25 : 0, ease: "power3.out" });
+            }
+          });
+        }
+        items.forEach(function (item, i) {
+          var isActive = i === activeIndex;
+          item.classList.toggle("is-active", isActive);
+          gsap.set(item, { flexGrow: isActive ? EXPANDED_GROW : COLLAPSED_GROW });
+          var bg = item.querySelector(".cygnus-cap-acc-bg");
+          if (bg) gsap.set(bg, { scale: isActive ? 1 : 1.08 });
+          var collapsed = item.querySelector(".cygnus-cap-acc-collapsed");
+          if (collapsed) gsap.set(collapsed, { opacity: isActive ? 0 : 1 });
+          var expanded = item.querySelector(".cygnus-cap-acc-expanded");
+          if (expanded) gsap.set(expanded, { opacity: isActive ? 1 : 0, y: isActive ? 0 : 24 });
+        });
+        var autoplayTimer = null;
+        function startAutoplay() {
+          stopAutoplay();
+          if (reducedMotion || !supportsHover) return;
+          autoplayTimer = setInterval(function () { activate((activeIndex + 1) % items.length); }, 4500);
+        }
+        function stopAutoplay() { if (autoplayTimer) { clearInterval(autoplayTimer); autoplayTimer = null; } }
+        items.forEach(function (item, i) {
+          item.addEventListener("click", function () { activate(i); stopAutoplay(); });
+          if (supportsHover) { item.addEventListener("mouseenter", function () { activate(i); stopAutoplay(); }); }
+        });
+        if (supportsHover) { accordion.addEventListener("mouseleave", startAutoplay); }
+        startAutoplay();
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusCap, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusCap); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-wwd-block { margin-top: 4rem; }
+  .cygnus-wwd-reveal { opacity: 0; transform: translateY(30px); transition: opacity 0.7s ease, transform 0.7s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-wwd-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-wwd-tabs { position: relative; display: flex; gap: 2rem; flex-wrap: wrap; border-bottom: 1px solid rgba(4, 12, 33, 0.1); margin-bottom: 2.5rem; }
+  @media (max-width: 480px) { .cygnus-wwd-tabs { gap: 1.1rem; flex-wrap: nowrap; } .cygnus-wwd-tab { font-size: 14px; } }
+  .cygnus-wwd-tab { position: relative; -webkit-appearance: none; -moz-appearance: none; appearance: none; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 17px; line-height: 1.2; color: #64748b !important; background: transparent !important; background-image: none !important; border: none !important; border-radius: 0 !important; box-shadow: none !important; text-shadow: none !important; margin: 0; padding: 0 0 1rem 0 !important; cursor: pointer; outline: none; transition: color 0.3s ease, transform 0.3s ease; }
+  .cygnus-wwd-tab:focus-visible { outline: 2px solid #2563eb; outline-offset: 4px; }
+  .cygnus-wwd-tab:hover { color: #0b1329; }
+  .cygnus-wwd-tab.active { color: #0b1329; transform: translateY(-1px); }
+  .cygnus-wwd-tab-indicator { position: absolute; bottom: -1px; height: 3px; background: #2563eb; border-radius: 3px 3px 0 0; transition: left 0.4s cubic-bezier(0.65, 0, 0.35, 1), width 0.4s cubic-bezier(0.65, 0, 0.35, 1); }
+  .cygnus-wwd-panel { display: none; }
+  .cygnus-wwd-panel.active { display: block; animation: cygnusWwdFadeIn 0.5s ease; }
+  @keyframes cygnusWwdFadeIn { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  .cygnus-wwd-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  @media (min-width: 640px) { .cygnus-wwd-list { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .cygnus-wwd-list { grid-template-columns: repeat(3, 1fr); gap: 1.25rem; } }
+  .cygnus-wwd-list li { display: flex; align-items: center; gap: 0.85rem; padding: 1rem 1.25rem; border-radius: 10px; border: 1px solid rgba(4, 12, 33, 0.1); background: rgba(4, 12, 33, 0.02); box-sizing: border-box; opacity: 0; transform: translateY(18px) scale(0.98); transition: opacity 0.5s ease, transform 0.5s ease, border-color 0.3s ease, background 0.3s ease, box-shadow 0.3s ease; transition-delay: var(--i-delay, 0s); }
+  .cygnus-wwd-list li.in { opacity: 1; transform: translateY(0) scale(1); }
+  .cygnus-wwd-list li:nth-child(1) { --i-delay: 0s; } .cygnus-wwd-list li:nth-child(2) { --i-delay: 0.05s; } .cygnus-wwd-list li:nth-child(3) { --i-delay: 0.1s; } .cygnus-wwd-list li:nth-child(4) { --i-delay: 0.15s; } .cygnus-wwd-list li:nth-child(5) { --i-delay: 0.2s; } .cygnus-wwd-list li:nth-child(6) { --i-delay: 0.25s; } .cygnus-wwd-list li:nth-child(7) { --i-delay: 0.3s; } .cygnus-wwd-list li:nth-child(8) { --i-delay: 0.35s; } .cygnus-wwd-list li:nth-child(9) { --i-delay: 0.4s; } .cygnus-wwd-list li:nth-child(10) { --i-delay: 0.45s; } .cygnus-wwd-list li:nth-child(11) { --i-delay: 0.5s; }
+  .cygnus-wwd-list li:hover { transform: translateY(-4px) scale(1.01); border-color: rgba(6, 34, 118, 0.5); background: rgba(6, 34, 118, 0.06); box-shadow: 0 14px 24px -12px rgba(6, 34, 118, 0.4); }
+  .cygnus-wwd-list li.in:hover { transform: translateY(-4px) scale(1.01); }
+  .cygnus-wwd-check { display: flex; align-items: center; justify-content: center; width: 22px; height: 22px; border-radius: 50%; background: #2563eb; color: #ffffff; font-size: 11px; font-weight: 700; flex-shrink: 0; transition: transform 0.5s ease, background 0.3s ease; }
+  .cygnus-wwd-list li:hover .cygnus-wwd-check { transform: rotate(360deg) scale(1.12); background: #062276; }
+  .cygnus-wwd-list li span:last-child { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 500; line-height: 1.4; color: #1e293b; }
+  </style>
+
+  <script>
+    (function () {
+      function initCygnusWwd() {
+        var section = document.querySelector(".cygnus-wwd-block");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var indicator = section.querySelector(".cygnus-wwd-tab-indicator");
+        var tabs = section.querySelectorAll(".cygnus-wwd-tab");
+        var panels = section.querySelectorAll(".cygnus-wwd-panel");
+        var revealEls = section.querySelectorAll(".cygnus-wwd-reveal");
+        function moveIndicatorTo(tab) {
+          if (!indicator || !tab) return;
+          indicator.style.left = tab.offsetLeft + "px";
+          indicator.style.width = tab.offsetWidth + "px";
+        }
+        function revealListItems(panel) {
+          var items = panel.querySelectorAll(".cygnus-wwd-list li");
+          items.forEach(function (li) { li.classList.remove("in"); });
+          void panel.offsetWidth;
+          requestAnimationFrame(function () { items.forEach(function (li) { li.classList.add("in"); }); });
+        }
+        tabs.forEach(function (tab) {
+          tab.addEventListener("click", function () {
+            var target = tab.getAttribute("data-tab");
+            tabs.forEach(function (t) {
+              var isActive = t === tab;
+              t.classList.toggle("active", isActive);
+              t.setAttribute("aria-selected", isActive ? "true" : "false");
+            });
+            panels.forEach(function (p) {
+              var isActive = p.getAttribute("data-panel") === target;
+              p.classList.toggle("active", isActive);
+              if (isActive) revealListItems(p);
+            });
+            moveIndicatorTo(tab);
+          });
+        });
+        if ("IntersectionObserver" in window) {
+          var sectionObserver = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                revealEls.forEach(function (el) { el.classList.add("in-view"); });
+                var activePanel = section.querySelector(".cygnus-wwd-panel.active");
+                if (activePanel) revealListItems(activePanel);
+                sectionObserver.unobserve(entry.target);
+              }
+            });
+          }, { threshold: 0.2 });
+          sectionObserver.observe(section);
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+          var fallbackPanel = section.querySelector(".cygnus-wwd-panel.active");
+          if (fallbackPanel) revealListItems(fallbackPanel);
+        }
+        var activeTab = section.querySelector(".cygnus-wwd-tab.active");
+        moveIndicatorTo(activeTab);
+        window.addEventListener("resize", function () {
+          var current = section.querySelector(".cygnus-wwd-tab.active");
+          moveIndicatorTo(current);
+        });
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusWwd, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusWwd); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-why-section { background: #062276; padding: 100px 0 60px 0; box-sizing: border-box; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
+  .cygnus-why-heading { max-width: 1250px; margin: 0 auto 3rem auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-why-reveal { opacity: 0; transform: translateY(26px); transition: opacity 0.7s ease, transform 0.7s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-why-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-why-heading h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 44px; color: #ffffff; margin: 0 0 1.5rem 0; letter-spacing: -0.01em; text-shadow: 0 3px 10px rgba(0, 0, 0, 0.3); }
+  @media (max-width: 640px) { .cygnus-why-heading h2 { font-size: 30px; } }
+  .cygnus-why-heading p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.7; color: #cbd5f5; margin: 0 0 1.1rem 0; }
+  .cygnus-why-heading p:last-child { margin-bottom: 0; }
+  .cygnus-why-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; max-width: 1280px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  @media (min-width: 640px) { .cygnus-why-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .cygnus-why-grid { grid-template-columns: repeat(3, 1fr); gap: 2rem; } }
+  .cygnus-why-card { position: relative; padding: 2rem 1.75rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.12); background: rgba(255, 255, 255, 0.04); box-sizing: border-box; opacity: 0; transition: opacity 0.7s ease, border-color 0.4s ease, background 0.4s ease, box-shadow 0.4s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-why-card.in-view { opacity: 1; }
+  .cygnus-why-card:hover { border-color: rgba(96, 165, 250, 0.55); background: rgba(255, 255, 255, 0.07); box-shadow: 0 22px 34px -18px rgba(0, 0, 0, 0.5); }
+  .cygnus-why-card-inner { display: flex; flex-direction: column; gap: 0.75rem; transform: translateY(28px); transition: transform 0.4s ease; transition-delay: var(--delay, 0s); will-change: transform; }
+  .cygnus-why-card.in-view .cygnus-why-card-inner { transform: translateY(0); }
+  .cygnus-why-lightbox { position: fixed; width: min(300px, 82vw); height: 180px; transform: scale(0.92); border-radius: 14px; overflow: hidden; opacity: 0; visibility: hidden; pointer-events: none; z-index: 9999; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.55); background-color: rgba(4, 12, 33, 0.6); background-image: var(--item-image); background-size: cover; background-position: center; transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s; }
+  .cygnus-why-lightbox::before { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(4, 12, 33, 0.05) 0%, rgba(4, 12, 33, 0.5) 60%, rgba(4, 12, 33, 0.88) 100%); }
+  .cygnus-why-lightbox.is-visible { opacity: 1; visibility: visible; pointer-events: auto; transform: scale(1); }
+  .cygnus-why-card-index { display: inline-block; font-family: "DM Sans", sans-serif; font-size: 16px; font-weight: 700; color: #60a5fa; transform-origin: left center; transition: transform 0.4s ease, color 0.4s ease; }
+  .cygnus-why-card:hover .cygnus-why-card-index { transform: scale(1.25); color: #93c5fd; }
+  .cygnus-why-card h3 { position: relative; font-family: "DM Sans", sans-serif; font-size: 19px; font-weight: 700; line-height: 1.3; color: #ffffff; margin: 0; padding-bottom: 0.65rem; }
+  .cygnus-why-card h3::after { content: ""; position: absolute; left: 0; bottom: 0; height: 2px; width: 32px; background: #60a5fa; transition: width 0.4s ease, background 0.4s ease; }
+  .cygnus-why-card:hover h3::after { width: 100%; background: #93c5fd; }
+  .cygnus-why-card p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.6; color: #cbd5f5; margin: 0; }
+  </style>
+
+  <script>
+    (function () {
+      function initCygnusWhy() {
+        var section = document.querySelector(".cygnus-why-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var cards = section.querySelectorAll(".cygnus-why-card");
+        var revealEls = section.querySelectorAll(".cygnus-why-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+          cards.forEach(function (card) { observer.observe(card); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+          cards.forEach(function (card) { card.classList.add("in-view"); });
+        }
+        var supportsHover = window.matchMedia && window.matchMedia("(hover: hover)").matches;
+        if (supportsHover) {
+          cards.forEach(function (card) {
+            var inner = card.querySelector(".cygnus-why-card-inner");
+            if (!inner) return;
+            card.addEventListener("mousemove", function (e) {
+              var rect = card.getBoundingClientRect();
+              var x = e.clientX - rect.left;
+              var y = e.clientY - rect.top;
+              var rotateX = ((y - rect.height / 2) / (rect.height / 2)) * -6;
+              var rotateY = ((x - rect.width / 2) / (rect.width / 2)) * 6;
+              inner.style.transform = "perspective(900px) rotateX(" + rotateX.toFixed(2) + "deg) rotateY(" + rotateY.toFixed(2) + "deg) translateY(-6px) scale(1.02)";
+            });
+            card.addEventListener("mouseleave", function () { inner.style.transform = ""; });
+          });
+        }
+        if (supportsHover) {
+          cards.forEach(function (card) {
+            var lightbox = card.querySelector(".cygnus-why-lightbox");
+            if (!lightbox) return;
+            card.addEventListener("mouseenter", function () {
+              var rect = card.getBoundingClientRect();
+              var boxW = lightbox.offsetWidth;
+              var boxH = lightbox.offsetHeight;
+              var margin = 12;
+              var viewportW = document.documentElement.clientWidth;
+              var viewportH = document.documentElement.clientHeight;
+              var left = rect.left + rect.width / 2 - boxW / 2;
+              var top = rect.top - boxH - margin;
+              if (top < margin) top = rect.bottom + margin;
+              left = Math.max(margin, Math.min(left, viewportW - boxW - margin));
+              top = Math.max(margin, Math.min(top, viewportH - boxH - margin));
+              lightbox.style.left = left + "px";
+              lightbox.style.top = top + "px";
+              lightbox.classList.add("is-visible");
+            });
+            card.addEventListener("mouseleave", function () { lightbox.classList.remove("is-visible"); });
+          });
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusWhy, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusWhy); }
+    })();
+  </script>
+
+  <style>
+  .cygnus-ms-section { background: #ffffff; padding: 100px 0 60px 0; box-sizing: border-box; position: relative; }
+  .cygnus-ms-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-ms-heading { margin: 0 0 3.5rem 0; }
+  .cygnus-ms-eyebrow { display: block; font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: #2563eb; margin: 0 0 1rem 0; }
+  .cygnus-ms-heading h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 40px; color: #062276; margin: 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-ms-heading h2 { font-size: 30px; } }
+  .cygnus-ms-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-ms-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-ms-timeline { position: relative; }
+  .cygnus-ms-timeline::before { content: ""; position: absolute; top: 0.5rem; bottom: 0.5rem; left: 7px; width: 2px; background: linear-gradient(180deg, rgba(6, 34, 118, 0.18) 0%, rgba(37, 99, 235, 0.18) 100%); }
+  @media (min-width: 640px) { .cygnus-ms-timeline::before { left: 11px; } }
+  .cygnus-ms-year-block { position: relative; padding-left: 2.25rem; box-sizing: border-box; }
+  @media (min-width: 640px) { .cygnus-ms-year-block { padding-left: 3rem; } }
+  .cygnus-ms-year-block:not(:last-child) { margin-bottom: 3rem; }
+  .cygnus-ms-year-block::before { content: ""; position: absolute; top: 0.4rem; left: 0; width: 16px; height: 16px; border-radius: 50%; background: #062276; border: 3px solid #ffffff; box-shadow: 0 0 0 2px rgba(6, 34, 118, 0.25); }
+  @media (min-width: 640px) { .cygnus-ms-year-block::before { width: 24px; height: 24px; border-width: 4px; } }
+  .cygnus-ms-year { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 29px; color: #062276; margin: 0 0 1.1rem 0; letter-spacing: -0.01em; }
+  @media (max-width: 640px) { .cygnus-ms-year { font-size: 22px; } }
+  .cygnus-ms-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.9rem; }
+  .cygnus-ms-item { display: flex; align-items: flex-start; gap: 0.75rem; }
+  .cygnus-ms-item-icon { flex-shrink: 0; width: 20px; height: 20px; border-radius: 6px; background: rgba(37, 99, 235, 0.1); display: flex; align-items: center; justify-content: center; margin-top: 0.15rem; }
+  .cygnus-ms-item-icon svg { width: 12px; height: 12px; color: #2563eb; }
+  .cygnus-ms-item p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.65; color: #334155; margin: 0; }
+  </style>
+
+  <script>
+    (function () {
+      function initCygnusMs() {
+        var section = document.querySelector(".cygnus-ms-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-ms-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusMs, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusMs); }
+    })();
+  </script>
+
+  <section class="cygnus-grp-section" id="groups">
+    <div class="cygnus-grp-inner">
+      <div class="cygnus-grp-featured cygnus-grp-reveal" style="--delay: 0.1s;">
+        <div class="cygnus-grp-featured-logo">
+          <img decoding="async" src="media/cygnus-global.webp" alt="Cygnus Global logo" />
+        </div>
+        <div class="cygnus-grp-featured-content">
+          <span class="cygnus-grp-eyebrow">Our Group</span>
+          <h3>Cygnus Global</h3>
+          <p>Alpha Aurora Aviation is one part of Cygnus Global, the group&rsquo;s holding company connecting businesses across aviation, energy and regional markets. Explore our group companies below.</p>
+          <a class="cygnus-grp-featured-btn" href="https://cygnusglobal.sg/" target="_blank" rel="noopener">Visit site<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 10H15.5M15.5 10L11 5.5M15.5 10L11 14.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        </div>
+      </div>
+      <div class="cygnus-grp-grid">
+        <a class="cygnus-grp-card cygnus-grp-reveal" style="--delay: 0.15s;" href="https://cygnusglobal.sg/aviation/" target="_blank" rel="noopener">
+          <span class="cygnus-grp-card-badge">Current Division</span>
+          <h3>Cygnus Global Aviation</h3>
+          <p>Our aviation division, including Alpha Aurora Aviation&rsquo;s helicopter operations and maintenance services in Mongolia.</p>
+          <span class="cygnus-grp-card-link">Visit site<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 10H15.5M15.5 10L11 5.5M15.5 10L11 14.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-grp-card cygnus-grp-reveal" style="--delay: 0.2s;" href="https://cygnusglobal.sg/energy/" target="_blank" rel="noopener">
+          <h3>Cygnus Global Energy</h3>
+          <p>The group&rsquo;s energy sector investments and operations.</p>
+          <span class="cygnus-grp-card-link">Visit site<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 10H15.5M15.5 10L11 5.5M15.5 10L11 14.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-grp-card cygnus-grp-reveal" style="--delay: 0.25s;" href="https://cygnusglobal.sg/mongolia/" target="_blank" rel="noopener">
+          <h3>Cygnus Global Mongolia</h3>
+          <p>Cygnus Global&rsquo;s presence and investments across Mongolia.</p>
+          <span class="cygnus-grp-card-link">Visit site<svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 10H15.5M15.5 10L11 5.5M15.5 10L11 14.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <style>
+  .cygnus-ct-section { position: relative; isolation: isolate; background: #040c21 url('https://cygnusglobal.sg/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-10.17.514.webp') center / cover no-repeat; background-attachment: fixed; padding: 100px 0 60px 0; box-sizing: border-box; }
+  .cygnus-ct-section::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(4, 12, 33, 0.88) 0%, rgba(4, 12, 33, 0.82) 45%, rgba(4, 12, 33, 0.93) 100%); }
+  .cygnus-ct-inner { max-width: 1250px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box; }
+  .cygnus-ct-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.75s ease, transform 0.75s ease; transition-delay: var(--delay, 0s); }
+  .cygnus-ct-reveal.in-view { opacity: 1; transform: translateY(0); }
+  .cygnus-ct-heading { text-align: center; margin: 0 0 1.25rem 0; }
+  .cygnus-ct-heading h2 { font-family: "DM Sans", sans-serif; font-weight: 800; font-size: 40px; color: #ffffff; margin: 0; letter-spacing: 0.02em; text-transform: uppercase; text-shadow: 0 3px 10px rgba(0, 0, 0, 0.3); }
+  @media (max-width: 640px) { .cygnus-ct-heading h2 { font-size: 30px; } }
+  .cygnus-ct-intro { max-width: 700px; margin: 0 auto 3.5rem auto; text-align: center; }
+  .cygnus-ct-intro p { font-family: "Montserrat", sans-serif; font-size: 16px; font-weight: 400; line-height: 1.8; color: #cbd5f5; margin: 0; }
+  .cygnus-ct-list { display: flex; flex-direction: column; border-radius: 16px; border: 1px solid rgba(6, 34, 118, 0.08); background: #ffffff; overflow: hidden; margin: 0 0 3rem 0; box-shadow: 0 30px 60px -25px rgba(0, 0, 0, 0.6); }
+  .cygnus-ct-row { display: flex; align-items: center; gap: 1rem; padding: 1.25rem 1.5rem; border-bottom: 1px solid rgba(6, 34, 118, 0.08); text-decoration: none; transition: background 0.3s ease; }
+  .cygnus-ct-row:hover { background: rgba(37, 99, 235, 0.04); }
+  .cygnus-ct-row-icon { width: 44px; height: 44px; border-radius: 50%; background: rgba(37, 99, 235, 0.08); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .cygnus-ct-row-icon svg { width: 18px; height: 18px; color: #2563eb; }
+  .cygnus-ct-row-text { flex: 1 1 0%; min-width: 0; display: flex; flex-direction: column; gap: 0.25rem; }
+  .cygnus-ct-row-label { font-family: "DM Sans", sans-serif; font-weight: 600; font-size: 12px; letter-spacing: 0.05em; text-transform: uppercase; color: #94a3b8; }
+  .cygnus-ct-row-value { font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 16px; color: #0b1329; word-break: break-word; }
+  .cygnus-ct-row-arrow { width: 36px; height: 36px; border-radius: 10px; border: 1px solid rgba(6, 34, 118, 0.12); display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.3s ease, border-color 0.3s ease, transform 0.3s ease; }
+  .cygnus-ct-row-arrow svg { width: 15px; height: 15px; color: #062276; transition: color 0.3s ease; }
+  .cygnus-ct-row:hover .cygnus-ct-row-arrow { background: #062276; border-color: #062276; transform: translate(1px, -1px); }
+  .cygnus-ct-row:hover .cygnus-ct-row-arrow svg { color: #ffffff; }
+  .cygnus-ct-follow { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding: 1.25rem 1.5rem; }
+  .cygnus-ct-follow-label { font-family: "DM Sans", sans-serif; font-weight: 700; font-size: 15px; color: #0b1329; }
+  .cygnus-ct-follow-icons { display: flex; align-items: center; gap: 0.65rem; }
+  .cygnus-ct-follow-icons a { width: 36px; height: 36px; border-radius: 10px; border: 1px solid rgba(6, 34, 118, 0.12); display: flex; align-items: center; justify-content: center; color: #062276; transition: background 0.3s ease, color 0.3s ease, border-color 0.3s ease, transform 0.3s ease; }
+  .cygnus-ct-follow-icons a:hover { background: #062276; border-color: #062276; color: #ffffff; transform: translateY(-2px); }
+  .cygnus-ct-follow-icons svg { width: 16px; height: 16px; }
+  @media (max-width: 560px) {
+    .cygnus-ct-row { flex-direction: column; align-items: center; text-align: center; gap: 0.85rem; }
+    .cygnus-ct-row-text { width: 100%; align-items: center; }
+    .cygnus-ct-row-arrow { align-self: center; }
+  }
+  </style>
+
+  <section class="cygnus-ct-section" id="contact">
+    <div class="cygnus-ct-inner">
+      <div class="cygnus-ct-heading cygnus-ct-reveal" style="--delay: 0s;"><h2>Contact</h2></div>
+      <div class="cygnus-ct-intro cygnus-ct-reveal" style="--delay: 0.05s;"><p>Whether you are planning a charter flight, seeking aircraft maintenance support, exploring partnership opportunities or simply looking to learn more about Alpha Aurora Aviation, our team is ready to assist.</p></div>
+      <div class="cygnus-ct-list">
+        <a class="cygnus-ct-row cygnus-ct-reveal" style="--delay: 0.1s;" href="mailto:info@alpha-avia.com">
+          <span class="cygnus-ct-row-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v12H3V6Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M3.5 6.5l8.5 6 8.5-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="cygnus-ct-row-text">
+            <span class="cygnus-ct-row-label">General Enquiries</span>
+            <span class="cygnus-ct-row-value">info@alpha-avia.com</span>
+          </span>
+          <span class="cygnus-ct-row-arrow"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M9 7h8v8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-ct-row cygnus-ct-reveal" style="--delay: 0.13s;" href="mailto:flt@alpha-avia.com">
+          <span class="cygnus-ct-row-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v12H3V6Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M3.5 6.5l8.5 6 8.5-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="cygnus-ct-row-text">
+            <span class="cygnus-ct-row-label">Charter Enquiries</span>
+            <span class="cygnus-ct-row-value">flt@alpha-avia.com</span>
+          </span>
+          <span class="cygnus-ct-row-arrow"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M9 7h8v8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-ct-row cygnus-ct-reveal" style="--delay: 0.16s;" href="mailto:ppc@alpha-avia.com">
+          <span class="cygnus-ct-row-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v12H3V6Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M3.5 6.5l8.5 6 8.5-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="cygnus-ct-row-text">
+            <span class="cygnus-ct-row-label">Aircraft Maintenance</span>
+            <span class="cygnus-ct-row-value">ppc@alpha-avia.com</span>
+          </span>
+          <span class="cygnus-ct-row-arrow"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M9 7h8v8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-ct-row cygnus-ct-reveal" style="--delay: 0.19s;" href="mailto:safety@alpha-avia.com">
+          <span class="cygnus-ct-row-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v12H3V6Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M3.5 6.5l8.5 6 8.5-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="cygnus-ct-row-text">
+            <span class="cygnus-ct-row-label">Safety Reporting</span>
+            <span class="cygnus-ct-row-value">safety@alpha-avia.com</span>
+          </span>
+          <span class="cygnus-ct-row-arrow"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M9 7h8v8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <a class="cygnus-ct-row cygnus-ct-reveal" style="--delay: 0.22s;" href="https://www.alpha-avia.com" target="_blank" rel="noopener">
+          <span class="cygnus-ct-row-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 21s7-6.5 7-11.5A7 7 0 0 0 5 9.5C5 14.5 12 21 12 21Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><circle cx="12" cy="9.5" r="2.25" stroke="currentColor" stroke-width="1.7"/></svg></span>
+          <span class="cygnus-ct-row-text">
+            <span class="cygnus-ct-row-label">Office Address</span>
+            <span class="cygnus-ct-row-value">Alpha Aurora Aviation Hangar, Khar Usan Tokhoi, Ulaanbaatar 13221, Mongolia</span>
+          </span>
+          <span class="cygnus-ct-row-arrow"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 17L17 7M9 7h8v8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+        </a>
+        <div class="cygnus-ct-follow cygnus-ct-reveal" style="--delay: 0.25s;">
+          <span class="cygnus-ct-follow-label">Follow us on</span>
+          <div class="cygnus-ct-follow-icons">
+            <a href="https://www.facebook.com/p/Alpha-Aurora-Aviation-LLC-61550741860177/" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M14 8.5h2.5V5.5h-2.5C11.5 5.5 10 7.06 10 9.5v2H8v3h2v6h3v-6h2.4l.6-3H13v-1.5c0-.55.45-1 1-1Z"/></svg></a>
+            <a href="https://www.instagram.com/alphaauroraaviation/?hl=en" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" xmlns="http://www.w3.org/2000/svg"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5"/><circle cx="12" cy="12" r="3.7"/><circle cx="17" cy="7" r="0.9" fill="currentColor" stroke="none"/></svg></a>
+            <a href="https://mn.linkedin.com/company/alpha-aurora-aviation-llc" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M6.94 8.5H4V20h2.94V8.5ZM5.47 4a1.7 1.7 0 1 0 0 3.4 1.7 1.7 0 0 0 0-3.4ZM20 13.3c0-3-1.6-4.4-3.74-4.4-1.72 0-2.49.95-2.92 1.62V8.5H10.4c.04.85 0 11.5 0 11.5h2.94v-6.42c0-.34.02-.69.13-.94.28-.69.92-1.41 2-1.41 1.41 0 1.98 1.08 1.98 2.66V20H20v-6.7Z"/></svg></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function () {
+      function initCygnusCt() {
+        var section = document.querySelector(".cygnus-ct-section");
+        if (!section) return;
+        if (section.dataset.cygnusInit) return;
+        section.dataset.cygnusInit = "1";
+        var revealEls = section.querySelectorAll(".cygnus-ct-reveal");
+        if ("IntersectionObserver" in window) {
+          var observer = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add("in-view"); observer.unobserve(entry.target); }
+            });
+          }, { threshold: 0.15, rootMargin: "0px 0px -8% 0px" });
+          revealEls.forEach(function (el) { observer.observe(el); });
+        } else {
+          revealEls.forEach(function (el) { el.classList.add("in-view"); });
+        }
+      }
+      if (document.readyState === "complete" || document.readyState === "interactive") { setTimeout(initCygnusCt, 100); }
+      else { document.addEventListener("DOMContentLoaded", initCygnusCt); }
+    })();
+  </script>
+
+</main>
+
+<footer class="cyg-ftr">
+  <div class="cyg-ftr-inner">
+    <div class="cyg-ftr-top">
+
+      <a class="cyg-ftr-brand" href="#top">
+        <img src="https://alpha-avia.com/media/aaa-logo.webp" alt="Alpha Aurora Aviation">
+      </a>
+
+      <p class="cyg-ftr-tagline">A subsidiary of <a href="https://cygnusglobal.sg/aviation/" target="_blank" rel="noopener">Cygnus Global Aviation</a> &middot; Ulaanbaatar, Mongolia</p>
+
+      <div class="cyg-ftr-social">
+        <a href="https://www.facebook.com/p/Alpha-Aurora-Aviation-LLC-61550741860177/" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 320 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
+        </a>
+        <a href="https://www.instagram.com/alphaauroraaviation/?hl=en" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" xmlns="http://www.w3.org/2000/svg"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5"/><circle cx="12" cy="12" r="3.7"/><circle cx="17" cy="7" r="0.9" fill="currentColor" stroke="none"/></svg>
+        </a>
+        <a href="https://mn.linkedin.com/company/alpha-aurora-aviation-llc" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <svg viewBox="0 0 448 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+        </a>
+      </div>
+
+    </div>
+
+    <hr class="cyg-ftr-divider">
+
+    <div class="cyg-ftr-bottom">
+      <p class="cyg-ftr-copy">&copy; 2026 Alpha Aurora Aviation. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<button class="cyg-ftr-totop" id="cygToTop" aria-label="Back to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"><path d="M6 15l6-6 6 6"/></svg>
+</button>
+
+<script>
+(function () {
+  var header = document.getElementById("cygHeader");
+  var toggle = document.getElementById("cygToggle");
+  if (header && toggle) {
+    toggle.addEventListener("click", function () {
+      var isOpen = header.classList.toggle("is-open");
+      toggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+    header.querySelectorAll(".cyg-hdr-nav a, .cyg-hdr-cta").forEach(function (link) {
+      link.addEventListener("click", function () {
+        header.classList.remove("is-open");
+        toggle.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+
+  var navLinks = document.querySelectorAll(".cyg-hdr-nav a[href^='#']");
+  if (navLinks.length) {
+    var navMap = [];
+    navLinks.forEach(function (link) {
+      var hash = link.getAttribute("href");
+      var target = hash === "#top" ? document.querySelector(".hero-section") : document.querySelector(hash);
+      if (target) navMap.push({ link: link, target: target });
+    });
+
+    function setActiveLink(activeLink) {
+      navLinks.forEach(function (link) {
+        var isActive = link === activeLink;
+        link.classList.toggle("is-active", isActive);
+        if (isActive) { link.setAttribute("aria-current", "page"); }
+        else { link.removeAttribute("aria-current"); }
+      });
+    }
+
+    navLinks.forEach(function (link) {
+      link.addEventListener("click", function () {
+        setActiveLink(link);
+      });
+    });
+
+    if ("IntersectionObserver" in window && navMap.length) {
+      var current = navMap[0].link;
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            var match = navMap.find(function (item) { return item.target === entry.target; });
+            if (match) { current = match.link; setActiveLink(current); }
+          }
+        });
+      }, { rootMargin: "-45% 0px -50% 0px", threshold: 0 });
+      navMap.forEach(function (item) { observer.observe(item.target); });
+    }
+  }
+
+  var toTop = document.getElementById("cygToTop");
+  if (toTop) {
+    function checkScroll() {
+      toTop.classList.toggle("is-visible", window.scrollY > 400);
+    }
+    toTop.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+    window.addEventListener("scroll", checkScroll, { passive: true });
+    checkScroll();
+  }
+})();
+</script>
+
+</body>
+</html>

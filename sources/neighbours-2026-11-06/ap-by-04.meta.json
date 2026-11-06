@@ -1,0 +1,5284 @@
+{
+  "id": "ap-by-04",
+  "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+  "retrievedAt": "2026-11-06T08:39:47.576198+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+  "bytes": 497044,
+  "sha256": "8f52decb6b3409fd7d35a34fea05cb47b4730a24aa860036e9478c6f5750d6d9",
+  "file": "sources/neighbours-2026-11-06/ap-by-04.html",
+  "title": "Minsk National Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Minsk+National+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Minsk+National+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Minsk+National+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Minsk+National+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Early years",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Early_years",
+      "lang": ""
+    },
+    {
+      "text": "1.2 Development since the 1990s",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Development_since_the_1990s",
+      "lang": ""
+    },
+    {
+      "text": "1.2.1 Role in the 2021 border crisis",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Role_in_the_2021_border_crisis",
+      "lang": ""
+    },
+    {
+      "text": "2 Terminal",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Terminal",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "5 Ground transportation",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Ground_transportation",
+      "lang": ""
+    },
+    {
+      "text": "5.1 Railway",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Railway",
+      "lang": ""
+    },
+    {
+      "text": "6 Incidents and accidents",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#Incidents_and_accidents",
+      "lang": ""
+    },
+    {
+      "text": "7 See also",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "8 References",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "9 External links",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%85%D9%8A%D9%86%D8%B3%D9%83_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_Internacional_de_Minsk",
+      "lang": "ast"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Minsk_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Башҡортса",
+      "url": "https://ba.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ba"
+    },
+    {
+      "text": "Беларуская (тарашкевіца)",
+      "url": "https://be-tarask.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%81%D0%BA_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be-tarask"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B_%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82_%D0%9C%D1%96%D0%BD%D1%81%D0%BA",
+      "lang": "be"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "کوردی",
+      "url": "https://ckb.wikipedia.org/wiki/%D9%81%DA%95%DB%86%DA%A9%DB%95%D8%AE%D8%A7%D9%86%DB%95%DB%8C_%D9%86%DB%8E%D9%88%D9%86%DB%95%D8%AA%DB%95%D9%88%DB%95%DB%8C%DB%8C%DB%8C_%D9%85%DB%8C%D9%86%D8%B3%DA%A9",
+      "lang": "ckb"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_leti%C5%A1t%C4%9B_Minsk",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Nationaler_Flughafen_Minsk",
+      "lang": "de"
+    },
+    {
+      "text": "Ελληνικά",
+      "url": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%9C%CE%B9%CE%BD%CF%83%CE%BA",
+      "lang": "el"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Nacia_flughaveno_Minsko",
+      "lang": "eo"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Minsk",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Minski_rahvusvaheline_lennujaam",
+      "lang": "et"
+    },
+    {
+      "text": "Euskara",
+      "url": "https://eu.wikipedia.org/wiki/Minskeko_nazioarteko_aireportua",
+      "lang": "eu"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D9%85%DB%8C%D9%86%D8%B3%DA%A9",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Minskin_kansallinen_lentoasema",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Minsk",
+      "lang": "fr"
+    },
+    {
+      "text": "Galego",
+      "url": "https://gl.wikipedia.org/wiki/Aeroporto_de_Minsk",
+      "lang": "gl"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%9E%D7%99%D7%A0%D7%A1%D7%A7",
+      "lang": "he"
+    },
+    {
+      "text": "Hrvatski",
+      "url": "https://hr.wikipedia.org/wiki/Nacionalna_zra%C4%8Dna_luka_Minsk",
+      "lang": "hr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Minszki_nemzeti_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D5%84%D5%AB%D5%B6%D5%BD%D5%AF_(%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6)",
+      "lang": "hy"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Minsk",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Minsk",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%98%E1%83%9C%E1%83%A1%E1%83%99%E1%83%98%E1%83%A1_%E1%83%94%E1%83%A0%E1%83%9D%E1%83%95%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%8A%A4%ED%81%AC_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Lietuvių",
+      "url": "https://lt.wikipedia.org/wiki/Nacionalinis_Minsko_oro_uostas",
+      "lang": "lt"
+    },
+    {
+      "text": "Latviešu",
+      "url": "https://lv.wikipedia.org/wiki/Minskas_Nacion%C4%81l%C4%81_lidosta",
+      "lang": "lv"
+    },
+    {
+      "text": "मराठी",
+      "url": "https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%95_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A4%B3",
+      "lang": "mr"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Minsk-2",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Nationale_Luchthaven_Minsk",
+      "lang": "nl"
+    },
+    {
+      "text": "Norsk bokmål",
+      "url": "https://no.wikipedia.org/wiki/Minsk_nasjonale_lufthavn",
+      "lang": "nb"
+    },
+    {
+      "text": "Diné bizaad",
+      "url": "https://nv.wikipedia.org/wiki/Doo%CA%BCawoshii_Y%C3%ADl%C4%AF%CC%81%C4%AFdi_chid%C3%AD_naat%CA%BCa%CA%BC%C3%AD_%C5%84dinib%C4%AF%C4%AFh%C3%ADgi",
+      "lang": "nv"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Mi%C5%84sk",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_Nacional_de_Minsk",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Minsk_National",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Simple English",
+      "url": "https://simple.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": "en-simple"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA",
+      "lang": "sr"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Minsks_internationella_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B8_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Minsk_Ulusal_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%81%D1%8C%D0%BA_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D9%85%D9%86%D8%B3%DA%A9_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Minsk_milliy_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_gia_Minsk",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E6%98%8E%E6%96%AF%E5%85%8B%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q777855#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&oldid=1383162840",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Minsk_National_Airport&id=1383162840&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMinsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Minsk_National_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q777855",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "53°52′57″N 28°01′57″E ﻿ / ﻿ 53.88250°N 28.03250°E ﻿ / 53.88250; 28.03250",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Minsk_National_Airport&params=53_52_57_N_28_01_57_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1 Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:MSQ_English_logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Parking_lot_of_Minsk_National_Airport_(2).jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "EEST",
+      "url": "https://en.wikipedia.org/wiki/EEST",
+      "lang": ""
+    },
+    {
+      "text": "UTC+03:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+03:00",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "53°52′57″N 28°01′57″E ﻿ / ﻿ 53.88250°N 28.03250°E ﻿ / 53.88250; 28.03250",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Minsk_National_Airport&params=53_52_57_N_28_01_57_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "airport.by",
+      "url": "https://airport.by/en",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Belarus_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Europe_blank_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "ACI",
+      "url": "https://en.wikipedia.org/wiki/Airport_Council_International",
+      "lang": ""
+    },
+    {
+      "text": "Belarusian",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Belarusian",
+      "lang": ""
+    },
+    {
+      "text": "[ natsɨjaˈnalʲnɨ aeraˈport mʲinsk ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Belarusian",
+      "lang": ""
+    },
+    {
+      "text": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Russian_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Smalyavichy Raion",
+      "url": "https://en.wikipedia.org/wiki/Smalyavichy_Raion",
+      "lang": ""
+    },
+    {
+      "text": "Kastrychnitski District",
+      "url": "https://en.wikipedia.org/wiki/Kastrychnitski_District",
+      "lang": ""
+    },
+    {
+      "text": "flag carrier",
+      "url": "https://en.wikipedia.org/wiki/Flag_carrier",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "TAE Avia",
+      "url": "https://en.wikipedia.org/wiki/TransAVIAexport_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-ch-aviation-2",
+      "lang": ""
+    },
+    {
+      "text": "Genex",
+      "url": "https://en.wikipedia.org/wiki/Genex?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Rubystar Airways",
+      "url": "https://en.wikipedia.org/wiki/Rubystar_Airways",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-134",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-134",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Ministry of Civil Aviation of USSR",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Civil_Aviation_(Soviet_Union)",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "dissolution of the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union",
+      "lang": ""
+    },
+    {
+      "text": "Ryanair Flight 4978",
+      "url": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Lufthansa",
+      "url": "https://en.wikipedia.org/wiki/Lufthansa",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Minsk_National_Airport,_1st_floor,_baggage_carousel.jpg",
+      "lang": ""
+    },
+    {
+      "text": "SDN list",
+      "url": "https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "illegal migration to the European Union",
+      "url": "https://en.wikipedia.org/wiki/2021_Belarus–European_Union_border_crisis",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Cham Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Cham_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Damascus",
+      "url": "https://en.wikipedia.org/wiki/Damascus",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/Yemen",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/Iraq",
+      "lang": ""
+    },
+    {
+      "text": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Turkish airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkish government",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "European Union",
+      "url": "https://en.wikipedia.org/wiki/European_Union",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Dubai",
+      "url": "https://en.wikipedia.org/wiki/Dubai",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:EW-437PA_Boeing_737-8K5_Belavia_boarding_at_MSQ.jpg",
+      "lang": ""
+    },
+    {
+      "text": "brutalist architecture",
+      "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+      "lang": ""
+    },
+    {
+      "text": "jet bridges",
+      "url": "https://en.wikipedia.org/wiki/Jet_bridge",
+      "lang": ""
+    },
+    {
+      "text": "duty free",
+      "url": "https://en.wikipedia.org/wiki/Duty_free",
+      "lang": ""
+    },
+    {
+      "text": "airport lounge",
+      "url": "https://en.wikipedia.org/wiki/Airport_lounge",
+      "lang": ""
+    },
+    {
+      "text": "Burger King",
+      "url": "https://en.wikipedia.org/wiki/Burger_King",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "Russo-Ukrainian war",
+      "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:VQ-BJV_Boeing_737-524_UTair_at_MSQ_(02).JPG",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:A6-EIE_Airbus_A319-100_Etihad_Airways_landing_at_MSQ_(2).jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Belavia,_EW-455PA,_Boeing_737-8ZM_(30232003846).jpg",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Cheboksary",
+      "url": "https://en.wikipedia.org/wiki/Cheboksary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Nizhny Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Strigino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "Air China",
+      "url": "https://en.wikipedia.org/wiki/Air_China",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Xi'an",
+      "url": "https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "Azimuth",
+      "url": "https://en.wikipedia.org/wiki/Azimuth_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-b102-32",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok–Suvarnabhumi",
+      "url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-35",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_A330_NS25-36",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaliningrad",
+      "url": "https://en.wikipedia.org/wiki/Khrabrovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-38",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_BKN_KRW_NS25-40",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "Ürümqi",
+      "url": "https://en.wikipedia.org/wiki/Ürümqi_Diwopu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-l124-42",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yerevan",
+      "url": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Makhachkala",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-MSQ_NS25-43",
+      "lang": ""
+    },
+    {
+      "text": "Murmansk",
+      "url": "https://en.wikipedia.org/wiki/Murmansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-44",
+      "lang": ""
+    },
+    {
+      "text": "Antalya",
+      "url": "https://en.wikipedia.org/wiki/Antalya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_NS26-45",
+      "lang": ""
+    },
+    {
+      "text": "Bodrum",
+      "url": "https://en.wikipedia.org/wiki/Milas-Bodrum_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_NS26-45",
+      "lang": ""
+    },
+    {
+      "text": "Da Nang",
+      "url": "https://en.wikipedia.org/wiki/Da_Nang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-46",
+      "lang": ""
+    },
+    {
+      "text": "Enfidha",
+      "url": "https://en.wikipedia.org/wiki/Enfidha–Hammamet_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-47",
+      "lang": ""
+    },
+    {
+      "text": "Hambantota–Mattala",
+      "url": "https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-48",
+      "lang": ""
+    },
+    {
+      "text": "El Alamein",
+      "url": "https://en.wikipedia.org/wiki/El_Alamein_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-49",
+      "lang": ""
+    },
+    {
+      "text": "Hurghada",
+      "url": "https://en.wikipedia.org/wiki/Hurghada_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_Charter_NS24-50",
+      "lang": ""
+    },
+    {
+      "text": "İzmir",
+      "url": "https://en.wikipedia.org/wiki/İzmir_Adnan_Menderes_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_NS26-45",
+      "lang": ""
+    },
+    {
+      "text": "Nha Trang",
+      "url": "https://en.wikipedia.org/wiki/Cam_Ranh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "Phu Quoc",
+      "url": "https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-52",
+      "lang": ""
+    },
+    {
+      "text": "Sanya",
+      "url": "https://en.wikipedia.org/wiki/Sanya_Phoenix_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "Sharm El Sheikh",
+      "url": "https://en.wikipedia.org/wiki/Sharm_El_Sheikh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_Charter_NS24-50",
+      "lang": ""
+    },
+    {
+      "text": "Pattaya",
+      "url": "https://en.wikipedia.org/wiki/U-Tapao_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-B2_NS26-45",
+      "lang": ""
+    },
+    {
+      "text": "Phuket",
+      "url": "https://en.wikipedia.org/wiki/Phuket_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "Flydubai",
+      "url": "https://en.wikipedia.org/wiki/Flydubai",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-55",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "Pobeda",
+      "url": "https://en.wikipedia.org/wiki/Pobeda_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-DP_MSQ_NS26-57",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-DP_MSQ_NS26-57",
+      "lang": ""
+    },
+    {
+      "text": "Red Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Arkhangelsk–Talagi",
+      "url": "https://en.wikipedia.org/wiki/Talagi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Balandino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-58",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-59",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Bolshoye_Savino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "Samara",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk–Baratayevka",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Baratayevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 62 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-62",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 63 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-63",
+      "lang": ""
+    },
+    {
+      "text": "Severstal Avia",
+      "url": "https://en.wikipedia.org/wiki/Severstal_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Cherepovets",
+      "url": "https://en.wikipedia.org/wiki/Cherepovets_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petrozavodsk",
+      "url": "https://en.wikipedia.org/wiki/Petrozavodsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-64",
+      "lang": ""
+    },
+    {
+      "text": "Somon Air",
+      "url": "https://en.wikipedia.org/wiki/Somon_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-65",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 66 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-66",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 67 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-67",
+      "lang": ""
+    },
+    {
+      "text": "VietJet Air",
+      "url": "https://en.wikipedia.org/wiki/VietJet_Air",
+      "lang": ""
+    },
+    {
+      "text": "Da Nang",
+      "url": "https://en.wikipedia.org/wiki/Da_Nang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 68 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-VietJet_CIS_NS26-68",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Minsk_National_Airport_Destination_Map.png",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-Ostats-69",
+      "lang": ""
+    },
+    {
+      "text": "[ 70 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-:3-70",
+      "lang": ""
+    },
+    {
+      "text": "[ 70 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-:3-70",
+      "lang": ""
+    },
+    {
+      "text": "[ 71 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2005_WATR-71",
+      "lang": ""
+    },
+    {
+      "text": "[ 72 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2006_WATR-72",
+      "lang": ""
+    },
+    {
+      "text": "[ 73 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2007_WATR-73",
+      "lang": ""
+    },
+    {
+      "text": "[ 74 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2009_WATR-74",
+      "lang": ""
+    },
+    {
+      "text": "[ 75 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2011_WATR-75",
+      "lang": ""
+    },
+    {
+      "text": "[ 76 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2012_WATR-76",
+      "lang": ""
+    },
+    {
+      "text": "[ 77 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2013_WATR-77",
+      "lang": ""
+    },
+    {
+      "text": "[ 78 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-2014_WATR-78",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-Ostats-69",
+      "lang": ""
+    },
+    {
+      "text": "[ 79 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-MSQ_2020_Results-79",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:View_of_M2_highway_near_Minsk_National_Airport_(1).jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Minsk_National_Airport_overpass_(09).jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ 80 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-80",
+      "lang": ""
+    },
+    {
+      "text": "[ 81 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-81",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:ДП3-001_Национальный_аэропорт_Минск_1.jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ 82 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-82",
+      "lang": ""
+    },
+    {
+      "text": "Smalyavichy",
+      "url": "https://en.wikipedia.org/wiki/Smalyavichy",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "stopping point",
+      "url": "https://en.wikipedia.org/wiki/Railway_platform",
+      "lang": ""
+    },
+    {
+      "text": "[ 83 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-83",
+      "lang": ""
+    },
+    {
+      "text": "[ 84 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-84",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot Flight 7841",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_7841",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-134AK",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-134AK",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Leningrad",
+      "url": "https://en.wikipedia.org/wiki/Leningrad",
+      "lang": ""
+    },
+    {
+      "text": "Pulkovo airport",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 85 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-85",
+      "lang": ""
+    },
+    {
+      "text": "Tu-154",
+      "url": "https://en.wikipedia.org/wiki/Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "Kish Air",
+      "url": "https://en.wikipedia.org/wiki/Kish_Air",
+      "lang": ""
+    },
+    {
+      "text": "Tehran",
+      "url": "https://en.wikipedia.org/wiki/Tehran",
+      "lang": ""
+    },
+    {
+      "text": "Copenhagen",
+      "url": "https://en.wikipedia.org/wiki/Copenhagen",
+      "lang": ""
+    },
+    {
+      "text": "[ 86 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-86",
+      "lang": ""
+    },
+    {
+      "text": "BAe 125",
+      "url": "https://en.wikipedia.org/wiki/British_Aerospace_BAe_125",
+      "lang": ""
+    },
+    {
+      "text": "[ 87 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-ASN261009-87",
+      "lang": ""
+    },
+    {
+      "text": "Ryanair Flight 4978",
+      "url": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-8AS",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737-8AS",
+      "lang": ""
+    },
+    {
+      "text": "Belarusian KGB",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_KGB",
+      "lang": ""
+    },
+    {
+      "text": "Roman Protasevich",
+      "url": "https://en.wikipedia.org/wiki/Roman_Protasevich",
+      "lang": ""
+    },
+    {
+      "text": "[ 88 ]",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_note-88",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Minsk National Airport\"",
+      "url": "https://web.archive.org/web/20180801004150/http://airport.by/en/node/356",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/en/node/356",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-ch-aviation_2-0",
+      "lang": ""
+    },
+    {
+      "text": "ch-aviation.com - TAE Avia",
+      "url": "https://www.ch-aviation.com/portal/airline/07S",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "ch-aviation.com - Genex",
+      "url": "https://www.ch-aviation.com/portal/airline/GNX",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "ch-aviation.com - Rubystar Airways",
+      "url": "https://www.ch-aviation.com/portal/airline/RSB",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"История аэропорта | Национальный аэропорт Минск\"",
+      "url": "https://web.archive.org/web/20190628205505/https://airport.by/about/history",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/about/history",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Национальный аэропорт \"Минск\": 35 лет | Национальный аэропорт Минск\"",
+      "url": "https://web.archive.org/web/20190413101315/http://airport.by/press_center/national_airport_minsk_30",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/press_center/national_airport_minsk_30",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Минск (Аэродром)\"",
+      "url": "https://web.archive.org/web/20180801003703/https://ekskursii.by/?Minsk_Aerodrom",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://ekskursii.by/?Minsk_Aerodrom",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport History - Minsk National Airport\"",
+      "url": "https://web.archive.org/web/20190617040411/https://airport.by/en/about/history",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/en/about/history",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Состоялось официальное открытие новой взлетно-посадочной полосы в Национальном аэропорту Минск\"",
+      "url": "https://web.archive.org/web/20220122201926/http://airport.by/en/press-sluzba/news/sostoalos-oficialnoe-otkrytie",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/en/press-sluzba/news/sostoalos-oficialnoe-otkrytie",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"EU imposes new economic sanctions on Belarus over 'hijacked' flight\"",
+      "url": "https://www.theguardian.com/world/2021/may/24/belarus-put-on-notice-of-sanctions-over-hijack-of-ryanair-flight",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "hessenschau.de",
+      "url": "https://www.hessenschau.de/wirtschaft/lufthansa-streicht-direktfluege-von-frankfurt-nach-minsk,lufthansa-belarus-100.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Treasury Holds the Belarusian Regime to Account on Anniversary of Fraudulent Election\"",
+      "url": "https://home.treasury.gov/news/press-releases/jy0315",
+      "lang": ""
+    },
+    {
+      "text": "United States Department of the Treasury",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210809161340/https://home.treasury.gov/news/press-releases/jy0315",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"German minister faults airlines on Belarus migrant arrivals\"",
+      "url": "https://apnews.com/article/business-poland-germany-migration-belarus-65dad00ab0d272d401bcd85b63c0f8c3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Hundreds of migrants present at Minsk airport: report\"",
+      "url": "https://web.archive.org/web/20211104011543/https://polandin.com/56130548/hundreds-of-migrants-present-at-minsk-airport-report",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://polandin.com/56130548/hundreds-of-migrants-present-at-minsk-airport-report",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Migrants jam-pack Minsk Airport, head to border cities Hrodna and Brest, sleep on streets (pics, videos)\"",
+      "url": "https://belsat.eu/en/news/11-10-2021-migrants-jam-pack-minsk-airport-head-to-border-cities-hrodna-and-brest-sleep-on-streets-pics-videos/",
+      "lang": ""
+    },
+    {
+      "text": "Belsat TV",
+      "url": "https://en.wikipedia.org/wiki/Belsat_TV",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"Прямо сейчас в аэропорту Минска на мигрантах нелегально наживается несколько турфирм. Мини-расследование KYKY (речь о миллионах!)\"",
+      "url": "https://web.archive.org/web/20211020144241/https://kyky.org/money/pryamo-seychas-v-aeroportu-minska-na-migrantah-nelegalno-nazhivaetsya-neskolko-turfirm-mini-rassledovanie-kyky-rech-o-millionah",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://kyky.org/money/pryamo-seychas-v-aeroportu-minska-na-migrantah-nelegalno-nazhivaetsya-neskolko-turfirm-mini-rassledovanie-kyky-rech-o-millionah",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "spiegel.de - Syrian airline ends flights to Minsk",
+      "url": "https://www.spiegel.de/ausland/syrische-fluggesellschaft-stellt-fluege-nach-minsk-ein-a-ec91abb2-45b5-4a69-a046-28cd8b019007",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "faz.net - \"Turkish Airlines cooperates with the EU\"",
+      "url": "https://www.faz.net/aktuell/politik/ausland/belarus-migration-turkish-airlines-kooperiert-mit-der-eu-17631213.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "haberturk.com - \"Belavia, Türkiye’den Belarus’a Irak, Suriye ve Yemen vatandaşlarını taşımayacak\"",
+      "url": "https://www.haberturk.com/belavia-turkiye-den-belarus-a-irak-suriye-ve-yemen-vatandaslarini-tasimayacak-3251254",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "belavia.by - Belavia news",
+      "url": "https://en.belavia.by/news/4836732/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20211114233053/https://en.belavia.by/news/4836732/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "belavia.by - Belavia news",
+      "url": "https://en.belavia.by/news/4836737/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20230926191645/https://en.belavia.by/news/4836737/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "airport.by - Airport Map",
+      "url": "http://airport.by/en/shema-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "airport.by - Season Timetable",
+      "url": "http://airport.by/en/timetable/season",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20180712221146/http://airport.by/en/timetable/season",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"Aeroflot to launch subsidised Cheboksary-Minsk service\"",
+      "url": "https://centreforaviation.com/news/aeroflot-to-launch-subsidised-cheboksary-minsk-service-1358815",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Aeroflot NS25 Moscow – Minsk Service Increases\"",
+      "url": "https://www.aeroroutes.com/eng/250320-suns25msq",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "\"Из Нижнего Новгорода запустят рейсы в Минск\"",
+      "url": "https://newsnn.ru/news/2026-06-04/iz-nizhnego-novgoroda-zapustyat-reysy-v-minsk-izuchaem-raspisanie-i-tseny-na-bilety-5610695",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "airchina.com - Flight schedules",
+      "url": "https://www.airchina.de/DE/DE/info/flight-time/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "\"Air China Adds Xi'An – Minsk Service From late-Dec 2024\"",
+      "url": "https://www.aeroroutes.com/eng/241211-canw24xiymsq",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиакомпания «Азимут» запустила рейсы из Минеральных Вод в Минск\"",
+      "url": "https://kavkaz.rbc.ru/kavkaz/freenews/65a285989a794717d2016a20",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "en.belavia.by - Timetable",
+      "url": "https://en.belavia.by/time-table/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "irishtimes.com - EU agrees sanctions on Belarus after forced landing of Ryanair flight",
+      "url": "https://www.irishtimes.com/news/world/europe/eu-agrees-sanctions-on-belarus-after-forced-landing-of-ryanair-flight-1.4573345",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-b102_32-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia to resume flights to Kazakhstan's Almaty\"",
+      "url": "https://eng.belta.by/society/view/belavia-to-resume-flights-to-kazakhstans-almaty-172981-2025/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Launches Scheduled Flights to Bangkok\"",
+      "url": "https://reform.news/en/belavia-launches-scheduled-flights-to-bangkok",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia NS24 India Service Changes\"",
+      "url": "https://www.aeroroutes.com/eng/240215-b2ns24in",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-35",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Resumes Dubai Service From Dec 2022\"",
+      "url": "https://www.aeroroutes.com/eng/221028-b2dec22dxb",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_A330_NS25_36-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Launches A330 Service From mid-June 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250626-b2jun25332",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia resumes Moscow Vnukovo service from mid-July 2022\"",
+      "url": "https://aeroroutes.com/eng/220725-b2ns22vko",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-38",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Belavia\" To Resume Flights To Moscow's Zhukovsky Airport – REFORM.news\"",
+      "url": "https://reform.news/en/belavia-to-resume-flights-to-moscow-s-zhukovsky-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Resumes Flights to Israel\"",
+      "url": "https://reform.news/en/belavia-resumes-flights-to-israel",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_BKN_KRW_NS25_40-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Turkmenistan Service Changes From late-May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250526-b2ns25bkn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Resumes Regular Flights Between Minsk and Ufa\"",
+      "url": "https://reform.news/en/belavia-resumes-regular-flights-between-minsk-and-ufa",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-l124_42-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belarus launches new direct flight to China's Urumqi\"",
+      "url": "https://eng.belta.by/society/view/belarus-launches-new-direct-flight-to-chinas-urumqi-163151-2024/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-MSQ_NS25_43-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Национальный аэропорт Минск с 30 марта переходит на весенне-летнее расписание полетов\"",
+      "url": "https://belta.by/society/view/natsionalnyj-aeroport-minsk-s-30-marta-perehodit-na-vesenne-letnee-raspisanie-poletov-705487-2025/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-44",
+      "lang": ""
+    },
+    {
+      "text": "\"We are resuming flights to Murmansk from May 28\"",
+      "url": "https://en.belavia.by/news/3358/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_NS26_45-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_NS26_45-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_NS26_45-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_NS26_45-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia announces spring-summer season routes\"",
+      "url": "https://eng.belta.by/society/view/belavia-announces-spring-summer-season-routes-178457-2026/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-46",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Launches First Regular Flight to Vietnam\"",
+      "url": "https://reform.news/en/belavia-launches-first-regular-flight-to-vietnam",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-47",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Белавиа\" с 22 мая возобновляет чартерную программу в Тунис\"",
+      "url": "https://belta.by/society/view/belavia-s-22-maja-vozobnovljaet-charternuju-programmu-v-tunis-749097-2025/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-48",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia returns flights to Sri Lanka from October 27\"",
+      "url": "https://en.belavia.by/news/3378/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-49",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Schedules Minsk – El Dabaa (El Alamein) Nonstop From late-May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250605-b2jun25dbb",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_Charter_NS24_50-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-B2_Charter_NS24_50-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia NS24 Egypt / Qatar Charters\"",
+      "url": "https://www.aeroroutes.com/eng/240326-b2ns24egqa",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia announced development plans for 2026: fleet expansion and new routes\"",
+      "url": "https://www.sb.by/en/belavia-announced-development-plans-for-2026-fleet-expansion-and-new-routes-.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-52",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Oct 2025 Minsk – Phu Quoc Charters\"",
+      "url": "https://www.aeroroutes.com/eng/250818-b2oct25pqc",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia NW25 Minsk – Sanya Service Increase\"",
+      "url": "https://www.aeroroutes.com/eng/250815-b2nw25syx",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Resumes Regular Flights to Phuket\"",
+      "url": "https://reform.news/en/belavia-resumes-regular-flights-to-phuket",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-55",
+      "lang": ""
+    },
+    {
+      "text": "flydubai.com - Route map",
+      "url": "https://www.flydubai.com/en/destinations/route-map",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "Новая чартерная программа из Минска в ОАЭ стартует 2 марта",
+      "url": "https://ctv.by/news/obshestvo/novaya-charternaya-programma-iz-minska-v-oae-startuet-2-marta",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-DP_MSQ_NS26_57-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-DP_MSQ_NS26_57-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Pobeda Resumes Flights to Minsk\"",
+      "url": "https://reform.news/en/pobeda-resumes-flights-to-minsk",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-58",
+      "lang": ""
+    },
+    {
+      "text": "\"Субсидированные перелеты из Челябинска в Минск возобновляются с 4 марта - Минская правда, 03.03.2025\"",
+      "url": "https://mlyn.by/03032025/subsidirovannye-perelety-iz-chelyabinska-v-minsk-vozobnovlyayutsya-s-4-marta/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-59",
+      "lang": ""
+    },
+    {
+      "text": "\"Russian Airline Red Wings To Launch Flights To Minsk From Moscow And Perm\"",
+      "url": "https://reform.news/en/russian-airline-red-wings-to-launch-flights-to-minsk-from-moscow-and-perm",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"Из Перми запустят новый рейс в Ташкент и продлят полеты в Минск\"",
+      "url": "https://zwezda.su/article/iz-permi-zapustyat-novyy-reys-v-tashkent-i-prodlyat-polety-v-minsk",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"Red Wings Adds Samara – Minsk From Nov 2023\"",
+      "url": "https://www.aeroroutes.com/eng/231027-wznov23msq",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-62",
+      "lang": ""
+    },
+    {
+      "text": "\"Полеты между Ульяновском и Минском возобновят 21 марта\"",
+      "url": "https://ulpressa.ru/2025/02/08/polety-mezhdu-ulyanovskom-i-minskom-vozobnovyat-21-marta/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-63",
+      "lang": ""
+    },
+    {
+      "text": "\"Scat Airlines Adds Almaty – Minsk From August 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250711-dvaug25msq",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-64",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Flight To Link Minsk And Petrozavodsk In May 2026\"",
+      "url": "https://reform.news/en/direct-flight-to-link-minsk-and-petrozavodsk-in-may-2026",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-65",
+      "lang": ""
+    },
+    {
+      "text": "\"Somon Air Launches Direct Flights Between Dushanbe and Minsk – REFORM.news\"",
+      "url": "https://reform.news/en/somon-air-launches-direct-flights-between-dushanbe-and-minsk/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-66",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines Plans to Resume Flights to Minsk – REFORM.news (formerly REFORM.by)\"",
+      "url": "https://reform.news/en/turkish-airlines-plans-to-resume-flights-to-minsk",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-67",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways increases frequency of flights to Minsk\"",
+      "url": "https://eng.belta.by/society/view/uzbekistan-airways-increases-frequency-of-flights-to-minsk-156815-2024/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-VietJet_CIS_NS26_68-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Da Nang Tourism Explodes as Vietjet Air Reopens Direct Moscow Route, Eradicating Multi-Hub Travel Chaos and Securing Central Vietnam as Russia's Premier Tropical Escape: Latest Airline News and Aviation Updates\"",
+      "url": "https://www.nomadlawyer.org/da-nang-russia-direct-flights-vietjet-air-2026",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-Ostats_69-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-Ostats_69-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport Performance\"",
+      "url": "https://airport.by/en/aeroport/statistika",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-:3_70-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-:3_70-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Национальный аэропорт Минск подвел предварительные итоги за 2023 год\"",
+      "url": "https://www.sb.by/articles/natsionalnyy-aeroport-minska-podvodit-itogi-za-2023-god.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2005_WATR_71-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://www.aci.aero/aci/aci/file/_2005%20WATR.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2006_WATR_72-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://www.domodedovo.ru/img/uploaded/rating/WorldAirportTrafficReport2006_Revised.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2007_WATR_73-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://www.abcal.org/images/stories/docs2010/aci_watr2007.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20160304031145/http://www.abcal.org/images/stories/docs2010/aci_watr2007.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2009_WATR_74-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "https://web.archive.org/web/20160811131701/http://www.soulouconsult.com/PDFs/ACI_WATR_2009_FINAL.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2011_WATR_75-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://leea.recherche.enac.fr/Bdd/AirTraffic2011.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2012_WATR_76-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://leea.recherche.enac.fr/Bdd/AirTraffic2012.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2013_WATR_77-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://leea.recherche.enac.fr/Bdd/WorldwideAirTraffic2013.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-2014_WATR_78-0",
+      "lang": ""
+    },
+    {
+      "text": "Airport Council International",
+      "url": "http://haminfo-terminal.com/grafiken/WorldwideAirTraffic2014.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20160306051255/http://haminfo-terminal.com/grafiken/WorldwideAirTraffic2014.pdf",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-MSQ_2020_Results_79-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Национальный аэропорт Минск подвел итоги работы за 2020 год\"",
+      "url": "https://airport.by/en/press-sluzba/news/nacionalnyj-aeroport-minsk-podvel-itogi-raboty-za-2020-god",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-80",
+      "lang": ""
+    },
+    {
+      "text": "\"Transport - Minsk National Airport\"",
+      "url": "https://web.archive.org/web/20190617040350/https://airport.by/en/transport",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://airport.by/en/transport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-81",
+      "lang": ""
+    },
+    {
+      "text": "Общественный транспорт",
+      "url": "https://airport.by/kak-dobratsa/v-aeroport/obsestvennyj-transport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-82",
+      "lang": ""
+    },
+    {
+      "text": "\"BZD launched trains to the National Airport Minsk station\"",
+      "url": "http://aviakassa.by/news/item/487",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20160305023818/http://aviakassa.by/news/item/487",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-83",
+      "lang": ""
+    },
+    {
+      "text": "\"BZD relocates transfer station at National Airport Minsk (updated)\"",
+      "url": "https://railwayz.info/news/10649",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20170406184857/https://railwayz.info/news/10649",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-84",
+      "lang": ""
+    },
+    {
+      "text": "\"Attention Passengers! - Belarusian Railway\"",
+      "url": "http://www.rw.by/corporate/press_center/news_of_passengers/2017/04/vnimaniju_passazhirov18/",
+      "lang": ""
+    },
+    {
+      "text": "Belarusian Railway",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20170407054947/http://www.rw.by/corporate/press_center/news_of_passengers/2017/04/vnimaniju_passazhirov18/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-85",
+      "lang": ""
+    },
+    {
+      "text": "\"ASN Aircraft accident Tupolev 134AK CCCP-65910 Nezhivka\"",
+      "url": "http://aviation-safety.net/database/record.php?id=19850201-0",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-86",
+      "lang": ""
+    },
+    {
+      "text": "\"Kish Air aircraft strikes trees during landing\"",
+      "url": "http://www.allbusiness.com/operations/shipping-air-freight/636103-1.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-ASN261009_87-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Accident description\"",
+      "url": "http://aviation-safety.net/database/record.php?id=20091026-0",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport#cite_ref-88",
+      "lang": ""
+    },
+    {
+      "text": "\"EXPLAINER: What was behind a jet's diversion to Belarus?\"",
+      "url": "https://apnews.com/article/belarus-europe-edcf633281e3e9a55b2d994b96eb029b",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Minsk%20National%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://airport.by/en",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UMMS\"",
+      "url": "http://www.gcmap.com/airport/UMMS",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UMMS\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UMMS.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for MSQ",
+      "url": "https://web.archive.org/web/20070929120821/http://aviation-safety.net/database/airport/airport.php?id=msq",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Portal:Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Brest",
+      "url": "https://en.wikipedia.org/wiki/Brest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel (Homyel)",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Viciebsk Uschodni",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mahilyow",
+      "url": "https://en.wikipedia.org/wiki/Mahilyow_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno (Hrodna)",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Belaya",
+      "url": "https://en.wikipedia.org/wiki/Belaya_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Borisoglebskoye",
+      "url": "https://en.wikipedia.org/wiki/Borisoglebskoye_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Burevestnik",
+      "url": "https://en.wikipedia.org/wiki/Burevestnik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dzyomgi",
+      "url": "https://en.wikipedia.org/wiki/Dzyomgi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Engels-2",
+      "url": "https://en.wikipedia.org/wiki/Engels-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Kirovsk–Apatity",
+      "url": "https://en.wikipedia.org/wiki/Kirovsk–Apatity_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Klyuchi",
+      "url": "https://en.wikipedia.org/wiki/Klyuchi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kondinskoye",
+      "url": "https://en.wikipedia.org/wiki/Kondinskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Levashovo",
+      "url": "https://en.wikipedia.org/wiki/Levashovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Magdagachi",
+      "url": "https://en.wikipedia.org/wiki/Magdagachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ozerne",
+      "url": "https://en.wikipedia.org/wiki/Ozerne_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Poltava",
+      "url": "https://en.wikipedia.org/wiki/Poltava_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pugachyov",
+      "url": "https://en.wikipedia.org/wiki/Pugachyov_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Ryazan Dyagilevo",
+      "url": "https://en.wikipedia.org/wiki/Dyagilevo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Rzhev",
+      "url": "https://en.wikipedia.org/wiki/Rzhev_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Samara Kryazh",
+      "url": "https://en.wikipedia.org/wiki/Samara_Kryazh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov West",
+      "url": "https://en.wikipedia.org/wiki/Saratov_West_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Shatalovo",
+      "url": "https://en.wikipedia.org/wiki/Shatalovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Shaykovka",
+      "url": "https://en.wikipedia.org/wiki/Shaykovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Sol'tsy-2",
+      "url": "https://en.wikipedia.org/wiki/Soltsy-2_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Tatishchevo",
+      "url": "https://en.wikipedia.org/wiki/Tatishchevo_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tilichiki",
+      "url": "https://en.wikipedia.org/wiki/Tilichiki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tushino Airfield",
+      "url": "https://en.wikipedia.org/wiki/Tushino_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Uka",
+      "url": "https://en.wikipedia.org/wiki/Uka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukrainka",
+      "url": "https://en.wikipedia.org/wiki/Ukrainka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vozdvizhenka",
+      "url": "https://en.wikipedia.org/wiki/Vozdvizhenka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yaroslavl Levtsovo",
+      "url": "https://en.wikipedia.org/wiki/Yaroslavl_Levtsovo_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Yevpatoria",
+      "url": "https://en.wikipedia.org/wiki/Yevpatoria_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugorsk Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Yugorsk_Sovetsky_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Baherove",
+      "url": "https://en.wikipedia.org/wiki/Baherove_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Bakharevka",
+      "url": "https://en.wikipedia.org/wiki/Bakharevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezovka",
+      "url": "https://en.wikipedia.org/wiki/Berezovka_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon",
+      "url": "https://en.wikipedia.org/wiki/Dolon_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon Southwest",
+      "url": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+      "lang": ""
+    },
+    {
+      "text": "Jonava",
+      "url": "https://en.wikipedia.org/wiki/Jonava_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lakhta",
+      "url": "https://en.wikipedia.org/wiki/Lakhta_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Lenino",
+      "url": "https://en.wikipedia.org/wiki/Lenino_air_base",
+      "lang": ""
+    },
+    {
+      "text": "Pryluky",
+      "url": "https://en.wikipedia.org/wiki/Pryluky_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Raadi",
+      "url": "https://en.wikipedia.org/wiki/Raadi_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Saratov South",
+      "url": "https://en.wikipedia.org/wiki/Saratov_South_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Smirnykh",
+      "url": "https://en.wikipedia.org/wiki/Smirnykh_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Stryi",
+      "url": "https://en.wikipedia.org/wiki/Stryi_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Tiksi West",
+      "url": "https://en.wikipedia.org/wiki/Tiksi_West",
+      "lang": ""
+    },
+    {
+      "text": "Uzyn",
+      "url": "https://en.wikipedia.org/wiki/Uzyn_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Vetrovoye",
+      "url": "https://en.wikipedia.org/wiki/Vetrovoye",
+      "lang": ""
+    },
+    {
+      "text": "Zavitinsk",
+      "url": "https://en.wikipedia.org/wiki/Zavitinsk_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belgorod",
+      "url": "https://en.wikipedia.org/wiki/Belgorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherkasy",
+      "url": "https://en.wikipedia.org/wiki/Cherkasy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Domodedovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Heydar Aliyev",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kemerovo",
+      "url": "https://en.wikipedia.org/wiki/Kemerovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kherson",
+      "url": "https://en.wikipedia.org/wiki/Kherson_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kogalym",
+      "url": "https://en.wikipedia.org/wiki/Kogalym_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumoch",
+      "url": "https://en.wikipedia.org/wiki/Kurumoch_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lviv Danylo Halytskyi",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Danylo_Halytskyi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magnitogorsk",
+      "url": "https://en.wikipedia.org/wiki/Magnitogorsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mariupol",
+      "url": "https://en.wikipedia.org/wiki/Mariupol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoi",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Riga",
+      "url": "https://en.wikipedia.org/wiki/Riga_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Roshchino",
+      "url": "https://en.wikipedia.org/wiki/Roshchino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sabetta",
+      "url": "https://en.wikipedia.org/wiki/Sabetta_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Simferopol",
+      "url": "https://en.wikipedia.org/wiki/Simferopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strigino",
+      "url": "https://en.wikipedia.org/wiki/Strigino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Surgut",
+      "url": "https://en.wikipedia.org/wiki/Farman_Salmanov_Surgut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tallinn",
+      "url": "https://en.wikipedia.org/wiki/Tallinn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talagi",
+      "url": "https://en.wikipedia.org/wiki/Talagi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tartu",
+      "url": "https://en.wikipedia.org/wiki/Tartu_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzhhorod",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ventspils",
+      "url": "https://en.wikipedia.org/wiki/Ventspils_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilnius",
+      "url": "https://en.wikipedia.org/wiki/Vilnius_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Volgograd",
+      "url": "https://en.wikipedia.org/wiki/Volgograd_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Voronezh",
+      "url": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yemelyanovo",
+      "url": "https://en.wikipedia.org/wiki/Yemelyanovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zvartnots",
+      "url": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aldan",
+      "url": "https://en.wikipedia.org/wiki/Aldan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Alykel",
+      "url": "https://en.wikipedia.org/wiki/Alykel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakovo",
+      "url": "https://en.wikipedia.org/wiki/Balakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baley",
+      "url": "https://en.wikipedia.org/wiki/Baley_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Barnaul",
+      "url": "https://en.wikipedia.org/wiki/Barnaul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batagay",
+      "url": "https://en.wikipedia.org/wiki/Batagay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baykit",
+      "url": "https://en.wikipedia.org/wiki/Baykit_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Begishevo",
+      "url": "https://en.wikipedia.org/wiki/Begishevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Belaya Gora",
+      "url": "https://en.wikipedia.org/wiki/Belaya_Gora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berezniki",
+      "url": "https://en.wikipedia.org/wiki/Berezniki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Beslan",
+      "url": "https://en.wikipedia.org/wiki/Beslan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Biysk",
+      "url": "https://en.wikipedia.org/wiki/Biysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bogashevo",
+      "url": "https://en.wikipedia.org/wiki/Bogashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boguchany",
+      "url": "https://en.wikipedia.org/wiki/Boguchany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bugulma",
+      "url": "https://en.wikipedia.org/wiki/Bugulma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bykovo",
+      "url": "https://en.wikipedia.org/wiki/Bykovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chara",
+      "url": "https://en.wikipedia.org/wiki/Chara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chaybukha",
+      "url": "https://en.wikipedia.org/wiki/Chaybukha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cheboksary",
+      "url": "https://en.wikipedia.org/wiki/Cheboksary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cherepovets",
+      "url": "https://en.wikipedia.org/wiki/Cherepovets_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chersky",
+      "url": "https://en.wikipedia.org/wiki/Chersky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chistopol",
+      "url": "https://en.wikipedia.org/wiki/Chistopol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chokurdakh",
+      "url": "https://en.wikipedia.org/wiki/Chokurdakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Deputatsky",
+      "url": "https://en.wikipedia.org/wiki/Deputatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dikson",
+      "url": "https://en.wikipedia.org/wiki/Dikson_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dudinka",
+      "url": "https://en.wikipedia.org/wiki/Dudinka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Elista",
+      "url": "https://en.wikipedia.org/wiki/Elista_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erbogachen",
+      "url": "https://en.wikipedia.org/wiki/Erbogachen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gomel",
+      "url": "https://en.wikipedia.org/wiki/Gomel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gorno-Altaysk",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Altaysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grozny",
+      "url": "https://en.wikipedia.org/wiki/Grozny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Grodno",
+      "url": "https://en.wikipedia.org/wiki/Grodno_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Igarka",
+      "url": "https://en.wikipedia.org/wiki/Igarka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Inta",
+      "url": "https://en.wikipedia.org/wiki/Inta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk Northwest",
+      "url": "https://en.wikipedia.org/wiki/Irkutsk_Northwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ivanovo Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhevsk",
+      "url": "https://en.wikipedia.org/wiki/Izhevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Izhma",
+      "url": "https://en.wikipedia.org/wiki/Izhma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kadala",
+      "url": "https://en.wikipedia.org/wiki/Kadala_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaluga",
+      "url": "https://en.wikipedia.org/wiki/Kaluga_(Grabtsevo)_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kärdla",
+      "url": "https://en.wikipedia.org/wiki/Kärdla_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kaunas",
+      "url": "https://en.wikipedia.org/wiki/Kaunas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazachinskoe",
+      "url": "https://en.wikipedia.org/wiki/Kazachinskoe_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Keperveyem",
+      "url": "https://en.wikipedia.org/wiki/Keperveyem_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanty-Mansiysk",
+      "url": "https://en.wikipedia.org/wiki/Khanty-Mansiysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kharkiv North",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khatanga",
+      "url": "https://en.wikipedia.org/wiki/Khatanga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khmelnytskyi",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytskyi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyiv Chaika Airfield",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Chaika_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Kimry",
+      "url": "https://en.wikipedia.org/wiki/Kimry_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kirensk",
+      "url": "https://en.wikipedia.org/wiki/Kirensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kolpashevo",
+      "url": "https://en.wikipedia.org/wiki/Kolpashevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Koltsovo",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostroma",
+      "url": "https://en.wikipedia.org/wiki/Kostroma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kotlas",
+      "url": "https://en.wikipedia.org/wiki/Kotlas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnokamensk",
+      "url": "https://en.wikipedia.org/wiki/Krasnokamensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnovishersk",
+      "url": "https://en.wikipedia.org/wiki/Krasnovishersk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurgan",
+      "url": "https://en.wikipedia.org/wiki/Kurgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyren",
+      "url": "https://en.wikipedia.org/wiki/Kyren_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Syr",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Syr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lavrentiya",
+      "url": "https://en.wikipedia.org/wiki/Lavrentiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lipetsk",
+      "url": "https://en.wikipedia.org/wiki/Lipetsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lutsk",
+      "url": "https://en.wikipedia.org/wiki/Lutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan-13",
+      "url": "https://en.wikipedia.org/wiki/Magadan-13_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magan",
+      "url": "https://en.wikipedia.org/wiki/Magan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mama",
+      "url": "https://en.wikipedia.org/wiki/Mama_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Markovo",
+      "url": "https://en.wikipedia.org/wiki/Markovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maykop",
+      "url": "https://en.wikipedia.org/wiki/Maykop_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Menzelinsk",
+      "url": "https://en.wikipedia.org/wiki/Menzelinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mezen",
+      "url": "https://en.wikipedia.org/wiki/Mezen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Milkovo",
+      "url": "https://en.wikipedia.org/wiki/Milkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mineralnye Vody",
+      "url": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk National Airport",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mirny",
+      "url": "https://en.wikipedia.org/wiki/Mirny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mogilev",
+      "url": "https://en.wikipedia.org/wiki/Mogilev_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Moma",
+      "url": "https://en.wikipedia.org/wiki/Moma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murmansk",
+      "url": "https://en.wikipedia.org/wiki/Murmansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Myachkovo",
+      "url": "https://en.wikipedia.org/wiki/Myachkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mys Shmidta",
+      "url": "https://en.wikipedia.org/wiki/Mys_Shmidta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nadym",
+      "url": "https://en.wikipedia.org/wiki/Nadym_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nalchik",
+      "url": "https://en.wikipedia.org/wiki/Nalchik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nazran",
+      "url": "https://en.wikipedia.org/wiki/Nazran_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neftekamsk",
+      "url": "https://en.wikipedia.org/wiki/Neftekamsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nefteyugansk",
+      "url": "https://en.wikipedia.org/wiki/Nefteyugansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Neryungri–Chulman",
+      "url": "https://en.wikipedia.org/wiki/Chulman_Neryungri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolayevsk-on-Amur",
+      "url": "https://en.wikipedia.org/wiki/Nikolayevsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolsk",
+      "url": "https://en.wikipedia.org/wiki/Nikolsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nikolskoye",
+      "url": "https://en.wikipedia.org/wiki/Nikolskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhneangarsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhneangarsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nizhnevartovsk",
+      "url": "https://en.wikipedia.org/wiki/Nizhnevartovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novy Urengoy",
+      "url": "https://en.wikipedia.org/wiki/Novy_Urengoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Noyabrsk",
+      "url": "https://en.wikipedia.org/wiki/Noyabrsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyagan",
+      "url": "https://en.wikipedia.org/wiki/Nyagan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nyurba",
+      "url": "https://en.wikipedia.org/wiki/Nyurba_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oktyabrsky",
+      "url": "https://en.wikipedia.org/wiki/Oktyabrsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Olyokminsk",
+      "url": "https://en.wikipedia.org/wiki/Olyokminsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Omsk Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Omsk_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oral Ak Zhol",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orenburg Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Orenburg_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsk",
+      "url": "https://en.wikipedia.org/wiki/Orsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oryol Yuzhny",
+      "url": "https://en.wikipedia.org/wiki/Oryol_Yuzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Palana",
+      "url": "https://en.wikipedia.org/wiki/Palana_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pechora",
+      "url": "https://en.wikipedia.org/wiki/Pechora_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Penza",
+      "url": "https://en.wikipedia.org/wiki/Penza_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavlovsk-Kamchatsky",
+      "url": "https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pevek",
+      "url": "https://en.wikipedia.org/wiki/Pevek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plekhanovo",
+      "url": "https://en.wikipedia.org/wiki/Plekhanovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Plestsy",
+      "url": "https://en.wikipedia.org/wiki/Plestsy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pobedilovo",
+      "url": "https://en.wikipedia.org/wiki/Pobedilovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Podkamennaya Tunguska",
+      "url": "https://en.wikipedia.org/wiki/Podkamennaya_Tunguska_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polotsk",
+      "url": "https://en.wikipedia.org/wiki/Polotsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Polyarny",
+      "url": "https://en.wikipedia.org/wiki/Polyarny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Provideniya Bay",
+      "url": "https://en.wikipedia.org/wiki/Provideniya_Bay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pulkovo",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pushkin",
+      "url": "https://en.wikipedia.org/wiki/Pushkin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Raduzhny",
+      "url": "https://en.wikipedia.org/wiki/Raduzhny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rostov-on-Don",
+      "url": "https://en.wikipedia.org/wiki/Rostov-on-Don_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rzhevka",
+      "url": "https://en.wikipedia.org/wiki/Rzhevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sakkyryr",
+      "url": "https://en.wikipedia.org/wiki/Sakkyryr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salekhard",
+      "url": "https://en.wikipedia.org/wiki/Salekhard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Salka",
+      "url": "https://en.wikipedia.org/wiki/Salka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saransk",
+      "url": "https://en.wikipedia.org/wiki/Saransk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarmany",
+      "url": "https://en.wikipedia.org/wiki/Sarmany_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sarov",
+      "url": "https://en.wikipedia.org/wiki/Sarov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semenovskoye Shidrovo",
+      "url": "https://en.wikipedia.org/wiki/Semenovskoye_Shidrovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semyazino",
+      "url": "https://en.wikipedia.org/wiki/Semyazino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severny",
+      "url": "https://en.wikipedia.org/wiki/Severny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Eniseysk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Eniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severo-Evensk",
+      "url": "https://en.wikipedia.org/wiki/Severo-Evensk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Seymchan",
+      "url": "https://en.wikipedia.org/wiki/Seymchan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sharypovo",
+      "url": "https://en.wikipedia.org/wiki/Sharypovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shimanovsk",
+      "url": "https://en.wikipedia.org/wiki/Shimanovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shirak",
+      "url": "https://en.wikipedia.org/wiki/Shirak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sibay",
+      "url": "https://en.wikipedia.org/wiki/Sibay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Smolensk South",
+      "url": "https://en.wikipedia.org/wiki/Smolensk_South_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Snezhnogorsk",
+      "url": "https://en.wikipedia.org/wiki/Snezhnogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Magadan–Sokol",
+      "url": "https://en.wikipedia.org/wiki/Sokol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Solovki",
+      "url": "https://en.wikipedia.org/wiki/Solovki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sovetsky",
+      "url": "https://en.wikipedia.org/wiki/Sovetsky_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Spichenkovo",
+      "url": "https://en.wikipedia.org/wiki/Spichenkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Srednekolymsk",
+      "url": "https://en.wikipedia.org/wiki/Srednekolymsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staraya Russa",
+      "url": "https://en.wikipedia.org/wiki/Staraya_Russa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Staroselye",
+      "url": "https://en.wikipedia.org/wiki/Staroselye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stary Oskol",
+      "url": "https://en.wikipedia.org/wiki/Stary_Oskol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stavropol Shpakovskoye",
+      "url": "https://en.wikipedia.org/wiki/Stavropol_Shpakovskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stepanavan",
+      "url": "https://en.wikipedia.org/wiki/Stepanavan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Strezhevoy",
+      "url": "https://en.wikipedia.org/wiki/Strezhevoy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sumy",
+      "url": "https://en.wikipedia.org/wiki/Sumy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Susuman",
+      "url": "https://en.wikipedia.org/wiki/Susuman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svetlogorsk",
+      "url": "https://en.wikipedia.org/wiki/Svetlogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svobodny",
+      "url": "https://en.wikipedia.org/wiki/Svobodny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Syktyvkar Southwest",
+      "url": "https://en.wikipedia.org/wiki/Syktyvkar_Southwest_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taksimo",
+      "url": "https://en.wikipedia.org/wiki/Taksimo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tambov Donskoye",
+      "url": "https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tasayevo",
+      "url": "https://en.wikipedia.org/wiki/Tasayevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Teply Klyuch",
+      "url": "https://en.wikipedia.org/wiki/Teply_Klyuch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ternopil",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tolmachevo",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tretyakovo",
+      "url": "https://en.wikipedia.org/wiki/Tretyakovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tunoshna",
+      "url": "https://en.wikipedia.org/wiki/Golden_Ring_Yaroslavl_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tura",
+      "url": "https://en.wikipedia.org/wiki/Tura_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turlatovo",
+      "url": "https://en.wikipedia.org/wiki/Turlatovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turukhansk",
+      "url": "https://en.wikipedia.org/wiki/Turukhansk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tynda",
+      "url": "https://en.wikipedia.org/wiki/Tynda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Maksimovka",
+      "url": "https://en.wikipedia.org/wiki/Maksimovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ukhta",
+      "url": "https://en.wikipedia.org/wiki/Ukhta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uktus",
+      "url": "https://en.wikipedia.org/wiki/Uktus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulan-Ude Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulan-Ude_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Baratayevka",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Baratayevka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulyanovsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Ulyanovsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uray",
+      "url": "https://en.wikipedia.org/wiki/Uray_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usinsk",
+      "url": "https://en.wikipedia.org/wiki/Usinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Ilimsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Ilimsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kamchatsk",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kamchatsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kut",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kut_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Kuyga",
+      "url": "https://en.wikipedia.org/wiki/Ust-Kuyga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Maya",
+      "url": "https://en.wikipedia.org/wiki/Ust-Maya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Nera",
+      "url": "https://en.wikipedia.org/wiki/Ust-Nera_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Pakhachi",
+      "url": "https://en.wikipedia.org/wiki/Ust-Pakhachi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ust-Tsilma",
+      "url": "https://en.wikipedia.org/wiki/Ust-Tsilma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uytash",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vanavara",
+      "url": "https://en.wikipedia.org/wiki/Vanavara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Varandey",
+      "url": "https://en.wikipedia.org/wiki/Varandey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vaskovo",
+      "url": "https://en.wikipedia.org/wiki/Vaskovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Velikiye Luki",
+      "url": "https://en.wikipedia.org/wiki/Velikiye_Luki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Veliky Ustyug",
+      "url": "https://en.wikipedia.org/wiki/Veliky_Ustyug_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnevilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Verkhnevilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Verkhnyaya Toyma",
+      "url": "https://en.wikipedia.org/wiki/Verkhnyaya_Toyma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vilyuysk",
+      "url": "https://en.wikipedia.org/wiki/Vilyuysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vitebsk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vologda",
+      "url": "https://en.wikipedia.org/wiki/Vologda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vorkuta",
+      "url": "https://en.wikipedia.org/wiki/Vorkuta_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vuktyl",
+      "url": "https://en.wikipedia.org/wiki/Vuktyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yakutsk",
+      "url": "https://en.wikipedia.org/wiki/Yakutsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yamburg",
+      "url": "https://en.wikipedia.org/wiki/Yamburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeltsovka",
+      "url": "https://en.wikipedia.org/wiki/Yeltsovka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeniseysk",
+      "url": "https://en.wikipedia.org/wiki/Yeniseysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yermolino",
+      "url": "https://en.wikipedia.org/wiki/Yermolino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yoshkar-Ola",
+      "url": "https://en.wikipedia.org/wiki/Yoshkar-Ola_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Kurilsk Mendeleyevo",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yuzhno-Sakhalinsk",
+      "url": "https://en.wikipedia.org/wiki/Yuzhno-Sakhalinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zavodske",
+      "url": "https://en.wikipedia.org/wiki/Zavodske_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zheleznogorsk",
+      "url": "https://en.wikipedia.org/wiki/Zheleznogorsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhytomyr",
+      "url": "https://en.wikipedia.org/wiki/Zhytomyr_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zonalnoye",
+      "url": "https://en.wikipedia.org/wiki/Zonalnoye_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zyryanka West",
+      "url": "https://en.wikipedia.org/wiki/Zyryanka_West_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bălți",
+      "url": "https://en.wikipedia.org/wiki/Bălți_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cahul",
+      "url": "https://en.wikipedia.org/wiki/Cahul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dnipro",
+      "url": "https://en.wikipedia.org/wiki/Dnipro_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donetsk",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Havryshivka Vinnytsia",
+      "url": "https://en.wikipedia.org/wiki/Havryshivka_Vinnytsia_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Iultin",
+      "url": "https://en.wikipedia.org/wiki/Iultin",
+      "lang": ""
+    },
+    {
+      "text": "Luhansk",
+      "url": "https://en.wikipedia.org/wiki/Luhansk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chernihiv Shestovytsia",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv_Shestovytsia_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Goris",
+      "url": "https://en.wikipedia.org/wiki/Goris_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazan-2",
+      "url": "https://en.wikipedia.org/wiki/Kazan-2_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerch",
+      "url": "https://en.wikipedia.org/wiki/Kerch_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanskaya",
+      "url": "https://en.wikipedia.org/wiki/Khanskaya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kozyrevsk",
+      "url": "https://en.wikipedia.org/wiki/Kozyrevsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Minsk-1",
+      "url": "https://en.wikipedia.org/wiki/Minsk-1_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novgorod",
+      "url": "https://en.wikipedia.org/wiki/Novgorod_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Rubtsovsk",
+      "url": "https://en.wikipedia.org/wiki/Rubtsovsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saratov Tsentralny",
+      "url": "https://en.wikipedia.org/wiki/Saratov_Tsentralny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Severouralsk",
+      "url": "https://en.wikipedia.org/wiki/Severouralsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tarnogsky Gorodok",
+      "url": "https://en.wikipedia.org/wiki/Tarnogsky_Gorodok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yelabuga North",
+      "url": "https://en.wikipedia.org/wiki/Yelabuga_North_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yugarenok",
+      "url": "https://en.wikipedia.org/wiki/Yugarenok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baikal",
+      "url": "https://en.wikipedia.org/wiki/Baikal_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Odesa",
+      "url": "https://en.wikipedia.org/wiki/Odesa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Perm_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sevastopol",
+      "url": "https://en.wikipedia.org/wiki/Sevastopol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Achinsk",
+      "url": "https://en.wikipedia.org/wiki/Achinsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Amderma",
+      "url": "https://en.wikipedia.org/wiki/Amderma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bagdarin",
+      "url": "https://en.wikipedia.org/wiki/Bagdarin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bratsk",
+      "url": "https://en.wikipedia.org/wiki/Bratsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chelyabinsk Shagol",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_Shagol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Erebuni",
+      "url": "https://en.wikipedia.org/wiki/Erebuni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ignatyevo",
+      "url": "https://en.wikipedia.org/wiki/Ignatyevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Komsomolsk",
+      "url": "https://en.wikipedia.org/wiki/Komsomolsk-on-Amur_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk Cheremshanka",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_Cheremshanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kursk Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kurumkan",
+      "url": "https://en.wikipedia.org/wiki/Kurumkan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryan-Mar",
+      "url": "https://en.wikipedia.org/wiki/Naryan-Mar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orlik",
+      "url": "https://en.wikipedia.org/wiki/Orlik_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Orsha",
+      "url": "https://en.wikipedia.org/wiki/Orsha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petrozavodsk",
+      "url": "https://en.wikipedia.org/wiki/Petrozavodsk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pskov",
+      "url": "https://en.wikipedia.org/wiki/Pskov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi Babushara",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Suntar",
+      "url": "https://en.wikipedia.org/wiki/Suntar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ugolny",
+      "url": "https://en.wikipedia.org/wiki/Ugolny_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vyazma",
+      "url": "https://en.wikipedia.org/wiki/Vyazma_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yeysk",
+      "url": "https://en.wikipedia.org/wiki/Yeysk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bezymyanka",
+      "url": "https://en.wikipedia.org/wiki/Bezymyanka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Gromov Flight Research Institute",
+      "url": "https://en.wikipedia.org/wiki/Gromov_Flight_Research_Institute",
+      "lang": ""
+    },
+    {
+      "text": "Nizhyn",
+      "url": "https://en.wikipedia.org/wiki/Nizhyn_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Pridacha",
+      "url": "https://en.wikipedia.org/wiki/Pridacha_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Valek",
+      "url": "https://en.wikipedia.org/wiki/Valek_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&oldid=1383162840",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&oldid=1383162840",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports built in the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_built_in_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Belarus",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Minsk",
+      "url": "https://en.wikipedia.org/wiki/Category:Transport_in_Minsk",
+      "lang": ""
+    },
+    {
+      "text": "Subnational enclaves and exclaves",
+      "url": "https://en.wikipedia.org/wiki/Category:Subnational_enclaves_and_exclaves",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from May 2014",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_May_2014",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Belarusian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Belarusian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages with Belarusian IPA",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_with_Belarusian_IPA",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Russian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Russian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Chart extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Chart_extension",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Official website different in Wikidata and Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Belarusian-language sources (be)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Belarusian-language_sources_(be)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Chinese-language sources (zh)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Chinese-language_sources_(zh)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Minsk_National_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-by-04.txt"
+}

@@ -1,0 +1,929 @@
+{
+  "id": "ap-mn-20",
+  "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+  "retrievedAt": "2026-11-06T08:39:56.217245+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+  "bytes": 126179,
+  "sha256": "63d9837d2d28bc3fe12c1ecf044f8faf7130b4e763096dd3460f95fe59c6db15",
+  "file": "sources/neighbours-2026-11-06/ap-mn-20.html",
+  "title": "Ölgii International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=%C3%96lgii+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=%C3%96lgii+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=%C3%96lgii+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=%C3%96lgii+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A7%D9%88%D9%84%DA%AF%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27%C3%96lgii",
+      "lang": "fr"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_%C3%96lgii",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Bajan-%C3%94lgij",
+      "lang": "it"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D3%A8%D0%BB%D0%B3%D0%B8%D0%B9_%D0%BD%D0%B8%D1%81%D1%8D%D1%85_%D0%B1%D1%83%D1%83%D0%B4%D0%B0%D0%BB",
+      "lang": "mn"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_%C3%96lgij",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_%C3%96lgii",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B3%D0%B8%D0%B9_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/%C3%96lgijs_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%BE%D0%B2%D0%BB%D0%B3%D0%B8",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/%C3%96lgii_Havaalan%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_%C3%96lgii",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%88%97%E7%9B%96%E6%9C%BA%E5%9C%BA",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2525980#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&oldid=1363090148",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=%C3%96lgii_International_Airport&id=1363090148&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F%25C3%2596lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=%C3%96lgii_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:%C3%96lgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2525980",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "48°59′30″N 89°55′11″E ﻿ / ﻿ 48.99167°N 89.91972°E ﻿ / 48.99167; 89.91972",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=%C3%96lgii_International_Airport&params=48_59_30_N_89_55_11_E_type:airport_region:MN",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_(disambiguation)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Ölgii_Airport_in_2024.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Bayan-Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Bayan-Ölgii_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "Hovd Time",
+      "url": "https://en.wikipedia.org/wiki/Hovd_Time?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "UTC+7",
+      "url": "https://en.wikipedia.org/wiki/UTC+7",
+      "lang": ""
+    },
+    {
+      "text": "48°59′30″N 89°55′11″E ﻿ / ﻿ 48.99167°N 89.91972°E ﻿ / 48.99167; 89.91972",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=%C3%96lgii_International_Airport&params=48_59_30_N_89_55_11_E_type:airport_region:MN",
+      "lang": ""
+    },
+    {
+      "text": "ulgii .mcaa .gov .mn",
+      "url": "https://ulgii.mcaa.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Relief_map_of_Mongolia.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_relief_location_map.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:World_location_map_(equirectangular_180).svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Bayan-Ölgii Province",
+      "url": "https://en.wikipedia.org/wiki/Bayan-Ölgii_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_note-Ölgii_city_flipbook-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_note-Ölgii_Airport-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Монголын иргэний нисэхийн статистикийн эмхтгэл 2010\"",
+      "url": "https://web.archive.org/web/20120808223728/http://www.mcaa.gov.mn/index.php/page/28",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.mcaa.gov.mn/index.php/page/28",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "https://ulgii.mcaa.gov.mn/",
+      "url": "https://ulgii.mcaa.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_ref-Ölgii_city_flipbook_3-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Өлгий хотын өнгө жавхаа\"",
+      "url": "https://fliphtml5.com/kmgdc/fgsj/%D3%A8%D0%9B%D0%93%D0%98%D0%99_%D0%A5%D0%9E%D0%A2%D0%AB%D0%9D_%D3%A8%D0%9D%D0%93%D3%A8_%D0%96%D0%90%D0%92%D0%A5%D0%90%D0%90/63/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_ref-Ölgii_Airport_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"БАЯН-ӨЛГИЙ АЙМАГ ДАХЬ ӨЛГИЙ НИСЭХ БУУДЛЫН ТОВЧ ТАНИЛЦУУЛГА\"",
+      "url": "https://web.archive.org/web/20260108054030/https://ulgii.mcaa.gov.mn/?page_id=20",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://ulgii.mcaa.gov.mn/?page_id=20",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Орон нутгийн найман чиглэлд шууд нислэг үйлдэнэ\"",
+      "url": "https://montsame.mn/mn/read/321542",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ölgii%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://ulgii.mcaa.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "World airport codes",
+      "url": "http://www.world-airport-codes.com/mongolia/ulgit-7268.html",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii International Airport",
+      "url": "https://www.facebook.com/ulgii.airport",
+      "lang": ""
+    },
+    {
+      "text": "Facebook",
+      "url": "https://en.wikipedia.org/wiki/Facebook_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Ölgii_International_Airport&oldid=1363090148",
+      "url": "https://en.wikipedia.org/w/index.php?title=Ölgii_International_Airport&oldid=1363090148",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii (city)",
+      "url": "https://en.wikipedia.org/wiki/Category:%C3%96lgii_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Mongolian_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Mongolian-language sources (mn)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Mongolian-language_sources_(mn)",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=%C3%96lgii_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/%C3%96lgii_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-20.txt"
+}

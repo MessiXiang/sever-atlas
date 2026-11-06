@@ -1,0 +1,134 @@
+{
+  "checkedAt": "2026-11-06",
+  "status": "passed-with-noted-browser-limit",
+  "data": {
+    "timetableRecords": 2170,
+    "routeServiceRecords": 10,
+    "newPassengerCityPairs": 5,
+    "experienceModels": 6,
+    "experienceOffers": 8,
+    "newAirports": 8,
+    "dataValidationErrors": 0,
+    "existingTimetableRecordsUnchanged": 2169,
+    "existingAirportsUnchanged": 366,
+    "newAirportsUTCOffset": "+05:00",
+    "allOfflineBundlesMatchEditableJSON": true,
+    "localHTMLReferencesChecked": 24,
+    "evidenceHashesChecked": 15
+  },
+  "browser": {
+    "engine": "Chromium via in-app browser",
+    "origin": "http://localhost:8765",
+    "desktop": {
+      "width": 1280,
+      "height": 720,
+      "result": "passed"
+    },
+    "phone390": {
+      "width": 390,
+      "height": 844,
+      "result": "passed",
+      "bodyScrollWidth": 390,
+      "viewScrollWidth": 390,
+      "navigation": "four items, 93.5px each, bottom bar"
+    },
+    "phone320": {
+      "width": 320,
+      "height": 740,
+      "result": "passed",
+      "viewScrollWidth": 320,
+      "lastNavRight": 312
+    },
+    "tablet": {
+      "width": 820,
+      "height": 1180,
+      "result": "passed",
+      "bodyScrollWidth": 820,
+      "headerRight": 802
+    },
+    "viewportOverridesReset": true,
+    "consoleErrors": []
+  },
+  "checks": [
+    {
+      "name": "country_search",
+      "result": "passed",
+      "details": "哈萨克斯坦 returns four An-24 direction records."
+    },
+    {
+      "name": "date_filter",
+      "result": "passed",
+      "details": "Those four route-only records return zero results when filtering 2026-11-11."
+    },
+    {
+      "name": "dated_l410",
+      "result": "passed",
+      "details": "Silk search plus 2026-11-11 returns UH-721 only; full details show L-410, 12:00–13:00 and booking channels."
+    },
+    {
+      "name": "strict_filter",
+      "result": "passed",
+      "details": "Silk search with strict filter returns one dated timetable, excluding six route-only records."
+    },
+    {
+      "name": "trip_dated",
+      "result": "passed",
+      "details": "UH-721 saves with 2026-11-11, UTC 07:00–08:00; test leg removed afterwards."
+    },
+    {
+      "name": "trip_route_only",
+      "result": "passed",
+      "details": "TAS–OMN saves with date requiring confirmation and excludes connection calculation; test leg removed afterwards."
+    },
+    {
+      "name": "map",
+      "result": "passed",
+      "details": "Kazakhstan filter and fit control show four airport coordinates and two bidirectional route lines."
+    },
+    {
+      "name": "table_csv",
+      "result": "passed",
+      "details": "Four KZ route rows; CSV verified with record type and booking method, URL and description."
+    },
+    {
+      "name": "experience_groups",
+      "result": "passed",
+      "details": "Six model groups, eight offers; keyboard Enter on Mi-8 jump moves focus to heading."
+    },
+    {
+      "name": "price_details",
+      "result": "passed",
+      "details": "Mogilev Yak-52 five prices and medical requirements expand; Minsk Yak-52 three prices and season warning expand on phone."
+    },
+    {
+      "name": "price_units",
+      "result": "passed",
+      "details": "Mi-8 shows 5500 USD per group flying hour; An-2/Mi-2 use whole-aircraft prices; Yak-52 uses per-person prices."
+    },
+    {
+      "name": "page_persistence",
+      "result": "passed",
+      "details": "experience view URL restores on reload."
+    },
+    {
+      "name": "remote_directory",
+      "result": "passed",
+      "details": "bookable status displays two imported country entries out of 49 research records."
+    },
+    {
+      "name": "route_aircraft_evidence",
+      "result": "passed",
+      "details": "TAS–OMN route-only detail displays 航线机型有来源 · 具体班次需确认 alongside unknown departure date and time; CSV uses the same evidence wording."
+    }
+  ],
+  "screenshots": [
+    "artifacts/neighbours-2026-11-06/experiences-desktop.png",
+    "artifacts/neighbours-2026-11-06/experiences-mobile.png"
+  ],
+  "limitations": {
+    "fileProtocol": "Direct file:// navigation was denied by browser URL protocol policy; no workaround used. HTTP browser tests and offline resource integrity passed.",
+    "availability": "Verified public booking channels and one dated quote; no tickets purchased, no promises of future stock.",
+    "previousConflicts": "Six same-day possible conflicts in the pre-existing dataset remain unchanged.",
+    "deployment": "Local workspace updated; no public deployment or dist/zip refresh."
+  }
+}

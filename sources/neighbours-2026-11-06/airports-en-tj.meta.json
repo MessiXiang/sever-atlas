@@ -1,0 +1,1389 @@
+{
+  "id": "airports-en-tj",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+  "retrievedAt": "2026-11-06T08:22:30.610113+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+  "bytes": 142343,
+  "sha256": "4ce4690869ab915c63f60f0f71dbf5c6d60f021581a11b339cf286462f7754f0",
+  "file": "sources/neighbours-2026-11-06/airports-en-tj.html",
+  "title": "List of airports in Tajikistan - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan#References",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_in_Tadschikistan",
+      "lang": "de"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Tad%C5%BEikistani_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%A7%D8%AC%DB%8C%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Tad%C5%BCykistanie",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Tojikiston_aeroportlari_ro%CA%BByxati",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q6605446#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&oldid=1371387430",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Tajikistan&id=1371387430&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Tajikistan&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q6605446",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Tajikistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Tajikistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "landlocked",
+      "url": "https://en.wikipedia.org/wiki/Landlocked",
+      "lang": ""
+    },
+    {
+      "text": "Central Asia",
+      "url": "https://en.wikipedia.org/wiki/Central_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "People's Republic of China",
+      "url": "https://en.wikipedia.org/wiki/People's_Republic_of_China",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Wakhan Corridor",
+      "url": "https://en.wikipedia.org/wiki/Wakhan_Corridor",
+      "lang": ""
+    },
+    {
+      "text": "capital city",
+      "url": "https://en.wikipedia.org/wiki/Capital_city",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Location served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Province",
+      "url": "https://en.wikipedia.org/wiki/Provinces_of_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "Ayni",
+      "url": "https://en.wikipedia.org/wiki/Ayni,_Ayni_District",
+      "lang": ""
+    },
+    {
+      "text": "Sughd",
+      "url": "https://en.wikipedia.org/wiki/Sughd",
+      "lang": ""
+    },
+    {
+      "text": "Ayni Airport",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°24′14″N 068°31′26″E ﻿ / ﻿ 39.40389°N 68.52389°E ﻿ / 39.40389; 68.52389 ﻿ ( Ayni Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=39_24_14_N_068_31_26_E_region:TJ_type:airport&title=Ayni+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe",
+      "lang": ""
+    },
+    {
+      "text": "RRP",
+      "url": "https://en.wikipedia.org/wiki/Region_of_Republican_Subordination",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe International Airport",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "38°32′36″N 068°49′30″E ﻿ / ﻿ 38.54333°N 68.82500°E ﻿ / 38.54333; 68.82500 ﻿ ( Dushanbe International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=38_32_36_N_068_49_30_E_region:TJ_type:airport&title=Dushanbe+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Garm",
+      "url": "https://en.wikipedia.org/wiki/Garm,_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "RRP",
+      "url": "https://en.wikipedia.org/wiki/Region_of_Republican_Subordination",
+      "lang": ""
+    },
+    {
+      "text": "Garm Airport",
+      "url": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "39°00′14″N 070°17′29″E ﻿ / ﻿ 39.00389°N 70.29139°E ﻿ / 39.00389; 70.29139 ﻿ ( Garm Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=39_00_14_N_070_17_29_E_region:TJ_type:airport&title=Garm+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Isfara",
+      "url": "https://en.wikipedia.org/wiki/Isfara",
+      "lang": ""
+    },
+    {
+      "text": "Sughd",
+      "url": "https://en.wikipedia.org/wiki/Sughd",
+      "lang": ""
+    },
+    {
+      "text": "Isfara Airport",
+      "url": "https://en.wikipedia.org/wiki/Isfara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°07′18″N 070°39′55″E ﻿ / ﻿ 40.12167°N 70.66528°E ﻿ / 40.12167; 70.66528 ﻿ ( Isfara Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=40_07_18_N_070_39_55_E_region:TJ_type:airport&title=Isfara+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog",
+      "lang": ""
+    },
+    {
+      "text": "GBAO",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Badakhshan_Autonomous_Province",
+      "lang": ""
+    },
+    {
+      "text": "Khorog Airport",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "37°30′08″N 071°30′48″E ﻿ / ﻿ 37.50222°N 71.51333°E ﻿ / 37.50222; 71.51333 ﻿ ( Khorog Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=37_30_08_N_071_30_48_E_region:TJ_type:airport&title=Khorog+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand",
+      "lang": ""
+    },
+    {
+      "text": "Sughd",
+      "url": "https://en.wikipedia.org/wiki/Sughd",
+      "lang": ""
+    },
+    {
+      "text": "Khujand Airport",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°12′55″N 069°41′40″E ﻿ / ﻿ 40.21528°N 69.69444°E ﻿ / 40.21528; 69.69444 ﻿ ( Khudzhand Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=40_12_55_N_069_41_40_E_region:TJ_type:airport&title=Khudzhand+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulab,_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon",
+      "url": "https://en.wikipedia.org/wiki/Khatlon",
+      "lang": ""
+    },
+    {
+      "text": "Kulob Airport",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "37°59′00″N 069°48′00″E ﻿ / ﻿ 37.98333°N 69.80000°E ﻿ / 37.98333; 69.80000 ﻿ ( Kulob Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=37_59_00_N_069_48_00_E_region:TJ_type:airport&title=Kulob+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murgab",
+      "url": "https://en.wikipedia.org/wiki/Murghab,_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GBAO",
+      "url": "https://en.wikipedia.org/wiki/Gorno-Badakhshan_Autonomous_Province",
+      "lang": ""
+    },
+    {
+      "text": "Murgab Airport",
+      "url": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "38°11′25″N 074°01′29″E ﻿ / ﻿ 38.19028°N 74.02472°E ﻿ / 38.19028; 74.02472 ﻿ ( Murgab Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=38_11_25_N_074_01_29_E_region:TJ_type:airport&title=Murgab+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Penjikent",
+      "url": "https://en.wikipedia.org/wiki/Penjikent",
+      "lang": ""
+    },
+    {
+      "text": "Sughd",
+      "url": "https://en.wikipedia.org/wiki/Sughd",
+      "lang": ""
+    },
+    {
+      "text": "Penjikent Airport",
+      "url": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "39°29′02″N 067°36′12″E ﻿ / ﻿ 39.48389°N 67.60333°E ﻿ / 39.48389; 67.60333 ﻿ ( Penjikent Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=39_29_02_N_067_36_12_E_region:TJ_type:airport&title=Penjikent+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon",
+      "url": "https://en.wikipedia.org/wiki/Khatlon",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar International Airport",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "37°51′44″N 068°51′46″E ﻿ / ﻿ 37.86222°N 68.86278°E ﻿ / 37.86222; 68.86278 ﻿ ( Qurghonteppa International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=37_51_44_N_068_51_46_E_region:TJ_type:airport&title=Qurghonteppa+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Farkhor",
+      "url": "https://en.wikipedia.org/wiki/Farkhor",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon",
+      "url": "https://en.wikipedia.org/wiki/Khatlon",
+      "lang": ""
+    },
+    {
+      "text": "Farkhor Air Base",
+      "url": "https://en.wikipedia.org/wiki/Farkhor_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "37°28′11″N 069°22′51″E ﻿ / ﻿ 37.46972°N 69.38083°E ﻿ / 37.46972; 69.38083 ﻿ ( Farkhor Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=37_28_11_N_069_22_51_E_region:TJ_type:airport&title=Farkhor+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Gissar",
+      "url": "https://en.wikipedia.org/wiki/Gissar",
+      "lang": ""
+    },
+    {
+      "text": "RRP",
+      "url": "https://en.wikipedia.org/wiki/Region_of_Republican_Subordination",
+      "lang": ""
+    },
+    {
+      "text": "Gissar Air Base",
+      "url": "https://en.wikipedia.org/wiki/Gissar_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "38°30′44″N 068°40′20″E ﻿ / ﻿ 38.51222°N 68.67222°E ﻿ / 38.51222; 68.67222 ﻿ ( Gissar Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=38_30_44_N_068_40_20_E_region:TJ_type:airport&title=Gissar+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "Moskovskiy",
+      "url": "https://en.wikipedia.org/wiki/Moskovskiy,_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Pyandzh",
+      "url": "https://en.wikipedia.org/wiki/Panj",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon",
+      "url": "https://en.wikipedia.org/wiki/Khatlon",
+      "lang": ""
+    },
+    {
+      "text": "Moskovskiy Pyandzh Air Base",
+      "url": "https://en.wikipedia.org/wiki/Moskovskiy_Pyandzh_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "37°38′25″N 069°38′47″E ﻿ / ﻿ 37.64028°N 69.64639°E ﻿ / 37.64028; 69.64639 ﻿ ( Moskovskiy Pyandzh Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Tajikistan&params=37_38_25_N_069_38_47_E_region:TJ_type:airport&title=Moskovskiy+Pyandzh+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UT - Tajikistan, Turkmenistan, Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UT_-_Tajikistan,_Turkmenistan,_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20070926235554/http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Tajikistan (includes IATA codes)\"",
+      "url": "http://www.unece.org/cefact/locode/tj.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Tajikistan",
+      "url": "https://web.archive.org/web/20110613025001/http://www.the-airport-guide.com/search.php?by=country&search=Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Tajikistan",
+      "url": "http://www.gcmap.com/search?Q=country:TJ",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (airport)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Garm",
+      "url": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Isfara",
+      "url": "https://en.wikipedia.org/wiki/Isfara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murgab",
+      "url": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Penjikent",
+      "url": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (air base)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&oldid=1371387430",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&oldid=1371387430",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Tajikistan_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-tj.txt"
+}

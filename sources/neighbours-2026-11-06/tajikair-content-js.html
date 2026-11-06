@@ -1,0 +1,607 @@
+/*
+ * ФАЙЛ КОНТЕНТА TAJIK AIR
+ * =======================
+ * Здесь собраны все данные, которые меняются со временем: контакты, направления,
+ * флот, вакансии, показатели и спецпредложения. Чтобы обновить сайт, достаточно
+ * отредактировать этот файл — трогать остальные файлы не нужно.
+ *
+ * Каждый текст задаётся тремя языками: [русский, тоҷикӣ, english].
+ * Пустой массив (например, offers: []) означает, что блок не показывается.
+ */
+
+window.TAJIK_AIR_CONTENT = {
+
+  // hidden — скрыть публичные функции бронирования; phone — показывать телефонное бронирование.
+  bookingMode: 'hidden',
+
+  /* ── СЛАЙДЕР НА ГЛАВНОЙ ───────────────────────────────────────────────────
+   * Резервные кадры для прежней версии данных.
+   * Фоны и слайды главной редактируются в /admin/journey.php.
+   * Данные: data/journey-content.json — scenes[0] и slides.
+   * Кадры сменяются каждые пять секунд. */
+  heroSlides: [
+    {
+      image: 'img/hero-culture.webp',
+      alt: ['Национальный танец у горного озера',
+            'Рақси миллӣ дар назди кӯли кӯҳӣ',
+            'A traditional dance by a mountain lake']
+    },
+    {
+      image: 'img/hero-dance-pamir.jpg',
+      alt: ['Национальный танец в традиционных костюмах на фоне гор и озера',
+            'Рақси миллӣ дар либоси анъанавӣ дар заминаи кӯҳҳо ва кӯл',
+            'A traditional dance in national dress against mountains and a lake']
+    },
+    {
+      image: 'img/tajikair-service.webp',
+      alt: ['Служба обслуживания Tajik Air', 'Хадамоти хизматрасонии Tajik Air', 'Tajik Air customer service']
+    },
+    {
+      image: 'img/tajikair-aircraft.webp',
+      alt: ['Самолёт Tajik Air над Душанбе на закате',
+            'Ҳавопаймои Tajik Air болои Душанбе ҳангоми ғуруби офтоб',
+            'A Tajik Air aircraft over Dushanbe at sunset']
+    }
+  ],
+
+  /* ── КОНТАКТЫ ─────────────────────────────────────────────────────────── */
+  contacts: {
+    phone: '+992 905-100-200',
+    phoneHref: '+992905100200',
+    email: 'info@tajikairlines.com',
+    // Телефоны для бронирования внутренних рейсов
+    booking: [
+      { label: '+992 110 00 00 12', href: '+992110000012' }
+    ],
+    address: [
+      'Душанбе, ул. Мастонгулова Мирзо, 32/1, 734012',
+      'Душанбе, кӯч. Мастонгулова Мирзо, 32/1, 734012',
+      '32/1 Mirzo Mastongulov Street, Dushanbe 734012'
+    ],
+    hours: [
+      'Пн–Пт 08:00–17:00 · Сб–Вс 09:00–15:00',
+      'Дш–Ҷм 08:00–17:00 · Шн–Якш 09:00–15:00',
+      'Mon–Fri 08:00–17:00 · Sat–Sun 09:00–15:00'
+    ],
+    facebook: 'https://www.facebook.com/Tojikairlines/',
+    mapUrl: 'https://www.google.com/maps/search/?api=1&query=' +
+      encodeURIComponent('Tajik Air, Mirzo Mastongulov 32/1, Dushanbe, Tajikistan')
+  },
+
+  /* ── НАПРАВЛЕНИЯ ──────────────────────────────────────────────────────────
+   * Города, куда выполняются рейсы. Порядок здесь = порядок на сайте.
+   * home: true — город попадает в блок направлений на главной странице.  */
+  destinations: [
+    {
+      id: 'khorugh', code: 'KHR', home: true, image: 'img/destination-khorugh.webp',
+      name: ['Хорог', 'Хоруғ', 'Khorugh'],
+      region: ['Горный Бадахшан', 'Бадахшони Кӯҳӣ', 'Gorno-Badakhshan'],
+      teaser: ['Ворота Памира', 'Дарвозаи Помир', 'Gateway to the Pamirs'],
+      body: [
+        'Город в долине Пянджа на высоте более 2000 метров. Отсюда начинается Памирский тракт — одна из самых высокогорных дорог мира.',
+        'Шаҳр дар водии Панҷ дар баландии зиёда аз 2000 метр. Аз ин ҷо роҳи Помир — яке аз баландтарин роҳҳои ҷаҳон оғоз меёбад.',
+        'A town in the Panj valley at over 2,000 metres. The Pamir Highway, one of the world’s highest roads, begins here.'
+      ]
+    },
+    {
+      id: 'kulob', code: 'TJU', home: true, image: 'img/destination-kulob.webp',
+      name: ['Кулоб', 'Кӯлоб', 'Kulob'],
+      region: ['Хатлонская область', 'Вилояти Хатлон', 'Khatlon Region'],
+      teaser: ['Город с историей', 'Шаҳри таърихӣ', 'A city with history'],
+      body: [
+        'Один из древнейших городов страны и центр южного Таджикистана. Здесь находится мавзолей Мир Сайида Али Хамадани.',
+        'Яке аз шаҳрҳои қадимтарини кишвар ва маркази ҷануби Тоҷикистон. Дар ин ҷо мақбараи Мир Сайид Алии Ҳамадонӣ ҷойгир аст.',
+        'One of the country’s oldest cities and the centre of southern Tajikistan, home to the Mir Sayyid Ali Hamadani mausoleum.'
+      ]
+    },
+    {
+      id: 'panjakent', code: 'PJK', home: true, image: 'img/destination-panjakent.webp',
+      name: ['Панҷакент', 'Панҷакент', 'Panjakent'],
+      region: ['Согдийская область', 'Вилояти Суғд', 'Sughd Region'],
+      teaser: ['Наследие Согда', 'Мероси Суғд', 'Sogdian heritage'],
+      body: [
+        'Древний Саразм внесён в список Всемирного наследия ЮНЕСКО. Рядом — Маргузорские озёра, известные как Семь озёр.',
+        'Саразми бостонӣ ба феҳристи мероси ҷаҳонии ЮНЕСКО дохил шудааст. Дар наздикӣ кӯлҳои Марғузор, ки бо номи Ҳафткӯл машҳуранд.',
+        'Ancient Sarazm is a UNESCO World Heritage Site. Nearby lie the Marguzor lakes, known as the Seven Lakes.'
+      ]
+    },
+    {
+      id: 'rasht', code: 'RSH', home: true, image: 'img/destination-rasht.webp',
+      name: ['Рашт', 'Рашт', 'Rasht'],
+      region: ['Раштская долина', 'Водии Рашт', 'Rasht Valley'],
+      teaser: ['Горные долины', 'Водиҳои кӯҳӣ', 'Mountain valleys'],
+      body: [
+        'Долина реки Сурхоб между Гиссарским и Заравшанским хребтами. Отправная точка для маршрутов по центральному Таджикистану.',
+        'Водии дарёи Сурхоб байни қаторкӯҳҳои Ҳисор ва Зарафшон. Нуқтаи оғози сафарҳо ба маркази Тоҷикистон.',
+        'The Surkhob river valley between the Hissar and Zarafshan ranges — a starting point for routes across central Tajikistan.'
+      ]
+    },
+    {
+      id: 'khovaling', code: 'KHV', home: true, image: 'img/destination-khovaling.webp',
+      name: ['Ховалинг', 'Ховалинг', 'Khovaling'],
+      region: ['Хатлонская область', 'Вилояти Хатлон', 'Khatlon Region'],
+      teaser: ['Тишина предгорий', 'Оромии доманакӯҳ', 'Quiet foothills'],
+      body: [
+        'Зелёные предгорья на юго-востоке страны. Рядом находится Хулбукская крепость — столица средневекового Хатлона.',
+        'Доманакӯҳҳои сабз дар ҷанубу шарқи кишвар. Дар наздикӣ қалъаи Хулбук — пойтахти Хатлони асримиёнагӣ ҷойгир аст.',
+        'Green foothills in the country’s south-east, near the Hulbuk fortress — capital of medieval Khatlon.'
+      ]
+    },
+    {
+      id: 'vanj', code: 'VNJ', home: true, image: 'img/destination-vanj.webp',
+      name: ['Ванч', 'Ванҷ', 'Vanj'],
+      region: ['Горный Бадахшан', 'Бадахшони Кӯҳӣ', 'Gorno-Badakhshan'],
+      teaser: ['Высокогорная долина', 'Водии баландкӯҳ', 'High-mountain valley'],
+      body: [
+        'Долина на севере Бадахшана у подножия ледника Федченко. Перелёт из Душанбе занимает около 50 минут.',
+        'Водӣ дар шимоли Бадахшон дар домани пиряхи Федченко. Парвоз аз Душанбе тақрибан 50 дақиқа тӯл мекашад.',
+        'A valley in northern Badakhshan below the Fedchenko Glacier. The flight from Dushanbe takes about 50 minutes.'
+      ]
+    },
+    {
+      id: 'dushanbe', code: 'DYU', home: false, image: 'img/destination-dushanbe.webp',
+      name: ['Душанбе', 'Душанбе', 'Dushanbe'],
+      region: ['Столица', 'Пойтахт', 'Capital'],
+      teaser: ['База авиакомпании', 'Пойгоҳи ширкат', 'Airline base'],
+      body: [
+        'Главный аэропорт страны и база авиакомпании. Отсюда выполняются все внутренние рейсы Tajik Air.',
+        'Фурудгоҳи асосии кишвар ва пойгоҳи ширкат. Аз ин ҷо ҳамаи парвозҳои дохилии Tajik Air анҷом дода мешаванд.',
+        'The country’s main airport and the airline’s base, from which all Tajik Air domestic flights depart.'
+      ]
+    }
+  ],
+
+  /* ── АЭРОПОРТЫ ────────────────────────────────────────────────────────────
+   * Пункты маршрутной сети. code — трёхбуквенный код, который показывается
+   * в форме бронирования. Коды малых аэродромов служебные: перед публикацией
+   * сверьте их с расписанием аэронавигационной службы.                      */
+  airports: [
+    {
+      code: 'DYU', base: true,
+      geo: [68.79, 38.55],   // долгота, широта — для карты маршрутов
+      city: ['Душанбе', 'Душанбе', 'Dushanbe'],
+      airport: ['Международный аэропорт Душанбе', 'Фурудгоҳи байналмилалии Душанбе', 'Dushanbe International Airport'],
+      region: ['Столица', 'Пойтахт', 'Capital']
+    },
+    {
+      code: 'KHR',
+      geo: [71.80, 37.49],   // долгота, широта — для карты маршрутов
+      city: ['Хорог', 'Хоруғ', 'Khorugh'],
+      airport: ['Аэропорт Хорог', 'Фурудгоҳи Хоруғ', 'Khorugh Airport'],
+      region: ['Горный Бадахшан', 'Бадахшони Кӯҳӣ', 'Gorno-Badakhshan']
+    },
+    {
+      code: 'TJU',
+      geo: [69.80, 37.91],   // долгота, широта — для карты маршрутов
+      city: ['Кулоб', 'Кӯлоб', 'Kulob'],
+      airport: ['Аэропорт Кулоб', 'Фурудгоҳи Кӯлоб', 'Kulob Airport'],
+      region: ['Хатлонская область', 'Вилояти Хатлон', 'Khatlon Region']
+    },
+    {
+      code: 'PJK',
+      geo: [67.61, 39.50],   // долгота, широта — для карты маршрутов
+      city: ['Панҷакент', 'Панҷакент', 'Panjakent'],
+      airport: ['Аэропорт Панҷакент', 'Фурудгоҳи Панҷакент', 'Panjakent Airport'],
+      region: ['Согдийская область', 'Вилояти Суғд', 'Sughd Region']
+    },
+    {
+      code: 'RSH',
+      geo: [70.38, 39.05],   // долгота, широта — для карты маршрутов
+      city: ['Рашт', 'Рашт', 'Rasht'],
+      airport: ['Аэропорт Рашт', 'Фурудгоҳи Рашт', 'Rasht Airport'],
+      region: ['Раштская долина', 'Водии Рашт', 'Rasht Valley']
+    },
+    {
+      code: 'KHV',
+      geo: [69.97, 38.36],   // долгота, широта — для карты маршрутов
+      city: ['Ховалинг', 'Ховалинг', 'Khovaling'],
+      airport: ['Аэропорт Ховалинг', 'Фурудгоҳи Ховалинг', 'Khovaling Airport'],
+      region: ['Хатлонская область', 'Вилояти Хатлон', 'Khatlon Region']
+    },
+    {
+      code: 'VNJ',
+      geo: [71.45, 38.37],   // долгота, широта — для карты маршрутов
+      city: ['Ванч', 'Ванҷ', 'Vanj'],
+      airport: ['Аэропорт Ванч', 'Фурудгоҳи Ванҷ', 'Vanj Airport'],
+      region: ['Горный Бадахшан', 'Бадахшони Кӯҳӣ', 'Gorno-Badakhshan']
+    }
+  ],
+
+  /* ── РАСПИСАНИЕ И ТАРИФЫ ──────────────────────────────────────────────────
+   * ВНИМАНИЕ: цены и время вылета — демонстрационные. Форма поиска на сайте
+   * работает от этих данных и НЕ подключена к системе бронирования.
+   * Окончательную стоимость и наличие мест подтверждает оператор по телефону.
+   *
+   * duration — время в пути, минут.   seats — мест в салоне.
+   * fares — тарифы в сомони (TJS):    standard — обычный, flex — с обменом.
+   * schedule — вылеты из Душанбе, back — обратные вылеты.
+   * days — дни недели: 1 = понедельник … 7 = воскресенье.                   */
+  routes: [
+    {
+      from: 'DYU', to: 'KHR', duration: 50, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 1350, flex: 1690 },
+      schedule: [
+        { no: '7J 201', dep: '07:20', days: [1, 3, 5] },
+        { no: '7J 203', dep: '11:50', days: [2, 6] }
+      ],
+      back: [
+        { no: '7J 202', dep: '09:10', days: [1, 3, 5] },
+        { no: '7J 204', dep: '13:40', days: [2, 6] }
+      ]
+    },
+    {
+      from: 'DYU', to: 'VNJ', duration: 55, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 1290, flex: 1620 },
+      schedule: [{ no: '7J 211', dep: '08:40', days: [2, 5] }],
+      back: [{ no: '7J 212', dep: '10:35', days: [2, 5] }]
+    },
+    {
+      from: 'DYU', to: 'TJU', duration: 35, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 690, flex: 880 },
+      schedule: [
+        { no: '7J 221', dep: '09:30', days: [1, 4, 6] },
+        { no: '7J 223', dep: '15:10', days: [3, 7] }
+      ],
+      back: [
+        { no: '7J 222', dep: '10:45', days: [1, 4, 6] },
+        { no: '7J 224', dep: '16:25', days: [3, 7] }
+      ]
+    },
+    {
+      from: 'DYU', to: 'PJK', duration: 45, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 790, flex: 990 },
+      schedule: [{ no: '7J 231', dep: '08:10', days: [1, 4, 7] }],
+      back: [{ no: '7J 232', dep: '09:45', days: [1, 4, 7] }]
+    },
+    {
+      from: 'DYU', to: 'RSH', duration: 30, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 640, flex: 820 },
+      schedule: [{ no: '7J 241', dep: '10:20', days: [3, 6] }],
+      back: [{ no: '7J 242', dep: '11:30', days: [3, 6] }]
+    },
+    {
+      from: 'DYU', to: 'KHV', duration: 40, aircraft: 'Antonov An-28', seats: 17,
+      fares: { standard: 680, flex: 870 },
+      schedule: [{ no: '7J 251', dep: '13:00', days: [2, 5] }],
+      back: [{ no: '7J 252', dep: '14:20', days: [2, 5] }]
+    }
+  ],
+
+  /* ── ПРАВИЛА ТАРИФОВ ──────────────────────────────────────────────────────
+   * showPrices — ГЛАВНЫЙ ПЕРЕКЛЮЧАТЕЛЬ ЦЕН НА САЙТЕ.
+   *   false — цены нигде не показываются (сейчас так): в поиске, на карточках
+   *           направлений, в расписании и в заявке вместо суммы написано,
+   *           что стоимость подтверждает оператор.
+   *   true  — цены из routes[].fares появляются во всех этих местах.
+   * Ставьте true только после того, как впишете официальные тарифы.
+   *
+   * child / infant — доля от взрослого тарифа (0.75 = 75 %).                */
+  fareRules: {
+    showPrices: false,
+    // showSeats — показывать ли «осталось мест» на карточке рейса.
+    // Пока false: реальных остатков нет, наличие мест подтверждает оператор.
+    // При false ни один рейс не помечается как «мест нет».
+    showSeats: false,
+    currency: ['TJS', 'TJS', 'TJS'],
+    child: 0.75,
+    infant: 0.1,
+    baggageKg: 15,
+    cabinKg: 5,
+    names: {
+      standard: ['Стандарт', 'Стандартӣ', 'Standard'],
+      flex: ['Гибкий', 'Тағйирпазир', 'Flexible']
+    },
+    perks: {
+      standard: [
+        ['Багаж 15 кг + ручная кладь 5 кг', 'Бағоҷ 15 кг + дастӣ 5 кг', 'Baggage 15 kg + 5 kg cabin'],
+        ['Обмен даты — со сбором', 'Иваз кардани сана — бо ҳақ', 'Date change for a fee'],
+        ['Возврат по правилам перевозки', 'Бозгашт мувофиқи қоидаҳо', 'Refund per conditions of carriage']
+      ],
+      flex: [
+        ['Багаж 25 кг + ручная кладь 5 кг', 'Бағоҷ 25 кг + дастӣ 5 кг', 'Baggage 25 kg + 5 kg cabin'],
+        ['Обмен даты без сбора', 'Иваз кардани сана бе ҳақ', 'Free date change'],
+        ['Приоритет в листе ожидания', 'Афзалият дар рӯйхати интизорӣ', 'Priority on the waiting list']
+      ]
+    }
+  },
+
+  /* ── ФЛОТ ─────────────────────────────────────────────────────────────── */
+  fleet: [
+    {
+      model: 'Antonov An-28',
+      reg: 'EY-28736',
+      image: 'img/tajikair-aircraft.webp',
+      seats: '17',
+      role: ['Внутренние рейсы', 'Парвозҳои дохилӣ', 'Domestic flights'],
+      body: [
+        'Турбовинтовой самолёт для коротких горных маршрутов. Выполняет рейсы из Душанбе в города Памира и Хатлона.',
+        'Ҳавопаймои турбовинтӣ барои хатсайрҳои кӯтоҳи кӯҳӣ. Аз Душанбе ба шаҳрҳои Помир ва Хатлон парвоз мекунад.',
+        'A turboprop for short mountain routes, operating from Dushanbe to towns in the Pamirs and Khatlon.'
+      ]
+    },
+    {
+      model: 'Boeing 737-500',
+      reg: 'EY-577 · EY-578',
+      image: 'img/tajikair-aircraft.webp',
+      seats: '—',
+      role: ['Готовятся к вводу', 'Барои истифода омода мешаванд', 'Being prepared for service'],
+      body: [
+        'Два узкофюзеляжных самолёта в собственности авиакомпании. Проходят подготовку к возвращению в эксплуатацию.',
+        'Ду ҳавопаймои танабориқ дар моликияти ширкат. Барои баргаштан ба истифода омода мешаванд.',
+        'Two narrow-body aircraft owned by the airline, currently being prepared to return to service.'
+      ]
+    },
+    {
+      model: 'Boeing 737-300',
+      reg: 'EY-444',
+      image: 'img/tajikair-aircraft.webp',
+      seats: '—',
+      role: ['Готовится к вводу', 'Барои истифода омода мешавад', 'Being prepared for service'],
+      body: [
+        'Самолёт возвращён в собственность компании после урегулирования спора с лизингодателем и проходит техническую подготовку.',
+        'Ҳавопаймо пас аз ҳалли баҳс бо иҷорадиҳанда ба моликияти ширкат баргашт ва омодагии техникиро мегузарад.',
+        'Returned to company ownership after the leasing dispute was settled, and now undergoing technical preparation.'
+      ]
+    }
+  ],
+
+  /* Планируемое пополнение флота. Пустой массив скроет блок. */
+  fleetPlans: [
+    {
+      model: 'LET L-410',
+      image: 'img/tajikair-aircraft.webp',
+      body: [
+        'Самолёт на 19 мест для местных и региональных маршрутов. Перевозит до 2 тонн груза и может выполнять санитарные рейсы.',
+        'Ҳавопаймои 19-ҷоя барои хатсайрҳои маҳаллӣ ва минтақавӣ. То 2 тонна бор мебарад ва парвозҳои санитарӣ анҷом дода метавонад.',
+        'A 19-seat aircraft for local and regional routes, carrying up to 2 tonnes of cargo and able to fly medical missions.'
+      ]
+    }
+  ],
+
+  /* ── ПОКАЗАТЕЛИ ───────────────────────────────────────────────────────────
+   * Обновляйте после публикации годового отчёта.                            */
+  stats: [
+    { value: '1924', label: ['год основания', 'соли таъсис', 'founded'] },
+    { value: '6', label: ['направлений по стране', 'самт дар кишвар', 'domestic destinations'] },
+    { value: '2 763', label: ['пассажира за полугодие', 'мусофир дар нимсол', 'passengers in six months'] },
+    { value: '162', label: ['сотрудника', 'корманд', 'employees'] }
+  ],
+
+  /* ── СПЕЦПРЕДЛОЖЕНИЯ ──────────────────────────────────────────────────────
+   * По умолчанию пусто — блок не отображается. Пример заполнения:
+   * { title: ['...','...','...'], body: ['...','...','...'],
+   *   image: 'img/ВАША-КАРТИНКА.webp', link: 'contacts.html', until: '2026-12-31' }
+   */
+  offers: [],
+
+  /* ── ВАКАНСИИ ─────────────────────────────────────────────────────────────
+   * Пустой массив скроет список и покажет приглашение прислать резюме.      */
+  vacancies: [
+    {
+      title: ['Инженер инженерно-технического состава', 'Муҳандиси ҳайати муҳандисию техникӣ', 'Maintenance engineer'],
+      location: ['Душанбе', 'Душанбе', 'Dushanbe'],
+      requirements: [
+        ['Авиационное среднее специальное или высшее образование', 'Знание английского языка', 'Резюме на таджикском и русском языках', 'Копии паспорта, диплома, сертификатов и трудовой книжки', '4 фотографии 4,5 × 6,5'],
+        ['Маълумоти миёнаи махсус ё олии авиатсионӣ', 'Донистани забони англисӣ', 'Тарҷумаи ҳол бо забонҳои тоҷикӣ ва русӣ', 'Нусхаи шиноснома, диплом, сертификатҳо ва дафтарчаи меҳнатӣ', '4 сурат 4,5 × 6,5'],
+        ['Aviation technical college or university degree', 'Working knowledge of English', 'CV in Tajik and Russian', 'Copies of passport, diploma, certificates and employment record', 'Four 4.5 × 6.5 photographs']
+      ]
+    },
+    {
+      title: ['Бортпроводник', 'Роҳбалади ҳавопаймо', 'Cabin crew'],
+      location: ['Душанбе', 'Душанбе', 'Dushanbe'],
+      requirements: [
+        ['Возраст 20–30 лет, рост от 160 см', 'Авиационный английский не ниже уровня IV ICAO', 'Резюме на таджикском и русском языках', 'Копии паспорта, диплома и сертификатов', '4 фотографии 4,5 × 6,5: портрет и в полный рост'],
+        ['Синну сол 20–30, қад аз 160 см', 'Забони англисии авиатсионӣ на камтар аз сатҳи IV ICAO', 'Тарҷумаи ҳол бо забонҳои тоҷикӣ ва русӣ', 'Нусхаи шиноснома, диплом ва сертификатҳо', '4 сурат 4,5 × 6,5: портрет ва қадбаланд'],
+        ['Aged 20–30, minimum height 160 cm', 'Aviation English at ICAO level IV or above', 'CV in Tajik and Russian', 'Copies of passport, diploma and certificates', 'Four 4.5 × 6.5 photographs: portrait and full length']
+      ]
+    },
+    {
+      title: ['Пилот', 'Пилот', 'Pilot'],
+      location: ['Душанбе', 'Душанбе', 'Dushanbe'],
+      requirements: [
+        ['Действующее свидетельство пилота ATPL или CPL', 'Авиационный английский не ниже уровня IV ICAO', 'Резюме на таджикском и русском языках', 'Копии паспорта, диплома, сертификатов и трудовой книжки', '4 фотографии 4,5 × 6,5'],
+        ['Шаҳодатномаи амалкунандаи пилот ATPL ё CPL', 'Забони англисии авиатсионӣ на камтар аз сатҳи IV ICAO', 'Тарҷумаи ҳол бо забонҳои тоҷикӣ ва русӣ', 'Нусхаи шиноснома, диплом, сертификатҳо ва дафтарчаи меҳнатӣ', '4 сурат 4,5 × 6,5'],
+        ['Valid ATPL or CPL pilot licence', 'Aviation English at ICAO level IV or above', 'CV in Tajik and Russian', 'Copies of passport, diploma, certificates and employment record', 'Four 4.5 × 6.5 photographs']
+      ]
+    }
+  ],
+
+  /* ── НОВОСТИ ──────────────────────────────────────────────────────────────
+   * Самая свежая новость идёт первой. featured: true — попадает в крупную
+   * карточку на главной. Новости также можно добавлять через панель /admin.  */
+  news: [
+    {
+      id: 'results-2025', date: '2025-12-30', featured: true,
+      image: 'img/tajikair-aircraft.webp',
+      imageAlt: ['Самолёт Tajik Air', 'Ҳавопаймои Tajik Air', 'A Tajik Air aircraft'],
+      tag: ['Итоги года', 'Натиҷаҳои сол', 'Annual results'],
+      title: [
+        'Итоги 2025 года: компания вышла из кризиса',
+        'Натиҷаҳои соли 2025: ширкат аз буҳрон берун омад',
+        'Results for 2025: the airline emerges from crisis'
+      ],
+      summary: [
+        'Урегулирована задолженность в 36,6 млн долларов, флот вырос с одного до четырёх самолётов, выполнено 158 парных рейсов внутри страны.',
+        'Қарзи 36,6 млн доллар танзим шуд, парк аз як то чор ҳавопаймо расид, 158 парвози ҷуфти дохилӣ анҷом дода шуд.',
+        'A USD 36.6 million debt was settled, the fleet grew from one to four aircraft and 158 return flights were operated domestically.'
+      ],
+      body: [
+        [
+          'Главным результатом года стало мировое соглашение с литовской компанией UAB «Skyroad Leasing». Спор о задолженности в 36,6 млн долларов США тянулся с 2013 года. Соглашение подписано 7 марта и утверждено Арбитражным судом Москвы 21 мая 2025 года.',
+          'После урегулирования снят арест с самолёта Boeing 737-300 (EY-444), находившегося в аэропорту Внуково с 2019 года. На техническую инспекцию и подготовку воздушного судна к перелёту направлено более 433 тысяч долларов США, задолженность перед аэропортом за стоянку погашена полностью.',
+          'Два самолёта Boeing 737-500 (EY-577 и EY-578) переведены на баланс компании и стали её собственностью. Таким образом, за год флот вырос с одного воздушного судна до четырёх.',
+          'На внутренних маршрутах работал самолёт Ан-28 (EY-28736). За год выполнено 158 парных рейсов, перевезено 4 968 пассажиров и 2 228 кг багажа. В сентябре ресурс самолёта продлён ещё на год.',
+          'Погашены также обязательства перед партнёрами в Кыргызстане и Туркменистане. Внешних долгов у компании нет, что открывает возможность выполнять международные рейсы.',
+          'В штате компании 162 сотрудника, из них 73 приняты в течение года. Заработная плата выплачивается ежемесячно без задержек, в бюджет перечислено 1 490 400 сомони налогов.'
+        ],
+        [
+          'Натиҷаи асосии сол Созишномаи мусолиҳавӣ бо ширкати литвонии UAB «Skyroad Leasing» гардид. Баҳс дар бораи қарзи 36,6 млн доллари ИМА аз соли 2013 идома дошт. Созишнома 7 март ба имзо расида, 21 майи соли 2025 аз ҷониби Суди арбитражии Москва тасдиқ шуд.',
+          'Пас аз танзим ҳабс аз ҳавопаймои Boeing 737-300 (EY-444), ки аз соли 2019 дар фурудгоҳи Внуково буд, бардошта шуд. Барои санҷиши техникӣ ва омодасозии ҳавопаймо зиёда аз 433 ҳазор доллари ИМА равона гардид, қарз барои таваққуф пурра пардохт шуд.',
+          'Ду ҳавопаймои Boeing 737-500 (EY-577 ва EY-578) ба тавозуни ширкат гузаронида шуда, моликияти он гардиданд. Ҳамин тавр, дар як сол парк аз як ҳавопаймо то чор расид.',
+          'Дар хатсайрҳои дохилӣ ҳавопаймои Ан-28 (EY-28736) кор мекард. Дар як сол 158 парвози ҷуфт анҷом дода шуда, 4 968 мусофир ва 2 228 кг бор интиқол дода шуд. Моҳи сентябр мӯҳлати хизмати ҳавопаймо боз як сол тамдид гардид.',
+          'Ӯҳдадориҳо дар назди шарикони Қирғизистон ва Туркманистон низ пардохт шуданд. Ширкат қарзи хориҷӣ надорад ва метавонад парвозҳои байналмилалӣ анҷом диҳад.',
+          'Дар ширкат 162 корманд фаъолият мекунад, аз ҷумла 73 нафар дар давоми сол ба кор қабул шуданд. Музди меҳнат ҳармоҳа бе таъхир пардохт мешавад, ба буҷет 1 490 400 сомонӣ андоз гузаронида шуд.'
+        ],
+        [
+          'The main result of the year was the settlement agreement with the Lithuanian company UAB Skyroad Leasing. The dispute over a USD 36.6 million debt had continued since 2013. The agreement was signed on 7 March and approved by the Moscow Arbitration Court on 21 May 2025.',
+          'Following the settlement, the arrest was lifted from the Boeing 737-300 (EY-444) that had been parked at Vnukovo Airport since 2019. More than USD 433,000 was spent on technical inspection and flight preparation, and the parking debt was paid in full.',
+          'Two Boeing 737-500 aircraft (EY-577 and EY-578) were transferred to the company balance sheet and became its property. Over the year the fleet therefore grew from one aircraft to four.',
+          'Domestic routes were operated by the Antonov An-28 (EY-28736). During the year it completed 158 return flights, carrying 4,968 passengers and 2,228 kg of baggage. In September the aircraft’s service life was extended by another year.',
+          'Obligations to partners in Kyrgyzstan and Turkmenistan were also settled. The airline has no external debt, which opens the way to international operations.',
+          'The company employs 162 people, 73 of whom joined during the year. Salaries are paid monthly without delay, and 1,490,400 somoni was paid in taxes.'
+        ]
+      ]
+    },
+    {
+      id: 'return', date: '2025-07-31', featured: true,
+      image: 'img/tajikair-aircraft.webp',
+      imageAlt: ['Самолёт Tajik Air', 'Ҳавопаймои Tajik Air', 'A Tajik Air aircraft'],
+      tag: ['Флот', 'Парк', 'Fleet'],
+      title: [
+        'Два самолёта Boeing перешли в собственность компании',
+        'Ду ҳавопаймои Boeing ба моликияти ширкат гузашт',
+        'Two Boeing aircraft transferred to company ownership'
+      ],
+      summary: [
+        'Пятнадцатилетний спор с лизингодателем завершён. Самолёты пригодны к эксплуатации и готовятся к ремонту.',
+        'Баҳси понздаҳсола бо иҷорадиҳанда анҷом ёфт. Ҳавопаймоҳо қобили истифодаанд ва ба таъмир омода мешаванд.',
+        'A fifteen-year dispute with the lessor has ended. The aircraft are airworthy and are being prepared for repair.'
+      ],
+      body: [
+        [
+          'Два самолёта, ранее находившихся под арестом, перешли в собственность национального перевозчика после завершения финансово-правового спора. Об этом сообщил генеральный директор компании Парвиз Шодмонзода на пресс-конференции 23 июля.',
+          'К началу 2018 года задолженность перед UAB Skyroad Leasing составляла 23 млн долларов США, а с учётом процентов и пеней к 2024 году выросла до 36,6 млн. По условиям мирового соглашения лизингодатель отказался от претензий и передал компании два воздушных судна, не эксплуатировавшихся с 2013 года.',
+          'Оба самолёта пригодны к эксплуатации, но требуют ремонта. Переговоры о его проведении ведутся с предприятиями Турции и ОАЭ, ориентировочный срок работ — четыре-пять месяцев.',
+          'Компания также ведёт переговоры с AIR DYNAMICS SOLUTION из ОАЭ о лизинге воздушных судов и создании центра технического обслуживания в Таджикистане, а с концерном Airbus — о приобретении самолётов в финансовый лизинг.'
+        ],
+        [
+          'Ду ҳавопаймо, ки қаблан боздошт шуда буданд, пас аз анҷоми баҳси молиявию ҳуқуқӣ ба моликияти интиқолдиҳандаи миллӣ гузаштанд. Дар ин бора директори генералии ширкат Парвиз Шодмонзода дар нишасти хабарии 23 июл маълумот дод.',
+          'То аввали соли 2018 қарз дар назди UAB Skyroad Leasing 23 млн доллари ИМА буд ва бо фоизу ҷаримаҳо то соли 2024 ба 36,6 млн расид. Тибқи созишнома иҷорадиҳанда аз даъвоҳо даст кашид ва ду ҳавопаймои аз соли 2013 истифоданашударо ба ширкат супорид.',
+          'Ҳарду ҳавопаймо қобили истифодаанд, вале ниёз ба таъмир доранд. Гуфтушунид дар ин бора бо корхонаҳои Туркия ва АМА идома дорад, мӯҳлати тахминии корҳо чор-панҷ моҳ аст.',
+          'Ширкат ҳамчунин бо AIR DYNAMICS SOLUTION аз АМА оид ба иҷораи ҳавопаймо ва таъсиси маркази хизматрасонии техникӣ дар Тоҷикистон ва бо консерни Airbus оид ба хариди ҳавопаймо тавассути лизинги молиявӣ музокирот мебарад.'
+        ],
+        [
+          'Two aircraft previously under arrest have passed into the ownership of the national carrier following the conclusion of a financial and legal dispute. This was announced by General Director Parviz Shodmonzoda at a press conference on 23 July.',
+          'By early 2018 the debt to UAB Skyroad Leasing stood at USD 23 million and, with interest and penalties, had grown to USD 36.6 million by 2024. Under the settlement the lessor dropped all claims and handed over two aircraft that had been out of service since 2013.',
+          'Both aircraft are airworthy but require repair. Negotiations are under way with maintenance providers in Türkiye and the UAE, with an estimated duration of four to five months.',
+          'The airline is also in talks with AIR DYNAMICS SOLUTION of the UAE on aircraft leasing and a technical maintenance centre in Tajikistan, and with Airbus on acquiring aircraft under a finance lease.'
+        ]
+      ]
+    },
+    {
+      id: 'vanj-route', date: '2025-06-23', featured: true,
+      image: 'img/destination-vanj.webp',
+      imageAlt: ['Долина Ванча в Горном Бадахшане', 'Водии Ванҷ дар Бадахшони Кӯҳӣ', 'The Vanj valley in Gorno-Badakhshan'],
+      tag: ['Маршруты', 'Хатсайрҳо', 'Routes'],
+      title: [
+        'Открыт маршрут Душанбе — Ванч',
+        'Хатсайри Душанбе — Ванҷ кушода шуд',
+        'The Dushanbe – Vanj route has opened'
+      ],
+      summary: [
+        'Первый рейс в высокогорную долину Бадахшана выполнен 23 июня. Время в пути — около 50 минут.',
+        'Нахустин парвоз ба водии баландкӯҳи Бадахшон 23 июн анҷом дода шуд. Вақти парвоз тақрибан 50 дақиқа.',
+        'The first flight to the high-mountain valley of Badakhshan was operated on 23 June. Flight time is about 50 minutes.'
+      ],
+      body: [
+        [
+          'Ванч стал шестым внутренним направлением авиакомпании. Рейсы выполняются на самолёте Ан-28, время в пути составляет около 50 минут против многочасовой дороги через горные перевалы.',
+          'Актуальную информацию о рейсах уточняйте у авиакомпании.'
+        ],
+        [
+          'Ванҷ шашумин самти дохилии ширкат гардид. Парвозҳо бо ҳавопаймои Ан-28 анҷом дода мешаванд, вақти парвоз тақрибан 50 дақиқа аст, дар ҳоле ки роҳи заминӣ аз ағбаҳои кӯҳӣ чанд соат тӯл мекашад.',
+          'Маълумоти навтаринро дар бораи парвозҳо аз ширкати ҳавопаймоӣ пурсед.'
+        ],
+        [
+          'Vanj became the airline’s sixth domestic destination. Flights are operated by the An-28 and take about 50 minutes, compared with several hours by road over mountain passes.',
+          'Please contact the airline for current flight information.'
+        ]
+      ]
+    },
+    {
+      id: 'rasht-2025', date: '2025-02-07', featured: false,
+      image: 'img/destination-rasht.webp',
+      imageAlt: ['Раштская долина', 'Водии Рашт', 'The Rasht valley'],
+      tag: ['Маршруты', 'Хатсайрҳо', 'Routes'],
+      title: [
+        'Возобновлены рейсы в Раштскую долину',
+        'Парвозҳо ба водии Рашт аз нав оғоз ёфтанд',
+        'Flights to the Rasht valley have resumed'
+      ],
+      summary: [
+        'Первый рейс Душанбе — Рашт выполнен 7 февраля. В том же году открыты направления в Кулоб и Панҷакент.',
+        'Нахустин парвози Душанбе — Рашт 7 феврал анҷом дода шуд. Дар ҳамон сол самтҳои Кӯлоб ва Панҷакент кушода шуданд.',
+        'The first Dushanbe – Rasht flight was operated on 7 February. Kulob and Panjakent followed the same year.'
+      ],
+      body: [
+        [
+          'Рейс на самолёте Ан-28 связал столицу с центральной частью страны, куда добраться по земле можно только через горные перевалы.',
+          'В течение 2025 года авиакомпания открыла пять новых внутренних направлений: Кулоб, Панҷакент, Рашт, Ховалинг и Ванч. За первое полугодие выполнено 90 рейсов и перевезено 2 763 пассажира.'
+        ],
+        [
+          'Парвоз бо ҳавопаймои Ан-28 пойтахтро бо маркази кишвар пайваст, ки бо роҳи замин танҳо аз ағбаҳои кӯҳӣ расидан мумкин аст.',
+          'Дар давоми соли 2025 ширкат панҷ самти нави дохилӣ кушод: Кӯлоб, Панҷакент, Рашт, Ховалинг ва Ванҷ. Дар нимсолаи аввал 90 парвоз анҷом дода шуда, 2 763 мусофир интиқол дода шуд.'
+        ],
+        [
+          'The An-28 flight connected the capital with the centre of the country, reachable by road only over mountain passes.',
+          'During 2025 the airline opened five new domestic destinations: Kulob, Panjakent, Rasht, Khovaling and Vanj. In the first half of the year it operated 90 flights and carried 2,763 passengers.'
+        ]
+      ]
+    },
+    {
+      id: 'unity', date: '2025-06-26', featured: false,
+      image: 'img/news-unity-meeting.webp',
+      imageAlt: ['Торжественное собрание в актовом зале Tajik Air', 'Ҷаласаи тантанавӣ дар толори Tajik Air', 'A ceremonial meeting in the Tajik Air assembly hall'],
+      tag: ['Компания', 'Ширкат', 'Company'],
+      title: [
+        'Собрание ко Дню национального единства',
+        'Ҷаласа ба ифтихори Рӯзи ваҳдати миллӣ',
+        'Meeting for National Unity Day'
+      ],
+      summary: [
+        'Руководство и сотрудники авиакомпании отметили государственный праздник, который отмечается 27 июня.',
+        'Роҳбарият ва кормандони ширкат иди давлатиро, ки 27 июн ҷашн гирифта мешавад, таҷлил карданд.',
+        'Management and staff marked the national holiday celebrated on 27 June.'
+      ],
+      body: [
+        [
+          '26 июня 2025 года в актовом зале компании состоялось торжественное собрание, посвящённое Дню национального единства.',
+          'Участники отметили значение этой даты в истории страны как символа мира, согласия и стабильности.'
+        ],
+        [
+          '26 июни соли 2025 дар толори ширкат ҷаласаи тантанавӣ ба ифтихори Рӯзи ваҳдати миллӣ баргузор гардид.',
+          'Иштирокчиён аҳамияти ин санаро дар таърихи кишвар ҳамчун рамзи сулҳ, ризоият ва субот қайд карданд.'
+        ],
+        [
+          'On 26 June 2025 a ceremonial meeting for National Unity Day was held in the company’s assembly hall.',
+          'Participants noted the significance of the date in the country’s history as a symbol of peace, accord and stability.'
+        ]
+      ]
+    }
+  ],
+
+  /* ── ВИДЕО В ПРЕСС-ЦЕНТРЕ ─────────────────────────────────────────────────
+   * Видео не загружаются, пока посетитель не нажмёт «плей».
+   * Пустой массив скроет блок целиком.                                      */
+  videos: {
+    title: ['Видеозаписи', 'Сабтҳои видеоӣ', 'Video'],
+    lead: ['Выступление генерального директора об итогах работы компании.',
+           'Суханронии директори генералӣ дар бораи натиҷаҳои фаъолияти ширкат.',
+           'The General Director on the airline’s results.'],
+    poster: 'img/news-video-poster.webp',
+    // Add clips here once their files are present in img/.
+    items: []
+  },
+
+  /* ── РУКОВОДСТВО ──────────────────────────────────────────────────────── */
+  leadership: {
+    name: ['Шодмонзода Парвиз Абдурахим', 'Шодмонзода Парвиз Абдураҳим', 'Shodmonzoda Parviz Abdurahim'],
+    role: ['Генеральный директор', 'Директори генералӣ', 'General Director'],
+    image: 'img/leadership-director.webp',
+    body: [
+      'Возглавляет авиакомпанию в период восстановления флота и маршрутной сети. Под его руководством урегулирован многолетний спор с лизингодателем и возобновлены внутренние рейсы.',
+      'Ширкатро дар давраи барқарорсозии парк ва шабакаи хатсайрҳо роҳбарӣ мекунад. Таҳти роҳбарии ӯ баҳси тӯлонӣ бо иҷорадиҳанда ҳал шуда, парвозҳои дохилӣ аз нав оғоз ёфтанд.',
+      'Leads the airline through the renewal of its fleet and route network. Under his leadership the long-running leasing dispute was settled and domestic flights resumed.'
+    ]
+  }
+};

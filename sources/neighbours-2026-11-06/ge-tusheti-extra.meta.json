@@ -1,0 +1,6 @@
+{
+  "id": "ge-tusheti-extra",
+  "url": "https://www.google.com/goto?url=CAESjgEBxCJF17kbD19yjk6HAYORK4hQtmx4JhVx1wClNj2IJy3DenmpTn3JcKQJwMNVAtC-hTv_PsSKYjcW12KoiD4dRF9iU8Sc0RghO1mbZC98ctoo-vrSzBWqv1NUjQ7ln0W0sFb3SJI_Ll9rNmTBbqC-wM5qzAdG1z8VfB_CakxX6kgdT9e7UrP0eZ7elBjI",
+  "retrievedAt": "2026-11-06T10:24:34.099101+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://www.google.com/goto?url=CAESjgEBxCJF17kbD19yjk6HAYORK4hQtmx4JhVx1wClNj2IJy3DenmpTn3JcKQJwMNVAtC-hTv_PsSKYjcW12KoiD4dRF9iU8Sc0RghO1mbZC98ctoo-vrSzBWqv1NUjQ7ln0W0sFb3SJI_Ll9rNmTBbqC-wM5qzAdG1z8VfB_CakxX6kgdT9e7UrP0eZ7elBjI']' returned non-zero exit status 28."
+}

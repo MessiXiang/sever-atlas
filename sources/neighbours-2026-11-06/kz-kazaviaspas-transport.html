@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Казавиаспас</title>
+    
+    <link rel="icon" href="/static/images/logo.png" type="image/png">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=65436ca8-e9a9-4b27-b640-8e939f724ead&lang=ru_RU" type="text/javascript"></script>
+</head>
+<body>
+    <header class="header py-3" style="background-color: #2b5783;">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <!-- Логотип -->
+                <a class="navbar-brand" href="/">
+                    <img src="/static/images/logo.png" alt="Логотип" style="width: 75px;">
+                </a>
+
+                <!-- Кнопка-бургер для мобильной версии -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Навигационное меню -->
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto text-lg-center flex-lg-row flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active text-white" href="/">Главная</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">О Нас</a>
+                            <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+                                <li><a class="dropdown-item" href="/history/ru/">История компании</a></li>
+                                <li><a class="dropdown-item" href="/about/ru/">О компании</a></li>
+                                <li><a class="dropdown-item" href="/leadership/ru/">Руководство</a></li>
+                                <li><a class="dropdown-item" href="/vacancies/ru/">Вакансии</a></li>
+                                <li><a class="dropdown-item" href="/certificates/ru/">Сертификаты и лицензии</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/helicopters/ru/">Авиапарк</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="/services/ru" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Услуги</a>
+                            <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/1/">Транспортно-связные работы</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/2/">Лесоавиационные работы</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/3/">Медицинская эвакуация</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/4/">Эвакуация пострадавших с зон ЧС</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/5/">Поисково-спасательные работы</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/6/">Тушение пожаров</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/7/">Воздушная съемка</a></li>
+                                
+                                    <li><a class="dropdown-item" href="/services/ru/8/">Аэровизуальные облеты</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/news/ru/">Новости</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Корпоративное управление</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/sd/ru/">Совет директоров</a></li>
+                                <li><a class="dropdown-item" href="/compliance/ru/">Антикоррупционная-комплаенс служба</a></li>
+                                <li><a class="dropdown-item" href="/compliance/documents/ru/">Внутренние нормативно-правовые документы</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/contacts/ru/">Контакты</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Языковые переключатели -->
+                <div class="d-flex">
+                    <div class="col-auto px-1">
+                        <a class="btn btn-light text-dark btn-outline-light w-100 px-3" href="/">Рус</a>
+                    </div>
+                    <div class="col-auto px-1">
+                        <a class="btn btn-outline-light w-100 px-3" href="/kz/">Қаз</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        
+<div class="container my-5">
+    <h1 class="mb-4">Транспортно-связные работы</h1>
+    <div class="row">
+        <div class="col-md-12">
+            <img src="/media/service_images/uslugi1.jpg" class="img-fluid mb-4" alt="Транспортно-связные работы">
+            <p><p>&nbsp; &nbsp; АО &laquo;Казавиаспас&raquo; осуществляет транспортно-пассажирские полеты по доставке личного состава и груза уполномоченного государственного органа в области гражданской защиты, его структурных территориальных подразделений и добровольных спасательных формирований к зонам чрезвычайных ситуаций природного и техногенного характера.</p></p>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js" integrity="sha384-lJgYxus18hVGAtz+nnX7P0gdw6d13Y1ZxmkT2x5ZSC0v4dB3ln5f/8+4Xl8+UaJl" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        ymaps.ready(init);
+        function init() {
+            var myMap = new ymaps.Map("map", {
+                center: [51.135476, 71.464260],
+                zoom: 16
+            });
+            var myPlacemark = new ymaps.Placemark([51.135476, 71.464260], {
+                balloonContent: 'АО "Казавиаспас"'
+            });
+            myMap.geoObjects.add(myPlacemark);
+        }
+    </script>
+    
+    
+</body>
+<footer class="text-light py-5" style="background-color: #2b5783;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="logo mb-4">
+                    <img src="/static/images/logo.png" alt="Логотип" class="footer-logo-img" width="60%">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h3 class="mb-4">Навигация</h3>
+                <ul class="list-unstyled">
+                    <li><a href="/" class="text-light">Главная</a></li>
+                    <li><a href="/about/ru/" class="text-light">О нас</a></li>
+                    <li><a href="/services/ru" class="text-light">Услуги</a></li>
+                    <li><a href="/news/ru/" class="text-light">Новости</a></li>
+                    <li><a href="/contacts/ru/" class="text-light">Контакты</a></li>
+                    <li><a href="/vacancies/ru/" class="text-light">Вакансии</a></li>
+                    <li><a href="/compliance/ru/" class="text-light">Антикоррупционная комплаенс-служба</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h3 class="mb-4">Контакты</h3>
+                <p>010000 Республика Казахстан, г. Астана, Алматинский район, Проспект Бауыржан Момышулы 2/11</p>
+                <p>Телефон приемной: +7 (7172) 78-82-82 вн.710</p>
+                <p>Электронная почта: <a href="mailto:info@kazaviaspas.kz">info@kazaviaspas.kz</a></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col" id="map" style="width: 100%; height: 400px;">
+                <!-- Здесь будет карта -->
+            </div>
+        </div>
+    </div>
+</footer>
+</html>

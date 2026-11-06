@@ -1,0 +1,914 @@
+{
+  "id": "ap-mn-19",
+  "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+  "retrievedAt": "2026-11-06T08:39:56.098499+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+  "bytes": 122900,
+  "sha256": "0b20b3400bdb196c701cc233dbe49d91b3088fcfd111acf508ae504d2eed895e",
+  "file": "sources/neighbours-2026-11-06/ap-mn-19.html",
+  "title": "Mörön Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=M%C3%B6r%C3%B6n+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=M%C3%B6r%C3%B6n+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=M%C3%B6r%C3%B6n+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=M%C3%B6r%C3%B6n+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_de_M%C3%B6r%C3%B6n",
+      "lang": "ast"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_de_M%C3%B6r%C3%B6n",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%85%D9%88%D8%B1%D9%88%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/M%C3%B6r%C3%B6nin_lentoasema",
+      "lang": "fi"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%83%B3%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%A3%BD_%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_M%C3%B6r%C3%B6n",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_M%C3%B6r%C3%B6n",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D1%8D%D0%BD_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/M%C3%B6r%C3%B6ns_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%BC%D1%83%D1%80%D1%83%D0%BD",
+      "lang": "tg"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B5%D0%BD_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_M%C3%B6r%C3%B6n",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E5%80%AB%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2984299#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&oldid=1372452599",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=M%C3%B6r%C3%B6n_Airport&id=1372452599&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FM%25C3%25B6r%25C3%25B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=M%C3%B6r%C3%B6n_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2984299",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "49°39′47″N 100°05′57″E ﻿ / ﻿ 49.66306°N 100.09917°E ﻿ / 49.66306; 100.09917",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=M%C3%B6r%C3%B6n_Airport&params=49_39_47_N_100_05_57_E_type:airport_region:MN",
+      "lang": ""
+    },
+    {
+      "text": "Morón Air Base",
+      "url": "https://en.wikipedia.org/wiki/Morón_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Morón Airport and Air Base",
+      "url": "https://en.wikipedia.org/wiki/Morón_Airport_and_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:MurunAirport2023.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "49°39′47″N 100°05′57″E ﻿ / ﻿ 49.66306°N 100.09917°E ﻿ / 49.66306; 100.09917",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=M%C3%B6r%C3%B6n_Airport&params=49_39_47_N_100_05_57_E_type:airport_region:MN",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Relief_map_of_Mongolia.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_relief_location_map.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:World_location_map_(equirectangular_180).svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "airport",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl Province",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Cheongju International Airport",
+      "url": "https://en.wikipedia.org/wiki/Cheongju_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Hunnu Air",
+      "url": "https://en.wikipedia.org/wiki/Hunnu_Air",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Hunnu Air",
+      "url": "https://en.wikipedia.org/wiki/Hunnu_Air",
+      "lang": ""
+    },
+    {
+      "text": "Cheongju",
+      "url": "https://en.wikipedia.org/wiki/Cheongju_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_note-OM_ULO_MXV_NS25-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Gelenkhüü",
+      "url": "https://en.wikipedia.org/wiki/Gelenkhüü",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Монголын иргэний нисэхийн статистикийн эмхтгэл 2010\"",
+      "url": "https://web.archive.org/web/20120808223728/http://www.mcaa.gov.mn/index.php/page/28",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.mcaa.gov.mn/index.php/page/28",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"БНСУ-ын Чонжу-Хөвсгөл Мөрөн чиглэлийн анхны шууд нислэг өнөөдөр боллоо\"",
+      "url": "https://ikon.mn/n/3glr",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Flights on the Murun-Cheongju Route to Be Launched\"",
+      "url": "https://montsame.mn/en/read/368946",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport#cite_ref-OM_ULO_MXV_NS25_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT June – August 2025 Ulaangom / Murun Service Changes\"",
+      "url": "https://www.aeroroutes.com/eng/250613-omjun25mn",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Mörön Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Mörön%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Mongolia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Mörön_Airport&oldid=1372452599",
+      "url": "https://en.wikipedia.org/w/index.php?title=Mörön_Airport&oldid=1372452599",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Khövsgöl Province",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Kh%C3%B6vsg%C3%B6l_Province",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Mongolian_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=M%C3%B6r%C3%B6n_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6r%C3%B6n_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-19.txt"
+}

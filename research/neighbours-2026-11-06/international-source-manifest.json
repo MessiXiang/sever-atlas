@@ -1,0 +1,240 @@
+[
+  {
+    "findingId": "int-01",
+    "file": "sources/websky/wz-schedule-AER-BUS.json",
+    "sha256": "009abd3c2f57d637f5c5b0db1c730580975685ac8e9aea9a670fd6a9617050c1",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-02",
+    "file": "sources/websky/wz-schedule-AER-TBS.json",
+    "sha256": "2b08f6e71282edf7517e964ce6bd90ad561f8adcf3d36053a81d764936229068",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-03",
+    "file": "sources/websky/wz-schedule-BUS-KRR.json",
+    "sha256": "9aa1c837187f090b5fefefe6c12d149ea7fe4d71495ac5ec9ab3330f240f8b04",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-04",
+    "file": "sources/websky/wz-schedule-BUS-KUF.json",
+    "sha256": "c814de58fc14d5c4cea79d4f0501e6211eb427b7f6ce4021b72e6c5712e3cd31",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-05",
+    "file": "sources/websky/wz-schedule-BUS-KZN.json",
+    "sha256": "11286c733abe12a70b66d34f8b6b70720d1380748db997c64172c4c980470a07",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-06",
+    "file": "sources/websky/wz-schedule-BUS-LED.json",
+    "sha256": "e4803d7857a75476aab37fa830e171f129933f71940d944ec6c6465462d4f047",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-07",
+    "file": "sources/websky/wz-schedule-BUS-SVX.json",
+    "sha256": "73c13a2c3f6f801c264c2f05445bc00175b6db7480bf7728709d6637ebc39c7c",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-08",
+    "file": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+    "sha256": "d0579a13387be1c2237e8fed219e609fa88334c4eda91fca21dd28421e9f7394",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-09",
+    "file": "sources/websky/wz-schedule-GOJ-TBS.json",
+    "sha256": "d0ceaea388ba126f40a6a8d9f4df1e5a4048aaaaaea6891328f0592a28b2006f",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-10",
+    "file": "sources/websky/wz-schedule-KRR-TBS.json",
+    "sha256": "82ea09193fcf621d628378289e0545dc0d0ae534911d6fd00e2346bcd524206e",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-11",
+    "file": "sources/websky/wz-schedule-KUF-TBS.json",
+    "sha256": "5d9cdc38cfb1346cdf9abb4ba612fa0ec3df86bebb20c7f1f4bbbfaf02358508",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-12",
+    "file": "sources/websky/wz-schedule-KZN-TBS.json",
+    "sha256": "616adbc9668a5f42684b6cdc88f8819abe5f0e70af36d003eb7cf4cf5b038930",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-13",
+    "file": "sources/websky/wz-schedule-LED-TBS.json",
+    "sha256": "76d226318e530a6eef59e22ee2d925f6a07b994efc9ec6789e53bed9ba76429b",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-14",
+    "file": "sources/websky/wz-schedule-SVX-TBS.json",
+    "sha256": "f04314f557f427e97892eaaaa73af30d2b951b52fde6286dbaf6e0fcb67e0a31",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-15",
+    "file": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+    "sha256": "b9a27324a67faf3fb8a2b18911c8a8961b5afc7b59520180e78a65bb34ab626f",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-16",
+    "file": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+    "sha256": "d0579a13387be1c2237e8fed219e609fa88334c4eda91fca21dd28421e9f7394",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-17",
+    "file": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+    "sha256": "b9a27324a67faf3fb8a2b18911c8a8961b5afc7b59520180e78a65bb34ab626f",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-18",
+    "file": "sources/iraero/io_BAK.html",
+    "sha256": "f7c650c60035c071d9ed839251f394bc1251b5cd6453084375f439dc27050d09",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-19",
+    "file": "sources/iraero/io_BAK.html",
+    "sha256": "f7c650c60035c071d9ed839251f394bc1251b5cd6453084375f439dc27050d09",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-20",
+    "file": "sources/iraero/io_BAK.html",
+    "sha256": "f7c650c60035c071d9ed839251f394bc1251b5cd6453084375f439dc27050d09",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-21",
+    "file": "sources/websky/wz-schedule-ALA-KZN.json",
+    "sha256": "f72af3707d90b75920e8c9cd75a0c55f86180042c67928ca3db5358c6e56c371",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-22",
+    "file": "sources/websky/wz-schedule-ALA-SVX.json",
+    "sha256": "25ee548a2d5f8bf48b5eee32035c4b80ea6c3898e3b351060044185f9198cef3",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-23",
+    "file": "sources/websky/wz-schedule-KZN-NQZ.json",
+    "sha256": "ea8f0bebf1b137a035e63f5fe07174f0f697ae4cb541a17389541c4068dba81d",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-24",
+    "file": "sources/websky/wz-schedule-NQZ-SVX.json",
+    "sha256": "291a70c94089271e63ba01be319678e1a6b21bb6c12583827569ec22bd144ad2",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-25",
+    "file": "sources/websky/wz-schedule-BSZ-MCX.json",
+    "sha256": "e73dfd5422d66d08ee81ec3c16b4ebee0afac1eb767e3de15b53797c2a732c57",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-26",
+    "file": "sources/websky/wz-schedule-BHK-MCX.json",
+    "sha256": "192867a6d28da152ede380a4c05b0f2ff1b015422a23c35185ec4847accb71ff",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-27",
+    "file": "sources/websky/wz-schedule-BHK-SVX.json",
+    "sha256": "a99fab9fabd0e580aaf5d8fc8cad40b54124756af584f2fa61d0f93ba35e6ee8",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-28",
+    "file": "sources/websky/wz-schedule-KUF-UGC.json",
+    "sha256": "39df9daeef77458ef8a0a151b096d9b7109860a7ecff0851a67a27b54e33456f",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-29",
+    "file": "sources/websky/wz-schedule-MCX-NMA.json",
+    "sha256": "c10665e7c2d0dcc8ebce022ebe6c2402156262bf228949cbb8d86d8458d5a43e",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-30",
+    "file": "sources/websky/wz-schedule-MCX-TAS.json",
+    "sha256": "e18c205b722a1801baf81cc2be8512ea7fb1d85846129520cb7081c9b3a06ae6",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-31",
+    "file": "sources/websky/wz-schedule-MCX-UGC.json",
+    "sha256": "cbe201ba61ab49bd30b2251e5ff8b7b49170ab48f5777a226a597a711b70170c",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-32",
+    "file": "sources/websky/wz-schedule-KUF-MSQ.json",
+    "sha256": "8889b5658bb9d526222d1e83c82687bceb70635b4819ec04da91f971c756b053",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-33",
+    "file": "sources/websky/wz-schedule-MSQ-PEE.json",
+    "sha256": "3e3439b0853534d990a27eeef1d49a53d178d2712ea7d742bf6293340898e9b2",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  },
+  {
+    "findingId": "int-34",
+    "file": "sources/iraero/io_IKT.html",
+    "sha256": "158361647e082bfc45d8a898c22e2a0d54cdcdbf092228ff1b88b29da8a98a5f",
+    "checkedAt": "2026-11-04",
+    "matchedOriginalManifest": true
+  }
+]

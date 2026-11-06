@@ -1,0 +1,424 @@
+Dushanbe
+Khorog
+Khujand
+Kulob
+Bokhthar
+Airports in Tajikistan
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+This is a
+list of
+airports
+in
+Tajikistan
+, grouped by type and sorted by location.
+Tajikistan, officially the Republic of Tajikistan, is a mountainous
+landlocked
+country in
+Central Asia
+.
+Afghanistan
+borders it to the south,
+Uzbekistan
+to the west,
+Kyrgyzstan
+to the north, and
+People's Republic of China
+to the east.  Tajikistan also lies adjacent to
+Pakistan
+, separated by the narrow
+Wakhan Corridor
+. Its
+capital city
+is
+Dushanbe
+.
+Airports
+[
+edit
+]
+Airport names shown in
+bold
+have scheduled passenger service on commercial airlines.
+Location
+served
+Province
+ICAO
+IATA
+Airport
+name
+Coordinates
+Public airports
+Ayni
+Sughd
+Ayni Airport
+39°24′14″N
+068°31′26″E
+﻿
+/
+﻿
+39.40389°N 68.52389°E
+﻿
+/
+39.40389; 68.52389
+﻿
+(
+Ayni Airport
+)
+Dushanbe
+RRP
+UTDD
+DYU
+Dushanbe International Airport
+38°32′36″N
+068°49′30″E
+﻿
+/
+﻿
+38.54333°N 68.82500°E
+﻿
+/
+38.54333; 68.82500
+﻿
+(
+Dushanbe International Airport
+)
+Garm
+(Gharm)
+RRP
+Garm Airport
+39°00′14″N
+070°17′29″E
+﻿
+/
+﻿
+39.00389°N 70.29139°E
+﻿
+/
+39.00389; 70.29139
+﻿
+(
+Garm Airport
+)
+Isfara
+Sughd
+Isfara Airport
+40°07′18″N
+070°39′55″E
+﻿
+/
+﻿
+40.12167°N 70.66528°E
+﻿
+/
+40.12167; 70.66528
+﻿
+(
+Isfara Airport
+)
+Khorog
+(Khorugh)
+GBAO
+UTOD
+Khorog Airport
+37°30′08″N
+071°30′48″E
+﻿
+/
+﻿
+37.50222°N 71.51333°E
+﻿
+/
+37.50222; 71.51333
+﻿
+(
+Khorog Airport
+)
+Khujand
+Sughd
+UTDL
+LBD
+Khujand Airport
+40°12′55″N
+069°41′40″E
+﻿
+/
+﻿
+40.21528°N 69.69444°E
+﻿
+/
+40.21528; 69.69444
+﻿
+(
+Khudzhand Airport
+)
+Kulob
+(Kulyab)
+Khatlon
+UTDK
+TJU
+Kulob Airport
+37°59′00″N
+069°48′00″E
+﻿
+/
+﻿
+37.98333°N 69.80000°E
+﻿
+/
+37.98333; 69.80000
+﻿
+(
+Kulob Airport
+)
+Murgab
+(Murghab)
+GBAO
+Murgab Airport
+38°11′25″N
+074°01′29″E
+﻿
+/
+﻿
+38.19028°N 74.02472°E
+﻿
+/
+38.19028; 74.02472
+﻿
+(
+Murgab Airport
+)
+Penjikent
+(Panjakent)
+Sughd
+Penjikent Airport
+39°29′02″N
+067°36′12″E
+﻿
+/
+﻿
+39.48389°N 67.60333°E
+﻿
+/
+39.48389; 67.60333
+﻿
+(
+Penjikent Airport
+)
+Bokhtar
+Khatlon
+UTDT
+KQT
+Bokhtar International Airport
+37°51′44″N
+068°51′46″E
+﻿
+/
+﻿
+37.86222°N 68.86278°E
+﻿
+/
+37.86222; 68.86278
+﻿
+(
+Qurghonteppa International Airport
+)
+Military airports
+Farkhor
+(Parkhar)
+Khatlon
+Farkhor Air Base
+(Farkhor-Ayni Air Base)
+37°28′11″N
+069°22′51″E
+﻿
+/
+﻿
+37.46972°N 69.38083°E
+﻿
+/
+37.46972; 69.38083
+﻿
+(
+Farkhor Air Base
+)
+Gissar
+(Hisor)
+RRP
+Gissar Air Base
+38°30′44″N
+068°40′20″E
+﻿
+/
+﻿
+38.51222°N 68.67222°E
+﻿
+/
+38.51222; 68.67222
+﻿
+(
+Gissar Air Base
+)
+Moskovskiy
+/
+Pyandzh
+(Panj)
+Khatlon
+Moskovskiy Pyandzh Air Base
+37°38′25″N
+069°38′47″E
+﻿
+/
+﻿
+37.64028°N 69.64639°E
+﻿
+/
+37.64028; 69.64639
+﻿
+(
+Moskovskiy Pyandzh Air Base
+)
+See also
+[
+edit
+]
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+List of airports by ICAO code: U#UT - Tajikistan, Turkmenistan, Uzbekistan
+Transport in Tajikistan
+Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Tajikistan
+References
+[
+edit
+]
+"ICAO Location Indicators by State"
+(PDF)
+.
+International Civil Aviation Organization
+. 2006-01-12. Archived from
+the original
+(PDF)
+on 2007-09-26
+. Retrieved
+2010-05-11
+.
+"UN Location Codes: Tajikistan (includes IATA codes)"
+.
+UN/LOCODE
+2009-2
+.
+UNECE
+. 2010-02-08.
+Airports in Tajikistan
+[
+link removed
+]
+. World Aero Data.
+Airports in Tajikistan
+. The Airport Guide.
+Airports in Tajikistan
+. Great Circle Mapper.
+v
+t
+e
+Airports
+in
+Tajikistan
+International
+Dushanbe
+Bokhtar
+Khujand
+Kulob
+Domestic
+Ayni (airport)
+Garm
+Isfara
+Khorog
+Murgab
+Penjikent
+Unscheduled
+Ayni (air base)
+v
+t
+e
+List of airports in Asia
+Sovereign states
+Afghanistan
+Armenia
+Azerbaijan
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodia
+China
+Cyprus
+Egypt
+Georgia
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Russia
+Saudi Arabia
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Timor-Leste (East Timor)
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
+States with
+limited recognition
+Abkhazia
+Northern Cyprus
+South Ossetia
+Taiwan
+Dependencies
+and
+other territories
+British Indian Ocean Territory
+Christmas Island
+Cocos (Keeling) Islands
+Hong Kong
+Macau
+Category
+Asia portal
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Tajikistan&oldid=1371387430
+"

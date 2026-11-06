@@ -1,0 +1,6 @@
+{
+  "id": "kg-asman-home",
+  "url": "https://asman-airlines.kg/",
+  "retrievedAt": "2026-11-06T09:45:49.315938+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://asman-airlines.kg/']' returned non-zero exit status 6."
+}

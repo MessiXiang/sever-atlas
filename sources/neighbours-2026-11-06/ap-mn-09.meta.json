@@ -1,0 +1,3469 @@
+{
+  "id": "ap-mn-09",
+  "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:52.654404+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+  "bytes": 399895,
+  "sha256": "0cdfbdc85bf5f8e887a8bc849c09b38b130eeff0d2ba5c8662d75b822414b631",
+  "file": "sources/neighbours-2026-11-06/ap-mn-09.html",
+  "title": "Chinggis Khaan International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Chinggis+Khaan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Chinggis+Khaan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Chinggis+Khaan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Chinggis+Khaan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Origin",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Origin",
+      "lang": ""
+    },
+    {
+      "text": "1.2 Development",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Development",
+      "lang": ""
+    },
+    {
+      "text": "1.3 Construction and opening",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Construction_and_opening",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Terminal",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Terminal",
+      "lang": ""
+    },
+    {
+      "text": "2.2 Cargo",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Cargo",
+      "lang": ""
+    },
+    {
+      "text": "3 Ownership",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Ownership",
+      "lang": ""
+    },
+    {
+      "text": "4 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "5 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "6 Ground transportation",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Ground_transportation",
+      "lang": ""
+    },
+    {
+      "text": "7 See also",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "8 Notes",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#Notes",
+      "lang": ""
+    },
+    {
+      "text": "9 References",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "10 External links",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%AC%D9%86%D9%83%D9%8A%D8%B2_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+      "lang": "ar"
+    },
+    {
+      "text": "Català",
+      "url": "https://ca.wikipedia.org/wiki/Aeroport_Internacional_de_Genguis_Khan",
+      "lang": "ca"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/%C4%8Cingisch%C3%A1novo_mezin%C3%A1rodn%C3%AD_leti%C5%A1t%C4%9B",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Chinggis_Khaan_International_Airport_(2021)",
+      "lang": "de"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Internacia_Flughaveno_%C4%9Cingis-%C4%A4ano",
+      "lang": "eo"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Gengis_Kan",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%DA%86%D9%86%DA%AF%DB%8C%D8%B2%D8%AE%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_d%27Oulan-Bator",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/%C3%9Aj_Ul%C3%A1nb%C3%A1tori_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%82%AE%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%B3%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B9%AD%EA%B8%B0%EC%A6%88_%EC%B9%B8_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Latviešu",
+      "url": "https://lv.wikipedia.org/wiki/%C4%8Cingishana_starptautisk%C4%81_lidosta",
+      "lang": "lv"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D1%81_%D1%85%D0%B0%D0%B0%D0%BD_%D0%BE%D0%BB%D0%BE%D0%BD_%D1%83%D0%BB%D1%81%D1%8B%D0%BD_%D0%BD%D0%B8%D1%81%D1%8D%D1%85_%D0%B1%D1%83%D1%83%D0%B4%D0%B0%D0%BB",
+      "lang": "mn"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_U%C5%82an_Bator-Ch%C3%B6szig",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_New_Ulaanbaatar",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82_%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D1%81%D1%85%D0%B0%D0%BD",
+      "lang": "ru"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D0%B7_%D0%A5%D0%BE%D0%BD",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Cengiz_Han_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Chingizxon_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q14697701#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&oldid=1382592551",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Chinggis_Khaan_International_Airport&id=1382592551&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Chinggis_Khaan_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q14697701",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "47°39′05″N 106°49′17″E ﻿ / ﻿ 47.65139°N 106.82139°E ﻿ / 47.65139; 106.82139",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Chinggis_Khaan_International_Airport&params=47_39_05_N_106_49_17_E_region:MN_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhalantun Chengjisihan Airport",
+      "url": "https://en.wikipedia.org/wiki/Zhalantun_Chengjisihan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:ChinggisKhaanAirportLogo.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Chinggis_Khaan_International_Airport_near_Zuunmod.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-airport-tech-1",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Sergelen",
+      "url": "https://en.wikipedia.org/wiki/Sergelen,_Töv",
+      "lang": ""
+    },
+    {
+      "text": "Töv",
+      "url": "https://en.wikipedia.org/wiki/Töv_Province",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Aero Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Aero_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Hunnu Air",
+      "url": "https://en.wikipedia.org/wiki/Hunnu_Air",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "47°39′05″N 106°49′17″E ﻿ / ﻿ 47.65139°N 106.82139°E ﻿ / 47.65139; 106.82139",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Chinggis_Khaan_International_Airport&params=47_39_05_N_106_49_17_E_region:MN_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "ulaanbaatar-airport.mn",
+      "url": "https://en.ulaanbaatar-airport.mn/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Mongolia_location_map_2.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chiyoda-2",
+      "lang": ""
+    },
+    {
+      "text": "[ a ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ b ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-new-5",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-АВИА_Порт-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-Новости-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-Jloan-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chinadaily.com.cn-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-gogo-11",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "all major Mongolian airlines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Sergelen",
+      "url": "https://en.wikipedia.org/wiki/Sergelen,_Töv",
+      "lang": ""
+    },
+    {
+      "text": "Töv Province",
+      "url": "https://en.wikipedia.org/wiki/Töv_Province",
+      "lang": ""
+    },
+    {
+      "text": "Zuunmod",
+      "url": "https://en.wikipedia.org/wiki/Zuunmod",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mcaa-stats-2024-13",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:0-14",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-АВИА_Порт-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-Новости-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:1-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:2-17",
+      "lang": ""
+    },
+    {
+      "text": "JICA",
+      "url": "https://en.wikipedia.org/wiki/Japan_International_Cooperation_Agency",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ikon-танилц-19",
+      "lang": ""
+    },
+    {
+      "text": "Government of Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Japan Bank for International Cooperation",
+      "url": "https://en.wikipedia.org/wiki/Japan_Bank_for_International_Cooperation",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-Jloan-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chinadaily.com.cn-10",
+      "lang": ""
+    },
+    {
+      "text": "Mitsubishi",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_Corporation",
+      "lang": ""
+    },
+    {
+      "text": "Chiyoda",
+      "url": "https://en.wikipedia.org/wiki/Chiyoda_Corporation",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-gogo-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ikon-танилц-19",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "Nalaikh",
+      "url": "https://en.wikipedia.org/wiki/Nalaikh",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-electric-grid-23",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ikon-Хурдны_зам-24",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-gogo-roads-25",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ikon-2014-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ikon-танилц-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-montsame-2019-27",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-reuters-2018-28",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-newsmn-2021-30",
+      "lang": ""
+    },
+    {
+      "text": "COVID-19 pandemic in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo",
+      "url": "https://en.wikipedia.org/wiki/Tokyo",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "[ b ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-new-5",
+      "lang": ""
+    },
+    {
+      "text": "[ c ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "Buyant-Ukhaa International Airport",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-renamed-35",
+      "lang": ""
+    },
+    {
+      "text": "modern Mongolian pronunciation",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "Genghis Khan",
+      "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "lang": ""
+    },
+    {
+      "text": "Nippon Koei",
+      "url": "https://en.wikipedia.org/wiki/Nippon_Koei",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-36",
+      "lang": ""
+    },
+    {
+      "text": "United Airlines",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "fifth-freedom",
+      "url": "https://en.wikipedia.org/wiki/Freedoms_of_the_air",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737-800",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-38",
+      "lang": ""
+    },
+    {
+      "text": "Japan International Cooperation Agency",
+      "url": "https://en.wikipedia.org/wiki/Japan_International_Cooperation_Agency",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-39",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-40",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Chinggis_Khaan_International_Airport_international_departure_area.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:20230924_191918_Chingis_khaan_airport_in_Mongolia.jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:1-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-airport-tech-1",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:1-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:2-17",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-42",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-airport-tech-1",
+      "lang": ""
+    },
+    {
+      "text": "Mitsubishi Corporation",
+      "url": "https://en.wikipedia.org/wiki/Mitsubishi_Corporation",
+      "lang": ""
+    },
+    {
+      "text": "Narita International Airport Corporation",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport_Corporation",
+      "lang": ""
+    },
+    {
+      "text": "JALUX",
+      "url": "https://en.wikipedia.org/wiki/Japan_Airlines#Corporate_affairs_and_identity",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "Government of Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-:0-14",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-airport-tech-1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Chinggis_Khan_Airport_Waiting_Area.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Chinggis_Khan_Airport_Outside_Terminal.jpg",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:MIAT_aircraft_at_UBN.jpg",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Aero K",
+      "url": "https://en.wikipedia.org/wiki/Aero_K",
+      "lang": ""
+    },
+    {
+      "text": "Cheongju",
+      "url": "https://en.wikipedia.org/wiki/Cheongju_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-43",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-44",
+      "lang": ""
+    },
+    {
+      "text": "Aero Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Aero_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Hohhot",
+      "url": "https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-46",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-47",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo–Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-48",
+      "lang": ""
+    },
+    {
+      "text": "Air Busan",
+      "url": "https://en.wikipedia.org/wiki/Air_Busan",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Busan",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air China",
+      "url": "https://en.wikipedia.org/wiki/Air_China",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-49",
+      "lang": ""
+    },
+    {
+      "text": "Hohhot",
+      "url": "https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-50",
+      "lang": ""
+    },
+    {
+      "text": "Asiana Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asiana_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "China United Airlines",
+      "url": "https://en.wikipedia.org/wiki/China_United_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ordos",
+      "url": "https://en.wikipedia.org/wiki/Ordos_Ejin_Horo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hunnu Air",
+      "url": "https://en.wikipedia.org/wiki/Hunnu_Air",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-52",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Daxing",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "Erenhot",
+      "url": "https://en.wikipedia.org/wiki/Erenhot_Saiwusu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manzhouli",
+      "url": "https://en.wikipedia.org/wiki/Manzhouli_Xijiao_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-55",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "Shenzhen",
+      "url": "https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-57",
+      "lang": ""
+    },
+    {
+      "text": "Manila",
+      "url": "https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-58",
+      "lang": ""
+    },
+    {
+      "text": "Yangyang",
+      "url": "https://en.wikipedia.org/wiki/Yangyang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-59",
+      "lang": ""
+    },
+    {
+      "text": "IrAero",
+      "url": "https://en.wikipedia.org/wiki/IrAero",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "Jeju Air",
+      "url": "https://en.wikipedia.org/wiki/Jeju_Air",
+      "lang": ""
+    },
+    {
+      "text": "Busan",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-62",
+      "lang": ""
+    },
+    {
+      "text": "Jin Air",
+      "url": "https://en.wikipedia.org/wiki/Jin_Air",
+      "lang": ""
+    },
+    {
+      "text": "Busan",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-63",
+      "lang": ""
+    },
+    {
+      "text": "Juneyao Air",
+      "url": "https://en.wikipedia.org/wiki/Juneyao_Air",
+      "lang": ""
+    },
+    {
+      "text": "Sanya",
+      "url": "https://en.wikipedia.org/wiki/Sanya_Phoenix_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-syx-64",
+      "lang": ""
+    },
+    {
+      "text": "[ 62 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-65",
+      "lang": ""
+    },
+    {
+      "text": "Korean Air",
+      "url": "https://en.wikipedia.org/wiki/Korean_Air",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "KrasAvia",
+      "url": "https://en.wikipedia.org/wiki/KrasAvia",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk–International",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 63 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-66",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-67",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-miat-2023-domestic-68",
+      "lang": ""
+    },
+    {
+      "text": "Beijing–Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Busan",
+      "url": "https://en.wikipedia.org/wiki/Gimhae_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-miat-2023-domestic-68",
+      "lang": ""
+    },
+    {
+      "text": "Frankfurt",
+      "url": "https://en.wikipedia.org/wiki/Frankfurt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 66 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-69",
+      "lang": ""
+    },
+    {
+      "text": "Guangzhou",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hohhot",
+      "url": "https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 67 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-70",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 68 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-71",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-miat-2023-domestic-68",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-OM_ULO_MXV_NS25-72",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-miat-2023-domestic-68",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shanghai–Pudong",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 70 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-73",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo–Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-OM_ULO_MXV_NS25-72",
+      "lang": ""
+    },
+    {
+      "text": "Uliastai",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-miat-2023-domestic-68",
+      "lang": ""
+    },
+    {
+      "text": "Bangkok–Suvarnabhumi",
+      "url": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 71 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-74",
+      "lang": ""
+    },
+    {
+      "text": "Ho Chi Minh City",
+      "url": "https://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 72 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-75",
+      "lang": ""
+    },
+    {
+      "text": "Osaka–Kansai",
+      "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 73 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-76",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/Changi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 74 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-ST-SIN-UBN-2025-77",
+      "lang": ""
+    },
+    {
+      "text": "Phuket",
+      "url": "https://en.wikipedia.org/wiki/Phuket_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 75 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-78",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 76 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-S7_IKT_MN_CN_NW26-79",
+      "lang": ""
+    },
+    {
+      "text": "Spring Airlines",
+      "url": "https://en.wikipedia.org/wiki/Spring_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Shanghai–Pudong",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 77 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-80",
+      "lang": ""
+    },
+    {
+      "text": "Trinity Airways",
+      "url": "https://en.wikipedia.org/wiki/Trinity_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Cheongju",
+      "url": "https://en.wikipedia.org/wiki/Cheongju_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 78 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-81",
+      "lang": ""
+    },
+    {
+      "text": "Daegu",
+      "url": "https://en.wikipedia.org/wiki/Daegu_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 79 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-82",
+      "lang": ""
+    },
+    {
+      "text": "Seoul–Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 80 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-83",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-chav-45",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 81 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-TK_FRU_ULN-84",
+      "lang": ""
+    },
+    {
+      "text": "United Airlines",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo–Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 82 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-85",
+      "lang": ""
+    },
+    {
+      "text": "VietJet Air",
+      "url": "https://en.wikipedia.org/wiki/VietJet_Air",
+      "lang": ""
+    },
+    {
+      "text": "Nha Trang",
+      "url": "https://en.wikipedia.org/wiki/Cam_Ranh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 83 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-86",
+      "lang": ""
+    },
+    {
+      "text": "Phu Quoc",
+      "url": "https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 84 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-87",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "[ 85 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mcaa-stats-2022-88",
+      "lang": ""
+    },
+    {
+      "text": "[ 86 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-89",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mcaa-stats-2024-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 87 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mrt-stats-2025-90",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mcaa-stats-2024-13",
+      "lang": ""
+    },
+    {
+      "text": "Seoul-Incheon",
+      "url": "https://en.wikipedia.org/wiki/Incheon_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Beijing-Capital",
+      "url": "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokyo-Narita",
+      "url": "https://en.wikipedia.org/wiki/Narita_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-mcaa-stats-2024-13",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat (Oyu Tolgoi)",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "[ 88 ]",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_note-91",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "[ tɕʰiŋkɪ̆s χaːɴ ɔɮə̆ɴ ʊɮsíːɴ nisɘ̆x ɔɴqə̆tsʰní pʊ́ːtə̆ɮ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-new_5-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-new_5-1",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "[ ʊɮáːmpatʰə̆r χɔtʰíɴ ɔɮə̆ɴ ʊɮsíːɴ ɕinɘ̆ nisɘ̆x pʊ́ːtəɮ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "romanized",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "[ xɵɕʲˈgʲin (xɵɕʲkˈtʲin) xɵɲˈtʲiŋ ˈɲisɪç ˈpʊˑtəɮ ]",
+      "url": "https://en.wikipedia.org/wiki/Help:IPA/Mongolian",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=14",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-airport-tech_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-airport-tech_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-airport-tech_1-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-airport-tech_1-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia's New Ulaanbaatar International Airport starts operations\"",
+      "url": "https://www.airport-technology.com/news/mongolias-new-ulaanbaatar-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chiyoda_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"New Ulaanbaatar International Aiport [ sic ] in Mongolia\"",
+      "url": "https://www.chiyodacorp.com/en/projects/new-ulaanbaatar-international-aiport.html#:~:text=The%20construction%20involves%20moving%20about,manage%202%20million%20passengers%20annually.",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Улаанбаатар Хотын Олон Улсын Нисэх Онгоцны Шинэ Буудал Барих Төсөл\"-ийн Танилцуулга - Зам, тээврийн хөгжлийн яам\"",
+      "url": "https://web.archive.org/web/20230531085049/https://mrtd.gov.mn/i/1726",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://mrtd.gov.mn/i/1726",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Нийслэлийн 4 цэгээс шинэ нисэх буудал руу нийтийн тээвэр үйлчилнэ\"",
+      "url": "https://montsame.mn/mn/read/268943",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-АВИА_Порт_7-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-АВИА_Порт_7-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Японцы построят в Монголии аэропорт (АвиаПорт)\"",
+      "url": "https://www.aviaport.ru/digest/2007/09/14/128411.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-Новости_8-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-Новости_8-1",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "http://www.altaiinter.info/news/?id=27808",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-Jloan_9-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-Jloan_9-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Japan ODA Loan for Mongolia\"",
+      "url": "https://web.archive.org/web/20130319221147/http://www.jica.go.jp//english/news/jbic_archive/autocontents/english/news/2008/000054/index.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.jica.go.jp/english/news/jbic_archive/autocontents/english/news/2008/000054/index.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chinadaily.com.cn_10-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chinadaily.com.cn_10-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia starts to build new int'l airport\"",
+      "url": "http://www.chinadaily.com.cn/xinhua/2012-04-24/content_5751528.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-gogo_11-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-gogo_11-1",
+      "lang": ""
+    },
+    {
+      "text": "gogo.mn",
+      "url": "https://economics.gogo.mn/news/116305",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20121229141007/http://economics.gogo.mn/news/116305",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Shuttle bus\"",
+      "url": "https://en.ulaanbaatar-airport.mn/expressbus-route",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mcaa-stats-2024_13-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mcaa-stats-2024_13-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mcaa-stats-2024_13-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mcaa-stats-2024_13-3",
+      "lang": ""
+    },
+    {
+      "text": "\"2024 ОНЫ ЖИЛИЙН ЭЦСИЙН ТЭЭВЭРЛЭЛТИЙН МЭДЭЭ\"",
+      "url": "https://web.archive.org/web/20250414142941/https://mcaa.gov.mn/file/3365",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://mcaa.gov.mn/file/3365",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:0_14-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:0_14-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Mitsubishi Corporation - Press Room - 2019 - Participation in New Ulaanbaatar International Airport Operation Project in Mongolia\"",
+      "url": "http://www.mitsubishicorp.com/jp/en/pr/archive/2019/html/0000037861.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:1_15-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:1_15-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:1_15-2",
+      "lang": ""
+    },
+    {
+      "text": "\"New Chinggis Khaan International Airport opens\"",
+      "url": "https://montsame.mn/en/read/268963",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"New Ulaanbaatar International Airport (UBN) opens\"",
+      "url": "https://web.archive.org/web/20230418074408/https://magnificentmongolia.com/mongolia/news/1-latest-news/272-new-ulaanbaatar-international-airport-opens.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://magnificentmongolia.com/mongolia/news/1-latest-news/272-new-ulaanbaatar-international-airport-opens.html/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:2_17-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-:2_17-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Терминалын үйл ажиллагаа\"",
+      "url": "https://www.ulaanbaatar-airport.mn/terminal-operation",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20201204041442/https://www.ulaanbaatar-airport.mn/terminal-operation",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia's New Gateway\"",
+      "url": "https://ocglobal.jp/what-we-do/project/airports-and-aviation/mongolias-new-gateway/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ikon-танилц_19-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ikon-танилц_19-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ikon-танилц_19-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Танилц: Онцлох бүтээн байгуулалт буюу Шинэ Нисэх Буудлын ажлын явц\"",
+      "url": "https://www.ikon.mn/n/133b",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Construction Begins on New Airport\"",
+      "url": "https://web.archive.org/web/20140201193258/http://www.meccib.com/images/MM_17_PDF.pdf",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.meccib.com/images/MM_17_PDF.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"New Airport Started\"",
+      "url": "https://web.archive.org/web/20120426221019/http://www.infomongolia.com/ct/ci/3866",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.infomongolia.com/ct/ci/3866",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Чингис хаан\" олон улсын нисэх буудал Ням гаригт нээлтээ хийнэ | News.MN\"",
+      "url": "https://news.mn/r/2449209/",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "help",
+      "url": "https://en.wikipedia.org/wiki/Help:CS1_errors#generic_name",
+      "lang": ""
+    },
+    {
+      "text": "dead link",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Link_rot",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-electric-grid_23-0",
+      "lang": ""
+    },
+    {
+      "text": "\"New Ulaanbaatar International Airport Project\"",
+      "url": "https://web.archive.org/web/20140201215713/http://nubia.mn/964/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://nubia.mn/964/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ikon-Хурдны_зам_24-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Фото: Хөшигийн хөндийн ХУРДНЫ замыг барьж эхэллээ\"",
+      "url": "http://www.ikon.mn/n/qcw",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-gogo-roads_25-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Шинэ нисэх буудлыг Улаанбаатартай холбосон тууш замын хөдөлгөөнийг нээжээ\"",
+      "url": "https://gogo.mn/r/600ey",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ikon-2014_26-0",
+      "lang": ""
+    },
+    {
+      "text": "\"БҮТЭЭН БАЙГУУЛАЛТ: Шинэ нисэх буудлын өнгө төрх\"",
+      "url": "https://ikon.mn/n/47o",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-montsame-2019_27-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Шинэ нисэх буудал ирэх долдугаар сард ашиглалтад орно\"",
+      "url": "https://montsame.mn/mn/read/174807",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-reuters-2018_28-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia delays launch of $500-million airport until 2019\"",
+      "url": "https://www.reuters.com/article/us-mongolia-airport-idUSKBN1ET0QH",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Д.Мягмарсүрэн: Хөшигийн хөндий шинэ нисэх буудал 2020 онд бүрэн ашиглалтад орно\"",
+      "url": "http://itoim.mn/article/Fl8Aq/16931",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-newsmn-2021_30-0",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Шинэ нисэх онгоцны буудлыг долдугаар сарын 4-нд нээнэ\" \"",
+      "url": "https://web.archive.org/web/20210709190129/https://news.mn/r/2439979/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://news.mn/r/2439979/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"New Ulaanbaatar International Airport Opens\"",
+      "url": "https://web.archive.org/web/20210709183603/http://magnificentmongolia.com/mongolia/news/1-latest-news/272-new-ulaanbaatar-international-airport-opens.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://magnificentmongolia.com/mongolia/news/1-latest-news/272-new-ulaanbaatar-international-airport-opens.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia's Newest Airport Opens for Operations – AirlineGeeks.com\"",
+      "url": "https://airlinegeeks.com/2021/07/06/mongolia-s-new-airport-has-launched/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210706115437/https://airlinegeeks.com/2021/07/06/mongolia-s-new-airport-has-launched/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Project Web Site\"",
+      "url": "https://web.archive.org/web/20131005151657/http://nubia.mn/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.nubia.mn/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-renamed_35-0",
+      "lang": ""
+    },
+    {
+      "text": "\"New airport in Khushigt Valley named after Chinggis Khaan\"",
+      "url": "https://montsame.mn/en/read/230201",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-36",
+      "lang": ""
+    },
+    {
+      "text": "\"Assessment on Chinggis Khaan International Airport Expansion Ongoing\"",
+      "url": "https://www.montsame.mn/en/read/347088",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "\"United Airlines Adds Routes to Greenland, Mexico, Mongolia and More | Aviation Week Network\"",
+      "url": "https://aviationweek.com/air-transport/airlines-lessors/united-airlines-adds-routes-greenland-mexico-mongolia-more/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-38",
+      "lang": ""
+    },
+    {
+      "text": "\"Japan to lend Mongolia ¥150 billion for airport expansion\"",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/japan-loan-mongolia-airport-expansion/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-39",
+      "lang": ""
+    },
+    {
+      "text": "\"Signing of Japanese ODA Loan Agreement with Mongolia: Contributing to Enhanced Connectivity through Expansion of the International Airport in Ulaanbaatar\"",
+      "url": "https://www.jica.go.jp/english/information/press/2026/20260925_11.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-40",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Чингис хаан\" нисэх буудлын өргөтгөлийн санхүүжилтийн гэрээнд гарын үсэг зурлаа\"",
+      "url": "https://www.mnb.mn/article/chingis-khaan-olon-ulsyn-nisekh-buudlyn-khuchin-chadal-gurav-dakhin-nemegdej-jild-5-2-saya-zorchigch-khuleen-avdag-bolno-3589",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian National Broadcaster",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_National_Broadcaster",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "\"Терминалын зураг\"",
+      "url": "https://www.ulaanbaatar-airport.mn/terminal-tuluwlultiin-zurag",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20201204013520/https://www.ulaanbaatar-airport.mn/terminal-tuluwlultiin-zurag",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-42",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Чингис хаан\" Олон улсын нисэх буудлын анхны нислэгийн ёслолын арга хэмжээ боллоо\"",
+      "url": "https://www.nubia-llc.mn/post/70178",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210711014625/https://www.nubia-llc.mn/post/70178",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-43",
+      "lang": ""
+    },
+    {
+      "text": "\" '에어로케이', 마닐라·울란바토르 정기노선 추가\"",
+      "url": "https://www.cbwealth.co.kr/news/articleView.html?idxno=5122",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-44",
+      "lang": ""
+    },
+    {
+      "text": "\"에어로케이, 청주-필리핀·몽골 취항\"",
+      "url": "https://n.news.naver.com/mnews/article/056/0011714762?sid=101",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-chav_45-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Ulaanbaatar Chinggis Khaan Int'l, Mongolia opens to traffic\"",
+      "url": "https://www.ch-aviation.com/portal/news/105650-ulaanbaatar-chinggis-khaan-intl-mongolia-opens-to-traffic",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-46",
+      "lang": ""
+    },
+    {
+      "text": "\"Aero Mongolia NW25 Hohhet Service Increases\"",
+      "url": "https://www.aeroroutes.com/eng/251017-m0nw25het",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-47",
+      "lang": ""
+    },
+    {
+      "text": "\"Aero Mongolia to commence Ulaanbaatar-Seoul service in Jun-2023\"",
+      "url": "https://centreforaviation.com/news/aero-mongolia-to-commence-ulaanbaatar-seoul-service-in-jun-2023-1200750",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-48",
+      "lang": ""
+    },
+    {
+      "text": "\"Aero Mongolia 3Q25 Tokyo Service Increases\"",
+      "url": "https://www.aeroroutes.com/eng/250313-m0ns25nrt",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-49",
+      "lang": ""
+    },
+    {
+      "text": "\"Air China NW22 International Operations - 30 OCT22\"",
+      "url": "https://www.aeroroutes.com/eng/221031-canw22intl",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-50",
+      "lang": ""
+    },
+    {
+      "text": "\"Air China Resumes Hohhet - Ulaanbaatar Service From Aug 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230714-caaug23het",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"Asiana Airlines adds Mongolia service from July 2019\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/284881/asiana-airlines-adds-mongolia-service-from-july-2019/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-52",
+      "lang": ""
+    },
+    {
+      "text": "\"Hunnu Air official website\"",
+      "url": "https://www.hunnuair.com/en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"Beijing's Daxing airport opens its first direct flight to Mongolia\"",
+      "url": "https://english.news.cn/20231203/0b67001b7bca4157a5c5063b095f1d25/c.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Ulaanbaatar-New Delhi Flights Begin\"",
+      "url": "https://www.montsame.mn/en/read/411002",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-55",
+      "lang": ""
+    },
+    {
+      "text": "\"Hunnu Air to increase Ulaanbaatar-Manzhouli frequency in May/Jun-2023\"",
+      "url": "https://centreforaviation.com/news/hunnu-air-to-increase-ulaanbaatar-manzhouli-frequency-in-mayjun-2023-1201789",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "\"Хүннү Эйр Баян-Өлгий чиглэлд нислэг үйлдэнэ\"",
+      "url": "https://gogo.mn/r/wnk50",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-57",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolia Makes a Stunning Aviation Move as Hunnu Air Opens Direct Shenzhen Link, Lauching a New Era of Asian Travel\"",
+      "url": "https://www.travelandtourworld.com/news/article/a8vh0tjfqzru/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-58",
+      "lang": ""
+    },
+    {
+      "text": "\"Philippines opens limited route tapping Mongolian market\"",
+      "url": "https://www.philstar.com/business/2025/12/29/2496884/philippines-opens-limited-route-tapping-mongolian-market",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20260105075610/https://www.philstar.com/business/2025/12/29/2496884/philippines-opens-limited-route-tapping-mongolian-market",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-59",
+      "lang": ""
+    },
+    {
+      "text": "\"Hunnu Air 3Q25 Ulaanbaatar – Yangyang Charters\"",
+      "url": "https://www.aeroroutes.com/eng/250521-mr3q25yny",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"IrAero adds Vietnam / Mongolia service in 2Q23\"",
+      "url": "https://www.aeroroutes.com/eng/230509-io2q23int",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"Jeju Air adds Busan – Ulaanbaatar service from late-July 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230627-7cjul23ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-62",
+      "lang": ""
+    },
+    {
+      "text": "\"Jeju Air adds Mongolia service from late June 2022\"",
+      "url": "https://aeroroutes.com/eng/220613-7cjul22ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-63",
+      "lang": ""
+    },
+    {
+      "text": "\"Jin Air Adds Busan – Ulaanbaatar in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250325-ljns25pusubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-syx_64-0",
+      "lang": ""
+    },
+    {
+      "text": "\"三亚恢复两条国际航线\"",
+      "url": "https://news.qq.com/rain/a/20261010A0AECO00",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-65",
+      "lang": ""
+    },
+    {
+      "text": "\"Juneyao Air Adds Sanya - Ulaanbaatar Service from Dec 2024\"",
+      "url": "https://www.aeroroutes.com/eng/241127-hodec24ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-66",
+      "lang": ""
+    },
+    {
+      "text": "\"KrasAvia June – Sep 2024 Mongolia Service Increases\"",
+      "url": "https://www.aeroroutes.com/eng/240409-kvjun24ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-67",
+      "lang": ""
+    },
+    {
+      "text": "\"KrasAvia Adds Kyzyl – Ulaanbaatar Service From June 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250519-kvjun25ubn",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-miat-2023-domestic_68-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-miat-2023-domestic_68-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-miat-2023-domestic_68-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-miat-2023-domestic_68-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-miat-2023-domestic_68-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Орон нутгийн найман чиглэлд шууд нислэг үйлдэнэ\"",
+      "url": "https://montsame.mn/mn/read/321542",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-69",
+      "lang": ""
+    },
+    {
+      "text": "\"International Summer Flight Schedule\"",
+      "url": "https://www.miat.com/news.php?newsid=318",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-70",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT Mongolian Airlines Schedules CRJ700 International Service Debut in June 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250519-omns25cr7",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-71",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT Mongolian Airlines İstanbul Havalimanı seferlerine başladı - İstanbul Haberleri\"",
+      "url": "http://www.dha.com.tr/yerel-haberler/istanbul/miat-mongolian-airlines-istanbul-havalimani-sef-2050238",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-OM_ULO_MXV_NS25_72-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-OM_ULO_MXV_NS25_72-1",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT June – August 2025 Ulaangom / Murun Service Changes\"",
+      "url": "https://www.aeroroutes.com/eng/250613-omjun25mn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-73",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT Mongolian Airlines Extends Shanghai Service into NW25\"",
+      "url": "https://www.aeroroutes.com/eng/250709-omnw25pvg",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-74",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT NW24 Bangkok Aircraft Changes\"",
+      "url": "https://www.aeroroutes.com/eng/240913-omnw24bkk",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-75",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT Adds Ulaanbaatar – Ho Chi Minh City Service From late-Dec 2023\"",
+      "url": "https://www.aeroroutes.com/eng/231204-omdec23ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-76",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT to Resume Osaka Service in 3Q23\"",
+      "url": "https://www.aeroroutes.com/eng/230118-omjp",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-ST-SIN-UBN-2025_77-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Mongolian flag carrier to start non-stop flights between Singapore and Ulaanbaatar from Nov 4\"",
+      "url": "https://www.straitstimes.com/singapore/transport/mongolian-flag-carrier-to-start-non-stop-flights-between-singapore-and-ulaanbaatar-from-nov-4",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-78",
+      "lang": ""
+    },
+    {
+      "text": "\"MIAT Updates NW22 Thailand Operations\"",
+      "url": "https://www.aeroroutes.com/eng/221006-omnw22th",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-S7_IKT_MN_CN_NW26_79-0",
+      "lang": ""
+    },
+    {
+      "text": "\"S7 Airlines откроет новые международные рейсы из Иркутска в Монголию и Китай\"",
+      "url": "https://www.s7.ru/ru/news/S7-Airlines-otkroet-novye-mezhdunarodnye-reysy-iz-irkutska-v-mongoliyu-i-kitay/",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-80",
+      "lang": ""
+    },
+    {
+      "text": "\"Ulaanbaatar-Shanghai direct flight route launched\"",
+      "url": "https://azertag.az/en/xeber/ulaanbaatar_shanghai_direct_flight_route_launched-4055859",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-81",
+      "lang": ""
+    },
+    {
+      "text": "\"T'Way Air Adds Cheongju – Ulaanbaatar in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250311-twns25ubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-82",
+      "lang": ""
+    },
+    {
+      "text": "\"T'Way Air Adds Daegu – Ulaanbaatar Service From late-July 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230711-twjul23taeubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-83",
+      "lang": ""
+    },
+    {
+      "text": "\"T'Way Air NS23 Mongolia Service Changes\"",
+      "url": "https://www.aeroroutes.com/eng/230216-twubn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-TK_FRU_ULN_84-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines Mongolia service adjustment from Jan 2020\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/287152/turkish-airlines-mongolia-service-adjustment-from-jan-2020/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-85",
+      "lang": ""
+    },
+    {
+      "text": "\"United Schedules Mongolia May 2025 Launch\"",
+      "url": "https://www.aeroroutes.com/eng/250117-uans25mn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-86",
+      "lang": ""
+    },
+    {
+      "text": "\"VietJet announced new route connecting Ulaanbaatar and Nha Trang\"",
+      "url": "https://e.vnexpress.net/news/travel/vietjet-announces-new-route-connecting-ulaanbaatar-and-nha-trang-4672429.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-87",
+      "lang": ""
+    },
+    {
+      "text": "\"VietJet Air NW24 Mongolia Scheduled Charter Service\"",
+      "url": "https://www.aeroroutes.com/eng/241105-vjnw24mn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mcaa-stats-2022_88-0",
+      "lang": ""
+    },
+    {
+      "text": "\"ИНЕГ Статистикийн эмхэтгэл 2022\"",
+      "url": "https://mcaa.gov.mn/media/2023/10/09/Эмхтгэл-2022_1_1.pdf",
+      "lang": ""
+    },
+    {
+      "text": "dead link",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Link_rot",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-89",
+      "lang": ""
+    },
+    {
+      "text": "\"СТАТИСТИКИЙН ЭМХЭТГЭЛ 2023\"",
+      "url": "https://web.archive.org/web/20240825114016/https://mcaa.gov.mn/file/2704",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://mcaa.gov.mn/file/2704",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-mrt-stats-2025_90-0",
+      "lang": ""
+    },
+    {
+      "text": "Зам, тээврийн салбарын статистикийн эмхэтгэл – 2025 он",
+      "url": "https://mrt.gov.mn/up/news_new/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA/%D0%B6%D0%B8%D0%BB/2025%20STATISTIC_LAST%20EDIT-02.25.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport#cite_ref-91",
+      "lang": ""
+    },
+    {
+      "text": "\"How to Get to Mongolia by Air\"",
+      "url": "https://getairport.taxi/en/blog/how-to-get-to-mongolia-by-air",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&action=edit&section=15",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Chinggis Khaan International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Chinggis%20Khaan%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://en.ulaanbaatar-airport.mn/",
+      "lang": ""
+    },
+    {
+      "text": "Official website of the airport's operator",
+      "url": "https://www.nubia-llc.mn/",
+      "lang": ""
+    },
+    {
+      "text": "Khoshig Valley Airport State Owned LLC",
+      "url": "http://www.khkhap.mn/en/",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for ZMCK\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/ZMCK.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for UBN",
+      "url": "https://web.archive.org/web/20210709182810/http://aviation-safety.net/database/airport/airport.php?id=UBN",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "Portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Chinggis Khaan",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ölgii",
+      "url": "https://en.wikipedia.org/wiki/Ölgii_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Altai",
+      "url": "https://en.wikipedia.org/wiki/Altai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Choibalsan",
+      "url": "https://en.wikipedia.org/wiki/Choibalsan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dadal",
+      "url": "https://en.wikipedia.org/wiki/Dadal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dalanzadgad",
+      "url": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donoi",
+      "url": "https://en.wikipedia.org/wiki/Donoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khanbumbat",
+      "url": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khovd",
+      "url": "https://en.wikipedia.org/wiki/Khovd_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujirt",
+      "url": "https://en.wikipedia.org/wiki/Khujirt_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ovoot",
+      "url": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tavan Tolgoi",
+      "url": "https://en.wikipedia.org/wiki/Tavan_Tolgoi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaangom",
+      "url": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ulaanbaatar-Buyant-Ukhaa",
+      "url": "https://en.wikipedia.org/wiki/Buyant-Ukhaa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&oldid=1382592551",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&oldid=1382592551",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "2021 establishments in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:2021_establishments_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 2021",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_2021",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Töv Province",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_T%C3%B6v_Province",
+      "lang": ""
+    },
+    {
+      "text": "Genghis Khan",
+      "url": "https://en.wikipedia.org/wiki/Category:Genghis_Khan",
+      "lang": ""
+    },
+    {
+      "text": "Sergelen, Töv",
+      "url": "https://en.wikipedia.org/wiki/Category:Sergelen,_T%C3%B6v",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages with Mongolian IPA",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_with_Mongolian_IPA",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Mongolian-language sources (mn)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Mongolian-language_sources_(mn)",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Pages with non-numeric formatnum arguments",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_with_non-numeric_formatnum_arguments",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from July 2021",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_July_2021",
+      "lang": ""
+    },
+    {
+      "text": "CS1 errors: generic name",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_errors:_generic_name",
+      "lang": ""
+    },
+    {
+      "text": "All articles with dead external links",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with dead external links from July 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_July_2026",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Chinggis_Khaan_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-09.txt"
+}

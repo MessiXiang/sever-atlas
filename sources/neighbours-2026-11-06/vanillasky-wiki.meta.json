@@ -1,0 +1,949 @@
+{
+  "id": "vanillasky-wiki",
+  "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+  "retrievedAt": "2026-11-06T08:26:12.271964+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+  "bytes": 113154,
+  "sha256": "21724e2a652521b4a053a22573d19f96b0ee12132be2e33a98b5b6e5c7b5c879",
+  "file": "sources/neighbours-2026-11-06/vanillasky-wiki.html",
+  "title": "Vanilla Sky (airline) - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Vanilla+Sky+%28airline%29",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Vanilla+Sky+%28airline%29",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Vanilla+Sky+%28airline%29",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Vanilla+Sky+%28airline%29",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "1 Destinations",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#Destinations",
+      "lang": ""
+    },
+    {
+      "text": "2 Fleet",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#Fleet",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%86%D9%8A%D9%84%D8%A7_%D8%B3%D9%83%D8%A7%D9%8A_%D8%A7%D9%8A%D8%B1%D9%84%D8%A7%D9%8A%D9%86%D8%B2",
+      "lang": "ar"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Vanilla_Sky_Georgia",
+      "lang": "nl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/Vanilla_Sky_Airlines",
+      "lang": "ru"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q65079136#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&oldid=1376543685",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Vanilla_Sky_%28airline%29&id=1376543685&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVanilla_Sky_%28airline%29",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Vanilla_Sky_%28airline%29&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Vanilla_Sky_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q65079136",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Air",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Air",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Vanilla_Sky_logo.png",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari Airport",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Focus cities",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub#Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/David_the_Builder_Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "vanillasky.ge",
+      "url": "https://ticket.vanillasky.ge/",
+      "lang": ""
+    },
+    {
+      "text": "airline",
+      "url": "https://en.wikipedia.org/wiki/Airline",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri Airport",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Alexander Kartveli Batumi International Airport",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Kartveli_Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "David the Builder Kutaisi International Airport",
+      "url": "https://en.wikipedia.org/wiki/David_the_Builder_Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Mestia",
+      "lang": ""
+    },
+    {
+      "text": "Queen Tamar Airport",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari Airfield",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Let L-410 UVP-E",
+      "url": "https://en.wikipedia.org/wiki/Let_L-410_UVP-E",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-:0-3",
+      "lang": ""
+    },
+    {
+      "text": "Embraer 120",
+      "url": "https://en.wikipedia.org/wiki/Embraer_120",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-:0-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Aviation Development Starts in Georgia\"",
+      "url": "http://cbw.ge/economy/aviation-development-starts-georgia/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Cost of Tbilisi-Batumi Ticket will be 90 GEL on ServiceAir Flight - CBW.ge\"",
+      "url": "https://web.archive.org/web/20200519204820/http://webcache.googleusercontent.com/search?q=cache%3A6o7Pm-GcmnYJ%3Acbw.ge%2Feconomy%2Fcost-tbilisi-batumi-ticket-will-90-gel-serviceair-flight%2F+&cd=1&hl=cs&ct=clnk&gl=uk",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://cbw.ge/economy/cost-tbilisi-batumi-ticket-will-90-gel-serviceair-flight/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-:0_3-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-:0_3-1",
+      "lang": ""
+    },
+    {
+      "text": "\"How to fly to Mestia from Natakhtari (Tbilisi) and Kutaisi\"",
+      "url": "https://travelsurfrepeat.com/how-to-fly-from-natakhtari-tbilisi-to-mestia/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights to Mestia launches tomorrow\"",
+      "url": "http://agenda.ge/en/news/2014/1745",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Vanilla Sky\"",
+      "url": "https://www.facebook.com/pages/category/Travel-Agency/Vanillasky.ge/photos/",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://ticket.vanillasky.ge/",
+      "lang": ""
+    },
+    {
+      "text": "Service Air",
+      "url": "http://serviceair.ge/index.php?Lang=3",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20190301140135/http://serviceair.ge/index.php?Lang=3",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Portal:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Companies",
+      "url": "https://en.wikipedia.org/wiki/Portal:Companies",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airlines_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airlines_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airlines_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Airways",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Airways",
+      "lang": ""
+    },
+    {
+      "text": "MyWay Airlines",
+      "url": "https://en.wikipedia.org/wiki/MyWay_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Sky",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Air Georgia",
+      "url": "https://en.wikipedia.org/wiki/Air_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Geosky",
+      "url": "https://en.wikipedia.org/wiki/Geosky",
+      "lang": ""
+    },
+    {
+      "text": "Air Batumi",
+      "url": "https://en.wikipedia.org/wiki/Air_Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Air Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Air_Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Caucasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Eurex Airlines",
+      "url": "https://en.wikipedia.org/wiki/Eurex_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Fly Georgia",
+      "url": "https://en.wikipedia.org/wiki/Fly_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Flyvista",
+      "url": "https://en.wikipedia.org/wiki/Flyvista",
+      "lang": ""
+    },
+    {
+      "text": "Georgian International Airlines",
+      "url": "https://en.wikipedia.org/wiki/Georgian_International_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Wings",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Wings",
+      "lang": ""
+    },
+    {
+      "text": "Sky Georgia",
+      "url": "https://en.wikipedia.org/wiki/Sky_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "TAM Air",
+      "url": "https://en.wikipedia.org/wiki/TAM_Air",
+      "lang": ""
+    },
+    {
+      "text": "Transair Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transair_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Zakavia",
+      "url": "https://en.wikipedia.org/wiki/Zakavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airlineicon.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Europe-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Europe-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Europe-airline-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Nuvola_apps_ksysv_square.svg",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Georgia-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Georgia-transport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&oldid=1376543685",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&oldid=1376543685",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airlines of Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_of_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airlines established in 2008",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_established_in_2008",
+      "lang": ""
+    },
+    {
+      "text": "European airline stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:European_airline_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Asia transport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia_transport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country) stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Georgia_(country)_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Europe transport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Europe_transport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from September 2022",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_September_2022",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Georgian-language sources (ka)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Georgian-language_sources_(ka)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Vanilla_Sky_(airline)&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_(airline)",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-wiki.txt"
+}

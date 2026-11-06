@@ -1,0 +1,91 @@
+Connecting Uzbekistan
+When distances get shorter and people get closer
+More
+From
+{{from_city.city_abbr}}
+From
+{{from_city.city_name}}
+To
+{{to_city.city_abbr}}
+To
+{{to_city.city_name}}
+Departure date
+Select date
+Return
+Select date
+Adults
+Over 12 years
+{{passengers_1}}
+Children
+2 to 12 years
+{{passengers_2}}
+Infants
+Under 2 years
+{{passengers_3}}
+UZS
+UZS
+USD
+Search
+Ticket sales opening soon.
+Aktash
+Muynak
+Zaamin
+Kokand
+Shahrisabz
+Sarıosıyo
+Amirsoy
+Andijan
+Bukhara
+Fergana
+Namangan
+Navoi
+Nukus
+Karshi
+Samarkand
+Termez
+Tashkent
+Urgench
+Andijan
+Bukhara
+Fergana
+Karshi
+Namangan
+Navoi
+Nukus
+Samarkand
+Tashkent
+Termez
+Urgench
+Select date
+One way
+Round trip
+Done
+From
+To
+{{item.city_name}}
+{{item.city_abbr}}
+Not found
+From
+{{from_city.city_name}}
+{{from_city.city_abbr}}
+To
+{{to_city.city_name}}
+{{to_city.city_abbr}}
+Departure date
+Select date
+Return
+Select date
+Passengers
+Passengers
+Adults
+Over 12 years
+{{passengers_1}}
+Children
+2 to 12 years
+{{passengers_2}}
+Infants
+Under 2 years
+{{passengers_3}}
+Done
+Search
+Search flights

@@ -1,0 +1,789 @@
+{
+  "id": "silk-news",
+  "url": "https://www.silk-avia.com/uz/news/",
+  "retrievedAt": "2026-11-06T08:33:04.890035+00:00",
+  "status": 200,
+  "finalUrl": "https://www.silk-avia.com/uz/news/",
+  "bytes": 226794,
+  "sha256": "0dbb6f26ac6ffc3ed8b1879a543e2bfa2f9ae1697716751b7efae59c08a43a20",
+  "file": "sources/neighbours-2026-11-06/silk-news.html",
+  "title": "Yangiliklar",
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Tashkiliy tuzilma",
+      "url": "https://www.silk-avia.com/uz/about/title.php",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Bronni boshqarish",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=uz",
+      "lang": ""
+    },
+    {
+      "text": "Tabriklash xizmati",
+      "url": "https://www.silk-avia.com/uz/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Parvoz ma'lumotnomasi",
+      "url": "https://www.silk-avia.com/uz/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Bronni bekor qilish",
+      "url": "https://www.silk-avia.com/uz/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz/uz",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/news/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "url": "https://www.silk-avia.com/en/news/",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/news/#minmenu-sub-1",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Tashkiliy tuzilma",
+      "url": "https://www.silk-avia.com/uz/about/title.php",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Bronni boshqarish",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=uz",
+      "lang": ""
+    },
+    {
+      "text": "Tabriklash xizmati",
+      "url": "https://www.silk-avia.com/uz/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Parvoz ma'lumotnomasi",
+      "url": "https://www.silk-avia.com/uz/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Bronni bekor qilish",
+      "url": "https://www.silk-avia.com/uz/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz/uz",
+      "lang": ""
+    },
+    {
+      "text": "Bog'lanish",
+      "url": "https://www.silk-avia.com/uz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501-22-12",
+      "url": "tel:+998 55 501-22-12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "mailto:silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Yuklash",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "Yuklash",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/news/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "url": "https://www.silk-avia.com/en/news/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/news/.min-menu, .min-header",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/news/#header-hidden",
+      "lang": ""
+    },
+    {
+      "text": "Buxoro, Urganch va Samarqandga yangi ORZU va ORZU PLUS tariflari bo‘yicha parvoz qiling! 5 October 2026",
+      "url": "https://www.silk-avia.com/uz/news/new-tarif/",
+      "lang": ""
+    },
+    {
+      "text": "“Uzbekistan Helicopters” МЧЖ ходимлари  Ислом цивилизацияси марказига ташриф буюрдилар “Uzbekistan Helicopters” МЧЖ ходимлари Ислом цивилизацияси марказига ташриф буюрдилар Ходимларнинг маънавий-маърифий салоҳиятини юксалтириш, миллий тарихимиз ва бой маданий меросимизга ҳурмат туйғусини мустаҳкамлаш мақсадида 2026 йил 3 июль куни “Uzbekistan Helicopters” МЧЖ ходимлари учун Тошкент шаҳридаги Ислом цивилизацияси марказига маърифий экскурсия ташкил этилди. Ташриф давомида иштирокчилар Марказнинг замонавий экспозициялари орқали Ўзбекистон заминидан етишиб чиққан буюк алломаларнинг бой илмий ва маънавий мероси, ислом цивилизациясининг жаҳон илм-фани ва маданияти тараққиётига қўшган беқиёс ҳиссаси ҳамда халқимизнинг асрлар давомида шаклланган миллий ва маънавий қадриятлари билан яқиндан танишдилар. Экскурсия иштирокчиларига юртимизнинг бой тарихий мероси, илм-фан ва маърифат ривожига муносиб ҳисса қўшган аждодларимиз ҳаёти ва фаолияти ҳақида қизиқарли маълумотлар тақдим этилди. Бу эса ходимларда миллий ғурур, ватанпарварлик туйғуларини янада мустаҳкамлаш, тарихий меросимизга эҳтиромни ошириш ҳамда маънавий дунёқарашни бойитишга хизмат қилди. “Uzbekistan Helicopters” МЧЖда жамоанинг маънавий-маърифий салоҳиятини юксалтириш, ходимларни миллий ва умуминсоний қадриятлар руҳида тарбиялаш, шунингдек, ички туризмни ривожлантиришга қаратилган бундай тадбирларни мунтазам ташкил этишга алоҳида эътибор қаратилмоқда. 10 July 2026",
+      "url": "https://www.silk-avia.com/uz/news/islamic-centr/",
+      "lang": ""
+    },
+    {
+      "text": "Buxoro va Sariosiyoni bog‘lamoqdamiz: yanada ko‘proq qulay parvozlar! 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/more-buhara/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia parvozlar dasturini kengaytirmoqda: yangi yo‘nalishlar va qatnovlar chastotasining oshishi 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/more-flites/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia parvozlar dasturining yangilanishi haqida: ustuvor vazifamiz — yo‘lovchilarimizning qulayligi va xavfsizligi 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/snijenie-reysov/",
+      "lang": ""
+    },
+    {
+      "text": "Miflar va haqiqat: “Silk Avia” hududiy samolyotlari aslida qanday parvoz qiladi? 6 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/myth-or-true/",
+      "lang": ""
+    },
+    {
+      "text": "Bortda tabriklash: \"Silk Avia\" sizning unutilmas lahzalaringiz uchun yangi xizmatni ishga tushirmoqda! Yaqinlaringizni hayratda qoldirmoqchimisiz? \"Silk Avia\" aviakompaniyasi yangi eksklyuziv xizmat — «Bortda tabriklash» yo‘lga qo‘yilganini mamnuniyat bilan e’lon qiladi! Endi har bir yo‘lovchimiz oddiy parvozni unutilmas bayramga aylantirish va o‘z yaqinlarini 10 000 metr balandlikda hayron qoldirish uchun noyob imkoniyatga ega. Tug‘ilgan kun, yubiley yoki turmush qurganlik yilligi — siz uchun har qanday muhim voqea butun samolyot saloni bo‘ylab yangraydi. Bu qanday ishlaydi? Parvoz davomida havo kemasi ekipaji radiouzel (gromkaya svyaz) orqali sizning nomingizdan shaxsiy tabrikni tantanali ravishda o‘qib eshittiradi. Bu ota-onangiz uchun mustahkam sog‘liq tilaklari bo‘ladimi yoki sevimli insoningiz uchun romantik izhor — biz ushbu lahzani chinakamiga hayajonli va kutilmagan syurprizga aylantirishga yordam beramiz. Ushbu xizmat qanday voqealar uchun mos keladi? Tug‘ilgan kun va yubileylar: bayram sohibini butun aviakompaniya nomidan shaxsiy e’tibor bilan xushnud eting. To‘y va turmush qurganlik yilliklari: birgalikdagi sayohatingiz muqaddimasida his-tuyg‘ularingiz qanchalik mustahkam ekanligini yana bir bor eslatib o‘ting. Muhim shaxsiy yutuqlar: g‘alaba va hayotingizdagi unutilmas quvonchli voqealarni yaqinlaringiz bilan baham ko‘ring. Xizmatni qanday rasmiylashtirish mumkin? Bortda tabriklash xizmatiga buyurtmani to‘g‘ridan-to‘g‘ri bizning rasmiy silk-avia.com saytimizdagi maxsus \"Tabriklar xizmati\" (Usluga pozdravleniy) bo‘limida amalga oshirishingiz mumkin. Yoki ushbu havola orqali o‘ting: https://www.silk-avia.com/ru/congratulation/ Buning uchun shunchaki voqea turini tanlash, yo‘lovchilarning ism-sharifini hamda yetkazmoqchi bo‘lgan tabrik matningizni ko‘rsatishingiz kifoya. Hayotingizning eng yorqin va baxtli lahzalarini \"Silk Avia\" bilan birga qarshi oling. Xotirada bir umrga muhrlanib qoladigan unutilmas his-tuyg‘ularni hadya eting, biz esa balandlikdagi bayramingiz mukammal o‘tishini ta’minlaymiz! 3 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/congrats-on-board/",
+      "lang": ""
+    },
+    {
+      "text": "https://www.silk-avia.com/ru/congratulation/",
+      "url": "https://www.silk-avia.com/ru/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "“Uzbekistan Helicopters” MChJ rahbariyati va Toshkent davlat transport universiteti talabalari o‘rtasida “Rahbar va yoshlar” uchrashuvi bo‘lib o‘tdi. 8 April 2026",
+      "url": "https://www.silk-avia.com/uz/news/meeting-with-youth/",
+      "lang": ""
+    },
+    {
+      "text": "Bizning mobil ilovamiz endi AppStore'da mavjud! 27 March 2026",
+      "url": "https://www.silk-avia.com/uz/news/app-is-available/",
+      "lang": ""
+    },
+    {
+      "text": "O‘zbekiston bo‘ylab ichki yo‘nalishlardagi tarif stavkalarining o‘zgarishi 15 January 2026",
+      "url": "https://www.silk-avia.com/uz/news/update-on-domestic-flight-fare-levels/",
+      "lang": ""
+    },
+    {
+      "text": "“Uzbekistan Airways”dan qo‘shimcha reyslar 26 August 2025",
+      "url": "https://www.silk-avia.com/uz/news/Uzbekistan-Airwaysdan-qoshimcha-reyslar/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia Toshkent – Issiqko‘l yo‘nalishida har kunlik reyslarni yo‘lga qo‘ymoqda! 30 June 2025",
+      "url": "https://www.silk-avia.com/uz/news/silk_avia_toshkent-issiqkol_yonalishida_har_kunlik_reyslarni_yolga_qoymoqda/",
+      "lang": ""
+    },
+    {
+      "text": "Visa va MasterCard kartalari orqali onlayn to‘lov yo‘lga qo‘yildi! 26 June 2025",
+      "url": "https://www.silk-avia.com/uz/news/visa_va_mastercard_kartalari_orqali_onlayn_tolov_yolga_qoyildi/",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyoga birinchi rejalashtirilgan reys! 30 May 2025",
+      "url": "https://www.silk-avia.com/uz/news/sariosiyoga-birinchi-rejalashtirilgan-reys/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkentdan Qo‘qonga – atigi 1 soat 15 daqiqada Silk Avia bilan! 29 May 2025",
+      "url": "https://www.silk-avia.com/uz/news/toshkentdan-qoqonga-atigi-1-soat-15-daqiqada-silk-avia-bilan/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia O‘zbekiston bo‘ylab aviachiptalar narxini pasaytirdi! 15 May 2025",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-ozbekiston-boylab-aviachiptalar-narxini-pasaytirdi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia 18-maydan boshlab Toshkent – Shahrisabz – Toshkent yo‘nalishidagi reyslar sonini oshiradi! 7 May 2025",
+      "url": "https://www.silk-avia.com/uz/news/Silk-Avia-18-maydan-boshlab-Toshkent-Shahrisabz-Toshkent-yonalishidagi-reyslar-sonini-oshiradi/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkentdan Sarosiya tomon Silk Avia bilan uchamiz! 2 May 2025",
+      "url": "https://www.silk-avia.com/uz/news/toshkentdan-sarosiya-tomon-silk-avia-bilan-uchamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkent – Sariosiyo – Toshkent yo‘nalishi bo‘yicha texnik parvoz muvaffaqiyatli amalga oshirildi! 29 April 2025",
+      "url": "https://www.silk-avia.com/uz/news/Toshkent-Sariosiyo-Toshkent-yonalishi-boyicha-texnik-parvoz-muvaffaqiyatli-amalga-oshirildi/",
+      "lang": ""
+    },
+    {
+      "text": "Endilikda Toshkentdan Shahrisabzga ATR 72-600 samolyotlarida! 28 April 2025",
+      "url": "https://www.silk-avia.com/uz/news/Endilikda-Toshkentdan-Shahrisabzga-ATR-72-600-samolyotlarida%21/",
+      "lang": ""
+    },
+    {
+      "text": "Axborot xabari 25 April 2025",
+      "url": "https://www.silk-avia.com/uz/news/Axborot-xabari/",
+      "lang": ""
+    },
+    {
+      "text": "Havo kemalarini va javobgarlikni sug‘urtalash xizmatlarini xarid qilish bo‘yicha tender savdolar e’lon qilinadi 23 April 2025",
+      "url": "https://www.silk-avia.com/uz/news/Havo-kemalarini-va-javobgarlikni-sugurtalash-xizmatlarini-xarid-qilish-boyicha-tender-savdolar-elon-qilinadi/",
+      "lang": ""
+    },
+    {
+      "text": "Aviaparkimizga yangi havo kemasi kelib qo‘shildi! 7 April 2025",
+      "url": "https://www.silk-avia.com/uz/news/aviaparkimizga-yangi-havo-kemasi-kelib-qoshildi/",
+      "lang": ""
+    },
+    {
+      "text": "1-apreldan Urganchdan Buxoroga parvoz qilamiz ! 1-apreldan har seshanba va chorshanba kunlari Urganch-Buxoro yo‘nalishiga parvoz qilamiz! 24 March 2025",
+      "url": "https://www.silk-avia.com/uz/news/letaem_iz_urgencha_v_buxar/",
+      "lang": ""
+    },
+    {
+      "text": "Milliy kolorit bilan sayohat qilamiz! 13 February 2025",
+      "url": "https://www.silk-avia.com/uz/news/milliy-kolorit-bilan-sayohat-qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Bugun Uzbekistan Airways o‘zining 33 yilligini nishonlamoqda! 28 January 2025",
+      "url": "https://www.silk-avia.com/uz/news/bugun-uzbekistan-airways-ozining-33-yilligini-nishonlamoqda/",
+      "lang": ""
+    },
+    {
+      "text": "Mahalliy yo‘nalishlar bo‘yicha tariflar darajalarining o‘zgarishi 15 January 2025",
+      "url": "https://www.silk-avia.com/uz/news/mahalliy-yonalishlar-boyicha-tariflar-darajalarining-ozgarishi/",
+      "lang": ""
+    },
+    {
+      "text": "Talabalar uchun maxsus chegirmalar! 13 December 2024",
+      "url": "https://www.silk-avia.com/uz/news/talabalar_uchun_maxsus_chegirmalar/",
+      "lang": ""
+    },
+    {
+      "text": "Samarqanddan Farg‘ona va Toshkentga parvoz qilamiz! 2 December 2024",
+      "url": "https://www.silk-avia.com/uz/news/samarqanddan_fargona_va_toshkentga_parvoz_qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkent - Qarshi - Toshkent yo'nalishi bo'yicha parvozlar ko'paydi 30 November 2024",
+      "url": "https://www.silk-avia.com/uz/news/tas-ksq-tas_yonalishi_boyicha_parvozlar_kopaydi/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkent-Buxoro-Toshkent yoʻnalishida parvozlar koʻpaydi 28 November 2024",
+      "url": "https://www.silk-avia.com/uz/news/tas-bhk-tas_yonalishida_parvozlar_kopaydi/",
+      "lang": ""
+    },
+    {
+      "text": "LET L-410 havo kemasini tantanali kutib olish marosimi bo‘lib o‘tdi! 7 November 2024",
+      "url": "https://www.silk-avia.com/uz/news/l-410_havo_kemasini_tantanali_kutib_olish_marosimi_bolib_otdi/",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Helicopters oʻzining birinchi yubileyini nishonlamoqda 31 October 2024",
+      "url": "https://www.silk-avia.com/uz/news/uzbekistan_helicopters_ozining_birinchi_yubileyini_nishonlamoqda/",
+      "lang": ""
+    },
+    {
+      "text": "US804 aviaqatnovining bron tizimidagi nosozlik 19 October 2024",
+      "url": "https://www.silk-avia.com/uz/news/us804_aviaqatnovining_bron_tizimidagi_nosozlik/",
+      "lang": ""
+    },
+    {
+      "text": "Buxorodan Qo‘qon va Toshkent shaharlariga parvoz qilamiz! 18 October 2024",
+      "url": "https://www.silk-avia.com/uz/news/buxorodan_qoqon_va_toshkent_shaharlariga_parvoz_qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia O‘zbekiston shaharlari orasida yangi yo‘nalishlarni yo‘lga qo‘ymoqda 24 September 2024",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-o%E2%80%98zbekiston-shaharlari-orasida-yangi-yo%E2%80%98nalishlarni-yo%E2%80%98lga-qo%E2%80%98ymoqda/",
+      "lang": ""
+    },
+    {
+      "text": "Homiladorlik paytida sayohat 27 June 2024",
+      "url": "https://www.silk-avia.com/uz/news/homiladorlik-paytida-sayohat/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia Buxoro va Termiz shaharlariga tez-tez uchib boradi 6 June 2024",
+      "url": "https://www.silk-avia.com/uz/news/Silk-Avia-Buxoro-va-Termiz-shaharlariga-tez-tez-uchib-boradi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia bilan bu yozda Toshkentdan Issiqko‘lga sayohat qiling! 21 May 2024",
+      "url": "https://www.silk-avia.com/uz/news/Silk-Avia-bilan-bu-yozda-Toshkentdan-Issiqko-lga-sayohat-qiling%21/",
+      "lang": ""
+    },
+    {
+      "text": "Ishlab chiqaruvchilar va yetkazib beruvchilar rahbarlari diqqatiga! 1 May 2024",
+      "url": "https://www.silk-avia.com/uz/news/ishlab-chiqaruvchilar-va-yetkazib-beruvchilar-rahbarlari-diqqatiga%21/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia aviqatnovlarida bolalar bilan qanday sayohat qilish mumkin? 16 April 2024",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-aviqatnovlarida-bolalar-bilan-qanday-sayohat-qilish-mumkin/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia Toshkentdan Qo‘qonga birinchi aviaqatnovini amalga oshirdi! 22 March 2024",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-toshkentdan-qo%E2%80%98qonga-birinchi-aviaqatnovini-amalga-oshirdi%21/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia havo kemasi parki yangi ATR 72-600 bilan to‘ldirildi! 16 March 2024",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-havo-kemasi-parki-yangi-ATR%2072-600-bilan-to%E2%80%98ldirildi%21/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia yangi ATR 72-600 havo kemasini kutib oldi 16 February 2024",
+      "url": "https://www.silk-avia.com/uz/news/Silk-Avia-yangi-ATR-72-600-havo-kemasini-kutib-oldi/",
+      "lang": ""
+    },
+    {
+      "text": "Sug‘urta kompaniyasini tanlash bo‘yicha tanlov 1 February 2024",
+      "url": "https://www.silk-avia.com/uz/news/sugurta-kompaniyasini-tanlash-boyicha-tanlov/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia aloqa markazida ishlash uchun mutaxassislar tanlovini e’lon qiladi! 1 February 2024",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-aloqa-markazida-ishlash-uchun-mutaxassislar-tanlovini-e%E2%80%99lon-qiladi/",
+      "lang": ""
+    },
+    {
+      "text": "Surxondaryo viloyatiga parvozlar miqdorini oshirmoqdamiz! 17 January 2024",
+      "url": "https://www.silk-avia.com/uz/news/surxondaryo-viloyatiga-parvozlar-miqdorini-oshirmoqdamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkentdan Qarshi shahriga har kuni parvoz qilamiz! 4 January 2024",
+      "url": "https://www.silk-avia.com/uz/news/toshkentdan-qarshi-shahriga-har-kuni-parvoz-qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "Barcha yo‘nalishlarimizda talabalar uchun 50% chegirma e’lon qilamiz! 11 December 2023",
+      "url": "https://www.silk-avia.com/uz/news/barcha-yonalishlarimizda-talabalar-uchun-50-foiz-chegirma-elon-qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "8 dekabr – O‘zbekiston Respublikasi Konstitutsiyasi qabul qilingan kun! 8 December 2023",
+      "url": "https://www.silk-avia.com/uz/news/8-dekabr-o%27zbekiston-respublikasi-konstitutsiyasi-qabul-qilingan-kun-/",
+      "lang": ""
+    },
+    {
+      "text": "Bugun Xalqaro fuqaro aviatsiyasi kuni! 7 December 2023",
+      "url": "https://www.silk-avia.com/uz/news/bugun-xalqaro-fuqaro-aviatsiyasi-kuni/",
+      "lang": ""
+    },
+    {
+      "text": "Ko‘proq tariflar – ko‘proq imkoniyatlar 6 December 2023",
+      "url": "https://www.silk-avia.com/uz/news/ko%E2%80%98proq-tariflar-ko%E2%80%98proq-imkoniyatlar/",
+      "lang": ""
+    },
+    {
+      "text": "Aviachiptalar narxi butunlay arzonlashganini e'lon qilamiz! 6 December 2023",
+      "url": "https://www.silk-avia.com/uz/news/aviachiptalar-narxi-butunlay-arzonlashganini-e%27lon-qilamiz/",
+      "lang": ""
+    },
+    {
+      "text": "“Xon-Atlas” fleshmobi modalar namoyishi orqali Toshkent aeroportida qo‘llab-quvvatlandi 29 September 2023",
+      "url": "https://www.silk-avia.com/uz/news/%E2%80%9CXon-Atlas%E2%80%9D-fleshmobi-modalar-namoyishi-orqali-Toshkent-aeroportida-qo%E2%80%98llab-quvvatlandi/",
+      "lang": ""
+    },
+    {
+      "text": "O'tkazib yuborib bo'lmaydigan yangiliklar! 21 August 2023",
+      "url": "https://www.silk-avia.com/uz/news/O%27tkazib-yuborib-bo%27lmaydigan-yangiliklar%21/",
+      "lang": ""
+    },
+    {
+      "text": "O'zbekiston havo floti kuni bilan tabriklaymiz! 20 August 2023",
+      "url": "https://www.silk-avia.com/uz/news/O%27zbekiston-havo-floti-kuni-bilan-tabriklaymiz%21/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia bilan Issiqko'lda Baxmal mavsumini ochamiz! 18 August 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk-Avia-bilan-Issiq-ko%27lda-Baxmal-mavsumini-ochamiz%21/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia Bukhara Night Race xalqaro tungi poygasi logistika hamkoriga aylandi 17 August 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_Bukhara_Night_Race_xalqaro_tungi_poygasi_logistika_hamkoriga_aylandi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia chiptalar narxini pasaytiradi 24 July 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_chiptalar_narxini_pasaytiradi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia chiptalarini Kontakt markazi orqali xarid qilish mumkin 4 July 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_chiptalarini_Aloqa_markazi_orqali_xarid_qilish_mumkin/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia o'zining o'quv markazini yaratadi 26 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_o%27zining_o%27quv_markazini_yaratadi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia mobil ilovasini ishga tushirdi 20 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_mobil_ilovasini_ishga_tushirdi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia yo‘lovchisi bortda chekkani uchun jarimaga tortildi 14 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_yo%E2%80%98lovchisi_bortda_chekkani_uchun_jarimaga_tortildi/",
+      "lang": ""
+    },
+    {
+      "text": "Qurbon Hayiti bayrami munosabati bilan Silk Avia chiptalariga 30% gacha chegirmalar e’lon qilinadi. 14 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Qurbon_Hayiti_bayrami_munosabati_bilan_SilkAvia_chiptalariga_30%25_gacha_chegirmalar_e%E2%80%99lon_qilinadi/",
+      "lang": ""
+    },
+    {
+      "text": "Faoliyatining birinchi oyida Silk Avia 12 000 dan ortiq yo'lovchini o'z manziliga eltib qo'ydi 5 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Faoliyatining_birinchi_oyida_Silk_Avia_12000_dan_ortiq_yo%27lovchini_o%27z_manziliga_eltib_qo%27ydi/",
+      "lang": ""
+    },
+    {
+      "text": "Xalqaro bolalarni himoya qilish bayramida Silk Avia bilan 1 June 2023",
+      "url": "https://www.silk-avia.com/uz/news/Xalqaro_bolalarni_himoya_qilish_bayramida_Silk_Avia_bilan/",
+      "lang": ""
+    },
+    {
+      "text": "Poytaxtimizda bo‘lib o‘tgan forumda O‘zbekiston va Germaniya o‘rtasidagi sayyohlik oqimini rivojlantirish masalalari muhokama qilindi 16 May 2023",
+      "url": "https://www.silk-avia.com/uz/news/Poytaxtimizda_bo%E2%80%98lib_o%E2%80%98tgan_forumda_O%E2%80%98zbekiston_va_Germaniya_o%E2%80%98rtasidagi_sayyohlik_oqimini_rivojlantirish_masalalari_muhokama_qilindi/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia yo‘lovchilarni aviachiptalar bilan bog'liq firibgarlikdan ogohlantiradi Oxirgi bir necha kun ichida Silk Avia aviakompaniyasi parvozlariga aviachiptalarni sotish bilan bog‘liq bir nechta firibgarlik holati qayd etildi. Shulardan biri kuni kecha Toshkentda sodir bo‘ldi. Mahalliy aviaqatnovlar terminalining roʻyxatdan oʻtish peshtaxtasiga yo‘lovchi kelib, hodimga uning soʻzlariga koʻra, Toshkent-Termiz reysi uchun aviachipta boʻlgan hujjatni uzatgan. Biroq, hujjat faqatgina ushbu reys uchun bronning bosma nusxasi bo'lib chiqdi. Yo‘lovchining ta'kidlashicha, bunday \"chipta\" unga shahar kassalardan birida sotilgan. Aviakassaga qo‘ng‘iroqdan so'ng, ushbu yo‘lovchiga pul qaytarilgan, shundan so'ng yo‘lovchi aeroport kassasidan chipta sotib olib, Termizga uchib ketgan. Shu munosabat bilan eslatib o‘tamiz, “Silk Avia” mintaqaviy aviakompaniyasining reyslariga chiptalarni faqat aeroport kassalarida yoki kompaniyaning www.silk-avia.com rasmiy sayti orqali onlayn xarid qilish mumkin. Onlayn chiptalarni sotib olayotganda, shaxsiy va aloqa ma'lumotlaringiz to'g'ri va aniq ekanligiga ishonch hosil qiling. 15 May 2023",
+      "url": "https://www.silk-avia.com/uz/news/Silk_Avia_yo%E2%80%98lovchilarni_aviachiptalar_bilan_bog%27liq_firibgarlikdan_ogohlantiradi/",
+      "lang": ""
+    },
+    {
+      "text": "O‘zbekiston aeroportlari “Silk Avia” aviakompaniyasining ilk parvozlarini tantanali kutib oldi Gullar, milliy raqslar, karnay va surnay sadolari ostida Buxoro, Samarqand, Urganch, Qarshi, Namangan aeroportlarida Silk Avia mintaqaviy aviakompaniyasining ilk reyslari va ilk yo‘lovchilarini kutib olmoqda. 2 May 2023",
+      "url": "https://www.silk-avia.com/uz/news/aeroporti-uzbekistana-torjestvenno-vstrechayut-silk-avia/",
+      "lang": ""
+    },
+    {
+      "text": "\"Silk Avia\" aviakompaniyasining uchinchi samolyoti Toshkentda kutib olindi 26 aprel kuni mahalliy vaqt bilan soat 08:05da “Silk Avia” mintaqaviy aviakompaniyasining uchinchi samolyoti Toshkent xalqaro aeroportiga qo‘ndi. 2 May 2023",
+      "url": "https://www.silk-avia.com/uz/news/v-tashkent-vstretili-tretiy-samolet-silk-avia/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia o'zining ilk ko'rgazmali parvozini amalga oshirdi 24 aprel kuni Silk Avia aviakompaniyasi Toshkent-Samarqand-Toshkent yo‘nalishi bo‘yicha ATR 72-600 samolyoti bortida o‘zining ilk, tarixiy ko‘rgazmali parvozini amalga oshirdi. 2 May 2023",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-vipolnila-svoy-perviy-demonst-reys/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia chiptalar sotuvi boshlanganini e'lon qiladi O‘zbekistonning birinchi mintaqaviy aviakompaniyasi, Silk Avia joriy yilning 25 aprel kuni o‘zining ilk tijoriy reyslarini amalga oshiradi. 22 April 2023",
+      "url": "https://www.silk-avia.com/uz/news/aviakompania-silk-avia-start-prodaj-biletov/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia havo operatori sertifikatini olib texnik reyslarni boshladi Silk Avia operator sertifikatini oldi va 20 aprel kuni ATR instruktorlari tomonidan aviakompaniya ekipajlarini tayyorlash uchun texnik parvozlarni boshladi. 21 April 2023",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-poluchila-sertificat-ekspluatanta/",
+      "lang": ""
+    },
+    {
+      "text": "“Silk Avia”  aviakompaniyasining ikkinchi samolyoti Toshkent  shahriga o‘z parvozini amalga oshirdi 25-mart kuni Toshkent vaqti bilan soat 04:04da “Silk Avia” mintaqaviy milliy aviakompaniyasining ikkinchi samolyoti Bangkokdan Toshkent shahriga o‘z parvozini boshladi. Havo kemasi texnik koʻrikdan oʻtdi va to’liq boʻyaldi, shuningdek sinov parvozlarini amalga oshirib eksport sertifikatiga ega bo‘ldi. Bangkokdan Toshkentga ATR 72-600 parvozining maksimal balandligi (7600 m) va masofasini (1500 km) hisobga olgan holda, ikkinchi bort ham birinchisi kabi oltita bekatda to’xtashni amalga oshiradi — hususan, Tailand, Hindiston, Ummon, Misr, Kipr va Ozarbayjonda.  Silk Avia aviakompaniyasining ikkinchi samolyoti 28-mart kuni Toshkentga qo‘nishi kutilmoqda. Eslatib o‘tamiz, 21-mart kuni Toshkent aeroportida Silk Avia aviakompaniyasining birinchi ATR 72-600 samolyotini tantanali kutib olish marosimi bo‘lib o‘tdi. An’anaga ko‘ra, havo kemasi tantanali ravishda suv arkasi, ekipaj a’zolari karnay va surnay sadolari ostida gullar bilan kutib olindi. Poytaxt aeroporti perronida samolyotni Uzbekistan Airports, Silk Avia kompaniyasi vakillari, jurnalistlar, blogerlar va aviaspotterlar kutib olishdi. 29 March 2023",
+      "url": "https://www.silk-avia.com/uz/news/the-second-plane-of-silk-avia-took-off-for-tashkent/",
+      "lang": ""
+    },
+    {
+      "text": "Toshkentda «Silk Avia» aviakompaniyasining ikkinchi samolyoti kutib olindi va bolalar uchun ushbu laynerda sayohat uyushtirildi 28-mart kuni mahalliy vaqt bilan soat 08:09da “Silk Avia” mintaqaviy milliy aviakompaniyasining birinchi havo kemasi Toshkent xalqaro aeroportiga kelib qo‘ndi. An’anaga ko‘ra, havo kemasi tantanali ravishda suv arkasi bilan kutib olindi. Perronda bort va ekipajni “Uzbekistan Airports” aksiyadorlik jamiyati boshqaruvi raisi Rano Djurayeva, shuningdek, “Uzbekistan Airports” va “Silk Avia” kompaniyalari vakillari kutib olishdi. Bu “Bangkok Airways” aviakompaniyasidan sotib olingan uchta ATR 72-600 samolyotlarining ikkinchisi bo‘lib, birinchisi singari, bort Bangkokdan Toshkentga oltita bekat — Singapur, Hindiston, Ummon, Misr, Kipr va Ozarbayjon orqali uchib kelgan. Tez orada yana bir havo kemasi kelishi kutilmoqda, shuningdek, liveriya arizasi va aviakompaniya uchun aviaoperator sertifikatini olish kutilmoqda. Rasmiy marosimdan tashqari, bugun “Uzbekistan Airports” o‘z xodimlarining farzandlari uchun ochiq eshiklar kunini o‘tkazishga qaror qildi. Ko‘p bolalar birinchi marta perronda bo‘lishdi, havo kemalarining parvozlari va qo‘nishlarini jonli ravishda ko‘rishdi, haqiqiy havo kemasiga va hatto uchuvchi kabinasiga ham chiqdilar. \"Aeroport va aviakompaniya xodimlari bolalarga dunyodagi eng mashhur qisqa masofali samolyotlardan biri — ATR 72-600 haqida so‘zlab berishdi. Samolyotning havoga qanday ko‘tarilishi, qancha yo‘lovchi sig‘ishi mumkinligi, unga nima uchun “parraklar” va “g‘ildiraklar”, tog‘larni aylanib o‘tishi va Samarqandgacha qancha vaqt uchish kerak — bular bugungi sayohat davomida bolalar bergan savollarning faqat kichik bir qismi edi. Shunisi e’tiborga loyiqki, bu mahalliy aviatsiyada bunday turdagi birinchi havo kemalari bo‘lib, ular nafaqat bolalar, balki kattalarda ham qiziqish uyg‘otdi. Yaqin kelajakda aviatsiyaga qiziqqan bolalar uchun yana bir nechta shunday sayohatlar o‘tkazishni rejalashtirmoqdamiz\", — deya qayd etdi “Uzbekistan Airports” matbuot xizmati xabarida. Eslatib oʻtamiz, “Silk Avia” birinchi loukoster mintaqaviy aviakompaniyasini tashkil etish Prezidentning 2022-yil 26-oktabrdagi “Respublikada mahalliy havo qatnovlarini rivojlantirishga doir qoʻshimcha chora-tadbirlar toʻgʻrisida”gi PQ-412-son qarorida nazarda tutilgan. Birinchi bosqichda aviakompaniyaning yo‘nalishlar tarmog‘i eng ommabop yo‘nalishlarni o‘z ichiga oladi: Toshkentdan Samarqand, Buxoro va Urganch, shuningdek, Farg‘ona vodiysi shaharlari. Avtoparkning to‘ldirilishi bilan yo‘nalishlar tarmog‘i kengayadi. Eslatib o‘tamiz, o‘tgan yilning noyabr oyida Silk Avia va Fransiya-Italiya konserni ATR o‘rtasida 2024-yilda Toshkentga yetib keladigan beshta yangi ATR 72-600 havo kemasi xarid qilish bo‘yicha shartnoma imzolangan edi. 27 March 2023",
+      "url": "https://www.silk-avia.com/uz/news/the-second-plane-of-silk-avia-was-met-in-tashkent-and-a-tour-for-children-was-held/",
+      "lang": ""
+    },
+    {
+      "text": "Birinchi Silk Avia samolyoti Toshkentga yetib keldi 21-mart kuni mahalliy vaqt bilan soat 08:30da “Silk Avia” mintaqaviy milliy aviakompaniyasining birinchi samolyoti Toshkent xalqaro aeroportiga kelib qo‘ndi. An’anaga ko‘ra, havo kemasi tantanali ravishda suv arkasi, ekipaj a’zolari karnay va surnay sadolari ostida gullar bilan kutib olindi. Poytaxt aeroporti perronida birinchi bortni Uzbekistan Airports, Silk Avia kompaniyasi vakillari, jurnalistlar, blogerlar va aviaspotterlar kutib oldi. Harid qilingan uchta ATR 72-600 samolyotidan birinchisi uzoq yo'lni bosib o'tdi. Bangkokdan Toshkentga parvozning maksimal balandligi (7600 m) va masofasini (1500 km) hisobga olga holda, samolyot oltita texnik toʻxtash bilan – Singapur, Hindiston, Ummon, Misr, Kipr va Ozarbayjon orqali uchub keldi. Yaqin kunlarda Toshkentga yana ikkita sinov parvozlarini amalga oshirgan va eksport sertifikatlarini olgan samolyotlar yetib keladi, ular ham texnik koʻrikdan oʻtib va to'liq boʻyalgan. “Aviakompaniyani yaratish juda murakkab va masʼuliyatli jarayon boʻlib, unda samolyotlarning ishonchliligi va xavfsizligini tekshirishga katta eʼtibor qaratiladi. ATR samolyotlariga bo'lgan juda yuqori talabni hisobga olsak, bizga mos keladigan texnik ko'rsatkichlari yaxshi, 2019 yildan keyin chiqarilgan va parvoz soatlari ko'p bo'lmagan samolyotlarni topish juda qiyin edi. Biz birinchi uchta samolyotimizni \"Bangkok Airways\" kompaniyasidan sotib oldik, ular juda yaxshi holatda. Bugun biz uchta samolyotdan birini Toshkentda tantanali ravishda kutib olmoqdamiz. Tartibga ko'ra, samolyot mutlaqo oq rangda, Tailand davlat raqamlari bilan yetib keldi. Ikki-uch kun ichida biz havo kemasiga oʻzimizning “Silk Avia” libosini “kiydiramiz” va “OʻzAviatsiya”dan aviaoperator sertifikatini olganimizdan soʻng, samolyot ro'yhat raqamini oladi va ilk parvozlarini boshlaydi”, — dedi \"Uzbekistan Airports\" boshqaruvi raisi Raʼno Djurayeva. Takidlash joizki, 70 kishilik ATR 72-600 dunyodagi eng mashhur qisqa masofali samolyotlardan biri hisoblanadi. Airbus A320 ga nisbatan to'rt baravar kam yoqilg'i sarflaydigan xavfsiz, tejamkor va arzon samolyot yo'lovchilarga hamyonbop narxda ishonchlilik va qulaylikni taqdim etadi. Eslatib oʻtamiz, “Silk Avia” birinchi mintaqaviy loukoster aviakompaniyasini tashkil etish Prezidentning 2022-yil 26-oktabrdagi “Respublikada mahalliy havo qatnovlarini rivojlantirishga doir qoʻshimcha chora-tadbirlar toʻgʻrisida”gi PQ-412-son qarorida nazarda tutilgan edi. Birinchi bosqichda aviakompaniyaning qatnovlar tarmog‘i eng ommabop yo‘nalishlarni o‘z ichiga oladi: Toshkentdan Samarqand, Buxoro va Urganch, shuningdek, Farg‘ona vodiysi shaharlariga reyslar ochiladi. Chiptalar narxi 180 ming so‘mdan boshlanishi rejalashtirilmoqda. Aviaparkning to'ldirilishi bilan yo'nalishlar tarmog'i ham kengayadi. Eslatib o‘tamiz, o‘tgan yilning noyabr oyida \"Silk Avia\" va Fransiya-Italiya konserni ATR o‘rtasida 2024-yilda Toshkentga yetib keladigan beshta yangi ATR 72-600 samolyotlarini xarid qilish bo‘yicha shartnoma imzolangan edi. 21 March 2023",
+      "url": "https://www.silk-avia.com/uz/news/the-first-aircraft-of-silk-avia-flew-to-tashkent2/",
+      "lang": ""
+    },
+    {
+      "text": "17-mart kuni soat 23:07da (Toshkent vaqti bilan 18-mart 04:07da) mintaqaviy Silk Avia milliy aviakompaniyasining birinchi samolyoti Bangkokdan Toshkentga uchdi. Samolyot texnik holati jihatdan koʻrikdan oʻtdi va to'liq boʻyaldi, sinov parvozlarini amalga oshirdi hamda eksport sertifikatiga ega boʻldi. ATR 72-600 samolyotining maksimal uchish balandligi (7600 m) va masofasi (1500 km) hisobga olinsa, samolyot Bangkokdan Toshkentga kelguncha Tailand, Hindiston, Ummon, Misr, Kipr va Ozarbayjonda oltita texnik toʻxtashni amalga oshiradi. Dastlabki ma’lumotlarga ko‘ra, Silk Avia aviakompaniyasining birinchi samolyoti Toshkentga 21 mart kuni qo‘nadi. “Shu kungacha ulkan ishlar amalga oshirildi: mos samolyotlarni topishdan tortib, ularni sotib olish va barcha kerakli hujjatlarni to‘ldirishgacha. Birinchi reyslar yo'lga qo'yilishiga oz qoldi. O‘zbekiston xalqiga Navro‘z bayramiga shunday muhim sovg‘a qilishimizdan juda mamnunmiz”, — dedi “Uzbekistan Airports” aksiyadorlik jamiyati boshqaruvi raisi Ra’no Djurayeva. Qayd etish joizki, yo‘lovchi sig‘imi 70 kishilik ATR 72-600 samolyoti dunyodagi eng mashhur qisqa masofaga uchuvchi samolyotlardan biri hisoblanadi. Airbus A320ga nisbatan to'rt baravar kam yoqilg'i sarflaydigan xavfsiz va tejamkor, arzon samolyot yo'lovchilarga hamyonbop narxda ishonchlilik va qulaylikni taqdim etadi. 8 March 2023",
+      "url": "https://www.silk-avia.com/uz/news/the-first-aircraft-of-silk-avia-flew-to-tashkent/",
+      "lang": ""
+    },
+    {
+      "text": "\"Silk Avia\"ning birinchi samolyoti texnik qabuldan o‘tmoqda Shu kunlarda Bangkokda (Tailand) birinchi ATR72-600 samolyotini Silk Avia kompaniyasiga topshirish jarayoni davom etmoqda. Bu aviatashuvchi tomonidan Jetcraft Commercial Limited bilan kelishuv asosida sotib olingan uchta samolyotdan biri (2019 yilda ishlab chiqarilgan). Silk Avia jamoasi samolyotning texnik holati va uning hujjatlarini tekshirishuvdan o‘tkazdi hamda birinchi sinov parvozini amalga oshirdi. Shuningdek, hozirgi kunga kelib havo kemasini texnik qabul qilish yakunlandi – bir oy davom etgan C-checkdan so‘ng (har 5000 parvoz soatida bajariladigan texnik xizmat ko‘rsatish shakli) samolyot texnik ko‘rikdan o‘tkazilganligi to‘g‘risidagi guvohnoma imzolandi. Ayni damda yana bir muhim hujjat – samolyotni Toshkentga olib kelish uchun zarur bo‘lgan eksport sertifikati tayyorlanmoqda. Ruxsatnomalarni tayyorlash bilan bir qatorda samolyotni Silk Avia livreyasiga bo‘yash ishlari ham olib boriladi. Shundan so‘ng havo kemasi doimiy bazasi – “Toshkent” aeroportiga yo‘l oladi, u yerda ham havo kemasi ekspluatant sertifikatini olishi lozim bo‘ladi. Shu bilan birga, O‘zbekistonning birinchi mintaqaviy aviakompaniyasi tomonidan sotib olingan ikkinchi samolyot ham C-checkdan o‘tkazilishi boshlangan. 1 December 2022",
+      "url": "https://www.silk-avia.com/uz/news/first-test-flight-of-the-atr-72-600-aircraft-of-silk-avia/",
+      "lang": ""
+    },
+    {
+      "text": "\"Silk Avia\" aviakompaniyasiga tegishli birinchi ATR 72-600 samolyotining sinov parvozi. \"Silk Avia\" aviakompaniyasiga tegishli birinchi ATR 72-600 samolyotining sinov parvozi. 1 December 2022",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-s-first-aircraft-undergoes-technical-acceptance-the-first-atr72-600/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia va ATR beshta ATR 72-600 samolyotini sotib olish bo‘yicha shartnoma imzoladi Silk Avia va Franko-Italiya konserni ATR o'rtasida beshta yangi ATR 72-600 samolyotlarini, to'g'ridan-to'g'ri ishlab chiqaruvchidan uchta va  lizing beruvchidan ikkita, sotib olish bo'yicha shartnoma imzolandi. O‘zbekistonning birinchi mintaqaviy aviakompaniyasi uchun samolyotlar xarid qilish bo‘yicha kelishuv Prezident Shavkat Mirziyoyevning Fransiyaga rasmiy tashrifi arafasida Parijda imzolandi. “Biz aviakompaniyamiz yaqin kelajakda ATR samolyotlarida parvoz qilishni boshlashidan juda mamnunmiz. Yangi arzon aviakompaniya sifatida biz qaysi samolyot biz uchun eng yaxshi yechim bo'lishini chuqur tahlil qildik. ATR 72-600 dunyodagi eng mashhur qisqa masofaga uchuvchi samolyotlardan biridir. A320 ga qaraganda to‘rt barobar kam yoqilg‘i sarflaydigan tejamkor va arzon samolyot yo‘lovchilarga hamyonbop narxlarda ishonchlilik va qulaylikni taklif qilish imkonini beradi”, — dedi “Uzbekistan Airports” boshqaruvi raisi Ra’no Jo‘rayeva. Parijdagi uchrashuv doirasida Silk Avia va ATR global texnik xizmat ko‘rsatish shartnomasini (GMA) ham imzoladi. Besh yillik, soatbay to'lov turini ko'zda tutuvchi shartnoma texnik xizmat ko'rsatish xarajatlarini sezilarli darajada kamaytiradi va ish unumdorligini oshiradi. Shartnoma texnik xizmat ko'rsatish va kapital ta'mirlash,  agregatlarni almashtirish, ehtiyot qismlar zaxirasi va texnik xizmat ko'rsatishni o'z ichiga oladi. “O‘zbekistondek jadal rivojlanayotgan mamlakatda Silk Avia ichki turizmni va iqtisodiyotni rivojlantirishda muhim rol o‘ynaydi. Tadqiqotlar shuni ko'rsatdiki, mintaqaviy reyslarning 10 foizga oshishi mahalliy yalpi ichki mahsulotning 5 foizga o'sishiga olib kelishi mumkin va ATR ishonchli va arzon mintaqaviy samolyotlar bilan ta'minlash orqali ushbu jarayonga o'z hissasini qo'shmoqda. Biz Silk Avia kompaniyasini Markaziy Osiyoda ATR uchun yangi bozorni ochgan yangi hamkorimiz sifatida qutlaymiz”, — dedi ATR bosh direktori Natali Tarno Laud. Shartnoma doirasida Silk Avia yangi avlod PW127XT dvigatellari bilan jihozlangan samolyotlarni xarid qilmoqda, bu esa mavjud dvigatellarga nisbatan texnik xizmat ko‘rsatish xarajatlarini 20 foizga, yoqilg‘i sarfini esa 3 foizga qisqartirishni ta’minlaydi. Silk Avia samolyotlari Markaziy Osiyoda uchadigan birinchi yangi ATRlar bo‘ladi. 23 November 2022",
+      "url": "https://www.silk-avia.com/uz/news/silk-avia-and-atr-have-signed-an-agreement-to-purchase-five-atr-72-600-aircraft-silk-avia-and-franco/",
+      "lang": ""
+    },
+    {
+      "text": "Parolni unutdingizmi?",
+      "url": "https://www.silk-avia.com/uz/auth/forgot.php",
+      "lang": ""
+    },
+    {
+      "text": "Roʻyxatdan oʻtish",
+      "url": "https://www.silk-avia.com/uz/auth/reg.php",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501 22 12",
+      "url": "tel:+998 55 501 22 12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "https://www.silk-avia.com/uz/news/silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/silkavia_live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Chiptalar izlash",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Tenderlar",
+      "url": "https://drive.google.com/drive/folders/1la9oYFOXjQ91J6_fS30c3tnvz36T0H-y",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Ofislar",
+      "url": "https://www.silk-avia.com/uz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Ma'lumot",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Bog'lanish",
+      "url": "https://www.silk-avia.com/uz/contacts/#feedback",
+      "lang": ""
+    },
+    {
+      "text": "Life-Style.uz",
+      "url": "https://life-style.uz/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/silk-news.txt"
+}

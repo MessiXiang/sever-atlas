@@ -1,0 +1,1929 @@
+{
+  "id": "ap-tm-06",
+  "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:45.659041+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+  "bytes": 217348,
+  "sha256": "239da068045e63238e53426fe17d0faf3aee0950806263d0983cc52083a7a888",
+  "file": "sources/neighbours-2026-11-06/ap-tm-06.html",
+  "title": "Türkmenbaşy International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=T%C3%BCrkmenba%C5%9Fy+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=T%C3%BCrkmenba%C5%9Fy+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=T%C3%BCrkmenba%C5%9Fy+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=T%C3%BCrkmenba%C5%9Fy+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Development since the 2000s",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Development_since_the_2000s",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Passenger terminal",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Passenger_terminal",
+      "lang": ""
+    },
+    {
+      "text": "2.2 VIP terminal",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#VIP_terminal",
+      "lang": ""
+    },
+    {
+      "text": "2.3 Cargo terminal",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Cargo_terminal",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Cargo",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Cargo",
+      "lang": ""
+    },
+    {
+      "text": "4 Access",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#Access",
+      "lang": ""
+    },
+    {
+      "text": "5 See also",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "6 References",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "7 External links",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_Internacional_de_Turkmenbashi",
+      "lang": "ast"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Turkmenbashi_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_de_Turkmenbashi",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%AA%D8%B1%DA%A9%D9%85%D9%86%E2%80%8C%D8%A8%D8%A7%D8%B4%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_T%C3%BCrkmenba%C5%9Fy",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/T%C3%BCrkm%C3%A9nbasi_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Turkmenbashi",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Turkmenba%C5%9Fy",
+      "lang": "it"
+    },
+    {
+      "text": "Олык марий",
+      "url": "https://mhr.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B1%D0%B0%D1%88%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "mhr"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Turkmenbashi",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Turkmenbaszy",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Turkmenbashi",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B1%D0%B0%D1%88%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Srpskohrvatski / српскохрватски",
+      "url": "https://sh.wikipedia.org/wiki/Me%C4%91unarodni_aerodrom_T%C3%BCrkmenba%C5%9Fy",
+      "lang": "sh"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B1%D0%B0%D1%88%D0%B8",
+      "lang": "sr"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B0%D0%BD%D0%B1%D0%BE%D1%88%D3%A3",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9F%C4%B1_Uluslararas%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B1%D0%B0%D1%88%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Turkmanboshi_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q856152#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/T%C3%BCrkmenba%C5%9Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&oldid=1366474610",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=T%C3%BCrkmenba%C5%9Fy_International_Airport&id=1366474610&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FT%25C3%25BCrkmenba%25C5%259Fy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Turkmenbashi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q856152",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "40°03′N 53°00′E ﻿ / ﻿ 40.050°N 53.000°E ﻿ / 40.050; 53.000",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=T%C3%BCrkmenba%C5%9Fy_International_Airport&params=40_03_N_53_00_E_region:TM_type:airport_source:kolossus-ruwiki",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi International Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=Turkmenbashi_International_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Türkmenbaşy_şäheriň_halkara_aeroporty_03.JPG",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Awaza",
+      "url": "https://en.wikipedia.org/wiki/Awaza",
+      "lang": ""
+    },
+    {
+      "text": "Garabogaz",
+      "url": "https://en.wikipedia.org/wiki/Garabogaz",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Balkan Region",
+      "url": "https://en.wikipedia.org/wiki/Balkan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "40°03′48″N 053°00′26″E ﻿ / ﻿ 40.06333°N 53.00722°E ﻿ / 40.06333; 53.00722",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=T%C3%BCrkmenba%C5%9Fy_International_Airport&params=40_03_48_N_053_00_26_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "turkmenbashiairport.gov.tm",
+      "url": "https://turkmenbashiairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Turkmenistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "Concrete",
+      "url": "https://en.wikipedia.org/wiki/Concrete",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-AIP-3",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Caspian Sea",
+      "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Balkan Region",
+      "url": "https://en.wikipedia.org/wiki/Balkan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "Awaza",
+      "url": "https://en.wikipedia.org/wiki/Awaza",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "interceptor aircraft",
+      "url": "https://en.wikipedia.org/wiki/Interceptor_aircraft",
+      "lang": ""
+    },
+    {
+      "text": "Soviet Air Force",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "Sukhoi Su-9",
+      "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-phaseout81-9",
+      "lang": ""
+    },
+    {
+      "text": "MiG-23M",
+      "url": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-phaseout81-9",
+      "lang": ""
+    },
+    {
+      "text": "Turkmen Air Force",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Air_Force",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenhowayollary",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Polimeks",
+      "url": "https://en.wikipedia.org/wiki/Polimeks",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "motorway",
+      "url": "https://en.wikipedia.org/wiki/Motorway",
+      "lang": ""
+    },
+    {
+      "text": "Krasnovodsk Peninsula",
+      "url": "https://en.wikipedia.org/wiki/Krasnovodsk_Peninsula",
+      "lang": ""
+    },
+    {
+      "text": "Awaza",
+      "url": "https://en.wikipedia.org/wiki/Awaza",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-pda.turkmeninform.com-13",
+      "lang": ""
+    },
+    {
+      "text": "overpasses",
+      "url": "https://en.wikipedia.org/wiki/Overpass",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-pda.turkmeninform.com-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Dashoguz",
+      "url": "https://en.wikipedia.org/wiki/Dashoguz",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "UN",
+      "url": "https://en.wikipedia.org/wiki/UN",
+      "lang": ""
+    },
+    {
+      "text": "Landlocked Developing Countries",
+      "url": "https://en.wikipedia.org/wiki/Landlocked_developing_countries",
+      "lang": ""
+    },
+    {
+      "text": "Awaza",
+      "url": "https://en.wikipedia.org/wiki/Awaza",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Gurbanguly Berdimuhamedov",
+      "url": "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedov",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-B2_BKN_KRW_NS25-27",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Saparmyrat_Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fly Pro",
+      "url": "https://en.wikipedia.org/wiki/Fly_Pro",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Zaragoza",
+      "url": "https://en.wikipedia.org/wiki/Zaragoza_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Avaza",
+      "url": "https://en.wikipedia.org/wiki/Avaza",
+      "lang": ""
+    },
+    {
+      "text": "parking",
+      "url": "https://en.wikipedia.org/wiki/Parking",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy District",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_District",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy International Seaport",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Seaport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"KRW | Turkmenbashi Airport (TKM)\"",
+      "url": "https://airportcodes.io/en/airport/turkmenbashi-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Общая информация\"",
+      "url": "https://web.archive.org/web/20210121213024/https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://caa.gov.tm/ru/item/159",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-AIP_3-0",
+      "lang": ""
+    },
+    {
+      "text": "AIP Turkmenistan",
+      "url": "https://web.archive.org/web/20130331010024/http://aviadocs.net/AIP/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenbaşy halkara howa menzilini\"",
+      "url": "https://turkmenbashiairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Krasnovodsk Airport\"",
+      "url": "https://aviation-safety.net/database/airport/airport.php?id=KRW0",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Президент Туркменистана открыл в Керки Международный аэропорт | Политика\"",
+      "url": "https://turkmenportal.com/blog/37598/prezident-turkmenistana-otkryl-v-kerki-mezhdunarodnyi-aeroport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"«Туркменские авиалинии» увеличили количество рейсов по маршруту Ашхабад-Туркменбаши-Ашхабад | Туризм\"",
+      "url": "https://turkmenportal.com/blog/64785/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"__Title__\"",
+      "url": "https://turkmenistaninfo.gov.tm/news/1192",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-phaseout81_9-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-phaseout81_9-1",
+      "lang": ""
+    },
+    {
+      "text": "PHASEOUT OF FISHPOT IN APVO STRANYY AIRFIELDS USSR",
+      "url": "https://web.archive.org/web/20170123204647/https://www.cia.gov/library/readingroom/document/cia-rdp81t00380r000100980001-5",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"«Полимекс» возведет новый аэропорт в городе Туркменбаши | Интернет-газета Turkmenistan.Ru\"",
+      "url": "https://www.turkmenistan.ru/ru/node/19725",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "Аваза: вчера, сегодня, завтра",
+      "url": "https://turkmenistan.gov.tm/ru/post/15806/avaza:-vchera-segodnya-zavtra",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "Новый аэропорт города Туркменбаши принял первые международные рейсы",
+      "url": "https://www.turkmenistan.ru/ru/node/28050",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-pda.turkmeninform.com_13-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-pda.turkmeninform.com_13-1",
+      "lang": ""
+    },
+    {
+      "text": "\"В городе Туркменбаши строится еще одна дорога на Авазу | Общество | Информационный портал \"ТУРКМЕНинформ\" \"",
+      "url": "https://pda.turkmeninform.com/news/20100223/02280.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Archived copy\"",
+      "url": "https://web.archive.org/web/20110108021806/http://aviadocs.net/CAI/ao13-0911.pdf",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Белавиа\" начала регулярные полеты из Минска в Туркменбаши - Туризм | | Интерфакс Россия\"",
+      "url": "https://www.interfax-russia.ru/tourism/news/belavia-nachala-regulyarnye-polety-iz-minska-v-turkmenbashi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"«Белавиа» начала летать в Туркменистан по новому расписанию | Туризм\"",
+      "url": "https://www.turkmenportal.com/blog/55591/belavia-nachala-letat-v-turkmenistan-po-novomu-raspisaniyu",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"From 19.05.25, Turkmenistan Airlines OJSC temporarily suspends flights on the following routes: Ashgabat - Turkmenbashi - Ashgabat, Turkmenabat - Turkmenbashi - Turkmenabat, Mary - Turkmenbashi - Mary and Dashoguz - Turkmenbashi - Dashoguz. - News - Turkmenistan Airlines\"",
+      "url": "https://turkmenistanairlines.tm/en/news/show/s-19-maya-2025-goda-aktsionernoe-obschestd-turkmenbashi-ashhabad-turkmenabad-turkmenbashi-turkmenabad-mary-turkmenbashi-mary-i-dashoguz-turkmenbashi-dashoguz",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.tm/item/2091",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"Рабочая поездка Национального Лидера туркменского народа, Председателя Халк Маслахаты Туркменистана Героя-Аркадага в Балканский велаят\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/97227/rabochaya-poezdka-nacionalnogo-lidera-turkmenskogo-naroda-predsedatelya-halk-maslahaty-turkmenistana-geroya-arkadaga-v-balkanskij-velayat-3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Гурбангулы Бердымухамедов осмотрел аэропорт Туркменбаши | Политика\"",
+      "url": "https://turkmenportal.com/blog/93123/gurbanguly-berdymuhamedov-osmotrel-aeroport-turkmenbashi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Гурбангулы Бердымухамедов протестировал ВПП аэропорта Туркменбаши на спорткаре | Политика\"",
+      "url": "https://turkmenportal.com/blog/93124/gurbanguly-berdymuhamedov-protestiroval-vpp-aeroporta-turkmenbashi-na-sportkare",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\"Рабочая поездка Президента в Балканский велаят\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/97315/rabochaya-poezdka-prezidenta-v-balkanskij-velayat",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi International Airport welcomed guests of the UN Conference on Landlocked Developing Countries",
+      "url": "https://caa.gov.tm/item/2465",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"«Белавиа» прекращает летать в этот город рядом с морем\"",
+      "url": "https://blizko.by/notes/belavia-prekraschaet-letat-v-etot-gorod-ryadom-s-morem_vg",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Новый аэропорт города Туркменбаши принял первые международные рейсы\"",
+      "url": "https://web.archive.org/web/20180825002409/http://www.turkmenistan.ru/?page_id=3&lang_id=ru&elem_id=16718&type=event&sort=date_desc",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.turkmenistan.ru/?page_id=3&lang_id=ru&elem_id=16718&type=event&sort=date_desc",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://airport.by/upload/files/d3726221a364fa8469287a4072be9b24.pdf",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-B2_BKN_KRW_NS25_27-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia Turkmenistan Service Changes From late-May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250526-b2ns25bkn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Turkmenistan\" Airlines will resume flights between Ashgabat and Turkmenbashy in August | Tourism\"",
+      "url": "https://turkmenportal.com/en/blog/93291/aviakompaniya-turkmenistan-vozobnovit-polety-mezhdu-ashhabadom-i-turkmenbashi-v-avguste",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight History of EZ-F429 (Turkmenistan Airlines)-11 May 2023\"",
+      "url": "https://flightaware.com/live/flight/EZF429/history",
+      "lang": ""
+    },
+    {
+      "text": "FlightAware",
+      "url": "https://en.wikipedia.org/wiki/FlightAware",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"Flight History of EZ-F430\"",
+      "url": "https://www.flightradar24.com/data/aircraft/ez-f430",
+      "lang": ""
+    },
+    {
+      "text": "Flightradar24",
+      "url": "https://en.wikipedia.org/wiki/Flightradar24",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Live Flight Tracker - Real-Time Flight Tracker Map\"",
+      "url": "https://www.flightradar24.com/data/aircraft/er-bar",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"Уважаемые пассажиры!\"",
+      "url": "https://awtoulag.gov.tm/ru/item/81",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "Official web-site",
+      "url": "https://turkmenbashiairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy Airport in Polimeks",
+      "url": "http://www.polimeks.com/eng/Altyapi_UluslararasiHavaalani.aspx",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20130629001550/http://www.polimeks.com/eng/Altyapi_UluslararasiHavaalani.aspx",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for ASB",
+      "url": "https://web.archive.org/web/20121024075357/http://aviation-safety.net/database/airport/airport.php?id=ASB",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UTAA\"",
+      "url": "http://www.gcmap.com/airport/UTAA",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UTAA\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UTAA.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Monorail",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Monorail",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Trolleybuses_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses suspended nationwide",
+      "url": "https://en.wikipedia.org/wiki/List_of_trolleybus_systems#Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses",
+      "url": "https://en.wikipedia.org/wiki/List_of_trolleybus_systems",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Trolleybuses_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Türkmendemirýollary",
+      "url": "https://en.wikipedia.org/wiki/Türkmendemirýollary",
+      "lang": ""
+    },
+    {
+      "text": "Trans-Caspian railway",
+      "url": "https://en.wikipedia.org/wiki/Trans-Caspian_railway",
+      "lang": ""
+    },
+    {
+      "text": "Trans-Karakum Railway",
+      "url": "https://en.wikipedia.org/wiki/Trans-Karakum_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Lapis Lazuli corridor",
+      "url": "https://en.wikipedia.org/wiki/Lapis_Lazuli_corridor",
+      "lang": ""
+    },
+    {
+      "text": "International North–South Transport Corridor",
+      "url": "https://en.wikipedia.org/wiki/International_North–South_Transport_Corridor",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan-Afghanistan-Tajikistan line",
+      "url": "https://ru.wikipedia.org/wiki/Железная%20дорога%20Туркмения%20—%20Афганистан%20—%20Таджикистан",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Cable Car",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Cable_Car",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:BSicon_BUS.svg",
+      "lang": ""
+    },
+    {
+      "text": "International Passenger Bus Terminal of Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/International_Passenger_Bus_Terminal_of_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_railtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat railway station",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "Bereket railway station",
+      "url": "https://en.wikipedia.org/wiki/Bereket_railway_station_(Turkmenistan)",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi railway station",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:20_airtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dashoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_watertransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Türkmendeňizderýaýollary",
+      "url": "https://en.wikipedia.org/wiki/The_State_Service_of_Maritime_and_River_Transportation_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Derýaýollary",
+      "url": "https://en.wikipedia.org/wiki/Türkmenderýaýollary",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi International Seaport",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Seaport",
+      "lang": ""
+    },
+    {
+      "text": "Central Asia",
+      "url": "https://en.wikipedia.org/wiki/Central_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Uzbekistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Template:Kazakhstan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Template:Xinjiang_transit",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Tajikistan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Template:Kyrgyzstan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/Template:Iran_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Afghanistan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "40°03′N 53°00′E ﻿ / ﻿ 40.050°N 53.000°E ﻿ / 40.050; 53.000",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=T%C3%BCrkmenba%C5%9Fy_International_Airport&params=40_03_N_53_00_E_region:TM_type:airport_source:kolossus-ruwiki",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Türkmenbaşy_International_Airport&oldid=1366474610",
+      "url": "https://en.wikipedia.org/w/index.php?title=Türkmenbaşy_International_Airport&oldid=1366474610",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy, Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:T%C3%BCrkmenba%C5%9Fy,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Turkmen-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Turkmen-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: archived copy as title",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=T%C3%BCrkmenba%C5%9Fy_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tm-06.txt"
+}

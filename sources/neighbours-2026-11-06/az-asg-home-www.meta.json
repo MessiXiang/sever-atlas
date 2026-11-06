@@ -1,0 +1,13 @@
+{
+  "id": "az-asg-home-www",
+  "url": "https://www.asg-helicopters.az/",
+  "retrievedAt": "2026-11-06T10:02:31.657761+00:00",
+  "status": 200,
+  "finalUrl": "https://www.asg-helicopters.az/",
+  "bytes": 4679,
+  "sha256": "f173bcdad4074fd3db21dd76f53c74369ff9ef8bd32e97b6bf628cc3769a22f0",
+  "file": "sources/neighbours-2026-11-06/az-asg-home-www.html",
+  "title": "Wrong Page - NPM",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/az-asg-home-www.txt"
+}

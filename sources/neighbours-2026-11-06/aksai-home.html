@@ -1,0 +1,1044 @@
+<!doctype html>
+<html lang="en-US">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.2",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseenter","mouseout","mouseleave","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input","visibilitychange"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),this.T("domReady"),await this.F(),await this.j(),await this.I(),this.T("windowLoad"),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise((t=>setTimeout(t,500-Date.now()+this.lastTouchEnd))),this.H(),this.T("all"),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))}),{isRocket:!0})}o(){window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0}),{isRocket:!0}),window.addEventListener("pagehide",(()=>{this.onFirstUserAction=null}),{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",(function i(o){Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0})),event.preventDefault(),window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}))}),{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),this.savedUserEvents.length>0&&(t.stopPropagation(),t.stopImmediatePropagation()),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach((t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})))}U(){this.userEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0}))),this.savedUserEvents.forEach((t=>{t.target.dispatchEvent(new window[t.constructor.name](t.type,t))}))}m(){this.eventsMutationObserver=new MutationObserver((t=>{const e="return false";for(const i of t){if("attributes"===i.type){const t=i.target.getAttribute(i.attributeName);t&&t!==e&&(i.target.setAttribute("data-rocket-"+i.attributeName,t),i.target.setAttribute(i.attributeName,e))}"childList"===i.type&&i.addedNodes.forEach((t=>{if(t.nodeType===Node.ELEMENT_NODE)for(const i of t.attributes)this.attributeEvents.includes(i.name)&&i.value&&""!==i.value&&(t.setAttribute("data-rocket-"+i.name,i.value),t.setAttribute(i.name,e))}))}})),this.eventsMutationObserver.observe(document,{subtree:!0,childList:!0,attributeFilter:this.attributeEvents})}H(){this.eventsMutationObserver.disconnect(),this.attributeEvents.forEach((t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach((e=>{e.setAttribute(t,e.getAttribute("data-rocket-"+t)),e.removeAttribute("data-rocket-"+t)}))}))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")?t.originalAddEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o})},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}T(t){"all"===t&&(EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener),this.savedEventListeners=this.savedEventListeners.filter((e=>{let i=e.type,o=e.target||window;return"domReady"===t&&"DOMContentLoaded"!==i&&"readystatechange"!==i||("windowLoad"===t&&"load"!==i&&"readystatechange"!==i&&"pageshow"!==i||(this.B(i,o)&&(i="rocket-"+i),e.remove?o.removeEventListener(i,e.func,e.options):o.addEventListener(i,e.func,e.options),!1))}))}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,(()=>{e[t].forEach((t=>t()))}),{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout((()=>i.bind(document)(o))):i.bind(document)(o)}return t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const a=document.createDocumentFragment();o.setStart(a,0),a.appendChild(o.createContextualFragment(e)),s.insertBefore(a,n)}}async R(){return new Promise((t=>{this.userActionTriggered?t():this.onFirstUserAction=t}))}async L(){return new Promise((t=>{document.addEventListener("DOMContentLoaded",(()=>{this.realDomReadyFired=!0,t()}),{isRocket:!0})}))}async I(){return this.realWindowLoadedFired?Promise.resolve():new Promise((t=>{window.addEventListener("load",t,{isRocket:!0})}))}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver((t=>{for(const e of t)e.addedNodes.forEach((t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise((e=>{const i=()=>{const i=this.pendingScripts.findIndex((e=>e.script===t));i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)}))})}))})),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async j(){await this.J(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.j()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.N(t,"preconnect")}async $(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",(()=>{i.setAttribute("data-rocket-status","failed-network"),e()}),{isRocket:!0}),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.$(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())}),{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.$(e),this.C(t)):Promise.resolve()}O(){this.N([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}N(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach((t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}})),document.head.appendChild(o)}W(){this.trash.forEach((t=>t.remove()))}async F(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async G(){Date.now()-this.lastBreath>45&&(await this.J(),this.lastBreath=Date.now())}async J(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<link data-minify="1" rel="stylesheet" type="text/css" href="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/fonts/style.css?ver=1793611009">
+
+    
+    
+    
+    
+    <link data-minify="1" rel="preload" href="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/critical-lang.css?ver=1793611009" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link data-minify="1" rel="stylesheet" href="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/critical-lang.css?ver=1793611009"></noscript>
+
+<!-- Google Tag Manager -->
+           	<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+           	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+           	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+           	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+           	})(window,document,'script','dataLayer','GTM-N2SVJTN2');</script>
+           	<!-- End Google Tag Manager -->
+    
+
+
+<!-- Meta Pixel Code -->
+<script type="rocketlazyloadscript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;
+s=function(){b.head.appendChild(t)};
+var nav=f.performance&&performance.getEntriesByType?performance.getEntriesByType('navigation')[0]:null;
+nav&&nav.loadEventEnd>0?s():f.addEventListener('load',s,{once:!0,isRocket:!0})}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '775034145281636');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=775034145281636&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://ak-sai.com/ru/" hreflang="ru" />
+<link rel="alternate" href="https://ak-sai.com/" hreflang="en" />
+<link rel="alternate" href="https://ak-sai.com/" hreflang="x-default" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ak-Sai Travel | Kyrgyzstan &amp; Central Asia Tours</title><link rel="preload" data-rocket-preload as="image" href="https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1024x683.webp" imagesrcset="https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-scaled.jpg 2560w" imagesizes="(max-width: 768px) 680px, 100vw" fetchpriority="high"><link rel="stylesheet" href="https://ak-sai.com/wp-content/cache/fonts/1/google-fonts/css/2/4/0/a40f56d300c583124716582b8b209.css" data-wpr-hosted-gf-parameters="family=Google+Sans:wght@400;500;700&display=swap"/>
+	<meta name="description" content="Kyrgyzstan and Central Asia tours since 1998: cultural trips, trekking, and mountaineering, with our own camps and guides. Plan your trip." />
+	<link rel="canonical" href="https://ak-sai.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale:alternate" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ak-Sai Travel | Kyrgyzstan &amp; Central Asia Tours" />
+	<meta property="og:description" content="Kyrgyzstan and Central Asia tours since 1998: cultural trips, trekking, and mountaineering, with our own camps and guides. Plan your trip." />
+	<meta property="og:url" content="https://ak-sai.com/" />
+	<meta property="og:site_name" content="Ak-Sai Travel" />
+	<meta property="article:modified_time" content="2026-10-02T14:32:26+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ak-sai.com/","url":"https://ak-sai.com/","name":"Ak-Sai Travel | Kyrgyzstan & Central Asia Tours","isPartOf":{"@id":"https://ak-sai.com/#website"},"about":{"@id":"https://ak-sai.com/#organization"},"datePublished":"2025-06-25T19:24:55+00:00","dateModified":"2026-10-02T14:32:26+00:00","description":"Kyrgyzstan and Central Asia tours since 1998: cultural trips, trekking, and mountaineering, with our own camps and guides. Plan your trip.","breadcrumb":{"@id":"https://ak-sai.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ak-sai.com/"]}]},{"@type":"BreadcrumbList","@id":"https://ak-sai.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница"}]},{"@type":"WebSite","@id":"https://ak-sai.com/#website","url":"https://ak-sai.com/","name":"Ak-Sai Travel","description":"","publisher":{"@id":"https://ak-sai.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ak-sai.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://ak-sai.com/#organization","name":"Ak-Sai Travel","url":"https://ak-sai.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://ak-sai.com/#/schema/logo/image/","url":"https://ak-sai.com/wp-content/uploads/2025/07/logo.svg","contentUrl":"https://ak-sai.com/wp-content/uploads/2025/07/logo.svg","width":146,"height":32,"caption":"Ak-Sai Travel"},"image":{"@id":"https://ak-sai.com/#/schema/logo/image/"}}]}</script>
+	<meta name="google-site-verification" content="XZWytwWO33PNpFe1OXEmJ1CFYtv5rdoCfOaY51_XMyE" />
+	<meta name="yandex-verification" content="720cc7918ac3ef28" />
+	<!-- / Yoast SEO plugin. -->
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Ak-Sai Travel &raquo; Feed" href="https://ak-sai.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ak-Sai Travel &raquo; Comments Feed" href="https://ak-sai.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ak-sai.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fak-sai.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ak-sai.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fak-sai.com%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='aksai-mobile-menu-css' href='https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/mobile-menu.css?ver=1793611009' media='all' />
+
+<link data-minify="1" rel='stylesheet' id='aksai-style-css' href='https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/style.css?ver=1793611009' media='all' />
+<link data-minify="1" rel='stylesheet' id='aksai-style_main-css' href='https://ak-sai.com/wp-content/cache/background-css/1/ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/main.css?ver=1793611009&wpr_t=1793916275' media='all' />
+<link data-minify="1" rel='stylesheet' id='swiper-css-css' href='https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/swiper-bundle.min.css?ver=1793611009' media='all' />
+<link data-minify="1" rel='stylesheet' id='aksai-tour-search-css' href='https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/tour-search.css?ver=1793611009' media='all' />
+<link data-minify="1" rel='stylesheet' id='new-landing-css-css' href='https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/css/new-landing.css?ver=1793611009' media='all' />
+<style id="aksai-woocommerce-style-inline-css">
+@font-face {
+			font-family: "star";
+			src: url("https://ak-sai.com/wp-content/plugins/woocommerce/assets/fonts/star.eot");
+			src: url("https://ak-sai.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"),
+				url("https://ak-sai.com/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"),
+				url("https://ak-sai.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"),
+				url("https://ak-sai.com/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+			font-weight: normal;
+			font-style: normal;
+		}
+/*# sourceURL=aksai-woocommerce-style-inline-css */
+</style>
+<script id="jquery-core-js" src="https://ak-sai.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" data-rocket-defer defer></script>
+<script id="jquery-migrate-js" src="https://ak-sai.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" data-rocket-defer defer></script>
+<script id="3d-flip-book-client-locale-loader-js-extra">
+var FB3D_CLIENT_LOCALE = {"ajaxurl":"https://ak-sai.com/wp-admin/admin-ajax.php","dictionary":{"Table of contents":"Table of contents","Close":"Close","Bookmarks":"Bookmarks","Thumbnails":"Thumbnails","Search":"Search","Share":"Share","Facebook":"Facebook","Twitter":"Twitter","Email":"Email","Play":"Play","Previous page":"Previous page","Next page":"Next page","Zoom in":"Zoom in","Zoom out":"Zoom out","Fit view":"Fit view","Auto play":"Auto play","Full screen":"Full screen","More":"More","Smart pan":"Smart pan","Single page":"Single page","Sounds":"Sounds","Stats":"Stats","Print":"Print","Download":"Download","Goto first page":"Goto first page","Goto last page":"Goto last page"},"images":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/images/","jsData":{"urls":[],"posts":{"ids_mis":[],"ids":[]},"pages":[],"firstPages":[],"bookCtrlProps":[],"bookTemplates":[]},"key":"3d-flip-book","pdfJS":{"pdfJsLib":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/pdf.min.js?ver=4.3.136","pdfJsWorker":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/pdf.worker.js?ver=4.3.136","stablePdfJsLib":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/stable/pdf.min.js?ver=2.5.207","stablePdfJsWorker":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/stable/pdf.worker.js?ver=2.5.207","pdfJsCMapUrl":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/cmaps/"},"cacheurl":"https://ak-sai.com/wp-content/uploads/3d-flip-book/cache/","pluginsurl":"https://ak-sai.com/wp-content/plugins/","pluginurl":"https://ak-sai.com/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/","thumbnailSize":{"width":"150","height":"150"},"version":"1.16.22"};
+//# sourceURL=3d-flip-book-client-locale-loader-js-extra
+</script>
+<script type="rocketlazyloadscript" data-minify="1" async data-wp-strategy="async" id="3d-flip-book-client-locale-loader-js" data-rocket-src="https://ak-sai.com/wp-content/cache/min/1/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/js/client-locale-loader.js?ver=1793611010"></script>
+<script data-wp-strategy="defer" defer id="jquery-blockui-js" src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.1.4"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://ak-sai.com/cart/","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script type="rocketlazyloadscript" data-wp-strategy="defer" defer id="wc-add-to-cart-js" data-rocket-src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.1.4"></script>
+<script data-wp-strategy="defer" defer id="js-cookie-js" src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.1.4"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script type="rocketlazyloadscript" data-wp-strategy="defer" defer id="woocommerce-js" data-rocket-src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.1.4"></script>
+<script data-minify="1" id="aksai-mask-js" src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/jquery.mask.js?ver=1793611010" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://ak-sai.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://ak-sai.com/wp-json/wp/v2/pages/9873" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ak-sai.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<meta name="generator" content="WooCommerce 10.1.4" />
+<link rel='shortlink' href='https://ak-sai.com/' />
+<meta name="ti-site-data" content="eyJyIjoiMTowITc6MCEzMDowIiwibyI6Imh0dHBzOlwvXC9hay1zYWkuY29tP3RpLW9ubGluZS11c2Vycy1nb29nbGU9MSZhbXA7cD0lMkYmYW1wO193cG5vbmNlPTZjMmFmM2IxNjQifQ==" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://ak-sai.com/wp-content/uploads/2026/01/cropped-logo-icon-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://ak-sai.com/wp-content/uploads/2026/01/cropped-logo-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ak-sai.com/wp-content/uploads/2026/01/cropped-logo-icon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://ak-sai.com/wp-content/uploads/2026/01/cropped-logo-icon-300x300.png" />
+<style id="wp-custom-css">
+.home_reviews [class^="ti-"],
+.home_reviews [class*=" ti-"],
+.home_reviews [data-src*="trustindex"],
+.home_reviews [data-ti-widget-inited],
+.reviews_widget [class^="ti-"],
+.reviews_widget [class*=" ti-"],
+.reviews_widget [data-src*="trustindex"],
+.reviews_widget [data-ti-widget-inited] {
+    display: none !important;
+}
+
+</style>
+<link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel='stylesheet' id='trustindex-widget-css-fa52d13da4ca4f45e7d4f0171392e144-css' href='https://cdn.trustindex.io/assets/widget-presetted-css/v2/108-drop-shadow.css' media="print" onload="this.media='all'" />
+<noscript><link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel='stylesheet' id='trustindex-widget-css-fa52d13da4ca4f45e7d4f0171392e144-css' href='https://cdn.trustindex.io/assets/widget-presetted-css/v2/108-drop-shadow.css' media='all' />
+</noscript>
+<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">.calendar_block::after{--wpr-bg-5a678497-1ebe-4665-9b14-c3e805545a22: url('https://ak-sai.com/wp-content/themes/aksai/img/img19.png');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":".calendar_block","style":".calendar_block::after{--wpr-bg-5a678497-1ebe-4665-9b14-c3e805545a22: url('https:\/\/ak-sai.com\/wp-content\/themes\/aksai\/img\/img19.png');}","hash":"5a678497-1ebe-4665-9b14-c3e805545a22","url":"https:\/\/ak-sai.com\/wp-content\/themes\/aksai\/img\/img19.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.18.1.4" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop wpr_preload_links" /></head>
+
+<body class="home wp-singular page-template page-template-page-new-landing page-template-page-new-landing-php page page-id-9873 wp-custom-logo wp-theme-aksai theme-aksai woocommerce-no-js is-new-landing woocommerce-active">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2SVJTN2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="site">
+    	<div class="mm" id="mm" role="dialog" aria-modal="true" aria-label="Menu" hidden data-search="Find Your Trip" data-all="See all" data-ajax="https://ak-sai.com/wp-admin/admin-ajax.php" data-clear="Clear" data-lang="en">
+		<div class="mm-bar">
+			<button class="mm-back" type="button" aria-label="Back" hidden>
+				<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></svg>
+			</button>
+			<div class="mm-head">
+				<a class="mm-brand" href="https://ak-sai.com/">
+					<img src="https://ak-sai.com/wp-content/themes/aksai/img/logo-menu.svg" alt="Ak-Sai Travel" width="209" height="48">
+				</a>
+				<span class="mm-title" hidden></span>
+			</div>
+			<button class="mm-close" type="button" aria-label="Close menu">
+				<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+			</button>
+		</div>
+		<div class="mm-stage">
+			<nav class="mm-source" hidden><ul class="mm-tree"><li class="mm-node" data-icon="map"><a href="https://ak-sai.com/shop/">Tours</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/product-category/silk-road-tours/">The Great Silk Road</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/silk-road-tours/kyrgyzstan-uzbekistan/">Kyrgyzstan and Uzbekistan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/silk-road-tours/classical-kazakhstan/">Classical Kazakhstan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/silk-road-tours/uzbekistan-turkmenistan-kyrgyzstan/">Uzbekistan Turkmenistan and Kyrgyzstan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/silk-road-tours/uzbekistan-kazakhstan-kyrgyzstan/">Uzbekistan Kazakhstan and Kyrgyzstan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/silk-road-tours/turkmenistan-uzbekistan-kyrgyzstan-kazakhstan-and-tajikistan/">Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan, and Tajikistan</a></li></ul></li><li class="mm-node"><a href="https://ak-sai.com/kyrgyzstan-tours/">Cultural tours</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/">The Way of Nomad</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/the-land-of-manas/">The Land of Manas</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/">Secrets of Kyrgyzstan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/colors-of-kyrgyzstan/">Colors of Kyrgyzstan</a></li></ul></li><li class="mm-node"><a href="/">Best sellers</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/">The Way of Nomad</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/asian-patagonia/">Asian Patagonia</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/the-land-of-manas/">The Land of Manas</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/treasures-of-world-nomad-games/">Treasures of the World Nomad Games 2026</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/">Secrets of Kyrgyzstan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/alpinism/khan-tengri-guided/">Guided Group Expedition to Khan-Tengri Peak</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/pamir-adventure/">Pamir Adventure</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/alpinism/lenin-peak-guided/">Guided Group Expedition to Lenin Peak</a></li></ul></li><li class="mm-node"><a href="https://ak-sai.com/product-category/active-tours/">Active tours</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/">Helicopter Tour to Khan-Tengri Peak</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/active-tours/pamir-astro-tour/">Astro Tour in Pamir Mountains</a></li></ul></li></ul></li><li class="mm-node" data-icon="boot"><a href="https://ak-sai.com/product-category/trekking/">Trekking</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/asian-patagonia/">Asian Patagonia</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/pamir-adventure/">Pamir Adventure</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/">The Taste of Tien-Shan</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/">To The Heart of Tien-Shan</a></li></ul></li><li class="mm-node" data-icon="pickaxe"><a href="https://ak-sai.com/mountaineering/">Mountaineering</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/mountaineering/lenin-peak-expedition/">Lenin Peak Expedition (7134m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/khan-tengri-expedition/">Khan Tengri Peak Expedition (7010 m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/communism-korzhenevskaya-combined-expedition/">Communism (Ismoil Somoni) &#038; Korzhenevskaya (Ozodi) Peaks Expedition</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/pobeda-peak-expedition/">Pobeda Peak Expedition (7439 m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/lenin-khan-tengri-combined-expedition/">Lenin Peak &#038; Khan Tengri Expedition</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/razdelnaya-peak-expedition/">Razdelnaya Peak Expedition (6148 m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/marble-wall-expedition/">Marble Wall Peak Expedition (6400 m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/yukhin-peak-climb/">Yukhin Peak Climb (5130 m)</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/uchitel-yukhin-combined-climb/">Uchitel Peak &#038; Yukhin Peak Climb</a></li><li class="mm-node"><a href="https://ak-sai.com/mountaineering/mountaineering-training/">Mountaineering Training in Ala-Archa</a></li><li class="mm-node"><a href="https://en.amaclimb.com/climbers/">List of climbers</a></li></ul></li><li class="mm-node" data-icon="skier"><a href="https://ak-sai.com/ski-tours/">Ski tours</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/shop/ski-tours/karkyra-ski-tour/">Ski tour in Karkyra</a></li><li class="mm-node"><a href="https://ak-sai.com/shop/ski-tours/heliski/">Heliski in Kyrgyzstan</a></li></ul></li><li class="mm-node" data-icon="tent"><a href="https://ak-sai.com/camps/">Camps</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/">Tent camps</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/lenin-peak-camp-1/">Lenin Peak Camp 1</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/terskey-alatoo-camps/">Terskey Ala-Too</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/karavshin-camps/">Karavshin</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/engilchek-camps/">Engilchek</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/north-engilchek/">North Engilchek Base Camp</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/tent-camps/south-engilchek/">South Engilchek Base Camp</a></li></ul></li><li class="mm-node"><a href="https://ak-sai.com/camps/mountain-huts/">Mountain huts</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/camps/mountain-huts/light-house-hut/">“Light House” Mountain Hut</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/mountain-huts/ratsek-hut/">Ratsek Hut</a></li></ul></li><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/">Yurt camps</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/oimo-tash-yurt-camp/">Ak-Sai Travel Oimo-Tash Yurt Camp</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/karkyra-yurt-camp/">Ak-Sai Travel Karkyra Yurt Camp</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/son-kul-yurt-camp/">Ak-Sai Travel Son-Kul Yurt Camp</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/tash-rabat-yurt-camp/">As a Nomad Tash Rabat Yurt Camp</a></li><li class="mm-node"><a href="https://ak-sai.com/camps/yurt-camps/achyk-tash-base-camp/">Ak-Sai Travel Achyk-Tash Base Camp</a></li></ul></li></ul></li><li class="mm-node" data-icon="dots"><a href="https://ak-sai.com/">Extras</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/about-us/">About Company</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/about-us/">About us</a></li><li class="mm-node"><a href="https://ak-sai.com/contacts/">Contacts</a></li><li class="mm-node"><a href="https://ak-sai.com/travel-agents/">Travel Agents</a></li><li class="mm-node"><a href="https://ak-sai.com/projects/">Our projects</a></li><li class="mm-node"><a href="https://ak-sai.com/blog/">Blog</a></li><li class="mm-node"><a href="https://ak-sai.com/faq/">FAQ</a></li><li class="mm-node"><a href="https://virtualtour.kg/aksai">3D Tours</a></li><li class="mm-node"><a href="https://en.amaclimb.com/climbers/">List of climbers</a></li></ul></li><li class="mm-node"><a href="https://ak-sai.com/">Options</a><ul class="mm-tree"><li class="mm-node"><a href="https://ak-sai.com/car-rental/">Car rent</a></li><li class="mm-node"><a href="https://ak-sai.com/avia/">Ak-Sai Travel Air Ticket Office</a></li><li class="mm-node"><a href="https://ak-sai.com/visa/">Visas and Entry Rules for Kyrgyzstan</a></li></ul></li></ul></li></ul></nav>
+		</div>
+		<div class="mm-dock">
+						<div class="mm-plan mm-drop">
+				<button class="mm-cta mm-drop__btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="mm-expert">
+					Plan Your Trip					<svg class="mm-caret" viewBox="0 0 14 14" aria-hidden="true"><path d="M3.0625 5.25 7 9.1875 10.9375 5.25"/></svg>
+				</button>
+				<ul class="mm-expert mm-drop__list" id="mm-expert" role="menu">
+										<li role="none"><a class="mm-expert__link mm-expert__link--wa" role="menuitem" href="https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you..." target="_blank" rel="noopener">Chat on WhatsApp</a></li>
+															<li role="none"><a class="mm-expert__link mm-expert__link--mail" role="menuitem" href="mailto:info@ak-sai.com?cc=leads%40ak-sai.com&#038;subject=Request%20from%20Ak-Sai%20Travel&#038;body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...">Email a Trip Specialist</a></li>
+									</ul>
+			</div>
+									<a class="mm-cart" href="https://ak-sai.com/cart/" aria-label="My Trip">
+				<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="21" r="1"/><circle cx="19" cy="21" r="1"/><path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"/></svg>
+				<span class="mm-badge" hidden>0</span>
+			</a>
+									<div class="mm-langs mm-drop">
+				<button class="mm-lang mm-drop__btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="mm-langs-list" aria-label="Language: English">
+					Eng					<svg class="mm-caret" viewBox="0 0 14 14" aria-hidden="true"><path d="M3.0625 5.25 7 9.1875 10.9375 5.25"/></svg>
+				</button>
+				<ul class="mm-langs__list mm-drop__list" id="mm-langs-list" role="menu">
+										<li role="none">
+												<span class="mm-langs__item is-current" role="menuitem" aria-current="true" lang="en" title="English">Eng</span>
+											</li>
+										<li role="none">
+												<a class="mm-langs__item" role="menuitem" href="https://ak-sai.com/ru/" lang="ru" hreflang="ru" title="Русский">Ру</a>
+											</li>
+									</ul>
+			</div>
+					</div>
+	</div>
+	
+	<header>
+        <div class="container">
+            <div class="header_block">
+                <div class="logo_header">
+                    <a href="https://ak-sai.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="146" height="32" src="https://ak-sai.com/wp-content/uploads/2025/07/logo.svg" class="custom-logo" alt="Ak-Sai Travel" decoding="async" /></a>                    <a class="logo_mobile" href="https://ak-sai.com/" rel="home">
+                        <img src="https://ak-sai.com/wp-content/themes/aksai/img/logo-menu.svg" alt="Ak-Sai Travel" width="370" height="85" decoding="async">
+                    </a>
+                </div>
+                <div class="header_menu">
+                    <ul><li id="menu-item-620" class="menu-item menu-item-type-post_type_archive menu-item-object-product current-menu-ancestor current-menu-parent menu-item-has-children menu-item-620"><a href="https://ak-sai.com/shop/">Tours</a>
+<ul class="sub-menu">
+	<li id="menu-item-2648" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2648"><a href="https://ak-sai.com/product-category/silk-road-tours/">The Great Silk Road</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2647" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2647"><a href="https://ak-sai.com/shop/silk-road-tours/kyrgyzstan-uzbekistan/">Kyrgyzstan and Uzbekistan</a></li>
+		<li id="menu-item-2644" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2644"><a href="https://ak-sai.com/shop/silk-road-tours/classical-kazakhstan/">Classical Kazakhstan</a></li>
+		<li id="menu-item-2645" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2645"><a href="https://ak-sai.com/shop/silk-road-tours/uzbekistan-turkmenistan-kyrgyzstan/">Uzbekistan Turkmenistan and Kyrgyzstan</a></li>
+		<li id="menu-item-2646" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2646"><a href="https://ak-sai.com/shop/silk-road-tours/uzbekistan-kazakhstan-kyrgyzstan/">Uzbekistan Kazakhstan and Kyrgyzstan</a></li>
+		<li id="menu-item-7468" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-7468"><a href="https://ak-sai.com/shop/silk-road-tours/turkmenistan-uzbekistan-kyrgyzstan-kazakhstan-and-tajikistan/">Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan, and Tajikistan</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1575" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-1575"><a href="https://ak-sai.com/kyrgyzstan-tours/">Cultural tours</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1579" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1579"><a href="https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/">The Way of Nomad</a></li>
+		<li id="menu-item-1577" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1577"><a href="https://ak-sai.com/shop/cultural-tours/the-land-of-manas/">The Land of Manas</a></li>
+		<li id="menu-item-1578" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1578"><a href="https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/">Secrets of Kyrgyzstan</a></li>
+		<li id="menu-item-1576" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1576"><a href="https://ak-sai.com/shop/cultural-tours/colors-of-kyrgyzstan/">Colors of Kyrgyzstan</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2566" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-has-children menu-item-2566"><a href="/" aria-current="page">Best sellers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8396" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8396"><a href="https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/">The Way of Nomad</a></li>
+		<li id="menu-item-8397" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8397"><a href="https://ak-sai.com/shop/trekking/asian-patagonia/">Asian Patagonia</a></li>
+		<li id="menu-item-8402" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8402"><a href="https://ak-sai.com/shop/cultural-tours/the-land-of-manas/">The Land of Manas</a></li>
+		<li id="menu-item-8403" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8403"><a href="https://ak-sai.com/shop/cultural-tours/treasures-of-world-nomad-games/">Treasures of the World Nomad Games 2026</a></li>
+		<li id="menu-item-8401" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8401"><a href="https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/">Secrets of Kyrgyzstan</a></li>
+		<li id="menu-item-8398" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8398"><a href="https://ak-sai.com/shop/alpinism/khan-tengri-guided/">Guided Group Expedition to Khan-Tengri Peak</a></li>
+		<li id="menu-item-8400" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8400"><a href="https://ak-sai.com/shop/trekking/pamir-adventure/">Pamir Adventure</a></li>
+		<li id="menu-item-8399" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-8399"><a href="https://ak-sai.com/shop/alpinism/lenin-peak-guided/">Guided Group Expedition to Lenin Peak</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2666" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2666"><a href="https://ak-sai.com/product-category/active-tours/">Active tours</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2667" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2667"><a href="https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/">Helicopter Tour to Khan-Tengri Peak</a></li>
+		<li id="menu-item-10779" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-10779"><a href="https://ak-sai.com/shop/active-tours/pamir-astro-tour/">Astro Tour in Pamir Mountains</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2331" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2331"><a href="https://ak-sai.com/product-category/trekking/">Trekking</a>
+<ul class="sub-menu">
+	<li id="menu-item-2091" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2091"><a href="https://ak-sai.com/shop/trekking/asian-patagonia/">Asian Patagonia</a></li>
+	<li id="menu-item-2092" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2092"><a href="https://ak-sai.com/shop/trekking/pamir-adventure/">Pamir Adventure</a></li>
+	<li id="menu-item-2093" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2093"><a href="https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/">The Taste of Tien-Shan</a></li>
+	<li id="menu-item-2094" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2094"><a href="https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/">To The Heart of Tien-Shan</a></li>
+</ul>
+</li>
+<li id="menu-item-11529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11529"><a href="https://ak-sai.com/mountaineering/">Mountaineering</a>
+<ul class="sub-menu">
+	<li id="menu-item-11506" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11506"><a href="https://ak-sai.com/mountaineering/lenin-peak-expedition/">Lenin Peak Expedition (7134m)</a></li>
+	<li id="menu-item-11504" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11504"><a href="https://ak-sai.com/mountaineering/khan-tengri-expedition/">Khan Tengri Peak Expedition (7010 m)</a></li>
+	<li id="menu-item-11503" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11503"><a href="https://ak-sai.com/mountaineering/communism-korzhenevskaya-combined-expedition/">Communism (Ismoil Somoni) &#038; Korzhenevskaya (Ozodi) Peaks Expedition</a></li>
+	<li id="menu-item-11509" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11509"><a href="https://ak-sai.com/mountaineering/pobeda-peak-expedition/">Pobeda Peak Expedition (7439 m)</a></li>
+	<li id="menu-item-11505" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11505"><a href="https://ak-sai.com/mountaineering/lenin-khan-tengri-combined-expedition/">Lenin Peak &#038; Khan Tengri Expedition</a></li>
+	<li id="menu-item-11510" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11510"><a href="https://ak-sai.com/mountaineering/razdelnaya-peak-expedition/">Razdelnaya Peak Expedition (6148 m)</a></li>
+	<li id="menu-item-11507" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11507"><a href="https://ak-sai.com/mountaineering/marble-wall-expedition/">Marble Wall Peak Expedition (6400 m)</a></li>
+	<li id="menu-item-11512" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11512"><a href="https://ak-sai.com/mountaineering/yukhin-peak-climb/">Yukhin Peak Climb (5130 m)</a></li>
+	<li id="menu-item-11511" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11511"><a href="https://ak-sai.com/mountaineering/uchitel-yukhin-combined-climb/">Uchitel Peak &#038; Yukhin Peak Climb</a></li>
+	<li id="menu-item-11508" class="menu-item menu-item-type-post_type menu-item-object-mountaineering menu-item-11508"><a href="https://ak-sai.com/mountaineering/mountaineering-training/">Mountaineering Training in Ala-Archa</a></li>
+	<li id="menu-item-4980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4980"><a href="https://en.amaclimb.com/climbers/">List of climbers</a></li>
+</ul>
+</li>
+<li id="menu-item-1582" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-1582"><a href="https://ak-sai.com/ski-tours/">Ski tours</a>
+<ul class="sub-menu">
+	<li id="menu-item-2098" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2098"><a href="https://ak-sai.com/shop/ski-tours/karkyra-ski-tour/">Ski tour in Karkyra</a></li>
+	<li id="menu-item-2099" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2099"><a href="https://ak-sai.com/shop/ski-tours/heliski/">Heliski in Kyrgyzstan</a></li>
+</ul>
+</li>
+<li id="menu-item-631" class="menu-item menu-item-type-post_type_archive menu-item-object-camps menu-item-has-children menu-item-631"><a href="https://ak-sai.com/camps/">Camps</a>
+<ul class="sub-menu">
+	<li id="menu-item-3283" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-has-children menu-item-3283"><a href="https://ak-sai.com/camps/tent-camps/">Tent camps</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8449" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-8449"><a href="https://ak-sai.com/camps/tent-camps/lenin-peak-camp-1/">Lenin Peak Camp 1</a></li>
+		<li id="menu-item-1584" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1584"><a href="https://ak-sai.com/camps/tent-camps/terskey-alatoo-camps/">Terskey Ala-Too</a></li>
+		<li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1585"><a href="https://ak-sai.com/camps/tent-camps/karavshin-camps/">Karavshin</a></li>
+		<li id="menu-item-1586" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1586"><a href="https://ak-sai.com/camps/tent-camps/engilchek-camps/">Engilchek</a></li>
+		<li id="menu-item-2088" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-2088"><a href="https://ak-sai.com/camps/tent-camps/north-engilchek/">North Engilchek Base Camp</a></li>
+		<li id="menu-item-2089" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-2089"><a href="https://ak-sai.com/camps/tent-camps/south-engilchek/">South Engilchek Base Camp</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-has-children menu-item-1587"><a href="https://ak-sai.com/camps/mountain-huts/">Mountain huts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1588"><a href="https://ak-sai.com/camps/mountain-huts/light-house-hut/">“Light House” Mountain Hut</a></li>
+		<li id="menu-item-1589" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1589"><a href="https://ak-sai.com/camps/mountain-huts/ratsek-hut/">Ratsek Hut</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-has-children menu-item-1590"><a href="https://ak-sai.com/camps/yurt-camps/">Yurt camps</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8047" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-8047"><a href="https://ak-sai.com/camps/yurt-camps/oimo-tash-yurt-camp/">Ak-Sai Travel Oimo-Tash Yurt Camp</a></li>
+		<li id="menu-item-1594" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1594"><a href="https://ak-sai.com/camps/yurt-camps/karkyra-yurt-camp/">Ak-Sai Travel Karkyra Yurt Camp</a></li>
+		<li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1592"><a href="https://ak-sai.com/camps/yurt-camps/son-kul-yurt-camp/">Ak-Sai Travel Son-Kul Yurt Camp</a></li>
+		<li id="menu-item-1593" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1593"><a href="https://ak-sai.com/camps/yurt-camps/tash-rabat-yurt-camp/">As a Nomad Tash Rabat Yurt Camp</a></li>
+		<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-camps menu-item-1591"><a href="https://ak-sai.com/camps/yurt-camps/achyk-tash-base-camp/">Ak-Sai Travel Achyk-Tash Base Camp</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5786" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-5786"><a href="https://ak-sai.com/" aria-current="page">Extras</a>
+<ul class="sub-menu">
+	<li id="menu-item-3486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3486"><a href="https://ak-sai.com/about-us/">About Company</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2164"><a href="https://ak-sai.com/about-us/">About us</a></li>
+		<li id="menu-item-2101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2101"><a href="https://ak-sai.com/contacts/">Contacts</a></li>
+		<li id="menu-item-11867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11867"><a href="https://ak-sai.com/travel-agents/">Travel Agents</a></li>
+		<li id="menu-item-2102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2102"><a href="https://ak-sai.com/projects/">Our projects</a></li>
+		<li id="menu-item-2549" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-2549"><a href="https://ak-sai.com/blog/">Blog</a></li>
+		<li id="menu-item-2548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2548"><a href="https://ak-sai.com/faq/">FAQ</a></li>
+		<li id="menu-item-4826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4826"><a href="https://virtualtour.kg/aksai">3D Tours</a></li>
+		<li id="menu-item-4979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4979"><a href="https://en.amaclimb.com/climbers/">List of climbers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-632" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-632"><a href="https://ak-sai.com/" aria-current="page">Options</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2358" class="menu-item menu-item-type-post_type_archive menu-item-object-automobile menu-item-2358"><a href="https://ak-sai.com/car-rental/">Car rent</a></li>
+		<li id="menu-item-2330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2330"><a href="https://ak-sai.com/avia/">Ak-Sai Travel Air Ticket Office</a></li>
+		<li id="menu-item-2547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2547"><a href="https://ak-sai.com/visa/">Visas and Entry Rules for Kyrgyzstan</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>                </div>
+                <div class="right">
+                    <form class="search_form" id="ajax_search_form">
+                      <div class="search_header"></div>
+
+
+                      <input type="text" id="ajax_search_input" placeholder="Find your tour" autocomplete="off" data-searching-text="Searching...">
+
+                      <button type="submit" style="display: none;"></button>
+                      <div id="search_results" style="display: none;"></div>
+                    </form>
+
+                                            <div class="lang">
+                            <select class="select" onchange="location = this.value;">
+                                <option value="https://ak-sai.com/"  selected='selected'>Eng</option><option value="https://ak-sai.com/ru/" >Ру</option>                            </select>
+                        </div>
+                    
+
+                                        <div class="my-trip-wrap">
+                        		<a class="cart-contents my-trip" href="https://ak-sai.com/cart/">
+			<svg class="my-trip__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+				<path d="M9 20L3 17V4L9 7M9 20L15 17M9 20V7M15 17L21 20V7L15 4M15 17V4M9 7L15 4" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+			</svg>
+			<span class="my-trip__label">My Trip</span>
+					</a>
+		                    </div>
+                    
+                    <div class="connection_options">
+                        <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="expert-menu">Plan Your Trip</button>
+                        <ul id="expert-menu" role="menu">
+                            <li role="none">
+                                                                <a href="https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you..." class="wh" role="menuitem" target="_blank" rel="noopener">Chat on WhatsApp</a>
+                            </li>
+                            <li role="none">
+                                <a href="mailto:info@ak-sai.com?cc=leads%40ak-sai.com&amp;subject=Request%20from%20Ak-Sai%20Travel&amp;body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in..." class="mail" role="menuitem">Email a Trip Specialist</a>
+                            </li>
+                        </ul>
+                    </div>
+                    	<button class="mm-burger" type="button" aria-label="Open menu" aria-controls="mm" aria-expanded="false">
+		<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16"/><path d="M4 12h16"/><path d="M4 18h16"/></svg>
+	</button>
+	                </div>
+            </div>
+        </div>
+    </header>
+
+
+<main class="new-landing-page" lang="en">
+
+<section class="landing-hero">
+        <div class="landing-hero__slide active">
+        <img width="1024" height="683" alt="" aria-hidden="true" class="landing-hero__slide-img" loading="eager" decoding="sync" fetchpriority="high" src="https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05234-2-2-scaled.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-1024x648.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-1024x648.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-800x507.webp 800w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-768x486.webp 768w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-1536x973.webp 1536w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-2048x1297.webp 2048w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117-300x190.webp 300w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_0494-scaled-e1776413116117.jpg 2432w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-1024x683.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-800x533.webp 800w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-1536x1024.webp 1536w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1252-scaled.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-1024x683.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05199-scaled.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-1024x548.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-1024x548.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-800x428.webp 800w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-768x411.webp 768w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-1536x822.webp 1536w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-2048x1096.webp 2048w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472-300x161.webp 300w, https://ak-sai.com/wp-content/uploads/2026/04/dsc_1441-scaled-e1776413146472.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-1024x594.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-1024x594.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-800x464.webp 800w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-768x445.webp 768w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-1536x890.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-2048x1187.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959-300x174.webp 300w, https://ak-sai.com/wp-content/uploads/2025/08/assembling-the-yurt-scaled-e1773299908959.jpg 2274w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2026/04/4-7-1024x382.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2026/04/4-7-1024x382.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-800x298.webp 800w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-768x286.webp 768w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-1536x572.webp 1536w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-2048x763.webp 2048w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-300x112.webp 300w, https://ak-sai.com/wp-content/uploads/2026/04/4-7-scaled.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__slide">
+        <img alt="" aria-hidden="true" class="landing-hero__slide-img" decoding="async" data-src="https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-1024x683.webp" data-srcset="https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-800x533.webp 800w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-1536x1024.webp 1536w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2026/04/img_4946-1-scaled.jpg 2560w" sizes="(max-width: 768px) 680px, 100vw">    </div>
+        <div class="landing-hero__overlay"></div>
+    <div class="lp-container">
+        <div class="landing-hero__content">
+            <h1 class="landing-hero__title">Kyrgyzstan &amp; Central Asia Tours</h1>
+            <p class="landing-hero__subtitle">Since 1998</p>
+            <p class="landing-hero__desc">From cultural journeys to high-altitude expeditions, every trip is operated on the ground by our own local teams, camps, and logistics</p>
+            <div class="landing-hero__cta">
+                <a href="https://ak-sai.com/shop/" class="lp-btn">Explore Tours in Kyrgyzstan</a>
+                <a href="#landing-trust" class="landing-hero__link">
+                    <svg viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 13L13 1M13 1H3M13 1v10"/></svg>
+                    Why Travel with Ak-Sai Travel                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="landing-trust" id="landing-trust">
+    <div class="lp-container">
+                <h2>Travel to Kyrgyzstan with Сonfidence</h2>
+                <div class="landing-trust__grid">
+                                            <div class="landing-trust__item">
+                    <div class="landing-trust__icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/1.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Operated on the Ground</h3>
+                    <p>You travel with teams who know the terrain and realities</p>
+                </div>
+                                <div class="landing-trust__item">
+                    <div class="landing-trust__icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/2.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Since 1998 in Kyrgyzstan</h3>
+                    <p>Experience that reduces risk and avoids costly mistakes</p>
+                </div>
+                                <div class="landing-trust__item">
+                    <div class="landing-trust__icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/3.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Own Camps &amp; Logistics</h3>
+                    <p>Greater control and reliability in remote regions</p>
+                </div>
+                                <div class="landing-trust__item">
+                    <div class="landing-trust__icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/4.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Licensed &amp; Insured</h3>
+                    <p>Fully compliant operations that protect your journey</p>
+                </div>
+                                <div class="landing-trust__item">
+                    <div class="landing-trust__icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/5.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>24/7 Ground Support</h3>
+                    <p>Immediate coordination if plans change or emergencies arise</p>
+                </div>
+                                    </div>
+                <div class="landing-trust__bottom-link">
+            <a href="#landing-reviews" class="lp-link">
+                <svg class="lp-link__icon" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 13L13 1M13 1H3M13 1v10"/></svg>
+                Why Travel with Ak-Sai Travel            </a>
+        </div>
+            </div>
+</section>
+<section class="landing-partners">
+    <div class="lp-container">
+                <h2>Trusted by the World&#039;s Leading Travel Organizations</h2>
+                <div class="landing-partners__grid">
+                        <div class="landing-partners__item">
+                <img width="135" height="85" src="https://ak-sai.com/wp-content/uploads/2026/03/untitled-135-x-85-px.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="84" height="84" src="https://ak-sai.com/wp-content/uploads/2025/07/membership1.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="98" height="88" src="https://ak-sai.com/wp-content/uploads/2025/07/membership2.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="100" height="70" src="https://ak-sai.com/wp-content/uploads/2025/07/membership3.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="81" height="82" src="https://ak-sai.com/wp-content/uploads/2025/07/membership4.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="680" height="171" src="https://ak-sai.com/wp-content/uploads/2026/09/silk-route-destinations-logo.png" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                        <div class="landing-partners__item">
+                <img width="88" height="88" src="https://ak-sai.com/wp-content/uploads/2025/07/membership6.svg" alt="Partner logo" loading="lazy" decoding="async">
+            </div>
+                    </div>
+    </div>
+</section>
+<section class="landing-features">
+    <div class="lp-container">
+                <h2>What Traveling in Kyrgyzstan With Ak-Sai Is Really Like</h2>
+                <div class="landing-features__grid">
+                                            <div class="landing-features__card">
+                    <div class="landing-features__card-icon">
+                                                    <img width="800" height="800" src="https://ak-sai.com/wp-content/uploads/2026/03/mountains-svgrepo-com.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <div>
+                        <h3>A Country Shaped by Mountains</h3>
+                        <p>High valleys, rural roads, and changing weather are part of the journey. We prepare you in advance so nothing feels unexpected</p>
+                    </div>
+                </div>
+                                <div class="landing-features__card">
+                    <div class="landing-features__card-icon">
+                                                    <img width="800" height="800" src="https://ak-sai.com/wp-content/uploads/2026/03/check-list-clipboard-list-svgrepo-com.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <div>
+                        <h3>Carefully Planned, Start to Finish</h3>
+                        <p>Permits, pacing, safety, and logistics are handled by experienced local teams. You focus on the experience</p>
+                    </div>
+                </div>
+                                <div class="landing-features__card">
+                    <div class="landing-features__card-icon">
+                                                    <img width="800" height="800" src="https://ak-sai.com/wp-content/uploads/2026/03/hotel-svgrepo-com.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <div>
+                        <h3>Comfort That Fits the Setting</h3>
+                        <p>In cities you stay in quality hotels. In the mountains comfort is simpler, chosen for safety, cleanliness, and authenticity</p>
+                    </div>
+                </div>
+                                <div class="landing-features__card">
+                    <div class="landing-features__card-icon">
+                                                    <img width="800" height="800" src="https://ak-sai.com/wp-content/uploads/2026/03/jeep-svgrepo-com.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <div>
+                        <h3>Our Own Camps and Logistics</h3>
+                        <p>We operate our own vehicles, camps, and teams across the country, allowing reliable and consistent standards throughout</p>
+                    </div>
+                </div>
+                                    </div>
+    </div>
+</section>
+<section class="landing-categories">
+    <div class="lp-container">
+                <h2>Choose How You Want to Experience Kyrgyzstan</h2>
+                <div class="landing-categories__grid">
+                        <a href="https://ak-sai.com/shop/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="683" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5-800x533.webp 800w, https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/10/img_8950_thfjsi5.jpg 1200w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Cultural &amp; Silk Road Journeys</h3>
+                    <p>Multi-day cultural travel through historic cities and nomadic regions. Comfort and logistics are managed throughout</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/product-category/trekking/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="683" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/07/dsc00324-scaled.jpg 2560w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Trekking &amp; Hiking</h3>
+                    <p>Guided mountain walks from moderate hikes to multi-day routes. Experienced guides and coordinated support throughout</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/product-category/alpinism/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="683" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/07/dsc06630-1-scaled.jpg 2560w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Mountaineering &amp; Expeditions</h3>
+                    <p>High-altitude climbs and technical expeditions supported by certified guides, structured acclimatization, and established base camps</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/product-category/ski-tours/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="768" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-1024x768.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-1024x768.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-800x600.webp 800w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-768x576.webp 768w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-1536x1152.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-2048x1537.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-300x225.webp 300w, https://ak-sai.com/wp-content/uploads/2025/11/copy-of-img_4771-scaled.jpg 2560w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Ski Tours</h3>
+                    <p>Winter mountain exploration from ski tours to heliski. Professional guides and safety equipment provided</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/product-category/active-tours/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="624" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06-1024x624.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06-1024x624.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06-800x488.webp 800w, https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06-768x468.webp 768w, https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06-300x183.webp 300w, https://ak-sai.com/wp-content/uploads/2025/07/snimok-ekrana-2026-03-06-v-18.28.06.png 1460w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Active Tours</h3>
+                    <p>Adventure tours in the Tien Shan and Pamir mountains, providing a variety of travel experiences, from helicopter expeditions to hikes through alpine meadows</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/camps/" class="landing-categories__card">
+                <div class="landing-categories__card-bg">
+                    <img width="1024" height="683" alt="" aria-hidden="true" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-768x512.webp 768w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-1536x1025.webp 1536w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-2048x1366.webp 2048w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2025/09/dsc05198-2-scaled.jpg 2560w" sizes="(max-width: 768px) 80vw, 780px">                </div>
+                <div class="landing-categories__card-content">
+                    <h3>Camps &amp; Infrastructure</h3>
+                    <p>Year-round and seasonal base camps with organized transfers and on-site support</p>
+                    <span class="lp-link">View Options →</span>
+                </div>
+            </a>
+                    </div>
+    </div>
+</section>
+<section class="landing-includes">
+    <div class="lp-container">
+                <h2>What These Journeys Include</h2>
+        <p class="section-subtitle">Every journey is fully supported on the ground so you can travel with clarity and confidence</p>
+                <div class="landing-includes__grid">
+                                            <div class="landing-includes__item">
+                    <div class="landing-includes__item-icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/9.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Experienced Guides &amp; Support Teams</h3>
+                    <p>Certified guides trained at our in-house courses and local coordinators with decades of regional experience, ensuring steady leadership throughout your journey</p>
+                </div>
+                                <div class="landing-includes__item">
+                    <div class="landing-includes__item-icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/6.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Ground Transport &amp; Logistics</h3>
+                    <p>All in-country transportation organized in advance, including vehicles, porter support, and equipment coordination where required</p>
+                </div>
+                                <div class="landing-includes__item">
+                    <div class="landing-includes__item-icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/7.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Meals &amp; Camp Services</h3>
+                    <p>Prepared meals at camps and during treks, planned with attention to nutrition and dietary needs</p>
+                </div>
+                                <div class="landing-includes__item">
+                    <div class="landing-includes__item-icon">
+                                                    <img width="800" height="800" src="https://ak-sai.com/wp-content/uploads/2026/03/accommodation-hotel-bed-sleeping-svgrepo-com-1.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Accommodation</h3>
+                    <p>Carefully selected guesthouses, yurt camps, base camps, or hotels depending on your itinerary and comfort level</p>
+                </div>
+                                <div class="landing-includes__item">
+                    <div class="landing-includes__item-icon">
+                                                    <img width="1500" height="1500" src="https://ak-sai.com/wp-content/uploads/2026/03/8.svg" alt="" aria-hidden="true">
+                                            </div>
+                    <h3>Permits &amp; Safety Systems</h3>
+                    <p>Required permits arranged in advance, with insurance coverage and established emergency communication systems in place</p>
+                </div>
+                                    </div>
+    </div>
+</section>
+<section class="landing-journeys">
+    <div class="lp-container">
+                <h2>Signature Journeys in Kyrgyzstan</h2>
+        <p class="section-subtitle">Each itinerary is carefully planned and operated on the ground, combining meaningful experiences with reliable logistics and support</p>
+                <div class="landing-journeys__grid">
+                        <a href="https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/" class="landing-journeys__card">
+                <div class="landing-journeys__card-img">
+                    <img width="640" height="359" src="https://ak-sai.com/wp-content/uploads/2025/08/horse-games-768x431.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" decoding="async" srcset="https://ak-sai.com/wp-content/uploads/2025/08/horse-games-768x431.jpg 768w, https://ak-sai.com/wp-content/uploads/2025/08/horse-games-800x449.jpg 800w, https://ak-sai.com/wp-content/uploads/2025/08/horse-games-1024x574.jpg 1024w, https://ak-sai.com/wp-content/uploads/2025/08/horse-games-300x168.jpg 300w, https://ak-sai.com/wp-content/uploads/2025/08/horse-games.jpg 1500w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </div>
+                <div class="landing-journeys__card-body">
+                                        <div class="landing-journeys__meta">
+                                                <span class="landing-journeys__tag">Cultural tours</span>
+                                                                        <span class="landing-journeys__duration">7 days, 6 nights</span>
+                                            </div>
+                                        <h3>The Way of Nomad</h3>
+                    <p>A tour with a deep dive into the traditions, rituals and lifestyle of the nomadic people of Kyrgyzstan</p>
+                    <span class="lp-link">
+                        View tour details                        <span aria-hidden="true">&rarr;</span>
+                    </span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/shop/cultural-tours/the-land-of-manas/" class="landing-journeys__card">
+                <div class="landing-journeys__card-img">
+                    <img width="640" height="429" src="https://ak-sai.com/wp-content/uploads/2025/08/manas-3-scaled.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" decoding="async" srcset="https://ak-sai.com/wp-content/uploads/2025/08/manas-3-scaled.jpg 2560w, https://ak-sai.com/wp-content/uploads/2025/08/manas-3-1024x685.jpg 1024w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </div>
+                <div class="landing-journeys__card-body">
+                                        <div class="landing-journeys__meta">
+                                                <span class="landing-journeys__tag">Cultural tours</span>
+                                                                        <span class="landing-journeys__duration">6 days, 5 nights</span>
+                                            </div>
+                                        <h3>The Land of Manas</h3>
+                    <p>This tour reveals the cultural essence of Kyrgyzstan through the Epic of Manas – a timeless legend that embodies the&hellip;</p>
+                    <span class="lp-link">
+                        View tour details                        <span aria-hidden="true">&rarr;</span>
+                    </span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/shop/alpinism/lenin-peak-guided/" class="landing-journeys__card">
+                <div class="landing-journeys__card-img">
+                    <img width="640" height="427" src="https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-768x512.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" decoding="async" srcset="https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-768x512.jpg 768w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-800x534.jpg 800w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-1024x683.jpg 1024w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-1536x1025.jpg 1536w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-2048x1366.jpg 2048w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-300x200.jpg 300w, https://ak-sai.com/wp-content/uploads/2025/07/dsc09974-scaled.jpg 2560w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </div>
+                <div class="landing-journeys__card-body">
+                                        <div class="landing-journeys__meta">
+                                                <span class="landing-journeys__tag">Mountaineering</span>
+                                                                        <span class="landing-journeys__duration">20 days, 19 nights</span>
+                                            </div>
+                                        <h3>Guided Group Expedition to Lenin Peak</h3>
+                    <p>Climbing Lenin Peak (7134 m) along the classic route is a comfortable expedition for beginners and experienced climbers. You’ll enjoy&hellip;</p>
+                    <span class="lp-link">
+                        View tour details                        <span aria-hidden="true">&rarr;</span>
+                    </span>
+                </div>
+            </a>
+                        <a href="https://ak-sai.com/shop/trekking/asian-patagonia/" class="landing-journeys__card">
+                <div class="landing-journeys__card-img">
+                    <img width="640" height="427" src="https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-768x512.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" decoding="async" srcset="https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-768x512.jpg 768w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-800x534.jpg 800w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-1024x683.jpg 1024w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-1536x1025.jpg 1536w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-2048x1366.jpg 2048w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-300x200.jpg 300w, https://ak-sai.com/wp-content/uploads/2025/07/dsc333333937-1-1-scaled.jpg 2560w" sizes="auto, (max-width: 640px) 100vw, 640px" />                </div>
+                <div class="landing-journeys__card-body">
+                                        <div class="landing-journeys__meta">
+                                                <span class="landing-journeys__tag">Trekking</span>
+                                                                        <span class="landing-journeys__duration">14 days, 13 nights</span>
+                                            </div>
+                                        <h3>Asian Patagonia</h3>
+                    <p>This tour is ideal for experienced travelers who are accustomed to long hikes at altitudes of up to 4400 meters&hellip;</p>
+                    <span class="lp-link">
+                        View tour details                        <span aria-hidden="true">&rarr;</span>
+                    </span>
+                </div>
+            </a>
+                    </div>
+    </div>
+</section>
+<section class="landing-media">
+    <div class="lp-container">
+                <h2>See the Journey Before You Go</h2>
+        <p class="section-subtitle">Explore our camps through 3D tours and authentic on-site footage before your journey begins</p>
+        
+                <div class="landing-media__grid">
+                        <a href="https://virtualtour.kg/aksai/" class="landing-media__item landing-media__featured">
+                <img width="1024" height="683" alt="3D tours" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2026/03/360o-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2026/03/360o-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/03/360o-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2026/03/360o-768x513.webp 768w, https://ak-sai.com/wp-content/uploads/2026/03/360o-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2026/03/360o.png 1536w" sizes="(max-width: 768px) 80vw, 640px">                <span class="landing-media__item-label">3D tours</span>
+            </a>
+                                    <a href="https://www.youtube.com/@AkSaiTravel" class="landing-media__item landing-media__video">
+                <img width="1024" height="683" alt="Video gallery" loading="lazy" decoding="async" src="https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35-1024x683.webp" srcset="https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35-1024x683.webp 1024w, https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35-800x534.webp 800w, https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35-768x513.webp 768w, https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35-300x200.webp 300w, https://ak-sai.com/wp-content/uploads/2026/03/untitled-design-35.png 1536w" sizes="(max-width: 768px) 80vw, 640px">                <span class="landing-media__item-label">Video gallery</span>
+            </a>
+                    </div>
+    </div>
+</section>
+<section class="landing-reviews" id="landing-reviews">
+    <div class="lp-container">
+                <div class="landing-reviews__header">
+            <h2>Trusted by International Travelers</h2>
+        </div>
+        
+                <link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel="stylesheet" href="https://cdn.trustindex.io/assets/widget-presetted-css/v2/108-drop-shadow.css" media="print" onload="this.media='all'"><noscript><link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel="stylesheet" href="https://cdn.trustindex.io/assets/widget-presetted-css/v2/108-drop-shadow.css" media="all"></noscript><pre class="ti-widget"><div style="opacity: 0; height: 0 !important; overflow: hidden !important" data-css-url="https://cdn.trustindex.io/assets/widget-presetted-css/v2/108-drop-shadow.css" class="ti-widget" data-plugin-version="14.3" data-layout-id="108" data-layout-category="slider" data-set-id="drop-shadow" data-pid="14b95ec74a20822f70761f1a1c3" data-language="en" data-close-locale="Close" data-time-locale="%d %s ago|today|day|days|week|weeks|month|months|year|years" data-review-target-width="300" data-css-version="2" data-review-text-mode="popup" data-reply-by-locale="Owner's reply" data-only-rating-locale="This user only left a rating." data-pager-autoplay-timeout="6" > <span class="ti-lightbox-data" hidden data-ti-json="%7B%22%40context%22%3A%22http%3A%2F%2Fschema.org%22%2C%22data%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLe4rCEC8ksYmJuMpJDlnA2IcdjELbYNx3pgkl3G26KRKJtCpTTGhJOYmp_PFfKyPbq7mJpVuPrp2BSbSGy9OZo5RM255EUBbAwcMEIwJ5R5kG7eIO9_gX7HdIrRwrqWjsISWmWN%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLe4rCEC8ksYmJuMpJDlnA2IcdjELbYNx3pgkl3G26KRKJtCpTTGhJOYmp_PFfKyPbq7mJpVuPrp2BSbSGy9OZo5RM255EUBbAwcMEIwJ5R5kG7eIO9_gX7HdIrRwrqWjsISWmWN%3Dk-no%22%2C%22index%22%3A0%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeiD5WxkbRSFAtVU3A_iOKE5MmwP5Z_Zl-xkBA0fPcnucQRiT4qxxcZJ4ncLN-26C9dIir9JdhSVHs_4ZfDaaO8xIUxm89vGlH6xVIDfGWEsYX2XCkAaxBz98uTiD_umlQuZsDuxg%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeiD5WxkbRSFAtVU3A_iOKE5MmwP5Z_Zl-xkBA0fPcnucQRiT4qxxcZJ4ncLN-26C9dIir9JdhSVHs_4ZfDaaO8xIUxm89vGlH6xVIDfGWEsYX2XCkAaxBz98uTiD_umlQuZsDuxg%3Dk-no%22%2C%22index%22%3A1%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLem0QncWtPlHwjIO6o74Ukn_6A2doRaeTI6eGLyaQcQsseZ9T_5yxSzbO1qDC4aXAQgNO35-feYaMTCDvQ5vwI1bHM9ex4_1-ZFKOBu1cHolJ4c0i5v7V3KmQSoZoAWcH9orpwu%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLem0QncWtPlHwjIO6o74Ukn_6A2doRaeTI6eGLyaQcQsseZ9T_5yxSzbO1qDC4aXAQgNO35-feYaMTCDvQ5vwI1bHM9ex4_1-ZFKOBu1cHolJ4c0i5v7V3KmQSoZoAWcH9orpwu%3Dk-no%22%2C%22index%22%3A2%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLflzrBeQ9ECJZhTCCcjrMFHq9xks8TYre1_rqUUvjzXOBttoREpR-wxCvt3ZuaQI1sGmmrfY1oMP1rwg3K_9MEBPBbrPheq_596Wwkrt7oFJzUKZQumyOg9QlSMaeywYfmhlbfm%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLflzrBeQ9ECJZhTCCcjrMFHq9xks8TYre1_rqUUvjzXOBttoREpR-wxCvt3ZuaQI1sGmmrfY1oMP1rwg3K_9MEBPBbrPheq_596Wwkrt7oFJzUKZQumyOg9QlSMaeywYfmhlbfm%3Dk-no%22%2C%22index%22%3A3%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfIc-TRbNXef5BXpcyHu6_s4NIbrOJefkVwV8-WK94ChpMT0K9As1BkNz0wKKdtZHx8zRjovy4Ofz_RNjsOdNsj4BJqlSQJXAPxLJnrhu29vpJS3jL-ZvT1LhzxWOLNuiVqjtck5Q%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfIc-TRbNXef5BXpcyHu6_s4NIbrOJefkVwV8-WK94ChpMT0K9As1BkNz0wKKdtZHx8zRjovy4Ofz_RNjsOdNsj4BJqlSQJXAPxLJnrhu29vpJS3jL-ZvT1LhzxWOLNuiVqjtck5Q%3Dk-no%22%2C%22index%22%3A4%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfzqi1gAffxJaIFSfE8PkLmyKQ_QN9grnPLQ3pOiB7dtlpTWl6njb31C8gs6kKuRR60PCwCARo4qGughrsMwigF0x6i8qzqIp2tLd5uJibu4pAWR9gMhsJf7MJbL10b43hpncqZKw%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfzqi1gAffxJaIFSfE8PkLmyKQ_QN9grnPLQ3pOiB7dtlpTWl6njb31C8gs6kKuRR60PCwCARo4qGughrsMwigF0x6i8qzqIp2tLd5uJibu4pAWR9gMhsJf7MJbL10b43hpncqZKw%3Dk-no%22%2C%22index%22%3A5%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLcHr1EbLsLx4axqD2B8ueQIoGL5TLbrCjPUNTMKNdw9Z-TY3N481yo63DLV-QBetsBBJR-Bcsm7r5RwINJ4eLu-u8xJhxEKxqhFK_Z7ePyDqinz2opSHTI7cXv4zTfXpkK-akM%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLcHr1EbLsLx4axqD2B8ueQIoGL5TLbrCjPUNTMKNdw9Z-TY3N481yo63DLV-QBetsBBJR-Bcsm7r5RwINJ4eLu-u8xJhxEKxqhFK_Z7ePyDqinz2opSHTI7cXv4zTfXpkK-akM%3Dk-no%22%2C%22index%22%3A6%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeRDaSsMmSZCPcOwAPJkNTOGEp5N_NHUgvQ8a7UhVyXuzK0jRPZObDBJnXZN6rRNEdFJGSCofUpl7GiW15IMtAh9ivV-GTrg9MYR1BRDpiKMy5we7YUEWNa5vrw5RAc4MpjzLo6QQ%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeRDaSsMmSZCPcOwAPJkNTOGEp5N_NHUgvQ8a7UhVyXuzK0jRPZObDBJnXZN6rRNEdFJGSCofUpl7GiW15IMtAh9ivV-GTrg9MYR1BRDpiKMy5we7YUEWNa5vrw5RAc4MpjzLo6QQ%3Dk-no%22%2C%22index%22%3A7%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLcqYoGuT8KATdntoq2waXseP3tXKddFz-XZrF7vA5XT5divD39w2i0wJWViSzKJevGBfkqKEQu5hxuYk_iNuQek9Bk0fdunEKY9JfOfqwj7D0hUOFbUhxdZxsaSO8jLez8nNsA%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLcqYoGuT8KATdntoq2waXseP3tXKddFz-XZrF7vA5XT5divD39w2i0wJWViSzKJevGBfkqKEQu5hxuYk_iNuQek9Bk0fdunEKY9JfOfqwj7D0hUOFbUhxdZxsaSO8jLez8nNsA%3Dk-no%22%2C%22index%22%3A8%2C%22r%22%3A%22a39996ede2a9dfe67257662b3b5324a7%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfy_yjr22ZxfI34Jzw3b3kGKRyuXRmEj9zlI8e8bM3e7dwqMK2MSt7XXN9H_ecG2xqiQ6vx0yUA0kQ9-9pRZZ7a1N3kMFvRwOWGD2Th536p0YEhQA3XmsQLK8YowV4pIEzmI8_S%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfy_yjr22ZxfI34Jzw3b3kGKRyuXRmEj9zlI8e8bM3e7dwqMK2MSt7XXN9H_ecG2xqiQ6vx0yUA0kQ9-9pRZZ7a1N3kMFvRwOWGD2Th536p0YEhQA3XmsQLK8YowV4pIEzmI8_S%3Dk-no%22%2C%22index%22%3A0%2C%22r%22%3A%226f1fb9e68da41e09251da29b50f869fa%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLd4-8aZACNZp2EEcZrXQieDprjcHUnYcRgq653GBoDQ_4f7Xd8cdy76_DTOnYOwj9D1QyXIz-LTY3XBffcpdjECCZGQ_XltPei1adEUnKLvRFk4lLKzK2lTLoj6ZvB8ocYKWwo%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLd4-8aZACNZp2EEcZrXQieDprjcHUnYcRgq653GBoDQ_4f7Xd8cdy76_DTOnYOwj9D1QyXIz-LTY3XBffcpdjECCZGQ_XltPei1adEUnKLvRFk4lLKzK2lTLoj6ZvB8ocYKWwo%3Dk-no%22%2C%22index%22%3A1%2C%22r%22%3A%226f1fb9e68da41e09251da29b50f869fa%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLd4EJnt2RtiQn12_jJY-oIrCj-GRLJ6d5SU-ZhwBSbDMIZi45-dHaixTi4e3o5zvzBHtohMnh2vEuTjWnITg7igqjUDGPe_BnqCDNDfunlFEQyttlLeObxS_iWPNZPJAyfNiTID%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLd4EJnt2RtiQn12_jJY-oIrCj-GRLJ6d5SU-ZhwBSbDMIZi45-dHaixTi4e3o5zvzBHtohMnh2vEuTjWnITg7igqjUDGPe_BnqCDNDfunlFEQyttlLeObxS_iWPNZPJAyfNiTID%3Dk-no%22%2C%22index%22%3A2%2C%22r%22%3A%226f1fb9e68da41e09251da29b50f869fa%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfYiNKMp8tYjTQMXw2u8Pg8i5534yNYEK9St2zo4eJEmhDUsVm6lhVgqy9K967-yqn3aFwpffE-BihY7cND4-4YdVDvQY7TQu_Pf8rjiz2yPsGwp6_6avk4iODPdpT6QftqK5SQ%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLfYiNKMp8tYjTQMXw2u8Pg8i5534yNYEK9St2zo4eJEmhDUsVm6lhVgqy9K967-yqn3aFwpffE-BihY7cND4-4YdVDvQY7TQu_Pf8rjiz2yPsGwp6_6avk4iODPdpT6QftqK5SQ%3Dk-no%22%2C%22index%22%3A3%2C%22r%22%3A%226f1fb9e68da41e09251da29b50f869fa%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeJdsdFdjksQMtEFerWwpY0oAMwaRzSIUXuD0YAZFhW1nLxgLuV9PwzyKbjpRlA_bbcc4wIau9vi4DGnpJG0Zs46QEDnPe2CR31cemEeHfilx2N_qsmV0mESeLn84pHmjoIiNWS2Q%3Dk-no%22%2C%22thumbnail%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLeJdsdFdjksQMtEFerWwpY0oAMwaRzSIUXuD0YAZFhW1nLxgLuV9PwzyKbjpRlA_bbcc4wIau9vi4DGnpJG0Zs46QEDnPe2CR31cemEeHfilx2N_qsmV0mESeLn84pHmjoIiNWS2Q%3Dk-no%22%2C%22index%22%3A0%2C%22r%22%3A%2232e9116f02efa7b6cd14f4cb5006aaf2%22%7D%5D%7D"></span> <div class="ti-widget-container ti-col-3"> <div class="ti-widget-header"> <div class="ti-header-content source-Google ti-active"> <div class="ti-header-logo"> <img class="ti-header-logo-img skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/logo.svg" loading="lazy" alt="Google" width="150" height="21" /> </div> <div class="ti-header-rating-text"><span class="ti-header-rating">4.6</span><span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star h skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/h.svg" alt="Google star 5" width="17" height="17" loading="lazy" /></span></div> <div class="ti-header-rating-text ti-mobile"><span class="ti-header-rating">4.6</span><span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star h skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/h.svg" alt="Google star 5" width="17" height="17" loading="lazy" /></span></div> <div class="ti-top-rated-title">Top Rated Service</div> <div class="ti-verified-by ti-verified-by-top-rated" data-style="1"> <div class="ti-inner"> Verified by Trustindex <span class="ti-info-icon"></span> <div class="ti-disclaimer"> <div class="ti-disclaimer-title">Top Rated Service</div> <ul class="ti-disclaimer-list"> <li class="ti-disclaimer-star"> <strong>4.6 Excellent rating</strong> Last 12 months </li> <li class="ti-disclaimer-verified"> <strong>Verified by Trustindex</strong> Based on real customer reviews <a href="https://www.trustindex.io/?a=sys&c=top-rated-badge&url=/the-trustindex-verified-badge/" target="_blank" class="ti-disclaimer-link">Learn more</a> </li> </ul> </div> </div> </div> </div> <div class="ti-widget-header-tick"></div> </div> <div class="ti-reviews-container"> <div class="ti-controls"> <div class="ti-next" aria-label="Next review" role="button" tabindex="0"></div> <div class="ti-prev" aria-label="Previous review" role="button" tabindex="0"></div> </div> <div class="ti-reviews-container-wrapper"> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1749220561" data-id="a39996ede2a9dfe67257662b3b5324a7" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjUVhI5Kx0AmFvzn1AroPDkN2RWcjl1EBDa7FMDZCI_2qEMM0gju=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjUVhI5Kx0AmFvzn1AroPDkN2RWcjl1EBDa7FMDZCI_2qEMM0gju=w80-h80-c-rp-mo-ba12-br100 2x" alt="Shruti Choudhury profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Shruti Choudhury </div> <div class="ti-date">515 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->We had an unforgettable journey through Kyrgyzstan with AkSai Travel via Advantour, covering over 1,300 km of some of the most stunning and diverse landscapes we’ve ever seen. From Bishkek’s rich history to the alpine beauty of Ala Archa, the peaceful vastness of Son-Kul, and the dramatic gorges around Issyk-Kul—every stop was thoughtfully chosen and seamlessly executed.&#10;&#10;A heartfelt thank you to our incredible guide Aziza, whose knowledge, humour, and warmth brought every destination to life. She answered every question with insight and passion, and her recommendations were spot-on. Our driver Baha was equally amazing—calm, kind, and always composed, even on the most remote mountain roads.&#10;&#10;Every hotel, meal, and detail was well planned. We’re leaving with full hearts, lasting memories, and every intention of coming back. Highly recommended.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> <div class="ti-review-image-container" data-image-listed="4"> <div class="ti-review-image" data-image-index="0"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLe4rCEC8ksYmJuMpJDlnA2IcdjELbYNx3pgkl3G26KRKJtCpTTGhJOYmp_PFfKyPbq7mJpVuPrp2BSbSGy9OZo5RM255EUBbAwcMEIwJ5R5kG7eIO9_gX7HdIrRwrqWjsISWmWN=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image" data-image-index="1"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLeiD5WxkbRSFAtVU3A_iOKE5MmwP5Z_Zl-xkBA0fPcnucQRiT4qxxcZJ4ncLN-26C9dIir9JdhSVHs_4ZfDaaO8xIUxm89vGlH6xVIDfGWEsYX2XCkAaxBz98uTiD_umlQuZsDuxg=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image" data-image-index="2"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLem0QncWtPlHwjIO6o74Ukn_6A2doRaeTI6eGLyaQcQsseZ9T_5yxSzbO1qDC4aXAQgNO35-feYaMTCDvQ5vwI1bHM9ex4_1-ZFKOBu1cHolJ4c0i5v7V3KmQSoZoAWcH9orpwu=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image ti-has-more-image" data-image-index="3"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLflzrBeQ9ECJZhTCCcjrMFHq9xks8TYre1_rqUUvjzXOBttoREpR-wxCvt3ZuaQI1sGmmrfY1oMP1rwg3K_9MEBPBbrPheq_596Wwkrt7oFJzUKZQumyOg9QlSMaeywYfmhlbfm=k-no" loading="lazy" alt="" /> <div class="ti-more-image-count">+5</div> </div> </div> </div> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1722521513" data-id="6f1fb9e68da41e09251da29b50f869fa" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjUrxKX2ep3vSK2-udBEpJjnWdQYeMwppNXfgSpmFAslgN1t5qUrbQ=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjUrxKX2ep3vSK2-udBEpJjnWdQYeMwppNXfgSpmFAslgN1t5qUrbQ=w80-h80-c-rp-mo-ba12-br100 2x" alt="Linda Irik profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Linda Irik </div> <div class="ti-date">824 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->I traveled in Kyrgyzstan with a group of people from NL and BE, the 2-week-tour was hosted by Aksai-Travel. Our guide Timur and drivers Roma and Andre ensured that we had the best experience during our travels; driving us safely to the most amazing places, enjoying magical nature, vivid walks and a beautiful scenery.&#10;Staying in Yurt camps and Homestay&#039;s completed the local experience. I can highly recommend Aksai-Travel if you are looking for a well arranged trip in Kyrgyzstan that includes great service, adventure, fun and enjoying great company.&#10;Thank you for making good memories together!<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> <div class="ti-review-image-container" data-image-listed="4"> <div class="ti-review-image" data-image-index="0"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLfy_yjr22ZxfI34Jzw3b3kGKRyuXRmEj9zlI8e8bM3e7dwqMK2MSt7XXN9H_ecG2xqiQ6vx0yUA0kQ9-9pRZZ7a1N3kMFvRwOWGD2Th536p0YEhQA3XmsQLK8YowV4pIEzmI8_S=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image" data-image-index="1"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLd4-8aZACNZp2EEcZrXQieDprjcHUnYcRgq653GBoDQ_4f7Xd8cdy76_DTOnYOwj9D1QyXIz-LTY3XBffcpdjECCZGQ_XltPei1adEUnKLvRFk4lLKzK2lTLoj6ZvB8ocYKWwo=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image" data-image-index="2"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLd4EJnt2RtiQn12_jJY-oIrCj-GRLJ6d5SU-ZhwBSbDMIZi45-dHaixTi4e3o5zvzBHtohMnh2vEuTjWnITg7igqjUDGPe_BnqCDNDfunlFEQyttlLeObxS_iWPNZPJAyfNiTID=k-no" loading="lazy" alt="" /> </div> </div> <div class="ti-review-image" data-image-index="3"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLfYiNKMp8tYjTQMXw2u8Pg8i5534yNYEK9St2zo4eJEmhDUsVm6lhVgqy9K967-yqn3aFwpffE-BihY7cND4-4YdVDvQY7TQu_Pf8rjiz2yPsGwp6_6avk4iODPdpT6QftqK5SQ=k-no" loading="lazy" alt="" /> </div> </div> </div> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1569289615" data-id="32e9116f02efa7b6cd14f4cb5006aaf2" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a/ACg8ocLyzoc4Fu7YxkWvDA1YDiPVhMA6jyJhFTFmQwh92UqKsPAYdh-j=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocLyzoc4Fu7YxkWvDA1YDiPVhMA6jyJhFTFmQwh92UqKsPAYdh-j=w80-h80-c-rp-mo-ba12-br100 2x" alt="Baitur Toktosunov profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Baitur Toktosunov </div> <div class="ti-date">2598 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Ak-Sai is one of the best travel companies in Kyrgyzstan.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> <div class="ti-review-image-container" data-image-listed="4"> <div class="ti-review-image" data-image-index="0"> <div class="ti-review-image-inner"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/grass-cs/AABkmLeJdsdFdjksQMtEFerWwpY0oAMwaRzSIUXuD0YAZFhW1nLxgLuV9PwzyKbjpRlA_bbcc4wIau9vi4DGnpJG0Zs46QEDnPe2CR31cemEeHfilx2N_qsmV0mESeLn84pHmjoIiNWS2Q=k-no" loading="lazy" alt="" /> </div> </div> </div> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1736687681" data-id="4f77ea37b4fef65a95b9220530855352" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjUPTz2bh2kaTDP_f96MznG9ErBdoHd7E1vMfaKfyl6o5vEzKtjf=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjUPTz2bh2kaTDP_f96MznG9ErBdoHd7E1vMfaKfyl6o5vEzKtjf=w80-h80-c-rp-mo-ba12-br100 2x" alt="Dmytro Danko profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Dmytro Danko </div> <div class="ti-date">660 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Very good company, I am glad to work with them! )<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1689067465" data-id="4d7809cbc8a331ac2d24330d4b40c0ee" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjXOZvAsPD7puQkD5no7n2zt80-rt3qCF7Aa4bZ12xX7BuS62_E=w40-h40-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjXOZvAsPD7puQkD5no7n2zt80-rt3qCF7Aa4bZ12xX7BuS62_E=w80-h80-c-rp-mo-br100 2x" alt="lavi renjal profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> lavi renjal </div> <div class="ti-date">1212 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->One of the best travel agency. Our Guide Mr Almuas (Alex) was one of the best guy we have ever met past all our experiences.&#10;He had planned everything, put extra effort and made sure we are comfortable and felt good about his country (Kyrgyzstan).&#10;&#10;He is a knowledgeable person and there was a situation of emergency at night and we had to rush one our member to hospital and we just called him for info but he reached out to us and spent his night running behind us in the hospital, What more can you expect from guide. Great job Alex, thanks a lot for everything.  @Aksai Travel- you have recruited one of the best guy. :-)<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1656815878" data-id="322c5746a45b58a2b0e7662726c9a10c" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjVniwLjItdrKYqObqZRu80XoObBcbebBYdCQkcTlytkrm-nB8o5=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjVniwLjItdrKYqObqZRu80XoObBcbebBYdCQkcTlytkrm-nB8o5=w80-h80-c-rp-mo-ba12-br100 2x" alt="Omayr Gharra profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Omayr Gharra </div> <div class="ti-date">1585 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Clear communication, responsiveness, positive attitude, patience, professionalism. All this you&#039;ll experience with Ak Sai Travel, and if it happen you fall with Meerim (agent), Evgeniy (tour guide) and Sergi (driver), know that a dream trip is about to happen.&#10;Looking forward for more trips with you.&#10;Cheers!<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1551917747" data-id="3de628ea611c1d0a0720b4637bdfa3f9" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a-/ALV-UjX6O9RYCAJsdvDnJMAhpfsI32nCk5TVfpYrNrVRuE1IKa7yyeI=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjX6O9RYCAJsdvDnJMAhpfsI32nCk5TVfpYrNrVRuE1IKa7yyeI=w80-h80-c-rp-mo-ba12-br100 2x" alt="Seitek S profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> Seitek S </div> <div class="ti-date">2799 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Best travel agency!  High quality service<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> </div> </div> <div class="ti-review-item source-Google ti-image-layout-gallery" data-platform-page-url="https://www.google.com/maps/search/?api=1&amp;query=Google&amp;query_place_id=ChIJJ5tVgjS2njgRa27GqKcJcyY" data-time="1498715292" data-id="bdbead8167743c9f7c5dabdfada9512f" data-language="en" data-rating="5.0" data-max-rating="5" > <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on Google</span> <img class="skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="Google" width="20" height="20" loading="lazy" /> </div> <div class="ti-profile-img"> <img class="skip-lazy" src="https://lh3.googleusercontent.com/a/ACg8ocJQvvfJeSDtV76Dx9oIWLqKCOGlEbHywhHgm2WuG2bqeQGUmA=w40-h40-c-rp-mo-ba12-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocJQvvfJeSDtV76Dx9oIWLqKCOGlEbHywhHgm2WuG2bqeQGUmA=w80-h80-c-rp-mo-ba12-br100 2x" alt="pasha koval profile picture" loading="lazy" /> </div> <div class="ti-profile-details"> <div class="ti-name"> pasha koval </div> <div class="ti-date">3415 days ago</div> </div> </div> <span class="ti-stars"><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy" /><img class="ti-star f skip-lazy" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy" /><span class="ti-verified-review ti-verified-platform ti-color-blue"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Highly professional travel agency. Felt welcome, got all my questions answered on the spot, the staff followed up with details of the trip and alternatives that would fit better into my budget. I&#039;ll update my review  after the trip.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more" ></span> </div> </div> </div> <div class="ti-controls-line"> <div class="dot"></div> </div> </div> </div> </div> </pre><pre class="ti-hidden-markup" hidden style="display: none"><style class="scss-content">.ti-widget[data-layout-id='108'][data-set-id='drop-shadow'][data-pid='14b95ec74a20822f70761f1a1c3'] .ti-widget-container .ti-date{color:#8a8a8a}</style></pre><pre class="ti-hidden-markup" hidden style="display: none"><script>
+(function () { if (window.tiLoaderFallback) { return; } window.tiLoaderFallback = true; function tiLoadLoader() { if (window.TrustindexWidget || document.querySelector('script[src*="https://cdn.trustindex.io/loader.js"]')) { return; } let script = document.createElement("script"); script.async = true; script.src = "https://cdn.trustindex.io/loader.js"; script.setAttribute("data-ccm-injected", "1"); document.head.appendChild(script); } if ("loading" === document.readyState) { document.addEventListener("DOMContentLoaded", tiLoadLoader); } else { tiLoadLoader(); } })();
+</script>
+</pre>    </div>
+</section>
+<section class="landing-stats">
+    <div class="lp-container">
+        <div class="landing-stats__grid">
+                        <div class="landing-stats__item">
+                <div class="landing-stats__number">10000+</div>
+                <div class="landing-stats__label">International Travelers Each Year</div>
+            </div>
+                        <div class="landing-stats__item">
+                <div class="landing-stats__number">28 years</div>
+                <div class="landing-stats__label">Operating in Kyrgyzstan</div>
+            </div>
+                        <div class="landing-stats__item">
+                <div class="landing-stats__number">150+</div>
+                <div class="landing-stats__label">Professional Guides &amp; Stuff</div>
+            </div>
+                        <div class="landing-stats__item">
+                <div class="landing-stats__number">22 camps</div>
+                <div class="landing-stats__label">Across the Country</div>
+            </div>
+                        <div class="landing-stats__item">
+                <div class="landing-stats__number">100%</div>
+                <div class="landing-stats__label">Permits &amp; Safety Arranged</div>
+            </div>
+                    </div>
+    </div>
+</section>
+<section class="landing-cta">
+    <div class="lp-container">
+                        <div class="landing-cta__head">
+            <div class="landing-cta__head-text">
+                <h2>Ready to Choose Your Journey?</h2>
+                <p class="section-subtitle">Explore independently or get guidance from our local team</p>
+            </div>
+                        <img width="1575" height="2220" src="https://ak-sai.com/wp-content/uploads/2026/03/aksai-mascot_stikers_png1.png" alt="" class="landing-cta__mascot" loading="lazy" decoding="async">
+                    </div>
+        
+        <div class="landing-cta__grid">
+            <div class="landing-cta__card">
+                <h3>Explore Scheduled Tours</h3>
+                <p>Browse fixed-date journeys with clear routes, pacing, and inclusions</p>
+                <a href="https://ak-sai.com/shop/" class="lp-btn">Browse Tours</a>
+            </div>
+            <div class="landing-cta__card">
+                <h3>Talk to Our Local Team</h3>
+                <p>Get clear information about routes, comfort, and timing before booking</p>
+                <a href="mailto:info@ak-sai.com?cc=leads%40ak-sai.com&#038;subject=Request%20from%20Ak-Sai%20Travel&#038;body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in..." class="lp-btn">Plan Your Trip</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<footer>
+	<div class="container">
+		<div class="footer-top">
+			<div class="footer-brand">
+				<a href="https://ak-sai.com/" class="footer-brand__logo">
+					<img width="216" height="48" src="https://ak-sai.com/wp-content/themes/aksai/img/logo_white.svg" alt="Ak-Sai Travel">
+				</a>
+				<p class="footer-brand__text">Tours in Kyrgyzstan and Central Asia since 1998</p>
+				<div class="soc">
+											<a href="https://www.facebook.com/aksaitravel.kyrgyzstan/" class="facebook" target="_blank" rel="noopener noreferrer" aria-label="Facebook"></a>
+																<a href="https://www.instagram.com/aksaitravel" class="inst" target="_blank" rel="noopener noreferrer" aria-label="Instagram"></a>
+																<a href="https://www.youtube.com/@AksaiTravel" class="youtube" target="_blank" rel="noopener noreferrer" aria-label="YouTube"></a>
+																<a href="https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you..." class="wh" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"></a>
+									</div>
+				<div class="footer-contacts">
+																									<div class="footer-contacts__item">
+								<span>Office</span>
+								<a href="tel:+996312901616">+996 312 90 16 16</a>
+							</div>
+																				<div class="footer-contacts__item">
+								<span>Outdoor department</span>
+								<a href="tel:+996312909356">+996 312 90 93 56</a>
+							</div>
+																																				<div class="footer-contacts__item">
+								<span>E-mail</span>
+								<a href="mailto:info@ak-sai.com?cc=leads%40ak-sai.com&amp;subject=Request%20from%20Ak-Sai%20Travel&amp;body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...">info@ak-sai.com</a>
+							</div>
+															</div>
+			</div>
+			<nav class="footer-columns">
+				<div class="footer-col">
+					<span class="footer-col__title">About Ak-Sai Travel</span>
+					<ul><li id="menu-item-11582" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11582"><a href="https://ak-sai.com/about-us/">About Us</a></li>
+<li id="menu-item-11583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11583"><a href="https://ak-sai.com/contacts/">Contacts</a></li>
+<li id="menu-item-11584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11584"><a href="https://ak-sai.com/projects/">Projects</a></li>
+<li id="menu-item-11585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11585"><a href="https://ak-sai.com/travel-agents/">Partner with Ak-Sai Travel</a></li>
+</ul>				</div>
+				<div class="footer-col">
+					<span class="footer-col__title">Our Destinations</span>
+					<ul><li id="menu-item-11592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11592"><a href="https://ak-sai.com/product-category/cultural-tours/">Cultural Tours</a></li>
+<li id="menu-item-11593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11593"><a href="https://ak-sai.com/product-category/trekking/">Trekking</a></li>
+<li id="menu-item-11594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11594"><a href="https://ak-sai.com/mountaineering/">Mountaineering</a></li>
+<li id="menu-item-11595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11595"><a href="https://ak-sai.com/camps/">Camps</a></li>
+<li id="menu-item-11596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11596"><a href="https://ak-sai.com/product-category/ski-tours/">Ski Tours</a></li>
+</ul>				</div>
+				<div class="footer-col">
+					<span class="footer-col__title">Travel Information</span>
+					<ul><li id="menu-item-11601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11601"><a href="https://ak-sai.com/faq/">FAQ</a></li>
+<li id="menu-item-11602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11602"><a href="https://ak-sai.com/visa/">Visa &#038; Entry Requirements</a></li>
+<li id="menu-item-11603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11603"><a href="https://ak-sai.com/car-rental/">Car Rental</a></li>
+<li id="menu-item-11604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11604"><a href="https://ak-sai.com/avia/">Flights</a></li>
+</ul>				</div>
+			</nav>
+		</div>
+		<div class="footer-bottom">
+			<div class="footer-bottom__left">
+				<p class="footer-bottom__copy">Ak-Sai Travel 2026. All rights reserved.</p>
+				<ul class="footer-legal"><li id="menu-item-642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="https://ak-sai.com/public-offer/">Public offer</a></li>
+<li id="menu-item-643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-643"><a rel="privacy-policy" href="https://ak-sai.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-4857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4857"><a href="https://ak-sai.com/contacts/">Contacts</a></li>
+</ul>			</div>
+							<div class="footer-bottom__right">
+					<span class="footer-bottom__membership-title">Accreditations &amp; Association Memberships</span>
+					<div class="footer-membership">
+													<img width="135" height="85" src="https://ak-sai.com/wp-content/uploads/2026/03/untitled-135-x-85-px.svg" alt="Partner" loading="lazy">
+													<img width="84" height="84" src="https://ak-sai.com/wp-content/uploads/2025/07/membership1.svg" alt="Partner" loading="lazy">
+													<img width="98" height="88" src="https://ak-sai.com/wp-content/uploads/2025/07/membership2.svg" alt="Partner" loading="lazy">
+													<img width="100" height="70" src="https://ak-sai.com/wp-content/uploads/2025/07/membership3.svg" alt="Partner" loading="lazy">
+													<img width="81" height="82" src="https://ak-sai.com/wp-content/uploads/2025/07/membership4.svg" alt="Partner" loading="lazy">
+													<img width="680" height="171" src="https://ak-sai.com/wp-content/uploads/2026/09/silk-route-destinations-logo.png" alt="Partner" loading="lazy">
+													<img width="88" height="88" src="https://ak-sai.com/wp-content/uploads/2025/07/membership6.svg" alt="Partner" loading="lazy">
+											</div>
+				</div>
+					</div>
+	</div>
+</footer>
+	
+<a href="https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you..." class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+	<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+</a>
+
+</div><!-- #page -->
+
+
+<div class="popup popup_cookies">
+	<div class="popup_content">
+		<strong>🍪 Our website uses cookies</strong>
+		<p>
+			Cookies are not a dessert, but a technology. They help us ensure security, improve website functionality, and tailor content and ads to you. We do not use them without your consent.		</p>
+		<button class="accept">Accept</button>
+		<button class="cancel">Decline</button>
+	</div>
+</div>
+
+<div class="popup popup_thank">
+	<div class="popup_content">
+		<strong>Thank you for your request!</strong>
+		<p>
+			We will contact you shortly.		</p>
+		<button class="accept">Close</button>
+	</div>
+</div>
+
+<div class="popup popup_avia">
+	<div class="popup_content">
+		<div class="close"></div>
+		<div class="content">
+			<img width="332" height="238" src="https://ak-sai.com/wp-content/themes/aksai/img/avia.png" srcset="https://ak-sai.com/wp-content/themes/aksai/img/avia@2x.png 2x">
+			<p>
+				Order tickets for your destination through our manager.			</p>
+		</div>
+		<div class="btns">
+			<a href="https://wa.me/996770962626?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you..." target="_blank" class="wh">WhatsApp</a>
+			<a href="tel:+996312962626" class="tel">+996312962626</a>
+		</div>
+	</div>
+</div>
+
+    <!-- Yandex.Metrika counter -->
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+            if (document.scripts[j].src === r) { return; }
+        }
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+    
+    ym(50851169, 'init', {
+        webvisor:true, 
+        clickmap:true, 
+        ecommerce:"dataLayer", 
+        accurateTrackBounce:true, 
+        trackLinks:true
+    });
+
+    ym(50851169, 'hit', window.location.href);
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/50851169" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->  
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/aksai/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script type="rocketlazyloadscript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="rocketlazyloadscript" id="pll_cookie_script-js-after">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+//# sourceURL=pll_cookie_script-js-after
+</script>
+<script type="rocketlazyloadscript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/mountaineering/razdelnaya-peak-expedition/|/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/checkout/??(.*)|/ru/checkout/??(.*)|/cart/?|/ru/cart/?|/my-account/??(.*)|/ru/my-account/??(.*)|/(index.php/)?(.*)wp-json(/.*|$)|http://(.*)/order-received/(.*)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://ak-sai.com","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script type="rocketlazyloadscript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="rocket_lazyload_css-js-extra">
+var rocket_lazyload_css_data = {"threshold":"300"};
+//# sourceURL=rocket_lazyload_css-js-extra
+</script>
+<script id="rocket_lazyload_css-js-after">
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+//# sourceURL=rocket_lazyload_css-js-after
+</script>
+<script data-minify="1" data-wp-strategy="defer" defer id="aksai-mobile-menu-js" src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/mobile-menu.js?ver=1793611010"></script>
+<script id="swiper-js-js" src="https://ak-sai.com/wp-content/themes/aksai/js/swiper-bundle.min.js?ver=11.0"></script>
+<script id="aksai-mainjs-js-extra">
+var aksai_ajax = {"url":"https://ak-sai.com/wp-admin/admin-ajax.php"};
+//# sourceURL=aksai-mainjs-js-extra
+</script>
+<script type="rocketlazyloadscript" data-minify="1" id="aksai-mainjs-js" data-rocket-src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/main.js?ver=1793611010" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" id="aksai-navigation-js" data-rocket-src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/navigation.js?ver=1793611010" data-rocket-defer defer></script>
+<script id="aksai-utm-wa-js-extra">
+var aksaiUTMWA = {"defaultNumber":"996770901616"};
+//# sourceURL=aksai-utm-wa-js-extra
+</script>
+<script data-minify="1" data-wp-strategy="defer" defer id="aksai-utm-wa-js" src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/utm-wa.js?ver=1793611010"></script>
+<script id="new-landing-js-js" src="https://ak-sai.com/wp-content/themes/aksai/js/new-landing.js?ver=2.0.4"></script>
+<script id="custom-calendar-js-extra">
+var tourDates = [{"date":"2027-07-03","title":"Asian Patagonia","link":"https://ak-sai.com/shop/trekking/asian-patagonia/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-17","title":"Asian Patagonia","link":"https://ak-sai.com/shop/trekking/asian-patagonia/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-31","title":"Asian Patagonia","link":"https://ak-sai.com/shop/trekking/asian-patagonia/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-06-19","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-06-26","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-03","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-10","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-17","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-24","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-31","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-07","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-14","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-21","title":"Pamir Adventure","link":"https://ak-sai.com/shop/trekking/pamir-adventure/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-06-19","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-06-26","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-03","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-10","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-17","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-20","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-24","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-31","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-07","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-14","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-21","title":"The Taste of Tien-Shan","link":"https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-03","title":"To The Heart of Tien-Shan","link":"https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-17","title":"To The Heart of Tien-Shan","link":"https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-07-31","title":"To The Heart of Tien-Shan","link":"https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/","category":"Trekking","category_color":"#e87b00"},{"date":"2027-08-14","title":"To The Heart of Tien-Shan","link":"https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/","category":"Trekking","category_color":"#e87b00"}];
+//# sourceURL=custom-calendar-js-extra
+</script>
+<script type="rocketlazyloadscript" data-minify="1" id="custom-calendar-js" data-rocket-src="https://ak-sai.com/wp-content/cache/min/1/wp-content/themes/aksai/js/custom-calendar.js?ver=1793611010" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" id="sourcebuster-js-js" data-rocket-src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.1.4" data-rocket-defer defer></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https://ak-sai.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script type="rocketlazyloadscript" id="wc-order-attribution-js" data-rocket-src="https://ak-sai.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.1.4" data-rocket-defer defer></script>
+<script data-ccm-injected="1" async data-wp-strategy="async" id="trustindex-loader-js-js" src="https://cdn.trustindex.io/loader.js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://ak-sai.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://ak-sai.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1793905475 -->

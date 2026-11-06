@@ -1,0 +1,13 @@
+{
+  "id": "kz-airports-ourairports",
+  "url": "https://ourairports.com/countries/KZ/airports.csv",
+  "retrievedAt": "2026-11-06T11:05:02.683076+00:00",
+  "status": 200,
+  "finalUrl": "https://ourairports.com/countries/KZ/airports.csv",
+  "bytes": 41205,
+  "sha256": "dded2fbbb35420f797a9dc33de25484b96d47528b47b13f5b3a83a2acc2c7e50",
+  "file": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+  "title": "",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/kz-airports-ourairports.txt"
+}

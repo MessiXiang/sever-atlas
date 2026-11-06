@@ -1,0 +1,2344 @@
+{
+  "id": "ap-ge-02",
+  "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:03.912690+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+  "bytes": 274668,
+  "sha256": "f909276f2c3c86a4548a804e054509299248ea1baca6ddaa92f58c9b44207611",
+  "file": "sources/neighbours-2026-11-06/ap-ge-02.html",
+  "title": "Kutaisi International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kutaisi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kutaisi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kutaisi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kutaisi+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Passenger figures",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#Passenger_figures",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Busiest routes",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#Busiest_routes",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%83%D9%88%D8%AA%D8%A7%D9%8A%D8%B3%D9%8A_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "مصرى",
+      "url": "https://arz.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%83%D9%88%D8%AA%D8%A7%D9%8A%D8%B3%D9%89_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%89",
+      "lang": "arz"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Kutaisi_Beyn%C9%99lxalq_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Беларуская (тарашкевіца)",
+      "url": "https://be-tarask.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B0%D1%96%D1%81%D1%96_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be-tarask"
+    },
+    {
+      "text": "Беларуская",
+      "url": "https://be.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B0%D1%96%D1%81%D1%96_(%D0%B0%D1%8D%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "be"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Čeština",
+      "url": "https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_leti%C5%A1t%C4%9B_Davida_Budovatele",
+      "lang": "cs"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Kopitnari",
+      "lang": "de"
+    },
+    {
+      "text": "Ελληνικά",
+      "url": "https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82_%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%9A%CE%BF%CF%85%CF%84%CE%AC%CE%B9%CF%83%CE%B9",
+      "lang": "el"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_de_Kopitnari",
+      "lang": "es"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Khuthaisi_rahvusvaheline_lennujaam",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%DA%A9%D9%88%D8%AA%D8%A7%D8%A6%DB%8C%D8%B3%DB%8C",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Kutaisin_lentoasema",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_David-IV_de_Kouta%C3%AFssi",
+      "lang": "fr"
+    },
+    {
+      "text": "Galego",
+      "url": "https://gl.wikipedia.org/wiki/Aeroporto_de_Kutaisi",
+      "lang": "gl"
+    },
+    {
+      "text": "עברית",
+      "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%9C_%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94_%D7%93%D7%95%D7%93_%D7%94%D7%91%D7%A0%D7%90%D7%99_-_%D7%9B%D7%95%D7%AA%D7%90%D7%99%D7%A1%D7%99",
+      "lang": "he"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/%C3%89p%C3%ADt%C5%91_D%C3%A1vid_Kutaiszi_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D5%94%D5%B8%D6%82%D5%A9%D5%A1%D5%B5%D5%AB%D5%BD%D5%AB_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6",
+      "lang": "hy"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_internazionale_di_Kutaisi",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B4%E3%82%A3%E3%83%88%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%B7%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%A3%E1%83%97%E1%83%90%E1%83%98%E1%83%A1%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BF%A0%ED%83%80%EC%9D%B4%EC%8B%9C_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Kopitnari",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Luchthaven_Koetaisi",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Kutaisi",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Kutaisi",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B0%D0%B8%D1%81%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Kutaisis_internationella_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B8%D0%BD%E2%80%8C%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%9A%D1%83%D1%82%D0%B0%D0%B8%D1%81%D0%B8",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Kopitnari_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B0%D1%97%D1%81%D1%96_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Kutaisi_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Kutaisi",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BA%AB%E5%A1%94%E4%BC%8A%E8%A5%BF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1156904#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&oldid=1371388335",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Kutaisi_International_Airport&id=1371388335&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Kutaisi_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:David_the_Builder_Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1156904",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "42°10′35″N 042°28′57″E ﻿ / ﻿ 42.17639°N 42.48250°E ﻿ / 42.17639; 42.48250",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Kutaisi_International_Airport&params=42_10_35_N_042_28_57_E_region:GE_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kutaisi_International_Airport_logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kutaisi_airport_interior_information.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "United Airports of Georgia",
+      "url": "https://en.wikipedia.org/wiki/United_Airports_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Wizz Air",
+      "url": "https://en.wikipedia.org/wiki/Wizz_Air",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "42°10′35″N 042°28′57″E ﻿ / ﻿ 42.17639°N 42.48250°E ﻿ / 42.17639; 42.48250",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Kutaisi_International_Airport&params=42_10_35_N_042_28_57_E_region:GE_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "kutaisi.aero",
+      "url": "http://www.kutaisi.aero/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgia_Imereti_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-GCM-2",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "David the Builder",
+      "url": "https://en.wikipedia.org/wiki/David_IV_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-Saak-KUT-3",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Imereti",
+      "url": "https://en.wikipedia.org/wiki/Imereti",
+      "lang": ""
+    },
+    {
+      "text": "United Airports of Georgia",
+      "url": "https://en.wikipedia.org/wiki/United_Airports_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:David_the_Builder_Kutaisi_International_Airport,_KUT,_Georgia_(41001395655).jpg",
+      "lang": ""
+    },
+    {
+      "text": "President of Georgia",
+      "url": "https://en.wikipedia.org/wiki/President_of_Georgia",
+      "lang": ""
+    },
+    {
+      "text": "Mikheil Saakashvili",
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili",
+      "lang": ""
+    },
+    {
+      "text": "Prime Minister",
+      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Viktor Orbán",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Orbán",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-KUTOpen-5",
+      "lang": ""
+    },
+    {
+      "text": "Wizz Air",
+      "url": "https://en.wikipedia.org/wiki/Wizz_Air",
+      "lang": ""
+    },
+    {
+      "text": "József Váradi",
+      "url": "https://en.wikipedia.org/wiki/József_Váradi",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "duty-free shop",
+      "url": "https://en.wikipedia.org/wiki/Duty-free_shop",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "marshrutka",
+      "url": "https://en.wikipedia.org/wiki/Marshrutka",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "low-cost airlines",
+      "url": "https://en.wikipedia.org/wiki/Low-cost_carrier",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-stats-11",
+      "lang": ""
+    },
+    {
+      "text": "Wizz Air",
+      "url": "https://en.wikipedia.org/wiki/Wizz_Air",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Railways",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Railways",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-:0-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Azimuth",
+      "url": "https://en.wikipedia.org/wiki/Azimuth_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-A4_Caucasus_NS24-14",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "Electra Airways",
+      "url": "https://en.wikipedia.org/wiki/Electra_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Katowice",
+      "url": "https://en.wikipedia.org/wiki/Katowice_Airport",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-KUT_KZ_26-16",
+      "lang": ""
+    },
+    {
+      "text": "Aqtau",
+      "url": "https://en.wikipedia.org/wiki/Aqtau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-KUT_KZ_26-16",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-KUT_KZ_26-16",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-KUT_KZ_26-16",
+      "lang": ""
+    },
+    {
+      "text": "Şymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Red Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "Smartwings",
+      "url": "https://en.wikipedia.org/wiki/Smartwings",
+      "lang": ""
+    },
+    {
+      "text": "Warsaw–Chopin",
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Chopin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Vanilla Sky Airlines",
+      "url": "https://en.wikipedia.org/wiki/Vanilla_Sky_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "Wizz Air",
+      "url": "https://en.wikipedia.org/wiki/Wizz_Air",
+      "lang": ""
+    },
+    {
+      "text": "Athens",
+      "url": "https://en.wikipedia.org/wiki/Athens_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Barcelona",
+      "url": "https://en.wikipedia.org/wiki/Barcelona_El_Prat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Beauvais",
+      "url": "https://en.wikipedia.org/wiki/Beauvais_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Berlin",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Bratislava",
+      "url": "https://en.wikipedia.org/wiki/Bratislava_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Budapest",
+      "url": "https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Charleroi",
+      "url": "https://en.wikipedia.org/wiki/Charleroi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-auto-25",
+      "lang": ""
+    },
+    {
+      "text": "Dortmund",
+      "url": "https://en.wikipedia.org/wiki/Dortmund_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Hahn",
+      "url": "https://en.wikipedia.org/wiki/Hahn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Hamburg",
+      "url": "https://en.wikipedia.org/wiki/Hamburg_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-Wizz_NS25_Upd-26",
+      "lang": ""
+    },
+    {
+      "text": "Katowice",
+      "url": "https://en.wikipedia.org/wiki/Katowice_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Larnaca",
+      "url": "https://en.wikipedia.org/wiki/Larnaca_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Lyon",
+      "url": "https://en.wikipedia.org/wiki/Lyon–Saint-Exupéry_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Madrid",
+      "url": "https://en.wikipedia.org/wiki/Madrid_Barajas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-Wizz_NS25_Upd-26",
+      "lang": ""
+    },
+    {
+      "text": "Memmingen",
+      "url": "https://en.wikipedia.org/wiki/Memmingen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-wizz7more-28",
+      "lang": ""
+    },
+    {
+      "text": "Milan–Malpensa",
+      "url": "https://en.wikipedia.org/wiki/Milan_Malpensa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Poznań",
+      "url": "https://en.wikipedia.org/wiki/Poznań–Ławica_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-auto-25",
+      "lang": ""
+    },
+    {
+      "text": "Prague",
+      "url": "https://en.wikipedia.org/wiki/Václav_Havel_Airport_Prague",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Rome–Ciampino",
+      "url": "https://en.wikipedia.org/wiki/Ciampino–G._B._Pastine_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Thessaloniki",
+      "url": "https://en.wikipedia.org/wiki/Thessaloniki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Venice-Marco Polo",
+      "url": "https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "Vilnius",
+      "url": "https://en.wikipedia.org/wiki/Vilnius_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Warsaw–Chopin",
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Chopin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "Wrocław",
+      "url": "https://en.wikipedia.org/wiki/Wrocław_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-OAG_World_May2025_KUT_569_569-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:David_the_Builder_Kutaisi_International_Airport_(KUT),_Georgia_(50632958608).jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Check_in_desk_Kutaisi.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kutaisi_airport_garden.jpg",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-stats-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "Warsaw Chopin Airport",
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Chopin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wizz Air",
+      "url": "https://en.wikipedia.org/wiki/Wizz_Air",
+      "lang": ""
+    },
+    {
+      "text": "Vienna International Airport",
+      "url": "https://en.wikipedia.org/wiki/Vienna_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Berlin Schönefeld Airport",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Schönefeld_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dortmund Airport",
+      "url": "https://en.wikipedia.org/wiki/Dortmund_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Katowice Airport",
+      "url": "https://en.wikipedia.org/wiki/Katowice_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-WAD_1-0",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-GCM_2-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for KUT\"",
+      "url": "http://www.gcmap.com/airport/KUT",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-Saak-KUT_3-0",
+      "lang": ""
+    },
+    {
+      "text": "\"The President of Georgia opened the runway at the David the Builder Kutaisi International Airport\"",
+      "url": "https://web.archive.org/web/20120919220333/http://president.gov.ge/en/PressOffice/News/Releases/?7803",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.president.gov.ge/en/PressOffice/News/Releases/?7803",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"United Airports of Georgia company website\"",
+      "url": "http://airports.ge/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-KUTOpen_5-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgia's president, Hungarian PM to open new airport in Kutaisi\"",
+      "url": "http://en.trend.az/regions/scaucasus/georgia/2070001.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Wizz Air запустил авиарейсы из Киева в Кутаиси\"",
+      "url": "http://www.interfax.com.ua/rus/eco/119099/",
+      "lang": ""
+    },
+    {
+      "text": "cite news",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_news",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "Vinci Airports company website",
+      "url": "http://www.vinci-airports.com/en/news/kutaisi-airport-commissioning-georgia",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20220805152843/https://www.vinci-airports.com/en/news/kutaisi-airport-commissioning-georgia",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Georgian Bus\"",
+      "url": "http://www.georgianbus.com/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Omnibus Express\"",
+      "url": "http://www.omnibusexpress.ge/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Kutaisi Public Transport Information\"",
+      "url": "http://michaeljennings.blogspot.co.uk/2013/02/kutaisi-airport-public-transport.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-stats_11-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-stats_11-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Number of Passengers Served Kutaisi International Airport\"",
+      "url": "https://gcaa.ge/%e1%83%92%e1%83%90%e1%83%93%e1%83%90%e1%83%a7%e1%83%95%e1%83%90%e1%83%9c%e1%83%98%e1%83%9a-%e1%83%9b%e1%83%92%e1%83%96%e1%83%90%e1%83%95%e1%83%a0%e1%83%97%e1%83%90-%e1%83%a0%e1%83%90%e1%83%9d%e1%83%93/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-:0_12-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Construction of New Terminal at Kutaisi International Airport to Start in August\"",
+      "url": "https://web.archive.org/web/20210117190451/http://georgiatoday.ge/news/7110/Construction-of-New-Terminal-at-Kutaisi-International-Airport-to-Start-in-August--",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://georgiatoday.ge/news/7110/Construction-of-New-Terminal-at-Kutaisi-International-Airport-to-Start-in-August--",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Renovated railway station to connect passengers to Kutaisi airport in Georgia's west\"",
+      "url": "https://agenda.ge/en/news/2022/1405",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-A4_Caucasus_NS24_14-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Azimuth late-Sep 2024 Caucasus Network Expansion\"",
+      "url": "https://www.aeroroutes.com/eng/240925-a4sep24",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Belarus airline Belavia launches Minsk-Kutaisi flights\"",
+      "url": "https://agenda.ge/en/news/2021/2055",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-KUT_KZ_26_16-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-KUT_KZ_26_16-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-KUT_KZ_26_16-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-KUT_KZ_26_16-3",
+      "lang": ""
+    },
+    {
+      "text": "\"FlyArystan increases the number of flights to Georgia\"",
+      "url": "https://tourcode.kz/kazakhstan/flyarystan-uvelichivaet-chislo-rejsov-v-gruziyu",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"Travel from Shymkent to Kutaisi\"",
+      "url": "https://flyarystan.com/en/directions/shymkent/shymkent-kutaisi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Pegasus Adds Istanbul – Kutaisi Service From mid-Dec 2023\"",
+      "url": "https://www.aeroroutes.com/eng/231206-pcdec23kut",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "\"Red Wings Adds Moscow Zhukovsky – Kutaisi From June 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250523-wzjun25kut",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Smartwings Poland NS25 Warsaw Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/250128-3zns25waw",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Flights to Mestia, Ambrolauri, and Batumi - Schedule and Prices\"",
+      "url": "https://mountainstories.ge/travel/item/1316-flights-to-mestia,-ambrolauri,-and-batumi-schedule-and-prices",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-7",
+      "lang": ""
+    },
+    {
+      "text": "9",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-8",
+      "lang": ""
+    },
+    {
+      "text": "10",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-9",
+      "lang": ""
+    },
+    {
+      "text": "11",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-10",
+      "lang": ""
+    },
+    {
+      "text": "12",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-11",
+      "lang": ""
+    },
+    {
+      "text": "13",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-12",
+      "lang": ""
+    },
+    {
+      "text": "14",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-13",
+      "lang": ""
+    },
+    {
+      "text": "15",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-14",
+      "lang": ""
+    },
+    {
+      "text": "16",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-15",
+      "lang": ""
+    },
+    {
+      "text": "17",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-16",
+      "lang": ""
+    },
+    {
+      "text": "18",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-17",
+      "lang": ""
+    },
+    {
+      "text": "19",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-OAG_World_May2025_KUT_569_569_22-18",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"Z Bratislavy sa bude lietať do Kutaisi, Larnaky, Kišiňova a Jerevanu\"",
+      "url": "https://www.teraz.sk/spravy/z-bratislavy-pribudaju-4-nove-linky/932885-clanok.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-auto_25-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-auto_25-1",
+      "lang": ""
+    },
+    {
+      "text": "\"2023 წლის ივნისიდან Wizz Air ქუთაისის აეროპორტიდან 5 ახალი მიმართულებით იფრენს\"",
+      "url": "https://www.radiotavisupleba.ge/a/32174059.html#0_8_9004_7769_2169_245109647",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-Wizz_NS25_Upd_26-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-Wizz_NS25_Upd_26-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Wizz Air NS25 Network Additions – 16JAN25\"",
+      "url": "https://www.aeroroutes.com/eng/250117-w6ns25",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Kutaisi-Lyon flights set to launch on June 3\"",
+      "url": "https://bm.ge/en/news/direct-kutaisi-lyon-flights-set-to-launch-on-june-3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-wizz7more_28-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Wizz Air to station two more airplanes in Kutaisi, add seven more flight destinations\"",
+      "url": "https://agenda.ge/en/news/2021/1794",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "\"Wizz Air makes a splash in Italy: 16 new routes and a third A321neo in Venice\"",
+      "url": "https://www.theflightclub.it/en/2025/08/wizz-air-makes-a-splash-in-italy-15-new-routes-and-a-third-a321neo-in-venice/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"Wizz Air NW24 Network Additions – 14SEP24\"",
+      "url": "https://www.aeroroutes.com/eng/240918-w6w4nw24",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Statistic KUT\"",
+      "url": "https://airports.ge/statistics/kutaisi/carried-passengers",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"According to total data for 2022, the number of flights recovered to the level of 88% from pre-Covid levels, whereas passenger count - to the level of 85% (in Georgian)\"",
+      "url": "https://gcaa.ge/2022-%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%AF%E1%83%90%E1%83%9B%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%AA%E1%83%94%E1%83%9B%E1%83%94%E1%83%91%E1%83%98%E1%83%97-%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98-%E1%83%A4%E1%83%A0%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%98-88-%E1%83%98%E1%83%97-%E1%83%AE%E1%83%9D%E1%83%9A%E1%83%9D-%E1%83%9B%E1%83%92%E1%83%96%E1%83%90%E1%83%95%E1%83%A0%E1%83%97%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%98-85-%E1%83%98%E1%83%97-%E1%83%90%E1%83%A6%E1%83%93%E1%83%92%E1%83%90",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"2019 წელს, ქუთაისის საერთაშორისო აეროპორტიდან ყველაზე პოპულარული მიმართულება ვარშავა იყო\"",
+      "url": "https://avianews.ge/2019-tsels-quthaisis-saerthashoriso-aeroportidan-qhvelaze-popularuli-mimarthuleba-varshava-iqho/",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "David the Builder Kutaisi International Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:David%20the%20Builder%20Kutaisi%20International%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://www.kutaisi.aero/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q1156904#P856",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UGKO\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UGKO.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for KUT",
+      "url": "https://web.archive.org/web/20121024072438/http://aviation-safety.net/database/airport/airport.php?id=KUT",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Portal:Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Georgia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Georgian_Railways_logo_(2016-present).svg",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Railway",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazian railway",
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_railway",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Baku–Tbilisi–Kars railway",
+      "url": "https://en.wikipedia.org/wiki/Baku–Tbilisi–Kars_railway",
+      "lang": ""
+    },
+    {
+      "text": "Transcaucasus Railway",
+      "url": "https://en.wikipedia.org/wiki/Transcaucasus_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan Autonomous Republic",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Kars–Gyumri–Tbilisi railway",
+      "url": "https://en.wikipedia.org/wiki/Kars–Gyumri–Tbilisi_railway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Metro",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi Metro",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Metro",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Akhmeteli–Varketili_Line",
+      "lang": ""
+    },
+    {
+      "text": "Akhmeteli–Varketili Line",
+      "url": "https://en.wikipedia.org/wiki/Akhmeteli–Varketili_Line",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Saburtalo_Line",
+      "lang": ""
+    },
+    {
+      "text": "Saburtalo Line",
+      "url": "https://en.wikipedia.org/wiki/Saburtalo_Line",
+      "lang": ""
+    },
+    {
+      "text": "Georgian Railways Class VMK EMU",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Railways_Class_VMK_EMU",
+      "lang": ""
+    },
+    {
+      "text": "Chiatura Ropeway",
+      "url": "https://en.wikipedia.org/wiki/Chiatura#Cablecars",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_railtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi railway station",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "Batumi railway station",
+      "url": "https://en.wikipedia.org/wiki/Batumi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:20_airtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_watertransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_Seaport",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Sea_Port",
+      "lang": ""
+    },
+    {
+      "text": "Kulevi",
+      "url": "https://en.wikipedia.org/wiki/Kulevi_oil_terminal",
+      "lang": ""
+    },
+    {
+      "text": "Supsa",
+      "url": "https://en.wikipedia.org/wiki/Supsa",
+      "lang": ""
+    },
+    {
+      "text": "Caucasus",
+      "url": "https://en.wikipedia.org/wiki/Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Template:Georgia_transit",
+      "lang": ""
+    },
+    {
+      "text": "North Caucasian Federal District (Russia)",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Russian_Caucasus",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Template:Armenia_transit",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sukhumi",
+      "url": "https://en.wikipedia.org/wiki/Sukhum_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ambrolauri",
+      "url": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mestia",
+      "url": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Natakhtari",
+      "url": "https://en.wikipedia.org/wiki/Natakhtari_Airfield",
+      "lang": ""
+    },
+    {
+      "text": "Poti",
+      "url": "https://en.wikipedia.org/wiki/Poti_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&oldid=1371388335",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&oldid=1371388335",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Georgia (country)",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Imereti",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Imereti",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from September 2019",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_September_2019",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Slovak-language sources (sk)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Slovak-language_sources_(sk)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Georgian-language sources (ka)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Georgian-language_sources_(ka)",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Georgian-language sources (ka)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Georgian-language_sources_(ka)",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kutaisi_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-ge-02.txt"
+}

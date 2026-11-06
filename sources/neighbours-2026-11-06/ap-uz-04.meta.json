@@ -1,0 +1,1034 @@
+{
+  "id": "ap-uz-04",
+  "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+  "retrievedAt": "2026-11-06T08:39:33.922876+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Zomin_Airport",
+  "bytes": 111804,
+  "sha256": "ca7ea5db34bb6cba6c2d1c65dd42606fc7e6a349ff3e980a9b175cc69df530e7",
+  "file": "sources/neighbours-2026-11-06/ap-uz-04.html",
+  "title": "Zomin Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Zomin+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Zomin+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Zomin+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Zomin+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Development",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#Development",
+      "lang": ""
+    },
+    {
+      "text": "2 Specification",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#Specification",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%B2%D9%88%D9%85%DB%8C%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Zomin_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q131386133#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&oldid=1363089208",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Zomin_Airport&id=1363089208&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Zomin_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q131386133",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Government of Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin",
+      "lang": ""
+    },
+    {
+      "text": "Zomin District",
+      "url": "https://en.wikipedia.org/wiki/Zomin_District",
+      "lang": ""
+    },
+    {
+      "text": "Jizzakh Region",
+      "url": "https://en.wikipedia.org/wiki/Jizzakh_Region",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "UZB",
+      "url": "https://en.wikipedia.org/wiki/Time_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "UTC+05:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+05:00",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "40°00′54.459″N 68°24′35.127″E ﻿ / ﻿ 40.01512750°N 68.40975750°E ﻿ / 40.01512750; 68.40975750 ﻿ ( Zomin Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Zomin_Airport&params=40_00_54.459_N_68_24_35.127_E_region:UZ_type:airport&title=Zomin+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-GCM-1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Zomin District",
+      "url": "https://en.wikipedia.org/wiki/Zomin_District",
+      "lang": ""
+    },
+    {
+      "text": "Jizzakh Region",
+      "url": "https://en.wikipedia.org/wiki/Jizzakh_Region",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Ergash Saliyev",
+      "url": "https://en.wikipedia.org/wiki/Ergash_Saliyev?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "L-410",
+      "url": "https://en.wikipedia.org/wiki/L-410",
+      "lang": ""
+    },
+    {
+      "text": "PC-24",
+      "url": "https://en.wikipedia.org/wiki/PC-24",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A320neo",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320neo",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Avia",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "Urumqi",
+      "url": "https://en.wikipedia.org/wiki/Urumqi",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Samarqand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Jizzakh Region",
+      "url": "https://en.wikipedia.org/wiki/Jizzakh_Region",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-GCM_1-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for OMN\"",
+      "url": "http://www.gcmap.com/airport/OMN",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "https://www.uzairways.com/en/press-center/news/zaamin-airport-ceremonial-opening",
+      "url": "https://www.uzairways.com/en/press-center/news/zaamin-airport-ceremonial-opening",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "https://www.uzairways.com/ru/press-center/news/torzhestvennoe-otkrytie-aeroporta-goroda-zaamin",
+      "url": "https://www.uzairways.com/ru/press-center/news/torzhestvennoe-otkrytie-aeroporta-goroda-zaamin",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "https://zomin.jizzax.uz/yangiliklar/2762-zomin-aeroporti-foydalanishga-topshirildi.html",
+      "url": "https://zomin.jizzax.uz/yangiliklar/2762-zomin-aeroporti-foydalanishga-topshirildi.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20240513164549/https://zomin.jizzax.uz/yangiliklar/2762-zomin-aeroporti-foydalanishga-topshirildi.html",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "https://www.gazeta.uz/ru/2023/09/02/zaamin/",
+      "url": "https://www.gazeta.uz/ru/2023/09/02/zaamin/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "https://www.gazeta.uz/oz/2023/09/02/zomin/",
+      "url": "https://www.gazeta.uz/oz/2023/09/02/zomin/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "https://www.gazeta.uz/ru/2023/09/02/zaamin/",
+      "url": "https://www.gazeta.uz/ru/2023/09/02/zaamin/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "https://www.uzairways.com/ru/press-center/news/uzbekistan-airways-zapuskaet-regulyarnye-reysy-v-zaamin",
+      "url": "https://www.uzairways.com/ru/press-center/news/uzbekistan-airways-zapuskaet-regulyarnye-reysy-v-zaamin",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "https://www.uzcaa.uz/ru/news/zomin-aerodromida-qayta-tiklash-ishlar-jarayonlarini-organish",
+      "url": "https://www.uzcaa.uz/ru/news/zomin-aerodromida-qayta-tiklash-ishlar-jarayonlarini-organish",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "https://www.gazeta.uz/ru/2024/06/22/zaamin/",
+      "url": "https://www.gazeta.uz/ru/2024/06/22/zaamin/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "https://www.spot.uz/ru/2024/06/24/zomin-silkavia/",
+      "url": "https://www.spot.uz/ru/2024/06/24/zomin-silkavia/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "https://uz.kursiv.media/2024-06-26/aeroport-zaamina-prinyal-pervyj-mezhdunarodnyj-rejs/",
+      "url": "https://uz.kursiv.media/2024-06-26/aeroport-zaamina-prinyal-pervyj-mezhdunarodnyj-rejs/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "https://www.flightradar24.com/data/flights/us1001",
+      "url": "https://www.flightradar24.com/data/flights/us1001",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "https://samarkandairport.com/en/press-center/press-releases/iz-mezhdunarodnogo-aeroporta-samarkanda-zapushcheny-pryamye-reysy-v-zaamin/",
+      "url": "https://samarkandairport.com/en/press-center/press-releases/iz-mezhdunarodnogo-aeroporta-samarkanda-zapushcheny-pryamye-reysy-v-zaamin/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "https://www.aeroroutes.com/eng/230907-hysep23afs",
+      "url": "https://www.aeroroutes.com/eng/230907-hysep23afs",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Andizhan",
+      "url": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fergana",
+      "url": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Termez",
+      "url": "https://en.wikipedia.org/wiki/Termez_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokand",
+      "url": "https://en.wikipedia.org/wiki/Kokand_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Muynak",
+      "url": "https://en.wikipedia.org/wiki/Muynak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyo",
+      "url": "https://en.wikipedia.org/wiki/Sariosiyo_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Uchkuduk",
+      "url": "https://en.wikipedia.org/wiki/Uchkuduk_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan",
+      "url": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chirchik",
+      "url": "https://en.wikipedia.org/wiki/Chirchik_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Karshi-Khanabad",
+      "url": "https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kungrad",
+      "url": "https://en.wikipedia.org/wiki/Kungrad_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakhtakor",
+      "url": "https://en.wikipedia.org/wiki/Pakhtakor_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent-Vostochny Tuzel",
+      "url": "https://en.wikipedia.org/wiki/Vostochny_Tuzel_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&oldid=1363089208",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&oldid=1363089208",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 2023",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_2023",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox mapframe without shape links in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Zomin_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-uz-04.txt"
+}

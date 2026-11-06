@@ -1,0 +1,6 @@
+{
+  "id": "mn-bluesky-home",
+  "url": "https://www.blueskyaviation.mn",
+  "retrievedAt": "2026-11-06T09:56:10.582868+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://www.blueskyaviation.mn']' returned non-zero exit status 6."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mn-mongolianairways-home",
+  "url": "https://www.mongolianairways.com/",
+  "retrievedAt": "2026-11-06T09:56:10.582595+00:00",
+  "status": 200,
+  "finalUrl": "https://www.mongolianairways.com/",
+  "bytes": 3160,
+  "sha256": "bf8d341ed3beb3f0a439938a348c39c318389dc3e08c751e735dd0c1dd859fcf",
+  "file": "sources/neighbours-2026-11-06/mn-mongolianairways-home.html",
+  "title": "Mongolian Airways LLC",
+  "links": [
+    {
+      "text": "English",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "Монгол",
+      "url": "https://www.mongolianairways.com/mgl",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/mn-mongolianairways-home.txt"
+}

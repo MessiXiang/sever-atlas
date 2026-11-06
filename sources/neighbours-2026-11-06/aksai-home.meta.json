@@ -1,0 +1,1039 @@
+{
+  "id": "aksai-home",
+  "url": "https://ak-sai.com/en/",
+  "retrievedAt": "2026-11-06T08:30:03.257660+00:00",
+  "status": 200,
+  "finalUrl": "https://ak-sai.com/",
+  "bytes": 185573,
+  "sha256": "fb703e660943ba3481b288d0511e46a7c4ad4ef035f8f14c7deac0248c8fe3a1",
+  "file": "sources/neighbours-2026-11-06/aksai-home.html",
+  "title": "Ak-Sai Travel | Kyrgyzstan & Central Asia Tours",
+  "links": [
+    {
+      "text": "",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "Tours",
+      "url": "https://ak-sai.com/shop/",
+      "lang": ""
+    },
+    {
+      "text": "The Great Silk Road",
+      "url": "https://ak-sai.com/product-category/silk-road-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan and Uzbekistan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/kyrgyzstan-uzbekistan/",
+      "lang": ""
+    },
+    {
+      "text": "Classical Kazakhstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/classical-kazakhstan/",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Turkmenistan and Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/uzbekistan-turkmenistan-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Kazakhstan and Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/uzbekistan-kazakhstan-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan, and Tajikistan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/turkmenistan-uzbekistan-kyrgyzstan-kazakhstan-and-tajikistan/",
+      "lang": ""
+    },
+    {
+      "text": "Cultural tours",
+      "url": "https://ak-sai.com/kyrgyzstan-tours/",
+      "lang": ""
+    },
+    {
+      "text": "The Way of Nomad",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/",
+      "lang": ""
+    },
+    {
+      "text": "The Land of Manas",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-land-of-manas/",
+      "lang": ""
+    },
+    {
+      "text": "Secrets of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Colors of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/colors-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Best sellers",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "The Way of Nomad",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/",
+      "lang": ""
+    },
+    {
+      "text": "Asian Patagonia",
+      "url": "https://ak-sai.com/shop/trekking/asian-patagonia/",
+      "lang": ""
+    },
+    {
+      "text": "The Land of Manas",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-land-of-manas/",
+      "lang": ""
+    },
+    {
+      "text": "Treasures of the World Nomad Games 2026",
+      "url": "https://ak-sai.com/shop/cultural-tours/treasures-of-world-nomad-games/",
+      "lang": ""
+    },
+    {
+      "text": "Secrets of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Guided Group Expedition to Khan-Tengri Peak",
+      "url": "https://ak-sai.com/shop/alpinism/khan-tengri-guided/",
+      "lang": ""
+    },
+    {
+      "text": "Pamir Adventure",
+      "url": "https://ak-sai.com/shop/trekking/pamir-adventure/",
+      "lang": ""
+    },
+    {
+      "text": "Guided Group Expedition to Lenin Peak",
+      "url": "https://ak-sai.com/shop/alpinism/lenin-peak-guided/",
+      "lang": ""
+    },
+    {
+      "text": "Active tours",
+      "url": "https://ak-sai.com/product-category/active-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopter Tour to Khan-Tengri Peak",
+      "url": "https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/",
+      "lang": ""
+    },
+    {
+      "text": "Astro Tour in Pamir Mountains",
+      "url": "https://ak-sai.com/shop/active-tours/pamir-astro-tour/",
+      "lang": ""
+    },
+    {
+      "text": "Trekking",
+      "url": "https://ak-sai.com/product-category/trekking/",
+      "lang": ""
+    },
+    {
+      "text": "Asian Patagonia",
+      "url": "https://ak-sai.com/shop/trekking/asian-patagonia/",
+      "lang": ""
+    },
+    {
+      "text": "Pamir Adventure",
+      "url": "https://ak-sai.com/shop/trekking/pamir-adventure/",
+      "lang": ""
+    },
+    {
+      "text": "The Taste of Tien-Shan",
+      "url": "https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/",
+      "lang": ""
+    },
+    {
+      "text": "To The Heart of Tien-Shan",
+      "url": "https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering",
+      "url": "https://ak-sai.com/mountaineering/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak Expedition (7134m)",
+      "url": "https://ak-sai.com/mountaineering/lenin-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Khan Tengri Peak Expedition (7010 m)",
+      "url": "https://ak-sai.com/mountaineering/khan-tengri-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Communism (Ismoil Somoni) & Korzhenevskaya (Ozodi) Peaks Expedition",
+      "url": "https://ak-sai.com/mountaineering/communism-korzhenevskaya-combined-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Pobeda Peak Expedition (7439 m)",
+      "url": "https://ak-sai.com/mountaineering/pobeda-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak & Khan Tengri Expedition",
+      "url": "https://ak-sai.com/mountaineering/lenin-khan-tengri-combined-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Razdelnaya Peak Expedition (6148 m)",
+      "url": "https://ak-sai.com/mountaineering/razdelnaya-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Marble Wall Peak Expedition (6400 m)",
+      "url": "https://ak-sai.com/mountaineering/marble-wall-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Yukhin Peak Climb (5130 m)",
+      "url": "https://ak-sai.com/mountaineering/yukhin-peak-climb/",
+      "lang": ""
+    },
+    {
+      "text": "Uchitel Peak & Yukhin Peak Climb",
+      "url": "https://ak-sai.com/mountaineering/uchitel-yukhin-combined-climb/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering Training in Ala-Archa",
+      "url": "https://ak-sai.com/mountaineering/mountaineering-training/",
+      "lang": ""
+    },
+    {
+      "text": "List of climbers",
+      "url": "https://en.amaclimb.com/climbers/",
+      "lang": ""
+    },
+    {
+      "text": "Ski tours",
+      "url": "https://ak-sai.com/ski-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Ski tour in Karkyra",
+      "url": "https://ak-sai.com/shop/ski-tours/karkyra-ski-tour/",
+      "lang": ""
+    },
+    {
+      "text": "Heliski in Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/ski-tours/heliski/",
+      "lang": ""
+    },
+    {
+      "text": "Camps",
+      "url": "https://ak-sai.com/camps/",
+      "lang": ""
+    },
+    {
+      "text": "Tent camps",
+      "url": "https://ak-sai.com/camps/tent-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak Camp 1",
+      "url": "https://ak-sai.com/camps/tent-camps/lenin-peak-camp-1/",
+      "lang": ""
+    },
+    {
+      "text": "Terskey Ala-Too",
+      "url": "https://ak-sai.com/camps/tent-camps/terskey-alatoo-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Karavshin",
+      "url": "https://ak-sai.com/camps/tent-camps/karavshin-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Engilchek",
+      "url": "https://ak-sai.com/camps/tent-camps/engilchek-camps/",
+      "lang": ""
+    },
+    {
+      "text": "North Engilchek Base Camp",
+      "url": "https://ak-sai.com/camps/tent-camps/north-engilchek/",
+      "lang": ""
+    },
+    {
+      "text": "South Engilchek Base Camp",
+      "url": "https://ak-sai.com/camps/tent-camps/south-engilchek/",
+      "lang": ""
+    },
+    {
+      "text": "Mountain huts",
+      "url": "https://ak-sai.com/camps/mountain-huts/",
+      "lang": ""
+    },
+    {
+      "text": "“Light House” Mountain Hut",
+      "url": "https://ak-sai.com/camps/mountain-huts/light-house-hut/",
+      "lang": ""
+    },
+    {
+      "text": "Ratsek Hut",
+      "url": "https://ak-sai.com/camps/mountain-huts/ratsek-hut/",
+      "lang": ""
+    },
+    {
+      "text": "Yurt camps",
+      "url": "https://ak-sai.com/camps/yurt-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Oimo-Tash Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/oimo-tash-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Karkyra Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/karkyra-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Son-Kul Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/son-kul-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "As a Nomad Tash Rabat Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/tash-rabat-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Achyk-Tash Base Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/achyk-tash-base-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Extras",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "About Company",
+      "url": "https://ak-sai.com/about-us/",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://ak-sai.com/about-us/",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://ak-sai.com/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Travel Agents",
+      "url": "https://ak-sai.com/travel-agents/",
+      "lang": ""
+    },
+    {
+      "text": "Our projects",
+      "url": "https://ak-sai.com/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Blog",
+      "url": "https://ak-sai.com/blog/",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://ak-sai.com/faq/",
+      "lang": ""
+    },
+    {
+      "text": "3D Tours",
+      "url": "https://virtualtour.kg/aksai",
+      "lang": ""
+    },
+    {
+      "text": "List of climbers",
+      "url": "https://en.amaclimb.com/climbers/",
+      "lang": ""
+    },
+    {
+      "text": "Options",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "Car rent",
+      "url": "https://ak-sai.com/car-rental/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Air Ticket Office",
+      "url": "https://ak-sai.com/avia/",
+      "lang": ""
+    },
+    {
+      "text": "Visas and Entry Rules for Kyrgyzstan",
+      "url": "https://ak-sai.com/visa/",
+      "lang": ""
+    },
+    {
+      "text": "Chat on WhatsApp",
+      "url": "https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you...",
+      "lang": ""
+    },
+    {
+      "text": "Email a Trip Specialist",
+      "url": "mailto:info@ak-sai.com?cc=leads%40ak-sai.com&subject=Request%20from%20Ak-Sai%20Travel&body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...",
+      "lang": ""
+    },
+    {
+      "text": "0",
+      "url": "https://ak-sai.com/cart/",
+      "lang": ""
+    },
+    {
+      "text": "Ру",
+      "url": "https://ak-sai.com/ru/",
+      "lang": "ru"
+    },
+    {
+      "text": "",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "Tours",
+      "url": "https://ak-sai.com/shop/",
+      "lang": ""
+    },
+    {
+      "text": "The Great Silk Road",
+      "url": "https://ak-sai.com/product-category/silk-road-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan and Uzbekistan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/kyrgyzstan-uzbekistan/",
+      "lang": ""
+    },
+    {
+      "text": "Classical Kazakhstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/classical-kazakhstan/",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Turkmenistan and Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/uzbekistan-turkmenistan-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Kazakhstan and Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/uzbekistan-kazakhstan-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan, and Tajikistan",
+      "url": "https://ak-sai.com/shop/silk-road-tours/turkmenistan-uzbekistan-kyrgyzstan-kazakhstan-and-tajikistan/",
+      "lang": ""
+    },
+    {
+      "text": "Cultural tours",
+      "url": "https://ak-sai.com/kyrgyzstan-tours/",
+      "lang": ""
+    },
+    {
+      "text": "The Way of Nomad",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/",
+      "lang": ""
+    },
+    {
+      "text": "The Land of Manas",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-land-of-manas/",
+      "lang": ""
+    },
+    {
+      "text": "Secrets of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Colors of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/colors-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Best sellers",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "The Way of Nomad",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/",
+      "lang": ""
+    },
+    {
+      "text": "Asian Patagonia",
+      "url": "https://ak-sai.com/shop/trekking/asian-patagonia/",
+      "lang": ""
+    },
+    {
+      "text": "The Land of Manas",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-land-of-manas/",
+      "lang": ""
+    },
+    {
+      "text": "Treasures of the World Nomad Games 2026",
+      "url": "https://ak-sai.com/shop/cultural-tours/treasures-of-world-nomad-games/",
+      "lang": ""
+    },
+    {
+      "text": "Secrets of Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/cultural-tours/secrets-of-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Guided Group Expedition to Khan-Tengri Peak",
+      "url": "https://ak-sai.com/shop/alpinism/khan-tengri-guided/",
+      "lang": ""
+    },
+    {
+      "text": "Pamir Adventure",
+      "url": "https://ak-sai.com/shop/trekking/pamir-adventure/",
+      "lang": ""
+    },
+    {
+      "text": "Guided Group Expedition to Lenin Peak",
+      "url": "https://ak-sai.com/shop/alpinism/lenin-peak-guided/",
+      "lang": ""
+    },
+    {
+      "text": "Active tours",
+      "url": "https://ak-sai.com/product-category/active-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopter Tour to Khan-Tengri Peak",
+      "url": "https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/",
+      "lang": ""
+    },
+    {
+      "text": "Astro Tour in Pamir Mountains",
+      "url": "https://ak-sai.com/shop/active-tours/pamir-astro-tour/",
+      "lang": ""
+    },
+    {
+      "text": "Trekking",
+      "url": "https://ak-sai.com/product-category/trekking/",
+      "lang": ""
+    },
+    {
+      "text": "Asian Patagonia",
+      "url": "https://ak-sai.com/shop/trekking/asian-patagonia/",
+      "lang": ""
+    },
+    {
+      "text": "Pamir Adventure",
+      "url": "https://ak-sai.com/shop/trekking/pamir-adventure/",
+      "lang": ""
+    },
+    {
+      "text": "The Taste of Tien-Shan",
+      "url": "https://ak-sai.com/shop/trekking/the-taste-of-tien-shan/",
+      "lang": ""
+    },
+    {
+      "text": "To The Heart of Tien-Shan",
+      "url": "https://ak-sai.com/shop/trekking/to-the-heart-of-tien-shan/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering",
+      "url": "https://ak-sai.com/mountaineering/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak Expedition (7134m)",
+      "url": "https://ak-sai.com/mountaineering/lenin-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Khan Tengri Peak Expedition (7010 m)",
+      "url": "https://ak-sai.com/mountaineering/khan-tengri-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Communism (Ismoil Somoni) & Korzhenevskaya (Ozodi) Peaks Expedition",
+      "url": "https://ak-sai.com/mountaineering/communism-korzhenevskaya-combined-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Pobeda Peak Expedition (7439 m)",
+      "url": "https://ak-sai.com/mountaineering/pobeda-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak & Khan Tengri Expedition",
+      "url": "https://ak-sai.com/mountaineering/lenin-khan-tengri-combined-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Razdelnaya Peak Expedition (6148 m)",
+      "url": "https://ak-sai.com/mountaineering/razdelnaya-peak-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Marble Wall Peak Expedition (6400 m)",
+      "url": "https://ak-sai.com/mountaineering/marble-wall-expedition/",
+      "lang": ""
+    },
+    {
+      "text": "Yukhin Peak Climb (5130 m)",
+      "url": "https://ak-sai.com/mountaineering/yukhin-peak-climb/",
+      "lang": ""
+    },
+    {
+      "text": "Uchitel Peak & Yukhin Peak Climb",
+      "url": "https://ak-sai.com/mountaineering/uchitel-yukhin-combined-climb/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering Training in Ala-Archa",
+      "url": "https://ak-sai.com/mountaineering/mountaineering-training/",
+      "lang": ""
+    },
+    {
+      "text": "List of climbers",
+      "url": "https://en.amaclimb.com/climbers/",
+      "lang": ""
+    },
+    {
+      "text": "Ski tours",
+      "url": "https://ak-sai.com/ski-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Ski tour in Karkyra",
+      "url": "https://ak-sai.com/shop/ski-tours/karkyra-ski-tour/",
+      "lang": ""
+    },
+    {
+      "text": "Heliski in Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/ski-tours/heliski/",
+      "lang": ""
+    },
+    {
+      "text": "Camps",
+      "url": "https://ak-sai.com/camps/",
+      "lang": ""
+    },
+    {
+      "text": "Tent camps",
+      "url": "https://ak-sai.com/camps/tent-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Lenin Peak Camp 1",
+      "url": "https://ak-sai.com/camps/tent-camps/lenin-peak-camp-1/",
+      "lang": ""
+    },
+    {
+      "text": "Terskey Ala-Too",
+      "url": "https://ak-sai.com/camps/tent-camps/terskey-alatoo-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Karavshin",
+      "url": "https://ak-sai.com/camps/tent-camps/karavshin-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Engilchek",
+      "url": "https://ak-sai.com/camps/tent-camps/engilchek-camps/",
+      "lang": ""
+    },
+    {
+      "text": "North Engilchek Base Camp",
+      "url": "https://ak-sai.com/camps/tent-camps/north-engilchek/",
+      "lang": ""
+    },
+    {
+      "text": "South Engilchek Base Camp",
+      "url": "https://ak-sai.com/camps/tent-camps/south-engilchek/",
+      "lang": ""
+    },
+    {
+      "text": "Mountain huts",
+      "url": "https://ak-sai.com/camps/mountain-huts/",
+      "lang": ""
+    },
+    {
+      "text": "“Light House” Mountain Hut",
+      "url": "https://ak-sai.com/camps/mountain-huts/light-house-hut/",
+      "lang": ""
+    },
+    {
+      "text": "Ratsek Hut",
+      "url": "https://ak-sai.com/camps/mountain-huts/ratsek-hut/",
+      "lang": ""
+    },
+    {
+      "text": "Yurt camps",
+      "url": "https://ak-sai.com/camps/yurt-camps/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Oimo-Tash Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/oimo-tash-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Karkyra Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/karkyra-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Son-Kul Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/son-kul-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "As a Nomad Tash Rabat Yurt Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/tash-rabat-yurt-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Achyk-Tash Base Camp",
+      "url": "https://ak-sai.com/camps/yurt-camps/achyk-tash-base-camp/",
+      "lang": ""
+    },
+    {
+      "text": "Extras",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "About Company",
+      "url": "https://ak-sai.com/about-us/",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://ak-sai.com/about-us/",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://ak-sai.com/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Travel Agents",
+      "url": "https://ak-sai.com/travel-agents/",
+      "lang": ""
+    },
+    {
+      "text": "Our projects",
+      "url": "https://ak-sai.com/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Blog",
+      "url": "https://ak-sai.com/blog/",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://ak-sai.com/faq/",
+      "lang": ""
+    },
+    {
+      "text": "3D Tours",
+      "url": "https://virtualtour.kg/aksai",
+      "lang": ""
+    },
+    {
+      "text": "List of climbers",
+      "url": "https://en.amaclimb.com/climbers/",
+      "lang": ""
+    },
+    {
+      "text": "Options",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "Car rent",
+      "url": "https://ak-sai.com/car-rental/",
+      "lang": ""
+    },
+    {
+      "text": "Ak-Sai Travel Air Ticket Office",
+      "url": "https://ak-sai.com/avia/",
+      "lang": ""
+    },
+    {
+      "text": "Visas and Entry Rules for Kyrgyzstan",
+      "url": "https://ak-sai.com/visa/",
+      "lang": ""
+    },
+    {
+      "text": "My Trip",
+      "url": "https://ak-sai.com/cart/",
+      "lang": ""
+    },
+    {
+      "text": "Chat on WhatsApp",
+      "url": "https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you...",
+      "lang": ""
+    },
+    {
+      "text": "Email a Trip Specialist",
+      "url": "mailto:info@ak-sai.com?cc=leads%40ak-sai.com&subject=Request%20from%20Ak-Sai%20Travel&body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...",
+      "lang": ""
+    },
+    {
+      "text": "Explore Tours in Kyrgyzstan",
+      "url": "https://ak-sai.com/shop/",
+      "lang": ""
+    },
+    {
+      "text": "Why Travel with Ak-Sai Travel",
+      "url": "https://ak-sai.com/#landing-trust",
+      "lang": ""
+    },
+    {
+      "text": "Why Travel with Ak-Sai Travel",
+      "url": "https://ak-sai.com/#landing-reviews",
+      "lang": ""
+    },
+    {
+      "text": "Cultural & Silk Road Journeys Multi-day cultural travel through historic cities and nomadic regions. Comfort and logistics are managed throughout View Options →",
+      "url": "https://ak-sai.com/shop/",
+      "lang": ""
+    },
+    {
+      "text": "Trekking & Hiking Guided mountain walks from moderate hikes to multi-day routes. Experienced guides and coordinated support throughout View Options →",
+      "url": "https://ak-sai.com/product-category/trekking/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering & Expeditions High-altitude climbs and technical expeditions supported by certified guides, structured acclimatization, and established base camps View Options →",
+      "url": "https://ak-sai.com/product-category/alpinism/",
+      "lang": ""
+    },
+    {
+      "text": "Ski Tours Winter mountain exploration from ski tours to heliski. Professional guides and safety equipment provided View Options →",
+      "url": "https://ak-sai.com/product-category/ski-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Active Tours Adventure tours in the Tien Shan and Pamir mountains, providing a variety of travel experiences, from helicopter expeditions to hikes through alpine meadows View Options →",
+      "url": "https://ak-sai.com/product-category/active-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Camps & Infrastructure Year-round and seasonal base camps with organized transfers and on-site support View Options →",
+      "url": "https://ak-sai.com/camps/",
+      "lang": ""
+    },
+    {
+      "text": "Cultural tours 7 days, 6 nights The Way of Nomad A tour with a deep dive into the traditions, rituals and lifestyle of the nomadic people of Kyrgyzstan View tour details →",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-way-of-nomad/",
+      "lang": ""
+    },
+    {
+      "text": "Cultural tours 6 days, 5 nights The Land of Manas This tour reveals the cultural essence of Kyrgyzstan through the Epic of Manas – a timeless legend that embodies the… View tour details →",
+      "url": "https://ak-sai.com/shop/cultural-tours/the-land-of-manas/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering 20 days, 19 nights Guided Group Expedition to Lenin Peak Climbing Lenin Peak (7134 m) along the classic route is a comfortable expedition for beginners and experienced climbers. You’ll enjoy… View tour details →",
+      "url": "https://ak-sai.com/shop/alpinism/lenin-peak-guided/",
+      "lang": ""
+    },
+    {
+      "text": "Trekking 14 days, 13 nights Asian Patagonia This tour is ideal for experienced travelers who are accustomed to long hikes at altitudes of up to 4400 meters… View tour details →",
+      "url": "https://ak-sai.com/shop/trekking/asian-patagonia/",
+      "lang": ""
+    },
+    {
+      "text": "3D tours",
+      "url": "https://virtualtour.kg/aksai/",
+      "lang": ""
+    },
+    {
+      "text": "Video gallery",
+      "url": "https://www.youtube.com/@AkSaiTravel",
+      "lang": ""
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.trustindex.io/?a=sys&c=top-rated-badge&url=/the-trustindex-verified-badge/",
+      "lang": ""
+    },
+    {
+      "text": "Browse Tours",
+      "url": "https://ak-sai.com/shop/",
+      "lang": ""
+    },
+    {
+      "text": "Plan Your Trip",
+      "url": "mailto:info@ak-sai.com?cc=leads%40ak-sai.com&subject=Request%20from%20Ak-Sai%20Travel&body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://ak-sai.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/aksaitravel.kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/aksaitravel",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@AksaiTravel",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you...",
+      "lang": ""
+    },
+    {
+      "text": "+996 312 90 16 16",
+      "url": "tel:+996312901616",
+      "lang": ""
+    },
+    {
+      "text": "+996 312 90 93 56",
+      "url": "tel:+996312909356",
+      "lang": ""
+    },
+    {
+      "text": "info@ak-sai.com",
+      "url": "mailto:info@ak-sai.com?cc=leads%40ak-sai.com&subject=Request%20from%20Ak-Sai%20Travel&body=Hello%21%20I%20am%20writing%20to%20you%20via%20the%20website%20ak-sai.com.%20I%20am%20interested%20in...",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://ak-sai.com/about-us/",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://ak-sai.com/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Projects",
+      "url": "https://ak-sai.com/projects/",
+      "lang": ""
+    },
+    {
+      "text": "Partner with Ak-Sai Travel",
+      "url": "https://ak-sai.com/travel-agents/",
+      "lang": ""
+    },
+    {
+      "text": "Cultural Tours",
+      "url": "https://ak-sai.com/product-category/cultural-tours/",
+      "lang": ""
+    },
+    {
+      "text": "Trekking",
+      "url": "https://ak-sai.com/product-category/trekking/",
+      "lang": ""
+    },
+    {
+      "text": "Mountaineering",
+      "url": "https://ak-sai.com/mountaineering/",
+      "lang": ""
+    },
+    {
+      "text": "Camps",
+      "url": "https://ak-sai.com/camps/",
+      "lang": ""
+    },
+    {
+      "text": "Ski Tours",
+      "url": "https://ak-sai.com/product-category/ski-tours/",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://ak-sai.com/faq/",
+      "lang": ""
+    },
+    {
+      "text": "Visa & Entry Requirements",
+      "url": "https://ak-sai.com/visa/",
+      "lang": ""
+    },
+    {
+      "text": "Car Rental",
+      "url": "https://ak-sai.com/car-rental/",
+      "lang": ""
+    },
+    {
+      "text": "Flights",
+      "url": "https://ak-sai.com/avia/",
+      "lang": ""
+    },
+    {
+      "text": "Public offer",
+      "url": "https://ak-sai.com/public-offer/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://ak-sai.com/privacy-policy/",
+      "lang": ""
+    },
+    {
+      "text": "Contacts",
+      "url": "https://ak-sai.com/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/996770901616?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you...",
+      "lang": ""
+    },
+    {
+      "text": "WhatsApp",
+      "url": "https://wa.me/996770962626?text=Hello%21+I+am+writing+to+you+via+the+website.+Please+could+you...",
+      "lang": ""
+    },
+    {
+      "text": "+996312962626",
+      "url": "tel:+996312962626",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/aksai-home.txt"
+}

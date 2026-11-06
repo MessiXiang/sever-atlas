@@ -1,0 +1,479 @@
+{
+  "id": "silk-home",
+  "url": "https://www.silk-avia.com/",
+  "retrievedAt": "2026-11-06T08:29:59.982790+00:00",
+  "status": 200,
+  "finalUrl": "https://www.silk-avia.com/uz/",
+  "bytes": 170131,
+  "sha256": "27eb0b5f91e4d593011163b041d5e339d3e29382713c699cf92bea15bf6f82d2",
+  "file": "sources/neighbours-2026-11-06/silk-home.html",
+  "title": "Silkavia",
+  "links": [
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Tashkiliy tuzilma",
+      "url": "https://www.silk-avia.com/uz/about/title.php",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Bronni boshqarish",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=uz",
+      "lang": ""
+    },
+    {
+      "text": "Tabriklash xizmati",
+      "url": "https://www.silk-avia.com/uz/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Parvoz ma'lumotnomasi",
+      "url": "https://www.silk-avia.com/uz/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Bronni bekor qilish",
+      "url": "https://www.silk-avia.com/uz/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz/uz",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/#minmenu-sub-1",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Tashkiliy tuzilma",
+      "url": "https://www.silk-avia.com/uz/about/title.php",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Bronni boshqarish",
+      "url": "https://pss.silk-avia.com/ibe/reservation?lang=uz",
+      "lang": ""
+    },
+    {
+      "text": "Tabriklash xizmati",
+      "url": "https://www.silk-avia.com/uz/congratulation/",
+      "lang": ""
+    },
+    {
+      "text": "Parvoz ma'lumotnomasi",
+      "url": "https://www.silk-avia.com/uz/flight-certificate/",
+      "lang": ""
+    },
+    {
+      "text": "Bronni bekor qilish",
+      "url": "https://www.silk-avia.com/uz/cancel/",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Helicopters",
+      "url": "https://flyhelicopters.uz/uz",
+      "lang": ""
+    },
+    {
+      "text": "Bog'lanish",
+      "url": "https://www.silk-avia.com/uz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501-22-12",
+      "url": "tel:+998 55 501-22-12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "mailto:silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Yuklash",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "Yuklash",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://www.silk-avia.com/ru/",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "url": "https://www.silk-avia.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/.min-menu, .min-header",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/#header-hidden",
+      "lang": ""
+    },
+    {
+      "text": "Batafsil",
+      "url": "https://silk-avia.com/uz/flights/",
+      "lang": ""
+    },
+    {
+      "text": "Qayerdan {{from_city.city_abbr}} Qayerdan {{from_city.city_name}}",
+      "url": "https://www.silk-avia.com/uz/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Qayerga {{to_city.city_abbr}} Qayerga {{to_city.city_name}}",
+      "url": "https://www.silk-avia.com/uz/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Sana Sanani tanlang",
+      "url": "https://www.silk-avia.com/uz/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "Qaytish Sanani tanlang",
+      "url": "https://www.silk-avia.com/uz/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/#modal-atention",
+      "lang": ""
+    },
+    {
+      "text": "Ok",
+      "url": "javascript:;",
+      "lang": ""
+    },
+    {
+      "text": "Qayerdan {{from_city.city_name}} {{from_city.city_abbr}}",
+      "url": "https://www.silk-avia.com/uz/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Qayerga {{to_city.city_name}} {{to_city.city_abbr}}",
+      "url": "https://www.silk-avia.com/uz/#select-city",
+      "lang": ""
+    },
+    {
+      "text": "Sana Sanani tanlang",
+      "url": "https://www.silk-avia.com/uz/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "Qaytish Sanani tanlang",
+      "url": "https://www.silk-avia.com/uz/#select-dates",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/#passengers-sub",
+      "lang": ""
+    },
+    {
+      "text": "Ok",
+      "url": "javascript:;",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.silk-avia.com/uz/#modal-atention",
+      "lang": ""
+    },
+    {
+      "text": "Buxoro, Urganch va Samarqandga yangi ORZU va ORZU PLUS tariflari bo‘yicha parvoz qiling! 5 October 2026",
+      "url": "https://www.silk-avia.com/uz/news/new-tarif/",
+      "lang": ""
+    },
+    {
+      "text": "“Uzbekistan Helicopters” МЧЖ ходимлари  Ислом цивилизацияси марказига ташриф буюрдилар “Uzbekistan Helicopters” МЧЖ ходимлари Ислом цивилизацияси марказига ташриф буюрдилар Ходимларнинг маънавий-маърифий салоҳиятини юксалтириш, миллий тарихимиз ва бой маданий меросимизга ҳурмат туйғусини мустаҳкамлаш мақсадида 2026 йил 3 июль куни “Uzbekistan Helicopters” МЧЖ ходимлари учун Тошкент шаҳридаги Ислом цивилизацияси марказига маърифий экскурсия ташкил этилди. Ташриф давомида иштирокчилар Марказнинг замонавий экспозициялари орқали Ўзбекистон заминидан етишиб чиққан буюк алломаларнинг бой илмий ва маънавий мероси, ислом цивилизациясининг жаҳон илм-фани ва маданияти тараққиётига қўшган беқиёс ҳиссаси ҳамда халқимизнинг асрлар давомида шаклланган миллий ва маънавий қадриятлари билан яқиндан танишдилар. Экскурсия иштирокчиларига юртимизнинг бой тарихий мероси, илм-фан ва маърифат ривожига муносиб ҳисса қўшган аждодларимиз ҳаёти ва фаолияти ҳақида қизиқарли маълумотлар тақдим этилди. Бу эса ходимларда миллий ғурур, ватанпарварлик туйғуларини янада мустаҳкамлаш, тарихий меросимизга эҳтиромни ошириш ҳамда маънавий дунёқарашни бойитишга хизмат қилди. “Uzbekistan Helicopters” МЧЖда жамоанинг маънавий-маърифий салоҳиятини юксалтириш, ходимларни миллий ва умуминсоний қадриятлар руҳида тарбиялаш, шунингдек, ички туризмни ривожлантиришга қаратилган бундай тадбирларни мунтазам ташкил этишга алоҳида эътибор қаратилмоқда. 10 July 2026",
+      "url": "https://www.silk-avia.com/uz/news/islamic-centr/",
+      "lang": ""
+    },
+    {
+      "text": "Buxoro va Sariosiyoni bog‘lamoqdamiz: yanada ko‘proq qulay parvozlar! 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/more-buhara/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia parvozlar dasturini kengaytirmoqda: yangi yo‘nalishlar va qatnovlar chastotasining oshishi 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/more-flites/",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia parvozlar dasturining yangilanishi haqida: ustuvor vazifamiz — yo‘lovchilarimizning qulayligi va xavfsizligi 26 June 2026",
+      "url": "https://www.silk-avia.com/uz/news/snijenie-reysov/",
+      "lang": ""
+    },
+    {
+      "text": "Parolni unutdingizmi?",
+      "url": "https://www.silk-avia.com/uz/auth/forgot.php",
+      "lang": ""
+    },
+    {
+      "text": "Roʻyxatdan oʻtish",
+      "url": "https://www.silk-avia.com/uz/auth/reg.php",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "+998 55 501 22 12",
+      "url": "tel:+998 55 501 22 12",
+      "lang": ""
+    },
+    {
+      "text": "silkavia@uzairways.com",
+      "url": "https://www.silk-avia.com/uz/silkavia@uzairways.com",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/silkavia_live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/silkavia.live",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.hititcs.silkavia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/ru/app/silk-avia/id6451193926",
+      "lang": ""
+    },
+    {
+      "text": "Chiptalar izlash",
+      "url": "https://www.silk-avia.com/uz/",
+      "lang": ""
+    },
+    {
+      "text": "Yo‘nalishlar",
+      "url": "https://www.silk-avia.com/uz/routes/",
+      "lang": ""
+    },
+    {
+      "text": "Jadval",
+      "url": "https://drive.google.com/file/d/1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH/view?usp=drive_link",
+      "lang": ""
+    },
+    {
+      "text": "Tenderlar",
+      "url": "https://drive.google.com/drive/folders/1la9oYFOXjQ91J6_fS30c3tnvz36T0H-y",
+      "lang": ""
+    },
+    {
+      "text": "Biz haqimizda",
+      "url": "https://www.silk-avia.com/uz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Bizning flot",
+      "url": "https://www.silk-avia.com/uz/about/fleet/",
+      "lang": ""
+    },
+    {
+      "text": "Boshqaruv",
+      "url": "https://www.silk-avia.com/uz/about/team/",
+      "lang": ""
+    },
+    {
+      "text": "Ofislar",
+      "url": "https://www.silk-avia.com/uz/contacts/",
+      "lang": ""
+    },
+    {
+      "text": "Bo'sh ish o'rinlari",
+      "url": "https://www.silk-avia.com/uz/jobs/",
+      "lang": ""
+    },
+    {
+      "text": "Ma'lumot",
+      "url": "javascript:void(0)",
+      "lang": ""
+    },
+    {
+      "text": "Muhim va foydali",
+      "url": "https://www.silk-avia.com/uz/usefull/",
+      "lang": ""
+    },
+    {
+      "text": "Qoidalar",
+      "url": "https://www.silk-avia.com/uz/info/rules.php",
+      "lang": ""
+    },
+    {
+      "text": "Yangiliklar",
+      "url": "https://www.silk-avia.com/uz/news/",
+      "lang": ""
+    },
+    {
+      "text": "Bog'lanish",
+      "url": "https://www.silk-avia.com/uz/contacts/#feedback",
+      "lang": ""
+    },
+    {
+      "text": "Life-Style.uz",
+      "url": "https://life-style.uz/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/silk-home.txt"
+}

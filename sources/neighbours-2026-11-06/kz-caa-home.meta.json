@@ -1,0 +1,749 @@
+{
+  "id": "kz-caa-home",
+  "url": "https://caa.gov.kz/",
+  "retrievedAt": "2026-11-06T09:45:49.316031+00:00",
+  "status": 200,
+  "finalUrl": "https://caa.gov.kz/ru",
+  "bytes": 81439,
+  "sha256": "55049ee6ae13e14216bce3415d5bb01c5d914ac2e06ac05d2477175df1a1d471",
+  "file": "sources/neighbours-2026-11-06/kz-caa-home.html",
+  "title": "АО Авиационная администрация Казахстана",
+  "links": [
+    {
+      "text": "Войти",
+      "url": "https://caa.gov.kz/admin/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru",
+      "lang": ""
+    },
+    {
+      "text": "SEC 2026 Глобальный симпозиум Неделя ИКАО по авиационной безопасности 2026 20–22 октября Астана →",
+      "url": "https://caa.gov.kz/ru/avsec-week",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/profile.php?id=100018811424169",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/caa_kaz",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/aviation-administration-of-kazakhstan/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru",
+      "lang": ""
+    },
+    {
+      "text": "О нас",
+      "url": "https://caa.gov.kz/ru/o-nas",
+      "lang": ""
+    },
+    {
+      "text": "О нас",
+      "url": "https://caa.gov.kz/ru/o-nas",
+      "lang": ""
+    },
+    {
+      "text": "Видение и миссия",
+      "url": "https://caa.gov.kz/ru/videnie-i-missiya",
+      "lang": ""
+    },
+    {
+      "text": "Совет директоров",
+      "url": "https://caa.gov.kz/ru/directors",
+      "lang": ""
+    },
+    {
+      "text": "Руководство",
+      "url": "https://caa.gov.kz/ru/managements",
+      "lang": ""
+    },
+    {
+      "text": "Структура",
+      "url": "https://caa.gov.kz/ru/struktura",
+      "lang": ""
+    },
+    {
+      "text": "Стратегия развития на 2024 – 2028 годы",
+      "url": "https://caa.gov.kz/ru/strategiya-razvitiya-na-2024-2028-gody",
+      "lang": ""
+    },
+    {
+      "text": "Политика и цели по безопасности полетов АО «Авиационная администрация Казахстана»",
+      "url": "https://caa.gov.kz/ru/politika-i-celi-po-bezopasnosti-poletov",
+      "lang": ""
+    },
+    {
+      "text": "Антикоррупционный комплаенс",
+      "url": "https://caa.gov.kz/ru/antikorrupcionnyj-komplaens",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://caa.gov.kz/ru/contacts",
+      "lang": ""
+    },
+    {
+      "text": "Вакансии",
+      "url": "https://caa.gov.kz/ru/vakansii",
+      "lang": ""
+    },
+    {
+      "text": "Вакансии",
+      "url": "https://caa.gov.kz/ru/vakansii",
+      "lang": ""
+    },
+    {
+      "text": "Смотреть все",
+      "url": "https://caa.gov.kz/ru/vakansii",
+      "lang": ""
+    },
+    {
+      "text": "Регистрация ВС",
+      "url": "https://caa.gov.kz/ru/registraciya",
+      "lang": ""
+    },
+    {
+      "text": "Регистрация ВС",
+      "url": "https://caa.gov.kz/ru/registraciya",
+      "lang": ""
+    },
+    {
+      "text": "Государственная регистрация гражданского воздушного судна",
+      "url": "https://caa.gov.kz/ru/registration/gosudarstvennaya-registraciya-grazhdanskih-vozdushnyh-sudov",
+      "lang": ""
+    },
+    {
+      "text": "Учет БАС",
+      "url": "https://caa.gov.kz/ru/uchet-bpla",
+      "lang": ""
+    },
+    {
+      "text": "Деятельность",
+      "url": "https://caa.gov.kz/deyatelnost",
+      "lang": ""
+    },
+    {
+      "text": "Деятельность",
+      "url": "https://caa.gov.kz/deyatelnost",
+      "lang": ""
+    },
+    {
+      "text": "Департамент упрощения формальностей",
+      "url": "https://caa.gov.kz/ru/deyatelnost/formalnostej",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной эксплуатации",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной годности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-godnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной безопасности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aviacionnoj-bezopasnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэронавигации",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aeronavigacii",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэродромов (вертодромов) и наземного обслуживания",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aerodromov",
+      "lang": ""
+    },
+    {
+      "text": "Департамент лицензирования",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-licenzirovaniya",
+      "lang": ""
+    },
+    {
+      "text": "Управление по экзаменационной деятельности",
+      "url": "https://caa.gov.kz/ru/ekzamenatory",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной медицины",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aviacionnoj-mediciny",
+      "lang": ""
+    },
+    {
+      "text": "Финансовый департамент",
+      "url": "https://caa.gov.kz/ru/deyatelnost/finance-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент по устойчивому развитию",
+      "url": "https://caa.gov.kz/ru/sustainability",
+      "lang": ""
+    },
+    {
+      "text": "Департамент системы управления и нормотворчества",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-sistemy-upravleniya",
+      "lang": ""
+    },
+    {
+      "text": "Юридический департамент",
+      "url": "https://caa.gov.kz/ru/deyatelnost/yuridicheskij-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент беспилотных авиационных систем",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-bespilotnyh-aviacyonnyh-sistem",
+      "lang": ""
+    },
+    {
+      "text": "Департамент бухгалтерского учета и финансовой отчетности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/bukh-uchet",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://caa.gov.kz/ru/blog",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://caa.gov.kz/ru/blog",
+      "lang": ""
+    },
+    {
+      "text": "Сми о нас",
+      "url": "https://caa.gov.kz/ru/smi-o-nas",
+      "lang": ""
+    },
+    {
+      "text": "График приема граждан",
+      "url": "https://caa.gov.kz/ru/grafik-priema-grazhdan",
+      "lang": ""
+    },
+    {
+      "text": "График приема граждан",
+      "url": "https://caa.gov.kz/ru/grafik-priema-grazhdan",
+      "lang": ""
+    },
+    {
+      "text": "Устойчивое развитие",
+      "url": "https://caa.gov.kz/ru/sustainability",
+      "lang": ""
+    },
+    {
+      "text": "Устойчивое развитие",
+      "url": "https://caa.gov.kz/ru/sustainability",
+      "lang": ""
+    },
+    {
+      "text": "Открыть авиакомпанию",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Открыть авиакомпанию",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Открытие авиакомпании",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/aoc_ru",
+      "lang": ""
+    },
+    {
+      "text": "Открытие компании по выполнению авиационных работ",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/awc_ru",
+      "lang": ""
+    },
+    {
+      "text": "Авиация общего назначения (некоммерческие полеты)",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/gao_ru",
+      "lang": ""
+    },
+    {
+      "text": "Карта ограничений для дронов",
+      "url": "https://caa.gov.kz/ru/karta-poletov-dronov",
+      "lang": ""
+    },
+    {
+      "text": "Карта ограничений для дронов",
+      "url": "https://caa.gov.kz/ru/karta-poletov-dronov",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/search",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru",
+      "lang": ""
+    },
+    {
+      "text": "SEC 2026 Неделя ИКАО по авиационной безопасности 2026 20–22 октября · Астана →",
+      "url": "https://caa.gov.kz/ru/avsec-week",
+      "lang": ""
+    },
+    {
+      "text": "О нас",
+      "url": "https://caa.gov.kz/ru/o-nas",
+      "lang": ""
+    },
+    {
+      "text": "Видение и миссия",
+      "url": "https://caa.gov.kz/ru/videnie-i-missiya",
+      "lang": ""
+    },
+    {
+      "text": "Совет директоров",
+      "url": "https://caa.gov.kz/ru/directors",
+      "lang": ""
+    },
+    {
+      "text": "Руководство",
+      "url": "https://caa.gov.kz/ru/managements",
+      "lang": ""
+    },
+    {
+      "text": "Структура",
+      "url": "https://caa.gov.kz/ru/struktura",
+      "lang": ""
+    },
+    {
+      "text": "Стратегия развития на 2024 – 2028 годы",
+      "url": "https://caa.gov.kz/ru/strategiya-razvitiya-na-2024-2028-gody",
+      "lang": ""
+    },
+    {
+      "text": "Политика и цели по безопасности полетов АО «Авиационная администрация Казахстана»",
+      "url": "https://caa.gov.kz/ru/politika-i-celi-po-bezopasnosti-poletov",
+      "lang": ""
+    },
+    {
+      "text": "Антикоррупционный комплаенс",
+      "url": "https://caa.gov.kz/ru/antikorrupcionnyj-komplaens",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://caa.gov.kz/ru/contacts",
+      "lang": ""
+    },
+    {
+      "text": "Вакансии",
+      "url": "https://caa.gov.kz/ru/vakansii",
+      "lang": ""
+    },
+    {
+      "text": "Смотреть все",
+      "url": "https://caa.gov.kz/ru/vakansii",
+      "lang": ""
+    },
+    {
+      "text": "Регистрация ВС",
+      "url": "https://caa.gov.kz/ru/registraciya",
+      "lang": ""
+    },
+    {
+      "text": "Государственная регистрация гражданского воздушного судна",
+      "url": "https://caa.gov.kz/ru/registration/gosudarstvennaya-registraciya-grazhdanskih-vozdushnyh-sudov",
+      "lang": ""
+    },
+    {
+      "text": "Учет БАС",
+      "url": "https://caa.gov.kz/ru/uchet-bpla",
+      "lang": ""
+    },
+    {
+      "text": "Деятельность",
+      "url": "https://caa.gov.kz/deyatelnost",
+      "lang": ""
+    },
+    {
+      "text": "Департамент упрощения формальностей",
+      "url": "https://caa.gov.kz/ru/deyatelnost/formalnostej",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной эксплуатации",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной годности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-godnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной безопасности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aviacionnoj-bezopasnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэронавигации",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aeronavigacii",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэродромов (вертодромов) и наземного обслуживания",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aerodromov",
+      "lang": ""
+    },
+    {
+      "text": "Департамент лицензирования",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-licenzirovaniya",
+      "lang": ""
+    },
+    {
+      "text": "Управление по экзаменационной деятельности",
+      "url": "https://caa.gov.kz/ru/ekzamenatory",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной медицины",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aviacionnoj-mediciny",
+      "lang": ""
+    },
+    {
+      "text": "Финансовый департамент",
+      "url": "https://caa.gov.kz/ru/deyatelnost/finance-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент по устойчивому развитию",
+      "url": "https://caa.gov.kz/ru/sustainability",
+      "lang": ""
+    },
+    {
+      "text": "Департамент системы управления и нормотворчества",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-sistemy-upravleniya",
+      "lang": ""
+    },
+    {
+      "text": "Юридический департамент",
+      "url": "https://caa.gov.kz/ru/deyatelnost/yuridicheskij-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент беспилотных авиационных систем",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-bespilotnyh-aviacyonnyh-sistem",
+      "lang": ""
+    },
+    {
+      "text": "Департамент бухгалтерского учета и финансовой отчетности",
+      "url": "https://caa.gov.kz/ru/deyatelnost/bukh-uchet",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://caa.gov.kz/ru/blog",
+      "lang": ""
+    },
+    {
+      "text": "Сми о нас",
+      "url": "https://caa.gov.kz/ru/smi-o-nas",
+      "lang": ""
+    },
+    {
+      "text": "График приема граждан",
+      "url": "https://caa.gov.kz/ru/grafik-priema-grazhdan",
+      "lang": ""
+    },
+    {
+      "text": "Устойчивое развитие",
+      "url": "https://caa.gov.kz/ru/sustainability",
+      "lang": ""
+    },
+    {
+      "text": "Открыть авиакомпанию",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Открытие авиакомпании",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/aoc_ru",
+      "lang": ""
+    },
+    {
+      "text": "Открытие компании по выполнению авиационных работ",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/awc_ru",
+      "lang": ""
+    },
+    {
+      "text": "Авиация общего назначения (некоммерческие полеты)",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-letnoj-ekspluataci/gao_ru",
+      "lang": ""
+    },
+    {
+      "text": "Карта ограничений для дронов",
+      "url": "https://caa.gov.kz/ru/karta-poletov-dronov",
+      "lang": ""
+    },
+    {
+      "text": "Департамент упрощения формальностей",
+      "url": "https://caa.gov.kz/deyatelnost/formalnostej",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной эксплуатации (открытие авиакомпании)",
+      "url": "https://caa.gov.kz/deyatelnost/departament-letnoj-ekspluataci",
+      "lang": ""
+    },
+    {
+      "text": "Департамент летной годности",
+      "url": "https://caa.gov.kz/deyatelnost/departament-letnoj-godnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной безопасности",
+      "url": "https://caa.gov.kz/deyatelnost/departament-aviacionnoj-bezopasnosti",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэронавигации",
+      "url": "https://caa.gov.kz/deyatelnost/departament-aeronavigacii",
+      "lang": ""
+    },
+    {
+      "text": "Департамент аэродромов (вертодромов) и наземного обслуживания",
+      "url": "https://caa.gov.kz/deyatelnost/departament-aerodromov",
+      "lang": ""
+    },
+    {
+      "text": "Департамент лицензирования",
+      "url": "https://caa.gov.kz/deyatelnost/departament-licenzirovaniya",
+      "lang": ""
+    },
+    {
+      "text": "Департамент авиационной медицины",
+      "url": "https://caa.gov.kz/deyatelnost/departament-aviacionnoj-mediciny",
+      "lang": ""
+    },
+    {
+      "text": "Финансовый департамент",
+      "url": "https://caa.gov.kz/deyatelnost/finance-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент по устойчивому развитию",
+      "url": "https://caa.gov.kz/cooperation",
+      "lang": ""
+    },
+    {
+      "text": "Департамент системы управления и нормотворчества",
+      "url": "https://caa.gov.kz/deyatelnost/departament-sistemy-upravleniya",
+      "lang": ""
+    },
+    {
+      "text": "Юридический департамент",
+      "url": "https://caa.gov.kz/deyatelnost/yuridicheskij-departament",
+      "lang": ""
+    },
+    {
+      "text": "Департамент беспилотных авиационных систем",
+      "url": "https://caa.gov.kz/deyatelnost/departament-bespilotnyh-aviacyonnyh-sistem",
+      "lang": ""
+    },
+    {
+      "text": "Донесения об авиационных событиях",
+      "url": "https://caa.gov.kz/deyatelnost/departament-upravleniya/sistema-dobrovolnogo-predstavleniya-dannyh-ob-aviacionnyh-sobytiyah",
+      "lang": ""
+    },
+    {
+      "text": "Донесения по авиационной безопасности",
+      "url": "https://caa.gov.kz/otchetnost-ob-ab",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее",
+      "url": "https://caa.gov.kz/ru/menu-bezopasnost-poletov",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее",
+      "url": "https://caa.gov.kz/ru/deyatelnost/departament-aviacionnoj-bezopasnosti",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее",
+      "url": "https://caa.gov.kz/pravila-glavnaya",
+      "lang": ""
+    },
+    {
+      "text": "КАРТОГРАММА КОРРУПЦИИ",
+      "url": "https://caa.gov.kz/cartogram-of-corruption",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/zakon-i-poryadok",
+      "lang": ""
+    },
+    {
+      "text": "Список новых принятых НПА",
+      "url": "https://caa.gov.kz/spisok-novyh-prinyatyh-npa",
+      "lang": ""
+    },
+    {
+      "text": "Стандарты ИКАО",
+      "url": "https://elibrary.icao.int/home",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее",
+      "url": "https://caa.gov.kz/ru/blog",
+      "lang": ""
+    },
+    {
+      "text": "Казахстан и Китай договорились о дальнейшем расширении авиасообщения",
+      "url": "https://caa.gov.kz/ru/blog/post/kazahstan-i-kitaj-dogovorilis-o-dalnejshem-rasshirenii-aviasoobshcheniya",
+      "lang": ""
+    },
+    {
+      "text": "Казахстан и Узбекистан договорились об увеличении частоты рейсов между странами",
+      "url": "https://caa.gov.kz/ru/blog/post/kazahstan-i-uzbekistan-dogovorilis-ob-uvelichenii-chastoty-rejsov-mezhdu-stranami",
+      "lang": ""
+    },
+    {
+      "text": "Казахстан принял участие на третьей конференции Рабочей группы по сотрудничеству в сфере гражданской авиации «Центральная Азия – Китай»",
+      "url": "https://caa.gov.kz/ru/blog/post/kazahstan-prinyal-uchastie-na-tretej-konferencii-rabochej-gruppy-po-sotrudnichestvu-v-sfere-grazhdanskoj-aviacii-centralnaya-aziya-kitaj",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее",
+      "url": "https://caa.gov.kz/ru/smi-o-nas",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/kakie-aeroporty-kazahstana-chashche-fiksiruyut-stolknoveniya-samoletov-s-pticami",
+      "lang": ""
+    },
+    {
+      "text": "Какие аэропорты Казахстана чаще фиксируют столкновения самолетов с птицами",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/kakie-aeroporty-kazahstana-chashche-fiksiruyut-stolknoveniya-samoletov-s-pticami",
+      "lang": ""
+    },
+    {
+      "text": "inform.kz",
+      "url": "https://www.inform.kz/ru/kakie-aeroporti-kazahstana-chashe-fiksiruyut-stolknoveniya-samoletov-sptitsami-d14765bc",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/chislo-vnutrennih-aviarejsov-v-kazahstane-vyroslo-do-890-v-nedelyu",
+      "lang": ""
+    },
+    {
+      "text": "Число внутренних авиарейсов в Казахстане выросло до 890 в неделю",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/chislo-vnutrennih-aviarejsov-v-kazahstane-vyroslo-do-890-v-nedelyu",
+      "lang": ""
+    },
+    {
+      "text": "tv7.kz",
+      "url": "https://tv7.kz/ru/projects/news-ru/48509-chislo-vnutrennih-aviarejsov-v-kazahstane-vyroslo-do-890-v-nedelju/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/do-nedeli-aviacionnoj-bezopasnosti-ikao-2026-v-astane-ostalas-vsego-odna-nedelya",
+      "lang": ""
+    },
+    {
+      "text": "До Недели авиационной безопасности ИКАО 2026 в Астане осталась всего одна неделя",
+      "url": "https://caa.gov.kz/ru/smi-o-nas/post/do-nedeli-aviacionnoj-bezopasnosti-ikao-2026-v-astane-ostalas-vsego-odna-nedelya",
+      "lang": ""
+    },
+    {
+      "text": "dknews.kz",
+      "url": "https://dknews.kz/ru/eksklyuziv-dk/406638-aviacionnaya-bezopasnost-v-usloviyah-novyh-globalnyh",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/profile.php?id=100018811424169",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/caa_kaz",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/aviation-administration-of-kazakhstan/",
+      "lang": ""
+    },
+    {
+      "text": "Об ААК",
+      "url": "https://caa.gov.kz/ru/o-nas",
+      "lang": ""
+    },
+    {
+      "text": "НПА",
+      "url": "https://caa.gov.kz/ru/normativnye-dokumenty",
+      "lang": ""
+    },
+    {
+      "text": "Деятельность",
+      "url": "https://caa.gov.kz/ru/deyatelnost/formalnostej",
+      "lang": ""
+    },
+    {
+      "text": "Сертификация",
+      "url": "https://caa.gov.kz/ru/registration/sertifikaciya",
+      "lang": ""
+    },
+    {
+      "text": "Пресс-служба",
+      "url": "https://caa.gov.kz/ru/blog",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://caa.gov.kz/ru/faq",
+      "lang": ""
+    },
+    {
+      "text": "frontoffice@caa.gov.kz",
+      "url": "mailto:frontoffice@caa.gov.kz",
+      "lang": ""
+    },
+    {
+      "text": "+7 (7172) 79-82-28",
+      "url": "tel: +7 (7172) 79-82-28",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://caa.gov.kz/ru/avsec-week",
+      "lang": ""
+    },
+    {
+      "text": "Подробнее о симпозиуме",
+      "url": "https://caa.gov.kz/ru/avsec-week",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kz-caa-home.txt"
+}

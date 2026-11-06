@@ -1,0 +1,1494 @@
+{
+  "id": "ap-tj-07",
+  "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+  "retrievedAt": "2026-11-06T08:39:41.831124+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Kulob_Airport",
+  "bytes": 173938,
+  "sha256": "376db334f2133f6f787c714a7ed66669a679565b0698efd36c8cf393948d8286",
+  "file": "sources/neighbours-2026-11-06/ap-tj-07.html",
+  "title": "Kulob Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kulob+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kulob+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Kulob+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Kulob+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Airfield and runway",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Airfield_and_runway",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Former services",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Former_services",
+      "lang": ""
+    },
+    {
+      "text": "4 Traffic and throughput",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Traffic_and_throughput",
+      "lang": ""
+    },
+    {
+      "text": "5 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "5.1 Annual passenger traffic",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Annual_passenger_traffic",
+      "lang": ""
+    },
+    {
+      "text": "5.2 Annual cargo volume",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Annual_cargo_volume",
+      "lang": ""
+    },
+    {
+      "text": "6 Ground transportation",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#Ground_transportation",
+      "lang": ""
+    },
+    {
+      "text": "7 See also",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "8 References",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "9 External links",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Kulob_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%DA%A9%D9%88%D9%84%D8%A7%D8%A8",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Kulob",
+      "lang": "fr"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Kulob",
+      "lang": "id"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Kulyab",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Kulab",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Kulob",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8F%D0%B1_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%9A%D3%AF%D0%BB%D0%BE%D0%B1",
+      "lang": "tg"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8F%D0%B1_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Kulob",
+      "lang": "vi"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2231909#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&oldid=1382085449",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Kulob_Airport&id=1382085449&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Kulob_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2231909",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "37°59′18″N 069°48′18″E ﻿ / ﻿ 37.98833°N 69.80500°E ﻿ / 37.98833; 69.80500",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Kulob_Airport&params=37_59_18_N_069_48_18_E_type:airport_region:TJ",
+      "lang": ""
+    },
+    {
+      "text": "Tajik",
+      "url": "https://en.wikipedia.org/wiki/Tajik_language",
+      "lang": ""
+    },
+    {
+      "text": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Russian_language",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kulyab_Airport_Osokin.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulob",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon Region",
+      "url": "https://en.wikipedia.org/wiki/Khatlon_Region",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "37°59′18″N 069°48′18″E ﻿ / ﻿ 37.98833°N 69.80500°E ﻿ / 37.98833; 69.80500",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Kulob_Airport&params=37_59_18_N_069_48_18_E_type:airport_region:TJ",
+      "lang": ""
+    },
+    {
+      "text": "airport-kulob .tj",
+      "url": "https://airport-kulob.tj/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Tajikistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Tajik",
+      "url": "https://en.wikipedia.org/wiki/Tajik_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "international airport",
+      "url": "https://en.wikipedia.org/wiki/International_airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulob",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon Region",
+      "url": "https://en.wikipedia.org/wiki/Khatlon_Region",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Russia",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "dissolution of the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Yakovlev Yak-40",
+      "url": "https://en.wikipedia.org/wiki/Yakovlev_Yak-40",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-official-2",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-154",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-official-2",
+      "lang": ""
+    },
+    {
+      "text": "Russian Federation",
+      "url": "https://en.wikipedia.org/wiki/Russian_Federation",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-official-2",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-official-2",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "mean sea level",
+      "url": "https://en.wikipedia.org/wiki/Mean_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt concrete",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A320 family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320_family",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 737",
+      "url": "https://en.wikipedia.org/wiki/Boeing_737",
+      "lang": ""
+    },
+    {
+      "text": "Tupolev Tu-154",
+      "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-154",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Nordwind Airlines",
+      "url": "https://en.wikipedia.org/wiki/Nordwind_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "Tajik Air",
+      "url": "https://en.wikipedia.org/wiki/Tajik_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Ural Airlines",
+      "url": "https://en.wikipedia.org/wiki/Ural_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow–Domodedovo",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "East Air",
+      "url": "https://en.wikipedia.org/wiki/East_Air",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow–Domodedovo",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Novosibirsk_Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow–Domodedovo",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Novosibirsk_Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Somon Air",
+      "url": "https://en.wikipedia.org/wiki/Somon_Air",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Saratov Airlines",
+      "url": "https://en.wikipedia.org/wiki/Saratov_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_note-caa-12",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan Railways",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan_Railways?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Tajik Railways",
+      "url": "https://en.wikipedia.org/wiki/Tajik_Railways",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "AIP Tajikistan",
+      "url": "https://web.archive.org/web/20130331010024/http://aviadocs.net/AIP/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-official_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-official_2-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-official_2-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-official_2-3",
+      "lang": ""
+    },
+    {
+      "text": "\"История аэропорта\"",
+      "url": "https://airport-kulob.tj/ru/pages/2",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Kulyab Private Jet Charter\"",
+      "url": "https://jettly.com/airports/kulyab-tju",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Nordwind запускает прямые рейсы из Казани в Куляб - Enter\"",
+      "url": "https://entermedia.io/news/nordwind-zapuskaet-pryamye-rejsy-iz-kazani-v-kulyab/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"«Таджик Эйр» открывает рейсы в Куляб и Пенджикент - Новости Таджикистана - Avesta.tj\"",
+      "url": "https://avesta.tj/2025/01/09/tadzhik-ejr-otkryvaet-rejsy-v-kulyab-i-pendzhikent/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights from Kulyab (TJU)\"",
+      "url": "https://www.flightsfrom.com/TJU",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights from Kulyab - TJU\"",
+      "url": "https://www.directflights.com/TJU",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Tajikistan revokes licences of East Air, Somon Air planes\"",
+      "url": "https://www.ch-aviation.com/news/32185-tajikistan-revokes-licences-of-east-air-somon-air-planes",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"S7 Airlines flight schedule from Kulyab\"",
+      "url": "https://www.polets.ru/cgi-bin/sh.pl?Mode=Naprav&Lang=&Source=Full&IndexFrom=121&CityFrom=klb&IndexTo=0&CityTo=all&Day=12&Month=9&Time=00&Period=0&Sort=w",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Somon Air resumes regular flights\"",
+      "url": "https://somonair.com/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Saratov Airlines ceases operations following safety review\"",
+      "url": "https://www.flightglobal.com/programmes/saratov-airlines-ceases-operations-following-safety-review/128362.article",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-7",
+      "lang": ""
+    },
+    {
+      "text": "9",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-8",
+      "lang": ""
+    },
+    {
+      "text": "10",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-9",
+      "lang": ""
+    },
+    {
+      "text": "11",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-caa_12-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Main operational indicators of civil aviation of the Republic of Tajikistan\"",
+      "url": "https://caa.tj/en/statistics/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"In Tajikistan, the passenger traffic at international airports exceeded 2.9 million people\"",
+      "url": "https://en.avesta.tj/2026/01/28/in-tajikistan-the-passenger-traffic-at-international-airports-exceeded-2-9-million-people-in-2025/",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit&section=14",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://airport-kulob.tj/",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bokhtar",
+      "url": "https://en.wikipedia.org/wiki/Bokhtar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulob",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (airport)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Garm",
+      "url": "https://en.wikipedia.org/wiki/Garm_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Isfara",
+      "url": "https://en.wikipedia.org/wiki/Isfara_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khorog",
+      "url": "https://en.wikipedia.org/wiki/Khorog_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Murgab",
+      "url": "https://en.wikipedia.org/wiki/Murgab_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Penjikent",
+      "url": "https://en.wikipedia.org/wiki/Penjikent_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Ayni (air base)",
+      "url": "https://en.wikipedia.org/wiki/Ayni_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:TajikistanStub.svg",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon Region",
+      "url": "https://en.wikipedia.org/wiki/Khatlon_Region",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Khatlon-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Khatlon-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Khatlon-geo-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&oldid=1382085449",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&oldid=1382085449",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon Region",
+      "url": "https://en.wikipedia.org/wiki/Category:Khatlon_Region",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Khatlon Region geography stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Khatlon_Region_geography_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from October 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_October_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Tajik-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Tajik-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Russian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Russian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using lang-rus with only langx compatible parameters",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_lang-rus_with_only_langx_compatible_parameters",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from October 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2026",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from September 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_September_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the EasyTimeline extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_EasyTimeline_extension",
+      "lang": ""
+    },
+    {
+      "text": "Official website different in Wikidata and Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Tajik-language sources (tg)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Tajik-language_sources_(tg)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Kulob_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Kulob_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tj-07.txt"
+}

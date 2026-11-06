@@ -1,0 +1,4 @@
+Агаарын тээвэрлэгчийн гэрчилгээ /Дунд нисэх онгоц/
+
+Columns: operator; certificate; first issued; renewed; valid until; operation.
+Геосан ХХК | АТ-019 | 2006.04.13 | 2023.11.20 | 2026.11.27 | Захиалгат нислэг

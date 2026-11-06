@@ -1,0 +1,2659 @@
+{
+  "id": "ap-uz-12",
+  "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+  "retrievedAt": "2026-11-06T08:39:37.159938+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+  "bytes": 330934,
+  "sha256": "fb1aece28ea7980181627b38873af3e5fa580aa8803c1f58bbbd8773257fbfff",
+  "file": "sources/neighbours-2026-11-06/ap-uz-12.html",
+  "title": "Samarkand International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Samarkand+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Samarkand+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Samarkand+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Samarkand+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "1.1 Renovation",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Renovation",
+      "lang": ""
+    },
+    {
+      "text": "2 New Terminal",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#New_Terminal",
+      "lang": ""
+    },
+    {
+      "text": "3 Infrastructure",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Infrastructure",
+      "lang": ""
+    },
+    {
+      "text": "4 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "5 Transportation",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Transportation",
+      "lang": ""
+    },
+    {
+      "text": "5.1 Public transport",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Public_transport",
+      "lang": ""
+    },
+    {
+      "text": "5.2 Taxi",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Taxi",
+      "lang": ""
+    },
+    {
+      "text": "6 Statistics",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Statistics",
+      "lang": ""
+    },
+    {
+      "text": "7 See also",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "8 Notes",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#Notes",
+      "lang": ""
+    },
+    {
+      "text": "9 References",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "10 External links",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%B3%D9%85%D8%B1%D9%82%D9%86%D8%AF_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "lang": "ar"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Samarkand_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Samarqand",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%B3%D9%85%D8%B1%D9%82%D9%86%D8%AF",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Samarcande",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Szamarkandi_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Samarkand",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Samarcanda",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%A7%88%EB%A5%B4%EC%B9%B8%ED%8A%B8_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4_(%D0%B0%D0%B1%D0%B0_%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD)",
+      "lang": "ky"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Samarkand",
+      "lang": "ms"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": "nl"
+    },
+    {
+      "text": "Norsk bokmål",
+      "url": "https://no.wikipedia.org/wiki/Samarkand_internasjonale_lufthavn",
+      "lang": "nb"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Samarkanda",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Samarkand",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Српски / srpski",
+      "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4",
+      "lang": "sr"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D2%9B%D0%B0%D0%BD%D0%B4",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Semerkant_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%B3%D9%85%D8%B1%D9%82%D9%86%D8%AF_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Samarqand_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Samarkand",
+      "lang": "vi"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E6%92%92%E9%A6%AC%E7%88%BE%E7%BD%95%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q976746#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&oldid=1382093195",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Samarkand_International_Airport&id=1382093195&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSamarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Samarkand_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q976746",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "39°42′02″N 66°59′02″E ﻿ / ﻿ 39.70056°N 66.98389°E ﻿ / 39.70056; 66.98389",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Samarkand_International_Airport&params=39_42_02_N_66_59_02_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzbek",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Samarqand_Airport_Logo.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Samarkand_Internation_Airport's_new_passenger_terminal.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Bakhtiyor Fazilov",
+      "url": "https://en.wikipedia.org/wiki/Bakhtiyor_Fazilov",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Air Marakanda",
+      "url": "https://en.wikipedia.org/wiki/Air_Marakanda?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Samarqand Region",
+      "url": "https://en.wikipedia.org/wiki/Samarqand_Region",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Air Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Air_Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "UTC+05:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+05:00",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "39°42′02″N 66°59′02″E ﻿ / ﻿ 39.70056°N 66.98389°E ﻿ / 39.70056; 66.98389",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Samarkand_International_Airport&params=39_42_02_N_66_59_02_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://samarkandairport.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Uzbekistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Янги_Ўзбекистон-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ a ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "airport of entry",
+      "url": "https://en.wikipedia.org/wiki/Airport_of_entry",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent International Airport",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "hub",
+      "url": "https://en.wikipedia.org/wiki/Hub_airport",
+      "lang": ""
+    },
+    {
+      "text": "Air Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Air_Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "history of Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "terminal",
+      "url": "https://en.wikipedia.org/wiki/Airport_terminal",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "charter flights",
+      "url": "https://en.wikipedia.org/wiki/Charter_flights",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Samarkand_airport_(SKD_-_UTSS)_Domestic_31.05.2022.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Samarkand_airport_(SKD_-_UTSS)_interior_31.05.2022.jpg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Samarkand_airport_(SKD_-_UTSS)_Entrance_from_airfield_31.05.2022.jpg",
+      "lang": ""
+    },
+    {
+      "text": "President",
+      "url": "https://en.wikipedia.org/wiki/President_(government_title)",
+      "lang": ""
+    },
+    {
+      "text": "Shavkat Mirziyoyev",
+      "url": "https://en.wikipedia.org/wiki/Shavkat_Mirziyoyev",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-aw-newterm-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "open skies",
+      "url": "https://en.wikipedia.org/wiki/Open_skies",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Аеродром_Самерканд.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "gates",
+      "url": "https://en.wikipedia.org/wiki/Gate_(airport)",
+      "lang": ""
+    },
+    {
+      "text": "passengers",
+      "url": "https://en.wikipedia.org/wiki/Passengers",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-aw-newterm-13",
+      "lang": ""
+    },
+    {
+      "text": "astronomer",
+      "url": "https://en.wikipedia.org/wiki/Astronomer",
+      "lang": ""
+    },
+    {
+      "text": "Ulugh Beg",
+      "url": "https://en.wikipedia.org/wiki/Ulugh_Beg",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "eGates",
+      "url": "https://en.wikipedia.org/wiki/Automated_border_control_system",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "azimuth",
+      "url": "https://en.wikipedia.org/wiki/Azimuth_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Krasnodar",
+      "url": "https://en.wikipedia.org/wiki/Krasnodar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Adler-Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-A4_CAsia-28",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-SKD_Development_NW25-29",
+      "lang": ""
+    },
+    {
+      "text": "Centrum Air",
+      "url": "https://en.wikipedia.org/wiki/Centrum_Air",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "Dushanbe",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "Guangzhou",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-C6_SKD-CAN-33",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-C6_IST_NS25-34",
+      "lang": ""
+    },
+    {
+      "text": "Khabarovsk",
+      "url": "https://en.wikipedia.org/wiki/Khabarovsk_Novy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-C6_SKD_NS25_wide-35",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 35 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Centrum_RUS_NS25-36",
+      "lang": ""
+    },
+    {
+      "text": "Moscow-Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 36 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-37",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-C6July-38",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 37 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-C6July-38",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/David_Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 38 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-TLV_Resumprion_260503-39",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 39 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-40",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 40 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-41",
+      "lang": ""
+    },
+    {
+      "text": "Flydubai",
+      "url": "https://en.wikipedia.org/wiki/Flydubai",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 41 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-42",
+      "lang": ""
+    },
+    {
+      "text": "[ 42 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-43",
+      "lang": ""
+    },
+    {
+      "text": "Loong Air",
+      "url": "https://en.wikipedia.org/wiki/Loong_Air",
+      "lang": ""
+    },
+    {
+      "text": "Xi'an",
+      "url": "https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 43 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-44",
+      "lang": ""
+    },
+    {
+      "text": "Nordwind Airlines",
+      "url": "https://en.wikipedia.org/wiki/Nordwind_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 44 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-N4_SKD_NMG-45",
+      "lang": ""
+    },
+    {
+      "text": "Pobeda",
+      "url": "https://en.wikipedia.org/wiki/Pobeda_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qanot Sharq",
+      "url": "https://en.wikipedia.org/wiki/Qanot_Sharq",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 45 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-HH_MOW_NS23-46",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-HH_NS26-47",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 46 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-HH_NS26-47",
+      "lang": ""
+    },
+    {
+      "text": "Rossiya Airlines",
+      "url": "https://en.wikipedia.org/wiki/Rossiya_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 47 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-SU_UZB_25-48",
+      "lang": ""
+    },
+    {
+      "text": "S7 Airlines",
+      "url": "https://en.wikipedia.org/wiki/S7_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Türkistan",
+      "url": "https://en.wikipedia.org/wiki/Äziret_Sūltan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 48 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-49",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 49 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-50",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "SunExpress",
+      "url": "https://en.wikipedia.org/wiki/SunExpress",
+      "lang": ""
+    },
+    {
+      "text": "İzmir",
+      "url": "https://en.wikipedia.org/wiki/İzmir_Adnan_Menderes_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 50 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-51",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/İstanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 51 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-TK_NS_24-52",
+      "lang": ""
+    },
+    {
+      "text": "Ural Airlines",
+      "url": "https://en.wikipedia.org/wiki/Ural_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Krasnoyarsk–International",
+      "url": "https://en.wikipedia.org/wiki/Krasnoyarsk_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 52 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-53",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 53 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-54",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 54 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-U6_to_UZB-55",
+      "lang": ""
+    },
+    {
+      "text": "Utair",
+      "url": "https://en.wikipedia.org/wiki/Utair",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 55 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-56",
+      "lang": ""
+    },
+    {
+      "text": "[ 56 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-57",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 57 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Moscow-58",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 58 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-59",
+      "lang": ""
+    },
+    {
+      "text": "Tel Aviv",
+      "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 59 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-60",
+      "lang": ""
+    },
+    {
+      "text": "Medina",
+      "url": "https://en.wikipedia.org/wiki/Prince_Mohammad_bin_Abdulaziz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 60 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-61",
+      "lang": ""
+    },
+    {
+      "text": "Vietjet Qazaqstan",
+      "url": "https://en.wikipedia.org/wiki/Vietjet_Qazaqstan",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 61 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Qazaq_UZB-62",
+      "lang": ""
+    },
+    {
+      "text": "Türkistan",
+      "url": "https://en.wikipedia.org/wiki/Äziret_Sūltan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 62 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-250814-iqsep25hsaskd-63",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Аеродром_Самарканд_у_свитање.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Hertz Rent A Car",
+      "url": "https://en.wikipedia.org/wiki/Hertz_Rent_A_Car",
+      "lang": ""
+    },
+    {
+      "text": "Sixt",
+      "url": "https://en.wikipedia.org/wiki/Sixt",
+      "lang": ""
+    },
+    {
+      "text": "Europcar",
+      "url": "https://en.wikipedia.org/wiki/Europcar",
+      "lang": ""
+    },
+    {
+      "text": "[ 63 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-64",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Как_добраться-65",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "Yandex Taxi",
+      "url": "https://en.wikipedia.org/wiki/Yandex_Taxi",
+      "lang": ""
+    },
+    {
+      "text": "[ 64 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-Как_добраться-65",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "[ 65 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-66",
+      "lang": ""
+    },
+    {
+      "text": "[ 66 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-samarkandairport.com-67",
+      "lang": ""
+    },
+    {
+      "text": "[ 67 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-68",
+      "lang": ""
+    },
+    {
+      "text": "[ 68 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-69",
+      "lang": ""
+    },
+    {
+      "text": "[ 69 ]",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_note-70",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=11",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "Uzbek",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+      "lang": ""
+    },
+    {
+      "text": "cyrillized",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_alphabet#Cyrillic_script",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=12",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Об аэропорте\"",
+      "url": "https://samarkandairport.com/ru/airport/about/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "Air Marakanda",
+      "url": "https://www.airmarakanda.com/projects.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Янги_Ўзбекистон_3-0",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://yuz.uz/ru/news/mejdunarodny-aeroport-samarkanda-istoricheskiy-rekord",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "O‘zbekistonda aviatashuvlar: 2025-yil yakunlari bo‘yicha aeroportlarning asosiy ko‘rsatkichlari",
+      "url": "https://uzairports.com/blog/464",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Samarkand International Airport Set a New Record for Passenger Traffic in 2023, Exceeding 1 Million\"",
+      "url": "https://stv.uz/news/newsamar/24201-mezhdunarodnyy-aeroport-samarkanda-v-2023-godu-ustanovil-novyy-rekord-passazhiropotoka-prevysiv-1-million.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"All Scheduled and Direct (Non-Stop) Flights from Samarkand (SKD)\"",
+      "url": "https://web.archive.org/web/20240308165110/https://www.flightsfrom.com/SKD",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"AirSamarkand\"",
+      "url": "https://web.archive.org/web/20240412091000/https://airsamarkand.com/en",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://airsamarkand.com/en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"About the airport\"",
+      "url": "https://samarkandairport.com//en/airport/about/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Samarkand International Airport Building\"",
+      "url": "https://www.ent-en.com/page/publication/301",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Samarkand International Airport | Uzbekistan Travel\"",
+      "url": "https://uzbekistan.travel/en/o/samarkand-international-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzliti Engineering\"",
+      "url": "https://www.uzliti-en.com/en/projects/samarkand-aeroport/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-aw-newterm_13-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-aw-newterm_13-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Samarkand's new state-of-the-art terminal opens for business – Airport World\"",
+      "url": "https://airport-world.com/samarkands-new-terminal-opens-for-buisiness/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Modernized Samarkand International Airport aims for explosive growth\"",
+      "url": "https://www.luchtvaartnieuws.nl/nieuws/categorie/3/airports/gemoderniseerd-samarkand-international-airport-wil-explosief-groeien",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"В международном аэропорту Самарканда введут режим \"открытого неба\" \"",
+      "url": "https://mintrans.uz/ru/news/samarqand-halqaro-aeroportida-ochiq-osmon-rezhimi-zhorij-etiladi",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"В 2023 году пассажиропоток в аэропорту Самарканда увеличился вдвое\"",
+      "url": "https://www.spot.uz/ru/2024/01/15/samarkand-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"В 2023 году пассажиропоток в аэропорту Самарканда увеличился вдвое\"",
+      "url": "https://www.spot.uz/ru/2024/01/15/samarkand-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Live Flight Tracker – Real-Time Flight Tracker Map\"",
+      "url": "https://www.flightradar24.com/airport/bhk",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_numeric_names:_authors_list",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "Международный аэропорт Самарканда: исторический рекорд",
+      "url": "https://yuz.uz/ru/news/mejdunarodny-aeroport-samarkanda-istoricheskiy-rekord",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Samarkand International Airport Redevelopment, Uzbekistan\"",
+      "url": "https://www.airport-technology.com/projects/samarkand-international-airport-redevelopment-uzbekistan/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Фото: Как выглядит новый аэропорт Самарканда – Газета.uz\"",
+      "url": "https://www.gazeta.uz/ru/2022/03/19/samarkand-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20220531022612/https://www.gazeta.uz/ru/2022/03/19/samarkand-airport/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\"Самаркандский аэропорт первым в Узбекистане запустил систему E-gates\"",
+      "url": "https://www.spot.uz/ru/2022/08/31/e-gates/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://yuz.uz/ru/news/mejdunarodny-aeroport-samarkanda-istoricheskiy-rekord",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "ISBN",
+      "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "978-5-9905032-3-6",
+      "url": "https://en.wikipedia.org/wiki/Special:BookSources/978-5-9905032-3-6",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"Aeroflot to Resume Direct Flights Between Moscow and Samarkand Starting July 31\"",
+      "url": "https://www.uzdaily.uz/en/aeroflot-to-resume-direct-flights-between-moscow-and-samarkand-starting-july-31/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Airlines Resumes Samarkand Service in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250128-j2ns25skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Авиарейсы из Краснодара: опубликован обновленный список | Живая Кубань\"",
+      "url": "https://www.livekuban.ru/news/obshchestvo/aviareysy-iz-krasnodara-opublikovan-obnovlennyy-spisok",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-A4_CAsia_28-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Azimuth Schedules New Sochi – Central Asia Service in NW23\"",
+      "url": "https://www.aeroroutes.com/eng/230919-a4nw23aer",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-SKD_Development_NW25_29-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Flights from Samarkand to Moscow, Astana, and İzmir to Launch This Autumn\"",
+      "url": "https://www.uzdaily.uz/en/direct-flights-from-samarkand-to-moscow-astana-and-izmir-to-launch-this-autumn/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://samarkandairport.com/ru/press-center/press-releases/aviakompaniya-centrum-air-zapuskaet-pryamye-reysy-iz-samarkanda-v-urgench-s-udobnymi-stykovochnymi-r/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct flights between Samarkand and Dushanbe resumed | Tajikistan News ASIA-Plus\"",
+      "url": "https://asiaplus.news/en/2025/07/21/direct-flights-between-samarkand-and-dushanbe-resumed/",
+      "lang": ""
+    },
+    {
+      "text": "Asia-Plus",
+      "url": "https://en.wikipedia.org/wiki/Asia-Plus",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air Just Proved That Traveling From Samarkand To Dubai Can Be Total Luxury And Everyone Is Desperately Trying To Book A Seat Before They Sell Out\"",
+      "url": "https://www.travelandtourworld.com/news/article/centrum-air-just-proved-that-traveling-from-samarkand-to-dubai-can-be-total-luxury-and-everyone-is-desperately-trying-to-book-a-seat-before-they-sell-out/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-C6_SKD-CAN_33-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air Adds Samarkand – Guangzhou Service in Oct 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250715-c6oct25skdcan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-C6_IST_NS25_34-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air Plans Istanbul late-May 2025 Launch\"",
+      "url": "https://www.aeroroutes.com/eng/250523-c6ns25ist",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-C6_SKD_NS25_wide_35-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air July 2025 Samarkand Regional Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/250722-c6jul25skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Centrum_RUS_NS25_36-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air launches 15 new Uzbekistan–Russia flights – Zamin.uz, 05.06.2025\"",
+      "url": "https://zamin.uz/en/uzbekistan/151518-centrum-air-launches-15-new-uzbekistanrussia-flights.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-37",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air запускает прямые рейсы из Шереметьево в Самарканд | МосИнформ — Новости Москвы\"",
+      "url": "https://xn--h1ahbddcoe3a.xn--p1ai/news/centrum-air-zapuskaet-pryamye-reysy-iz-sheremetevo-v-samarkand",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-C6July_38-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-C6July_38-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air July 2025 Samarkand Regional Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/250722-c6jul25skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-TLV_Resumprion_260503_39-0",
+      "lang": ""
+    },
+    {
+      "text": "\"3 Airlines resume Israel flights as major carriers keep cancellations in place\"",
+      "url": "https://www.israelhayom.com/2026/05/03/3-airlines-resume-israel-flights-as-major-carriers-keep-cancellations-in-place/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-40",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air June 2025 Regional Network Expansion\"",
+      "url": "https://www.aeroroutes.com/eng/250610-c6jun25",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-41",
+      "lang": ""
+    },
+    {
+      "text": "\"Kazakhstan's FlyArystan to resume Almaty-Samarkand-Almaty direct flights\"",
+      "url": "https://qazinform.com/news/kazakhstans-flyarystan-to-resume-almaty-samarkand-almaty-direct-flights-149554",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-42",
+      "lang": ""
+    },
+    {
+      "text": "Luton",
+      "url": "https://en.wikipedia.org/wiki/Luton",
+      "lang": ""
+    },
+    {
+      "text": "OAG Aviation Worldwide Limited",
+      "url": "https://en.wikipedia.org/wiki/OAG_(company)",
+      "lang": ""
+    },
+    {
+      "text": "ISSN",
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "1466-8718",
+      "url": "https://search.worldcat.org/issn/1466-8718",
+      "lang": ""
+    },
+    {
+      "text": "OCLC",
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "lang": ""
+    },
+    {
+      "text": "41608313",
+      "url": "https://search.worldcat.org/oclc/41608313",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-43",
+      "lang": ""
+    },
+    {
+      "text": "\"flydubai to fly twice-weekly to Samarkand\"",
+      "url": "https://www.gdnonline.com/Details/1127378",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-44",
+      "lang": ""
+    },
+    {
+      "text": "\"LOONG AIR ADDS XI'AN – SAMARKAND FROM MID-JUNE 2024\"",
+      "url": "https://www.aeroroutes.com/eng/240611-gjjun24skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-N4_SKD_NMG_45-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Августта Казаннан Сәмәрканд һәм Нәмәнганга туры даими авиарейслар ачыла\"",
+      "url": "https://tatar-inform.tatar/news/iz-kazani-v-avguste-zapustyat-pryamye-regulyarnye-aviareisy-v-samarkand-i-namangan-5927674",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-HH_MOW_NS23_46-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Qanot Sharq Moscow Service Changes From August 2024\"",
+      "url": "https://www.aeroroutes.com/eng/240731-hhaug24mow",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-HH_NS26_47-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-HH_NS26_47-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Qanot Sharq Launches Massive Non-Stop Tashkent to New York JFK Route to Shield Passengers From European Travel Chaos\"",
+      "url": "https://www.nomadlawyer.org/qanot-sharq-tashkent-new-york-flights-combat-travel-chaos-aviation-updates-2026",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-SU_UZB_25_48-0",
+      "lang": ""
+    },
+    {
+      "text": "\"«Аэрофлот» наращивает сеть узбекских направлений — FrequentFlyers.ru\"",
+      "url": "https://www.frequentflyers.ru/2025/08/22/afl_uz/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-49",
+      "lang": ""
+    },
+    {
+      "text": "\"Kazakhstan's SCAT Airlines launches direct flights to Uzbekistan\"",
+      "url": "https://kun.uz/en/news/2025/11/24/kazakhstans-scat-airlines-launches-direct-flights-to-uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-50",
+      "lang": ""
+    },
+    {
+      "text": "Отечественный лоукостер Silk Avia запускает новые \"авиамаршрутки\" из Ташкента и Ферганы",
+      "url": "https://podrobno.uz/cat/podrobno/otechestvennyy-loukoster-silk-avia-zapuskaet-novye-aviamarshrutki-iz-tashkenta-i-fergany-/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-51",
+      "lang": ""
+    },
+    {
+      "text": "\"SunExpress Schedules Samarqand mid-Nov 2023 Launch\"",
+      "url": "https://www.aeroroutes.com/eng/230925-xqnov23skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-TK_NS_24_52-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkish Airlines NS24 Intercontinental Network Changes – 31MAR24\"",
+      "url": "https://www.aeroroutes.com/eng/240402-tkns24inc",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-53",
+      "lang": ""
+    },
+    {
+      "text": "\"Ural Airlines Adds Krasnoyarsk – Samarkand Service in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/241221-u6ns25skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-54",
+      "lang": ""
+    },
+    {
+      "text": "\"Russian Ural Airlines taking off from Domodedovo airport to Uzbekistan's Samarkand\"",
+      "url": "https://en.trend.az/casia/uzbekistan/3911884.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-U6_to_UZB_55-0",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Уральские авиалинии\" запустят рейсы в четыре города Узбекистана\"",
+      "url": "https://newdaynews.ru/ekaterinburg/815242.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-56",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan adds Samarkand – Istanbul service in W17\"",
+      "url": "http://www.routesonline.com/news/38/airlineroute/275042/uzbekistan-adds-samarkand-istanbul-service-in-w17/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-57",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways W18 Samarkand – Istanbul aircraft changes\"",
+      "url": "https://www.routesonline.com/news/38/airlineroute/281424/uzbekistan-airways-w18-samarkand-istanbul-aircraft-changes/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Moscow_58-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Moscow Service Changes From Oct 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230922-hyoct23mow",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-59",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Begins LET L-410 Operations From late-July 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230720-hyjul23skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-60",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Resumes Flights to Tel Aviv from July 1\"",
+      "url": "https://uz.kursiv.media/en/2025-06-29/uzbekistan-airways-resumes-flights-to-tel-aviv-from-july-1/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-61",
+      "lang": ""
+    },
+    {
+      "text": "\"As part of the \"Hajj-2025\" program, Air Marakanda operated the first pilgrimage flight to Saudi Arabia\"",
+      "url": "https://www.uzdaily.uz/en/as-part-of-the-hajj-2025-program-air-marakanda-operated-the-first-pilgrimage-flight-to-saudi-arabia/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Qazaq_UZB_62-0",
+      "lang": ""
+    },
+    {
+      "text": "\"QAZAQ AIR launches new international route from Astana to Samarkand\"",
+      "url": "https://qazinform.com/news/qazaq-air-launches-new-international-route-from-astana-to-samarkand-cad696",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-250814-iqsep25hsaskd_63-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Qazaq Air Revises Turkistan – Samarkand Schedule in Sep/Oct 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250814-iqsep25hsaskd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-64",
+      "lang": ""
+    },
+    {
+      "text": "\"В аэропорту Самарканда открылись круглосуточные пункты аренды автомобилей\"",
+      "url": "https://www.spot.uz/ru/2024/11/02/air-drive/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Как_добраться_65-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-Как_добраться_65-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Как добраться\"",
+      "url": "https://samarkandairport.com/ru/how-to-get-there/?tab=from-airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-66",
+      "lang": ""
+    },
+    {
+      "text": "\"Пассажиропоток аэропорта Самарканда за первое полугодие 2023 года вырос более чем в 2 раза и побил исторический максимум\"",
+      "url": "https://podrobno.uz/cat/obchestvo/passazhiropotok-aeroporta-samarkanda-za-pervoe-polugodie-2023-goda-vyros-bolee-chem-v-2-raza-i-pobil/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-samarkandairport.com_67-0",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://samarkandairport.com/ru/press-center/press-releases/mezhdunarodnyy-aeroport-samarkanda-v-2023-godu-ustanovil-novyy-rekord-passazhiropotoka-prevysiv-1-mi/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-68",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://uz.kursiv.media/2025-01-15/passazhiropotok-aeroportov-uzbekistana-vyros-na-30/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-69",
+      "lang": ""
+    },
+    {
+      "text": "\"Международный аэропорт Самарканда с начала года обслужил более миллиона пассажиров — Каракалпакское Информационное Агентство\"",
+      "url": "https://yuz.uz/ru/news/mejdunarodny-aeroport-samarkanda-istoricheskiy-rekord",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport#cite_ref-70",
+      "lang": ""
+    },
+    {
+      "text": "O‘zbekistonda aviatashuvlar: 2025-yil yakunlari bo‘yicha aeroportlarning asosiy ko‘rsatkichlari",
+      "url": "https://uzairports.com/blog/464",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&action=edit&section=13",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://samarkandairport.com/en/",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Andizhan",
+      "url": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fergana",
+      "url": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Termez",
+      "url": "https://en.wikipedia.org/wiki/Termez_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokand",
+      "url": "https://en.wikipedia.org/wiki/Kokand_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Muynak",
+      "url": "https://en.wikipedia.org/wiki/Muynak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyo",
+      "url": "https://en.wikipedia.org/wiki/Sariosiyo_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Uchkuduk",
+      "url": "https://en.wikipedia.org/wiki/Uchkuduk_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan",
+      "url": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chirchik",
+      "url": "https://en.wikipedia.org/wiki/Chirchik_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Karshi-Khanabad",
+      "url": "https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kungrad",
+      "url": "https://en.wikipedia.org/wiki/Kungrad_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakhtakor",
+      "url": "https://en.wikipedia.org/wiki/Pakhtakor_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent-Vostochny Tuzel",
+      "url": "https://en.wikipedia.org/wiki/Vostochny_Tuzel_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&oldid=1382093195",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&oldid=1382093195",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Samarkand",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from January 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_January_2026",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Uzbek-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Uzbek-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Official website not in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Official_website_not_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1: unfit URL",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Dutch-language sources (nl)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Dutch-language_sources_(nl)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: numeric names: authors list",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_numeric_names:_authors_list",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Tatar-language sources (tt)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Tatar-language_sources_(tt)",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Chart extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Chart_extension",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Uzbek-language sources (uz)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Uzbek-language_sources_(uz)",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Samarkand_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-uz-12.txt"
+}

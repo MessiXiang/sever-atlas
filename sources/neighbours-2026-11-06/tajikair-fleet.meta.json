@@ -1,0 +1,24 @@
+{
+  "id": "tajikair-fleet",
+  "url": "https://www.tajikair.tj/fleet.html",
+  "retrievedAt": "2026-11-06T08:23:30.126860+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/fleet.html",
+  "bytes": 1894,
+  "sha256": "79dcdbcfa5261321f4abb9f555b010c67b2159bc42c2fa2279839784dd3e170f",
+  "file": "sources/neighbours-2026-11-06/tajikair-fleet.html",
+  "title": "Флот — Tajik Air",
+  "links": [
+    {
+      "text": "+992 905-100-200",
+      "url": "tel:+992905100200",
+      "lang": ""
+    },
+    {
+      "text": "info@tajikairlines.com",
+      "url": "mailto:info@tajikairlines.com",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-fleet.txt"
+}

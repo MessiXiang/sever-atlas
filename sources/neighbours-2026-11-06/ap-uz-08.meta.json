@@ -1,0 +1,1384 @@
+{
+  "id": "ap-uz-08",
+  "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+  "retrievedAt": "2026-11-06T08:39:35.825000+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Namangan_Airport",
+  "bytes": 169007,
+  "sha256": "7a758466c1997f5747103a4e7b087368304f23acec1b5a1d613ba6853f2097d9",
+  "file": "sources/neighbours-2026-11-06/ap-uz-08.html",
+  "title": "Namangan Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Namangan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Namangan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Namangan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Namangan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "4 External links",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%86%D9%85%D9%86%D8%BA%D8%A7%D9%86",
+      "lang": "ar"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Namangan_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%86%D9%85%D9%86%DA%AF%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Namangan_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Namangan",
+      "lang": "id"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3%E7%A9%BA%E6%B8%AF",
+      "lang": "ja"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Namangan",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Namangan",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Aeroporto_de_Namang%C3%A3",
+      "lang": "pt"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Namangan",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%9D%D0%B0%D0%BC%D0%B0%D0%BD%D0%B3%D0%BE%D0%BD",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Nemengan_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Namangan_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E7%B4%8D%E6%9B%BC%E5%B9%B2%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q978313#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&oldid=1375346994",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Namangan_Airport&id=1375346994&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNamangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Namangan_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q978313",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "40°59′04″N 071°33′24″E ﻿ / ﻿ 40.98444°N 71.55667°E ﻿ / 40.98444; 71.55667",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Namangan_Airport&params=40_59_04_N_071_33_24_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Namangan_Airport.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "40°59′04″N 071°33′24″E ﻿ / ﻿ 40.98444°N 71.55667°E ﻿ / 40.98444; 71.55667",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Namangan_Airport&params=40_59_04_N_071_33_24_E_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "https://www.uzairways.com/en/flights/international-airport-namangan",
+      "url": "https://www.uzairways.com/en/flights/international-airport-namangan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Uzbekistan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Namangan_xalqaro_aeroporti.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Centrum Air",
+      "url": "https://en.wikipedia.org/wiki/Centrum_Air",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-C6_IST_NS25-1",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-Centrum_RUS_NS25-2",
+      "lang": ""
+    },
+    {
+      "text": "Novosibirsk",
+      "url": "https://en.wikipedia.org/wiki/Tolmachevo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-Centrum_RUS_NS25-2",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-Centrum_RUS_NS25-2",
+      "lang": ""
+    },
+    {
+      "text": "Samarqand",
+      "url": "https://en.wikipedia.org/wiki/Samarqand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-C6_SKD_NS25_wide-3",
+      "lang": ""
+    },
+    {
+      "text": "Flynas",
+      "url": "https://en.wikipedia.org/wiki/Flynas",
+      "lang": ""
+    },
+    {
+      "text": "Jeddah",
+      "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "Jazeera Airways",
+      "url": "https://en.wikipedia.org/wiki/Jazeera_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait City",
+      "url": "https://en.wikipedia.org/wiki/Kuwait_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Nordwind Airlines",
+      "url": "https://en.wikipedia.org/wiki/Nordwind_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kazan",
+      "url": "https://en.wikipedia.org/wiki/Kazan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-N4_SKD_NMG-6",
+      "lang": ""
+    },
+    {
+      "text": "Qanot Sharq",
+      "url": "https://en.wikipedia.org/wiki/Qanot_Sharq",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-HH_MOW_NS23-9",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-HH_MOW_NS23-9",
+      "lang": ""
+    },
+    {
+      "text": "Red Wings Airlines",
+      "url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Makhachkala",
+      "url": "https://en.wikipedia.org/wiki/Uytash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Silk Avia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Ural Airlines",
+      "url": "https://en.wikipedia.org/wiki/Ural_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Irkutsk",
+      "url": "https://en.wikipedia.org/wiki/International_Airport_Irkutsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-U6_IKT_CAsia_NW24-11",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Domodedovo",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Domodedovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-U6_Asia_24-12",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Zhukovsky",
+      "url": "https://en.wikipedia.org/wiki/Zhukovsky_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Adler-Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-AER_U6_Asia_24-13",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-U6_to_UZB-14",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Delhi",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "Krasnodar",
+      "url": "https://en.wikipedia.org/wiki/Krasnodar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-HY_KRR_2025-16",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Vnukovo",
+      "url": "https://en.wikipedia.org/wiki/Vnukovo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-Moscow-17",
+      "lang": ""
+    },
+    {
+      "text": "Perm",
+      "url": "https://en.wikipedia.org/wiki/Bolshoye_Savino_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "Saint Petersburg",
+      "url": "https://en.wikipedia.org/wiki/Pulkovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-HY_LED_24-19",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Adler-Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-AER_U6_Asia_24-13",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ufa",
+      "url": "https://en.wikipedia.org/wiki/Ufa_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Yekaterinburg",
+      "url": "https://en.wikipedia.org/wiki/Koltsovo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "Transportation in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Transportation_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-C6_IST_NS25_1-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air Aug/Sep 2025 Istanbul Capacity Increases\"",
+      "url": "https://www.aeroroutes.com/eng/250804-c6aug25ist",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-Centrum_RUS_NS25_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-Centrum_RUS_NS25_2-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-Centrum_RUS_NS25_2-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air launches 15 new Uzbekistan–Russia flights\"",
+      "url": "https://zamin.uz/en/uzbekistan/151518-centrum-air-launches-15-new-uzbekistanrussia-flights.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-C6_SKD_NS25_wide_3-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air July 2025 Samarkand Regional Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/250722-c6jul25skd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"flynas NW24 Selected International Service Changes – 24NOV24\"",
+      "url": "https://www.aeroroutes.com/eng/241129-xynw24int",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Jazeera Airways Schedules Namangan late-Sep 2022 Launch\"",
+      "url": "https://www.aeroroutes.com/eng/220926-j9sep22nma",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-N4_SKD_NMG_6-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Августта Казаннан Сәмәрканд һәм Нәмәнганга туры даими авиарейслар ачыла\"",
+      "url": "https://tatar-inform.tatar/news/iz-kazani-v-avguste-zapustyat-pryamye-regulyarnye-aviareisy-v-samarkand-i-namangan-5927674",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Qanot Sharq Adds Namangan – Dubai in NW25\"",
+      "url": "https://www.aeroroutes.com/eng/250929-hhnw25nmadxb",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"QANOT SHARQ SCHEDULES ISTANBUL LAUNCH FROM JUNE 2024\"",
+      "url": "https://www.aeroroutes.com/eng/240529-hhjun24ist",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-HH_MOW_NS23_9-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-HH_MOW_NS23_9-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Qanot Sharq Moscow Service Changes From August 2024\"",
+      "url": "https://www.aeroroutes.com/eng/240731-hhaug24mow",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Отечественный лоукостер Silk Avia запускает новые «авиамаршрутки» из Ташкента и Ферганы\"",
+      "url": "https://podrobno.uz/cat/podrobno/otechestvennyy-loukoster-silk-avia-zapuskaet-novye-aviamarshrutki-iz-tashkenta-i-fergany-/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-U6_IKT_CAsia_NW24_11-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Ural Airlines Resumes 4 Irkutsk Regional Routes in NW24\"",
+      "url": "https://www.aeroroutes.com/eng/241015-u6nw24ikt",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-U6_Asia_24_12-0",
+      "lang": ""
+    },
+    {
+      "text": "\" \"Уральские авиалинии\" в январе запускают рейсы в пять городов Узбекистана\"",
+      "url": "https://tourism.interfax.ru/ru/news/articles/104934/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-AER_U6_Asia_24_13-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-AER_U6_Asia_24_13-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэропорт Сочи расширяет международную программу\"",
+      "url": "https://www.23rus.org/news/society/49056.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-U6_to_UZB_14-0",
+      "lang": ""
+    },
+    {
+      "text": "\"«Уральские авиалинии» запустят рейсы в четыре города Узбекистана\"",
+      "url": "https://newdaynews.ru/ekaterinburg/815242.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"New flight from Namangan to Delhi\"",
+      "url": "https://www.instagram.com/p/DTcYST0iHsx/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-HY_KRR_2025_16-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Launches New Flights from Tashkent and Namangan to Krasnodar\"",
+      "url": "https://www.uzdaily.uz/en/uzbekistan-airways-launches-new-flights-from-tashkent-and-namangan-to-krasnodar/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-Moscow_17-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways Moscow Service Changes From Oct 2023\"",
+      "url": "https://www.aeroroutes.com/eng/230922-hyoct23mow",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways продлили полетную программу из Перми в Наманган\"",
+      "url": "https://www.kommersant.ru/doc/7924478",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-HY_LED_24_19-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Больше рейсов в Фергану и Наманган!\"",
+      "url": "https://uzairways.online/news/hy_led_feg",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Uzbekistan Airways увеличит число рейсов между Уфой и Наманганом\"",
+      "url": "https://uz.kursiv.media/2025-08-07/uzbekistan-airways-uvelichit-chislo-rejsov-mezhdu-ufoj-i-namanganom/",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "Accident history for NMA",
+      "url": "https://web.archive.org/web/20121024045041/http://aviation-safety.net/database/airport/airport.php?id=NMA",
+      "lang": ""
+    },
+    {
+      "text": "Aviation Safety Network",
+      "url": "https://en.wikipedia.org/wiki/Aviation_Safety_Network",
+      "lang": ""
+    },
+    {
+      "text": "\"Airport information for UZFN\"",
+      "url": "http://www.gcmap.com/airport/UZFN",
+      "lang": ""
+    },
+    {
+      "text": "\"Current weather for UZFN\"",
+      "url": "http://tgftp.nws.noaa.gov/weather/current/UZFN.html",
+      "lang": ""
+    },
+    {
+      "text": "NOAA",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "NWS",
+      "url": "https://en.wikipedia.org/wiki/National_Weather_Service",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Andizhan",
+      "url": "https://en.wikipedia.org/wiki/Andizhan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bukhara",
+      "url": "https://en.wikipedia.org/wiki/Bukhara_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Fergana",
+      "url": "https://en.wikipedia.org/wiki/Fergana_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Namangan",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Navoiy",
+      "url": "https://en.wikipedia.org/wiki/Navoiy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qarshi",
+      "url": "https://en.wikipedia.org/wiki/Qarshi_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Samarkand",
+      "url": "https://en.wikipedia.org/wiki/Samarkand_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Termez",
+      "url": "https://en.wikipedia.org/wiki/Termez_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Urgench",
+      "url": "https://en.wikipedia.org/wiki/Urgench_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokand",
+      "url": "https://en.wikipedia.org/wiki/Kokand_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Muynak",
+      "url": "https://en.wikipedia.org/wiki/Muynak_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zomin",
+      "url": "https://en.wikipedia.org/wiki/Zomin_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sariosiyo",
+      "url": "https://en.wikipedia.org/wiki/Sariosiyo_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Uchkuduk",
+      "url": "https://en.wikipedia.org/wiki/Uchkuduk_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Zarafshan",
+      "url": "https://en.wikipedia.org/wiki/Zarafshan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chirchik",
+      "url": "https://en.wikipedia.org/wiki/Chirchik_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Karshi-Khanabad",
+      "url": "https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "Kungrad",
+      "url": "https://en.wikipedia.org/wiki/Kungrad_Airfield?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakhtakor",
+      "url": "https://en.wikipedia.org/wiki/Pakhtakor_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent-Vostochny Tuzel",
+      "url": "https://en.wikipedia.org/wiki/Vostochny_Tuzel_Air_Base?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Airport_symbol.svg",
+      "lang": ""
+    },
+    {
+      "text": "stub",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+      "lang": ""
+    },
+    {
+      "text": "adding missing information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Uzbekistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Uzbekistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Uzbekistan-airport-stub",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&oldid=1375346994",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&oldid=1375346994",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Namangan",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Namangan",
+      "lang": ""
+    },
+    {
+      "text": "Asian airport stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Asian_airport_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistani building and structure stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Uzbekistani_building_and_structure_stubs",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from May 2014",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_May_2014",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Tatar-language sources (tt)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Tatar-language_sources_(tt)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "All stub articles",
+      "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Namangan_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Namangan_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-uz-08.txt"
+}

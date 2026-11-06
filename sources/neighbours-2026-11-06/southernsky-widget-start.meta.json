@@ -1,0 +1,14 @@
+{
+  "id": "southernsky-widget-start",
+  "url": "https://hisky.kz/wp-content/themes/hisky/static/js/separate-js/start.js?ad4f34NzSzz",
+  "retrievedAt": "2026-11-06T11:07:20.693664+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://hisky.kz/wp-content/themes/hisky/static/js/separate-js/start.js?ad4f34NzSzz",
+  "bytes": 10546,
+  "sha256": "098ef77b7f1c10f1feeffe5755f9ebf8259a25bec1b28fa4d8f6d7fb63464386",
+  "file": "sources/neighbours-2026-11-06/southernsky-widget-start.html",
+  "title": "",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/southernsky-widget-start.txt"
+}

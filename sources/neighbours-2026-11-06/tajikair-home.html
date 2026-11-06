@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0c1c27">
+  <meta name="description" content="TAJIKAIR — национальная авиакомпания Таджикистана. История, направления, руководство и информация для пассажиров.">
+  <link rel="canonical" href="https://www.tajikair.tj/">
+  <meta property="og:title" content="TAJIKAIR — ваше путешествие начинается здесь">
+  <meta property="og:description" content="Национальная авиакомпания Таджикистана. Откройте мир вместе с нами.">
+  <meta property="og:image" content="https://www.tajikair.tj/img/tajikair-aircraft.webp">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="img/tajik-air-logo-2026.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preload" as="image" href="img/tajikair-aircraft.webp" fetchpriority="high">
+  <link rel="stylesheet" href="css/journey-photos.css?v=2026.09.10-photos-final">
+  <link rel="stylesheet" href="css/journey-backgrounds.css?v=2026.10.02">
+  <link rel="stylesheet" href="css/leadership.css?v=2026.10.03-title">
+  <title>TAJIKAIR — путешествие начинается здесь</title>
+</head>
+<body class="journey" data-mode="photo">
+  <a class="skip-link" href="#welcome">Перейти к содержанию</a>
+  <header class="flight-header">
+    <a href="#home" class="flight-brand" aria-label="TAJIKAIR — главная"><img src="img/tajik-air-logo-2026-dark.png" width="800" height="200" alt="TAJIKAIR"></a>
+    <nav class="flight-nav" aria-label="Разделы путешествия" id="flightNav">
+      <a href="#welcome">Главная</a><a href="#about">О компании</a><a href="#destinations">Направления</a><a href="#services">Услуги</a><a href="#safety">Безопасность</a><a href="#contacts">Контакты</a>
+    </nav>
+    <div class="flight-tools">
+      <label class="language-control"><span class="sr-only">Язык</span><select id="flightLanguage" aria-label="Язык"><option value="ru">RU</option><option value="tj">TJ</option><option value="en">EN</option></select></label>
+      <button class="tool-button menu-button" id="menuToggle" aria-label="Открыть меню" aria-expanded="false" aria-controls="flightNav"><span></span><span></span></button>
+    </div>
+  </header>
+  <nav class="chapter-rail" id="chapterRail" aria-label="Этапы путешествия"></nav>
+  <main id="chapters">
+    <section class="flight-chapter exterior-chapter" id="home" data-chapter="0">
+      <div class="hero-media" aria-label="TAJIK AIR"><img class="scene-photo is-current" id="photoA" src="img/tajikair-aircraft.webp" width="1280" height="720" alt="Самолёт Tajik Air" fetchpriority="high"><img class="scene-photo" id="photoB" width="1280" height="720" alt="" aria-hidden="true"></div>
+      <div class="exterior-heading"><p class="overline" id="homeEyebrow">НАЦИОНАЛЬНАЯ АВИАКОМПАНИЯ ТАДЖИКИСТАНА</p><h1 id="homeTitle">Откройте мир<br>вместе с TAJIKAIR</h1><p class="hero-description" id="homeBody">Больше, чем путешествие — это Таджикистан в небе.</p><div class="button-row hero-actions"><a class="flight-button primary" href="#destinations"><span data-ui="routes">Направления</span><span aria-hidden="true">↗</span></a><a class="flight-button" href="#about" data-ui="about">О компании</a></div></div>
+      <a class="boarding-trigger" href="#welcome"><span class="boarding-icon" aria-hidden="true">↓</span><span data-ui="board">Познакомиться с TAJIKAIR</span><small data-ui="scroll">Прокрутите вниз, чтобы начать путешествие</small></a>
+      <div class="home-signature"><span>TAJIKISTAN</span><i></i><span data-ui="signature">Ближе к небу. Ближе друг к другу.</span></div>
+    </section>
+    <div id="interiorChapters"></div>
+  </main>
+  <footer class="journey-footer" id="siteFooter" aria-label="Информация и разделы сайта"></footer>
+  <div class="flight-status"><span id="sceneNumber">01</span><span class="status-line"><i id="journeyProgress"></i></span><span id="sceneName">На перроне</span><button id="motionToggle" type="button" aria-pressed="false" data-ui="calm">Остановить слайды</button></div>
+  <dialog id="detailDialog" class="detail-dialog"><button type="button" class="dialog-close" aria-label="Закрыть">×</button><div id="detailBody"></div></dialog>
+  <div class="sr-only" role="status" aria-live="polite" id="flightAnnouncement"></div>
+  <noscript><div class="no-script"><h2>TAJIKAIR</h2><p>Для интерактивного путешествия включите JavaScript. Все сведения также доступны на обычных страницах сайта.</p><a href="destinations.html">Направления</a> · <a href="about.html">О компании</a> · <a href="contacts.html">Контакты</a></div></noscript>
+  <script src="js/content.js?v=2026.10.03-no-booking" defer></script>
+  <script src="js/journey-defaults.js?v=2026.10.03-leadership" defer></script>
+  <script src="js/leadership.js?v=2026.10.03" defer></script>
+  <script src="js/journey.js?v=2026.10.03-leadership-title" defer></script>
+</body>
+</html>

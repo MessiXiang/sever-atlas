@@ -1,0 +1,132 @@
+Главная - Авиакомпания "Южное Небо"
+©2026 "Южное Небо"
+Все права защищены
+Перелёты по Казахстану — это просто!
+Departure
+Arrival
+There
+10 aug,
+Sat
+Return
+17 aug,
+Sat
+1
+Passenger
+Search
+Search
+Возврат и обмен
+Surname
+Order ID, booking ID or eTicket number
+Show order
+Расписание
+Departure
+Arrival
+Start of period
+1 Aug,
+Thu
+End of period
+10 Aug,
+Sun
+Show flights
+Онлайн регистрация
+Departure
+Arrival
+Start of period
+1 Aug,
+Thu
+End of period
+10 Aug,
+Sun
+Show flights
+Flight status
+All Airports
+All Airports
+I know flight number
+Show
+Направления
+Семей⇄Урджар
+17000₸
+Оскемен⇄Зайсан
+17000₸
+Поддержка
++7 (7252) 92-04-50
+Перелёты по Казахстану — это просто!
+Departure
+Arrival
+There
+10 aug,
+Sat
+Return
+17 aug,
+Sat
+1
+Passenger
+Search
+Search
+My orders
+Surname
+Order ID, booking ID or eTicket number
+Show order
+Schedule
+Departure
+Arrival
+Start of period
+1 Aug,
+Thu
+End of period
+10 Aug,
+Sun
+Show flights
+Check-in
+Departure
+Arrival
+Start of period
+1 Aug,
+Thu
+End of period
+10 Aug,
+Sun
+Show flights
+Flight status
+All Airports
+All Airports
+I know flight number
+Show
+Направления
+Семей⇄Урджар
+17000₸
+Оскемен⇄Зайсан
+17000₸
+Инструкция по возврату и обмену
+Информация касается только тех билетов, которые куплены на сайте hisky.kz!
+Для возврата или обмена билета Вам нужно заполнить поля "Номер заказа или билета" и "Фамилия пассажира", если пассажиров несколько, то достаточно данных только одного пассажира, затем нажать кнопку "Показать заказ" После открытия заказа необходимо выбрать пассажира и нажать "Вернуть" или "Обменять" и следовать инструкциям системы. Возврат средств происходит в течение 14 рабочих дней на ту карту, с которой производилась оплата. Отменить возврат невозможно!
+P.S: Пример номера заказа: 9WK5LD
+Пример номера билета: 8242400157626
+Пример фамилии пассажира: ABISHEV
+Login
+Don't have a profile yet? Create
+Profile with this combination of login and password not found
+Don't have a profile yet? Create
+Email
+Password
+Forgot password?
+Login
+Create account
+Bak to login
+Back to login
+Email
+Password
+Confirm Password
+Passwords do not match
+First Name
+Last Name
+Phone
+Enter chars from pic
+I have read and agree to the terms of use of personal data
+Create profile
+Reset password
+Bak to login
+Back to login
+Email
+Enter your email, which was used as a login and we will send a link to reset the password to it
+Reset

@@ -1,0 +1,564 @@
+{
+  "id": "kg-naryn-asman",
+  "url": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+  "retrievedAt": "2026-11-06T10:15:33.011012+00:00",
+  "status": 200,
+  "finalUrl": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+  "bytes": 243878,
+  "sha256": "77eb69edc7c2fc9cfb02a8b89b9dbcfc36e0a9cd83f731787240400f2d60caff",
+  "file": "sources/neighbours-2026-11-06/kg-naryn-asman.html",
+  "title": "«Асман Эйрлайнс» выполнила первый авиарейс Бишкек – Нарын перед открытием аэропорта",
+  "links": [
+    {
+      "text": "Курсы валют →",
+      "url": "https://economist.kg/kursy-valyut/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/economist_kg/ ",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/economist_kg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/economist.kg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://whatsapp.com/channel/0029VaUvVed5q08WZEioIN2D ",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/economist_kg",
+      "lang": ""
+    },
+    {
+      "text": "Economist.kg — новости экономики и финансов Кыргызстана",
+      "url": "https://economist.kg",
+      "lang": ""
+    },
+    {
+      "text": "ГЛАВНАЯ",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "ЛЕНТА НОВОСТЕЙ",
+      "url": "https://economist.kg/archive/",
+      "lang": ""
+    },
+    {
+      "text": "ЭКСКЛЮЗИВ",
+      "url": "https://economist.kg/tag/exclusive/",
+      "lang": ""
+    },
+    {
+      "text": "ПРАВО ЗНАТЬ",
+      "url": "https://economist.kg/tag/pravo-znat/",
+      "lang": ""
+    },
+    {
+      "text": "ЭКОНОМИКА",
+      "url": "https://economist.kg/tag/ekonomika/",
+      "lang": ""
+    },
+    {
+      "text": "БИЗНЕС",
+      "url": "https://economist.kg/tag/biznes/",
+      "lang": ""
+    },
+    {
+      "text": "ДЕНЬГИ",
+      "url": "https://economist.kg/tag/dengi/",
+      "lang": ""
+    },
+    {
+      "text": "ВЛАСТЬ",
+      "url": "https://economist.kg/tag/vlast/",
+      "lang": ""
+    },
+    {
+      "text": "Реклама",
+      "url": "https://economist.kg/ads/",
+      "lang": ""
+    },
+    {
+      "text": "МНЕНИЕ",
+      "url": "https://economist.kg/tag/mnenie/",
+      "lang": ""
+    },
+    {
+      "text": "НОВОСТИ КОМПАНИЙ",
+      "url": "https://economist.kg/tag/novosti-kompanii/",
+      "lang": ""
+    },
+    {
+      "text": "Об издании",
+      "url": "https://economist.kg/about/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg",
+      "lang": ""
+    },
+    {
+      "text": "Главная",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Лента новостей",
+      "url": "https://economist.kg/archive",
+      "lang": ""
+    },
+    {
+      "text": "ЭКСКЛЮЗИВ",
+      "url": "https://economist.kg/tag/exclusive/",
+      "lang": ""
+    },
+    {
+      "text": "ПРАВО ЗНАТЬ",
+      "url": "https://economist.kg/tag/pravo-znat/",
+      "lang": ""
+    },
+    {
+      "text": "ЭКОНОМИКА",
+      "url": "https://economist.kg/tag/ekonomika/",
+      "lang": ""
+    },
+    {
+      "text": "БИЗНЕС",
+      "url": "https://economist.kg/tag/biznes/",
+      "lang": ""
+    },
+    {
+      "text": "ДЕНЬГИ",
+      "url": "https://economist.kg/tag/dengi/",
+      "lang": ""
+    },
+    {
+      "text": "ВЛАСТЬ",
+      "url": "https://economist.kg/tag/vlast/",
+      "lang": ""
+    },
+    {
+      "text": "Реклама",
+      "url": "https://economist.kg/ads/",
+      "lang": ""
+    },
+    {
+      "text": "МНЕНИЕ",
+      "url": "https://economist.kg/tag/mnenie/",
+      "lang": ""
+    },
+    {
+      "text": "НОВОСТИ КОМПАНИЙ",
+      "url": "https://economist.kg/tag/novosti-kompanii/",
+      "lang": ""
+    },
+    {
+      "text": "Об издании",
+      "url": "https://economist.kg/about/",
+      "lang": ""
+    },
+    {
+      "text": "О нас",
+      "url": "https://economist.kg/about",
+      "lang": ""
+    },
+    {
+      "text": "Команда",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Работа",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "Economist.KG",
+      "url": "https://economist.kg/author/economist/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/sharer.php?u=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/intent/tweet?url=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/&text=%C2%AB%D0%90%D1%81%D0%BC%D0%B0%D0%BD%20%D0%AD%D0%B9%D1%80%D0%BB%D0%B0%D0%B9%D0%BD%D1%81%C2%BB%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%20%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%20%E2%80%93%20%D0%9D%D0%B0%D1%80%D1%8B%D0%BD%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/?text=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/share/url?url=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/&text=%C2%AB%D0%90%D1%81%D0%BC%D0%B0%D0%BD%20%D0%AD%D0%B9%D1%80%D0%BB%D0%B0%D0%B9%D0%BD%D1%81%C2%BB%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%20%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%20%E2%80%93%20%D0%9D%D0%B0%D1%80%D1%8B%D0%BD%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/sharer.php?u=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/intent/tweet?url=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/&text=%C2%AB%D0%90%D1%81%D0%BC%D0%B0%D0%BD%20%D0%AD%D0%B9%D1%80%D0%BB%D0%B0%D0%B9%D0%BD%D1%81%C2%BB%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%20%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%20%E2%80%93%20%D0%9D%D0%B0%D1%80%D1%8B%D0%BD%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/?text=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/share/url?url=https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/&text=%C2%AB%D0%90%D1%81%D0%BC%D0%B0%D0%BD%20%D0%AD%D0%B9%D1%80%D0%BB%D0%B0%D0%B9%D0%BD%D1%81%C2%BB%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%20%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA%20%E2%80%93%20%D0%9D%D0%B0%D1%80%D1%8B%D0%BD%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/na-ulitse-gogolia-v-bishkeke-ulozhili-pervyi-sloi-asfalta-chto-ostalos-sdelat/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "На улице Гоголя в Бишкеке уложили первый слой асфальта — что осталось сделать",
+      "url": "https://economist.kg/transport/2026/11/06/na-ulitse-gogolia-v-bishkeke-ulozhili-pervyi-sloi-asfalta-chto-ostalos-sdelat/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/bakyt-torobaev-obsudil-s-kitaiskoi-byd-stroitelstvo-monorelsa-v-bishkeke/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "Власть",
+      "url": "https://economist.kg/tag/vlast/",
+      "lang": ""
+    },
+    {
+      "text": "Бакыт Торобаев обсудил с китайской BYD строительство монорельса в Бишкеке",
+      "url": "https://economist.kg/transport/2026/11/06/bakyt-torobaev-obsudil-s-kitaiskoi-byd-stroitelstvo-monorelsa-v-bishkeke/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/v-bash-kara-suu-za-prevyshenie-norm-vybrosov-vypisali-shtrafy-na-22-5-tysiachi-somov/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "В Баш-Кара-Суу за превышение норм выбросов выписали штрафы на 22.5 тысячи сомов",
+      "url": "https://economist.kg/transport/2026/11/06/v-bash-kara-suu-za-prevyshenie-norm-vybrosov-vypisali-shtrafy-na-22-5-tysiachi-somov/",
+      "lang": ""
+    },
+    {
+      "text": "Загрузить больше",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "Канал очистят, деревья посадят: в Бишкеке благоустраивают улицу Каховскую",
+      "url": "https://economist.kg/novosti/2026/11/06/kanal-ochistiat-derevia-posadiat-v-bishkeke-blagoustraivaiut-ulitsu-kakhovskuiu/",
+      "lang": ""
+    },
+    {
+      "text": "Кыргызстан станет первым зарубежным рынком «Вкусно — и точка»",
+      "url": "https://economist.kg/novosti-kompanii/2026/11/06/kyrgyzstan-stanet-pervym-zarubezhnym-rynkom-vkusno-i-tochka/",
+      "lang": ""
+    },
+    {
+      "text": "На улице Гоголя в Бишкеке уложили первый слой асфальта — что осталось сделать",
+      "url": "https://economist.kg/transport/2026/11/06/na-ulitse-gogolia-v-bishkeke-ulozhili-pervyi-sloi-asfalta-chto-ostalos-sdelat/",
+      "lang": ""
+    },
+    {
+      "text": "В жилмассиве «Ак-Тилек» в Бишкеке открыли детский сад на 80 мест",
+      "url": "https://economist.kg/society/2026/11/06/v-zhilmassive-ak-tilek-v-bishkeke-otkryli-detskii-sad-na-80-mest/",
+      "lang": ""
+    },
+    {
+      "text": "«Тойбосс» и IFC подписали соглашение об инвестициях на $10 млн",
+      "url": "https://economist.kg/novosti-kompanii/2026/11/06/toyboss-ifc-investicii-10-mln/",
+      "lang": ""
+    },
+    {
+      "text": "В Бишкеке повторно выставили на аукцион 16 участков под общественные туалеты — адреса",
+      "url": "https://economist.kg/society/2026/11/06/v-bishkeke-povtorno-vystavili-na-auktsion-16-uchastkov-pod-obshchestvennye-tualety-adresa/",
+      "lang": ""
+    },
+    {
+      "text": "Парк без границ: как Кыргызстан представил свою креативную экономику в Джакарте",
+      "url": "https://economist.kg/ekonomika/2026/11/06/park-bez-granits-kak-kyrgyzstan-predstavil-svoiu-kreativnuiu-ekonomiku-v-dzhakarte/",
+      "lang": ""
+    },
+    {
+      "text": "Кыргызстан готовит единую позицию к 71-й сессии Комиссии ООН по положению женщин",
+      "url": "https://economist.kg/society/2026/11/06/kyrgyzstan-gotovit-edinuiu-pozitsiiu-k-71-i-sessii-komissii-oon-po-polozheniiu-zhenshchin/",
+      "lang": ""
+    },
+    {
+      "text": "Кольца стали легче, чеки — тяжелее: что происходит с рынком золотых украшений",
+      "url": "https://economist.kg/ekonomika/2026/11/06/koltsa-stali-legche-cheki-tiazhelee-chto-proiskhodit-s-rynkom-zolotykh-ukrashenii/",
+      "lang": ""
+    },
+    {
+      "text": "Кыргызстанец оказался в воинской части в России: Бишкек направил ноту Москве",
+      "url": "https://economist.kg/society/2026/11/06/kyrgyzstanets-okazalsia-v-voinskoi-chasti-v-rossii-bishkek-napravil-notu-moskve/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/na-ulitse-gogolia-v-bishkeke-ulozhili-pervyi-sloi-asfalta-chto-ostalos-sdelat/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "На улице Гоголя в Бишкеке уложили первый слой асфальта — что осталось сделать",
+      "url": "https://economist.kg/transport/2026/11/06/na-ulitse-gogolia-v-bishkeke-ulozhili-pervyi-sloi-asfalta-chto-ostalos-sdelat/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/bakyt-torobaev-obsudil-s-kitaiskoi-byd-stroitelstvo-monorelsa-v-bishkeke/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "Власть",
+      "url": "https://economist.kg/tag/vlast/",
+      "lang": ""
+    },
+    {
+      "text": "Бакыт Торобаев обсудил с китайской BYD строительство монорельса в Бишкеке",
+      "url": "https://economist.kg/transport/2026/11/06/bakyt-torobaev-obsudil-s-kitaiskoi-byd-stroitelstvo-monorelsa-v-bishkeke/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2026/11/06/v-bash-kara-suu-za-prevyshenie-norm-vybrosov-vypisali-shtrafy-na-22-5-tysiachi-somov/",
+      "lang": ""
+    },
+    {
+      "text": "Транспорт",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "В Баш-Кара-Суу за превышение норм выбросов выписали штрафы на 22.5 тысячи сомов",
+      "url": "https://economist.kg/transport/2026/11/06/v-bash-kara-suu-za-prevyshenie-norm-vybrosov-vypisali-shtrafy-na-22-5-tysiachi-somov/",
+      "lang": ""
+    },
+    {
+      "text": "Загрузить больше",
+      "url": "https://economist.kg/tag/transport/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/ekonomika/2026/11/04/gosdolg-kreditory-2026/",
+      "lang": ""
+    },
+    {
+      "text": "Госдолг Кыргызстана достиг 907 млрд сомов — кому и сколько должна страна",
+      "url": "https://economist.kg/ekonomika/2026/11/04/gosdolg-kreditory-2026/",
+      "lang": ""
+    },
+    {
+      "text": "С 1 января 2027 года в КР увеличат пособия, пенсии и компенсации — кому и на сколько",
+      "url": "https://economist.kg/society/2026/10/21/posobiya-pensii-2027-kyrgyzstan/",
+      "lang": ""
+    },
+    {
+      "text": "Каким будет лес для «Манаса» — аэропорт украсят тысячами деревьев",
+      "url": "https://economist.kg/society/2026/10/18/manas-19460-sazhentsev/",
+      "lang": ""
+    },
+    {
+      "text": "В Кыргызстане бизнесу выделят до 750 тысяч сомов за трудоустройство безработных",
+      "url": "https://economist.kg/society/2026/10/16/biznes-750-tysyach-trudoustroystvo/",
+      "lang": ""
+    },
+    {
+      "text": "В Кыргызстане с 1 сентября 2027 года повысят стипендии студентам",
+      "url": "https://economist.kg/society/2026/10/13/stipendii-studentam-2027/",
+      "lang": ""
+    },
+    {
+      "text": "ЕАБР: госдолг Кыргызстана снизился до 37.5% ВВП, профицит бюджета достиг 7.3%",
+      "url": "https://economist.kg/ekonomika/2026/10/12/gosdolg-kyrgyzstan-37-5-vvp-2/",
+      "lang": ""
+    },
+    {
+      "text": "В Кыргызстане зимой будут контролировать лимиты потребления электроэнергии",
+      "url": "https://economist.kg/enierghietika/2026/10/10/limity-elektroenergii-zima/",
+      "lang": ""
+    },
+    {
+      "text": "Тонировка вызвала ажиотаж на портале НПА: чего требуют водители из Кыргызстана",
+      "url": "https://economist.kg/transport/2026/10/09/tonirovka-kommentarii-20-tysyach/",
+      "lang": ""
+    },
+    {
+      "text": "Великобритания ввела санкции против трех компаний из Кыргызстана",
+      "url": "https://economist.kg/ekonomika/2026/10/08/britaniya-sanktsii-kompanii-kyrgyzstana/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://economist.kg/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/economist_kg/ ",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/economist_kg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/economist.kg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://whatsapp.com/channel/0029VaUvVed5q08WZEioIN2D ",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://t.me/economist_kg",
+      "lang": ""
+    },
+    {
+      "text": "О нас",
+      "url": "https://economist.kg/about",
+      "lang": ""
+    },
+    {
+      "text": "Реклама",
+      "url": "https://economist.kg/advertisement",
+      "lang": ""
+    },
+    {
+      "text": "Авторы",
+      "url": "https://economist.kg/authors/",
+      "lang": ""
+    },
+    {
+      "text": "Топики",
+      "url": "https://economist.kg/tags/",
+      "lang": ""
+    },
+    {
+      "text": "Эксклюзив",
+      "url": "https://economist.kg/tag/exclusive",
+      "lang": ""
+    },
+    {
+      "text": "Право знать",
+      "url": "https://economist.kg/tag/pravo-znat",
+      "lang": ""
+    },
+    {
+      "text": "Экономика",
+      "url": "https://economist.kg/tag/ekonomika",
+      "lang": ""
+    },
+    {
+      "text": "Бизнес",
+      "url": "https://economist.kg/tag/biznes",
+      "lang": ""
+    },
+    {
+      "text": "Деньги",
+      "url": "https://economist.kg/tag/dengi",
+      "lang": ""
+    },
+    {
+      "text": "Власть",
+      "url": "https://economist.kg/tag/vlast",
+      "lang": ""
+    },
+    {
+      "text": "Мнение",
+      "url": "https://economist.kg/tag/mnenie",
+      "lang": ""
+    },
+    {
+      "text": "Новости компаний",
+      "url": "https://economist.kg/tag/novosti-kompanii",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kg-naryn-asman.txt"
+}

@@ -1,0 +1,4 @@
+${title}
+${L(page.lead, lang)}
+${bodyMarkup(key, lang)}
+${wide ? '' : sideNav(lang, key)}

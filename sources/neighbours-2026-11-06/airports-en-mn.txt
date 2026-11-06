@@ -1,0 +1,763 @@
+This transport-related list
+is
+incomplete
+; you can help by
+adding missing items
+.
+(
+October 2021
+)
+Map
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+This is a
+list of
+airports
+in
+Mongolia
+, grouped by type and sorted by location.
+Airports
+[
+edit
+]
+Airport names shown in
+bold
+indicate the airport has scheduled service on commercial airlines.
+Airport name
+City served
+Type
+Province
+ICAO
+IATA
+Runway(s)
+Coordinates
+Altai Airport
+Altai
+Domestic
+Govi-Altai
+ZMAT
+LTI
+10/28: 2290m x 60m, grass
+46°22′33″N
+096°13′09″E
+﻿
+/
+﻿
+46.37583°N 96.21917°E
+﻿
+/
+46.37583; 96.21917
+﻿
+(
+ZMAT
+)
+Arvaikheer Airport
+Arvaikheer
+Domestic
+Övörhkangai
+ZMAH
+AVK
+14/32: 2300m x 50m, grass
+46°15′09″N
+102°47′57″E
+﻿
+/
+﻿
+46.25250°N 102.79917°E
+﻿
+/
+46.25250; 102.79917
+﻿
+(
+ZMAH
+)
+Baruun-Urt Airport
+Baruun-Urt
+Domestic
+Sükhbaatar
+ZMBU
+UUN
+18/36: 2200m x 50m, grass
+46°39′37″N
+113°17′07″E
+﻿
+/
+﻿
+46.66028°N 113.28528°E
+﻿
+/
+46.66028; 113.28528
+﻿
+(
+ZMBU
+)
+Baruunturuun Airport
+Baruunturuun
+Domestic
+Uvs
+01/19: 2200m x 50m, grass
+49°40′20.64″N
+94°22′21″E
+﻿
+/
+﻿
+49.6724000°N 94.37250°E
+﻿
+/
+49.6724000; 94.37250
+﻿
+(
+Baruunturuun
+)
+Bayankhongor Airport
+Bayankhongor
+Domestic
+Bayankhongor
+ZMBH
+BYN
+16L/34R: 2800m x 35m, asphalt/concrete
+16R/34L: 2100m x 50m, grass
+46°10′14″N
+100°42′00″E
+﻿
+/
+﻿
+46.17056°N 100.70000°E
+﻿
+/
+46.17056; 100.70000
+﻿
+(
+ZMBH
+)
+Bulgan Airport
+Bulgan
+Domestic
+Bulgan
+ZMBN
+UGA
+13/31: 1900m x 50m, grass
+48°51′15″N
+103°29′03″E
+﻿
+/
+﻿
+48.85417°N 103.48417°E
+﻿
+/
+48.85417; 103.48417
+﻿
+(
+ZMBN
+)
+Bulgan Airport, Khovd
+Bulgan, Khovd
+Domestic
+Khovd
+ZMBS
+HBU
+17/35: 1800m x 40m, grass
+46°06′06″N
+091°34′55″E
+﻿
+/
+﻿
+46.10167°N 91.58194°E
+﻿
+/
+46.10167; 91.58194
+﻿
+(
+ZMBS
+)
+Buyant-Ukhaa International Airport
+(formerly Chingis Khaan International Airport)
+Ulaanbaatar
+International
+(capital)
+ZMUB
+ULN
+14/32: 3100m x 60m, asphalt
+15/33: 2000m x 40m, grass
+47°50′35″N
+106°45′59″E
+﻿
+/
+﻿
+47.84306°N 106.76639°E
+﻿
+/
+47.84306; 106.76639
+﻿
+(
+ZMUB
+)
+Chinggis Khaan International Airport
+Ulaanbaatar
+International
+Töv
+ZMCK
+UBN
+3600 m x 45 m, concrete
+47°39′00″N
+106°49′08″E
+﻿
+/
+﻿
+47.65000°N 106.81889°E
+﻿
+/
+47.65000; 106.81889
+﻿
+(
+ZMCK
+)
+Choibalsan Airport
+Choibalsan
+Domestic
+Dornod
+ZMCD
+COQ
+12/30: 2600m x 40m, concrete
+48°08′08″N
+114°38′46″E
+﻿
+/
+﻿
+48.13556°N 114.64611°E
+﻿
+/
+48.13556; 114.64611
+﻿
+(
+ZMCD
+)
+Dadal Airport
+Dadal
+Domestic
+Khentii
+ZMDA
+14/32: 1600m x 40m, unpaved
+49°00′54″N
+111°30′28″E
+﻿
+/
+﻿
+49.01500°N 111.50778°E
+﻿
+/
+49.01500; 111.50778
+﻿
+(
+ZMDA
+)
+Dalanzadgad Airport
+Dalanzadgad
+Domestic
+Ömnögovi
+ZMDZ
+DLZ
+03/21: 2300m x 50m, concrete
+43°36′31″N
+104°22′01″E
+﻿
+/
+﻿
+43.60861°N 104.36694°E
+﻿
+/
+43.60861; 104.36694
+﻿
+(
+ZMDZ
+)
+Donoi Airport
+Uliastai
+Domestic
+Zavkhan
+ZMDN
+ULZ
+03/21: 2300m x 50m, concrete
+47°42′46″N
+96°31′27″E
+﻿
+/
+﻿
+47.71278°N 96.52417°E
+﻿
+/
+47.71278; 96.52417
+﻿
+(
+ZMDN
+)
+Khanbumbat Airport
+Oyuu Tolgoi
+Domestic
+Ömnögovi
+ZMKB
+n.a.
+15/33: 3250m x 45m, concrete
+43°08′05″N
+106°50′47″E
+﻿
+/
+﻿
+43.13472°N 106.84639°E
+﻿
+/
+43.13472; 106.84639
+﻿
+(
+ZMKB
+)
+Kharkhorin Airport
+Kharkhorin
+Domestic
+Övörkhangai
+ZMHH
+KHR
+01/19: 1800x x 50m, grass
+47°14′48″N
+102°49′34″E
+﻿
+/
+﻿
+47.24667°N 102.82611°E
+﻿
+/
+47.24667; 102.82611
+﻿
+(
+ZMHH
+)
+Khatgal Airport
+Khatgal
+Domestic
+Khövsgöl
+ZMHG
+HTM
+15/33: 2400m x 30m, unpaved
+50°26′33.72″N
+100°07′56.28″E
+﻿
+/
+﻿
+50.4427000°N 100.1323000°E
+﻿
+/
+50.4427000; 100.1323000
+﻿
+(
+ZMHG
+)
+Khovd Airport
+Khovd
+Domestic
+Khovd
+ZMKD
+HVD
+16L/34R: 2850m x 49m, asphalt/concrete
+16R/34L: 2000m x 50m, grass
+47°57′41″N
+91°37′33″E
+﻿
+/
+﻿
+47.96139°N 91.62583°E
+﻿
+/
+47.96139; 91.62583
+﻿
+(
+ZMKD
+)
+Khujirt Airport
+Khujirt
+Domestic
+Övörkhangai
+ZMHU
+HJT
+09/27: 2200m x 60m, grass
+46°55′31″N
+102°46′29″E
+﻿
+/
+﻿
+46.92528°N 102.77472°E
+﻿
+/
+46.92528; 102.77472
+﻿
+(
+ZMHU
+)
+Mandalgovi Airport
+Mandalgovi
+Domestic
+Dundgovi
+ZMMG
+MXW
+18/36: 1800m x 40m, grass
+45°44′08″N
+106°16′10″E
+﻿
+/
+﻿
+45.73556°N 106.26944°E
+﻿
+/
+45.73556; 106.26944
+﻿
+(
+ZMMG
+)
+Mörön Airport
+Mörön
+International
+[
+1
+]
+Khövsgöl
+ZMMN
+MXV
+10L/28R: 2440m x 42m, asphalt/concrete
+10R/28L: 2000m x 40m, gravel
+49°39′47″N
+100°05′57″E
+﻿
+/
+﻿
+49.66306°N 100.09917°E
+﻿
+/
+49.66306; 100.09917
+﻿
+(
+ZMMN
+)
+Ölgii Airport
+Ölgii
+International
+[
+2
+]
+[
+3
+]
+Bayan-Ölgii
+ZMUL
+ULG
+13/31: 2850m x 30m, concrete
+48°59′40″N
+89°55′11″E
+﻿
+/
+﻿
+48.99444°N 89.91972°E
+﻿
+/
+48.99444; 89.91972
+﻿
+(
+ZMUL
+)
+Öndörkhaan Airport
+Öndörkhaan
+Domestic
+Khentii
+ZMUH
+UNR
+06/24: 1800m x 50m, grass
+47°18′15″N
+110°36′27″E
+﻿
+/
+﻿
+47.30417°N 110.60750°E
+﻿
+/
+47.30417; 110.60750
+﻿
+(
+ZMUH
+)
+Ovoot Airport
+Ovoot Tolgoi / Nariin Sukhait
+Domestic
+Ömnögovi
+ZMGT
+n.a.
+2220m x 30m, concrete
+43°0′41.76″N
+101°20′1.68″E
+﻿
+/
+﻿
+43.0116000°N 101.3338000°E
+﻿
+/
+43.0116000; 101.3338000
+﻿
+(
+ZMGT
+)
+Tavan Tolgoi Airport
+Tavan Tolgoi
+Domestic
+Ömnögovi
+ZMTT
+n.a.
+2350m x 30m, grass
+43°46′25″N
+105°34′44″E
+﻿
+/
+﻿
+43.77361°N 105.57889°E
+﻿
+/
+43.77361; 105.57889
+﻿
+(
+ZMTT
+)
+Tosontsengel Airport
+Tosontsengel
+Domestic
+Zavkhaan
+ZMTL
+n.a.
+10/28: 2400m x 50m, grass
+48°44′21″N
+98°17′24″E
+﻿
+/
+﻿
+48.73917°N 98.29000°E
+﻿
+/
+48.73917; 98.29000
+﻿
+(
+ZMTL
+)
+Tsetserleg Airport
+Tsetserleg
+Domestic
+Arkhangai
+ZMTG
+TSZ
+14/32: 1650m x 35m, grass
+47°27′50″N
+101°28′54″E
+﻿
+/
+﻿
+47.46389°N 101.48167°E
+﻿
+/
+47.46389; 101.48167
+﻿
+(
+ZMTG
+)
+Ulaangom Airport
+Ulaangom
+Domestic
+Uvs
+ZMUG
+ULO
+15/19: 2697m x 30m, concrete
+50°04′02″N
+91°56′16″E
+﻿
+/
+﻿
+50.06722°N 91.93778°E
+﻿
+/
+50.06722; 91.93778
+﻿
+(
+ZMUG
+)
+See also
+[
+edit
+]
+Transport in Mongolia
+List of airports by ICAO code: Z#ZM - Mongolia
+Wikipedia:WikiProject Aviation/Airline destination lists: Asia#Mongolia
+References
+[
+edit
+]
+↑
+Urin, .N (2025-07-29).
+"First International Jeonju-Murun Flight Operated"
+.
+Montsame News Agency
+. Ulaanbaatar. Montsame News Agency.
+Archived
+from the original on 2025-08-12.
+↑
+"БАЯН-ӨЛГИЙ АЙМАГ ДАХЬ ӨЛГИЙ НИСЭХ БУУДЛЫН ТОВЧ ТАНИЛЦУУЛГА"
+.
+Өлгий нисэх буудал
+.
+↑
+Rakhmyet, Shynai (2023-04-23).
+"Өлгий хотын өнгө жавхаа"
+.
+fliphtml5.com
+(Flipbook) (in Mongolian). p.
+44.
+Mongolian Civil Aviation Authority (MCAA)
+"Descriptions of 22 Domestic Airports"
+(PDF)
+. Mongolian Civil Aviation Authority (MCAA). Archived from
+the original
+(PDF)
+on 2007-09-28
+. Retrieved
+2007-01-19
+.
+"ICAO Location Indicators by State"
+(PDF)
+.
+International Civil Aviation Organization
+. 2006-01-12. Archived from
+the original
+(PDF)
+on 2007-09-26
+. Retrieved
+2009-11-20
+.
+"UN Location Codes: Mongolia"
+.
+UN/LOCODE
+2007
+.
+UNECE
+. 2008-03-25.
+- includes IATA codes
+Great Circle Mapper: Airports in Mongolia
+- IATA and ICAO codes
+World Aero Data: Airports in Mongolia
+[
+link removed
+]
+- ICAO codes
+External links
+[
+edit
+]
+Wikimedia Commons has media related to
+Airports in Mongolia
+.
+Civil Aviation Authority of Mongolia
+Aeronautical Information Publication
+v
+t
+e
+Airports
+in
+Mongolia
+International
+Ulaanbaatar-Chinggis Khaan
+Mörön
+Ölgii
+Domestic
+Altai
+Choibalsan
+Dadal
+Dalanzadgad
+Donoi
+Khanbumbat
+Khovd
+Khujirt
+Ovoot
+Tavan Tolgoi
+Ulaangom
+Other
+Ulaanbaatar-Buyant-Ukhaa
+v
+t
+e
+List of airports in Asia
+Sovereign states
+Afghanistan
+Armenia
+Azerbaijan
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodia
+China
+Cyprus
+Egypt
+Georgia
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Russia
+Saudi Arabia
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Timor-Leste (East Timor)
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
+States with
+limited recognition
+Abkhazia
+Northern Cyprus
+South Ossetia
+Taiwan
+Dependencies
+and
+other territories
+British Indian Ocean Territory
+Christmas Island
+Cocos (Keeling) Islands
+Hong Kong
+Macau
+Category
+Asia portal
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Mongolia&oldid=1371386798
+"

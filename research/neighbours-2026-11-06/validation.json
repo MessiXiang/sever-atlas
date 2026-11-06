@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "errors": [],
+  "countries": [
+    "AZ",
+    "BY",
+    "GE",
+    "KG",
+    "KZ",
+    "MN",
+    "TJ",
+    "TM",
+    "UZ"
+  ],
+  "findings": 72,
+  "airportReviewRows": 154,
+  "operatorReviewGroups": 52,
+  "sourceRecords": 295,
+  "rawSourceHashesChecked": 281,
+  "internationalSnapshotsChecked": 34,
+  "internationalFilesUnique": 30,
+  "localMarkdownLinksChecked": 44,
+  "silkPdfCopyIdentical": true,
+  "sourceHttpStatuses": {
+    "200": 262,
+    "404": 17,
+    "fetch-error": 14,
+    "403": 1,
+    "502": 1
+  },
+  "limitations": "File integrity and reference consistency checks do not confirm flight availability. Evidence limits are stated in each finding."
+}

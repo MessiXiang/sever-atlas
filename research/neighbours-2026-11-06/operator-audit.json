@@ -1,0 +1,1006 @@
+[
+  {
+    "country": "GE",
+    "name": "Vanilla Sky / Service Air",
+    "reviewStatus": "public-route-and-L410-offer",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-schedule",
+        "url": "https://ticket.vanillasky.ge/en/node/51",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+        "retrievedAt": "2026-11-06T08:30:05.024476+00:00"
+      },
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      }
+    ],
+    "noteZh": "同一品牌/承运关系核查，不把 Service Air 与 Vanilla Sky 重复计为两套航线。"
+  },
+  {
+    "country": "GE",
+    "name": "Georgian Airways",
+    "reviewStatus": "screened-no-target-route-confirmed",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-ge",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Georgia",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-ge.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623320+00:00"
+      },
+      {
+        "sourceId": "ap-ge-03",
+        "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+        "localFile": "sources/neighbours-2026-11-06/ap-ge-03.txt",
+        "retrievedAt": "2026-11-06T08:39:03.913590+00:00"
+      }
+    ],
+    "noteZh": "常规客运；本次未从机场与航司列表找到新增苏制客班证据。"
+  },
+  {
+    "country": "GE",
+    "name": "Myway Airlines / Tbilisi Airways",
+    "reviewStatus": "screened-no-target-route-confirmed",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-ge",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Georgia",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-ge.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623320+00:00"
+      }
+    ],
+    "noteZh": "按航司列表初筛，保留客货运及计划/历史状态差异；不因国籍推定毛机。"
+  },
+  {
+    "country": "GE",
+    "name": "Georgian Wings / Geosky",
+    "reviewStatus": "screened-cargo-or-non-target",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-ge",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Georgia",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-ge.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623320+00:00"
+      }
+    ],
+    "noteZh": "品牌、客货运需分开；未确认本土毛机客班。"
+  },
+  {
+    "country": "GE",
+    "name": "Geo Sky / Easy Charter / Georgian Airlines / Camex / TCA",
+    "reviewStatus": "cargo-and-special-operations-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-ge",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Georgia",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-ge.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623320+00:00"
+      },
+      {
+        "sourceId": "category-ru-ge",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/category-ru-ge.txt",
+        "retrievedAt": "2026-11-06T08:40:16.728436+00:00"
+      }
+    ],
+    "noteZh": "列表货运与特种运营线索；货机拥有者不等于公开载客。"
+  },
+  {
+    "country": "GE",
+    "name": "Border Police municipal flights",
+    "reviewStatus": "unresolved-current-service",
+    "sourceRefs": [
+      {
+        "sourceId": "ge-tusheti-public",
+        "url": "https://1tv.ge/video/samoqalaqo-frenebi-tushetis-mimartulebit/",
+        "localFile": "sources/neighbours-2026-11-06/ge-tusheti-public.txt",
+        "retrievedAt": "2026-11-06T09:56:11.948395+00:00"
+      },
+      {
+        "sourceId": "ge-police-tusheti",
+        "url": "https://www.google.com/goto?url=CAES3AEBxCJF1wl8HmQ_kQbjBJixAUgZIRXmnNoMgodK2D5EQRoPoTfK6WkDsFvk9W56ZSBjMVpNyCV3-sU-HCCK4_N5FF643YS5w8czOMMWSgB7Nm8TuTGrQNf9PS_p3BOy7X25DpqQjW1Kgwy4lp856HTYK7wuEZMZ-1GVGBNfPjrtpKhyn-ZhFkgscl0RtqRVnTZTn-7AhOn256kXf0JTpbmpizDT9oO2wSy7nZHANTZSa77XjClrlL8iBvN63uNosScgC-_C60ATxxufyKtAWrn6hng5jh8IOuNyqQfv",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:15:33.010488+00:00"
+      }
+    ],
+    "noteZh": "Tusheti/Omalo/Shatili 单列，当前机型及乘坐资格待核。"
+  },
+  {
+    "country": "GE",
+    "name": "helicopters.ge",
+    "reviewStatus": "official-non-target",
+    "sourceRefs": [
+      {
+        "sourceId": "ge-helicopters-home",
+        "url": "https://helicopters.ge/en/",
+        "localFile": "sources/neighbours-2026-11-06/ge-helicopters-home.txt",
+        "retrievedAt": "2026-11-06T09:52:50.747412+00:00"
+      }
+    ],
+    "noteZh": "山地转场与观光页面为 AS350B3，未当 Mi-8。"
+  },
+  {
+    "country": "AZ",
+    "name": "Azerbaijan Airlines / AZAL",
+    "reviewStatus": "screened-no-target-route-confirmed",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-az-az",
+        "url": "https://az.wikipedia.org/wiki/Az%C9%99rbaycan_avia%C5%9Firk%C9%99tl%C9%99rinin_siyah%C4%B1s%C4%B1",
+        "localFile": "sources/neighbours-2026-11-06/wiki-az-az.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188258+00:00"
+      },
+      {
+        "sourceId": "wiki-en-az",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Azerbaijan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-az.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623597+00:00"
+      }
+    ],
+    "noteZh": "巴库及国内机场承运人初筛；不能把旧 Tu-134/Tu-154 机队当现役。"
+  },
+  {
+    "country": "AZ",
+    "name": "Buta Airways / AZALJET / Turan Air / Imair",
+    "reviewStatus": "historical-or-brand-record",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-az-az",
+        "url": "https://az.wikipedia.org/wiki/Az%C9%99rbaycan_avia%C5%9Firk%C9%99tl%C9%99rinin_siyah%C4%B1s%C4%B1",
+        "localFile": "sources/neighbours-2026-11-06/wiki-az-az.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188258+00:00"
+      },
+      {
+        "sourceId": "wiki-en-az",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Azerbaijan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-az.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623597+00:00"
+      }
+    ],
+    "noteZh": "本地语列表有旧品牌，不据此增加现役航空公司。"
+  },
+  {
+    "country": "AZ",
+    "name": "Silk Way Airlines / Silk Way West",
+    "reviewStatus": "cargo-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-az",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Azerbaijan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-az.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623597+00:00"
+      }
+    ],
+    "noteZh": "苏制货机不计普通旅客航班。"
+  },
+  {
+    "country": "AZ",
+    "name": "ASG Business Aviation / ASG Helicopter Services",
+    "reviewStatus": "offshore-current-type-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "az-asg-business-wiki",
+        "url": "https://en.wikipedia.org/wiki/ASG_Business_Aviation",
+        "localFile": "sources/neighbours-2026-11-06/az-asg-business-wiki.txt",
+        "retrievedAt": "2026-11-06T10:15:33.010805+00:00"
+      },
+      {
+        "sourceId": "az-asg-about",
+        "url": "https://asg-helicopters.az/page/about-us",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:16:58.371919+00:00"
+      }
+    ],
+    "noteZh": "扎布拉特海上通勤已单列；官方访问失败，旧 Mi-8 线索未确认。"
+  },
+  {
+    "country": "KZ",
+    "name": "Southern Sky / Южное Небо / Hi Sky",
+    "reviewStatus": "confirmed-An24",
+    "sourceRefs": [
+      {
+        "sourceId": "southernsky-about",
+        "url": "https://hisky.kz/about/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-about.txt",
+        "retrievedAt": "2026-11-06T08:29:59.981251+00:00"
+      },
+      {
+        "sourceId": "kz-semei-gov-rendered",
+        "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+        "localFile": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366153+00:00"
+      },
+      {
+        "sourceId": "southernsky-charter",
+        "url": "https://hisky.kz/frakht-vs/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-charter.txt",
+        "retrievedAt": "2026-11-06T08:29:59.982036+00:00"
+      }
+    ],
+    "noteZh": "补入维基列表容易漏掉的地方补贴客运航司。"
+  },
+  {
+    "country": "KZ",
+    "name": "Zhetysu / Жетысу",
+    "reviewStatus": "current-public-flights-unverified",
+    "sourceRefs": [
+      {
+        "sourceId": "zhetysu-wiki",
+        "url": "https://en.wikipedia.org/wiki/Zhetysu_(airline)",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-wiki.txt",
+        "retrievedAt": "2026-11-06T08:26:15.100727+00:00"
+      },
+      {
+        "sourceId": "zhetysu-home",
+        "url": "https://www.zhetysuavia.kz/ru",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-home.txt",
+        "retrievedAt": "2026-11-06T08:29:59.982328+00:00"
+      },
+      {
+        "sourceId": "zhetysu-departures",
+        "url": "https://www.zhetysuavia.kz/ru/flights/departures",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-departures.txt",
+        "retrievedAt": "2026-11-06T08:33:08.451623+00:00"
+      }
+    ],
+    "noteZh": "Yak-40/L-410 旧机队与当前售票分开。"
+  },
+  {
+    "country": "KZ",
+    "name": "Zhezkazgan Air / ZhezAir",
+    "reviewStatus": "current-public-flights-unverified",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-zhezair-wiki",
+        "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Air",
+        "localFile": "sources/neighbours-2026-11-06/kz-zhezair-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:45.692308+00:00"
+      },
+      {
+        "sourceId": "kz-zhezair-home",
+        "url": "https://zhezair.com/",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T09:56:10.583124+00:00"
+      }
+    ],
+    "noteZh": "矿业及地区通勤已纳入；没有确认当前 Yak-40 散客航班。"
+  },
+  {
+    "country": "KZ",
+    "name": "Kazaviaspas",
+    "reviewStatus": "official-government-special-missions",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-kazaviaspas-fleet",
+        "url": "http://kazaviaspas.kz/helicopters/ru/",
+        "localFile": "sources/neighbours-2026-11-06/kz-kazaviaspas-fleet.txt",
+        "retrievedAt": "2026-11-06T10:22:23.298503+00:00"
+      },
+      {
+        "sourceId": "kz-kazaviaspas-transport",
+        "url": "http://kazaviaspas.kz/services/ru/1/",
+        "localFile": "sources/neighbours-2026-11-06/kz-kazaviaspas-transport.txt",
+        "retrievedAt": "2026-11-06T10:22:23.298243+00:00"
+      }
+    ],
+    "noteZh": "Mi-8、Ka-32、L-410NG 可确认；服务文本指民防救援人员。"
+  },
+  {
+    "country": "KZ",
+    "name": "Euro-Asia Air / Air Tengri",
+    "reviewStatus": "official-current-western-fleet",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-eaa-home",
+        "url": "https://www.eaa.kz/",
+        "localFile": "sources/neighbours-2026-11-06/kz-eaa-home.txt",
+        "retrievedAt": "2026-11-06T09:56:10.583042+00:00"
+      },
+      {
+        "sourceId": "kz-euroasia-wiki",
+        "url": "https://en.wikipedia.org/wiki/Euro-Asia_Air",
+        "localFile": "sources/neighbours-2026-11-06/kz-euroasia-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:45.691793+00:00"
+      }
+    ],
+    "noteZh": "现官网列 AW139 / Legacy 650；不沿用旧 Mi-8 作为现售证明。"
+  },
+  {
+    "country": "KZ",
+    "name": "Burundaiavia",
+    "reviewStatus": "historical-status-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-burundai-wiki-retry",
+        "url": "https://en.wikipedia.org/wiki/Burundaiavia",
+        "localFile": "sources/neighbours-2026-11-06/kz-burundai-wiki-retry.txt",
+        "retrievedAt": "2026-11-06T10:19:25.059509+00:00"
+      },
+      {
+        "sourceId": "kz-burundai-official",
+        "url": "http://www.burundaiavia.kz/",
+        "localFile": "sources/neighbours-2026-11-06/kz-burundai-official.txt",
+        "retrievedAt": "2026-11-06T10:20:45.275300+00:00"
+      }
+    ],
+    "noteZh": "2020 Mi-8 库存及旧联合国合同不是 2026 国内客运证明；官网无可用正文。"
+  },
+  {
+    "country": "KZ",
+    "name": "East Wing",
+    "reviewStatus": "special-operations-lead-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-kz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kazakhstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623769+00:00"
+      },
+      {
+        "sourceId": "kz-eastwing-wiki",
+        "url": "https://en.wikipedia.org/wiki/East_Wing_(Kazakhstan)",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:19:25.059231+00:00"
+      }
+    ],
+    "noteZh": "旧小飞机/医疗作业线索，本次条目读取失败，未取得公开班表。"
+  },
+  {
+    "country": "KZ",
+    "name": "Khozu Avia",
+    "reviewStatus": "former-Yak42-not-current-proof",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-khozu-wiki",
+        "url": "https://en.wikipedia.org/wiki/Khozu_Avia",
+        "localFile": "sources/neighbours-2026-11-06/kz-khozu-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:45.692063+00:00"
+      }
+    ],
+    "noteZh": "百科把 Yak-42 列为旧机型，不作为当前公共客运。"
+  },
+  {
+    "country": "KZ",
+    "name": "Sky Service",
+    "reviewStatus": "secondary-non-target-fleet",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-skyservice-wiki",
+        "url": "https://en.wikipedia.org/wiki/Sky_Service_(Kazakhstan)",
+        "localFile": "sources/neighbours-2026-11-06/kz-skyservice-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:45.692216+00:00"
+      }
+    ],
+    "noteZh": "资料为西方轻型飞机/直升机，未找到毛机公共班次。"
+  },
+  {
+    "country": "KZ",
+    "name": "Air Astana / FlyArystan / SCAT / Qazaq Air-VietJet Qazaqstan / Sunday Airlines",
+    "reviewStatus": "mainline-and-regional-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-kk-kz",
+        "url": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD_%D3%99%D1%83%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%BB%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96",
+        "localFile": "sources/neighbours-2026-11-06/wiki-kk-kz.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188613+00:00"
+      },
+      {
+        "sourceId": "wiki-en-kz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kazakhstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623769+00:00"
+      }
+    ],
+    "noteZh": "初筛及机场反查；尤其不能把 Southern Sky 实际运营的航班仅按 SCAT 销售/旧表标注判型。"
+  },
+  {
+    "country": "KZ",
+    "name": "Aerotrans / Avia Jaynar / Kazakhmys / Prime Aviation / Sayat Air / Jet Airlines / Fly Jet KZ / Kaz Air Jet / Comlux KZ",
+    "reviewStatus": "charter-list-screen-not-all-fleets-verified",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-kz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kazakhstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623769+00:00"
+      }
+    ],
+    "noteZh": "全部保留在维基原始观察清单；本次没有逐家取得当前 AOC 附件与完整机队，不做全国排他性无毛机结论。"
+  },
+  {
+    "country": "KZ",
+    "name": "Jupiter Jet / Sigma Airlines",
+    "reviewStatus": "cargo-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-kz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kazakhstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623769+00:00"
+      }
+    ],
+    "noteZh": "货运线索与载客分开。"
+  },
+  {
+    "country": "KG",
+    "name": "Asman Airlines",
+    "reviewStatus": "official-Q400",
+    "sourceRefs": [
+      {
+        "sourceId": "kg-asman-about",
+        "url": "https://asmanairlines.kg/content/about-us",
+        "localFile": "sources/neighbours-2026-11-06/kg-asman-about.txt",
+        "retrievedAt": "2026-11-06T10:20:45.274845+00:00"
+      }
+    ],
+    "noteZh": "11 个国内城市/机场的恢复通勤已覆盖，官方 Q400。"
+  },
+  {
+    "country": "KG",
+    "name": "TezJet",
+    "reviewStatus": "non-target-types-and-status-conflict",
+    "sourceRefs": [
+      {
+        "sourceId": "tezjet-wiki",
+        "url": "https://en.wikipedia.org/wiki/TezJet",
+        "localFile": "sources/neighbours-2026-11-06/tezjet-wiki.txt",
+        "retrievedAt": "2026-11-06T08:26:15.857816+00:00"
+      },
+      {
+        "sourceId": "wiki-ky-kg",
+        "url": "https://ky.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BD_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%BB%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D0%BD_%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D1%81%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/wiki-ky-kg.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188773+00:00"
+      }
+    ],
+    "noteZh": "RJ85/MD83 不属本次毛机范围；不同语种存续信息不一致，不仅凭维基宣布停业。"
+  },
+  {
+    "country": "KG",
+    "name": "Avia Traffic / Aero Nomad / Sky FRU",
+    "reviewStatus": "mainline-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-ky-kg",
+        "url": "https://ky.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BD_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%BB%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D0%BD_%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D1%81%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/wiki-ky-kg.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188773+00:00"
+      },
+      {
+        "sourceId": "wiki-en-kg",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kyrgyzstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kg.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623873+00:00"
+      }
+    ],
+    "noteZh": "常规客运航司列表与机场筛查，未确认新增毛机客运。"
+  },
+  {
+    "country": "KG",
+    "name": "Ak-Sai Travel",
+    "reviewStatus": "tour-seller-Mi8-confirmed",
+    "sourceRefs": [
+      {
+        "sourceId": "kg-aksai-heliski",
+        "url": "https://ak-sai.com/shop/ski-tours/heliski/",
+        "localFile": "sources/neighbours-2026-11-06/kg-aksai-heliski.txt",
+        "retrievedAt": "2026-11-06T10:01:17.334974+00:00"
+      },
+      {
+        "sourceId": "aksai-khantengri",
+        "url": "https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/",
+        "localFile": "sources/neighbours-2026-11-06/aksai-khantengri.txt",
+        "retrievedAt": "2026-11-06T08:33:08.047180+00:00"
+      }
+    ],
+    "noteZh": "旅游组织者与实际持证航空运营人分开。"
+  },
+  {
+    "country": "KG",
+    "name": "Aerostan / FlySky / Sky KG / Moalem / Trans Caravan KG and other listed cargo operators",
+    "reviewStatus": "cargo-or-special-operations-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-ky-kg",
+        "url": "https://ky.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BD_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%BB%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D0%BD_%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D1%81%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/wiki-ky-kg.txt",
+        "retrievedAt": "2026-11-06T08:22:25.188773+00:00"
+      },
+      {
+        "sourceId": "wiki-en-kg",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kyrgyzstan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-kg.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623873+00:00"
+      }
+    ],
+    "noteZh": "本地语货运表整体保留；An/Il 货机和历史直升机名录不能直接转为售票服务。"
+  },
+  {
+    "country": "UZ",
+    "name": "Silk Avia / Uzbekistan Airways / Uzbekistan Helicopters",
+    "reviewStatus": "L410-route-announcement-confirmed-current-dates-open",
+    "sourceRefs": [
+      {
+        "sourceId": "silk-l410-new",
+        "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+        "localFile": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889385+00:00"
+      },
+      {
+        "sourceId": "silk-uzairways-third",
+        "url": "https://www.uzairways.com/en/press-center/news/uzbekistan-airways-received-its-third-let-l-410-aircraft",
+        "localFile": "sources/neighbours-2026-11-06/silk-uzairways-third.txt",
+        "retrievedAt": "2026-11-06T09:58:14.824024+00:00"
+      },
+      {
+        "sourceId": "silk-fleet",
+        "url": "https://www.silk-avia.com/uz/about/fleet/",
+        "localFile": "sources/neighbours-2026-11-06/silk-fleet.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889851+00:00"
+      }
+    ],
+    "noteZh": "核查销售品牌与集团实际承运主体，避免同一 L-410 项目计三次。"
+  },
+  {
+    "country": "UZ",
+    "name": "Uzbekistan Helicopters commercial tours",
+    "reviewStatus": "official-non-target-helicopters",
+    "sourceRefs": [
+      {
+        "sourceId": "uz-helicopters",
+        "url": "https://flyhelicopters.uz/uz",
+        "localFile": "sources/neighbours-2026-11-06/uz-helicopters.txt",
+        "retrievedAt": "2026-11-06T08:33:08.046873+00:00"
+      }
+    ],
+    "noteZh": "当前旅游页为 H125/H130，不据公司名称推断 Mi-8。"
+  },
+  {
+    "country": "UZ",
+    "name": "Humo Air",
+    "reviewStatus": "An2-listing-not-public-flight-proof",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-uz-uz",
+        "url": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_aviakompaniyalari_ro%CA%BByxati",
+        "localFile": "sources/neighbours-2026-11-06/wiki-uz-uz.txt",
+        "retrievedAt": "2026-11-06T08:22:26.973605+00:00"
+      },
+      {
+        "sourceId": "wiki-en-uz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Uzbekistan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-uz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623930+00:00"
+      }
+    ],
+    "noteZh": "本地维基含 AN2；未核出当前公众可购 An-2 航班。"
+  },
+  {
+    "country": "UZ",
+    "name": "Qanot Sharq / Centrum Air / Air Samarkand / Panorama / Tashkent Air / FlyOne Asia",
+    "reviewStatus": "mainline-and-brand-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-uz-uz",
+        "url": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_aviakompaniyalari_ro%CA%BByxati",
+        "localFile": "sources/neighbours-2026-11-06/wiki-uz-uz.txt",
+        "retrievedAt": "2026-11-06T08:22:26.973605+00:00"
+      },
+      {
+        "sourceId": "wiki-en-uz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Uzbekistan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-uz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623930+00:00"
+      }
+    ],
+    "noteZh": "名单初筛；现役状态与机型应再逐班核验，未发现可确证的新增毛机服务。"
+  },
+  {
+    "country": "UZ",
+    "name": "My Freighter / Fly Khiva / SpaceBee",
+    "reviewStatus": "cargo-and-non-target-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-uz",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Uzbekistan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-uz.txt",
+        "retrievedAt": "2026-11-06T08:21:21.623930+00:00"
+      }
+    ],
+    "noteZh": "不把货机或新支线的 ATR/A320 自动计为毛机。"
+  },
+  {
+    "country": "TJ",
+    "name": "Tajik Air",
+    "reviewStatus": "An28-network-with-demo-data-excluded",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tj-khorog-khovar",
+        "url": "https://khovar.tj/rus/2024/09/tadzhik-ejr-nachnet-polety-po-marshrutu-dushanbe-horog-dushanbe/",
+        "localFile": "sources/neighbours-2026-11-06/tj-khorog-khovar.txt",
+        "retrievedAt": "2026-11-06T09:48:25.607004+00:00"
+      }
+    ],
+    "noteZh": "六个国内目的地逐一列出；所有演示时刻、票价和假机场缩写剔除。"
+  },
+  {
+    "country": "TJ",
+    "name": "Shohin Airlines",
+    "reviewStatus": "2026-L410NG-delivery-and-launch",
+    "sourceRefs": [
+      {
+        "sourceId": "tj-shohin-airnav",
+        "url": "https://www.airnav.tj/4695-unveiling-of-shohin-airlines-first-aircraft-l-410-ng.html",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-airnav.txt",
+        "retrievedAt": "2026-11-06T10:21:21.564550+00:00"
+      },
+      {
+        "sourceId": "tj-shohin-trend",
+        "url": "https://www.trend.az/casia/tajikistan/4228701.html",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-trend.txt",
+        "retrievedAt": "2026-11-06T10:21:21.564847+00:00"
+      },
+      {
+        "sourceId": "tj-shohin-timesca",
+        "url": "https://timesca.com/tajikistans-shohin-airlines-unveils-first-plane/",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-timesca.txt",
+        "retrievedAt": "2026-11-06T10:21:21.565067+00:00"
+      }
+    ],
+    "noteZh": "新固定翼运营与既有直升机活动分别看；公众售票班表未核实。"
+  },
+  {
+    "country": "TJ",
+    "name": "Somon Air",
+    "reviewStatus": "mainline-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "category-tg-tj",
+        "url": "https://tg.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D3%AF%D2%B3:%D0%A8%D0%B8%D1%80%D0%BA%D0%B0%D1%82%D2%B3%D0%BE%D0%B8_%D2%B3%D0%B0%D0%B2%D0%BE%D0%BF%D0%B0%D0%B9%D0%BC%D0%BE%D0%B8%D0%B8_%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD",
+        "localFile": "sources/neighbours-2026-11-06/category-tg-tj.txt",
+        "retrievedAt": "2026-11-06T08:40:16.728653+00:00"
+      },
+      {
+        "sourceId": "wiki-en-tj",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Tajikistan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-tj.txt",
+        "retrievedAt": "2026-11-06T08:21:23.236601+00:00"
+      }
+    ],
+    "noteZh": "未找到当前苏制客机航班；常规波音客运不计。"
+  },
+  {
+    "country": "TJ",
+    "name": "Asia Sky Lines / FlyUnion / Sky Golden Lachin / Khatlon Air; Asia Airways / East Air and historical entries",
+    "reviewStatus": "historical-and-cargo-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-tj",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Tajikistan",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-tj.txt",
+        "retrievedAt": "2026-11-06T08:21:23.236601+00:00"
+      },
+      {
+        "sourceId": "category-ru-tj",
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+        "localFile": "sources/neighbours-2026-11-06/category-ru-tj.txt",
+        "retrievedAt": "2026-11-06T08:40:16.728557+00:00"
+      }
+    ],
+    "noteZh": "货运表及历史表分别保留；不能把停业/历史 Tu/Yak/An 库存列入现役客班。"
+  },
+  {
+    "country": "TM",
+    "name": "Turkmenistan Airlines",
+    "reviewStatus": "domestic-network-screened-no-public-target-confirmed",
+    "sourceRefs": [
+      {
+        "sourceId": "tm-local-wiki",
+        "url": "https://tk.wikipedia.org/wiki/T%C3%BCrkmenistan_howa_%C3%BDollary",
+        "localFile": "sources/neighbours-2026-11-06/tm-local-wiki.txt",
+        "retrievedAt": "2026-11-06T09:56:10.583236+00:00"
+      },
+      {
+        "sourceId": "tm-airline-wiki",
+        "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+        "localFile": "sources/neighbours-2026-11-06/tm-airline-wiki.txt",
+        "retrievedAt": "2026-11-06T08:33:10.718337+00:00"
+      },
+      {
+        "sourceId": "tm-timetable",
+        "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+        "localFile": "sources/neighbours-2026-11-06/tm-timetable.txt",
+        "retrievedAt": "2026-11-06T09:48:25.606853+00:00"
+      }
+    ],
+    "noteZh": "七个当前国内机场均查入；里海工业直升机保留证据缺口。"
+  },
+  {
+    "country": "BY",
+    "name": "Belavia",
+    "reviewStatus": "mainline-non-target-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-be-by",
+        "url": "https://be.wikipedia.org/wiki/%D0%A1%D0%BF%D1%96%D1%81_%D0%B0%D0%B2%D1%96%D1%8F%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96",
+        "localFile": "sources/neighbours-2026-11-06/wiki-be-by.txt",
+        "retrievedAt": "2026-11-06T08:22:28.093019+00:00"
+      },
+      {
+        "sourceId": "wiki-en-by",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Belarus",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-by.txt",
+        "retrievedAt": "2026-11-06T08:21:23.508463+00:00"
+      }
+    ],
+    "noteZh": "常规客运；入境 SSJ 是俄罗斯运营商，归属分开。"
+  },
+  {
+    "country": "BY",
+    "name": "Rada / Rubystar / Transaviaexport / Genex / Grodno Aviakompania",
+    "reviewStatus": "cargo-and-historical-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-be-by",
+        "url": "https://be.wikipedia.org/wiki/%D0%A1%D0%BF%D1%96%D1%81_%D0%B0%D0%B2%D1%96%D1%8F%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96",
+        "localFile": "sources/neighbours-2026-11-06/wiki-be-by.txt",
+        "retrievedAt": "2026-11-06T08:22:28.093019+00:00"
+      },
+      {
+        "sourceId": "wiki-en-by",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Belarus",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-by.txt",
+        "retrievedAt": "2026-11-06T08:21:23.508463+00:00"
+      },
+      {
+        "sourceId": "by-grodno-wiki",
+        "url": "https://en.wikipedia.org/wiki/Grodno_Aviakompania",
+        "localFile": "sources/neighbours-2026-11-06/by-grodno-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:48.576260+00:00"
+      }
+    ],
+    "noteZh": "Il-62M 等主要为货运线索；未作为普通旅客航班。"
+  },
+  {
+    "country": "BY",
+    "name": "Minsk Aeroclub DOSAAF",
+    "reviewStatus": "official-An2-Mi2-Yak52-offers",
+    "sourceRefs": [
+      {
+        "sourceId": "by-minsk-an2",
+        "url": "https://aeroclub-minsk.by/polety_na_samolete",
+        "localFile": "sources/neighbours-2026-11-06/by-minsk-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823577+00:00"
+      },
+      {
+        "sourceId": "by-minsk-mi2",
+        "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+        "localFile": "sources/neighbours-2026-11-06/by-minsk-mi2.txt",
+        "retrievedAt": "2026-11-06T10:01:17.334803+00:00"
+      }
+    ],
+    "noteZh": "补入航司名录之外的公开观光与包机服务。"
+  },
+  {
+    "country": "BY",
+    "name": "Mogilev Aeroclub DOSAAF",
+    "reviewStatus": "official-2026-An2-Yak52-offers",
+    "sourceRefs": [
+      {
+        "sourceId": "by-mogilev-an2",
+        "url": "http://akvictoria.by/?page_id=1294",
+        "localFile": "sources/neighbours-2026-11-06/by-mogilev-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823854+00:00"
+      }
+    ],
+    "noteZh": "2026 年价目表；右座体验与整机价分开。"
+  },
+  {
+    "country": "MN",
+    "name": "MIAT / Aero Mongolia / Hunnu Air / Eznis",
+    "reviewStatus": "mainline-and-regional-screen",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-en-mn",
+        "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Mongolia",
+        "localFile": "sources/neighbours-2026-11-06/wiki-en-mn.txt",
+        "retrievedAt": "2026-11-06T08:21:23.647019+00:00"
+      },
+      {
+        "sourceId": "wiki-ru-mn",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/wiki-ru-mn.txt",
+        "retrievedAt": "2026-11-06T08:22:28.437600+00:00"
+      },
+      {
+        "sourceId": "category-mn-mn",
+        "url": "https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B%D0%BD_%D0%B0%D0%B2%D0%B8%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/category-mn-mn.txt",
+        "retrievedAt": "2026-11-06T08:40:18.498115+00:00"
+      }
+    ],
+    "noteZh": "旧 An-24/An-26/An-2 数量不是当前航班证据。"
+  },
+  {
+    "country": "MN",
+    "name": "Sky Horse / Tengeriin Ulaach Shine",
+    "reviewStatus": "official-Caravan-and-current-AOC",
+    "sourceRefs": [
+      {
+        "sourceId": "mongolia-skyhorse-owner",
+        "url": "https://jiguurgrand.mn/tengeriinulaach",
+        "localFile": "sources/neighbours-2026-11-06/mongolia-skyhorse-owner.txt",
+        "retrievedAt": "2026-11-06T08:38:30.790715+00:00"
+      },
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      }
+    ],
+    "noteZh": "Cessna Grand Caravan EX；旧 An-2 存放记录不外推。"
+  },
+  {
+    "country": "MN",
+    "name": "Mongolian Airways",
+    "reviewStatus": "official-western-fleet-and-mining-rosters",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-mongolianairways-about",
+        "url": "https://www.mongolianairways.com/about",
+        "localFile": "sources/neighbours-2026-11-06/mn-mongolianairways-about.full-body.txt",
+        "retrievedAt": "2026-11-06T10:03:59.264112+00:00"
+      },
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      }
+    ],
+    "noteZh": "正文需全页提取；Fokker 50 矿区轮换、Airbus/Robinson 直升机已覆盖。"
+  },
+  {
+    "country": "MN",
+    "name": "Alpha Aurora Aviation",
+    "reviewStatus": "official-H125-H145",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-alpha-official",
+        "url": "https://www.alpha-avia.com/",
+        "localFile": "sources/neighbours-2026-11-06/mn-alpha-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.907996+00:00"
+      },
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      }
+    ],
+    "noteZh": "官网覆盖人员运输、矿区、政府、旅游任务。"
+  },
+  {
+    "country": "MN",
+    "name": "Geosan",
+    "reviewStatus": "official-Caravan-H145",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-geosan-official",
+        "url": "https://www.geosan.mn/",
+        "localFile": "sources/neighbours-2026-11-06/mn-geosan-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.908259+00:00"
+      },
+      {
+        "sourceId": "mn-caa-medium-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-dund-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-medium-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366941+00:00"
+      }
+    ],
+    "noteZh": "包括野外机场和矿区物流，官方机型非毛机。"
+  },
+  {
+    "country": "MN",
+    "name": "Orange Air",
+    "reviewStatus": "current-AOC-secondary-H130",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-orange-official",
+        "url": "https://www.sg.mn/en/business-sector/others/8/",
+        "localFile": "sources/neighbours-2026-11-06/mn-orange-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.908422+00:00"
+      },
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      },
+      {
+        "sourceId": "mn-jethunter-operators",
+        "url": "https://jethunter.aero/en/operators/mongolia/",
+        "localFile": "sources/neighbours-2026-11-06/mn-jethunter-operators.txt",
+        "retrievedAt": "2026-11-06T10:26:02.045996+00:00"
+      }
+    ],
+    "noteZh": "官方有包机证书/服务但无机型文字；H130 仅二手目录证据。"
+  },
+  {
+    "country": "MN",
+    "name": "A-Jet Aviation",
+    "reviewStatus": "current-AOC-aircraft-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      }
+    ],
+    "noteZh": "AT-015 有效至 2026-12-31；不能判断目前是否用毛机载客。"
+  },
+  {
+    "country": "MN",
+    "name": "Zort Air",
+    "reviewStatus": "current-AOC-aircraft-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      }
+    ],
+    "noteZh": "AT-031 有效至 2031-03-05；货运及包机，当前机型未核实。"
+  },
+  {
+    "country": "MN",
+    "name": "Blue Sky Aviation",
+    "reviewStatus": "older-small-operator-unresolved",
+    "sourceRefs": [
+      {
+        "sourceId": "wiki-ru-mn",
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+        "localFile": "sources/neighbours-2026-11-06/wiki-ru-mn.txt",
+        "retrievedAt": "2026-11-06T08:22:28.437600+00:00"
+      },
+      {
+        "sourceId": "mn-bluesky-home",
+        "url": "https://www.blueskyaviation.mn",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T09:56:10.582868+00:00"
+      }
+    ],
+    "noteZh": "旧名录通航线索，当前官网访问失败。"
+  },
+  {
+    "country": "MN",
+    "name": "Sky Charter Mongolia",
+    "reviewStatus": "secondary-western-fleet",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-jethunter-operators",
+        "url": "https://jethunter.aero/en/operators/mongolia/",
+        "localFile": "sources/neighbours-2026-11-06/mn-jethunter-operators.txt",
+        "retrievedAt": "2026-11-06T10:26:02.045996+00:00"
+      }
+    ],
+    "noteZh": "目录列 H145/Caravan；未把商业名称擅自对应 A-Jet 或 Zort 的 AOC。"
+  }
+]

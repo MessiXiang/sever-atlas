@@ -1,0 +1,3849 @@
+[
+  {
+    "id": "ge-mestia",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Vanilla Sky / Service Air",
+    "places": [
+      "Natakhtari",
+      "Mestia"
+    ],
+    "aircraft": [
+      "L-410 (operator-level only)"
+    ],
+    "evidenceStatus": "official-route-listed-aircraft-assignment-unverified",
+    "publicAccess": "public-booking",
+    "noteZh": "官方列有公开客运航线及票价；L-410 在运营商服务页确认，但未取得每条航线、具体日期的执飞机型。不能把全部班次固定写为 L-410。",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-schedule",
+        "url": "https://ticket.vanillasky.ge/en/node/51",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+        "retrievedAt": "2026-11-06T08:30:05.024476+00:00"
+      },
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      },
+      {
+        "sourceId": "georgia-domestic",
+        "url": "https://georgia.travel/coming-to-georgia/domestic-flights",
+        "localFile": "sources/neighbours-2026-11-06/georgia-domestic.txt",
+        "retrievedAt": "2026-11-06T08:26:12.272122+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 90,
+      "currency": "GEL",
+      "basis": "one-way adult, undated published page"
+    },
+    "bookingUrl": "https://ticket.vanillasky.ge/"
+  },
+  {
+    "id": "ge-ambrolauri",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Vanilla Sky / Service Air",
+    "places": [
+      "Natakhtari",
+      "Ambrolauri"
+    ],
+    "aircraft": [
+      "L-410 (operator-level only)"
+    ],
+    "evidenceStatus": "official-route-listed-aircraft-assignment-unverified",
+    "publicAccess": "public-booking",
+    "noteZh": "官方列有公开客运航线及票价；L-410 在运营商服务页确认，但未取得每条航线、具体日期的执飞机型。不能把全部班次固定写为 L-410。",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-schedule",
+        "url": "https://ticket.vanillasky.ge/en/node/51",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+        "retrievedAt": "2026-11-06T08:30:05.024476+00:00"
+      },
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      },
+      {
+        "sourceId": "georgia-domestic",
+        "url": "https://georgia.travel/coming-to-georgia/domestic-flights",
+        "localFile": "sources/neighbours-2026-11-06/georgia-domestic.txt",
+        "retrievedAt": "2026-11-06T08:26:12.272122+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 50,
+      "currency": "GEL",
+      "basis": "one-way adult, undated published page"
+    },
+    "bookingUrl": "https://ticket.vanillasky.ge/"
+  },
+  {
+    "id": "ge-batumi",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Vanilla Sky / Service Air",
+    "places": [
+      "Natakhtari",
+      "Batumi"
+    ],
+    "aircraft": [
+      "L-410 (operator-level only)"
+    ],
+    "evidenceStatus": "official-route-listed-aircraft-assignment-unverified",
+    "publicAccess": "public-booking",
+    "noteZh": "官方列有公开客运航线及票价；L-410 在运营商服务页确认，但未取得每条航线、具体日期的执飞机型。不能把全部班次固定写为 L-410。",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-schedule",
+        "url": "https://ticket.vanillasky.ge/en/node/51",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+        "retrievedAt": "2026-11-06T08:30:05.024476+00:00"
+      },
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      },
+      {
+        "sourceId": "georgia-domestic",
+        "url": "https://georgia.travel/coming-to-georgia/domestic-flights",
+        "localFile": "sources/neighbours-2026-11-06/georgia-domestic.txt",
+        "retrievedAt": "2026-11-06T08:26:12.272122+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 125,
+      "currency": "GEL",
+      "basis": "one-way adult, undated published page"
+    },
+    "bookingUrl": "https://ticket.vanillasky.ge/"
+  },
+  {
+    "id": "ge-kutaisi",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Vanilla Sky / Service Air",
+    "places": [
+      "Kutaisi",
+      "Mestia"
+    ],
+    "aircraft": [
+      "L-410 (operator-level only)"
+    ],
+    "evidenceStatus": "official-route-listed-aircraft-assignment-unverified",
+    "publicAccess": "public-booking",
+    "noteZh": "官方列有公开客运航线及票价；L-410 在运营商服务页确认，但未取得每条航线、具体日期的执飞机型。不能把全部班次固定写为 L-410。",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-schedule",
+        "url": "https://ticket.vanillasky.ge/en/node/51",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+        "retrievedAt": "2026-11-06T08:30:05.024476+00:00"
+      },
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      },
+      {
+        "sourceId": "georgia-domestic",
+        "url": "https://georgia.travel/coming-to-georgia/domestic-flights",
+        "localFile": "sources/neighbours-2026-11-06/georgia-domestic.txt",
+        "retrievedAt": "2026-11-06T08:26:12.272122+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 50,
+      "currency": "GEL",
+      "basis": "one-way adult, undated published page"
+    },
+    "bookingUrl": "https://ticket.vanillasky.ge/"
+  },
+  {
+    "id": "ge-l410-charter",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Vanilla Sky / Service Air",
+    "places": [
+      "Natakhtari",
+      "on request"
+    ],
+    "aircraft": [
+      "L-410 UVP-E"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "charter",
+    "noteZh": "官方航空出租页明确 L-410 UVP-E、16 名乘客及每小时 3000 美元报价；这是整机询价服务。",
+    "sourceRefs": [
+      {
+        "sourceId": "vanillasky-services",
+        "url": "https://ticket.vanillasky.ge/en/air-services",
+        "localFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+        "retrievedAt": "2026-11-06T08:30:05.046559+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 3000,
+      "currency": "USD",
+      "basis": "aircraft/hour, published starting offer"
+    },
+    "bookingUrl": "https://ticket.vanillasky.ge/en/air-services"
+  },
+  {
+    "id": "ge-municipal-omalo",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Border Police / local authority (lead)",
+    "places": [
+      "Omalo / Tusheti"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "municipal-service-lead-unresolved",
+    "publicAccess": "eligibility-and-current-type-unverified",
+    "noteZh": "山区居民冬季公共直升机线索单列；可取得的官方/公共媒体线索较旧且部分访问失败。未确认 2026 班次、是否 Mi-8、外来旅客资格。未把商业 AS350 转场当作毛机。",
+    "sourceRefs": [
+      {
+        "sourceId": "ge-tusheti-public",
+        "url": "https://1tv.ge/video/samoqalaqo-frenebi-tushetis-mimartulebit/",
+        "localFile": "sources/neighbours-2026-11-06/ge-tusheti-public.txt",
+        "retrievedAt": "2026-11-06T09:56:11.948395+00:00"
+      },
+      {
+        "sourceId": "ge-police-tusheti",
+        "url": "https://www.google.com/goto?url=CAES3AEBxCJF1wl8HmQ_kQbjBJixAUgZIRXmnNoMgodK2D5EQRoPoTfK6WkDsFvk9W56ZSBjMVpNyCV3-sU-HCCK4_N5FF643YS5w8czOMMWSgB7Nm8TuTGrQNf9PS_p3BOy7X25DpqQjW1Kgwy4lp856HTYK7wuEZMZ-1GVGBNfPjrtpKhyn-ZhFkgscl0RtqRVnTZTn-7AhOn256kXf0JTpbmpizDT9oO2wSy7nZHANTZSa77XjClrlL8iBvN63uNosScgC-_C60ATxxufyKtAWrn6hng5jh8IOuNyqQfv",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:15:33.010488+00:00"
+      },
+      {
+        "sourceId": "ge-tusheti-extra",
+        "url": "https://www.google.com/goto?url=CAESjgEBxCJF17kbD19yjk6HAYORK4hQtmx4JhVx1wClNj2IJy3DenmpTn3JcKQJwMNVAtC-hTv_PsSKYjcW12KoiD4dRF9iU8Sc0RghO1mbZC98ctoo-vrSzBWqv1NUjQ7ln0W0sFb3SJI_Ll9rNmTBbqC-wM5qzAdG1z8VfB_CakxX6kgdT9e7UrP0eZ7elBjI",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:24:34.099101+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "ge-municipal-shatili",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "Border Police / local authority (lead)",
+    "places": [
+      "Shatili"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "municipal-service-lead-unresolved",
+    "publicAccess": "eligibility-and-current-type-unverified",
+    "noteZh": "山区居民冬季公共直升机线索单列；可取得的官方/公共媒体线索较旧且部分访问失败。未确认 2026 班次、是否 Mi-8、外来旅客资格。未把商业 AS350 转场当作毛机。",
+    "sourceRefs": [
+      {
+        "sourceId": "ge-tusheti-public",
+        "url": "https://1tv.ge/video/samoqalaqo-frenebi-tushetis-mimartulebit/",
+        "localFile": "sources/neighbours-2026-11-06/ge-tusheti-public.txt",
+        "retrievedAt": "2026-11-06T09:56:11.948395+00:00"
+      },
+      {
+        "sourceId": "ge-police-tusheti",
+        "url": "https://www.google.com/goto?url=CAES3AEBxCJF1wl8HmQ_kQbjBJixAUgZIRXmnNoMgodK2D5EQRoPoTfK6WkDsFvk9W56ZSBjMVpNyCV3-sU-HCCK4_N5FF643YS5w8czOMMWSgB7Nm8TuTGrQNf9PS_p3BOy7X25DpqQjW1Kgwy4lp856HTYK7wuEZMZ-1GVGBNfPjrtpKhyn-ZhFkgscl0RtqRVnTZTn-7AhOn256kXf0JTpbmpizDT9oO2wSy7nZHANTZSa77XjClrlL8iBvN63uNosScgC-_C60ATxxufyKtAWrn6hng5jh8IOuNyqQfv",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:15:33.010488+00:00"
+      },
+      {
+        "sourceId": "ge-tusheti-extra",
+        "url": "https://www.google.com/goto?url=CAESjgEBxCJF17kbD19yjk6HAYORK4hQtmx4JhVx1wClNj2IJy3DenmpTn3JcKQJwMNVAtC-hTv_PsSKYjcW12KoiD4dRF9iU8Sc0RghO1mbZC98ctoo-vrSzBWqv1NUjQ7ln0W0sFb3SJI_Ll9rNmTBbqC-wM5qzAdG1z8VfB_CakxX6kgdT9e7UrP0eZ7elBjI",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:24:34.099101+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "az-asg-offshore",
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "operatorOrSeller": "ASG Helicopter Services",
+    "places": [
+      "Zabrat",
+      "Caspian offshore sites"
+    ],
+    "aircraft": [
+      "Mi-8 (historical/unverified)"
+    ],
+    "evidenceStatus": "conflicting-secondary-fleet-info",
+    "publicAccess": "industrial-access-unverified",
+    "noteZh": "已覆盖扎布拉特海上油田人员通勤。当前百科引用的机队为 S-92/AW139/AW109/AS332/EC155 等；旧 Mi-8 线索未获当前官方确认。不能视为游客可购票航班。",
+    "sourceRefs": [
+      {
+        "sourceId": "az-asg-business-wiki",
+        "url": "https://en.wikipedia.org/wiki/ASG_Business_Aviation",
+        "localFile": "sources/neighbours-2026-11-06/az-asg-business-wiki.txt",
+        "retrievedAt": "2026-11-06T10:15:33.010805+00:00"
+      },
+      {
+        "sourceId": "az-asg-about",
+        "url": "https://asg-helicopters.az/page/about-us",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T10:16:58.371919+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "kz-semei-urzhar",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Southern Sky / Южное Небо / Hi Sky",
+    "places": [
+      "Semey (PLX)",
+      "Urzhar / Ürjar (UZR)"
+    ],
+    "aircraft": [
+      "An-24"
+    ],
+    "evidenceStatus": "primary-confirmed-2026-subsidized-route",
+    "publicAccess": "public-scheduled",
+    "noteZh": "阿拜州政府 2026-09-18 公告：2026 承运人 Southern Sky，An-24；6—8 月每周 5 班，其他月份每周 2 班，单程 17000 坚戈。未编造具体星期/起飞时间。",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-semei-gov-rendered",
+        "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+        "localFile": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366153+00:00"
+      },
+      {
+        "sourceId": "southernsky-home",
+        "url": "https://hisky.kz/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-home.txt",
+        "retrievedAt": "2026-11-06T08:29:59.980406+00:00"
+      },
+      {
+        "sourceId": "southernsky-about",
+        "url": "https://hisky.kz/about/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-about.txt",
+        "retrievedAt": "2026-11-06T08:29:59.981251+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "frequency": "2026 Jun-Aug 5/week; other months 2/week",
+    "fare": {
+      "value": 17000,
+      "currency": "KZT",
+      "basis": "one-way per 2026-09-18 government notice"
+    },
+    "bookingUrl": "https://sale.hisky.kz/"
+  },
+  {
+    "id": "kz-oskemen-zaysan",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Southern Sky / Южное Небо",
+    "places": [
+      "Öskemen / Ust-Kamenogorsk (UKK)",
+      "Zaysan (SZI)"
+    ],
+    "aircraft": [
+      "An-24"
+    ],
+    "evidenceStatus": "2026-operation-reported-type-from-ota-and-operator-fleet",
+    "publicAccess": "public-scheduled",
+    "noteZh": "2026-02-02 当地报纸确认 2 月复航；Freedom Travel 当前页面列有该航线与 An-24。尚未取得 11 月官方逐班机型/班表，证据等级低于塞梅—乌尔扎尔。",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-zaysan-resumption",
+        "url": "https://moy-krai.kz/news/iz-ust-kamenogorska-v-zaysan-vozobnovlyayutsya-polety-72374",
+        "localFile": "sources/neighbours-2026-11-06/kz-zaysan-resumption.txt",
+        "retrievedAt": "2026-11-06T10:18:01.487289+00:00"
+      },
+      {
+        "sourceId": "southernsky-freedom",
+        "url": "https://freedom-travel.kz/airlines/southern-sky/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+        "retrievedAt": "2026-11-06T08:40:18.641597+00:00"
+      },
+      {
+        "sourceId": "southernsky-about",
+        "url": "https://hisky.kz/about/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-about.txt",
+        "retrievedAt": "2026-11-06T08:29:59.981251+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://sale.hisky.kz/"
+  },
+  {
+    "id": "kz-an24-charter",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Southern Sky / Южное Небо",
+    "places": [
+      "on request"
+    ],
+    "aircraft": [
+      "An-24"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "charter",
+    "noteZh": "官方明确提供 An-24 客运包机，最多 48 座；向 com@acss.kz 询价。",
+    "sourceRefs": [
+      {
+        "sourceId": "southernsky-charter",
+        "url": "https://hisky.kz/frakht-vs/",
+        "localFile": "sources/neighbours-2026-11-06/southernsky-charter.txt",
+        "retrievedAt": "2026-11-06T08:29:59.982036+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://hisky.kz/frakht-vs/"
+  },
+  {
+    "id": "kz-zhetysu",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Zhetysu / Жетысу",
+    "places": [
+      "Taldykorgan",
+      "Usharal"
+    ],
+    "aircraft": [
+      "Yak-40 (historical)",
+      "L-410 (historical)"
+    ],
+    "evidenceStatus": "historical-fleet-current-route-unverified",
+    "publicAccess": "unverified",
+    "noteZh": "维基机队/航线不能证明 2026 仍飞；现官网偏机场管理，未取得可售 Yak-40 或 L-410 客班。",
+    "sourceRefs": [
+      {
+        "sourceId": "zhetysu-wiki",
+        "url": "https://en.wikipedia.org/wiki/Zhetysu_(airline)",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-wiki.txt",
+        "retrievedAt": "2026-11-06T08:26:15.100727+00:00"
+      },
+      {
+        "sourceId": "zhetysu-home",
+        "url": "https://www.zhetysuavia.kz/ru",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-home.txt",
+        "retrievedAt": "2026-11-06T08:29:59.982328+00:00"
+      },
+      {
+        "sourceId": "zhetysu-departures",
+        "url": "https://www.zhetysuavia.kz/ru/flights/departures",
+        "localFile": "sources/neighbours-2026-11-06/zhetysu-departures.txt",
+        "retrievedAt": "2026-11-06T08:33:08.451623+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "kz-zhezair",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Zhezkazgan Air / ZhezAir",
+    "places": [
+      "Zhezkazgan",
+      "Karaganda"
+    ],
+    "aircraft": [
+      "Yak-40 (historical)",
+      "L-410 (historical)",
+      "Mi-8 (historical)",
+      "An-2 (historical)"
+    ],
+    "evidenceStatus": "historical-fleet-current-route-unverified",
+    "publicAccess": "industrial-or-public-unresolved",
+    "noteZh": "保留杰兹卡兹甘矿业/地区通勤线索；百科机队以 2020 年为基准，官网本次 TLS 访问失败；没有把旧 Yak-40 航线升级为现售。",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-zhezair-wiki",
+        "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Air",
+        "localFile": "sources/neighbours-2026-11-06/kz-zhezair-wiki.txt",
+        "retrievedAt": "2026-11-06T09:52:45.692308+00:00"
+      },
+      {
+        "sourceId": "kz-zhezair-home",
+        "url": "https://zhezair.com/",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T09:56:10.583124+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "kz-kazaviaspas",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "Kazaviaspas",
+    "places": [
+      "civil-protection missions"
+    ],
+    "aircraft": [
+      "Mi-8",
+      "L-410NG",
+      "Ka-32"
+    ],
+    "evidenceStatus": "official-special-mission-fleet",
+    "publicAccess": "government-emergency-personnel",
+    "noteZh": "官方现机队确有毛机，但运输服务说明为运送民防机关及救援人员到灾区；未找到普通旅客地方客班。",
+    "sourceRefs": [
+      {
+        "sourceId": "kz-kazaviaspas-fleet",
+        "url": "http://kazaviaspas.kz/helicopters/ru/",
+        "localFile": "sources/neighbours-2026-11-06/kz-kazaviaspas-fleet.txt",
+        "retrievedAt": "2026-11-06T10:22:23.298503+00:00"
+      },
+      {
+        "sourceId": "kz-kazaviaspas-transport",
+        "url": "http://kazaviaspas.kz/services/ru/1/",
+        "localFile": "sources/neighbours-2026-11-06/kz-kazaviaspas-transport.txt",
+        "retrievedAt": "2026-11-06T10:22:23.298243+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "kg-heliski",
+    "country": "KG",
+    "countryZh": "吉尔吉斯斯坦",
+    "operatorOrSeller": "Ak-Sai Travel (seller; AOC operator not named)",
+    "places": [
+      "Karkyra",
+      "Tien Shan ski slopes"
+    ],
+    "aircraft": [
+      "Mi-8 MTV"
+    ],
+    "evidenceStatus": "official-tour-seller-offer",
+    "publicAccess": "tour-booking",
+    "noteZh": "销售页明确 Mi-8 MTV；2027 滑雪项目按团队每飞行小时 5500 美元列价，10—15 人，项目含 8 小时直升机。不是城市定期航线，也不是单人票价。",
+    "sourceRefs": [
+      {
+        "sourceId": "kg-aksai-heliski",
+        "url": "https://ak-sai.com/shop/ski-tours/heliski/",
+        "localFile": "sources/neighbours-2026-11-06/kg-aksai-heliski.txt",
+        "retrievedAt": "2026-11-06T10:01:17.334974+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://ak-sai.com/shop/ski-tours/heliski/",
+    "offerYear": 2027
+  },
+  {
+    "id": "kg-engilchek",
+    "country": "KG",
+    "countryZh": "吉尔吉斯斯坦",
+    "operatorOrSeller": "Ak-Sai Travel (seller; AOC operator not named)",
+    "places": [
+      "Karkyra",
+      "South Engilchek base camp"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "official-tour-route-type-unverified",
+    "publicAccess": "tour-booking",
+    "noteZh": "2027 年 7—8 月六期三日项目，1050 美元/人，含往返直升机；该页没有明示机型，不能仅从另一条滑雪产品推定全部为 Mi-8。",
+    "sourceRefs": [
+      {
+        "sourceId": "aksai-khantengri",
+        "url": "https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/",
+        "localFile": "sources/neighbours-2026-11-06/aksai-khantengri.txt",
+        "retrievedAt": "2026-11-06T08:33:08.047180+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://ak-sai.com/shop/active-tours/helicopter-trip-to-khan-tengri/",
+    "offerYear": 2027
+  },
+  {
+    "id": "kg-asman-network",
+    "country": "KG",
+    "countryZh": "吉尔吉斯斯坦",
+    "operatorOrSeller": "Asman Airlines",
+    "places": [
+      "Bishkek",
+      "Osh",
+      "Manas / Jalal-Abad",
+      "Tamchy",
+      "Kerben",
+      "Karakol",
+      "Kazarman",
+      "Razzakov",
+      "Talas",
+      "Naryn",
+      "Batken"
+    ],
+    "aircraft": [
+      "Dash 8 Q400"
+    ],
+    "evidenceStatus": "official-non-target-aircraft",
+    "publicAccess": "public-scheduled",
+    "noteZh": "官方列明地区网络及 80 座 Dash Q400；恢复小机场客运不等于恢复 An-2。",
+    "sourceRefs": [
+      {
+        "sourceId": "kg-asman-official",
+        "url": "https://asmanairlines.kg/",
+        "localFile": "sources/neighbours-2026-11-06/kg-asman-official.txt",
+        "retrievedAt": "2026-11-06T10:19:25.058968+00:00"
+      },
+      {
+        "sourceId": "kg-asman-about",
+        "url": "https://asmanairlines.kg/content/about-us",
+        "localFile": "sources/neighbours-2026-11-06/kg-asman-about.txt",
+        "retrievedAt": "2026-11-06T10:20:45.274845+00:00"
+      },
+      {
+        "sourceId": "kg-naryn-asman",
+        "url": "https://economist.kg/transport/2025/09/04/asman-eirlains-vypolnila-piervyi-aviarieis-bishkiek-naryn-pieried-otkrytiiem-aeroporta/",
+        "localFile": "sources/neighbours-2026-11-06/kg-naryn-asman.txt",
+        "retrievedAt": "2026-11-06T10:15:33.011012+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "uz-muynak",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "Silk Avia / Uzbekistan Airways group; verify operating carrier on ticket",
+    "places": [
+      "Nukus",
+      "Muynak"
+    ],
+    "aircraft": [
+      "L-410"
+    ],
+    "evidenceStatus": "official-2025-route-aircraft-announcement-current-schedule-unverified",
+    "publicAccess": "public-sale-announced",
+    "noteZh": "2025-04-07 官方明确为 L-410 航线，并指向 Silk Avia 售票。当前可下载时刻表未列这三条且无机型/有效期，不能把 2024/2025 星期表当 2026 实时班表。",
+    "sourceRefs": [
+      {
+        "sourceId": "silk-l410-new",
+        "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+        "localFile": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889385+00:00"
+      },
+      {
+        "sourceId": "silk-uzairways-third",
+        "url": "https://www.uzairways.com/en/press-center/news/uzbekistan-airways-received-its-third-let-l-410-aircraft",
+        "localFile": "sources/neighbours-2026-11-06/silk-uzairways-third.txt",
+        "retrievedAt": "2026-11-06T09:58:14.824024+00:00"
+      },
+      {
+        "sourceId": "silk-fleet",
+        "url": "https://www.silk-avia.com/uz/about/fleet/",
+        "localFile": "sources/neighbours-2026-11-06/silk-fleet.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889851+00:00"
+      },
+      {
+        "sourceId": "silk-timetable-drive",
+        "url": "https://drive.usercontent.google.com/download?id=1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH&export=download",
+        "localFile": "sources/neighbours-2026-11-06/silk-timetable.pdf",
+        "retrievedAt": "2026-11-06T08:38:30.790360+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://www.silk-avia.com/"
+  },
+  {
+    "id": "uz-shakhrisabz",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "Silk Avia / Uzbekistan Airways group; verify operating carrier on ticket",
+    "places": [
+      "Tashkent",
+      "Shakhrisabz"
+    ],
+    "aircraft": [
+      "L-410"
+    ],
+    "evidenceStatus": "official-2025-route-aircraft-announcement-current-schedule-unverified",
+    "publicAccess": "public-sale-announced",
+    "noteZh": "2025-04-07 官方明确为 L-410 航线，并指向 Silk Avia 售票。当前可下载时刻表未列这三条且无机型/有效期，不能把 2024/2025 星期表当 2026 实时班表。",
+    "sourceRefs": [
+      {
+        "sourceId": "silk-l410-new",
+        "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+        "localFile": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889385+00:00"
+      },
+      {
+        "sourceId": "silk-uzairways-third",
+        "url": "https://www.uzairways.com/en/press-center/news/uzbekistan-airways-received-its-third-let-l-410-aircraft",
+        "localFile": "sources/neighbours-2026-11-06/silk-uzairways-third.txt",
+        "retrievedAt": "2026-11-06T09:58:14.824024+00:00"
+      },
+      {
+        "sourceId": "silk-fleet",
+        "url": "https://www.silk-avia.com/uz/about/fleet/",
+        "localFile": "sources/neighbours-2026-11-06/silk-fleet.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889851+00:00"
+      },
+      {
+        "sourceId": "silk-timetable-drive",
+        "url": "https://drive.usercontent.google.com/download?id=1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH&export=download",
+        "localFile": "sources/neighbours-2026-11-06/silk-timetable.pdf",
+        "retrievedAt": "2026-11-06T08:38:30.790360+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://www.silk-avia.com/"
+  },
+  {
+    "id": "uz-zaamin",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "Silk Avia / Uzbekistan Airways group; verify operating carrier on ticket",
+    "places": [
+      "Tashkent",
+      "Zaamin / Zomin"
+    ],
+    "aircraft": [
+      "L-410"
+    ],
+    "evidenceStatus": "official-2025-route-aircraft-announcement-current-schedule-unverified",
+    "publicAccess": "public-sale-announced",
+    "noteZh": "2025-04-07 官方明确为 L-410 航线，并指向 Silk Avia 售票。当前可下载时刻表未列这三条且无机型/有效期，不能把 2024/2025 星期表当 2026 实时班表。",
+    "sourceRefs": [
+      {
+        "sourceId": "silk-l410-new",
+        "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+        "localFile": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889385+00:00"
+      },
+      {
+        "sourceId": "silk-uzairways-third",
+        "url": "https://www.uzairways.com/en/press-center/news/uzbekistan-airways-received-its-third-let-l-410-aircraft",
+        "localFile": "sources/neighbours-2026-11-06/silk-uzairways-third.txt",
+        "retrievedAt": "2026-11-06T09:58:14.824024+00:00"
+      },
+      {
+        "sourceId": "silk-fleet",
+        "url": "https://www.silk-avia.com/uz/about/fleet/",
+        "localFile": "sources/neighbours-2026-11-06/silk-fleet.txt",
+        "retrievedAt": "2026-11-06T08:33:04.889851+00:00"
+      },
+      {
+        "sourceId": "silk-timetable-drive",
+        "url": "https://drive.usercontent.google.com/download?id=1mpDATH4ox2ipGzgkq3I0WJ1UUdLRpXbH&export=download",
+        "localFile": "sources/neighbours-2026-11-06/silk-timetable.pdf",
+        "retrievedAt": "2026-11-06T08:38:30.790360+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "bookingUrl": "https://www.silk-avia.com/"
+  },
+  {
+    "id": "uz-sariosiyo",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "Silk Avia",
+    "places": [
+      "Tashkent",
+      "Bukhara",
+      "Sariosiyo"
+    ],
+    "aircraft": [
+      "ATR 72"
+    ],
+    "evidenceStatus": "official-non-target-aircraft",
+    "publicAccess": "public-scheduled",
+    "noteZh": "2026-06-26 官方新增/加密公告明确 ATR-72；单列以防从小机场或旧 L-410 资料误推机型。",
+    "sourceRefs": [
+      {
+        "sourceId": "silk-more-flights",
+        "url": "https://www.silk-avia.com/uz/news/more-flites/",
+        "localFile": "sources/neighbours-2026-11-06/silk-more-flights.txt",
+        "retrievedAt": "2026-11-06T08:33:04.890104+00:00"
+      },
+      {
+        "sourceId": "silk-bukhara",
+        "url": "https://www.silk-avia.com/uz/news/more-buhara/",
+        "localFile": "sources/neighbours-2026-11-06/silk-bukhara.txt",
+        "retrievedAt": "2026-11-06T08:33:07.818818+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "tj-khorog",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Khorog"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      },
+      {
+        "sourceId": "tj-khorog-khovar",
+        "url": "https://khovar.tj/rus/2024/09/tadzhik-ejr-nachnet-polety-po-marshrutu-dushanbe-horog-dushanbe/",
+        "localFile": "sources/neighbours-2026-11-06/tj-khorog-khovar.txt",
+        "retrievedAt": "2026-11-06T09:48:25.607004+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-kulob",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Kulob"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-panjakent",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Panjakent"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-rasht",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Rasht / Gharm"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-khovaling",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Khovaling"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-vanj",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air",
+    "places": [
+      "Dushanbe",
+      "Vanj"
+    ],
+    "aircraft": [
+      "An-28"
+    ],
+    "evidenceStatus": "official-prior-operation-reported-current-dates-unverified",
+    "publicAccess": "telephone-confirmation-required",
+    "noteZh": "官网列六个 An-28 目的地，并在 2025 年回顾中报告开航；Vanj 新闻给出 2025-06-23 首航，Rasht 给出 2025-02-07 首航，霍罗格另有 2024 官方复航公告。官网脚本明说时刻和价格为演示数据，已剔除。2025 年所述寿命延期一年不能证明 2026 年 11 月仍执飞，需电话核对。",
+    "sourceRefs": [
+      {
+        "sourceId": "tajikair-content-js",
+        "url": "https://www.tajikair.tj/js/content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-content-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271518+00:00"
+      },
+      {
+        "sourceId": "tajikair-pages-js",
+        "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt",
+        "retrievedAt": "2026-11-06T08:26:12.271798+00:00"
+      },
+      {
+        "sourceId": "tajikair-contacts",
+        "url": "https://www.tajikair.tj/contacts.html",
+        "localFile": "sources/neighbours-2026-11-06/tajikair-contacts.txt",
+        "retrievedAt": "2026-11-06T08:23:30.127131+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "contact": "+992 905-100-200; info@tajikairlines.com",
+    "airportCodes": null,
+    "bookingUrl": "https://www.tajikair.tj/contacts.html"
+  },
+  {
+    "id": "tj-shohin-l410",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Shohin Airlines",
+    "places": [
+      "Dushanbe",
+      "Khorog"
+    ],
+    "aircraft": [
+      "L-410NG"
+    ],
+    "evidenceStatus": "2026-delivery-and-route-launch-reported-public-timetable-unverified",
+    "publicAccess": "public-ticketing-unverified",
+    "noteZh": "空管机关确认 2026-10-02 展示首架 19 座 L-410NG；Trend 9 月 28 日引述总统府称 9 月 27 日恢复航线，首班载总统。未找到可复核的普通旅客售票班表；不能只按试航排除，也不能视作已随时可买。",
+    "sourceRefs": [
+      {
+        "sourceId": "tj-shohin-airnav",
+        "url": "https://www.airnav.tj/4695-unveiling-of-shohin-airlines-first-aircraft-l-410-ng.html",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-airnav.txt",
+        "retrievedAt": "2026-11-06T10:21:21.564550+00:00"
+      },
+      {
+        "sourceId": "tj-shohin-trend",
+        "url": "https://www.trend.az/casia/tajikistan/4228701.html",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-trend.txt",
+        "retrievedAt": "2026-11-06T10:21:21.564847+00:00"
+      },
+      {
+        "sourceId": "tj-shohin-timesca",
+        "url": "https://timesca.com/tajikistans-shohin-airlines-unveils-first-plane/",
+        "localFile": "sources/neighbours-2026-11-06/tj-shohin-timesca.txt",
+        "retrievedAt": "2026-11-06T10:21:21.565067+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "tj-lakhsh",
+    "country": "TJ",
+    "countryZh": "塔吉克斯坦",
+    "operatorOrSeller": "Tajik Air (proposal)",
+    "places": [
+      "Dushanbe",
+      "Lakhsh / Jirgatol"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "planned-route-lead-unverified",
+    "publicAccess": "unverified",
+    "noteZh": "2025 年计划报道的线索；网页本次未成功读取，当前官网六个目的地未含此地，不列现售航班。",
+    "sourceRefs": [
+      {
+        "sourceId": "tj-vanj-plan",
+        "url": "https://asiaplus.news/en/2025/01/30/tajik-air-plans-to-launch-flights-to-vanj-rasht-and-lakhsh-districts/",
+        "localFile": null,
+        "retrievedAt": "2026-11-06T09:48:29.741091+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "by-minsk-an2",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "Minsk Aeroclub DOSAAF",
+    "places": [
+      "Minsk area; exact airfield to confirm"
+    ],
+    "aircraft": [
+      "An-2",
+      "TVS (variant unspecified)"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "sightseeing-or-charter",
+    "noteZh": "官网 An-2/TVS 最多 10 人，15 分钟 625 BYN/整机，另可按申请转场；未将泛写 TVS 擅自识别为某一改型。",
+    "sourceRefs": [
+      {
+        "sourceId": "by-minsk-an2",
+        "url": "https://aeroclub-minsk.by/polety_na_samolete",
+        "localFile": "sources/neighbours-2026-11-06/by-minsk-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823577+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 625,
+      "currency": "BYN",
+      "basis": "aircraft/15 minutes, up to 10 people"
+    },
+    "bookingUrl": "https://aeroclub-minsk.by/polety_na_samolete"
+  },
+  {
+    "id": "by-minsk-mi2",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "Minsk Aeroclub DOSAAF",
+    "places": [
+      "Lipki",
+      "Minsk sightseeing"
+    ],
+    "aircraft": [
+      "Mi-2"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "sightseeing",
+    "noteZh": "利普基基地，最多 6 人，15 分钟 1200 BYN；预约 +375 29 554 27 38。",
+    "sourceRefs": [
+      {
+        "sourceId": "by-minsk-mi2",
+        "url": "https://aeroclub-minsk.by/polioty_na_vertolete",
+        "localFile": "sources/neighbours-2026-11-06/by-minsk-mi2.txt",
+        "retrievedAt": "2026-11-06T10:01:17.334803+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 1200,
+      "currency": "BYN",
+      "basis": "aircraft/15 minutes, up to 6 people"
+    },
+    "bookingUrl": "https://aeroclub-minsk.by/polioty_na_vertolete"
+  },
+  {
+    "id": "by-mogilev-an2",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "Mogilev Aeroclub DOSAAF",
+    "places": [
+      "Mogilev aeroclub airfield; exact departure to confirm"
+    ],
+    "aircraft": [
+      "An-2"
+    ],
+    "evidenceStatus": "official-public-offer-dated-2026",
+    "publicAccess": "sightseeing",
+    "noteZh": "2026-02-11 起价目表：1—10 人整机 10 分钟 455 BYN；另售随跳伞飞行的右座观光 80 BYN。价格不同，不能混为普通单程机票。",
+    "sourceRefs": [
+      {
+        "sourceId": "by-mogilev-an2",
+        "url": "http://akvictoria.by/?page_id=1294",
+        "localFile": "sources/neighbours-2026-11-06/by-mogilev-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823854+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "fare": {
+      "value": 455,
+      "currency": "BYN",
+      "basis": "aircraft/10 minutes, 1-10 people; effective 2026-02-11"
+    },
+    "bookingUrl": "http://akvictoria.by/?page_id=1294"
+  },
+  {
+    "id": "by-minsk-yak52",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "Minsk Aeroclub DOSAAF",
+    "places": [
+      "Minsk"
+    ],
+    "aircraft": [
+      "Yak-52"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "aerobatic-experience",
+    "noteZh": "附加体验选项：官方出售单人 Yak-52 教练机飞行；与交通客班分开，不计为通勤航线。",
+    "sourceRefs": [
+      {
+        "sourceId": "by-minsk-an2",
+        "url": "https://aeroclub-minsk.by/polety_na_samolete",
+        "localFile": "sources/neighbours-2026-11-06/by-minsk-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823577+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "transportFlight": false
+  },
+  {
+    "id": "by-mogilev-yak52",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "Mogilev Aeroclub DOSAAF",
+    "places": [
+      "Mogilev"
+    ],
+    "aircraft": [
+      "Yak-52"
+    ],
+    "evidenceStatus": "official-public-offer",
+    "publicAccess": "aerobatic-experience",
+    "noteZh": "附加体验选项：官方出售单人 Yak-52 教练机飞行；与交通客班分开，不计为通勤航线。",
+    "sourceRefs": [
+      {
+        "sourceId": "by-mogilev-an2",
+        "url": "http://akvictoria.by/?page_id=1294",
+        "localFile": "sources/neighbours-2026-11-06/by-mogilev-an2.txt",
+        "retrievedAt": "2026-11-06T09:58:14.823854+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06",
+    "transportFlight": false
+  },
+  {
+    "id": "tm-domestic",
+    "country": "TM",
+    "countryZh": "土库曼斯坦",
+    "operatorOrSeller": "Turkmenistan Airlines",
+    "places": [
+      "Ashgabat",
+      "Dashoguz",
+      "Turkmenabat",
+      "Mary",
+      "Balkanabat",
+      "Turkmenbashi",
+      "Kerki"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "no-public-target-aircraft-confirmed",
+    "publicAccess": "public-network-screened",
+    "noteZh": "官方国内航网已覆盖七个当前机场；公开客机机队资料为波音。未取得普通旅客苏制客机航班证据；旧图/安机及 Il-76 货机不能当现售客班。",
+    "sourceRefs": [
+      {
+        "sourceId": "tm-timetable",
+        "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+        "localFile": "sources/neighbours-2026-11-06/tm-timetable.txt",
+        "retrievedAt": "2026-11-06T09:48:25.606853+00:00"
+      },
+      {
+        "sourceId": "tm-airline-wiki",
+        "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+        "localFile": "sources/neighbours-2026-11-06/tm-airline-wiki.txt",
+        "retrievedAt": "2026-11-06T08:33:10.718337+00:00"
+      },
+      {
+        "sourceId": "tm-local-wiki",
+        "url": "https://tk.wikipedia.org/wiki/T%C3%BCrkmenistan_howa_%C3%BDollary",
+        "localFile": "sources/neighbours-2026-11-06/tm-local-wiki.txt",
+        "retrievedAt": "2026-11-06T09:56:10.583236+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "tm-hazar",
+    "country": "TM",
+    "countryZh": "土库曼斯坦",
+    "operatorOrSeller": "Unresolved industrial operator",
+    "places": [
+      "Hazar / Cheleken",
+      "Caspian offshore sites"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "industrial-service-lead-unresolved",
+    "publicAccess": "worker-eligibility-and-type-unverified",
+    "noteZh": "哈扎尔及海上油田通勤作为补查点保留；无可核实的普通旅客时刻表、当前苏制机型或散客票价，不据此声称绝无直升机作业。",
+    "sourceRefs": [
+      {
+        "sourceId": "tm-airline-wiki",
+        "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+        "localFile": "sources/neighbours-2026-11-06/tm-airline-wiki.txt",
+        "retrievedAt": "2026-11-06T08:33:10.718337+00:00"
+      },
+      {
+        "sourceId": "tm-timetable",
+        "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+        "localFile": "sources/neighbours-2026-11-06/tm-timetable.txt",
+        "retrievedAt": "2026-11-06T09:48:25.606853+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "mn-mining-charters",
+    "country": "MN",
+    "countryZh": "蒙古",
+    "operatorOrSeller": "Mongolian Airways; Geosan; Alpha Aurora; Sky Horse",
+    "places": [
+      "Ulaanbaatar",
+      "mine and remote sites"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "official-charter-services-non-target-fleets",
+    "publicAccess": "industrial-and-private-charter",
+    "noteZh": "已核查矿区轮换和偏远包机：Mongolian Airways 介绍 Fokker 50 及 Airbus/Robinson 直升机；Geosan 为 Caravan/H145；Alpha 为 H125/H145；Sky Horse 为 Caravan。未从这些官方服务中确认毛机客运。",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-mongolianairways-about",
+        "url": "https://www.mongolianairways.com/about",
+        "localFile": "sources/neighbours-2026-11-06/mn-mongolianairways-about.full-body.txt",
+        "retrievedAt": "2026-11-06T10:03:59.264112+00:00"
+      },
+      {
+        "sourceId": "mn-geosan-official",
+        "url": "https://www.geosan.mn/",
+        "localFile": "sources/neighbours-2026-11-06/mn-geosan-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.908259+00:00"
+      },
+      {
+        "sourceId": "mn-alpha-official",
+        "url": "https://www.alpha-avia.com/",
+        "localFile": "sources/neighbours-2026-11-06/mn-alpha-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.907996+00:00"
+      },
+      {
+        "sourceId": "mongolia-skyhorse-owner",
+        "url": "https://jiguurgrand.mn/tengeriinulaach",
+        "localFile": "sources/neighbours-2026-11-06/mongolia-skyhorse-owner.txt",
+        "retrievedAt": "2026-11-06T08:38:30.790715+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "mn-small-operators",
+    "country": "MN",
+    "countryZh": "蒙古",
+    "operatorOrSeller": "A-Jet Aviation; Zort Air; Orange Air",
+    "places": [
+      "Mongolia charter network"
+    ],
+    "aircraft": [],
+    "evidenceStatus": "current-aoc-confirmed-aircraft-not-fully-verified",
+    "publicAccess": "charter-eligibility-unverified",
+    "noteZh": "民航局有有效包机证书；Orange 的二手目录列 H130，官网未写机型。A-Jet 与 Zort 当前机型未查实。有效 AOC 既不能证明使用毛机，也不能证明没有毛机。",
+    "sourceRefs": [
+      {
+        "sourceId": "mn-caa-small-rendered",
+        "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+        "localFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+        "retrievedAt": "2026-11-06T10:46:02.366767+00:00"
+      },
+      {
+        "sourceId": "mn-orange-official",
+        "url": "https://www.sg.mn/en/business-sector/others/8/",
+        "localFile": "sources/neighbours-2026-11-06/mn-orange-official.txt",
+        "retrievedAt": "2026-11-06T10:27:07.908422+00:00"
+      },
+      {
+        "sourceId": "mn-jethunter-operators",
+        "url": "https://jethunter.aero/en/operators/mongolia/",
+        "localFile": "sources/neighbours-2026-11-06/mn-jethunter-operators.txt",
+        "retrievedAt": "2026-11-06T10:26:02.045996+00:00"
+      }
+    ],
+    "reviewedAt": "2026-11-06"
+  },
+  {
+    "id": "int-01",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "AER",
+      "BUS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 555",
+      "from": "AER",
+      "to": "BUS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "15:10",
+      "arrival": "17:10",
+      "days": [
+        5,
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-01-15",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2027-01-15"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-AER-BUS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "AER",
+        "BUS"
+      ],
+      "durationMinutes": 60,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-AER-BUS.json",
+      "id": "f-0d4cd0b949ac",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 13,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-02",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "AER",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 547",
+      "from": "AER",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:40",
+      "arrival": "15:00",
+      "days": [
+        2,
+        5,
+        7
+      ],
+      "start": "2026-12-27",
+      "end": "2027-01-10",
+      "dates": [
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-08",
+        "2027-01-10"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-AER-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "AER",
+        "TBS"
+      ],
+      "durationMinutes": 80,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-AER-TBS.json",
+      "id": "f-23efee0076f8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 7,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-03",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "KRR"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1566",
+      "from": "BUS",
+      "to": "KRR",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:50",
+      "arrival": "13:00",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KRR.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KRR"
+      ],
+      "durationMinutes": 70,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KRR.json",
+      "id": "f-78bb9c7c6c62",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 7,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-04",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "KUF"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1302",
+      "from": "BUS",
+      "to": "KUF",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "14:30",
+      "arrival": "17:30",
+      "days": [
+        6
+      ],
+      "start": "2026-12-26",
+      "end": "2027-01-09",
+      "dates": [
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KUF.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KUF"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KUF.json",
+      "id": "f-fab727ae346f",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 6,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-05",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "KZN"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1504",
+      "from": "BUS",
+      "to": "KZN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:25",
+      "arrival": "23:35",
+      "days": [
+        7
+      ],
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "dates": [
+        "2026-12-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-KZN.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "KZN"
+      ],
+      "durationMinutes": 190,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-KZN.json",
+      "id": "f-d86199a94711",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 8,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-06",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "LED"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 708",
+      "from": "BUS",
+      "to": "LED",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:30",
+      "arrival": "16:55",
+      "days": [
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "dates": [
+        "2026-12-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-LED.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "LED"
+      ],
+      "durationMinutes": 265,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-LED.json",
+      "id": "f-b5573ffb5daf",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 9,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-07",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "SVX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1204",
+      "from": "BUS",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "18:40",
+      "arrival": "23:10",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BUS-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "SVX"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BUS-SVX.json",
+      "id": "f-62032f3d7813",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-08",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "ZIA"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 552",
+      "from": "BUS",
+      "to": "ZIA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:35",
+      "arrival": "16:20",
+      "days": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "start": "2026-12-31",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-12-31",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-02-19",
+        "2027-02-21",
+        "2027-02-26",
+        "2027-02-28",
+        "2027-03-05",
+        "2027-03-07",
+        "2027-03-12",
+        "2027-03-14",
+        "2027-03-19",
+        "2027-03-21",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-BUS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "ZIA"
+      ],
+      "durationMinutes": 225,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+      "id": "f-ce70465acf51",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-09",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "GOJ",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1339",
+      "from": "GOJ",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "08:45",
+      "arrival": "13:00",
+      "days": [
+        3,
+        4
+      ],
+      "start": "2026-12-24",
+      "end": "2027-01-13",
+      "dates": [
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-13"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-GOJ-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "GOJ",
+        "TBS"
+      ],
+      "durationMinutes": 195,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-GOJ-TBS.json",
+      "id": "f-7325e2d5f45b",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-10",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KRR",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1563",
+      "from": "KRR",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "14:15",
+      "arrival": "16:45",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KRR-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KRR",
+        "TBS"
+      ],
+      "durationMinutes": 90,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KRR-TBS.json",
+      "id": "f-48c329f38f21",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 7,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-11",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KUF",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1369",
+      "from": "KUF",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "08:00",
+      "arrival": "10:50",
+      "days": [
+        2,
+        4,
+        7
+      ],
+      "start": "2026-11-12",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-27",
+        "2026-12-29",
+        "2026-12-31",
+        "2027-01-03",
+        "2027-01-05",
+        "2027-01-07",
+        "2027-01-10",
+        "2027-01-14",
+        "2027-01-17",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-21",
+        "2027-02-25",
+        "2027-02-28",
+        "2027-03-04",
+        "2027-03-07",
+        "2027-03-11",
+        "2027-03-14",
+        "2027-03-18",
+        "2027-03-21",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "TBS"
+      ],
+      "durationMinutes": 170,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-TBS.json",
+      "id": "f-788422af3e07",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-12",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KZN",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1501",
+      "from": "KZN",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:35",
+      "arrival": "16:30",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KZN-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KZN",
+        "TBS"
+      ],
+      "durationMinutes": 175,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KZN-TBS.json",
+      "id": "f-a0eda606301a",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 13,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-13",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "LED",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 701",
+      "from": "LED",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "04:20",
+      "arrival": "09:25",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-LED-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "LED",
+        "TBS"
+      ],
+      "durationMinutes": 245,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-LED-TBS.json",
+      "id": "f-3c1be411d747",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 9,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-14",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "SVX",
+      "TBS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1403",
+      "from": "SVX",
+      "to": "TBS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:55",
+      "arrival": "15:25",
+      "days": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-18",
+        "2026-11-20",
+        "2026-11-22",
+        "2026-11-27",
+        "2026-11-29",
+        "2026-12-04",
+        "2026-12-06",
+        "2026-12-11",
+        "2026-12-13",
+        "2026-12-18",
+        "2026-12-20",
+        "2026-12-23",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-30",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-06",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-13",
+        "2027-01-15",
+        "2027-01-17",
+        "2027-01-22",
+        "2027-01-24",
+        "2027-01-29",
+        "2027-01-31",
+        "2027-02-05",
+        "2027-02-07",
+        "2027-02-12",
+        "2027-02-14",
+        "2027-02-19",
+        "2027-02-21",
+        "2027-02-24",
+        "2027-02-26",
+        "2027-02-28",
+        "2027-03-03",
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-10",
+        "2027-03-12",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-17",
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-24",
+        "2027-03-26",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-SVX-TBS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "SVX",
+        "TBS"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-SVX-TBS.json",
+      "id": "f-cadf2e7f5f00",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-15",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "TBS",
+      "ZIA"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 560",
+      "from": "TBS",
+      "to": "ZIA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "13:35",
+      "arrival": "15:50",
+      "days": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-27",
+        "2026-12-29",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-13",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-03",
+        "2027-02-10",
+        "2027-02-16",
+        "2027-02-17",
+        "2027-02-18",
+        "2027-02-23",
+        "2027-02-24",
+        "2027-02-25",
+        "2027-03-02",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-09",
+        "2027-03-10",
+        "2027-03-11",
+        "2027-03-16",
+        "2027-03-17",
+        "2027-03-18",
+        "2027-03-23",
+        "2027-03-24",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-TBS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "TBS",
+        "ZIA"
+      ],
+      "durationMinutes": 195,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+      "id": "f-ceff768ac3dc",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 10,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-16",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BUS",
+      "ZIA"
+    ],
+    "aircraft": [
+      "Tu-204",
+      "Tu-214"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 552",
+      "from": "BUS",
+      "to": "ZIA",
+      "aircraft": [
+        "Tu-204",
+        "Tu-214"
+      ],
+      "departure": "14:20",
+      "arrival": "16:50",
+      "days": [
+        7
+      ],
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。官网统一标注 TU 204/214，未区分具体子型号；在 Tu-204 与 Tu-214 筛选中均作为候选，不保证具体一种。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-BUS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BUS",
+        "ZIA"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-BUS-ZIA.json",
+      "id": "f-c237a25c1114",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 5,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-17",
+    "country": "GE",
+    "countryZh": "格鲁吉亚",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "TBS",
+      "ZIA"
+    ],
+    "aircraft": [
+      "Tu-204",
+      "Tu-214"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 560",
+      "from": "TBS",
+      "to": "ZIA",
+      "aircraft": [
+        "Tu-204",
+        "Tu-214"
+      ],
+      "departure": "13:50",
+      "arrival": "15:50",
+      "days": [
+        4,
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2026-12-31",
+      "dates": [
+        "2026-12-25",
+        "2026-12-31"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。官网统一标注 TU 204/214，未区分具体子型号；在 Tu-204 与 Tu-214 筛选中均作为候选，不保证具体一种。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-airport-schedule-TBS-ZIA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "TBS",
+        "ZIA"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-airport-schedule-TBS-ZIA.json",
+      "id": "f-58fb69234c8f",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 9,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-18",
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "operatorOrSeller": "iraero",
+    "places": [
+      "GYD",
+      "KJA"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "iraero",
+      "number": "IO-474",
+      "from": "GYD",
+      "to": "KJA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "20:10",
+      "arrival": "04:10",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → KJA, 07.11.2026, IO-474",
+      "id": "f-c64c57890413",
+      "localSource": "sources/iraero/io_BAK.html",
+      "localSourceResolvedDuringReview": true
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-19",
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "operatorOrSeller": "iraero",
+    "places": [
+      "GYD",
+      "PEE"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "iraero",
+      "number": "IO-484",
+      "from": "GYD",
+      "to": "PEE",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "02:05",
+      "arrival": "06:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → PEE, 07.11.2026, IO-484",
+      "id": "f-929e466d3064",
+      "localSource": "sources/iraero/io_BAK.html",
+      "localSourceResolvedDuringReview": true
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-20",
+    "country": "AZ",
+    "countryZh": "阿塞拜疆",
+    "operatorOrSeller": "iraero",
+    "places": [
+      "GYD",
+      "REN"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "iraero",
+      "number": "IO-506",
+      "from": "GYD",
+      "to": "REN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:00",
+      "arrival": "15:30",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2026-11-28",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "GYD → REN, 07.11.2026, IO-506",
+      "id": "f-225791d7d521",
+      "localSource": "sources/iraero/io_BAK.html",
+      "localSourceResolvedDuringReview": true
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-21",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "ALA",
+      "KZN"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 4630",
+      "from": "ALA",
+      "to": "KZN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:15",
+      "arrival": "08:05",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-ALA-KZN.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "ALA",
+        "KZN"
+      ],
+      "durationMinutes": 230,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-ALA-KZN.json",
+      "id": "f-430ebcb9eae8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 3,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-22",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "ALA",
+      "SVX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1074",
+      "from": "ALA",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "16:30",
+      "arrival": "19:35",
+      "days": [
+        1,
+        3,
+        6
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-07",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-21",
+        "2026-11-23",
+        "2026-11-28",
+        "2026-11-30",
+        "2026-12-05",
+        "2026-12-07",
+        "2026-12-12",
+        "2026-12-14",
+        "2026-12-19",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-28",
+        "2026-12-30",
+        "2027-01-02",
+        "2027-01-04",
+        "2027-01-06",
+        "2027-01-09",
+        "2027-01-11",
+        "2027-01-13",
+        "2027-01-16",
+        "2027-01-18",
+        "2027-01-23",
+        "2027-01-25",
+        "2027-01-30",
+        "2027-02-01",
+        "2027-02-06",
+        "2027-02-08",
+        "2027-02-13",
+        "2027-02-15",
+        "2027-02-20",
+        "2027-02-22",
+        "2027-02-27",
+        "2027-03-01",
+        "2027-03-06",
+        "2027-03-08",
+        "2027-03-10",
+        "2027-03-13",
+        "2027-03-15",
+        "2027-03-17",
+        "2027-03-20",
+        "2027-03-22",
+        "2027-03-24",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-ALA-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "ALA",
+        "SVX"
+      ],
+      "durationMinutes": 185,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-ALA-SVX.json",
+      "id": "f-f16ad5b56c5d",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 3,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-23",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KZN",
+      "NQZ"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 4667",
+      "from": "KZN",
+      "to": "NQZ",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "01:05",
+      "arrival": "05:35",
+      "days": [
+        3,
+        5
+      ],
+      "start": "2026-12-25",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-12-25",
+        "2027-01-06",
+        "2027-03-19",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KZN-NQZ.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KZN",
+        "NQZ"
+      ],
+      "durationMinutes": 150,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KZN-NQZ.json",
+      "id": "f-ba19bb030c05",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 4,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-24",
+    "country": "KZ",
+    "countryZh": "哈萨克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "NQZ",
+      "SVX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1098",
+      "from": "NQZ",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "18:50",
+      "arrival": "21:00",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": "2026-11-04",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-25",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-23",
+        "2026-12-24",
+        "2026-12-25",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-13",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-18",
+        "2027-01-20",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-27",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-01",
+        "2027-02-03",
+        "2027-02-05",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-08",
+        "2027-02-10",
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-17",
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21",
+        "2027-02-22",
+        "2027-02-24",
+        "2027-02-26",
+        "2027-02-27",
+        "2027-02-28",
+        "2027-03-01",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-08",
+        "2027-03-10",
+        "2027-03-11",
+        "2027-03-12",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-15",
+        "2027-03-17",
+        "2027-03-18",
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-22",
+        "2027-03-24",
+        "2027-03-25",
+        "2027-03-26",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-NQZ-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "NQZ",
+        "SVX"
+      ],
+      "durationMinutes": 130,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-NQZ-SVX.json",
+      "id": "f-8ef304b07bf6",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 7,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-25",
+    "country": "KG",
+    "countryZh": "吉尔吉斯斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BSZ",
+      "MCX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 4752",
+      "from": "BSZ",
+      "to": "MCX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "22:40",
+      "arrival": "23:10",
+      "days": [
+        2
+      ],
+      "start": "2026-11-10",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-02-02",
+        "2027-02-16",
+        "2027-03-02",
+        "2027-03-16",
+        "2027-03-23"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BSZ-MCX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BSZ",
+        "MCX"
+      ],
+      "durationMinutes": 210,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BSZ-MCX.json",
+      "id": "f-4d3622778bda",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 3,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-26",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BHK",
+      "MCX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1408",
+      "from": "BHK",
+      "to": "MCX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "12:50",
+      "arrival": "13:35",
+      "days": [
+        2
+      ],
+      "start": "2026-11-10",
+      "end": "2027-03-23",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-29",
+        "2027-01-19",
+        "2027-02-02",
+        "2027-02-16",
+        "2027-03-02",
+        "2027-03-23"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BHK-MCX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BHK",
+        "MCX"
+      ],
+      "durationMinutes": 165,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BHK-MCX.json",
+      "id": "f-47cbc2d4d7da",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-27",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "BHK",
+      "SVX"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1440",
+      "from": "BHK",
+      "to": "SVX",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "04:25",
+      "arrival": "07:25",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2027-03-25",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-BHK-SVX.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "BHK",
+        "SVX"
+      ],
+      "durationMinutes": 180,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-BHK-SVX.json",
+      "id": "f-25713fc8c245",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-28",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KUF",
+      "UGC"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1353",
+      "from": "KUF",
+      "to": "UGC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "00:50",
+      "arrival": "04:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-02",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-UGC.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "UGC"
+      ],
+      "durationMinutes": 150,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-UGC.json",
+      "id": "f-99ea87ff50a2",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-29",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "MCX",
+      "NMA"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1423",
+      "from": "MCX",
+      "to": "NMA",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "06:10",
+      "arrival": "11:20",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-NMA.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "NMA"
+      ],
+      "durationMinutes": 190,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-NMA.json",
+      "id": "f-7b88adb03bc8",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 3,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-30",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "MCX",
+      "TAS"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 4137",
+      "from": "MCX",
+      "to": "TAS",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "21:10",
+      "arrival": "02:00",
+      "days": [
+        1
+      ],
+      "start": "2026-11-09",
+      "end": "2027-03-22",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28",
+        "2027-01-04",
+        "2027-01-25",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-03-01",
+        "2027-03-15",
+        "2027-03-22"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-TAS.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "TAS"
+      ],
+      "durationMinutes": 170,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-TAS.json",
+      "id": "f-21a8539b3bbd",
+      "arrivalDayOffset": 1,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-31",
+    "country": "UZ",
+    "countryZh": "乌兹别克斯坦",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "MCX",
+      "UGC"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 1425",
+      "from": "MCX",
+      "to": "UGC",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "15:50",
+      "arrival": "19:45",
+      "days": [
+        6
+      ],
+      "start": "2026-11-07",
+      "end": "2027-03-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28",
+        "2026-12-05",
+        "2026-12-12",
+        "2026-12-19",
+        "2026-12-26",
+        "2027-01-09",
+        "2027-01-16",
+        "2027-01-23",
+        "2027-01-30",
+        "2027-02-06",
+        "2027-02-13",
+        "2027-02-20",
+        "2027-02-27",
+        "2027-03-06",
+        "2027-03-13",
+        "2027-03-20",
+        "2027-03-27"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MCX-UGC.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MCX",
+        "UGC"
+      ],
+      "durationMinutes": 115,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MCX-UGC.json",
+      "id": "f-23b020b25559",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-32",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "KUF",
+      "MSQ"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 5309",
+      "from": "KUF",
+      "to": "MSQ",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "07:00",
+      "arrival": "08:40",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2026-12-25",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11",
+        "2026-12-18",
+        "2026-12-25"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-KUF-MSQ.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "KUF",
+        "MSQ"
+      ],
+      "durationMinutes": 160,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-KUF-MSQ.json",
+      "id": "f-b1b13654b180",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 9,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-33",
+    "country": "BY",
+    "countryZh": "白俄罗斯",
+    "operatorOrSeller": "redwings",
+    "places": [
+      "MSQ",
+      "PEE"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "redwings",
+      "number": "WZ 5712",
+      "from": "MSQ",
+      "to": "PEE",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "09:30",
+      "arrival": "14:15",
+      "days": [
+        5
+      ],
+      "start": "2026-11-06",
+      "end": "2027-03-26",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27",
+        "2026-12-04",
+        "2026-12-11",
+        "2026-12-18",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-01-08",
+        "2027-01-15",
+        "2027-01-22",
+        "2027-01-29",
+        "2027-02-05",
+        "2027-02-12",
+        "2027-02-19",
+        "2027-02-26",
+        "2027-03-05",
+        "2027-03-12",
+        "2027-03-19",
+        "2027-03-26"
+      ],
+      "source": "webskywz",
+      "note": "官方查询返回的逐班机型与指定日期；只录实际运营航段，不把转机方案拼成直飞。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "wz-schedule-MSQ-PEE.json / segment 1",
+      "alternatives": [],
+      "route": [
+        "MSQ",
+        "PEE"
+      ],
+      "durationMinutes": 165,
+      "publicAccess": "published-schedule",
+      "localSource": "sources/websky/wz-schedule-MSQ-PEE.json",
+      "id": "f-21077b4b3bfc",
+      "arrivalDayOffset": 0,
+      "arrivalDayBasis": "duration-and-IANA-timezones"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  },
+  {
+    "id": "int-34",
+    "country": "MN",
+    "countryZh": "蒙古",
+    "operatorOrSeller": "iraero",
+    "places": [
+      "IKT",
+      "UBN"
+    ],
+    "aircraft": [
+      "SSJ100"
+    ],
+    "evidenceStatus": "official-flight-snapshot-2026-11-04",
+    "publicAccess": "published-schedule",
+    "sourceRefs": [],
+    "existingSnapshot": {
+      "airline": "iraero",
+      "number": "IO-230",
+      "from": "IKT",
+      "to": "UBN",
+      "aircraft": [
+        "SSJ100"
+      ],
+      "departure": "00:05",
+      "arrival": "01:00",
+      "days": [
+        4
+      ],
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "source": "iraero",
+      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "status": "confirmed",
+      "checkedAt": "2026-11-04",
+      "timeBasis": "local",
+      "sourceLocator": "IKT → UBN, 05.11.2026, IO-230",
+      "id": "f-2f3c5296531f",
+      "localSource": "sources/iraero/io_IKT.html"
+    },
+    "matchingRecordCount": 2,
+    "reviewedAt": "2026-11-06",
+    "dataCheckedAt": "2026-11-04",
+    "noteZh": "复核工作区 11 月 4 日保存的官方逐班查询；未冒充 11 月 6 日重新询价。详情保留实际日期、机型组和原始文件。"
+  }
+]

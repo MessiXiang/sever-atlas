@@ -1,0 +1,13 @@
+{
+  "id": "kg-airport-home",
+  "url": "https://www.airport.kg/",
+  "retrievedAt": "2026-11-06T10:02:31.657990+00:00",
+  "status": 200,
+  "finalUrl": "https://www.airport.kg/",
+  "bytes": 440428,
+  "sha256": "b4078a2d1d7828286e635056ecc2f2fdddd989f365b98e98ae54bde49fc7f27c",
+  "file": "sources/neighbours-2026-11-06/kg-airport-home.html",
+  "title": "Главная страница",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/kg-airport-home.txt"
+}

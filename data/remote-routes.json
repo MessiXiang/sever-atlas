@@ -1,8 +1,78 @@
 {
-  "asOf": "2026-11-05",
+  "asOf": "2026-11-06",
   "title": "冷门与线下航线补查",
-  "summary": "本轮补入52条时刻并复核10条已有记录；包含Utair地方直升机、下瓦尔托夫斯克Mi-8T和机场明确SU9。三轮累计新增167条；冲突班次单列待核。",
+  "summary": "九国补查新增5组公开售票客运城市对、10条方向资料与1条指定日期时刻。此前三轮地方补查累计新增167条时刻。",
   "items": [
+    {
+      "id": "neighbour-kz-an24",
+      "region": "哈萨克斯坦",
+      "title": "Southern Sky：两组 An-24 地方航线，已录入地图",
+      "routeRu": "Семей ↔ Урджар / Semey ↔ Urzhar；Усть-Каменогорск ↔ Зайсан / Oskemen ↔ Zaysan",
+      "operator": "Южное Небо / Southern Sky / Hi Sky",
+      "aircraft": "An-24",
+      "status": "bookable",
+      "period": "2026-11-06 核查；塞梅线政府补贴公告对应 2026 年",
+      "schedule": "两组双向航线，共 4 条方向记录。没有现行完整时刻，不推演日期。",
+      "booking": "官网 hisky.kz 公开 17,000 KZT 单程价，Freedom Travel 提供购票查询；不代表即时余票。",
+      "notes": "塞梅线机型由政府逐线确认；斋桑线由当前代理航线说明和航司机队交叉支持。",
+      "sources": [
+        {
+          "title": "Southern Sky 官网 · 两条地方航线与票价",
+          "url": "https://hisky.kz/",
+          "local": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "阿拜州交通部门 · 2026 塞梅—乌尔扎尔 An-24",
+          "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+          "local": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+          "url": "https://freedom-travel.kz/airlines/southern-sky/",
+          "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "mapQuery": "airline=southern-sky"
+    },
+    {
+      "id": "neighbour-uz-l410",
+      "region": "乌兹别克斯坦",
+      "title": "Silk Avia：三组 L-410 支线与一个已核实日期",
+      "routeRu": "Нукус ↔ Муйнак / Nukus ↔ Muynak；Ташкент ↔ Шахрисабз / Tashkent ↔ Shahrisabz；Ташкент ↔ Заамин / Tashkent ↔ Zaamin",
+      "operator": "Silk Avia（售票品牌）",
+      "aircraft": "L-410",
+      "status": "bookable",
+      "period": "2026-11-06 核查",
+      "schedule": "6 条方向记录保留班期待确认；另核实 2026-11-11 UH-721 TAS 12:00 → RBZ 13:00，官网明确 L410。",
+      "booking": "2026 官方公告确认官网、机场柜台及 Uzbekistan Airways Sales 售票。UH-721 查询显示一名成人 500,944 UZS；价格与余位会变化。",
+      "notes": "其余方向机型依据 2025 官方逐线说明，当前具体日期与执行机型需查票；未沿用 2024 年星期表。",
+      "sources": [
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia · 2026 年票价与官网／柜台售票公告",
+          "url": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+          "local": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "mapQuery": "airline=silk-avia"
+    },
     {
       "id": "ugra-nv-a247",
       "region": "汉特-曼西 / 下瓦尔托夫斯克",

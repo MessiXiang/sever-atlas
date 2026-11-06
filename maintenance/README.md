@@ -4,7 +4,14 @@
 
     python3 maintenance/publish_data.py
 
-该命令先做数据完整性检查，再生成直接打开网页所需的 flights.js。不会更改 asOf，也不会自动宣称新的核查日期。
+该命令先做数据完整性检查，再生成直接打开网页所需的 flights.js、experiences.js 和 remote-routes.js。不会更改 asOf，也不会自动宣称新的核查日期。
+
+## 公开售票航线与体验项目
+
+- `recordKind=service` 表示已确认售票渠道的航线资料。必须保留 `scheduleUnconfirmed=true`、空 `days`、空时刻；没有具体日期的服务不进入日期筛选或衔接计算。已核实的单日班次另存为 `recordKind=timetable`，不要把一个日期扩展为长期星期表。
+- `booking.channel` 区分 `online` 和 `online-office`；`booking.links` 可补充代理及柜台联系入口。售票渠道核实不等于当前有余票。
+- `data/experiences.json` 独立保存观光、特技与包机项目，按 `model` 分组，不并入客运时刻。报价保留币种与 `basis`，尤其不能把整机或整组每小时价格当作单人总价。
+- 体验项目的公开报价、联系方式与原文快照由 `maintenance/validate_experiences.py` 校验。九国导入范围和证据哈希见 `data/neighbour-integration-audit.json`；源文件更新时同步审核哈希，不绕过校验。
 
 ## 取回一组官网原始结果
 

@@ -140,6 +140,7 @@ button:hover {
 }
 
 .nav {
+  white-space: nowrap;
   position: relative;
   font-weight: 500;
   padding: 0 2px;

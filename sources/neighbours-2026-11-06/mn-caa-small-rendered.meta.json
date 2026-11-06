@@ -1,0 +1,13 @@
+{
+  "id": "mn-caa-small-rendered",
+  "url": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+  "finalUrl": "https://mcaa.gov.mn/page/agaaryn-teeverlegchiin-gerchilgee-nisdeg-tereg-bolon-zhizhig-niseh-ongots",
+  "title": "Агаарын тээвэрлэгчийн гэрчилгээ /Нисдэг тэрэг болон жижиг нисэх онгоц/",
+  "retrievedAt": "2026-11-06T10:46:02.366767+00:00",
+  "method": "Browser rendered text; manually transcribed relevant passage/table, not a raw HTTP response",
+  "status": 200,
+  "file": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+  "textFile": "sources/neighbours-2026-11-06/mn-caa-small-rendered.txt",
+  "bytes": 966,
+  "sha256": "30530e0eb3cba8361bfb179a8b6859202cc6f24f3242ada9399932e34d3b0bdf"
+}

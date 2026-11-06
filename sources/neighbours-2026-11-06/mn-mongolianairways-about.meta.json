@@ -1,0 +1,159 @@
+{
+  "id": "mn-mongolianairways-about",
+  "url": "https://www.mongolianairways.com/about",
+  "retrievedAt": "2026-11-06T10:03:59.264112+00:00",
+  "status": 200,
+  "finalUrl": "https://www.mongolianairways.com/about",
+  "bytes": 16848,
+  "sha256": "5bb4f53240a3fdf901da8394c5781bd376ee95c858e37a5e2804a185d4541e01",
+  "file": "sources/neighbours-2026-11-06/mn-mongolianairways-about.html",
+  "title": "Mongolian Airways LLC - About Us",
+  "links": [
+    {
+      "text": "Eng",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "Мон",
+      "url": "https://www.mongolianairways.com/mgl",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/contact",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "ENG",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "МОН",
+      "url": "https://www.mongolianairways.com/mgl",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/index.php?intro",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/index.php",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/contact",
+      "lang": ""
+    },
+    {
+      "text": "keyboard_backspace Back",
+      "url": "javascript:history.go(-1)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://www.websites.mn/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/mn-mongolianairways-about.txt"
+}

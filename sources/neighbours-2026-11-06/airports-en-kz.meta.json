@@ -1,0 +1,2239 @@
+{
+  "id": "airports-en-kz",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+  "retrievedAt": "2026-11-06T08:22:30.282089+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+  "bytes": 203031,
+  "sha256": "81792093348d5fd7e3812f6ecee5c0fa6f41ec8a53045d7324e532ef8d9645a7",
+  "file": "sources/neighbours-2026-11-06/airports-en-kz.html",
+  "title": "List of airports in Kazakhstan - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#References",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA_%D9%83%D8%A7%D8%B2%D8%A7%D8%AE%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "ar"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Qazax%C4%B1stan_hava_limanlar%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Башҡортса",
+      "url": "https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D2%99%D0%B0%D2%93%D1%81%D1%82%D0%B0%D0%BD_%D2%BB%D0%B0%D1%83%D0%B0_%D1%8E%D0%BB%D0%B4%D0%B0%D1%80%D1%8B",
+      "lang": "ba"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_und_Flugpl%C3%A4tze_in_Kasachstan",
+      "lang": "de"
+    },
+    {
+      "text": "Esperanto",
+      "url": "https://eo.wikipedia.org/wiki/Flughavenoj_en_Kaza%C4%A5io",
+      "lang": "eo"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/Kasahstani_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Liste_d%27a%C3%A9roports_au_Kazakhstan",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Kazahszt%C3%A1n_rep%C3%BCl%C5%91tereinek_list%C3%A1ja",
+      "lang": "hu"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporti_in_Kazakistan",
+      "lang": "it"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Қазақша",
+      "url": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D0%BB%D0%B0%D1%80%D1%8B_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96",
+      "lang": "kk"
+    },
+    {
+      "text": "Nederlands",
+      "url": "https://nl.wikipedia.org/wiki/Lijst_van_internationale_luchthavens_van_Kazachstan",
+      "lang": "nl"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Kazachstanie",
+      "lang": "pl"
+    },
+    {
+      "text": "Português",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_aeroportos_do_Cazaquist%C3%A3o",
+      "lang": "pt"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Slovenščina",
+      "url": "https://sl.wikipedia.org/wiki/Seznam_letali%C5%A1%C4%8D_v_Kazahstanu",
+      "lang": "sl"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Kazakistan%27daki_havalimanlar%C4%B1_listesi",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%83",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Qozog%CA%BBiston_aeroportlari_ro%CA%BByxati",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2635729#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&oldid=1383666365",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Kazakhstan&id=1383666365&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Kazakhstan&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2635729",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kazakhstan-CIA_WFB_Map.png",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Aerodromes",
+      "url": "https://en.wikipedia.org/wiki/Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "unitary state",
+      "url": "https://en.wikipedia.org/wiki/Unitary_state",
+      "lang": ""
+    },
+    {
+      "text": "regions",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "capital city",
+      "url": "https://en.wikipedia.org/wiki/Capital_city",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "City served/Location",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Aktau",
+      "url": "https://en.wikipedia.org/wiki/Aktau",
+      "lang": ""
+    },
+    {
+      "text": "Aktau International Airport",
+      "url": "https://en.wikipedia.org/wiki/Aktau_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "43°51′36″N 051°05′31″E ﻿ / ﻿ 43.86000°N 51.09194°E ﻿ / 43.86000; 51.09194 ﻿ ( Aktau International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=43_51_36_N_051_05_31_E_region:KZ_type:airport&title=Aktau+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe International Airport",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "50°14′45″N 57°12′24″E ﻿ / ﻿ 50.24583°N 57.20667°E ﻿ / 50.24583; 57.20667 ﻿ ( Aktobe International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=50_14_45_N_57_12_24_E_region:KZ_type:airport&title=Aktobe+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty",
+      "lang": ""
+    },
+    {
+      "text": "Almaty International Airport",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "43°21′19″N 077°02′41″E ﻿ / ﻿ 43.35528°N 77.04472°E ﻿ / 43.35528; 77.04472 ﻿ ( Almaty International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=43_21_19_N_077_02_41_E_region:KZ_type:airport&title=Almaty+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty",
+      "lang": ""
+    },
+    {
+      "text": "Boraldai Airport",
+      "url": "https://en.wikipedia.org/wiki/Boraldai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "43°21′06″N 076°52′57″E ﻿ / ﻿ 43.35167°N 76.88250°E ﻿ / 43.35167; 76.88250 ﻿ ( Boraldai Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=43_21_06_N_076_52_57_E_region:KZ_type:airport&title=Boraldai+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk Airport",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "50°19′30″N 066°57′36″E ﻿ / ﻿ 50.32500°N 66.96000°E ﻿ / 50.32500; 66.96000 ﻿ ( Arkalyk Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=50_19_30_N_066_57_36_E_region:KZ_type:airport&title=Arkalyk+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Astana",
+      "lang": ""
+    },
+    {
+      "text": "Nursultan Nazarbayev International Airport",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "51°01′19″N 071°28′01″E ﻿ / ﻿ 51.02194°N 71.46694°E ﻿ / 51.02194; 71.46694 ﻿ ( Nursultan Nazarbayev International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=51_01_19_N_071_28_01_E_region:KZ_type:airport&title=Nursultan+Nazarbayev+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar Airport",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "51°51′06″N 68°21′48″E ﻿ / ﻿ 51.85167°N 68.36333°E ﻿ / 51.85167; 68.36333 ﻿ ( Atbasar Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=51_51_06_N_68_21_48_E_region:KZ_type:airport&title=Atbasar+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau Airport",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "47°07′19″N 051°49′17″E ﻿ / ﻿ 47.12194°N 51.82139°E ﻿ / 47.12194; 51.82139 ﻿ ( Atyrau Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=47_07_19_N_051_49_17_E_region:KZ_type:airport&title=Atyrau+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baikonur",
+      "url": "https://en.wikipedia.org/wiki/Baikonur",
+      "lang": ""
+    },
+    {
+      "text": "Yubileyniy Airport",
+      "url": "https://en.wikipedia.org/wiki/Yubileyniy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "46°03′N 63°14′E ﻿ / ﻿ 46.050°N 63.233°E ﻿ / 46.050; 63.233 ﻿ ( Yubileyniy Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=46_03__N_63_14__E_region:KZ_type:airport&title=Yubileyniy+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkhash",
+      "url": "https://en.wikipedia.org/wiki/Balkhash_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Balkhash Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkhash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "46°53′38″N 075°00′19″E ﻿ / ﻿ 46.89389°N 75.00528°E ﻿ / 46.89389; 75.00528 ﻿ ( Balkhash Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=46_53_38_N_075_00_19_E_region:KZ_type:airport&title=Balkhash+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz Airport",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "51°35′N 075°13′E ﻿ / ﻿ 51.583°N 75.217°E ﻿ / 51.583; 75.217 ﻿ ( Ekibastuz Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=51_35__N_075_13__E_region:KZ_type:airport&title=Ekibastuz+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karaganda",
+      "url": "https://en.wikipedia.org/wiki/Karaganda",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka Airport",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "49°40′17″N 073°20′11″E ﻿ / ﻿ 49.67139°N 73.33639°E ﻿ / 49.67139; 73.33639 ﻿ ( Sary-Arka Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=49_40_17_N_073_20_11_E_region:KZ_type:airport&title=Sary-Arka+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau International Airport",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "53°19′48″N 069°35′48″E ﻿ / ﻿ 53.33000°N 69.59667°E ﻿ / 53.33000; 69.59667 ﻿ ( Kokshetau International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=53_19_48_N_069_35_48_E_region:KZ_type:airport&title=Kokshetau+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostanay",
+      "url": "https://en.wikipedia.org/wiki/Kostanay",
+      "lang": ""
+    },
+    {
+      "text": "Kostanay Airport",
+      "url": "https://en.wikipedia.org/wiki/Kostanay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "53°12′25″N 063°33′01″E ﻿ / ﻿ 53.20694°N 63.55028°E ﻿ / 53.20694; 63.55028 ﻿ ( Kostanay Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=53_12_25_N_063_33_01_E_region:KZ_type:airport&title=Kostanay+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kulsary",
+      "url": "https://en.wikipedia.org/wiki/Kulsary",
+      "lang": ""
+    },
+    {
+      "text": "Tengiz Airport",
+      "url": "https://en.wikipedia.org/wiki/Tengiz_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "46°18.12′N 53°25.65′E ﻿ / ﻿ 46.30200°N 53.42750°E ﻿ / 46.30200; 53.42750 ﻿ ( Tengiz Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=46_18.12__N_53_25.65__E_region:KZ_type:airport&title=Tengiz+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzylorda",
+      "url": "https://en.wikipedia.org/wiki/Kyzylorda",
+      "lang": ""
+    },
+    {
+      "text": "Kyzylorda Airport",
+      "url": "https://en.wikipedia.org/wiki/Kyzylorda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "44°42′25″N 065°35′33″E ﻿ / ﻿ 44.70694°N 65.59250°E ﻿ / 44.70694; 65.59250 ﻿ ( Kyzylorda Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=44_42_25_N_065_35_33_E_region:KZ_type:airport&title=Kyzylorda+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oral",
+      "url": "https://en.wikipedia.org/wiki/Oral,_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Oral Ak Zhol Airport",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "51°09′03″N 051°32′35″E ﻿ / ﻿ 51.15083°N 51.54306°E ﻿ / 51.15083; 51.54306 ﻿ ( Oral Ak Zhol Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=51_09_03_N_051_32_35_E_region:KZ_type:airport&title=Oral+Ak+Zhol+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen Airport",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "50°02′10″N 082°29′39″E ﻿ / ﻿ 50.03611°N 82.49417°E ﻿ / 50.03611; 82.49417 ﻿ ( Oskemen Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=50_02_10_N_082_29_39_E_region:KZ_type:airport&title=Oskemen+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar Airport",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "52°11′42″N 077°04′26″E ﻿ / ﻿ 52.19500°N 77.07389°E ﻿ / 52.19500; 77.07389 ﻿ ( Pavlodar Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=52_11_42_N_077_04_26_E_region:KZ_type:airport&title=Pavlodar+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl Airport",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "54°46′28″N 069°11′06″E ﻿ / ﻿ 54.77444°N 69.18500°E ﻿ / 54.77444; 69.18500 ﻿ ( Petropavl Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=54_46_28_N_069_11_06_E_region:KZ_type:airport&title=Petropavl+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey",
+      "lang": ""
+    },
+    {
+      "text": "Semey Airport",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "50°21′05″N 080°14′04″E ﻿ / ﻿ 50.35139°N 80.23444°E ﻿ / 50.35139; 80.23444 ﻿ ( Semey Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=50_21_05_N_080_14_04_E_region:KZ_type:airport&title=Semey+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Shymkent",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent International Airport",
+      "url": "https://en.wikipedia.org/wiki/Shymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "42°21′54″N 069°28′34″E ﻿ / ﻿ 42.36500°N 69.47611°E ﻿ / 42.36500; 69.47611 ﻿ ( Shymkent International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=42_21_54_N_069_28_34_E_region:KZ_type:airport&title=Shymkent+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan Airport",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "45°07′21″N 078°26′34″E ﻿ / ﻿ 45.12250°N 78.44278°E ﻿ / 45.12250; 78.44278 ﻿ ( Taldykorgan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=45_07_21_N_078_26_34_E_region:KZ_type:airport&title=Taldykorgan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taraz",
+      "url": "https://en.wikipedia.org/wiki/Taraz",
+      "lang": ""
+    },
+    {
+      "text": "Taraz Airport",
+      "url": "https://en.wikipedia.org/wiki/Taraz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "42°51′13″N 071°18′13″E ﻿ / ﻿ 42.85361°N 71.30361°E ﻿ / 42.85361; 71.30361 ﻿ ( Taraz Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=42_51_13_N_071_18_13_E_region:KZ_type:airport&title=Taraz+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkistan",
+      "url": "https://en.wikipedia.org/wiki/Turkistan_(city)",
+      "lang": ""
+    },
+    {
+      "text": "Hazrat Sultan International Airport",
+      "url": "https://en.wikipedia.org/wiki/Hazrat_Sultan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "43°18′40″N 068°33′01″E ﻿ / ﻿ 43.31111°N 68.55028°E ﻿ / 43.31111; 68.55028 ﻿ ( Hazrat Sultan International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=43_18_40_N_068_33_01_E_region:KZ_type:airport&title=Hazrat+Sultan+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Urzhar",
+      "url": "https://en.wikipedia.org/wiki/Urzhar",
+      "lang": ""
+    },
+    {
+      "text": "47°05′32″N 081°39′27″E ﻿ / ﻿ 47.09222°N 81.65750°E ﻿ / 47.09222; 81.65750 ﻿ ( Urzhar Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=47_05_32_N_081_39_27_E_region:KZ_type:airport&title=Urzhar+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usharal",
+      "url": "https://en.wikipedia.org/wiki/Usharal",
+      "lang": ""
+    },
+    {
+      "text": "Usharal Airport",
+      "url": "https://en.wikipedia.org/wiki/Usharal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "46°11′25″N 080°49′53″E ﻿ / ﻿ 46.19028°N 80.83139°E ﻿ / 46.19028; 80.83139 ﻿ ( Usharal Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=46_11_25_N_080_49_53_E_region:KZ_type:airport&title=Usharal+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Vostochny",
+      "url": "https://en.wikipedia.org/wiki/Vostochny,_Kazakhstan?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Ush Tobe Airport",
+      "url": "https://en.wikipedia.org/wiki/Ush_Tobe_Airport?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "50°33′13″N 66°38′57″E ﻿ / ﻿ 50.55361°N 66.64917°E ﻿ / 50.55361; 66.64917 ﻿ ( Ush Tobe Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=50_33_13_N_66_38_57_E_region:KZ_type:airport&title=Ush+Tobe+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_(town)",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan Airport",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "47°29′13″N 084°53′17″E ﻿ / ﻿ 47.48694°N 84.88806°E ﻿ / 47.48694; 84.88806 ﻿ ( Zaysan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=47_29_13_N_084_53_17_E_region:KZ_type:airport&title=Zaysan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhezkazgan",
+      "url": "https://en.wikipedia.org/wiki/Jezkazgan",
+      "lang": ""
+    },
+    {
+      "text": "Zhezkazgan Airport",
+      "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "47°42′32″N 067°44′21″E ﻿ / ﻿ 47.70889°N 67.73917°E ﻿ / 47.70889; 67.73917 ﻿ ( Zhezkazgan Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kazakhstan&params=47_42_32_N_067_44_21_E_region:KZ_type:airport&title=Zhezkazgan+Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-7",
+      "lang": ""
+    },
+    {
+      "text": "9",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-8",
+      "lang": ""
+    },
+    {
+      "text": "10",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-9",
+      "lang": ""
+    },
+    {
+      "text": "11",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-10",
+      "lang": ""
+    },
+    {
+      "text": "12",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-11",
+      "lang": ""
+    },
+    {
+      "text": "13",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-12",
+      "lang": ""
+    },
+    {
+      "text": "14",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-13",
+      "lang": ""
+    },
+    {
+      "text": "15",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-14",
+      "lang": ""
+    },
+    {
+      "text": "16",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-15",
+      "lang": ""
+    },
+    {
+      "text": "17",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-16",
+      "lang": ""
+    },
+    {
+      "text": "18",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-17",
+      "lang": ""
+    },
+    {
+      "text": "19",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-AIP_1-18",
+      "lang": ""
+    },
+    {
+      "text": "AIP Kazakhstan",
+      "url": "http://goszakup.ans.kz/AIP/AIRAC_AMDT_01_13/AIP/html/UA-frameset-en-KZ.html",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated link",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Archive.today_guidance",
+      "lang": ""
+    },
+    {
+      "text": "archive.today",
+      "url": "https://en.wikipedia.org/wiki/Archive.today",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Aeronautical Information Publication\"",
+      "url": "https://www.ans.kz/AIP/eAIP/2022-10-06-AIRAC/html/index-en-GB.html",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20190325001252/https://www.icao.int/safety/ism/Accident%2520Incident%2520Reporting%2520Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"IATA Airline and Airport Code Search\"",
+      "url": "https://www.iata.org/publications/Pages/code-search.aspx",
+      "lang": ""
+    },
+    {
+      "text": "International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Kazakhstan\"",
+      "url": "http://www.unece.org/fileadmin/DAM/cefact/locode/kz.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "\"Airports in Kazakhstan\"",
+      "url": "http://www.gcmap.com/search?Q=country:KZ",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nursultan Nazarbayev",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktau",
+      "url": "https://en.wikipedia.org/wiki/Aktau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostanay",
+      "url": "https://en.wikipedia.org/wiki/Kostanay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Korkyt Ata",
+      "url": "https://en.wikipedia.org/wiki/Kyzylorda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ak Zhol",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taraz",
+      "url": "https://en.wikipedia.org/wiki/Taraz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hazret Sultan",
+      "url": "https://en.wikipedia.org/wiki/Hazret_Sultan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkhash",
+      "url": "https://en.wikipedia.org/wiki/Balkhash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usharal",
+      "url": "https://en.wikipedia.org/wiki/Usharal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhezkazgan",
+      "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boraldai",
+      "url": "https://en.wikipedia.org/wiki/Boraldai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krayniy",
+      "url": "https://en.wikipedia.org/wiki/Baikonur_Krayniy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yubileyniy",
+      "url": "https://en.wikipedia.org/wiki/Yubileyniy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kambala",
+      "url": "https://en.wikipedia.org/wiki/Kambala_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Europe",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Post-Soviet states",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Chagan",
+      "url": "https://en.wikipedia.org/wiki/Chagan_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon Southwest",
+      "url": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Albania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Albania",
+      "lang": ""
+    },
+    {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Andorra",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Austria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Austria",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bosnia_and_Herzegovina",
+      "lang": ""
+    },
+    {
+      "text": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+      "lang": ""
+    },
+    {
+      "text": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Croatia",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Czech_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Denmark",
+      "lang": ""
+    },
+    {
+      "text": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Estonia",
+      "lang": ""
+    },
+    {
+      "text": "Finland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Finland",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_France",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Germany",
+      "lang": ""
+    },
+    {
+      "text": "Greece",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Greece",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iceland",
+      "lang": ""
+    },
+    {
+      "text": "Ireland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_Ireland",
+      "lang": ""
+    },
+    {
+      "text": "Italy",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Italy",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Latvia",
+      "lang": ""
+    },
+    {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Liechtenstein",
+      "lang": ""
+    },
+    {
+      "text": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lithuania",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Luxembourg",
+      "lang": ""
+    },
+    {
+      "text": "Malta",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malta",
+      "lang": ""
+    },
+    {
+      "text": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Moldova",
+      "lang": ""
+    },
+    {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Monaco",
+      "lang": ""
+    },
+    {
+      "text": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Montenegro",
+      "lang": ""
+    },
+    {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Netherlands",
+      "lang": ""
+    },
+    {
+      "text": "North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Macedonia",
+      "lang": ""
+    },
+    {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Norway",
+      "lang": ""
+    },
+    {
+      "text": "Poland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Poland",
+      "lang": ""
+    },
+    {
+      "text": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Portugal",
+      "lang": ""
+    },
+    {
+      "text": "Romania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Romania",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "San Marino",
+      "url": "https://en.wikipedia.org/wiki/Torraccia_airfield",
+      "lang": ""
+    },
+    {
+      "text": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Serbia",
+      "lang": ""
+    },
+    {
+      "text": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovakia",
+      "lang": ""
+    },
+    {
+      "text": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovenia",
+      "lang": ""
+    },
+    {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
+      "lang": ""
+    },
+    {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sweden",
+      "lang": ""
+    },
+    {
+      "text": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Switzerland",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Vatican_City#Air_transport",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kosovo",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Transnistria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Transnistria",
+      "lang": ""
+    },
+    {
+      "text": "Åland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Åland",
+      "lang": ""
+    },
+    {
+      "text": "Faroe Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Faroe_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Gibraltar",
+      "url": "https://en.wikipedia.org/wiki/Gibraltar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guernsey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Guernsey",
+      "lang": ""
+    },
+    {
+      "text": "Isle of Man",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jersey",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svalbard",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&oldid=1383666365",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&oldid=1383666365",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Kazakhstan_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template archiveis links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_archiveis_links",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kazakhstan&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-kz.txt"
+}

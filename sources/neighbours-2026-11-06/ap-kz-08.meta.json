@@ -1,0 +1,1509 @@
+{
+  "id": "ap-kz-08",
+  "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+  "retrievedAt": "2026-11-06T08:39:16.777697+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+  "bytes": 174191,
+  "sha256": "a1365f38248ae8ea76d782aae9b62c5b1ad079d1dae452b373937770c04ea52b",
+  "file": "sources/neighbours-2026-11-06/ap-kz-08.html",
+  "title": "Atyrau Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Atyrau+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Atyrau+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Atyrau+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Atyrau+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "3 See also",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "4 References",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "5 External links",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "العربية",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D8%A3%D8%AA%D9%8A%D8%B1%D8%A7%D9%88",
+      "lang": "ar"
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": "ceb"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Atyrau",
+      "lang": "de"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A2%D8%AA%DB%8C%D8%B1%D8%A7%D9%88",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_d%27Atyraou",
+      "lang": "fr"
+    },
+    {
+      "text": "Magyar",
+      "url": "https://hu.wikipedia.org/wiki/Atiraui_rep%C3%BCl%C5%91t%C3%A9r",
+      "lang": "hu"
+    },
+    {
+      "text": "Bahasa Indonesia",
+      "url": "https://id.wikipedia.org/wiki/Bandar_Udara_Atyrau",
+      "lang": "id"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Atyrau",
+      "lang": "it"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A2%E1%83%98%E1%83%A0%E1%83%90%E1%83%A3%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "Қазақша",
+      "url": "https://kk.wikipedia.org/wiki/%D0%A5%D0%B8%D1%83%D0%B0%D0%B7_%D0%94%D0%BE%D1%81%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D1%85%D0%B0%D0%BB%D1%8B%D2%9B%D0%B0%D1%80%D0%B0%D0%BB%D1%8B%D2%9B_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B",
+      "lang": "kk"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Atyrau",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Atyrau",
+      "lang": "pl"
+    },
+    {
+      "text": "Română",
+      "url": "https://ro.wikipedia.org/wiki/Aeroportul_Atyrau",
+      "lang": "ro"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%8B%D1%80%D0%B0%D1%83_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Atyraws_flygplats",
+      "lang": "sv"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0%D0%BB%D0%BC%D0%B8%D0%BB%D0%B0%D0%BB%D0%B8%D0%B8_%D0%90%D1%82%D0%B8%D1%80%D0%BE%D0%B9",
+      "lang": "tg"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/At%C4%B1rau_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%90%D1%82%D0%B8%D1%80%D0%B0%D1%83_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "اردو",
+      "url": "https://ur.wikipedia.org/wiki/%D8%A2%D8%AA%DB%8C%D8%B1%D8%A7%D8%A4_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%81%D9%88%D8%A7%D8%A6%DB%8C_%D8%A7%DA%88%D8%A7",
+      "lang": "ur"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Atirov_xalqaro_aeroporti",
+      "lang": "uz"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Atyrau",
+      "lang": "vi"
+    },
+    {
+      "text": "粵語",
+      "url": "https://zh-yue.wikipedia.org/wiki/%E9%98%BF%E5%9C%B0%E7%BE%85%E6%A9%9F%E5%A0%B4",
+      "lang": "yue"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E7%89%B9%E5%8B%9E%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1430894#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&oldid=1381072119",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Atyrau_Airport&id=1381072119&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAtyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Atyrau_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q1430894",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "47°07′19″N 051°49′17″E ﻿ / ﻿ 47.12194°N 51.82139°E ﻿ / 47.12194; 51.82139",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Atyrau_Airport&params=47_07_19_N_051_49_17_E_type:airport_region:KZ",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Atyrau_Airport_logo.png",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Atma_Atyrau_Airport_Terminal_Building.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Air Astana",
+      "url": "https://en.wikipedia.org/wiki/Air_Astana",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "47°07′19″N 051°49′17″E ﻿ / ﻿ 47.12194°N 51.82139°E ﻿ / 47.12194; 51.82139",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Atyrau_Airport&params=47_07_19_N_051_49_17_E_type:airport_region:KZ",
+      "lang": ""
+    },
+    {
+      "text": "guw.aero",
+      "url": "https://guw.aero/eng/homepage",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kazakhstan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Europe_blank_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:North_Atlantic_Ocean_laea_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "AIP",
+      "url": "https://en.wikipedia.org/wiki/Aeronautical_Information_Publication",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "Kazakh",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_language",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-AIP-1",
+      "lang": ""
+    },
+    {
+      "text": "lowest international commercial airport",
+      "url": "https://en.wikipedia.org/wiki/List_of_lowest_airports",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Atyrau_Airport.JPG",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "Caspian Sea",
+      "url": "https://en.wikipedia.org/wiki/Caspian_Sea",
+      "lang": ""
+    },
+    {
+      "text": "Wi-Fi",
+      "url": "https://en.wikipedia.org/wiki/Wi-Fi",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Aeroflot",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "Moscow–Sheremetyevo",
+      "url": "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Air Astana",
+      "url": "https://en.wikipedia.org/wiki/Air_Astana",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Amsterdam",
+      "url": "https://en.wikipedia.org/wiki/Amsterdam-Schiphol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Dubai–International",
+      "url": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-KC_UAE_susp_NS26-4",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul",
+      "url": "https://en.wikipedia.org/wiki/Istanbul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Air Cairo",
+      "url": "https://en.wikipedia.org/wiki/Air_Cairo",
+      "lang": ""
+    },
+    {
+      "text": "Sharm El Sheikh",
+      "url": "https://en.wikipedia.org/wiki/Sharm_El_Sheikh_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "azimuth",
+      "url": "https://en.wikipedia.org/wiki/Azimuth_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Sochi",
+      "url": "https://en.wikipedia.org/wiki/Sochi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Centrum Air",
+      "url": "https://en.wikipedia.org/wiki/Centrum_Air",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-C6_new_routes_NW25-9",
+      "lang": ""
+    },
+    {
+      "text": "FlyArystan",
+      "url": "https://en.wikipedia.org/wiki/FlyArystan",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_NW26-11",
+      "lang": ""
+    },
+    {
+      "text": "Aqtau",
+      "url": "https://en.wikipedia.org/wiki/Aqtau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_NW26-11",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_NW26-11",
+      "lang": ""
+    },
+    {
+      "text": "Kutaisi",
+      "url": "https://en.wikipedia.org/wiki/David_the_Builder_Kutaisi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_NW26-11",
+      "lang": ""
+    },
+    {
+      "text": "Şymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_NW26-11",
+      "lang": ""
+    },
+    {
+      "text": "Batumi",
+      "url": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-FlyArystan_BUS_NS26-12",
+      "lang": ""
+    },
+    {
+      "text": "Neos",
+      "url": "https://en.wikipedia.org/wiki/Neos_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "Milan–Malpensa",
+      "url": "https://en.wikipedia.org/wiki/Milan_Malpensa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-nonw25guw-13",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Airlines",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Istanbul–Sabiha Gökçen",
+      "url": "https://en.wikipedia.org/wiki/Sabiha_Gökçen_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Qazaq Air",
+      "url": "https://en.wikipedia.org/wiki/Qazaq_Air",
+      "lang": ""
+    },
+    {
+      "text": "Aqtöbe",
+      "url": "https://en.wikipedia.org/wiki/Aliya_Moldagulova_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oral",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "SCAT Airlines",
+      "url": "https://en.wikipedia.org/wiki/SCAT_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Astana",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Şymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-DV_NW25_CIT-TBS_GUW-15",
+      "lang": ""
+    },
+    {
+      "text": "Taraz",
+      "url": "https://en.wikipedia.org/wiki/Taraz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan Airways",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Nukus",
+      "url": "https://en.wikipedia.org/wiki/Nukus_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov_Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "List of the busiest airports in the former USSR",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_USSR",
+      "lang": ""
+    },
+    {
+      "text": "Extreme points of Earth – Lowest attainable by transportation",
+      "url": "https://en.wikipedia.org/wiki/Extreme_points_of_Earth#Lowest_attainable_by_transportation",
+      "lang": ""
+    },
+    {
+      "text": "List of places on land with elevations below sea level",
+      "url": "https://en.wikipedia.org/wiki/List_of_places_on_land_with_elevations_below_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-AIP_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-AIP_1-1",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Online Timetable\"",
+      "url": "https://web.archive.org/web/20240726212537/https://www.aeroflot.ru/media/aflfiles/docs/routes_table_en.xls",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.aeroflot.ru/media/aflfiles/docs/routes_table_en.xls",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Astana Adds Atyrau – Baku From late-May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250530-kcns25guwgyd",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-KC_UAE_susp_NS26_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Astana to suspend Dubai flights from July 21\"",
+      "url": "https://qazinform.com/news/air-astana-to-suspend-dubai-flights-from-july-21-717200",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Astana Adds Atyrau – Tbilisi in NS25\"",
+      "url": "https://www.aeroroutes.com/eng/250217-kcns25tbs",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Air Cairo commences Sharm el-Sheikh services to Atyrau and Istanbul\"",
+      "url": "https://www.aaco.org/media-center/news/aaco-members/air-cairo-commences-sharm-elsheikh-services-to-atyrau-and-istanbul",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan Airlines launches regular flights to Atyrau\"",
+      "url": "https://qazinform.com/news/azerbaijan-airlines-launches-regular-flights-to-atyrau-586075/amp",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Российская авиакомпания «Азимут» запустила прямые рейсы из Сочи в Атырау\"",
+      "url": "https://toppress.kz/article/rossiiskaya-aviakompaniya-azimut-zapustila-pryamie-reisi-iz-sochi-v-atirau",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-C6_new_routes_NW25_9-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Centrum Air Announces 10 New Routes — Expanding Its Global Network\"",
+      "url": "https://www.centrum-air.com/en/news/10-new-routes-centrum-air",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Online Timetable\"",
+      "url": "https://booking.flyarystan.com/web/FlightSchedule.xhtml",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_NW26_11-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_NW26_11-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_NW26_11-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_NW26_11-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_NW26_11-4",
+      "lang": ""
+    },
+    {
+      "text": "\"FlyArystan opens ticket sales for autumn-winter schedule\"",
+      "url": "https://www.go.flyarystan.com/tpost/7srzpy4zd1-flyarystan-opens-ticket-sales-for-autumn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-FlyArystan_BUS_NS26_12-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Kazakhstan's low-cost carrier to begin direct Astana-Batumi flights | Caliber.Az\"",
+      "url": "https://caliber.az/en/post/kazakhstan-s-low-cost-carrier-to-begin-direct-astana-batumi-flights",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-nonw25guw_13-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Neos Adds Atyrau Service in NW25\"",
+      "url": "https://www.aeroroutes.com/eng/251020-nonw25guw",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"Pegasus NS25 International Service Additions – 27APR25\"",
+      "url": "https://www.aeroroutes.com/eng/250430-pcns25int",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-DV_NW25_CIT-TBS_GUW_15-0",
+      "lang": ""
+    },
+    {
+      "text": "\"SCAT Airlines NW25 Shymkent Network Additions\"",
+      "url": "https://www.aeroroutes.com/eng/251007-dvnw25cit",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"Из Атырау запустят прямые рейсы в Нукус\"",
+      "url": "https://azh.kz/ru/news/view/133506",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"Direct Tashkent – Atyrau flights to begin in late March\"",
+      "url": "https://kun.uz/en/news/2026/02/28/direct-tashkent-atyrau-flights-to-begin-in-late-march",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau Airport official website",
+      "url": "https://guw.aero/eng/homepage",
+      "lang": ""
+    },
+    {
+      "text": "Portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nursultan Nazarbayev",
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktau",
+      "url": "https://en.wikipedia.org/wiki/Aktau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aktobe",
+      "url": "https://en.wikipedia.org/wiki/Aktobe_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Sary-Arka",
+      "url": "https://en.wikipedia.org/wiki/Sary-Arka_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kokshetau",
+      "url": "https://en.wikipedia.org/wiki/Kokshetau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kostanay",
+      "url": "https://en.wikipedia.org/wiki/Kostanay_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Korkyt Ata",
+      "url": "https://en.wikipedia.org/wiki/Kyzylorda_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ak Zhol",
+      "url": "https://en.wikipedia.org/wiki/Oral_Ak_Zhol_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Oskemen",
+      "url": "https://en.wikipedia.org/wiki/Oskemen_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pavlodar",
+      "url": "https://en.wikipedia.org/wiki/Pavlodar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Petropavl",
+      "url": "https://en.wikipedia.org/wiki/Petropavl_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Semey",
+      "url": "https://en.wikipedia.org/wiki/Semey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Shymkent",
+      "url": "https://en.wikipedia.org/wiki/Şymkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taraz",
+      "url": "https://en.wikipedia.org/wiki/Taraz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hazret Sultan",
+      "url": "https://en.wikipedia.org/wiki/Hazret_Sultan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkhash",
+      "url": "https://en.wikipedia.org/wiki/Balkhash_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Taldykorgan",
+      "url": "https://en.wikipedia.org/wiki/Taldykorgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Usharal",
+      "url": "https://en.wikipedia.org/wiki/Usharal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaysan",
+      "url": "https://en.wikipedia.org/wiki/Zaysan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zhezkazgan",
+      "url": "https://en.wikipedia.org/wiki/Zhezkazgan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Arkalyk",
+      "url": "https://en.wikipedia.org/wiki/Arkalyk_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Atbasar",
+      "url": "https://en.wikipedia.org/wiki/Atbasar_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Boraldai",
+      "url": "https://en.wikipedia.org/wiki/Boraldai_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ekibastuz",
+      "url": "https://en.wikipedia.org/wiki/Ekibastuz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Krayniy",
+      "url": "https://en.wikipedia.org/wiki/Baikonur_Krayniy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yubileyniy",
+      "url": "https://en.wikipedia.org/wiki/Yubileyniy_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kambala",
+      "url": "https://en.wikipedia.org/wiki/Kambala_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Europe",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Post-Soviet states",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_the_former_Soviet_Union",
+      "lang": ""
+    },
+    {
+      "text": "Chagan",
+      "url": "https://en.wikipedia.org/wiki/Chagan_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Dolon Southwest",
+      "url": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&oldid=1381072119",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&oldid=1381072119",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Buildings and structures in Atyrau",
+      "url": "https://en.wikipedia.org/wiki/Category:Buildings_and_structures_in_Atyrau",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Use dmy dates from May 2014",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_May_2014",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Kazakh-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Kazakh-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Kazakh-language sources (kk)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Kazakh-language_sources_(kk)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Atyrau_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Atyrau_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-kz-08.txt"
+}

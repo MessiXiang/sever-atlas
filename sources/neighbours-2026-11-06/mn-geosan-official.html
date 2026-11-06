@@ -1,0 +1,507 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>document.documentElement.classList.add('js');</script>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" type="image/png" href="Logo/Eng/1-1.png" />
+<title>GEOSAN — Aviation & Geophysics | Ulaanbaatar, Mongolia</title>
+<meta name="description" content="Providers of quality aviation and geo-professional services in Mongolia since 1996 — airborne & ground geophysics, aerial geospatial solutions and charter flights." />
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Cera Pro is GEOSAN's licensed brand font (not on free CDNs). Stack uses Cera Pro first
+     (renders if installed) and falls back to Hanken Grotesk, a close geometric match. -->
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* GEOSAN — shared styles (Cera Pro brand font, self-hosted, with geometric fallback) */
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Thin.woff2') format('woff2'),url('fonts/CeraPro-Thin.woff') format('woff'); font-weight:100; font-style:normal; font-display:swap; }
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Light.woff2') format('woff2'),url('fonts/CeraPro-Light.woff') format('woff'); font-weight:300; font-style:normal; font-display:swap; }
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Regular.woff2') format('woff2'),url('fonts/CeraPro-Regular.woff') format('woff'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Medium.woff2') format('woff2'),url('fonts/CeraPro-Medium.woff') format('woff'); font-weight:500; font-style:normal; font-display:swap; }
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Bold.woff2') format('woff2'),url('fonts/CeraPro-Bold.woff') format('woff'); font-weight:700; font-style:normal; font-display:swap; }
+@font-face { font-family:'Cera Pro'; src:url('fonts/CeraPro-Black.woff2') format('woff2'),url('fonts/CeraPro-Black.woff') format('woff'); font-weight:900; font-style:normal; font-display:swap; }
+html { scroll-behavior: smooth; }
+body { background:#080B10; color:rgba(255,255,255,0.95); font-family:'Cera Pro','Cera','Hanken Grotesk',system-ui,sans-serif; -webkit-font-smoothing:antialiased; }
+::selection { background:#0077FF; color:#fff; }
+section[id], [data-anchor] { scroll-margin-top: 90px; }
+
+.eyebrow { font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:0.32em; color:#3399FF; }
+.eyebrow-ink { color:#0077FF; }
+.label { font-size:11px; font-weight:600; text-transform:uppercase; letter-spacing:0.22em; }
+.display-xl { font-weight:600; line-height:0.94; letter-spacing:-0.025em; font-size:clamp(2.8rem,7.5vw,6.4rem); }
+.display-lg { font-weight:600; line-height:1.0; letter-spacing:-0.02em; font-size:clamp(2.1rem,4.8vw,4rem); }
+.display-md { font-weight:600; line-height:1.08; letter-spacing:-0.01em; font-size:clamp(1.5rem,3vw,2.2rem); }
+.statement { font-weight:400; line-height:1.3; letter-spacing:-0.015em; font-size:clamp(1.6rem,3.4vw,2.8rem); }
+.lede { font-size:1.07rem; font-weight:300; line-height:1.75; color:rgba(255,255,255,0.92); }
+.lede-ink { color:rgba(10,14,20,0.66); }
+
+.data-grid { background-image:linear-gradient(rgba(255,255,255,0.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.035) 1px,transparent 1px); background-size:72px 72px; }
+.contour-bg { background-image:radial-gradient(circle at 50% 40%,rgba(0,119,255,0.08),transparent 60%); }
+.parallax-bg { background-attachment:fixed; background-size:cover; background-position:center center; }
+@media (max-width:768px){ .parallax-bg{ background-attachment:scroll; } }
+
+.reveal,.reveal-left,.reveal-right,.reveal-scale { opacity:1; transform:none; }
+html.js .reveal { opacity:0; transform:translateY(30px); transition:opacity .8s cubic-bezier(.16,1,.3,1), transform .8s cubic-bezier(.16,1,.3,1); }
+html.js .reveal-left { opacity:0; transform:translateX(-48px); transition:opacity .85s cubic-bezier(.16,1,.3,1), transform .85s cubic-bezier(.16,1,.3,1); }
+html.js .reveal-right { opacity:0; transform:translateX(48px); transition:opacity .85s cubic-bezier(.16,1,.3,1), transform .85s cubic-bezier(.16,1,.3,1); }
+html.js .reveal-scale { opacity:0; transform:scale(.91); transition:opacity .75s cubic-bezier(.16,1,.3,1), transform .75s cubic-bezier(.16,1,.3,1); }
+html.js .reveal.in, html.js .reveal-left.in, html.js .reveal-right.in, html.js .reveal-scale.in { opacity:1; transform:none; }
+.d1{transition-delay:.08s} .d2{transition-delay:.16s} .d3{transition-delay:.24s} .d4{transition-delay:.32s} .d5{transition-delay:.4s} .d6{transition-delay:.48s}
+
+.sector-tab.is-active { background:#0E2440; }
+.sector-tab.is-active span { color:#fff; }
+.sector-tab.is-active .label { color:#3399FF; }
+.sf-line { animation:flick 4s ease-in-out infinite; }
+@keyframes flick { 0%,100%{opacity:0.06} 50%{opacity:0.22} }
+.sf-scan { animation:scan 7s ease-in-out infinite; }
+@keyframes scan { 0%{transform:translateX(60px)} 50%{transform:translateX(760px)} 100%{transform:translateX(60px)} }
+.plane { offset-path: path('M120 640 L120 130 L300 130 L300 640 L480 640 L480 130 L660 130 L660 640'); animation:fly 11s linear infinite; }
+@keyframes fly { from{offset-distance:0%} to{offset-distance:100%} }
+.trace { stroke-dasharray:1600; stroke-dashoffset:1600; animation:draw 3.2s ease-in-out forwards; }
+@keyframes draw { to{stroke-dashoffset:0} }
+
+a:focus-visible,button:focus-visible { outline:2px solid #3399FF; outline-offset:3px; }
+@media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} *{animation:none!important} .reveal,.reveal-left,.reveal-right,.reveal-scale{opacity:1;transform:none;transition:none} }
+
+#home-hero-bg {
+  background-image: url('images/hero-aerial-city.png');
+  background-size: cover;
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  animation: aerial-pan 60s ease-in-out infinite alternate !important;
+  will-change: background-position;
+  filter: contrast(1.05) saturate(1.08) brightness(1.05);
+  transform: translateZ(0);
+}
+@keyframes aerial-pan {
+  0%   { background-position: 50% 0%; }
+  100% { background-position: 50% 100%; }
+}
+/* Hero light sweep */
+#hero-sweep {
+  background: linear-gradient(
+    115deg,
+    transparent 0%,
+    transparent 40%,
+    rgba(255,255,255,0.04) 50%,
+    transparent 60%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: hero-sweep 8s ease-in-out infinite;
+}
+@keyframes hero-sweep {
+  0%   { background-position: 200% 0; }
+  50%  { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+</style>
+<script>
+  tailwind.config = {
+    theme: { extend: {
+      colors: {
+        void:"#080B10", carbon:"#0C1118", charcoal:"#101820", steel:"#374151",
+        paper:"#F3F6FA", mist:"#E4EAF2", ink:"#0A0E14",
+        geo:{DEFAULT:"#0077FF", bright:"#3399FF", soft:"#0E2440"}, signal:"#5EE6C4",
+      },
+      fontFamily: {
+        display:["'Cera Pro'","'Cera'","'Hanken Grotesk'","system-ui","sans-serif"],
+        sans:["'Cera Pro'","'Cera'","'Hanken Grotesk'","system-ui","sans-serif"],
+      },
+      maxWidth:{ site:"1280px" },
+    } },
+  };
+</script>
+</head>
+<body>
+<header id="nav" class="fixed inset-x-0 top-0 z-50 border-b border-transparent transition-colors duration-300">
+  <nav class="mx-auto flex h-16 md:h-20 max-w-site items-center justify-between px-6 md:px-10">
+    <a class='flex items-center' href='/'>
+      <img src="images/logo-white-h.png" alt="GEOSAN" class="h-8 w-auto">
+    </a>
+    <div class="hidden items-center gap-9 lg:flex">
+      <a class='label text-white/60 hover:text-white transition' data-i18n='nav.avia' href='/air-charter'>Aviation</a>
+      <a class='label text-white/60 hover:text-white transition' data-i18n='nav.geo' href='/geophysics'>Geophysics</a>
+      <a class='label text-white/60 hover:text-white transition' data-i18n='nav.geos' href='/geospatial-solutions'>Geospatial Solutions</a>
+      <a class='label text-white/60 hover:text-white transition' data-i18n='nav.about' href='/about'>About</a>
+      <a class='label text-white/60 hover:text-white transition' href='/news'>News</a>
+      <a class='rounded-md bg-geo px-4 py-2 label text-white hover:bg-geo-bright transition' data-i18n='nav.quote' href='/contact'>Get a Quote</a>
+    </div>
+    <button id="burger" class="lg:hidden text-white" aria-label="Menu">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </nav>
+  <div id="mobile" class="hidden border-t border-white/10 bg-void/95 backdrop-blur lg:hidden">
+    <div class="mx-auto flex max-w-site flex-col px-6 py-4">
+      <a class='border-b border-white/5 py-3 label text-white/80' data-i18n='nav.avia-m' href='/air-charter'>Aviation Services</a>
+      <a class='border-b border-white/5 py-3 label text-white/80' data-i18n='nav.geo-m' href='/geophysics'>Geophysics</a>
+      <a class='border-b border-white/5 py-3 label text-white/80' data-i18n='nav.geos-m' href='/geospatial-solutions'>Geospatial Solutions</a>
+      <a class='border-b border-white/5 py-3 label text-white/80' data-i18n='nav.about-m' href='/about'>About</a>
+      <a class='border-b border-white/5 py-3 label text-white/80' href='/news'>News</a>
+      <a class='mt-4 rounded-md bg-geo py-3 text-center label text-white' data-i18n='nav.quote-m' href='/contact'>Get a Quote</a>
+    </div>
+  </div>
+</header>
+
+<section id="top" class="relative flex min-h-screen items-center overflow-hidden contour-bg">
+  <div class="pointer-events-none absolute inset-0" id="home-hero-bg"></div>
+  <!-- Light sweep animation -->
+  <div class="pointer-events-none absolute inset-0" id="hero-sweep"></div>
+  <!-- Gradients -->
+  <div class="pointer-events-none absolute inset-0" style="background:linear-gradient(to bottom,rgba(8,11,16,0.18),transparent 50%,rgba(8,11,16,0.92))"></div>
+  <div class="pointer-events-none absolute inset-0" style="background:linear-gradient(to right,rgba(8,11,16,0.78),rgba(8,11,16,0.15) 55%,transparent)"></div>
+  <div class="relative z-10 mx-auto w-full max-w-site px-6 md:px-10 pt-24">
+    <p class="eyebrow mb-7 reveal-left" data-i18n="i.ey">Aviation В· Geophysics В· Geospatial Solutions В· Since 1996</p>
+    <h1 class="display-xl max-w-5xl text-white reveal-scale d1" data-i18n="i.h1">Precision<br>from above.</h1>
+    <p class="mt-8 max-w-xl lede reveal-right d2" data-i18n="i.lede">GEOSAN is Mongolia's premier provider of airborne and ground geophysics, aerial geospatial solutions and charter flight operations, turning the country's hardest terrain into decision-grade data.</p>
+    <div class="mt-11 flex flex-wrap items-center gap-4 reveal d3">
+      <a class='group inline-flex items-center gap-2 rounded-md bg-geo px-6 py-3.5 label text-white hover:bg-geo-bright transition' data-i18n='i.btn1' href='/contact'>Get a Quote
+        <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></a>
+      <a href="#services" data-scroll class="inline-flex items-center gap-2 rounded-md border border-white/15 px-6 py-3.5 label text-white hover:border-geo hover:text-geo-bright transition" data-i18n="i.btn2">Explore Services</a>
+    </div>
+  </div>
+  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 label text-white/30">Scroll</div>
+</section>
+
+<!-- IN FIGURES -->
+<section class="border-y border-white/10 bg-carbon">
+  <div class="mx-auto max-w-site px-6 md:px-10 py-16 md:py-20">
+    <div class="flex items-center gap-4 reveal"><span class="eyebrow" data-i18n="i.fig-ey">In figures</span><span class="h-px flex-1 bg-white/10"></span></div>
+    <div class="mt-12 grid grid-cols-2 gap-y-12 md:grid-cols-4">
+      <div class="flex flex-col gap-4 reveal"><svg class="h-7 w-7 text-geo-bright" fill="none" stroke="currentColor" stroke-width="1.4" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 9h18M8 3v4M16 3v4"/></svg><div class="font-display text-4xl md:text-6xl font-semibold text-white" data-count="1996" data-suffix="">0</div><div class="label text-white/80 max-w-[16ch]" data-i18n="i.fig-yr">Year established</div></div>
+      <div class="flex flex-col gap-4 reveal"><svg class="h-7 w-7 text-geo-bright" fill="none" stroke="currentColor" stroke-width="1.4" viewBox="0 0 24 24"><path d="M12 3l9 5-9 5-9-5 9-5zM3 13l9 5 9-5M3 17l9 5 9-5"/></svg><div class="font-display text-4xl md:text-6xl font-semibold text-white" data-count="300" data-suffix="+">0</div><div class="label text-white/80 max-w-[16ch]" data-i18n="i.fig-pr">Projects completed</div></div>
+      <div class="flex flex-col gap-4 reveal"><svg class="h-7 w-7 text-geo-bright" fill="none" stroke="currentColor" stroke-width="1.4" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg><div class="font-display text-4xl md:text-6xl font-semibold text-white" data-count="8000" data-suffix="+">0</div><div class="label text-white/80 max-w-[16ch]" data-i18n="i.fig-fh">Flight hours</div></div>
+      <div class="flex flex-col gap-4 reveal"><svg class="h-7 w-7 text-geo-bright" fill="none" stroke="currentColor" stroke-width="1.4" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2M9 7a4 4 0 108 0 4 4 0 00-8 0M22 21v-2a4 4 0 00-3-3.87"/></svg><div class="font-display text-4xl md:text-6xl font-semibold text-white" data-count="70" data-suffix="+">0</div><div class="label text-white/80 max-w-[16ch]" data-i18n="i.fig-st">Experienced staff</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- STATEMENT -->
+<section class="mx-auto max-w-site px-6 md:px-10 py-28 md:py-40">
+  <div class="grid gap-10 md:grid-cols-[0.8fr_1.6fr] md:gap-16">
+    <div class="reveal"><span class="eyebrow" data-i18n="i.wwd-ey">What we do</span></div>
+    <div class="reveal"><p class="statement text-white" data-i18n="i.wwd-p">Aviation, geophysics and geospatial solutions under one operator. <span class="text-white/80">We own and fly our own aircraft, run our own instruments, build digital twins and process our own data, so a survey flight, a charter and a 3D site model all start from the same team.</span></p></div>
+  </div>
+</section>
+
+<!-- SERVICES (light editorial band) -->
+<section id="services" class="bg-paper text-ink">
+  <div class="mx-auto max-w-site px-6 md:px-10 py-28 md:py-36">
+    <div class="flex max-w-2xl flex-col gap-5 reveal"><span class="eyebrow eyebrow-ink" data-i18n="i.svc-ey">Our services</span><h2 class="display-lg" data-i18n="i.svc-h2">Three disciplines, one team.</h2><p class="statement" style="font-size:clamp(1.1rem,1.6vw,1.35rem);line-height:1.6"><span class="text-ink/60" data-i18n="i.svc-sub">Geophysics surveys, digital twin modelling, aerial mapping and charter operations, all in one place.</span></p></div>
+    <div class="mt-14 grid gap-px overflow-hidden rounded-xl border border-ink/10 bg-ink/[0.08] md:grid-cols-3">
+      <a class='reveal group flex h-full flex-col justify-between gap-12 bg-paper p-8 md:p-10 hover:bg-mist transition' href='/geophysics'><div class="flex items-start justify-between"><span class="font-display text-sm font-semibold text-geo">01</span><svg class="h-5 w-5 text-ink/25 group-hover:text-geo transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></div><div><h3 class="display-md" data-i18n="i.s1-h">Airborne &amp; Ground Geophysics</h3><p class="mt-4 text-[15px] font-light leading-relaxed text-ink/60" data-i18n="i.s1-p">Airborne and ground surveys covering magnetic, radiometric, gravity and electrical methods. Over 70 projects and 500,000 line km completed across Mongolia and Asia.</p></div></a>
+      <a class='reveal group flex h-full flex-col justify-between gap-12 bg-paper p-8 md:p-10 hover:bg-mist transition' href='/geospatial-solutions'><div class="flex items-start justify-between"><span class="font-display text-sm font-semibold text-geo">02</span><svg class="h-5 w-5 text-ink/25 group-hover:text-geo transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></div><div><h3 class="display-md" data-i18n="i.s2-h">Geospatial Solutions</h3><p class="mt-4 text-[15px] font-light leading-relaxed text-ink/60" data-i18n="i.s2-p">Aerial survey, photogrammetry and digital twin solutions built on Bentley's iTwin platform. From orthophotos and terrain models to live asset models that update with each drone pass.</p></div></a>
+      <a class='reveal group flex h-full flex-col justify-between gap-12 bg-paper p-8 md:p-10 hover:bg-mist transition' href='/air-charter'><div class="flex items-start justify-between"><span class="font-display text-sm font-semibold text-geo">03</span><svg class="h-5 w-5 text-ink/25 group-hover:text-geo transition" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></div><div><h3 class="display-md" data-i18n="i.s3-h">Aviation Services</h3><p class="mt-4 text-[15px] font-light leading-relaxed text-ink/60" data-i18n="i.s3-p">Cessna Grand Caravan charters for cargo, medevac, tourism and remote-site logistics, with field aerodrome operations and full in-house aircraft maintenance across Mongolia.</p></div></a>
+    </div>
+  </div>
+</section>
+
+<section class="relative h-[60vh] overflow-hidden border-y border-white/10">
+  <div class="pointer-events-none absolute inset-0 parallax-bg" style="background-image:url('images/band-index-sunset.jpg')"></div>
+  <div class="pointer-events-none absolute inset-0" style="background:linear-gradient(to bottom,rgba(8,11,16,0.1),rgba(8,11,16,0.65))"></div>
+  <div class="relative flex h-full items-end px-6 md:px-10 pb-12 max-w-site mx-auto">
+    <p class="eyebrow text-white">Home base, our hangar at sunrise</p>
+  </div>
+</section>
+
+<!-- WHY -->
+<section class="border-b border-white/10 bg-void data-grid">
+  <div class="mx-auto max-w-site px-6 md:px-10 py-24 md:py-32">
+    <div class="flex max-w-2xl flex-col gap-5 reveal"><span class="eyebrow" data-i18n="i.why-ey">Why GEOSAN</span><h2 class="display-lg text-white" data-i18n="i.why-h2">The domestic operator the majors rely on.</h2><p class="lede" data-i18n="i.why-p">Our first contracts in 1998 were near Oyu Tolgoi and Gatsuurt for BHP Billiton. Three decades on, clients still choose us for the same reason: we get the aircraft to the block and the data holds up.</p></div>
+    <div class="mt-16 grid gap-px overflow-hidden rounded-xl border border-white/10 bg-white/[0.06] md:grid-cols-3">
+      <div class="reveal flex h-full flex-col gap-6 bg-carbon p-8 md:p-10"><span class="grid h-12 w-12 place-items-center rounded-md border border-white/10 bg-void text-geo-bright"><svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path d="M2 12h4l2-7 4 14 2-7h4"/></svg></span><h3 class="font-display text-xl font-semibold text-white" data-i18n="i.w1-h">Full survey capability</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.w1-p">Nearly the entire range of ground and airborne surveys available today: magnetic, radiometric, gravity, IP/resistivity, EM and borehole logging, all in-house.</p></div>
+      <div class="reveal flex h-full flex-col gap-6 bg-carbon p-8 md:p-10"><span class="grid h-12 w-12 place-items-center rounded-md border border-white/10 bg-void text-geo-bright"><svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path d="M12 2v4M12 18v4M2 12h4M18 12h4M5 5l3 3M16 16l3 3"/></svg></span><h3 class="font-display text-xl font-semibold text-white" data-i18n="i.w2-h">International-standard kit</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.w2-p">Industry-standard acquisition systems and a team recognised for technical expertise in geophysics, geodesy, geology and aviation.</p></div>
+      <div class="reveal flex h-full flex-col gap-6 bg-carbon p-8 md:p-10"><span class="grid h-12 w-12 place-items-center rounded-md border border-white/10 bg-void text-geo-bright"><svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path d="M3 18l6-9 4 5 3-4 5 8z"/></svg></span><h3 class="font-display text-xl font-semibold text-white" data-i18n="i.w3-h">Built for remote terrain</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.w3-p">Two Cessna Grand Caravans and the ability to open field aerodromes mean we reach sites across the Gobi, mountains and steppe — and abroad.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="border-b border-white/10 bg-void data-grid">
+  <div class="mx-auto max-w-site px-6 md:px-10 py-24 md:py-32">
+    <div class="flex max-w-2xl flex-col gap-5 reveal"><span class="eyebrow" data-i18n="i.how-ey">How we work</span><h2 class="display-lg text-white" data-i18n="i.how-h2">One call, one operator, one dataset.</h2><p class="lede" data-i18n="i.how-p">Whatever the discipline, every engagement follows the same straightforward path from first contact to finished deliverable.</p></div>
+    <div class="mt-16 grid gap-px overflow-hidden rounded-xl border border-white/10 bg-white/[0.06] md:grid-cols-4">
+      <div class="reveal flex h-full flex-col gap-3 bg-carbon p-8 md:p-10"><span class="font-display text-sm text-geo">01</span><h3 class="font-display text-lg font-semibold text-white" data-i18n="i.h1-h">Tell us the brief</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.h1-p">A survey block, a mapping area or a charter route. Send us the details and the timeline.</p></div>
+      <div class="reveal flex h-full flex-col gap-3 bg-carbon p-8 md:p-10"><span class="font-display text-sm text-geo">02</span><h3 class="font-display text-lg font-semibold text-white" data-i18n="i.h2-h">Get a fixed proposal</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.h2-p">We scope the method, aircraft and instrumentation, then quote a fixed price and schedule.</p></div>
+      <div class="reveal flex h-full flex-col gap-3 bg-carbon p-8 md:p-10"><span class="font-display text-sm text-geo">03</span><h3 class="font-display text-lg font-semibold text-white" data-i18n="i.h3-h">We fly and acquire</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.h3-p">Our own aircraft, crews and instruments handle the mission, quality-checked in the field.</p></div>
+      <div class="reveal flex h-full flex-col gap-3 bg-carbon p-8 md:p-10"><span class="font-display text-sm text-geo">04</span><h3 class="font-display text-lg font-semibold text-white" data-i18n="i.h4-h">You get decision-grade data</h3><p class="text-sm font-light leading-relaxed text-white/90" data-i18n="i.h4-p">Processed, interpreted deliverables in the format your team works in, ready to act on.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CLIENTS -->
+<section class="bg-paper text-ink border-b border-ink/[0.07]">
+  <div class="mx-auto max-w-site px-6 md:px-10 pt-24 md:pt-32 pb-14 reveal">
+    <div class="flex items-end justify-between gap-6">
+      <div class="flex flex-col gap-3">
+        <span class="eyebrow eyebrow-ink" data-i18n="i.cl-ey">Our current and past clients</span>
+        <h2 class="display-lg" data-i18n="i.cl-h2">Trusted across<br>three decades.</h2>
+      </div>
+      <p class="hidden md:block max-w-sm text-right text-[15px] font-light leading-relaxed text-ink/50" data-i18n="i.cl-sub">From global mining majors to Mongolia's national agencies, we've delivered surveys, flights and geospatial data since 1996.</p>
+    </div>
+  </div>
+
+  <!-- Marquee -->
+  <div class="relative overflow-hidden border-t border-ink/[0.07]" style="mask-image:linear-gradient(to right,transparent,black 6%,black 94%,transparent);-webkit-mask-image:linear-gradient(to right,transparent,black 6%,black 94%,transparent)">
+    <div id="ct1" class="flex will-change-transform" style="width:max-content">
+      <!-- set 1 -->
+      <div class="cl-logo"><img src="Logo/Clients/01_centerra_gold.png" alt="Centerra Gold"></div>
+      <div class="cl-logo"><img src="Logo/Clients/02_voyager_resources.png" alt="Voyager Resources"></div>
+      <div class="cl-logo"><img src="Logo/Clients/03_bhp.png" alt="BHP Billiton"></div>
+      <div class="cl-logo"><img src="Logo/Clients/04_cameco.png" alt="Cameco"></div>
+      <div class="cl-logo"><img src="Logo/Clients/05_rio_tinto.png" alt="Rio Tinto"></div>
+      <div class="cl-logo"><img src="Logo/Clients/06_mongolia_ministry_of_mining.png" alt="Mongolia Ministry of Mining"></div>
+      <div class="cl-logo"><img src="Logo/Clients/07_erdenet_mining_corporation.png" alt="Erdenet Mining Corporation"></div>
+      <div class="cl-logo"><img src="Logo/Clients/08_oyu_tolgoi.png" alt="Oyu Tolgoi"></div>
+      <div class="cl-logo"><img src="Logo/Clients/09_ivanhoe_mines.png" alt="Ivanhoe Mines"></div>
+      <div class="cl-logo"><img src="Logo/Clients/10_cascadia_minerals.png" alt="Cascadia Minerals"></div>
+      <div class="cl-logo"><img src="Logo/Clients/11_mongolia_ministry_of_construction.png" alt="Mongolia Ministry of Construction"></div>
+      <div class="cl-logo"><img src="Logo/Clients/12_german_aerospace_center_dlr.png" alt="German Aerospace Center DLR"></div>
+      <div class="cl-logo"><img src="Logo/Clients/13_southgobi_resources.png" alt="SouthGobi Resources"></div>
+      <div class="cl-logo"><img src="Logo/Clients/14_areva.png" alt="Areva"></div>
+      <div class="cl-logo"><img src="Logo/Clients/15_deloitte.png" alt="Deloitte"></div>
+      <div class="cl-logo"><img src="Logo/Clients/16_magnetic_survey_llc.png" alt="Magnetic Survey LLC"></div>
+      <div class="cl-logo"><img src="Logo/Clients/17_hpl.png" alt="HPL"></div>
+      <div class="cl-logo"><img src="Logo/Clients/18_imperial_mining_group.png" alt="Imperial Mining Group"></div>
+      <div class="cl-logo"><img src="Logo/Clients/19_sos_medica_mongolia.png" alt="SOS Medica Mongolia"></div>
+      <div class="cl-logo"><img src="Logo/Clients/20_mongolia_land_administration_agency.png" alt="Mongolia Land Administration Agency"></div>
+      <div class="cl-logo"><img src="Logo/Clients/21_wild_mongolia.png" alt="Wild Mongolia"></div>
+      <div class="cl-logo"><img src="Logo/Clients/22_nomadic_expedition.png" alt="Nomadic Expedition"></div>
+      <div class="cl-logo"><img src="Logo/Clients/23_new_juulchin_tour.png" alt="New Juulchin Tour"></div>
+      <div class="cl-logo"><img src="Logo/Clients/24_ulaanbaatar_city_council.png" alt="Ulaanbaatar City Council"></div>
+      <!-- set 2 — duplicate for seamless loop -->
+      <div class="cl-logo"><img src="Logo/Clients/01_centerra_gold.png" alt="Centerra Gold"></div>
+      <div class="cl-logo"><img src="Logo/Clients/02_voyager_resources.png" alt="Voyager Resources"></div>
+      <div class="cl-logo"><img src="Logo/Clients/03_bhp.png" alt="BHP Billiton"></div>
+      <div class="cl-logo"><img src="Logo/Clients/04_cameco.png" alt="Cameco"></div>
+      <div class="cl-logo"><img src="Logo/Clients/05_rio_tinto.png" alt="Rio Tinto"></div>
+      <div class="cl-logo"><img src="Logo/Clients/06_mongolia_ministry_of_mining.png" alt="Mongolia Ministry of Mining"></div>
+      <div class="cl-logo"><img src="Logo/Clients/07_erdenet_mining_corporation.png" alt="Erdenet Mining Corporation"></div>
+      <div class="cl-logo"><img src="Logo/Clients/08_oyu_tolgoi.png" alt="Oyu Tolgoi"></div>
+      <div class="cl-logo"><img src="Logo/Clients/09_ivanhoe_mines.png" alt="Ivanhoe Mines"></div>
+      <div class="cl-logo"><img src="Logo/Clients/10_cascadia_minerals.png" alt="Cascadia Minerals"></div>
+      <div class="cl-logo"><img src="Logo/Clients/11_mongolia_ministry_of_construction.png" alt="Mongolia Ministry of Construction"></div>
+      <div class="cl-logo"><img src="Logo/Clients/12_german_aerospace_center_dlr.png" alt="German Aerospace Center DLR"></div>
+      <div class="cl-logo"><img src="Logo/Clients/13_southgobi_resources.png" alt="SouthGobi Resources"></div>
+      <div class="cl-logo"><img src="Logo/Clients/14_areva.png" alt="Areva"></div>
+      <div class="cl-logo"><img src="Logo/Clients/15_deloitte.png" alt="Deloitte"></div>
+      <div class="cl-logo"><img src="Logo/Clients/16_magnetic_survey_llc.png" alt="Magnetic Survey LLC"></div>
+      <div class="cl-logo"><img src="Logo/Clients/17_hpl.png" alt="HPL"></div>
+      <div class="cl-logo"><img src="Logo/Clients/18_imperial_mining_group.png" alt="Imperial Mining Group"></div>
+      <div class="cl-logo"><img src="Logo/Clients/19_sos_medica_mongolia.png" alt="SOS Medica Mongolia"></div>
+      <div class="cl-logo"><img src="Logo/Clients/20_mongolia_land_administration_agency.png" alt="Mongolia Land Administration Agency"></div>
+      <div class="cl-logo"><img src="Logo/Clients/21_wild_mongolia.png" alt="Wild Mongolia"></div>
+      <div class="cl-logo"><img src="Logo/Clients/22_nomadic_expedition.png" alt="Nomadic Expedition"></div>
+      <div class="cl-logo"><img src="Logo/Clients/23_new_juulchin_tour.png" alt="New Juulchin Tour"></div>
+      <div class="cl-logo"><img src="Logo/Clients/24_ulaanbaatar_city_council.png" alt="Ulaanbaatar City Council"></div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-site px-6 md:px-10 pb-20 md:pb-28 pt-10 reveal">
+    <p class="text-xs font-medium tracking-widest text-ink/30 uppercase" data-i18n="i.cl-stat">300+ projects completed across Mongolia, India &amp; the broader Asia-Pacific region</p>
+  </div>
+</section>
+<style>
+.cl-logo{
+  display:inline-flex;align-items:center;justify-content:center;
+  padding:0 40px;height:96px;
+  border-right:1px solid rgba(8,11,16,0.07);
+  flex-shrink:0;
+}
+.cl-logo img{
+  height:52px;width:auto;max-width:140px;
+  object-fit:contain;
+  filter:grayscale(1) opacity(0.5);
+  mix-blend-mode:multiply;
+  transition:filter .3s;
+}
+.cl-logo:hover img{filter:grayscale(0) opacity(1);}
+#ct1{animation:marquee-fwd 30s linear infinite;}
+#ct1:hover{animation-play-state:paused;}
+@keyframes marquee-fwd{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+</style>
+<section class="mx-auto max-w-site px-6 md:px-10 pb-28 md:pb-40">
+  <div class="reveal relative overflow-hidden rounded-2xl border border-geo/20 px-8 py-16 md:px-16 md:py-24" style="background:linear-gradient(135deg,#1B3A6B 0%,#0E2440 50%,#0A1A30 100%)">
+    <div class="pointer-events-none absolute inset-0 data-grid opacity-20"></div>
+    <div class="pointer-events-none absolute -right-24 -top-24 h-96 w-96 rounded-full bg-geo/25 blur-3xl"></div>
+    <div class="pointer-events-none absolute -left-16 bottom-0 h-64 w-64 rounded-full bg-geo/15 blur-3xl"></div>
+    <div class="relative flex flex-col items-start gap-6">
+      <span class="eyebrow" data-i18n="i.cta-ey">Request a proposal</span>
+      <h2 class="display-lg max-w-2xl text-white" data-i18n="i.cta-h2">Ready to start your next mission?</h2>
+      <p class="lede max-w-xl" data-i18n="i.cta-p">Send us the block, the corridor or the deployment. We'll come back with a flight plan and a proposal.</p>
+      <a class='mt-2 inline-flex items-center gap-2 rounded-md bg-geo px-6 py-3.5 label text-white hover:bg-geo-bright transition' data-i18n='i.cta-btn' href='/contact'>Get a Quote
+        <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></a>
+    </div>
+  </div>
+</section>
+<!-- News carousel -->
+<section class="border-b border-white/10 bg-carbon">
+  <div class="mx-auto max-w-site px-6 md:px-10 pt-20 md:pt-28 pb-20 md:pb-28">
+    <div class="flex items-center gap-4 mb-10 reveal">
+      <span class="eyebrow" data-i18n="i.news-ey">Latest news</span>
+      <span class="h-px flex-1 bg-white/10"></span>
+      <a class='label text-white/50 hover:text-white transition hidden sm:block' href='/news'>All news</a>
+      <div class="flex gap-2">
+        <button id="news-prev" aria-label="Previous" class="grid h-9 w-9 place-items-center rounded-full border border-white/15 text-white/90 hover:border-white/40 hover:text-white transition">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
+        </button>
+        <button id="news-next" aria-label="Next" class="grid h-9 w-9 place-items-center rounded-full border border-white/15 text-white/90 hover:border-white/40 hover:text-white transition">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M6 3l5 5-5 5"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="overflow-hidden">
+      <div id="news-track" class="flex gap-6 transition-transform duration-500 ease-[cubic-bezier(.16,1,.3,1)]">
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/news#tavan-tolgoi'><span class="label text-geo-bright">Aviation &middot; 2025</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">GEOSAN awarded Tavan Tolgoi Airport management contract</h3><p class="text-sm font-light leading-relaxed text-white/70">GEOSAN has been contracted to manage full airport operations at Tavan Tolgoi, covering airside, ground handling, terminal and aeronavigation services.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/news#india-survey'><span class="label text-geo-bright">Geophysics &middot; 2024</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">New airborne instruments deployed in Tamil Nadu, India</h3><p class="text-sm font-light leading-relaxed text-white/70">GEOSAN's G-822A magnetometer and RSX-5 spectrometer completed their first international deployment, conducting surveys over Tamil Nadu with our own crew and aircraft.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/news#mcaa-renewal'><span class="label text-geo-bright">Maintenance &middot; 2024</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">MCAA Part 145 MRO licence renewed and expanded</h3><p class="text-sm font-light leading-relaxed text-white/70">Our maintenance organisation approval has been renewed by the Mongolian Civil Aviation Authority, confirming our authorisation for scheduled and unscheduled work on third-party aircraft.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/air-charter'><span class="label text-geo-bright">Fleet &middot; 2024</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">Two Airbus H145 helicopters join the GEOSAN fleet</h3><p class="text-sm font-light leading-relaxed text-white/70">GEOSAN has taken delivery of two Airbus H145 twin-engine helicopters, extending our operational reach to terrain inaccessible by fixed-wing aircraft.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/geospatial-solutions'><span class="label text-geo-bright">Mapping &middot; 2024</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">45% of Mongolia mapped at 1:20 000 scale</h3><p class="text-sm font-light leading-relaxed text-white/70">GEOSAN's national mapping programme has now covered nearly half of Mongolia's territory, delivering survey-grade orthophotos and topographic maps to government and industry clients.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+        <a class='news-card group shrink-0 w-80 rounded-2xl border border-white/10 bg-void p-7 flex flex-col gap-4 hover:border-white/25 hover:bg-white/[0.04] transition' href='/air-charter'><span class="label text-geo-bright">Training &middot; Coming soon</span><h3 class="font-display font-semibold text-white text-lg leading-snug flex-1">GEOSAN Aviation Training Organisation (ATO) in development</h3><p class="text-sm font-light leading-relaxed text-white/70">We are developing an MCAA-approved ATO to deliver type ratings, recurrent training and ground school programmes to aviation professionals across Mongolia.</p><span class="label text-geo-bright/60 group-hover:text-geo-bright transition flex items-center gap-1">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 16 16"><path d="M5 11L11 5M11 5H6M11 5V10"/></svg></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+(function(){
+  var track = document.getElementById('news-track');
+  var prev  = document.getElementById('news-prev');
+  var next  = document.getElementById('news-next');
+  if(!track||!prev||!next) return;
+
+  var cards   = track.querySelectorAll('.news-card');
+  var total   = cards.length;
+  var idx     = 0;
+  var cardW   = 0;
+  var gap     = 24;
+  var visible = 1;
+
+  function measure(){
+    cardW   = cards[0].offsetWidth;
+    var cw  = track.parentElement.offsetWidth;
+    visible = Math.max(1, Math.floor((cw + gap) / (cardW + gap)));
+  }
+
+  function clamp(n){ return Math.max(0, Math.min(n, total - visible)); }
+
+  function go(n){
+    idx = clamp(n);
+    track.style.transform = 'translateX(-' + (idx * (cardW + gap)) + 'px)';
+    prev.style.opacity = idx === 0 ? '0.3' : '1';
+    next.style.opacity = idx >= total - visible ? '0.3' : '1';
+  }
+
+  measure();
+  go(0);
+
+  prev.addEventListener('click', function(){ go(idx - 1); });
+  next.addEventListener('click', function(){ go(idx + 1); });
+  window.addEventListener('resize', function(){ measure(); go(idx); });
+})();
+</script>
+
+<footer class="border-t border-white/10 bg-void">
+  <div class="mx-auto grid max-w-site gap-12 px-6 md:px-10 py-16 md:grid-cols-[1.5fr_1fr_1fr] md:py-20">
+    <div class="flex flex-col gap-5">
+      <div class="flex items-center"><img src="images/logo-white-h.png" alt="GEOSAN" class="h-9 w-auto"></div>
+      <p class="max-w-sm text-sm font-light leading-relaxed text-white/80" data-i18n="f.desc">Providers of quality aviation and geo-professional services. Ground and airborne geophysics, aerial geospatial solutions and charter flight operations across Mongolia since 1996.</p>
+      <p class="label text-white/30" data-i18n="f.addr">Rokmon Office Center 508, Ulaanbaatar, Mongolia</p>
+      <div class="flex gap-3 mt-1">
+        <a href="https://www.facebook.com/GeosanMn" target="_blank" rel="noopener" aria-label="GEOSAN on Facebook" class="grid h-8 w-8 place-items-center rounded-full border border-white/10 text-white/40 hover:border-white/30 hover:text-white transition">
+          <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+        </a>
+        <a href="https://mn.linkedin.com/company/geosan-llc" target="_blank" rel="noopener" aria-label="GEOSAN on LinkedIn" class="grid h-8 w-8 place-items-center rounded-full border border-white/10 text-white/40 hover:border-white/30 hover:text-white transition">
+          <svg width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+        </a>
+      </div>
+    </div>
+    <div class="flex flex-col gap-4"><span class="label text-white/40" data-i18n="f.svcs">Services</span>
+      <a class='text-sm font-light text-white/60 hover:text-white' data-i18n='f.l1' href='/air-charter'>Aviation Services</a>
+      <a class='text-sm font-light text-white/60 hover:text-white' data-i18n='f.l2' href='/geophysics'>Airborne &amp; Ground Geophysics</a>
+      <a class='text-sm font-light text-white/60 hover:text-white' data-i18n='f.l3' href='/geospatial-solutions'>Geospatial Solutions</a>
+    </div>
+    <div class="flex flex-col gap-4"><span class="label text-white/40" data-i18n="f.co">Company</span>
+      <a class='text-sm font-light text-white/60 hover:text-white' data-i18n='f.l4' href='/about'>About &amp; History</a>
+      <a class='text-sm font-light text-white/60 hover:text-white' data-i18n='f.l5' href='/contact'>Contact</a>
+      <a class="text-sm font-light text-white/60 hover:text-white" href="mailto:info@geosan.mn">info@geosan.mn</a>
+    </div>
+  </div>
+  <div class="border-t border-white/[0.06]"><div class="mx-auto flex max-w-site flex-col items-start justify-between gap-2 px-6 md:px-10 py-6 text-xs text-white/35 md:flex-row md:items-center"><span data-i18n="f.copy">В© 2026 GEOSAN LLC. All rights reserved.</span><span class="label" data-i18n="f.tag">Precision from above</span></div></div>
+</footer>
+<script>
+// GEOSAN — shared behavior across all pages
+(function(){
+  // Nav scroll state
+  var nav=document.getElementById('nav');
+  if(nav){ addEventListener('scroll',function(){ if(scrollY>24){nav.classList.add('bg-void/80','backdrop-blur-md','border-white/10');}else{nav.classList.remove('bg-void/80','backdrop-blur-md','border-white/10');} },{passive:true}); }
+
+  // Mobile menu
+  var burger=document.getElementById('burger'), mobile=document.getElementById('mobile');
+  if(burger&&mobile){ burger.onclick=function(){ mobile.classList.toggle('hidden'); }; }
+
+  // Smooth in-page scrolling with fixed-header offset; close mobile menu on click
+  document.querySelectorAll('a[data-scroll]').forEach(function(a){
+    a.addEventListener('click',function(e){
+      var id=a.getAttribute('href');
+      if(!id||id.charAt(0)!=='#') return;
+      var t=document.querySelector(id); if(!t) return;
+      e.preventDefault();
+      var reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+      t.scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'});
+      if(mobile&&!mobile.classList.contains('hidden')) mobile.classList.add('hidden');
+      history.replaceState(null,'',id);
+    });
+  });
+
+  // Hero survey-field (only if present)
+  var cg=document.getElementById('contours');
+  if(cg){ for(var r=0;r<8;r++){var e=document.createElementNS('http://www.w3.org/2000/svg','ellipse');e.setAttribute('cx',600);e.setAttribute('cy',320);e.setAttribute('rx',90+r*78);e.setAttribute('ry',50+r*44);cg.appendChild(e);} }
+  var gr=document.getElementById('grid');
+  if(gr){ for(var i=0;i<13;i++){var x=60+i*60;var l=document.createElementNS('http://www.w3.org/2000/svg','line');l.setAttribute('x1',x);l.setAttribute('y1',40);l.setAttribute('x2',x);l.setAttribute('y2',720);l.setAttribute('stroke','#0077FF');l.setAttribute('stroke-width','1');l.setAttribute('class','sf-line');l.style.animationDelay=(i*0.18)+'s';gr.appendChild(l);} }
+
+  // Reveal on scroll
+  var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);}});},{rootMargin:'-60px'});
+  document.querySelectorAll('.reveal:not(.in),.reveal-left:not(.in),.reveal-right:not(.in),.reveal-scale:not(.in)').forEach(function(el){io.observe(el);});
+
+  // Animated counters
+  var cio=new IntersectionObserver(function(es){es.forEach(function(en){ if(en.isIntersecting){ var el=en.target,target=+el.dataset.count,suf=el.dataset.suffix||'',t0=performance.now(),dur=1700;
+    var tick=function(n){var p=Math.min((n-t0)/dur,1),v=Math.floor((1-Math.pow(1-p,3))*target);el.textContent=v.toLocaleString()+suf;if(p<1)requestAnimationFrame(tick);else el.textContent=target.toLocaleString()+suf;};
+    requestAnimationFrame(tick);cio.unobserve(el);} });},{rootMargin:'-80px'});
+  document.querySelectorAll('[data-count]').forEach(function(el){cio.observe(el);});
+
+  // Contact form (front-end only)
+  var form=document.getElementById('quote-form');
+  if(form){ form.addEventListener('submit',function(e){ e.preventDefault(); var ok=document.getElementById('form-ok'); if(ok) ok.classList.remove('hidden'); form.reset(); }); }
+
+  // Click-to-reveal sector image panel (xcalibur-style toggle)
+  var tabs=document.querySelectorAll('.sector-tab');
+  var sectorImg=document.getElementById('sector-img'), sectorCaption=document.getElementById('sector-caption');
+  if(tabs.length&&sectorImg){
+    tabs.forEach(function(btn){
+      btn.addEventListener('click',function(){
+        if(btn.classList.contains('is-active')) return;
+        tabs.forEach(function(b){b.classList.remove('is-active');});
+        btn.classList.add('is-active');
+        sectorImg.style.opacity=0;
+        setTimeout(function(){
+          sectorImg.src=btn.dataset.img;
+          sectorCaption.textContent=btn.dataset.caption;
+          sectorImg.style.opacity=1;
+        },220);
+      });
+    });
+  }
+})();
+
+</script>
+<script src="lang.js?v=3"></script>
+
+</body>
+</html>
+
+
+
+
+
+

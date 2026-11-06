@@ -1,0 +1,130 @@
+{
+  "id": "southernsky-about",
+  "url": "https://hisky.kz/about/",
+  "retrievedAt": "2026-11-06T08:29:59.981251+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://hisky.kz/about/",
+  "bytes": 16944,
+  "sha256": "1617004130a529607881ce961b6c8dcbb05968810719810bb137545848bda758",
+  "file": "sources/neighbours-2026-11-06/southernsky-about.html",
+  "title": "О нас - Авиакомпания \"Южное Небо\"",
+  "links": [
+    {
+      "text": "На главную Поиск билетов",
+      "url": "https://hisky.kz/about/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Чартерные рейсы Аренда ВС",
+      "url": "https://hisky.kz/frakht-vs/",
+      "lang": ""
+    },
+    {
+      "text": "Корпоративный сайт Вход для агентов",
+      "url": "https://sale.hisky.kz",
+      "lang": ""
+    },
+    {
+      "text": "Предложения Выгодные цены на билеты",
+      "url": "https://hisky.kz/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Мои заказы Посмотреть историю заказов",
+      "url": "https://hisky.kz/about/#orders",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам Информационная поддержка",
+      "url": "https://hisky.kz/support/",
+      "lang": ""
+    },
+    {
+      "text": "Публичная оферта Договор между сторонами",
+      "url": "https://hisky.kz/publichnaya-oferta/",
+      "lang": ""
+    },
+    {
+      "text": "О нас Информация о Hi Sky Airlines",
+      "url": "https://hisky.kz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Hi Sky",
+      "url": "https://hisky.kz/",
+      "lang": ""
+    },
+    {
+      "text": "главная",
+      "url": "https://hisky.kz/#tickets",
+      "lang": ""
+    },
+    {
+      "text": "Направления",
+      "url": "https://hisky.kz/#deals",
+      "lang": ""
+    },
+    {
+      "text": "Помощь",
+      "url": "https://hisky.kz/support/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://hisky.kz/about/",
+      "lang": ""
+    },
+    {
+      "text": "Публичная оферта",
+      "url": "https://hisky.kz/publichnaya-oferta/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/southern_sky_airlines/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://wa.me/77775025184",
+      "lang": ""
+    },
+    {
+      "text": "Don't have a profile yet? Create",
+      "url": "https://hisky.kz/about/#registration-popup",
+      "lang": ""
+    },
+    {
+      "text": "Don't have a profile yet? Create",
+      "url": "https://hisky.kz/about/#registration-popup",
+      "lang": ""
+    },
+    {
+      "text": "Forgot password?",
+      "url": "https://hisky.kz/about/#reset-popup",
+      "lang": ""
+    },
+    {
+      "text": "Bak to login",
+      "url": "https://hisky.kz/about/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Back to login",
+      "url": "https://hisky.kz/about/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Bak to login",
+      "url": "https://hisky.kz/about/#login-popup",
+      "lang": ""
+    },
+    {
+      "text": "Back to login",
+      "url": "https://hisky.kz/about/#login-popup",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/southernsky-about.txt"
+}

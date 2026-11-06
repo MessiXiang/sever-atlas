@@ -1,0 +1,6 @@
+{
+  "id": "ge-police-tusheti",
+  "url": "https://www.google.com/goto?url=CAES3AEBxCJF1wl8HmQ_kQbjBJixAUgZIRXmnNoMgodK2D5EQRoPoTfK6WkDsFvk9W56ZSBjMVpNyCV3-sU-HCCK4_N5FF643YS5w8czOMMWSgB7Nm8TuTGrQNf9PS_p3BOy7X25DpqQjW1Kgwy4lp856HTYK7wuEZMZ-1GVGBNfPjrtpKhyn-ZhFkgscl0RtqRVnTZTn-7AhOn256kXf0JTpbmpizDT9oO2wSy7nZHANTZSa77XjClrlL8iBvN63uNosScgC-_C60ATxxufyKtAWrn6hng5jh8IOuNyqQfv",
+  "retrievedAt": "2026-11-06T10:15:33.010488+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://www.google.com/goto?url=CAES3AEBxCJF1wl8HmQ_kQbjBJixAUgZIRXmnNoMgodK2D5EQRoPoTfK6WkDsFvk9W56ZSBjMVpNyCV3-sU-HCCK4_N5FF643YS5w8czOMMWSgB7Nm8TuTGrQNf9PS_p3BOy7X25DpqQjW1Kgwy4lp856HTYK7wuEZMZ-1GVGBNfPjrtpKhyn-ZhFkgscl0RtqRVnTZTn-7AhOn256kXf0JTpbmpizDT9oO2wSy7nZHANTZSa77XjClrlL8iBvN63uNosScgC-_C60ATxxufyKtAWrn6hng5jh8IOuNyqQfv']' returned non-zero exit status 28."
+}

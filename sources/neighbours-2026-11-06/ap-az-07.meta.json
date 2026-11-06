@@ -1,0 +1,2489 @@
+{
+  "id": "ap-az-07",
+  "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+  "retrievedAt": "2026-11-06T08:39:10.699480+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+  "bytes": 223787,
+  "sha256": "fc160b4b5a6b1abec71adeacf6a87f2515b036d7eab101d372d1736e8b93fb5b",
+  "file": "sources/neighbours-2026-11-06/ap-az-07.html",
+  "title": "Stepanakert Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Stepanakert+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Stepanakert+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Stepanakert+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Stepanakert+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 Facilities",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#Facilities",
+      "lang": ""
+    },
+    {
+      "text": "2 History",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Renovation",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#Renovation",
+      "lang": ""
+    },
+    {
+      "text": "2.2 Reactions",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#Reactions",
+      "lang": ""
+    },
+    {
+      "text": "3 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 Notes",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#Notes",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Asturianu",
+      "url": "https://ast.wikipedia.org/wiki/Aeropuertu_de_Stepanakert",
+      "lang": "ast"
+    },
+    {
+      "text": "Azərbaycanca",
+      "url": "https://az.wikipedia.org/wiki/Xocal%C4%B1_Hava_Liman%C4%B1",
+      "lang": "az"
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Stepanakert",
+      "lang": "de"
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Aeropuerto_de_Joyal%C3%AD",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A7%D8%B3%D8%AA%D9%BE%D8%A7%D9%86%D8%A7%DA%A9%D8%B1%D8%AA",
+      "lang": "fa"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Stepanakert",
+      "lang": "fr"
+    },
+    {
+      "text": "Հայերեն",
+      "url": "https://hy.wikipedia.org/wiki/%D5%8D%D5%BF%D5%A5%D6%83%D5%A1%D5%B6%D5%A1%D5%AF%D5%A5%D6%80%D5%BF%D5%AB_%D6%85%D5%A4%D5%A1%D5%B6%D5%A1%D5%BE%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6",
+      "lang": "hy"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Stepanakert",
+      "lang": "it"
+    },
+    {
+      "text": "ქართული",
+      "url": "https://ka.wikipedia.org/wiki/%E1%83%AE%E1%83%90%E1%83%9C%E1%83%A5%E1%83%94%E1%83%9C%E1%83%93%E1%83%98%E1%83%A1_%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%98",
+      "lang": "ka"
+    },
+    {
+      "text": "한국어",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%8C%ED%8C%8C%EB%82%98%EC%BC%80%EB%A5%B4%ED%8A%B8_%EA%B3%B5%ED%95%AD",
+      "lang": "ko"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Stepanakert",
+      "lang": "ms"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Port_lotniczy_Stepanakert",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82",
+      "lang": "ru"
+    },
+    {
+      "text": "Slovenščina",
+      "url": "https://sl.wikipedia.org/wiki/Letali%C5%A1%C4%8De_Stepanakert",
+      "lang": "sl"
+    },
+    {
+      "text": "Тоҷикӣ",
+      "url": "https://tg.wikipedia.org/wiki/%D0%A5%D0%BE%D2%B7%D0%B0%D0%BB%D3%A3_(%D1%84%D1%83%D1%80%D1%83%D0%B4%D0%B3%D0%BE%D2%B3)",
+      "lang": "tg"
+    },
+    {
+      "text": "ไทย",
+      "url": "https://th.wikipedia.org/wiki/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B9%80%E0%B8%94%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%8C%E0%B8%95",
+      "lang": "th"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/Hocal%C4%B1_Havaliman%C4%B1",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8_(%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "uk"
+    },
+    {
+      "text": "中文",
+      "url": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E8%B3%88%E9%9B%B7%E6%A9%9F%E5%A0%B4",
+      "lang": "zh"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2526720#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "View source",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "View source",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&oldid=1371407396",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Stepanakert_Airport&id=1371407396&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FStepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Stepanakert_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2526720",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "39°54′05″N 46°47′13″E ﻿ / ﻿ 39.90139°N 46.78694°E ﻿ / 39.90139; 46.78694 ﻿ ( Stepanakert Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Stepanakert_Airport&params=39_54_05_N_46_47_13_E_region:AZ_type:airport&title=Stepanakert+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#extended",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Stepanakert_Airport_Daytime.JPG",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Khankendi",
+      "url": "https://en.wikipedia.org/wiki/Khankendi",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "AMSL",
+      "url": "https://en.wikipedia.org/wiki/Height_above_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "39°54′05″N 46°47′13″E ﻿ / ﻿ 39.90139°N 46.78694°E ﻿ / 39.90139; 46.78694 ﻿ ( Stepanakert Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Stepanakert_Airport&params=39_54_05_N_46_47_13_E_region:AZ_type:airport&title=Stepanakert+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Azerbaijan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Karabakh_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "Armenian",
+      "url": "https://en.wikipedia.org/wiki/Armenian_language",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijani",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+      "lang": ""
+    },
+    {
+      "text": "airport",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khojaly",
+      "url": "https://en.wikipedia.org/wiki/Khojaly_(town)",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert",
+      "lang": ""
+    },
+    {
+      "text": "Nagorno-Karabakh",
+      "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "First Nagorno-Karabakh War",
+      "url": "https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War",
+      "lang": ""
+    },
+    {
+      "text": "Republic of Artsakh",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
+      "lang": ""
+    },
+    {
+      "text": "2023 Azerbaijani offensive in Nagorno-Karabakh",
+      "url": "https://en.wikipedia.org/wiki/2023_Azerbaijani_offensive_in_Nagorno-Karabakh",
+      "lang": ""
+    },
+    {
+      "text": "elevation",
+      "url": "https://en.wikipedia.org/wiki/Elevation",
+      "lang": ""
+    },
+    {
+      "text": "mean sea level",
+      "url": "https://en.wikipedia.org/wiki/Mean_sea_level",
+      "lang": ""
+    },
+    {
+      "text": "runway",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-WAD-1",
+      "lang": ""
+    },
+    {
+      "text": "Yerevan",
+      "url": "https://en.wikipedia.org/wiki/Yerevan",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan SSR",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_SSR",
+      "lang": ""
+    },
+    {
+      "text": "Armenian SSR",
+      "url": "https://en.wikipedia.org/wiki/Armenian_SSR",
+      "lang": ""
+    },
+    {
+      "text": "Nagorno-Karabakh Autonomous Oblast",
+      "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_Autonomous_Oblast",
+      "lang": ""
+    },
+    {
+      "text": "ceasefire agreement",
+      "url": "https://en.wikipedia.org/wiki/Bishkek_Protocol",
+      "lang": ""
+    },
+    {
+      "text": "First Nagorno-Karabakh War",
+      "url": "https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-asbarezarticle-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-RFE_January_27,_2011-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-asbarezarticle-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-new_launch_date-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-new_launch_date-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "Arif Mammadov",
+      "url": "https://en.wikipedia.org/wiki/Arif_Mammadov",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan's Civil Aviation Administration",
+      "url": "https://en.wikipedia.org/wiki/State_Civil_Aviation_Administration_(Azerbaijan)",
+      "lang": ""
+    },
+    {
+      "text": "aviation laws",
+      "url": "https://en.wikipedia.org/wiki/Aviation_law",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "David Babayan",
+      "url": "https://en.wikipedia.org/wiki/David_Babayan",
+      "lang": ""
+    },
+    {
+      "text": "Nagorno-Karabakh Defense Army",
+      "url": "https://en.wikipedia.org/wiki/Artsakh_Defense_Army",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-AN-11",
+      "lang": ""
+    },
+    {
+      "text": "President of Armenia",
+      "url": "https://en.wikipedia.org/wiki/President_of_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Serzh Sargsyan",
+      "url": "https://en.wikipedia.org/wiki/Serzh_Sargsyan",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-1stpassenger-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-1stpassenger-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "United States",
+      "url": "https://en.wikipedia.org/wiki/United_States",
+      "lang": ""
+    },
+    {
+      "text": "Assistant Secretary",
+      "url": "https://en.wikipedia.org/wiki/Assistant_Secretary",
+      "lang": ""
+    },
+    {
+      "text": "Philip H. Gordon",
+      "url": "https://en.wikipedia.org/wiki/Philip_H._Gordon",
+      "lang": ""
+    },
+    {
+      "text": "Matthew Bryza",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Bryza",
+      "lang": ""
+    },
+    {
+      "text": "Marie L. Yovanovitch",
+      "url": "https://en.wikipedia.org/wiki/Marie_L._Yovanovitch",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "OSCE",
+      "url": "https://en.wikipedia.org/wiki/OSCE",
+      "lang": ""
+    },
+    {
+      "text": "Minsk Group",
+      "url": "https://en.wikipedia.org/wiki/Minsk_Group",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Richard Morningstar",
+      "url": "https://en.wikipedia.org/wiki/Richard_Morningstar",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:NK-parad-6-1200.png",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Foreign Minister",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Turkey)",
+      "lang": ""
+    },
+    {
+      "text": "Ahmet Davutoğlu",
+      "url": "https://en.wikipedia.org/wiki/Ahmet_Davutoğlu",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "GUAM",
+      "url": "https://en.wikipedia.org/wiki/GUAM_Organization_for_Democracy_and_Economic_Development",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Parliamentary Assembly of the Council of Europe",
+      "url": "https://en.wikipedia.org/wiki/Parliamentary_Assembly_of_the_Council_of_Europe",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Yerevan",
+      "url": "https://en.wikipedia.org/wiki/Yerevan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-RFE_January_27,_2011-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-asb-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-nouv-27",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-29",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-avia-30",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-asb-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-nouv-27",
+      "lang": ""
+    },
+    {
+      "text": "Bombardier CRJ200",
+      "url": "https://en.wikipedia.org/wiki/Bombardier_CRJ200",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-RFE_January_27,_2011-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-asbarezarticle-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "Aviation portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Nuvola_apps_ksysv_square.svg",
+      "lang": ""
+    },
+    {
+      "text": "Transport portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Transport",
+      "lang": ""
+    },
+    {
+      "text": "Transport in the Nagorno-Karabakh Republic",
+      "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_Republic#Transportation",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Armenia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-WAD_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-WAD_1-1",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "DAFIF",
+      "url": "https://en.wikipedia.org/wiki/DAFIF",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-asbarezarticle_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-asbarezarticle_2-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-asbarezarticle_2-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Karabakh To Reopen Stepanakert Airport\"",
+      "url": "http://asbarez.com/blog/86176/karabakh-to-reopen-stepanakert-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Asbarez",
+      "url": "https://en.wikipedia.org/wiki/Asbarez",
+      "lang": ""
+    },
+    {
+      "text": "cite news",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_news",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-RFE_January_27,_2011_3-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-RFE_January_27,_2011_3-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-RFE_January_27,_2011_3-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Nagorno-Karabakh Airport Preparing For First Flights In Decades\"",
+      "url": "https://www.rferl.org/a/nagorno_karabakh_airport_preparing_for_first_flights_in_decades/2288735.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110130222516/http://www.rferl.org/content/nagorno_karabakh_airport_preparing_for_first_flights_in_decades/2288735.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Stepanakert airport to work after 10-year break\"",
+      "url": "https://web.archive.org/web/20191007124101/https://news.am/eng/news/46625.html",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://news.am/eng/news/46625.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Nagorno-Karabakh Flights On Hold Despite Airport Reconstruction\"",
+      "url": "https://www.rferl.org/a/nagorno_karabakh_flights_hold_airport_reconstruction/24116168.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110518164852/http://www.rferl.org/content/nagorno_karabakh_flights_hold_airport_reconstruction/24116168.html",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-new_launch_date_6-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-new_launch_date_6-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Stepanakert airport to start operating before September\"",
+      "url": "http://int.armradio.am/?part=1&id=96678",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110727134700/http://int.armradio.am/?part=1&id=96678",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Construction works of Stepanakert airport underway\"",
+      "url": "http://news.am/eng/news/59382.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110522041735/http://news.am/eng/news/59382.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "\"Stepanakert airport opening postponed for 'technical reasons' \"",
+      "url": "https://web.archive.org/web/20110719224310/http://armenianow.com/karabakh_civil_aviation_airport",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://armenianow.com/karabakh/28773/karabakh_civil_aviation_airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan: Flights to Nagorno Karabakh Will Be Boarding at Gunpoint\"",
+      "url": "http://www.eurasianet.org/node/63094",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110321015824/http://www.eurasianet.org/node/63094",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Azerbaijan threatens to down Armenian flights\"",
+      "url": "http://www.hurriyetdailynews.com/n.php?n=azerbaijan-threatens-to-down-armenian-flights-2011-03-17",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110320023801/http://www.hurriyetdailynews.com/n.php?n=azerbaijan-threatens-to-down-armenian-flights-2011-03-17",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-AN_11-0",
+      "lang": ""
+    },
+    {
+      "text": "Air Message: Response to threats against the new airport in Stepanakert",
+      "url": "http://armenianow.com/karabakh/28436/azeri_threat_nkr_airport",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110719224219/http://armenianow.com/karabakh/28436/azeri_threat_nkr_airport",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-1stpassenger_12-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-1stpassenger_12-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Sarkisian Says He'll be 1st Passenger of the Yerevan-Stepanakert Flight\"",
+      "url": "http://asbarez.com/94544/sarkisian-says-he%E2%80%99ll-be-1st-passenger-of-the-yerevan-stepanakert-flight/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110412054841/http://asbarez.com/94544/sarkisian-says-he%E2%80%99ll-be-1st-passenger-of-the-yerevan-stepanakert-flight/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Armenian leader to defy plane attack threat\"",
+      "url": "http://www.hurriyetdailynews.com/n.php?n=armenian-leader-to-defy-plane-attack-threat-2011-03-31",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210204045712/https://www.hurriyetdailynews.com/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "Baku Retreats From Karabakh Flight Threats",
+      "url": "http://www.azatutyun.am/content/article/3544262.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20120321170021/http://www.azatutyun.am/content/article/3544262.html",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "Foreign Press Center With Philip H. Gordon, Assistant Secretary, Bureau of European and Eurasian Affairs",
+      "url": "https://turkey.usembassy.gov/pr_041911.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20150402144608/http://turkey.usembassy.gov/pr_041911.html",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "U.S. Department of State: threats to shoot down Karabakh-bound planes unacceptable",
+      "url": "http://www.panarmenian.net/eng/world/news/67788/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20150924103431/http://www.panarmenian.net/eng/world/news/67788/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "Security issues should be resolved before opening Stepanakert Airport - Mathew Bryza",
+      "url": "http://www.tert.am/en/news/2011/03/29/bryza-stepanakert-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20120318204850/http://www.tert.am/en/news/2011/03/29/bryza-stepanakert-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "U.S.: Armenia, Azerbaijan 'Must Pull Out Snipers'",
+      "url": "https://www.rferl.org/a/us_urges_armenia_azerbaijan_to_withdraw_snipers/2343653.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan’s statements quite unacceptable, U.S. Ambassador says",
+      "url": "http://news.am/eng/news/52467.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20190101105942/https://news.am/eng/news/52467.html",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "Statement of the OSCE Minsk Group Co-Chairs",
+      "url": "http://www.osce.org/mg/92189",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20130122015706/http://www.osce.org/mg/92189",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "State Department on Khojaly Airport: Ambassador Made Clearer Statement",
+      "url": "http://www.zerkalo.az/2012/gosdep-o-hodzhalinskom-aerodrome/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20150531160653/http://www.zerkalo.az/2012/gosdep-o-hodzhalinskom-aerodrome/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "Turkish Foreign Minister expresses his attitude to the Armenia’s plan to build Airport in the occupied territories",
+      "url": "http://en.apa.az/news.php?id=144768",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20120325182631/http://en.apa.az/news.php?id=144768",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"GUAM Secretary General Valeri Chechelashvil: \"The international airport can not operate in Nagorno Karabakh\" \"",
+      "url": "https://web.archive.org/web/20120325183017/http://en.apa.az/news.php?id=146461",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://en.apa.az/news.php?id=146461",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"The construction of an airport in the occupied Azerbaijani territories by Armenia\"",
+      "url": "http://assembly.coe.int/Main.asp?link=/Documents/WorkingDocs/Doc11/EDOC12590.htm",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110415180606/http://assembly.coe.int/Main.asp?link=%2FDocuments%2FWorkingDocs%2FDoc11%2FEDOC12590.htm",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "Türkiye Ermenistan`a hava sahasını kapatacak",
+      "url": "http://ermenihaber.am/?lang_id=1&news_=3&cur_news=183",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20140829234718/http://ermenihaber.am/?lang_id=1",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-asb_26-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-asb_26-1",
+      "lang": ""
+    },
+    {
+      "text": "Karabakh Gears Up For First Commercial Flights in Decades",
+      "url": "http://asbarez.com/92408/karabakh-gears-up-for-first-comercial-flights-in-decades/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-nouv_27-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-nouv_27-1",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert L’aéroport rouvre en mai après 20 ans de fermeture",
+      "url": "http://www.armenews.com/article.php3?id_article=66983",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20161130161212/http://www.armenews.com/article.php3?id_article=66983",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "Баку против \"Эйр Арцаха\"",
+      "url": "http://www.golosarmenii.am/ru/20080/headlines/8409/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20120317185523/http://www.golosarmenii.am/ru/20080/headlines/8409/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-29",
+      "lang": ""
+    },
+    {
+      "text": "Epress.am",
+      "url": "http://www.epress.am/2011/01/27/%D5%BD%D5%BF%D5%A5%D6%83%D5%A1%D5%B6%D5%A1%D5%AF%D5%A5%D6%80%D5%BF%E2%80%93%D5%A5%D6%80%D6%87%D5%A1%D5%B6-%D5%BD%D5%BF%D5%A5%D6%83%D5%A1%D5%B6%D5%A1%D5%AF%D5%A5%D6%80%D5%BF-%D5%A9%D5%BC%D5%AB%D5%B9/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-avia_30-0",
+      "lang": ""
+    },
+    {
+      "text": "Will May 9th mark victory for Artsakh Air?",
+      "url": "http://blog.aviasg.com/airlines-worldwide/will-may-9th-mark-victory-for-artsakh-air/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20110429071621/http://blog.aviasg.com/airlines-worldwide/will-may-9th-mark-victory-for-artsakh-air/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Karabakh's airport still waiting for takeoff | Eurasianet\"",
+      "url": "https://eurasianet.org/karabakhs-airport-still-waiting-for-takeoff",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert Airport",
+      "url": "https://commons.wikimedia.org/wiki/Category:Stepanakert%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "Stepanakert Airport: How Armenians Hoodwinked Soviet Azerbaijan and Rebuilt Vital Transport Link",
+      "url": "https://hetq.am/en/article/125991",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Baku",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ganja",
+      "url": "https://en.wikipedia.org/wiki/Ganja_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Lənkəran",
+      "url": "https://en.wikipedia.org/wiki/Lankaran_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Nakhchivan",
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Qəbələ",
+      "url": "https://en.wikipedia.org/wiki/Qabala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Füzuli",
+      "url": "https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Ağstafa",
+      "url": "https://en.wikipedia.org/wiki/Aghstafa_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balakən",
+      "url": "https://en.wikipedia.org/wiki/Balakan_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Laçın",
+      "url": "https://en.wikipedia.org/wiki/Lachin_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Xocalı",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Yevlax",
+      "url": "https://en.wikipedia.org/wiki/Yevlakh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zabrat",
+      "url": "https://en.wikipedia.org/wiki/Zabrat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zaqatala",
+      "url": "https://en.wikipedia.org/wiki/Zaqatala_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Zəngilan",
+      "url": "https://en.wikipedia.org/wiki/Zangilan_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Albania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Albania",
+      "lang": ""
+    },
+    {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Andorra",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Austria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Austria",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belarus",
+      "lang": ""
+    },
+    {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Belgium",
+      "lang": ""
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bosnia_and_Herzegovina",
+      "lang": ""
+    },
+    {
+      "text": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+      "lang": ""
+    },
+    {
+      "text": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Croatia",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Czech_Republic",
+      "lang": ""
+    },
+    {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Denmark",
+      "lang": ""
+    },
+    {
+      "text": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Estonia",
+      "lang": ""
+    },
+    {
+      "text": "Finland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Finland",
+      "lang": ""
+    },
+    {
+      "text": "France",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_France",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "Germany",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Germany",
+      "lang": ""
+    },
+    {
+      "text": "Greece",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Greece",
+      "lang": ""
+    },
+    {
+      "text": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hungary",
+      "lang": ""
+    },
+    {
+      "text": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iceland",
+      "lang": ""
+    },
+    {
+      "text": "Ireland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_Ireland",
+      "lang": ""
+    },
+    {
+      "text": "Italy",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Italy",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Latvia",
+      "lang": ""
+    },
+    {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Liechtenstein",
+      "lang": ""
+    },
+    {
+      "text": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lithuania",
+      "lang": ""
+    },
+    {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Luxembourg",
+      "lang": ""
+    },
+    {
+      "text": "Malta",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malta",
+      "lang": ""
+    },
+    {
+      "text": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Moldova",
+      "lang": ""
+    },
+    {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Monaco",
+      "lang": ""
+    },
+    {
+      "text": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Montenegro",
+      "lang": ""
+    },
+    {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Netherlands",
+      "lang": ""
+    },
+    {
+      "text": "North Macedonia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Macedonia",
+      "lang": ""
+    },
+    {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Norway",
+      "lang": ""
+    },
+    {
+      "text": "Poland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Poland",
+      "lang": ""
+    },
+    {
+      "text": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Portugal",
+      "lang": ""
+    },
+    {
+      "text": "Romania",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Romania",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "San Marino",
+      "url": "https://en.wikipedia.org/wiki/Torraccia_airfield",
+      "lang": ""
+    },
+    {
+      "text": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Serbia",
+      "lang": ""
+    },
+    {
+      "text": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovakia",
+      "lang": ""
+    },
+    {
+      "text": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Slovenia",
+      "lang": ""
+    },
+    {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
+      "lang": ""
+    },
+    {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sweden",
+      "lang": ""
+    },
+    {
+      "text": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Switzerland",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ukraine",
+      "lang": ""
+    },
+    {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Kingdom",
+      "lang": ""
+    },
+    {
+      "text": "Vatican City",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Vatican_City#Air_transport",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kosovo",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Transnistria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Transnistria",
+      "lang": ""
+    },
+    {
+      "text": "Åland",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Åland",
+      "lang": ""
+    },
+    {
+      "text": "Faroe Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Faroe_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Gibraltar",
+      "url": "https://en.wikipedia.org/wiki/Gibraltar_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Guernsey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Guernsey",
+      "lang": ""
+    },
+    {
+      "text": "Isle of Man",
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jersey",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Svalbard",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "Authority control databases",
+      "url": "https://en.wikipedia.org/wiki/Help:Authority_control",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikidata.org/wiki/Q2526720#identifiers",
+      "lang": ""
+    },
+    {
+      "text": "VIAF",
+      "url": "https://viaf.org/viaf/142088995",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://www.nli.org.il/en/authorities/987007480276005171",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&oldid=1371407396",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&oldid=1371407396",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Nagorno-Karabakh",
+      "url": "https://en.wikipedia.org/wiki/Category:Nagorno-Karabakh",
+      "lang": ""
+    },
+    {
+      "text": "Defunct airports",
+      "url": "https://en.wikipedia.org/wiki/Category:Defunct_airports",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia extended-confirmed-protected pages",
+      "url": "https://en.wikipedia.org/wiki/Category:Wikipedia_extended-confirmed-protected_pages",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Armenian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Armenian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Azerbaijani-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Azerbaijani-language_text",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: deprecated archival service",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Turkish-language sources (tr)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Turkish-language_sources_(tr)",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Stepanakert_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Stepanakert_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-az-07.txt"
+}

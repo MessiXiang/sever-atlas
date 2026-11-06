@@ -78,12 +78,19 @@
     }).join('')+'</section>';
   }
   const airportAccessNote = id => (A[id]?.accessPolicyIds || []).map(key => D.accessPolicies?.[key]).filter(Boolean).map(p => '<div class="airport-access '+(p.hideByDefault?'access-closed':'access-permit')+'"><b>'+esc(p.badge)+'</b><span>'+esc(p.hideByDefault?'普通外国旅客通常无法进入；俄罗斯公民亦须核实入区许可。':'可按规定申请许可；此提示不自动隐藏航班。')+'</span></div>').join('');
-  const flightLabel = f => f.number || '航班号未公布';
-  const bookingBadge = f => f.booking?.status === 'unverified' ? '<span class="badge warning">购票待确认</span>' : f.booking?.status === 'verified' && f.booking?.method.includes('二楼') ? '<span class="badge pending">机场柜台购票</span>' : '';
+  const isService = f => f.recordKind === 'service';
+  const aircraftEvidenceText = f => isService(f) ? '航线机型有来源 · 具体班次需确认' : states[f.status]?.[0] || '官网机型';
+  const recordCount = list => {
+    const services = list.filter(isService).length, times = list.length - services;
+    return [times || !services ? times + ' 条时刻' : '', services ? services + ' 条航线资料' : ''].filter(Boolean).join(' · ');
+  };
+  const flightLabel = f => isService(f) ? '航线资料' : f.number || '航班号未公布';
+  const bookingBadge = f => f.booking?.status === 'unverified' ? '<span class="badge warning">购票待确认</span>' : f.booking?.status === 'verified' && f.booking?.method?.includes('二楼') ? '<span class="badge pending">机场柜台购票</span>' : f.booking?.status === 'verified' && f.booking?.channel ? '<span class="badge ok">'+(f.booking.channel === 'online-office' ? '线上 / 柜台售票' : '公开售票')+'</span>' : '';
   const arrivalLabel = f => (f.arrival || '未公布') + (f.arrivalDayOffset > 0 ? ' (+' + f.arrivalDayOffset + ')' : f.arrivalDayOffset < 0 ? ' (' + f.arrivalDayOffset + ')' : '');
   const badge = f => {
       let [t, c] = states[f.status] || states.confirmed;
       if (hiddenForAccess(f)) return accessBadge(f);
+      if (isService(f)) return '<span class="badge pending">班期待确认</span>' + accessBadge(f);
       if (f.scheduleUnconfirmed) return '<span class="badge warning">'+(f.recurrence === 'seasonal-unconfirmed' ? '换季期间 · 日期待确认' : '适用日期待确认')+'</span>' + accessBadge(f);
       if (f.status === 'confirmed' && flightModels(f).length > 1) t = '候选机型范围';
       if (f.conflictDates?.length) {
@@ -98,7 +105,7 @@
     routeText = f => route(f).map(name).join(' → '),
     plainRoute = f => f.routeKind === 'circuit' ? name(f.from) + ' · 往返环线' : name(f.from) + ' → ' + name(f.to),
     heli = f => f.aircraft.every(x => x.startsWith('Mi'));
-  const daysText = f => f.scheduleUnconfirmed ? (f.recurrence === 'seasonal-unconfirmed' ? '换季期间' : '日期待确认') + (f.days.length ? ' · ' + (f.days.length === 7 ? '每日' : '周' + f.days.map(d => week[d]).join('/')) : '') : f.dates ? f.dates.filter(d => d >= baseDate && !f.unconfirmedDates?.includes(d)).length + ' 个日期' + (f.unconfirmedDates?.some(d => d >= baseDate) ? ' · '+f.unconfirmedDates.filter(d => d >= baseDate).length+' 待确认' : '') : f.recurrence === 'biweekly-unconfirmed' ? '隔周 · 周' + f.days.map(d => week[d]).join('/') : f.days.length === 7 ? '每日' : f.days.length ? '周' + f.days.map(d => week[d]).join(' / ') : '日期待确认';
+  const daysText = f => isService(f) ? '班期待确认' : f.scheduleUnconfirmed ? (f.recurrence === 'seasonal-unconfirmed' ? '换季期间' : '日期待确认') + (f.days.length ? ' · ' + (f.days.length === 7 ? '每日' : '周' + f.days.map(d => week[d]).join('/')) : '') : f.dates ? f.dates.filter(d => d >= baseDate && !f.unconfirmedDates?.includes(d)).length + ' 个日期' + (f.unconfirmedDates?.some(d => d >= baseDate) ? ' · '+f.unconfirmedDates.filter(d => d >= baseDate).length+' 待确认' : '') : f.recurrence === 'biweekly-unconfirmed' ? '隔周 · 周' + f.days.map(d => week[d]).join('/') : f.days.length === 7 ? '每日' : f.days.length ? '周' + f.days.map(d => week[d]).join(' / ') : '日期待确认';
 
   function activeOn(f, d) {
     if (f.scheduleUnconfirmed || f.unconfirmedDates?.includes(d) || (f.start && d < f.start) || (f.end && d > f.end)) return false;
@@ -136,7 +143,7 @@
       c = D.coverage.find(x => x.airlineId === id) || {};
     return [a.ru, a.en, a.zh, a.code, c.name, c.legal, ...(Search.airlineAliases[id] || [])]
   };
-  const searchCache = new Map(F.map(f => [f.id, Search.index([f.number, ...(f.numberAliases || []), types(f), sourceTypes(f), f.aircraftParent, ...airlineFields(f.airline), ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.sourceCode, A[id]?.ru, A[id]?.zh, A[id]?.en, A[id]?.nameOriginalRu, romanizedName(id)])])]));
+  const searchCache = new Map(F.map(f => [f.id, Search.index([f.number, ...(f.numberAliases || []), ...(f.tags || []), types(f), sourceTypes(f), f.aircraftParent, ...airlineFields(f.airline), ...route(f).flatMap(id => [id, A[id]?.iata, A[id]?.icao, A[id]?.sourceCode, A[id]?.country, A[id]?.countryZh, A[id]?.ru, A[id]?.zh, A[id]?.en, A[id]?.nameOriginalRu, romanizedName(id)])])]));
   const supplementalCoverage = Object.entries(AL).filter(([id]) => !D.coverage.some(c => c.airlineId === id)).map(([id,a]) => ({inn:'operator:'+id,airlineId:id,name:a.ru,zh:a.zh,url:a.url,review:'partial',note:a.note||'已录入官网时刻；此项为官网补查，未与俄文维基名录中的法人条目合并。',evidence:a.evidence||[]}));
   const coverageEntries = [...D.coverage, ...supplementalCoverage];
   const coverageSearchCache = new Map(coverageEntries.map(x => [x.inn, Search.index([x.name, x.legal, x.note, x.zh, x.url, ...(x.airlineId ? airlineFields(x.airlineId) : [])])]));
@@ -145,9 +152,9 @@
     limit = 35;
     const queryTerms = Search.terms(st.q);
     $('search').value = $('tableSearch').value = $('phoneSearch').value = st.q;
-    visible = F.filter(f => (st.private || (!hiddenForAccess(f) && f.publicAccess !== 'unverified')) && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || flightModels(f).includes(st.family) || modelFamily(f.aircraftParent) === st.family) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && flightModels(f).length === 1)) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
+    visible = F.filter(f => (st.private || (!hiddenForAccess(f) && f.publicAccess !== 'unverified')) && (!f.end || f.end >= baseDate) && (!st.q || Search.matches(searchCache.get(f.id), queryTerms)) && (!st.family || flightModels(f).includes(st.family) || modelFamily(f.aircraftParent) === st.family) && (!st.airline || f.airline === st.airline) && (!st.date || activeOn(f, st.date)) && (!st.day || f.days.includes(st.day)) && (!st.strict || (f.status === 'confirmed' && flightModels(f).length === 1 && !isService(f))) && (!st.airport || (st.airportMode === 'out' ? f.from === st.airport : st.airportMode === 'in' ? f.to === st.airport : route(f).includes(st.airport))));
     visible.sort((a, b) => (nextDates(a, 1)[0] || '9999').localeCompare(nextDates(b, 1)[0] || '9999') || (a.departure || '99').localeCompare(b.departure || '99') || a.number.localeCompare(b.number));
-    $('resultCount').textContent = visible.length + ' 条时刻';
+    $('resultCount').textContent = recordCount(visible);
     $('resultTitle').textContent = st.airport ? name(st.airport) : '已收录航班';
     $('selectedAirport').hidden = !st.airport;
     $('selectedAirport').innerHTML = st.airport ? `<button id="clearAirport">${esc(name(st.airport))} × 清除机场筛选</button><div class="airport-modes">${[['all','全部关联'],['out','从此出发'],['in','到达此处']].map(([v,t])=>'<button data-airport-mode="'+v+'" class="'+(st.airportMode===v?'active':'')+'">'+t+'</button>').join('')}</div>` : '';
@@ -164,16 +171,20 @@
     renderTable();
     renderMap();
     updatePhoneControls();
+    updateUrl();
+  }
+
+  function updateUrl() {
     let p = new URLSearchParams();
     for (let [k, v] of Object.entries(st))
-      if (v && k !== 'view') p.set(k, String(v));
+      if (v && (k !== 'view' || v !== 'explore')) p.set(k, String(v));
     try {
       history.replaceState(null, '', location.pathname + (p.size ? '?' + p : ''))
     } catch {}
   }
 
   function renderList() {
-    $('routeList').innerHTML = visible.length ? visible.slice(0, limit).map(f => `<button class="route-card" data-flight="${f.id}"><span class="route-top"><span>${esc(flightLabel(f))}</span><span class="aircraft-tag ${heli(f)?'heli':''}">${esc(types(f))}</span></span><span class="route-code">${esc(short(f.from))}<span class="arrow">${f.routeKind==='circuit'?'⟳':'→'}</span>${esc(f.routeKind==='circuit'?'环线':short(f.to))}</span><span class="route-names">${esc(plainRoute(f))}</span><span class="route-foot"><span>${f.departure||'待定'} — ${arrivalLabel(f)}</span><span>${esc(daysText(f))}</span></span><span class="route-evidence">${esc(AL[f.airline].zh)} ${badge(f)} ${bookingBadge(f)}</span></button>`).join('') + (visible.length > limit ? '<button class="load-more" id="loadMore">再显示更多航班 ↓</button>' : '') : '<div class="empty"><strong>没有匹配的已收录航班</strong>试试清除机场、机型或日期筛选。未查到不等于没有航班；请查看「收录与来源」。</div>';
+    $('routeList').innerHTML = visible.length ? visible.slice(0, limit).map(f => `<button class="route-card" data-flight="${f.id}"><span class="route-top"><span>${esc(flightLabel(f))}</span><span class="aircraft-tag ${heli(f)?'heli':''}">${esc(types(f))}</span></span><span class="route-code">${esc(short(f.from))}<span class="arrow">${f.routeKind==='circuit'?'⟳':'→'}</span>${esc(f.routeKind==='circuit'?'环线':short(f.to))}</span><span class="route-names">${esc(plainRoute(f))}</span><span class="route-foot"><span>${isService(f)?'时刻待公布':(f.departure||'待定')+' — '+arrivalLabel(f)}</span><span>${esc(daysText(f))}</span></span><span class="route-evidence">${esc(AL[f.airline].zh)} ${badge(f)} ${bookingBadge(f)}</span></button>`).join('') + (visible.length > limit ? '<button class="load-more" id="loadMore">再显示更多航班 ↓</button>' : '') : '<div class="empty"><strong>没有匹配的已收录航班</strong>试试清除机场、机型或日期筛选。未查到不等于没有航班；请查看「收录与来源」。</div>';
     $('loadMore')?.addEventListener('click', () => {
       limit += 35;
       renderList()
@@ -181,8 +192,8 @@
   }
 
   function renderTable() {
-    $('flightTable').innerHTML = visible.slice(0, 500).map(f => `<tr data-flight="${f.id}" tabindex="0"><td><b class="mono">${esc(flightLabel(f))}</b><small>${esc(AL[f.airline].zh)}</small></td><td>${esc(plainRoute(f))}<small>${esc(short(f.from))} → ${esc(short(f.to))}</small></td><td class="mono">${esc(types(f))}</td><td class="mono">${f.departure||'未公布'} — ${arrivalLabel(f)}<small>两地当地时间</small></td><td>${esc(daysText(f))}</td><td>${fmt(f.start)}<small>至 ${f.end?fmt(f.end):'结束日未公布'} ${badge(f)}</small></td><td>↗</td></tr>`).join('') || '<tr><td colspan="7">暂无匹配记录，请返回地图调整筛选。</td></tr>';
-    $('tableCount').textContent = '共 ' + visible.length + ' 条时刻记录。' + (visible.length > 500 ? '页面显示前 500 条，CSV 包含全部筛选结果。' : '') + '指定日期记录已合并相同的航线、机型与时刻。'
+    $('flightTable').innerHTML = visible.slice(0, 500).map(f => `<tr data-flight="${f.id}" tabindex="0"><td><b class="mono">${esc(flightLabel(f))}</b><small>${esc(AL[f.airline].zh)}</small></td><td>${esc(plainRoute(f))}<small>${esc(short(f.from))} → ${esc(short(f.to))}</small></td><td class="mono">${esc(types(f))}</td><td class="mono">${isService(f)?'时刻待公布':(f.departure||'未公布')+' — '+arrivalLabel(f)}<small>${isService(f)?'售票渠道已核实':'两地当地时间'}</small></td><td>${esc(daysText(f))}</td><td>${fmt(f.start)}<small>至 ${f.end?fmt(f.end):'结束日未公布'} ${badge(f)}</small></td><td>↗</td></tr>`).join('') || '<tr><td colspan="7">暂无匹配记录，请返回地图调整筛选。</td></tr>';
+    $('tableCount').textContent = '共 ' + recordCount(visible) + '。' + (visible.length > 500 ? '页面显示前 500 条，CSV 包含全部筛选结果。' : '') + '航线资料仅确认公开售票渠道；未取得班期，不进入指定日期筛选。'
   }
   const ll = id => A[id]?.lat != null ? [A[id].lat, A[id].lon < 0 ? A[id].lon + 360 : A[id].lon] : null;
 
@@ -269,7 +280,7 @@
     let used = new Set(visible.flatMap(route)),
       mapped = [...used].filter(id => ll(id)),
       rs = new Set(visible.flatMap(f => segments(f).map(s => s.slice().sort().join('|'))));
-    $('mapStats').innerHTML = `<div><strong>${mapped.length}</strong><span>地图航点</span></div><div><strong>${rs.size}</strong><span>双向合并航线</span></div><div><strong>${new Set(visible.map(f=>f.airline)).size}</strong><span>已收录航司</span></div>`;
+    $('mapStats').innerHTML = `<div><strong>${mapped.length}</strong><span>地图航点</span></div><div><strong>${rs.size}</strong><span>双向合并航线</span></div><div><strong>${new Set(visible.map(f=>f.airline)).size}</strong><span>航司 / 品牌</span></div>`;
     if (!map) return;
     routeLayer.clearLayers();
     markerLayer.clearLayers();
@@ -313,7 +324,7 @@
       markers[id] = m;
       m.getElement()?.setAttribute('data-airport', id);
       let dest = new Set(fs.flatMap(route).filter(x => x !== id));
-      if (!isPhone()) m.bindTooltip(`${airportHeading(id)}${airportAccessNote(id)}<p>${esc([...new Set(fs.flatMap(flightModels))].join(' / '))}</p><div class="tt-bottom">${fs.length} 条时刻 · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
+      if (!isPhone()) m.bindTooltip(`${airportHeading(id)}${airportAccessNote(id)}<p>${esc([...new Set(fs.flatMap(flightModels))].join(' / '))}</p><div class="tt-bottom">${recordCount(fs)} · ${dest.size} 个关联航点<br>${A[id].coordinateStatus==='settlement'?'村镇参考坐标，非精确起降点':A[id].coordinateStatus==='provider-reference'?'航司查询器参考坐标，精度待核':'机场坐标（OurAirports）'}<br>点击查看相关航班</div>`, {
         className: 'airport-tooltip',
         direction: 'top',
         offset: [0, -7]
@@ -367,7 +378,7 @@
     if (!f) return;
     let s = S[f.source],
       dates = nextDates(f, 120);
-    $('flightDetail').innerHTML = `<span class="eyebrow">FLIGHT NOTES · ${esc(AL[f.airline].ru)}</span><h2 class="detail-title">${esc(flightLabel(f))} <span class="aircraft-tag">${esc(types(f))}</span> ${badge(f)} ${bookingBadge(f)}</h2><div class="detail-airports"><div>${airportHeading(f.from)}</div><span>${f.routeKind==='circuit'?'⟳':'→'}</span><div>${airportHeading(f.to)}</div></div><div class="detail-times"><div><strong>${f.departure||'未公布'}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'出发地当地时间 · '+esc(A[f.from].tz||'时区待核实')}</small></div><div><strong>${arrivalLabel(f)}</strong><small>${f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'到达地当地时间 · '+esc(A[f.to].tz||'时区待核实')}</small></div></div><dl class="detail-grid"><div><dt>班期</dt><dd>${esc(daysText(f))}</dd></div><div><dt>有效期</dt><dd>${fmt(f.start)} — ${f.end?fmt(f.end):'结束日未公布'}</dd></div><div><dt>${AL[f.airline].role==='organizer'?'包机组织方 · 承运人待核':'运营航司'}</dt><dd>${esc(AL[f.airline].zh)}<br>${esc(AL[f.airline].ru)}</dd></div><div><dt>机型依据</dt><dd>${esc(sourceTypes(f))} · ${esc(states[f.status]?.[0]||'官网机型')} ${f.alternatives?.length?'· 可能替代 '+esc(f.alternatives.join('/')):''}</dd></div></dl>${f.scheduleOriginal?'<p class="detail-note"><b>官网原始班期</b><br>'+esc(f.scheduleOriginal)+'</p>':''}${f.unconfirmedDates?.some(d=>d>=baseDate)?'<p class="detail-note"><b>星号日期 · 执行条件待确认</b><br>'+f.unconfirmedDates.filter(d=>d>=baseDate).map(fmt).join('、')+'；不进入确定日期筛选和衔接计算。</p>':''}${f.route?'<p class="detail-route">航路：'+esc(routeText(f))+'</p>':''}${f.stopTimes?'<ol class="stop-timeline">'+f.stopTimes.map(x=>'<li><strong>'+esc(name(x.airport))+'</strong>'+[x.arrival?'到达 '+x.arrival:'',x.departure?'出发 '+x.departure:''].filter(Boolean).join(' · ')+'</li>').join('')+'</ol>':''}${accessDetails(f)}<p class="detail-note">${esc((f.timeCheck?'官网飞行时长与两地当地时间换算不一致；不计算可靠衔接。':'')+(f.conflictDates?.length?'同航班同航段出现不同计划时刻，冲突日期：'+f.conflictDates.map(fmt).join('、')+'。这些日期不计算衔接。':'')+(f.publicAccess==='unverified'?'散客购票资格尚未核实。':'')+(f.conditional?'按客流/载荷条件执行。':'')+(f.note||'官网计划机型；实际执飞机型和售票状态仍需订票时确认。'))}${f.recurrence==='biweekly-unconfirmed'?'<br>隔周起算日期不明，不在指定日期筛选中推演。':''}${f.status==='source-conflict'?'<br>版本冲突未解决，不进入指定日期筛选。':''}</p>${f.booking?'<div class="booking-note"><b>购票方式 · '+esc(f.booking.method)+'</b> '+bookingBadge(f)+'<p>'+esc(f.booking.text)+'</p><a href="'+esc(f.booking.url)+'" target="_blank" rel="noopener">购票 / 咨询入口 ↗</a> <a href="'+esc(f.booking.source)+'" target="_blank" rel="noopener">购票信息来源 ↗</a></div>':''}<b class="mini-label">${f.dates?'官网指定日期':'按公布班期展开的近期日期'}</b><div class="detail-dates">${dates.length?dates.map(d=>'<span>'+fmt(d)+' · '+week[new Date(d+'T12:00Z').getUTCDay()||7]+'</span>').join(''):'<span>日期需向航司确认</span>'}</div><div class="detail-source"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a><small>来源定位：${esc(f.sourceLocator)} · 核查 ${fmt(f.checkedAt)}</small>${(f.localSource||s.local)?'<a href="'+esc(f.localSource||s.local)+'" target="_blank">本地原始快照 ↗</a>':''}${f.evidenceSources?.length?'<div class="crosscheck-sources"><b>交叉核对来源</b>'+f.evidenceSources.map(e=>'<span><a href="'+esc(e.url)+'" target="_blank" rel="noopener">'+esc(e.title)+' ↗</a>'+(e.local?' <a href="'+esc(e.local)+'" target="_blank" rel="noopener">原件快照</a>':'')+'</span>').join('')+'</div>':''}${f.routeEvidence?.length>1?'<small>经停顺序由官网同号同日班段重建：</small>'+f.routeEvidence.map((url,i)=>'<a href="'+esc(url)+'" target="_blank" rel="noopener">第 '+(i+1)+' 段官方查询快照 ↗</a>').join(''):''}<small>${esc(s.note||'')}<br>计划时刻不代表当日实际起降或当前有余票。</small></div><div class="detail-actions"><button class="primary" id="saveFlight">＋ 加入我的行程</button><button class="secondary" id="focusFlight">在地图中查看 ↗</button><button class="secondary" id="onwardFlight">从目的地继续探索 →</button></div>`;
+    $('flightDetail').innerHTML = `<span class="eyebrow">FLIGHT NOTES · ${esc(AL[f.airline].ru)}</span><h2 class="detail-title">${esc(flightLabel(f))} <span class="aircraft-tag">${esc(types(f))}</span> ${badge(f)} ${bookingBadge(f)}</h2><div class="detail-airports"><div>${airportHeading(f.from)}</div><span>${f.routeKind==='circuit'?'⟳':'→'}</span><div>${airportHeading(f.to)}</div></div><div class="detail-times"><div><strong>${f.departure||'未公布'}</strong><small>${isService(f)?'尚未取得现行时刻':f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'出发地当地时间 · '+esc(A[f.from].tz||'时区待核实')}</small></div><div><strong>${arrivalLabel(f)}</strong><small>${isService(f)?'尚未取得现行时刻':f.timeBasis==='unconfirmed'?'官网所列时间 · 时区口径待确认':'到达地当地时间 · '+esc(A[f.to].tz||'时区待核实')}</small></div></div><dl class="detail-grid"><div><dt>班期</dt><dd>${esc(daysText(f))}</dd></div><div><dt>有效期</dt><dd>${fmt(f.start)} — ${f.end?fmt(f.end):'结束日未公布'}</dd></div><div><dt>${AL[f.airline].role==='organizer'?'包机组织方 · 承运人待核':AL[f.airline].role==='brand'?'售票品牌 · 承运人按票面确认':'运营航司'}</dt><dd>${esc(AL[f.airline].zh)}<br>${esc(AL[f.airline].ru)}</dd></div><div><dt>机型依据</dt><dd>${esc(sourceTypes(f))} · ${esc(aircraftEvidenceText(f))} ${f.alternatives?.length?'· 可能替代 '+esc(f.alternatives.join('/')):''}</dd></div></dl>${f.scheduleOriginal?'<p class="detail-note"><b>来源中的班期／航线说明</b><br>'+esc(f.scheduleOriginal)+'</p>':''}${f.unconfirmedDates?.some(d=>d>=baseDate)?'<p class="detail-note"><b>星号日期 · 执行条件待确认</b><br>'+f.unconfirmedDates.filter(d=>d>=baseDate).map(fmt).join('、')+'；不进入确定日期筛选和衔接计算。</p>':''}${f.route?'<p class="detail-route">航路：'+esc(routeText(f))+'</p>':''}${f.stopTimes?'<ol class="stop-timeline">'+f.stopTimes.map(x=>'<li><strong>'+esc(name(x.airport))+'</strong>'+[x.arrival?'到达 '+x.arrival:'',x.departure?'出发 '+x.departure:''].filter(Boolean).join(' · ')+'</li>').join('')+'</ol>':''}${accessDetails(f)}<p class="detail-note">${esc((f.timeCheck?'官网飞行时长与两地当地时间换算不一致；不计算可靠衔接。':'')+(f.conflictDates?.length?'同航班同航段出现不同计划时刻，冲突日期：'+f.conflictDates.map(fmt).join('、')+'。这些日期不计算衔接。':'')+(f.publicAccess==='unverified'?'散客购票资格尚未核实。':'')+(f.conditional?'按客流/载荷条件执行。':'')+(f.note||'官网计划机型；实际执飞机型和售票状态仍需订票时确认。'))}${f.recurrence==='biweekly-unconfirmed'?'<br>隔周起算日期不明，不在指定日期筛选中推演。':''}${f.status==='source-conflict'?'<br>版本冲突未解决，不进入指定日期筛选。':''}</p>${f.booking?'<div class="booking-note"><b>购票方式 · '+esc(f.booking.method)+'</b> '+bookingBadge(f)+'<p>'+esc(f.booking.text)+'</p><a href="'+esc(f.booking.url)+'" target="_blank" rel="noopener">购票 / 咨询入口 ↗</a> <a href="'+esc(f.booking.source)+'" target="_blank" rel="noopener">购票信息来源 ↗</a> '+(f.booking.links||[]).map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+esc(l.title)+' ↗</a>').join(' ')+'</div>':''}<b class="mini-label">${f.dates?'官网指定日期':isService(f)?'出行日期需向售票方确认':'按公布班期展开的近期日期'}</b><div class="detail-dates">${dates.length?dates.map(d=>'<span>'+fmt(d)+' · '+week[new Date(d+'T12:00Z').getUTCDay()||7]+'</span>').join(''):'<span>日期需向航司确认</span>'}</div><div class="detail-source"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)} ↗</a><small>来源定位：${esc(f.sourceLocator)} · 核查 ${fmt(f.checkedAt)}</small>${(f.localSource||s.local)?'<a href="'+esc(f.localSource||s.local)+'" target="_blank">本地原始快照 ↗</a>':''}${f.evidenceSources?.length?'<div class="crosscheck-sources"><b>交叉核对来源</b>'+f.evidenceSources.map(e=>'<span><a href="'+esc(e.url)+'" target="_blank" rel="noopener">'+esc(e.title)+' ↗</a>'+(e.local?' <a href="'+esc(e.local)+'" target="_blank" rel="noopener">原件快照</a>':'')+'</span>').join('')+'</div>':''}${f.routeEvidence?.length>1?'<small>经停顺序由官网同号同日班段重建：</small>'+f.routeEvidence.map((url,i)=>'<a href="'+esc(url)+'" target="_blank" rel="noopener">第 '+(i+1)+' 段官方查询快照 ↗</a>').join(''):''}<small>${esc(s.note||'')}<br>计划时刻不代表当日实际起降或当前有余票。</small></div><div class="detail-actions"><button class="primary" id="saveFlight">＋ 加入我的行程</button><button class="secondary" id="focusFlight">在地图中查看 ↗</button><button class="secondary" id="onwardFlight">从目的地继续探索 →</button></div>`;
     $('saveFlight').onclick = () => {
       trip.push({
         id,
@@ -499,7 +510,7 @@
           connection = gap < 0 ? '日期或时间倒序，无法按当前顺序衔接' + (transfer ? '；' + transfer : '') : transfer ? transfer + '；两段间隔 ' + Math.floor(minutes / 60) + ' 小时 ' + minutes % 60 + ' 分钟' : '同一机场间隔 ' + Math.floor(minutes / 60) + ' 小时 ' + minutes % 60 + ' 分钟；请自行核实最短衔接时间' + (pt.inferred ? '（前段到达日由时区换算推定）' : '')
         } else connection = (transfer ? transfer + '；' : '') + '时间或日期依据不足，暂不计算衔接'
       }
-      return `${connection?'<div class="trip-connection">'+connection+'</div>':''}<article class="trip-leg"><div class="trip-leg-top"><strong>${i+1}. ${esc(short(f.from))} → ${esc(short(f.to))}</strong><div><button data-up="${i}" aria-label="上移航段" ${i===0?'disabled':''}>↑</button><button data-down="${i}" aria-label="下移航段" ${i===trip.length-1?'disabled':''}>↓</button><button data-remove="${i}" aria-label="移除航段">×</button></div></div><small>${esc(flightLabel(f))} · ${esc(AL[f.airline].zh)} · ${esc(types(f))}</small><small>${esc(plainRoute(f))}</small><div class="trip-meta"><select data-tripdate="${i}" aria-label="选择航段日期">${ds.length?ds.map(d=>'<option value="'+d+'" '+(d===item.date?'selected':'')+'>'+fmt(d)+' · 周'+week[new Date(d+'T12:00Z').getUTCDay()||7]+(d<baseDate?' · 已过期':!activeOn(f,d)?' · 日期需重选':'')+'</option>').join(''):'<option value="">日期需确认</option>'}</select><span>${f.departure||'未公布'} — ${arrivalLabel(f)}</span></div><small>${t?'UTC '+new Date(t.dep).toISOString().slice(0,16).replace('T',' ')+' → '+new Date(t.arr).toISOString().slice(0,16).replace('T',' ')+(t.inferred?' · 到达日推定':''):(f.timeBasis==='unconfirmed'?'官网时间，时区口径待确认；不计算衔接':'当地时间；未进行可靠的跨时区衔接计算')}</small>${badge(f)}${flightAccess(f).length?'<small class="trip-access">'+(hiddenForAccess(f)?'此行程含通常无法进入的封闭地点；请核实特别许可。':'此行程含需事先审批或通行证的地点；请查看详情并办理许可。')+'</small>':''}<button data-flight="${f.id}" class="trip-detail-link">查看详情 ↗</button></article>`
+      return `${connection?'<div class="trip-connection">'+connection+'</div>':''}<article class="trip-leg"><div class="trip-leg-top"><strong>${i+1}. ${esc(short(f.from))} → ${esc(short(f.to))}</strong><div><button data-up="${i}" aria-label="上移航段" ${i===0?'disabled':''}>↑</button><button data-down="${i}" aria-label="下移航段" ${i===trip.length-1?'disabled':''}>↓</button><button data-remove="${i}" aria-label="移除航段">×</button></div></div><small>${esc(flightLabel(f))} · ${esc(AL[f.airline].zh)} · ${esc(types(f))}</small><small>${esc(plainRoute(f))}</small><div class="trip-meta"><select data-tripdate="${i}" aria-label="选择航段日期">${ds.length?ds.map(d=>'<option value="'+d+'" '+(d===item.date?'selected':'')+'>'+fmt(d)+' · 周'+week[new Date(d+'T12:00Z').getUTCDay()||7]+(d<baseDate?' · 已过期':!activeOn(f,d)?' · 日期需重选':'')+'</option>').join(''):'<option value="">日期需确认</option>'}</select><span>${f.departure||'未公布'} — ${arrivalLabel(f)}</span></div><small>${t?'UTC '+new Date(t.dep).toISOString().slice(0,16).replace('T',' ')+' → '+new Date(t.arr).toISOString().slice(0,16).replace('T',' ')+(t.inferred?' · 到达日推定':''):(isService(f)?'班期与时刻需向售票方确认；不计算衔接':f.timeBasis==='unconfirmed'?'官网时间，时区口径待确认；不计算衔接':'当地时间；未进行可靠的跨时区衔接计算')}</small>${badge(f)}${flightAccess(f).length?'<small class="trip-access">'+(hiddenForAccess(f)?'此行程含通常无法进入的封闭地点；请核实特别许可。':'此行程含需事先审批或通行证的地点；请查看详情并办理许可。')+'</small>':''}<button data-flight="${f.id}" class="trip-detail-link">查看详情 ↗</button></article>`
     }).join('') : '<div class="empty"><strong>先找到一段想坐的航班。</strong>打开机场或航班卡片，在详情中加入行程。保存留在此浏览器，可导出 CSV。</div>'
   }
 
@@ -510,10 +521,10 @@
   }
 
   function exportCSV(list, isTrip = false) {
-    let headers = ['顺序', '选择日期', '航司', '航班号', '出发机场', '目的机场', '完整航路', '机型', '替代机型', '出发时间（官网）', '到达时间（官网）', '时间口径', '星期', '指定日期', '待确认日期', '官网原始班期', '有效起始', '有效结束', '证据状态', '来源', '备注', '准入要求', '准入来源'],
+    let headers = ['顺序', '选择日期', '航司', '航班号', '出发机场', '目的机场', '完整航路', '机型', '替代机型', '出发时间（官网）', '到达时间（官网）', '时间口径', '星期', '指定日期', '待确认日期', '官网原始班期', '有效起始', '有效结束', '证据状态', '来源', '备注', '准入要求', '准入来源', '记录类型', '购票方式', '购票入口', '购票说明'],
       records = list.map((x, i) => {
         let f = isTrip ? F.find(f => f.id === x.id) : x;
-        return [i + 1, isTrip ? x.date : '', AL[f.airline].ru, f.number, name(f.from), name(f.to), routeText(f), types(f), (f.alternatives || []).join('/'), f.departure, arrivalLabel(f), f.timeBasis==='unconfirmed'?'时区口径待确认':'两地当地时间', f.days.map(d => week[d]).join('/'), f.dates?.join(';'), f.unconfirmedDates?.join(';'), f.scheduleOriginal, f.start, f.end, states[f.status]?.[0], S[f.source].url, f.note, flightAccess(f).map(p => p.title+'：外国旅客 '+p.foreigners+'；俄罗斯公民 '+p.russianCitizens).join(' | ') || f.accessRestriction || '', [...new Set(flightAccess(f).flatMap(p => (p.sources || []).map(id => D.accessSources?.[id]?.url)).filter(Boolean))].join(' | ')]
+        return [i + 1, isTrip ? x.date : '', AL[f.airline].ru, f.number, name(f.from), name(f.to), routeText(f), types(f), (f.alternatives || []).join('/'), f.departure, arrivalLabel(f), isService(f)?'时刻未公布':f.timeBasis==='unconfirmed'?'时区口径待确认':'两地当地时间', f.days.map(d => week[d]).join('/'), f.dates?.join(';'), f.unconfirmedDates?.join(';'), f.scheduleOriginal, f.start, f.end, aircraftEvidenceText(f), S[f.source].url, f.note, flightAccess(f).map(p => p.title+'：外国旅客 '+p.foreigners+'；俄罗斯公民 '+p.russianCitizens).join(' | ') || f.accessRestriction || '', [...new Set(flightAccess(f).flatMap(p => (p.sources || []).map(id => D.accessSources?.[id]?.url)).filter(Boolean))].join(' | '), isService(f)?'航线资料（班期待确认）':'时刻记录', f.booking?.method || '', f.booking?.url || '', f.booking?.text || '']
       }),
       blob = new Blob(['\uFEFF' + [headers, ...records].map(r => r.map(csvCell).join(',')).join('\r\n')], {
         type: 'text/csv;charset=utf-8'
@@ -528,7 +539,7 @@
   }
 
   function renderCoverage() {
-    $('coverageSummary').innerHTML = `<div><strong>${Object.values(AL).filter(a=>a.role!=='organizer').length}</strong><span>已录入时刻的航司</span></div><div><strong>${F.length}</strong><span>合并后的时刻记录</span></div><div><strong>${D.coverage.length}</strong><span>俄文维基名录条目</span></div><div><strong>${D.coverage.filter(x=>['pending','registry-only'].includes(x.review)).length}</strong><span>仍待逐项核查</span></div>`;
+    $('coverageSummary').innerHTML = `<div><strong>${Object.values(AL).filter(a=>a.role!=='organizer').length}</strong><span>已收录航司 / 品牌</span></div><div><strong>${F.length}</strong><span>时刻与航线资料</span></div><div><strong>${D.coverage.length}</strong><span>俄文维基名录条目</span></div><div><strong>${D.coverage.filter(x=>['pending','registry-only'].includes(x.review)).length}</strong><span>仍待逐项核查</span></div>`;
     $('scopeText').textContent = D.scope;
     let q = $('coverageSearch').value.trim(),
       queryTerms = Search.terms(q),
@@ -548,14 +559,16 @@
   }
 
   function switchView(v) {
+    if (!['explore', 'flights', 'experiences', 'coverage'].includes(v)) return;
     closePhoneMenu();
     closeAirportPreview();
     st.view = v;
     document.body.dataset.page = v;
-    for (let x of ['explore', 'flights', 'coverage']) $(x + 'View').hidden = x !== v;
-    document.querySelectorAll('.nav').forEach(n => n.classList.toggle('active', n.dataset.view === v));
+    for (let x of ['explore', 'flights', 'experiences', 'coverage']) $(x + 'View').hidden = x !== v;
+    document.querySelectorAll('.nav').forEach(n => { n.classList.toggle('active', n.dataset.view === v); n.setAttribute('aria-pressed', String(n.dataset.view === v)); });
     if (v === 'explore') setTimeout(() => map?.invalidateSize(), 30);
     if (v === 'coverage') renderCoverage();
+    updateUrl();
     scrollTo({
       top: 0,
       behavior: 'instant'
@@ -639,6 +652,7 @@
           [57, 29],
           [72, 65]
         ],
+        central: [[36, 49], [52, 88]],
         siberia: [
           [49, 78],
           [70, 120]
@@ -697,7 +711,7 @@
     const count = [st.family, st.airline, st.date, st.day, st.strict, st.private].filter(Boolean).length;
     $('phoneFilterCount').textContent = count || '';
     $('phoneFilters').classList.toggle('has-filters', !!count);
-    $('phoneApplyFilters').textContent = '显示 ' + visible.length + ' 条时刻';
+    $('phoneApplyFilters').textContent = '显示 ' + visible.length + ' 条记录';
     $('phoneAirportChip').hidden = !st.airport;
     $('phoneAirportChip').textContent = st.airport ? short(st.airport) + ' · 清除 ×' : '';
     $('phoneAirportChip').title = st.airport ? '清除 ' + name(st.airport) + ' 机场筛选' : '';
@@ -727,7 +741,7 @@
     previewCandidates = [];
     const dest = new Set(fs.flatMap(route).filter(x => x !== id));
     const coordinate = A[id].coordinateStatus === 'settlement' ? '村镇参考坐标，非精确起降点' : A[id].coordinateStatus === 'provider-reference' ? '航司参考坐标，精度待核' : '';
-    $('airportPreviewContent').innerHTML = '<div class="preview-identity">' + airportHeading(id) + '</div><p class="preview-summary">' + fs.length + ' 条时刻 · ' + dest.size + ' 个关联航点</p><p class="preview-models">' + esc([...new Set(fs.flatMap(flightModels))].join(' / ')) + '</p>' + airportAccessNote(id) + (coordinate ? '<small class="preview-coordinate">' + esc(coordinate) + '</small>' : '');
+    $('airportPreviewContent').innerHTML = '<div class="preview-identity">' + airportHeading(id) + '</div><p class="preview-summary">' + recordCount(fs) + ' · ' + dest.size + ' 个关联航点</p><p class="preview-models">' + esc([...new Set(fs.flatMap(flightModels))].join(' / ')) + '</p>' + airportAccessNote(id) + (coordinate ? '<small class="preview-coordinate">' + esc(coordinate) + '</small>' : '');
     $('airportPreviewActions').innerHTML = '<button class="primary" data-preview-mode="all">查看航班 →</button><button data-preview-mode="out">从此出发</button><button data-preview-mode="in">到达这里</button>';
     highlight(id);
     L.circleMarker(ll(id), {radius: 8, color: '#285bce', weight: 1.2, fillOpacity: .05, interactive: false}).addTo(hoverLayer);
@@ -910,6 +924,7 @@
   persist();
   apply();
   fit();
+  switchView(p.get('view') || 'explore');
   phoneQuery.addEventListener('change', () => {
     if ($('phoneFilterDialog').open) $('phoneFilterDialog').close();
     closePhoneMenu();

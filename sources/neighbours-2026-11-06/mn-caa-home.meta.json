@@ -1,0 +1,14 @@
+{
+  "id": "mn-caa-home",
+  "url": "https://www.mcaa.gov.mn/",
+  "retrievedAt": "2026-11-06T09:45:50.613188+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://www.mcaa.gov.mn/",
+  "bytes": 7638,
+  "sha256": "53e1a26886950ff26081ec812a62cdd070b6b6b299d82464c7795f23f9e4df17",
+  "file": "sources/neighbours-2026-11-06/mn-caa-home.html",
+  "title": "Welcome to MCAA Portal",
+  "links": [],
+  "textFile": "sources/neighbours-2026-11-06/mn-caa-home.txt"
+}

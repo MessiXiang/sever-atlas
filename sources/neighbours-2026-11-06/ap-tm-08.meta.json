@@ -1,0 +1,2154 @@
+{
+  "id": "ap-tm-08",
+  "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+  "retrievedAt": "2026-11-06T08:39:45.788020+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Jebel_Airport",
+  "bytes": 202946,
+  "sha256": "4dfbb05cc154e0e06c5c1670fd4ba64c0a3d2e92519f8655065e2fc6feac4b3c",
+  "file": "sources/neighbours-2026-11-06/ap-tm-08.html",
+  "title": "Balkanabat International Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Balkanabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Balkanabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Balkanabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Balkanabat+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Infrastructure",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#Infrastructure",
+      "lang": ""
+    },
+    {
+      "text": "3 Access",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#Access",
+      "lang": ""
+    },
+    {
+      "text": "4 Airlines and destinations",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#Airlines_and_destinations",
+      "lang": ""
+    },
+    {
+      "text": "4.1 Passenger",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#Passenger",
+      "lang": ""
+    },
+    {
+      "text": "5 See also",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "6 References",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "7 Links",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#Links",
+      "lang": ""
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD%D0%B0%D0%B1%D0%B0%D0%B4_(%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q110319429#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Balkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&oldid=1362862822",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Balkanabat_International_Airport&id=1362862822&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBalkanabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Balkanabat_International_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q110319429",
+      "lang": ""
+    },
+    {
+      "text": "Jebel Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=Jebel_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-caa.gov.tm-2",
+      "lang": ""
+    },
+    {
+      "text": "Jebel",
+      "url": "https://en.wikipedia.org/wiki/Jebel,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat",
+      "lang": ""
+    },
+    {
+      "text": "Jebel",
+      "url": "https://en.wikipedia.org/wiki/Jebel,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Balkan Region",
+      "url": "https://en.wikipedia.org/wiki/Balkan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-caa.gov.tm-2",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "TMT",
+      "url": "https://en.wikipedia.org/wiki/Time_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "UTC+05:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+05:00",
+      "lang": ""
+    },
+    {
+      "text": "39°40′42″N 054°12′28″E ﻿ / ﻿ 39.67833°N 54.20778°E ﻿ / 39.67833; 54.20778 ﻿ ( Jebel Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Balkanabat_International_Airport&params=39_40_42_N_054_12_28_E_region:TM_type:airport&title=Jebel+Airport",
+      "lang": ""
+    },
+    {
+      "text": "jebairport .gov .tm",
+      "url": "https://jebairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "Runways",
+      "url": "https://en.wikipedia.org/wiki/Runway",
+      "lang": ""
+    },
+    {
+      "text": "Direction",
+      "url": "https://en.wikipedia.org/wiki/Runway#Naming",
+      "lang": ""
+    },
+    {
+      "text": "Asphalt",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat",
+      "lang": ""
+    },
+    {
+      "text": "Balkan Region",
+      "url": "https://en.wikipedia.org/wiki/Balkan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "Jebel",
+      "url": "https://en.wikipedia.org/wiki/Jebel,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat",
+      "lang": ""
+    },
+    {
+      "text": "Mollagara",
+      "url": "https://en.wikipedia.org/wiki/Mollagara?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Jebel, Balkan Province",
+      "url": "https://en.wikipedia.org/wiki/Jebel,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-11",
+      "lang": ""
+    },
+    {
+      "text": "Abu Dhabi Fund for Development",
+      "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_Fund_for_Development",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Jebel",
+      "url": "https://en.wikipedia.org/wiki/Jebel,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat Airport",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-auto2-21",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-auto2-21",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary,_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Dashoguz",
+      "url": "https://en.wikipedia.org/wiki/Dashoguz",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Belavia",
+      "url": "https://en.wikipedia.org/wiki/Belavia",
+      "lang": ""
+    },
+    {
+      "text": "Minsk",
+      "url": "https://en.wikipedia.org/wiki/Minsk",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-:0-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-auto2-21",
+      "lang": ""
+    },
+    {
+      "text": "internet café",
+      "url": "https://en.wikipedia.org/wiki/Internet_café",
+      "lang": ""
+    },
+    {
+      "text": "buffet",
+      "url": "https://en.wikipedia.org/wiki/Buffet",
+      "lang": ""
+    },
+    {
+      "text": "souvenir shop",
+      "url": "https://en.wikipedia.org/wiki/Souvenir_shop",
+      "lang": ""
+    },
+    {
+      "text": "medical station",
+      "url": "https://en.wikipedia.org/wiki/Emergency_medical_services",
+      "lang": ""
+    },
+    {
+      "text": "lounges",
+      "url": "https://en.wikipedia.org/wiki/Airport_lounge",
+      "lang": ""
+    },
+    {
+      "text": "hotel",
+      "url": "https://en.wikipedia.org/wiki/Hotel",
+      "lang": ""
+    },
+    {
+      "text": "parking",
+      "url": "https://en.wikipedia.org/wiki/Parking",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-:0-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-:0-26",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-:0-26",
+      "lang": ""
+    },
+    {
+      "text": "Thales",
+      "url": "https://en.wikipedia.org/wiki/Thales_Group",
+      "lang": ""
+    },
+    {
+      "text": "Indra",
+      "url": "https://en.wikipedia.org/wiki/Indra",
+      "lang": ""
+    },
+    {
+      "text": "Motorola",
+      "url": "https://en.wikipedia.org/wiki/Motorola",
+      "lang": ""
+    },
+    {
+      "text": "Rohde & Schwarz",
+      "url": "https://en.wikipedia.org/wiki/Rohde_&_Schwarz",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-:0-26",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "M37 highway",
+      "url": "https://en.wikipedia.org/wiki/M37_highway_(Turkmenistan)",
+      "lang": ""
+    },
+    {
+      "text": "Cheleken Peninsula",
+      "url": "https://en.wikipedia.org/wiki/Cheleken_Peninsula",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-map-27",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-auto1-29",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-30",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat International Airport",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Airline and Airport Code Search\"",
+      "url": "https://www.iata.org/en/publications/directories/code-search/?airport.search=jebel",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-caa.gov.tm_2-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-caa.gov.tm_2-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Türkmenhowaýollary\"",
+      "url": "https://caa.gov.tm/item/2091",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Opening ceremony of the Balkanabat International Airport\"",
+      "url": "https://tdh.gov.tm/en/post/44726/president-turkmenistan-participated-opening-ceremony-balkanabat-international-airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"The President of Turkmenistan participated in the opening ceremony of the Balkanabat International Airport\"",
+      "url": "https://tdh.gov.tm/en/post/44726/president-turkmenistan-participated-opening-ceremony-balkanabat-international-airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "https://www.turkmenistan.gov.tm/en/post/80894/construction-new-international-airport-actively-underway-city-jebel",
+      "url": "https://www.turkmenistan.gov.tm/en/post/80894/construction-new-international-airport-actively-underway-city-jebel",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "https://turkmenistan.gov.tm/en/post/65698/airports-gundogdy-builds",
+      "url": "https://turkmenistan.gov.tm/en/post/65698/airports-gundogdy-builds",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "https://turkmenistanairlines.tm/ru/news/show/Jebel%20Airport",
+      "url": "https://turkmenistanairlines.tm/ru/news/show/Jebel%20Airport",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-8",
+      "lang": ""
+    },
+    {
+      "text": "https://business.com.tm/ru/post/12272/mezhdunarodnyi-aeroport-v-dzhebele-planiruetsya-otkryt-v-dekabre",
+      "url": "https://business.com.tm/ru/post/12272/mezhdunarodnyi-aeroport-v-dzhebele-planiruetsya-otkryt-v-dekabre",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "https://centreforaviation.com/news/construction-of-new-international-airport-commences-near-jebel-1080358",
+      "url": "https://centreforaviation.com/news/construction-of-new-international-airport-commences-near-jebel-1080358",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"New Balkanabat International Airport Starts Accepting Domestic Flights\"",
+      "url": "https://turkmenportal.com/en/news/91207-novyi-mezhdunarodnyi-aeroport-balkanabada-nachal-prinimat-vnutrennie-reisy----------------",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-11",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan plans to build an airport near the \"Mollagara\" resort\"",
+      "url": "https://regnum.ru/news/3141970.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210812143822/https://regnum.ru/news/3141970.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "https://www.arabianbusiness.com/money/corporate/funding/464634-abu-dhabi-fund-pledges-100m-for-turkmenistan-airport-power-projects",
+      "url": "https://www.arabianbusiness.com/money/corporate/funding/464634-abu-dhabi-fund-pledges-100m-for-turkmenistan-airport-power-projects",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "https://centralasia.news/10015-adfd-allocates-100-million-for-projects-in-turkmenistan.html",
+      "url": "https://centralasia.news/10015-adfd-allocates-100-million-for-projects-in-turkmenistan.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20241201224108/https://centralasia.news/10015-adfd-allocates-100-million-for-projects-in-turkmenistan.html",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "https://en.kabar.kg/news/uae-allocates-usd100-mln-towards-airport-development-hybrid-power-plant-projects-in-turkmenistan/",
+      "url": "https://en.kabar.kg/news/uae-allocates-usd100-mln-towards-airport-development-hybrid-power-plant-projects-in-turkmenistan/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"Abu Dhabi Fund for Development to allocate $99.91 million for projects in Turkmenistan\"",
+      "url": "https://turkmenportal.com/en/blog/37306/abu-dhabi-fund-for-development-to-allocate-9991-million-for-projects-in-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210812142602/https://turkmenportal.com/en/blog/37306/abu-dhabi-fund-for-development-to-allocate-9991-million-for-projects-in-turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"UAE allocates $75 million for airport construction in Turkmenistan\"",
+      "url": "https://regnum.ru/news/3294720.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210812143845/https://regnum.ru/news/3294720.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"The President of Turkmenistan launched the construction of an international airport in Jebel\"",
+      "url": "https://turkmenportal.com/en/blog/38165/the-president-of-turkmenistan-launched-the-construction-of-an-international-airport-in-jebel",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210812142254/https://turkmenportal.com/en/blog/38165/the-president-of-turkmenistan-launched-the-construction-of-an-international-airport-in-jebel",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "\"President of Turkmenistan launched the construction of an airport in Balkan Region\"",
+      "url": "https://www.turkmenistan.ru/en/articles/45731.html",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20210812143821/https://www.turkmenistan.ru/en/articles/45731.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "https://turkmenistan.gov.tm/ru/post/65696/aeroporty-stroit-ip-gundogdy",
+      "url": "https://turkmenistan.gov.tm/ru/post/65696/aeroporty-stroit-ip-gundogdy",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "\"Construction of a new international airport in Jebel is actively underway\"",
+      "url": "https://turkmenistan.gov.tm/en/post/80879/construction-of-a-new-international-airport-in-jebel-is-actively-underway",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-auto2_21-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-auto2_21-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-auto2_21-2",
+      "lang": ""
+    },
+    {
+      "text": "President of Turkmenistan attended the opening ceremony of Balkanabat International Airport",
+      "url": "https://turkmenistan.gov.tm/ru/post/94574/prezident-turkmenistana-prinyal-uchastie-v-ceremonii-otkrytiya-balkanabatskogo-mezhdunarodnogo-aeroporta",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\"New Balkanabat International Airport opened in Turkmenistan – Photo report\"",
+      "url": "https://www.business.com.tm/ru/multimedia/13518/v-turkmenistane-otkryli-novyi-mezhdunarodnyi-aeroport-balkanabat",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "From 19 May 2025, \"Turkmenistan\" Airlines temporarily suspends certain routes",
+      "url": "https://turkmenistanairlines.tm/ru/news/show/s-19-maya-2025-goda-aktsionernoe-obschestd-turkmenbashi-ashhabad-turkmenabad-turkmenbashi-turkmenabad-mary-turkmenbashi-mary-i-dashoguz-turkmenbashi-dashoguz",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"Belavia\" begins flights to a new city | onlinebrest.by",
+      "url": "https://onlinebrest.by/novosti/belavia-nachala-letat-v-novyy-gorod.html?utm_source=chatgpt.com",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "\"«Белавиа» прекращает летать в этот город рядом с морем\"",
+      "url": "https://blizko.by/notes/belavia-prekraschaet-letat-v-etot-gorod-ryadom-s-morem_vg",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-:0_26-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-:0_26-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-:0_26-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-:0_26-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-:0_26-4",
+      "lang": ""
+    },
+    {
+      "text": "\"ъВ поселке Джебел города Балканабат ведутся подготовительные работы по вводу в эксплуатацию нового международного аэропорта\"",
+      "url": "https://turkmenistan.gov.tm/ru/post/92009/v-poselke-dzhebel-goroda-balkanabat-vedutsya-podgotovitelnye-raboty-po-vvodu-v-ekspluataciyu-novogo-mezhdunarodnogo-aeroporta",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-map_27-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Way: Jebel (406443351)\"",
+      "url": "https://www.openstreetmap.org/way/406443351#map=15/39.6353/54.2395",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "\"Направление и расписание рейсов - Услуги - Turkmenistan Airlines\"",
+      "url": "https://turkmenistanairlines.tm/ru/services/show/napravlenie-i-raspisanie-reysov",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-auto1_29-0",
+      "lang": ""
+    },
+    {
+      "text": "From 19 May 2025, Turkmenistan Airlines begins flights to Balkanabat",
+      "url": "https://turkmenistanairlines.tm/ru/news/show/s-19-maya-2025-goda-aktsionernoe-obschestd-turkmenbashi-ashhabad-turkmenabad-turkmenbashi-turkmenabad-mary-turkmenbashi-mary-i-dashoguz-turkmenbashi-dashoguz",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-30",
+      "lang": ""
+    },
+    {
+      "text": "\"Turkmenistan Airlines Domestic Service Changes From May 2025\"",
+      "url": "https://www.aeroroutes.com/eng/250526-t5may25tm",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"Направление и расписание рейсов - Услуги - Turkmenistan Airlines\"",
+      "url": "https://turkmenistanairlines.tm/ru/services/show/napravlenie-i-raspisanie-reysov",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "Official web-site",
+      "url": "https://jebairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20241103201256/https://jebairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "Wayback Machine",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "lang": ""
+    },
+    {
+      "text": "Opening ceremony of the Balkanabat International Airport",
+      "url": "https://tdh.gov.tm/en/post/44726/president-turkmenistan-participated-opening-ceremony-balkanabat-international-airport",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Portal:Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Aşgabat",
+      "url": "https://en.wikipedia.org/wiki/Aşgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat International",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Türkmenabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Türkmenbaşy",
+      "url": "https://en.wikipedia.org/wiki/Türkmenbaşy_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daşoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Monorail",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Monorail",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses in Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Trolleybuses_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses suspended nationwide",
+      "url": "https://en.wikipedia.org/wiki/List_of_trolleybus_systems#Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Trolleybuses",
+      "url": "https://en.wikipedia.org/wiki/List_of_trolleybus_systems",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Trolleybuses_in_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "Türkmendemirýollary",
+      "url": "https://en.wikipedia.org/wiki/Türkmendemirýollary",
+      "lang": ""
+    },
+    {
+      "text": "Trans-Caspian railway",
+      "url": "https://en.wikipedia.org/wiki/Trans-Caspian_railway",
+      "lang": ""
+    },
+    {
+      "text": "Trans-Karakum Railway",
+      "url": "https://en.wikipedia.org/wiki/Trans-Karakum_Railway",
+      "lang": ""
+    },
+    {
+      "text": "Lapis Lazuli corridor",
+      "url": "https://en.wikipedia.org/wiki/Lapis_Lazuli_corridor",
+      "lang": ""
+    },
+    {
+      "text": "International North–South Transport Corridor",
+      "url": "https://en.wikipedia.org/wiki/International_North–South_Transport_Corridor",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan-Afghanistan-Tajikistan line",
+      "url": "https://ru.wikipedia.org/wiki/Железная%20дорога%20Туркмения%20—%20Афганистан%20—%20Таджикистан",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Cable Car",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_Cable_Car",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:BSicon_BUS.svg",
+      "lang": ""
+    },
+    {
+      "text": "International Passenger Bus Terminal of Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/International_Passenger_Bus_Terminal_of_Ashgabat",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_railtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat railway station",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "Bereket railway station",
+      "url": "https://en.wikipedia.org/wiki/Bereket_railway_station_(Turkmenistan)",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi railway station",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_railway_station",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:20_airtransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat",
+      "url": "https://en.wikipedia.org/wiki/Ashgabat_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Mary",
+      "url": "https://en.wikipedia.org/wiki/Mary_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Balkanabat",
+      "url": "https://en.wikipedia.org/wiki/Balkanabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenabat",
+      "url": "https://en.wikipedia.org/wiki/Turkmenabat_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerki",
+      "url": "https://en.wikipedia.org/wiki/Kerki_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Dashoguz",
+      "url": "https://en.wikipedia.org/wiki/Daşoguz_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Aiga_watertransportation_inv.svg",
+      "lang": ""
+    },
+    {
+      "text": "Türkmendeňizderýaýollary",
+      "url": "https://en.wikipedia.org/wiki/The_State_Service_of_Maritime_and_River_Transportation_of_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Derýaýollary",
+      "url": "https://en.wikipedia.org/wiki/Türkmenderýaýollary",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenbashi International Seaport",
+      "url": "https://en.wikipedia.org/wiki/Turkmenbashi_International_Seaport",
+      "lang": ""
+    },
+    {
+      "text": "Central Asia",
+      "url": "https://en.wikipedia.org/wiki/Central_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Template:Transit_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Turkmenistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Uzbekistan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Template:Kazakhstan_transit",
+      "lang": ""
+    },
+    {
+      "text": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Template:Xinjiang_transit",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Tajikistan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Template:Kyrgyzstan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/Template:Iran_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Template:Afghanistan_transit?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:List_of_airports",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:List_of_airports",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:List_of_airports",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports",
+      "lang": ""
+    },
+    {
+      "text": "IATA code",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "A",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_A",
+      "lang": ""
+    },
+    {
+      "text": "B",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_B",
+      "lang": ""
+    },
+    {
+      "text": "C",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_C",
+      "lang": ""
+    },
+    {
+      "text": "D",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_D",
+      "lang": ""
+    },
+    {
+      "text": "E",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_E",
+      "lang": ""
+    },
+    {
+      "text": "F",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_F",
+      "lang": ""
+    },
+    {
+      "text": "G",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_G",
+      "lang": ""
+    },
+    {
+      "text": "H",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_H",
+      "lang": ""
+    },
+    {
+      "text": "I",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_I",
+      "lang": ""
+    },
+    {
+      "text": "J",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_J",
+      "lang": ""
+    },
+    {
+      "text": "K",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_K",
+      "lang": ""
+    },
+    {
+      "text": "L",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_L",
+      "lang": ""
+    },
+    {
+      "text": "M",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_M",
+      "lang": ""
+    },
+    {
+      "text": "N",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_N",
+      "lang": ""
+    },
+    {
+      "text": "O",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_O",
+      "lang": ""
+    },
+    {
+      "text": "P",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_P",
+      "lang": ""
+    },
+    {
+      "text": "Q",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_Q",
+      "lang": ""
+    },
+    {
+      "text": "R",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_R",
+      "lang": ""
+    },
+    {
+      "text": "S",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_S",
+      "lang": ""
+    },
+    {
+      "text": "T",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_T",
+      "lang": ""
+    },
+    {
+      "text": "U",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_U",
+      "lang": ""
+    },
+    {
+      "text": "V",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_V",
+      "lang": ""
+    },
+    {
+      "text": "W",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_W",
+      "lang": ""
+    },
+    {
+      "text": "X",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_X",
+      "lang": ""
+    },
+    {
+      "text": "Y",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_Y",
+      "lang": ""
+    },
+    {
+      "text": "Z",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_IATA_airport_code:_Z",
+      "lang": ""
+    },
+    {
+      "text": "ICAO code",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "A",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_A",
+      "lang": ""
+    },
+    {
+      "text": "B",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_B",
+      "lang": ""
+    },
+    {
+      "text": "C",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_C",
+      "lang": ""
+    },
+    {
+      "text": "D",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_D",
+      "lang": ""
+    },
+    {
+      "text": "EB-EG",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_EB-EG",
+      "lang": ""
+    },
+    {
+      "text": "EH-EY",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_EH-EY",
+      "lang": ""
+    },
+    {
+      "text": "FA-FM",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_FA-FM",
+      "lang": ""
+    },
+    {
+      "text": "FN-FZ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_FN-FZ",
+      "lang": ""
+    },
+    {
+      "text": "G",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_G",
+      "lang": ""
+    },
+    {
+      "text": "H",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_H",
+      "lang": ""
+    },
+    {
+      "text": "J",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_J",
+      "lang": ""
+    },
+    {
+      "text": "KA-KH",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_KA-KH",
+      "lang": ""
+    },
+    {
+      "text": "KI-KP",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_KI-KP",
+      "lang": ""
+    },
+    {
+      "text": "KR-KZ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_KR-KZ",
+      "lang": ""
+    },
+    {
+      "text": "LA-LJ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_LA-LJ",
+      "lang": ""
+    },
+    {
+      "text": "LK-LZ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_LK-LZ",
+      "lang": ""
+    },
+    {
+      "text": "M",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_M",
+      "lang": ""
+    },
+    {
+      "text": "N",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_N",
+      "lang": ""
+    },
+    {
+      "text": "O",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_O",
+      "lang": ""
+    },
+    {
+      "text": "P",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_P",
+      "lang": ""
+    },
+    {
+      "text": "Q",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_Q",
+      "lang": ""
+    },
+    {
+      "text": "R",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_R",
+      "lang": ""
+    },
+    {
+      "text": "SA-SC",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SA-SC",
+      "lang": ""
+    },
+    {
+      "text": "SD-SH",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SD-SH",
+      "lang": ""
+    },
+    {
+      "text": "SI",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SI",
+      "lang": ""
+    },
+    {
+      "text": "SJ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SJ",
+      "lang": ""
+    },
+    {
+      "text": "SK-SM",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SK-SM",
+      "lang": ""
+    },
+    {
+      "text": "SN-SP",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SN-SP",
+      "lang": ""
+    },
+    {
+      "text": "SQ",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SQ",
+      "lang": ""
+    },
+    {
+      "text": "SS-SU",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SS-SU",
+      "lang": ""
+    },
+    {
+      "text": "SV-SY",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_SV-SY",
+      "lang": ""
+    },
+    {
+      "text": "T",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_T",
+      "lang": ""
+    },
+    {
+      "text": "U",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U",
+      "lang": ""
+    },
+    {
+      "text": "V",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_V",
+      "lang": ""
+    },
+    {
+      "text": "W",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_W",
+      "lang": ""
+    },
+    {
+      "text": "Y",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_Y",
+      "lang": ""
+    },
+    {
+      "text": "Z",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_Z",
+      "lang": ""
+    },
+    {
+      "text": "Africa",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Africa",
+      "lang": ""
+    },
+    {
+      "text": "Antarctica",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Antarctica",
+      "lang": ""
+    },
+    {
+      "text": "Asia",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Europe",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Europe",
+      "lang": ""
+    },
+    {
+      "text": "North America",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_North_America",
+      "lang": ""
+    },
+    {
+      "text": "Oceania",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_Oceania",
+      "lang": ""
+    },
+    {
+      "text": "South America",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_airports_in_South_America",
+      "lang": ""
+    },
+    {
+      "text": "Busiest airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports",
+      "lang": ""
+    },
+    {
+      "text": "by region",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_the_busiest_airports_by_region",
+      "lang": ""
+    },
+    {
+      "text": "by air traffic",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_aircraft_movements",
+      "lang": ""
+    },
+    {
+      "text": "by passengers",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic",
+      "lang": ""
+    },
+    {
+      "text": "by international passengers",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_international_passenger_traffic",
+      "lang": ""
+    },
+    {
+      "text": "by cargo",
+      "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_cargo_traffic",
+      "lang": ""
+    },
+    {
+      "text": "Countries without airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_without_an_airport",
+      "lang": ""
+    },
+    {
+      "text": "Defunct international airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_defunct_international_airports",
+      "lang": ""
+    },
+    {
+      "text": "Eponyms of airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_eponyms_of_airports",
+      "lang": ""
+    },
+    {
+      "text": "Military installations",
+      "url": "https://en.wikipedia.org/wiki/Lists_of_military_installations",
+      "lang": ""
+    },
+    {
+      "text": "With triple takeoff/landing capability",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_with_triple_takeoff/landing_capability",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&oldid=1362862822",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&oldid=1362862822",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Balkan Region",
+      "url": "https://en.wikipedia.org/wiki/Category:Balkan_Region",
+      "lang": ""
+    },
+    {
+      "text": "Proposed airports",
+      "url": "https://en.wikipedia.org/wiki/Category:Proposed_airports",
+      "lang": ""
+    },
+    {
+      "text": "Proposed transport infrastructure in Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Proposed_transport_infrastructure_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Turkmen-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Turkmen-language_text",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox mapframe without shape links in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Webarchive template wayback links",
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Balkanabat_International_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Jebel_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-tm-08.txt"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://pss.silk-avia.com/ibe/availability?tripType=ONE_WAY&depPort=TAS&arrPort=RBZ&departureDate=10.11.2026&returnDate=10.11.2026&passengerQuantities%5B0%5D%5BpassengerType%5D=ADULT&passengerQuantities%5B0%5D%5BpassengerSubType%5D=&passengerQuantities%5B0%5D%5Bquantity%5D=1&passengerQuantities%5B1%5D%5BpassengerType%5D=CHILD&passengerQuantities%5B1%5D%5BpassengerSubType%5D=&passengerQuantities%5B1%5D%5Bquantity%5D=0&passengerQuantities%5B2%5D%5BpassengerType%5D=INFANT&passengerQuantities%5B2%5D%5BpassengerSubType%5D=&passengerQuantities%5B2%5D%5Bquantity%5D=0&currency=UZS&cabinClass=&lang=EN&nationality=&promoCode=&accountCode=&affiliateCode=&clickId=&withCalendar=&isMobileCalendar=&market=&isFFPoint=",
+  "method": "Browser DOM snapshot with Flight Information expanded",
+  "selectedDate": "2026-11-11",
+  "note": "Initial search was November 10; the visible price calendar was used to select November 11. Flight Information and fare were verified for November 11.",
+  "file": "silk-uh721-20261111-rendered.txt",
+  "screenshot": "silk-uh721-20261111.png",
+  "recordedAt": "2026-11-06T11:37:41.321Z",
+  "captureDate": "2026-11-06"
+}

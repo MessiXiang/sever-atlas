@@ -1,0 +1,2039 @@
+{
+  "id": "kg-asman-wiki-retry",
+  "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+  "retrievedAt": "2026-11-06T10:17:18.216157+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Asman_Airlines",
+  "bytes": 209334,
+  "sha256": "2ec5b74deb10bf83cb95739e7bffbbe237b1be81f8b78dbda255f952a36a9c58",
+  "file": "sources/neighbours-2026-11-06/kg-asman-wiki-retry.html",
+  "title": "Asman Airlines - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Asman+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Asman+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Asman+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Asman+Airlines",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Destinations",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Destinations",
+      "lang": ""
+    },
+    {
+      "text": "2.1 Interline agreements",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Interline_agreements",
+      "lang": ""
+    },
+    {
+      "text": "3 Fleet",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Fleet",
+      "lang": ""
+    },
+    {
+      "text": "3.1 Current fleet",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Current_fleet",
+      "lang": ""
+    },
+    {
+      "text": "3.2 Fleet development",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Fleet_development",
+      "lang": ""
+    },
+    {
+      "text": "3.3 Former fleet",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#Former_fleet",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#References",
+      "lang": ""
+    },
+    {
+      "text": "6 External links",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#External_links",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Asman_Airlines",
+      "lang": "de"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Asman_Airlines",
+      "lang": "fr"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%9E%E3%83%B3%E8%88%AA%E7%A9%BA",
+      "lang": "ja"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/Asman_Airlines",
+      "lang": "ky"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Asman_Airlines",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q131759026#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&oldid=1383958558",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Asman_Airlines&id=1383958558&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAsman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Asman_Airlines&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q131759026",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+      "lang": ""
+    },
+    {
+      "text": "more citations",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability",
+      "lang": ""
+    },
+    {
+      "text": "improve this article",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "adding citations to reliable sources",
+      "url": "https://en.wikipedia.org/wiki/Help:Referencing_for_beginners",
+      "lang": ""
+    },
+    {
+      "text": "removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines\"",
+      "url": "https://www.google.com/search?as_eq=wikipedia&q=%22Asman+Airlines%22",
+      "lang": ""
+    },
+    {
+      "text": "news",
+      "url": "https://www.google.com/search?tbm=nws&q=%22Asman+Airlines%22+-wikipedia&tbs=ar:1",
+      "lang": ""
+    },
+    {
+      "text": "newspapers",
+      "url": "https://www.google.com/search?&q=%22Asman+Airlines%22&tbs=bkt:s&tbm=bks",
+      "lang": ""
+    },
+    {
+      "text": "books",
+      "url": "https://www.google.com/search?tbs=bks:1&q=%22Asman+Airlines%22+-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "scholar",
+      "url": "https://scholar.google.com/scholar?q=%22Asman+Airlines%22",
+      "lang": ""
+    },
+    {
+      "text": "JSTOR",
+      "url": "https://www.jstor.org/action/doBasicSearch?Query=%22Asman+Airlines%22&acc=on&wc=on",
+      "lang": ""
+    },
+    {
+      "text": "Learn how and when to remove this message",
+      "url": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto2-1",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asman_Airlines_Logo.jpg",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#IATA_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/Airline_codes#ICAO_airline_designator",
+      "lang": ""
+    },
+    {
+      "text": "Call sign",
+      "url": "https://en.wikipedia.org/wiki/Aviation_call_signs#Commercial_airline",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto3-4",
+      "lang": ""
+    },
+    {
+      "text": "Hubs",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Focus cities",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub#Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "CEO",
+      "url": "https://en.wikipedia.org/wiki/Chief_executive_officer",
+      "lang": ""
+    },
+    {
+      "text": "[ 7 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-7",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto1-8",
+      "lang": ""
+    },
+    {
+      "text": "asmanairlines .kg",
+      "url": "https://asmanairlines.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto2-1",
+      "lang": ""
+    },
+    {
+      "text": "flag carrier",
+      "url": "https://en.wikipedia.org/wiki/Flag_carrier",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto2-1",
+      "lang": ""
+    },
+    {
+      "text": "banned",
+      "url": "https://en.wikipedia.org/wiki/List_of_airlines_banned_in_the_European_Union",
+      "lang": ""
+    },
+    {
+      "text": "[ 9 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-9",
+      "lang": ""
+    },
+    {
+      "text": "[ 10 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-10",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A320neo family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320neo_family",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-:0-11",
+      "lang": ""
+    },
+    {
+      "text": "[ 12 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-12",
+      "lang": ""
+    },
+    {
+      "text": "Aurora",
+      "url": "https://en.wikipedia.org/wiki/Aurora_(airline)",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto1-8",
+      "lang": ""
+    },
+    {
+      "text": "[ 13 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-13",
+      "lang": ""
+    },
+    {
+      "text": "[ 14 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-14",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "[ 8 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto1-8",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "[ 15 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-15",
+      "lang": ""
+    },
+    {
+      "text": "[ 16 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-16",
+      "lang": ""
+    },
+    {
+      "text": "International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+      "lang": ""
+    },
+    {
+      "text": "[ 11 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-:0-11",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol",
+      "lang": ""
+    },
+    {
+      "text": "[ 17 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-17",
+      "lang": ""
+    },
+    {
+      "text": "[ 18 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-18",
+      "lang": ""
+    },
+    {
+      "text": "[ 19 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-19",
+      "lang": ""
+    },
+    {
+      "text": "[ 20 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-20",
+      "lang": ""
+    },
+    {
+      "text": "[ 21 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-21",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A320neo family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320neo_family",
+      "lang": ""
+    },
+    {
+      "text": "EU",
+      "url": "https://en.wikipedia.org/wiki/EU",
+      "lang": ""
+    },
+    {
+      "text": "airspace",
+      "url": "https://en.wikipedia.org/wiki/Airspace",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Khujand Airport",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul International Airport",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamchy",
+      "url": "https://en.wikipedia.org/wiki/Tamchy",
+      "lang": ""
+    },
+    {
+      "text": "Almaty International Airport",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Berlin",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "lang": ""
+    },
+    {
+      "text": "London",
+      "url": "https://en.wikipedia.org/wiki/London",
+      "lang": ""
+    },
+    {
+      "text": "Paris",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad",
+      "lang": ""
+    },
+    {
+      "text": "[ 22 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-22",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken",
+      "lang": ""
+    },
+    {
+      "text": "Batken Airport",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Hub",
+      "url": "https://en.wikipedia.org/wiki/Airline_hub",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman Airport",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Tamchy",
+      "url": "https://en.wikipedia.org/wiki/Tamchy",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul International Airport",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad Airport",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol",
+      "lang": ""
+    },
+    {
+      "text": "Karakol International Airport",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 23 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-23",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Kerben Airport",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 24 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-24",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn",
+      "lang": ""
+    },
+    {
+      "text": "Naryn Airport",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 25 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-25",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "Osh International Airport",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Focus city",
+      "url": "https://en.wikipedia.org/wiki/Focus_city",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov Airport",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Talas Airport",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-auto4-6",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Khujand",
+      "url": "https://en.wikipedia.org/wiki/Khujand",
+      "lang": ""
+    },
+    {
+      "text": "Khujand Airport",
+      "url": "https://en.wikipedia.org/wiki/Khujand_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "Almaty",
+      "url": "https://en.wikipedia.org/wiki/Almaty",
+      "lang": ""
+    },
+    {
+      "text": "Almaty International Airport",
+      "url": "https://en.wikipedia.org/wiki/Almaty_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent International Airport",
+      "url": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 26 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-26",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "interline agreements",
+      "url": "https://en.wikipedia.org/wiki/Interlining",
+      "lang": ""
+    },
+    {
+      "text": "Aero Nomad Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aero_Nomad_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "[ 27 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-27",
+      "lang": ""
+    },
+    {
+      "text": "FlyDubai",
+      "url": "https://en.wikipedia.org/wiki/FlyDubai",
+      "lang": ""
+    },
+    {
+      "text": "EU",
+      "url": "https://en.wikipedia.org/wiki/EU",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "EU",
+      "url": "https://en.wikipedia.org/wiki/EU",
+      "lang": ""
+    },
+    {
+      "text": "airspace",
+      "url": "https://en.wikipedia.org/wiki/Airspace",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "[ update ]",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "[ 28 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-28",
+      "lang": ""
+    },
+    {
+      "text": "De Havilland Canada DHC-8-Q400",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada_Dash_8",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-akchabar.kg-29",
+      "lang": ""
+    },
+    {
+      "text": "[ 29 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-akchabar.kg-29",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A321neo",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A321neo",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=6",
+      "lang": ""
+    },
+    {
+      "text": "Airbus A320neo family",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320neo_family",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-:1-30",
+      "lang": ""
+    },
+    {
+      "text": "Paris",
+      "url": "https://en.wikipedia.org/wiki/Paris",
+      "lang": ""
+    },
+    {
+      "text": "Berlin",
+      "url": "https://en.wikipedia.org/wiki/Berlin",
+      "lang": ""
+    },
+    {
+      "text": "London",
+      "url": "https://en.wikipedia.org/wiki/London",
+      "lang": ""
+    },
+    {
+      "text": "[ 30 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-:1-30",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asman_Airline_Aircraft.jpg",
+      "lang": ""
+    },
+    {
+      "text": "[ 31 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-31",
+      "lang": ""
+    },
+    {
+      "text": "[ 32 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-32",
+      "lang": ""
+    },
+    {
+      "text": "De Havilland",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Canada",
+      "lang": ""
+    },
+    {
+      "text": "[ 33 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-33",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=7",
+      "lang": ""
+    },
+    {
+      "text": "[ update ]",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "[ 34 ]",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_note-34",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=8",
+      "lang": ""
+    },
+    {
+      "text": "List of airlines of Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=9",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines",
+      "url": "https://commons.wikimedia.org/wiki/Category:Asman%20Airlines",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto2_1-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto2_1-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto2_1-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Kyrgyz Stock Exchange\"",
+      "url": "https://www.kse.kg/ru/RussianAllNewsBlog/8207",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines officially receives IATA code -\"",
+      "url": "https://24.kg/english/322647_Asman_Airlines_officially_receives_IATA_code/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines Airline Profile | CAPA\"",
+      "url": "https://centreforaviation.com/data/profiles/airlines/asman-airlines-kgn",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto3_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэропорт \"Манас\" создал новую авиакомпанию - \"Асман Эйрлайнс\" \"",
+      "url": "https://kaktus.media/doc/483185_aeroport_manas_sozdal_novyu_aviakompaniu_asman_eyrlayns.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines - ch-aviation\"",
+      "url": "https://www.ch-aviation.com/airlines/E69",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-2",
+      "lang": ""
+    },
+    {
+      "text": "4",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-3",
+      "lang": ""
+    },
+    {
+      "text": "5",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-4",
+      "lang": ""
+    },
+    {
+      "text": "6",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-5",
+      "lang": ""
+    },
+    {
+      "text": "7",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-6",
+      "lang": ""
+    },
+    {
+      "text": "8",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto4_6-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Международный аэропорт «Манас»\"",
+      "url": "http://www.airport.kg/schedule",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-7",
+      "lang": ""
+    },
+    {
+      "text": "\"Проверка сессии - ОсОО.KG\"",
+      "url": "https://www.osoo.kg/inn/02906202310521/",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto1_8-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto1_8-1",
+      "lang": ""
+    },
+    {
+      "text": "3",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-auto1_8-2",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines совершит первый авиаперелет из Бишкека в Ош 27 сентября -\"",
+      "url": "https://24.kg/ekonomika/302017_Asman_Airlines_sovershit_pervyiy_aviaperelet_iznbspbishkeka_vnbsposhnbsp27nbspsentyabrya/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-9",
+      "lang": ""
+    },
+    {
+      "text": "\"The EU Air Safety List - European Commission\"",
+      "url": "https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-10",
+      "lang": ""
+    },
+    {
+      "text": "\"Commission updates EU Air Safety List: all air carriers from Kyrgyzstan removed, Air Express Algeria added - Mobility and Transport\"",
+      "url": "https://transport.ec.europa.eu/news-events/news/commission-updates-eu-air-safety-list-all-air-carriers-kyrgyzstan-removed-air-express-algeria-added-2026-06-09_en",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-:0_11-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-:0_11-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Kyrgyzstan's Asman Airlines Outlines Growth Strategy, Doubles Fleet | Aviation Week Network\"",
+      "url": "https://aviationweek.com/air-transport/airlines-lessors/kyrgyzstans-asman-airlines-outlines-growth-strategy-doubles-fleet",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-12",
+      "lang": ""
+    },
+    {
+      "text": "Аэропорт «Манас» создал еще одну авиакомпанию - «Асман Эйрлайнс»",
+      "url": "https://economist.kg/biznes/2023/06/30/aeroport-manas-sozdal-ieshchie-odnu-aviakompaniiu-asman-eirlains/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-13",
+      "lang": ""
+    },
+    {
+      "text": "\"Важная новость для авиации Кыргызстана! | Государственное агентство гражданской авиации\"",
+      "url": "https://caa.kg/ru/novosti/vazhnaya-novost-dlya-aviacii-kyrgyzstana",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-14",
+      "lang": ""
+    },
+    {
+      "text": "\"CEO Asman Airlines о том, как с нуля создать успешную авиакомпанию в Кыргызстане\"",
+      "url": "https://weproject.media/articles/detail/ceo-asman-airlines-o-tom-kak-s-nulya-sozdat-uspeshnuyu-aviakompaniyu-v-kyrgyzstane/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-15",
+      "lang": ""
+    },
+    {
+      "text": "\"30-сентября авиакомпания \"Asman Airlines\" осуществила свой первый рейс в направлении Бишкек-Талас. | Государственное агентство гражданской авиации\"",
+      "url": "https://caa.kg/ru/novosti/30-sentyabrya-aviakompaniya-asman-airlines-osuschestvila-svoy-pervyy-reys-v-napravlenii",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-16",
+      "lang": ""
+    },
+    {
+      "text": "\"В Бишкеке открыли офис государственной авиакомпании «Асман Эйрлайнс»\"",
+      "url": "https://kabar.kg/news/v-bishkeke-otkryli-ofis-gosudarstvennoi-aviakompanii-asman-eirlains/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-17",
+      "lang": ""
+    },
+    {
+      "text": "\"С 19 декабря стартуют рейсы Бишкек – Каракол с бесплатной перевозкой лыж\"",
+      "url": "https://economist.kg/transport/2024/12/18/s-19-diekabria-zapuskaiut-rieisy-bishkiek-karakol-dva-raza-v-niedieliu-s-biesplatnoi-pierievozkoi-lyzh/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-18",
+      "lang": ""
+    },
+    {
+      "text": "CEO Asman Airlines о том, как с нуля создать успешную авиакомпанию в Кыргызстане",
+      "url": "https://weproject.media/articles/detail/ceo-asman-airlines-o-tom-kak-s-nulya-sozdat-uspeshnuyu-aviakompaniyu-v-kyrgyzstane/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-19",
+      "lang": ""
+    },
+    {
+      "text": "Авиакомпания Asman Airlines совершит первый рейс из Оша в Каракол",
+      "url": "https://kabar.kg/news/aviakompaniia-asman-airlines-sovershit-pervyi-reis-iz-osha-v-karakol/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-20",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines запускает первый рейс между Ошем и Караколом",
+      "url": "https://kabarlar.org/puteshestviya/asman-airlines-zapuskaet-pervyj-rejs-mezhdu-oshem-i-karakolom/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-21",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines запустила прямой рейс Ош – Каракол – Ош (фото)\"",
+      "url": "https://economist.kg/transport/2025/01/10/asman-airlines-zapustila-priamoi-rieis-osh-karakol-osh-foto/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-22",
+      "lang": ""
+    },
+    {
+      "text": "\"Сколько будут стоить авиабилеты из Бишкека в Каракол? Названа цена\"",
+      "url": "https://economist.kg/novosti/2024/12/11/skolko-budut-stoit-aviabiliety-iz-bishkieka-v-karakol/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-23",
+      "lang": ""
+    },
+    {
+      "text": "\"Стала известна стоимость авиабилетов Бишкек - Каракол\"",
+      "url": "https://kaktus.media/doc/514495_stala_izvestna_stoimost_aviabiletov_bishkek_karakol.html",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-24",
+      "lang": ""
+    },
+    {
+      "text": "\"Asman Airlines operates technical flight on Bishkek-Kerben route -\"",
+      "url": "https://24.kg/english/320588_Asman_Airlines_operates_technical_flight_on_Bishkek-Kerben_route/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-25",
+      "lang": ""
+    },
+    {
+      "text": "Из Бишкека в Нарын за 40 минут: Asman Airlines запускает прямые рейсы",
+      "url": "https://economist.kg/transport/2025/08/13/iz-bishkieka-v-naryn-za-40-minut-asman-airlines-zapuskaiet-priamyie-rieisy/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-26",
+      "lang": ""
+    },
+    {
+      "text": "«Асман Эйрлайнс» и Malva Tour запускают прямые рейсы Ташкент — Тамчи",
+      "url": "https://24.kg/obschestvo/380608_asman_eyrlayns_iMalva_Tour_zapuskayut_pryamyie_reysyi_tashkent_tamchi/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-27",
+      "lang": ""
+    },
+    {
+      "text": "\"Instagram\"",
+      "url": "https://www.instagram.com/p/DBSxdFJIM_D/?locale=ru&hl=am-et",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-28",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-akchabar.kg_29-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-akchabar.kg_29-1",
+      "lang": ""
+    },
+    {
+      "text": "Третий самолет Asman Airlines прибудет в январе, четвертый — в мае 2025 года",
+      "url": "https://www.akchabar.kg/ru/news/tretij-samolet-asman-airlines-pribudet-v-yanvare-chetvertij-a-mae-2025-goda-jzsmudqwlzwocfmv",
+      "lang": ""
+    },
+    {
+      "text": "1",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-:1_30-0",
+      "lang": ""
+    },
+    {
+      "text": "2",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-:1_30-1",
+      "lang": ""
+    },
+    {
+      "text": "\"Kyrgyzstan's Asman Airlines eyes A320/1s for European routes - ch-aviation\"",
+      "url": "https://www.ch-aviation.com/news/147622-kyrgyzstans-asman-airlines-eyes-a3201s-for-european-routes",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-31",
+      "lang": ""
+    },
+    {
+      "text": "\"В Кыргызстан прибыл второй самолет для авиакомпании Asman Airlines -\"",
+      "url": "https://24.kg/obschestvo/309708_vkyirgyizstan_pribyil_vtoroy_samolet_dlya_aviakompanii_Asman_Airlines/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-32",
+      "lang": ""
+    },
+    {
+      "text": "\"First Dash 8 for Kyrgyzstan's Asman Airlines\"",
+      "url": "https://aerospaceglobalnews.com/news/first-dash-8-for-kyrgyzstans-asman-airlines/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-33",
+      "lang": ""
+    },
+    {
+      "text": "\"Третий самолет Asman Airlines прибудет в январе, четвертый — в мае 2025 года на Акчабаре\"",
+      "url": "https://www.akchabar.kg/ru/news/tretij-samolet-asman-airlines-pribudet-v-yanvare-chetvertij-a-mae-2025-goda-jzsmudqwlzwocfmv",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines#cite_ref-34",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&action=edit&section=10",
+      "lang": ""
+    },
+    {
+      "text": "Official website",
+      "url": "https://asmanairlines.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Portals",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Asia_(orthographic_projection).svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "Aviation",
+      "url": "https://en.wikipedia.org/wiki/Portal:Aviation",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Aerostan",
+      "url": "https://en.wikipedia.org/wiki/Aerostan",
+      "lang": ""
+    },
+    {
+      "text": "Asman Airlines",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Aero Nomad Airlines",
+      "url": "https://en.wikipedia.org/wiki/Aero_Nomad_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Avia Traffic Company",
+      "url": "https://en.wikipedia.org/wiki/Avia_Traffic_Company",
+      "lang": ""
+    },
+    {
+      "text": "Sky FRU",
+      "url": "https://en.wikipedia.org/wiki/Sky_FRU",
+      "lang": ""
+    },
+    {
+      "text": "Air Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Air_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Air Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Air_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Air Manas",
+      "url": "https://en.wikipedia.org/wiki/Air_Manas",
+      "lang": ""
+    },
+    {
+      "text": "Anikay Air",
+      "url": "https://en.wikipedia.org/wiki/Anikay_Air",
+      "lang": ""
+    },
+    {
+      "text": "Click Airways",
+      "url": "https://en.wikipedia.org/wiki/Click_Airways",
+      "lang": ""
+    },
+    {
+      "text": "Eastok Avia",
+      "url": "https://en.wikipedia.org/wiki/Eastok_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Esen Air",
+      "url": "https://en.wikipedia.org/wiki/Esen_Air",
+      "lang": ""
+    },
+    {
+      "text": "Galaxy Air",
+      "url": "https://en.wikipedia.org/wiki/Galaxy_Air",
+      "lang": ""
+    },
+    {
+      "text": "Golden Rule Airlines",
+      "url": "https://en.wikipedia.org/wiki/Golden_Rule_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Inter Trans Avia",
+      "url": "https://en.wikipedia.org/wiki/Inter_Trans_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Itek Air",
+      "url": "https://en.wikipedia.org/wiki/Itek_Air",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz Air",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_Air",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz International Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_International_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyz Trans Avia",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_Trans_Avia",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan Airlines",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "MAXavia",
+      "url": "https://en.wikipedia.org/wiki/MAXavia",
+      "lang": ""
+    },
+    {
+      "text": "Osh-Avia",
+      "url": "https://en.wikipedia.org/wiki/Osh-Avia",
+      "lang": ""
+    },
+    {
+      "text": "Pegasus Asia",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Phoenix Aviation",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Aviation",
+      "lang": ""
+    },
+    {
+      "text": "Sky Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Sky_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Sky KG Airlines",
+      "url": "https://en.wikipedia.org/wiki/Sky_KG_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "TezJet Airlines",
+      "url": "https://en.wikipedia.org/wiki/TezJet_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&oldid=1383958558",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&oldid=1383958558",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airlines of Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airlines established in 2023",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_established_in_2023",
+      "lang": ""
+    },
+    {
+      "text": "2023 establishments in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:2023_establishments_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Companies based in Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Category:Companies_based_in_Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Airlines formerly banned in the European Union",
+      "url": "https://en.wikipedia.org/wiki/Category:Airlines_formerly_banned_in_the_European_Union",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles needing additional references from January 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_January_2026",
+      "lang": ""
+    },
+    {
+      "text": "All articles needing additional references",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references",
+      "lang": ""
+    },
+    {
+      "text": "Use mdy dates from December 2024",
+      "url": "https://en.wikipedia.org/wiki/Category:Use_mdy_dates_from_December_2024",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from October 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2026",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing potentially dated statements from July 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2026",
+      "lang": ""
+    },
+    {
+      "text": "All articles containing potentially dated statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from October 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2025",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing potentially dated statements from September 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_September_2025",
+      "lang": ""
+    },
+    {
+      "text": "Commons category link is on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Kyrgyz-language sources (ky)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Kyrgyz-language_sources_(ky)",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Asman_Airlines&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Asman_Airlines",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kg-asman-wiki-retry.txt"
+}

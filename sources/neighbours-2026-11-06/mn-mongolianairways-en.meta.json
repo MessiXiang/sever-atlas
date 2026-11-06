@@ -1,0 +1,259 @@
+{
+  "id": "mn-mongolianairways-en",
+  "url": "https://www.mongolianairways.com/default",
+  "retrievedAt": "2026-11-06T10:01:17.334497+00:00",
+  "status": 200,
+  "finalUrl": "https://www.mongolianairways.com/default",
+  "bytes": 30021,
+  "sha256": "e47530e56873004fb8548c2ab5cdd1945228e93ad6fde16e15708164f447a7cd",
+  "file": "sources/neighbours-2026-11-06/mn-mongolianairways-en.html",
+  "title": "Mongolian Airways LLC",
+  "links": [
+    {
+      "text": "Eng",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "Мон",
+      "url": "https://www.mongolianairways.com/mgl",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/contact",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "ENG",
+      "url": "https://www.mongolianairways.com/default",
+      "lang": ""
+    },
+    {
+      "text": "МОН",
+      "url": "https://www.mongolianairways.com/mgl",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/index.php?intro",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/index.php",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/contact",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "readmore",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/about",
+      "lang": ""
+    },
+    {
+      "text": "Viewmore",
+      "url": "https://www.mongolianairways.com/flight",
+      "lang": ""
+    },
+    {
+      "text": "Scheduled Passenger Flights",
+      "url": "https://www.mongolianairways.com/13/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Passenger Flights",
+      "url": "https://www.mongolianairways.com/7/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Cargo Flights",
+      "url": "https://www.mongolianairways.com/6/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Helicopter Flights",
+      "url": "https://www.mongolianairways.com/5/sitem",
+      "lang": ""
+    },
+    {
+      "text": "All",
+      "url": "https://www.mongolianairways.com/service",
+      "lang": ""
+    },
+    {
+      "text": "All",
+      "url": "https://www.mongolianairways.com/news",
+      "lang": ""
+    },
+    {
+      "text": "readmore",
+      "url": "https://www.mongolianairways.com/9/nitem",
+      "lang": ""
+    },
+    {
+      "text": "Монгол түмэн минь сайхан наадаарай",
+      "url": "https://www.mongolianairways.com/9/nitem",
+      "lang": ""
+    },
+    {
+      "text": "readmore",
+      "url": "https://www.mongolianairways.com/1/nitem",
+      "lang": ""
+    },
+    {
+      "text": "Мэндчилгээ",
+      "url": "https://www.mongolianairways.com/1/nitem",
+      "lang": ""
+    },
+    {
+      "text": "readmore",
+      "url": "https://www.mongolianairways.com/7/nitem",
+      "lang": ""
+    },
+    {
+      "text": "Iceland becomes Eurocontrol’s first new member for a decade",
+      "url": "https://www.mongolianairways.com/7/nitem",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.ulaanbaatar-airport.mn/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.boeing.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.airbus.com/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://mrtd.gov.mn/",
+      "lang": ""
+    },
+    {
+      "text": "info@mongolianairways.com",
+      "url": "mailto:info@mongolianairways.com",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://www.websites.mn/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/mn-mongolianairways-en.txt"
+}

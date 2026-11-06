@@ -1,0 +1,124 @@
+{
+  "id": "kg-asman-about",
+  "url": "https://asmanairlines.kg/content/about-us",
+  "retrievedAt": "2026-11-06T10:20:45.274845+00:00",
+  "status": 200,
+  "finalUrl": "https://asmanairlines.kg/content/about-us",
+  "bytes": 88782,
+  "sha256": "fb7cf5cc618e2878714a2618c6f3f4f5a78f1adacc8f284f083b421e05006b39",
+  "file": "sources/neighbours-2026-11-06/kg-asman-about.html",
+  "title": "About us",
+  "links": [
+    {
+      "text": "",
+      "url": "https://asmanairlines.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Manage trip",
+      "url": "https://asmanairlines.kg/manage-trip",
+      "lang": ""
+    },
+    {
+      "text": "My bookings",
+      "url": "https://asmanairlines.kg/profile/bookings",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://asmanairlines.kg/",
+      "lang": ""
+    },
+    {
+      "text": "Information",
+      "url": "https://asmanairlines.kg/content",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://asmanairlines.kg/",
+      "lang": ""
+    },
+    {
+      "text": "About us",
+      "url": "https://asmanairlines.kg/content/about-us",
+      "lang": ""
+    },
+    {
+      "text": "Rules for the Transportation of Pregnant women and children",
+      "url": "https://asmanairlines.kg/content/transporting-rules",
+      "lang": ""
+    },
+    {
+      "text": "Fare Types and Conditions of Application",
+      "url": "https://asmanairlines.kg/content/types-of-fares-for-your-flights",
+      "lang": ""
+    },
+    {
+      "text": "Types of Fares and Rules for Your Seat on Board",
+      "url": "https://asmanairlines.kg/content/fares-seat",
+      "lang": ""
+    },
+    {
+      "text": "Conditions of Carriage for Passengers and Baggage",
+      "url": "https://asmanairlines.kg/content/passenger-rules",
+      "lang": ""
+    },
+    {
+      "text": "Transportation of pets",
+      "url": "https://asmanairlines.kg/content/transportation-of-pets",
+      "lang": ""
+    },
+    {
+      "text": "Personal data processing",
+      "url": "https://asmanairlines.kg/content/PERSONAL",
+      "lang": ""
+    },
+    {
+      "text": "+996 312 25 16 00",
+      "url": "tel:+996 312 25 16 00",
+      "lang": ""
+    },
+    {
+      "text": "+996 999 25 16 00",
+      "url": "tel:+996 999 25 16 00",
+      "lang": ""
+    },
+    {
+      "text": "+996 705 25 16 00",
+      "url": "tel:+996 705 25 16 00",
+      "lang": ""
+    },
+    {
+      "text": "Email , Location",
+      "url": "https://asmanairlines.kg/contacts",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/profile.php?id=61556679628524",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/asmanair.kg?igsh=MWtmY29rOWZ3dDN6dA==",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/asman-airlines",
+      "lang": ""
+    },
+    {
+      "text": "Terms",
+      "url": "https://asmanairlines.kg/content/terms-of-use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://asmanairlines.kg/content/privacy-policy",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/kg-asman-about.txt"
+}

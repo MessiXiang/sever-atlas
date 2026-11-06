@@ -6567,6 +6567,182 @@
       "region": "RU-KHM",
       "coordinateSource": "https://ourairports.com/airports/USHI/",
       "coordinateStatus": "airport"
+    },
+    "PLX": {
+      "id": "PLX",
+      "iata": "PLX",
+      "icao": "UASS",
+      "ru": "Семей",
+      "zh": "塞梅",
+      "en": "Semey",
+      "airportNameEn": "Semei International Airport",
+      "lat": 50.351295,
+      "lon": 80.234398,
+      "tz": "Asia/Almaty",
+      "coordinateSource": "https://ourairports.com/airports/UASS/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+      "region": "KZ-ABA",
+      "country": "KZ",
+      "countryZh": "哈萨克斯坦",
+      "sourceCode": "PLX",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "UKK": {
+      "id": "UKK",
+      "iata": "UKK",
+      "icao": "UASK",
+      "ru": "Усть-Каменогорск",
+      "zh": "厄斯克门",
+      "en": "Oskemen / Ust-Kamenogorsk",
+      "airportNameEn": "Oskemen International Airport",
+      "lat": 50.035033,
+      "lon": 82.496057,
+      "tz": "Asia/Almaty",
+      "coordinateSource": "https://ourairports.com/airports/UASK/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+      "region": "KZ-VOS",
+      "country": "KZ",
+      "countryZh": "哈萨克斯坦",
+      "sourceCode": "UKK",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "UZR": {
+      "id": "UZR",
+      "iata": "UZR",
+      "icao": "UASU",
+      "ru": "Урджар",
+      "zh": "乌尔扎尔",
+      "en": "Urzhar / Urjar",
+      "airportNameEn": "Urzhar Airport",
+      "lat": 47.091786,
+      "lon": 81.668216,
+      "tz": "Asia/Almaty",
+      "coordinateSource": "https://ourairports.com/airports/UZR/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+      "region": "KZ-ABA",
+      "country": "KZ",
+      "countryZh": "哈萨克斯坦",
+      "sourceCode": "UZR",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "SZI": {
+      "id": "SZI",
+      "iata": "SZI",
+      "icao": "UASZ",
+      "ru": "Зайсан",
+      "zh": "斋桑",
+      "en": "Zaysan / Zaisan",
+      "airportNameEn": "Zaysan Airport",
+      "lat": 47.487491,
+      "lon": 84.887675,
+      "tz": "Asia/Almaty",
+      "coordinateSource": "https://ourairports.com/airports/UASZ/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+      "region": "KZ-VOS",
+      "country": "KZ",
+      "countryZh": "哈萨克斯坦",
+      "sourceCode": "SZI",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "NCU": {
+      "id": "NCU",
+      "iata": "NCU",
+      "icao": "UZNN",
+      "ru": "Нукус",
+      "zh": "努库斯",
+      "en": "Nukus",
+      "airportNameEn": "Nukus International Airport",
+      "lat": 42.4884,
+      "lon": 59.623299,
+      "tz": "Asia/Samarkand",
+      "coordinateSource": "https://ourairports.com/airports/UTNN/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+      "region": "UZ-QR",
+      "country": "UZ",
+      "countryZh": "乌兹别克斯坦",
+      "sourceCode": "NCU",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "OMN": {
+      "id": "OMN",
+      "iata": "OMN",
+      "icao": "UZTZ",
+      "ru": "Заамин",
+      "zh": "扎明",
+      "en": "Zomin / Zaamin",
+      "airportNameEn": "Zomin Airport",
+      "lat": 40.01402,
+      "lon": 68.41103,
+      "tz": "Asia/Samarkand",
+      "coordinateSource": "https://ourairports.com/airports/UTTZ/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+      "region": "UZ-JI",
+      "country": "UZ",
+      "countryZh": "乌兹别克斯坦",
+      "sourceCode": "OMN",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "MOK": {
+      "id": "MOK",
+      "iata": "MOK",
+      "icao": "UZNM",
+      "ru": "Муйнак",
+      "zh": "穆伊纳克",
+      "en": "Muynak / Moynaq",
+      "airportNameEn": "Muynak Airport",
+      "lat": 43.753636,
+      "lon": 59.029884,
+      "tz": "Asia/Samarkand",
+      "coordinateSource": "https://ourairports.com/airports/UTNM/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+      "region": "UZ-QR",
+      "country": "UZ",
+      "countryZh": "乌兹别克斯坦",
+      "sourceCode": "MOK",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
+    },
+    "RBZ": {
+      "id": "RBZ",
+      "iata": "RBZ",
+      "icao": null,
+      "ru": "Шахрисабз",
+      "zh": "沙赫里萨布兹",
+      "en": "Shahrisabz / Shakhrisabz",
+      "airportNameEn": "Shahrisabz Southwest Airport",
+      "lat": 39.030067,
+      "lon": 66.775825,
+      "tz": "Asia/Samarkand",
+      "coordinateSource": "https://ourairports.com/airports/UZ-0124/",
+      "coordinateStatus": "airport",
+      "coordinateLocalSource": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+      "region": "UZ-QA",
+      "country": "UZ",
+      "countryZh": "乌兹别克斯坦",
+      "sourceCode": "RBZ",
+      "tzVerified": true,
+      "timezoneSource": "https://data.iana.org/time-zones/tzdb/asia",
+      "zhLabelBasis": "中文通用地名／俄文、英文名音译；坐标来自 OurAirports 国家 CSV。"
     }
   },
   "flights": [
@@ -91202,6 +91378,650 @@
         }
       ],
       "note": "机场当前计划明确An-24；航司官网及机场官方公告交叉核实A247实际承运。A2321反向在接口标为Mi-8，机型冲突另列核查，不自动复制返程型号。"
+    },
+    {
+      "id": "neighbour-southern-sky-PLX-UZR-service",
+      "airline": "southern-sky",
+      "number": "",
+      "to": "UZR",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": "2026-12-31",
+      "source": "neighbour-sky-gov",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026 年 6–8 月每周 5 班，其余月份每周 2 班；具体星期与时刻需查票。",
+      "localSource": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+      "scheduleOriginal": "2026 年 6–8 月每周 5 班，其余月份每周 2 班；具体星期与时刻需查票。",
+      "note": "2026 年政府公告逐线确认 An-24 与补贴客运；官网和代理均公开售票。尚未取得完整现行时刻，不推演具体飞行日期。",
+      "booking": {
+        "method": "官网 / 在线代理",
+        "channel": "online",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://hisky.kz/",
+        "source": "https://hisky.kz/",
+        "text": "官网公开两条双向航线及 17,000 KZT 单程票价；Freedom Travel 提供在线查询和购票入口。官网售票子站本次访问要求登录，未核实出票与即时余位。咨询：+7 (7252) 920-450；该号码并非呼叫中心。",
+        "links": [
+          {
+            "title": "Freedom Travel 查询与购票",
+            "url": "https://freedom-travel.kz/airlines/southern-sky/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Southern Sky 官网 · 两条地方航线与票价",
+          "url": "https://hisky.kz/",
+          "local": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+          "url": "https://freedom-travel.kz/airlines/southern-sky/",
+          "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "PLX"
+    },
+    {
+      "id": "neighbour-southern-sky-UZR-PLX-service",
+      "airline": "southern-sky",
+      "number": "",
+      "to": "PLX",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": "2026-12-31",
+      "source": "neighbour-sky-gov",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026 年 6–8 月每周 5 班，其余月份每周 2 班；具体星期与时刻需查票。",
+      "localSource": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+      "scheduleOriginal": "2026 年 6–8 月每周 5 班，其余月份每周 2 班；具体星期与时刻需查票。",
+      "note": "2026 年政府公告逐线确认 An-24 与补贴客运；官网和代理均公开售票。尚未取得完整现行时刻，不推演具体飞行日期。",
+      "booking": {
+        "method": "官网 / 在线代理",
+        "channel": "online",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://hisky.kz/",
+        "source": "https://hisky.kz/",
+        "text": "官网公开两条双向航线及 17,000 KZT 单程票价；Freedom Travel 提供在线查询和购票入口。官网售票子站本次访问要求登录，未核实出票与即时余位。咨询：+7 (7252) 920-450；该号码并非呼叫中心。",
+        "links": [
+          {
+            "title": "Freedom Travel 查询与购票",
+            "url": "https://freedom-travel.kz/airlines/southern-sky/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Southern Sky 官网 · 两条地方航线与票价",
+          "url": "https://hisky.kz/",
+          "local": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+          "url": "https://freedom-travel.kz/airlines/southern-sky/",
+          "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "UZR"
+    },
+    {
+      "id": "neighbour-southern-sky-UKK-SZI-service",
+      "airline": "southern-sky",
+      "number": "",
+      "to": "SZI",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-sky-home",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "官网公布双向航线与 17,000 KZT 单程票价；现行完整班期未取得。",
+      "localSource": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+      "scheduleOriginal": "官网公布双向航线与 17,000 KZT 单程票价；现行完整班期未取得。",
+      "note": "官网当前公开此航线与票价；Freedom Travel 当前售票页逐线说明 An-24，并列出 2026 年 11 月可查询日期。机型由该代理说明及航司机队交叉核对；没有把 2026 年 2 月班表沿用到 11 月。",
+      "booking": {
+        "method": "官网 / 在线代理",
+        "channel": "online",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://hisky.kz/",
+        "source": "https://hisky.kz/",
+        "text": "官网公开两条双向航线及 17,000 KZT 单程票价；Freedom Travel 提供在线查询和购票入口。官网售票子站本次访问要求登录，未核实出票与即时余位。咨询：+7 (7252) 920-450；该号码并非呼叫中心。",
+        "links": [
+          {
+            "title": "Freedom Travel 查询与购票",
+            "url": "https://freedom-travel.kz/airlines/southern-sky/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+          "url": "https://freedom-travel.kz/airlines/southern-sky/",
+          "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "UKK"
+    },
+    {
+      "id": "neighbour-southern-sky-SZI-UKK-service",
+      "airline": "southern-sky",
+      "number": "",
+      "to": "UKK",
+      "aircraft": [
+        "An-24"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-sky-home",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "官网公布双向航线与 17,000 KZT 单程票价；现行完整班期未取得。",
+      "localSource": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+      "scheduleOriginal": "官网公布双向航线与 17,000 KZT 单程票价；现行完整班期未取得。",
+      "note": "官网当前公开此航线与票价；Freedom Travel 当前售票页逐线说明 An-24，并列出 2026 年 11 月可查询日期。机型由该代理说明及航司机队交叉核对；没有把 2026 年 2 月班表沿用到 11 月。",
+      "booking": {
+        "method": "官网 / 在线代理",
+        "channel": "online",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://hisky.kz/",
+        "source": "https://hisky.kz/",
+        "text": "官网公开两条双向航线及 17,000 KZT 单程票价；Freedom Travel 提供在线查询和购票入口。官网售票子站本次访问要求登录，未核实出票与即时余位。咨询：+7 (7252) 920-450；该号码并非呼叫中心。",
+        "links": [
+          {
+            "title": "Freedom Travel 查询与购票",
+            "url": "https://freedom-travel.kz/airlines/southern-sky/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+          "url": "https://freedom-travel.kz/airlines/southern-sky/",
+          "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "SZI"
+    },
+    {
+      "id": "neighbour-silk-avia-NCU-MOK-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "MOK",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 125,236 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "NCU"
+    },
+    {
+      "id": "neighbour-silk-avia-MOK-NCU-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "NCU",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 125,236 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "MOK"
+    },
+    {
+      "id": "neighbour-silk-avia-TAS-RBZ-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "RBZ",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 297,435 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "TAS"
+    },
+    {
+      "id": "neighbour-silk-avia-RBZ-TAS-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "TAS",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 297,435 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "RBZ"
+    },
+    {
+      "id": "neighbour-silk-avia-TAS-OMN-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "OMN",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 125,236 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "TAS"
+    },
+    {
+      "id": "neighbour-silk-avia-OMN-TAS-service",
+      "airline": "silk-avia",
+      "number": "",
+      "to": "TAS",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": null,
+      "arrival": null,
+      "days": [],
+      "start": null,
+      "end": null,
+      "source": "neighbour-silk-fares",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "unconfirmed",
+      "recordKind": "service",
+      "scheduleUnconfirmed": true,
+      "publicAccess": "verified",
+      "sourceLocator": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "localSource": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "scheduleOriginal": "2026-01-15 售票公告；票价调整自 2026-02-01 生效。未取得现行完整班表。",
+      "note": "2026 年官方公告确认航线与公开售票渠道；L-410 航线依据为 2025-04-07 官方公告。2026-11-11 UH-721 已另行逐班核实；其余日期及返程机型需在订票时确认。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "官方确认可通过官网、乌兹别克斯坦各机场售票柜台及 Uzbekistan Airways Sales 购票。2026-02-01 起公告所列该城市对单程起价 125,236 UZS，并非即时含税报价；返向最终价格需单独查询。咨询 +998 55 501-22-12。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "OMN"
+    },
+    {
+      "id": "neighbour-silk-avia-UH721-20261111",
+      "airline": "silk-avia",
+      "number": "UH-721",
+      "to": "RBZ",
+      "aircraft": [
+        "L-410"
+      ],
+      "departure": "12:00",
+      "arrival": "13:00",
+      "days": [
+        3
+      ],
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "source": "neighbour-silk-live",
+      "status": "confirmed",
+      "checkedAt": "2026-11-06",
+      "timeBasis": "local",
+      "recordKind": "timetable",
+      "scheduleUnconfirmed": false,
+      "publicAccess": "verified",
+      "sourceLocator": "官方查询：选中 2026-11-11；Flight Information / Aircraft Type L410；BEST OFFER 500 944 UZS。",
+      "localSource": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+      "scheduleOriginal": "2026-11-11 UH-721，TAS 12:00 → RBZ 13:00，L410，1 小时。",
+      "note": "官网售票页已显示这一日期的航班、L410 机型与可选票价 500,944 UZS。该记录只适用于这一日期，其他日期需单独查询。",
+      "booking": {
+        "method": "官网 / 机场柜台 / Uzbekistan Airways Sales",
+        "channel": "online-office",
+        "status": "verified",
+        "checkedAt": "2026-11-06",
+        "url": "https://www.silk-avia.com/en/",
+        "source": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+        "text": "2026-11-06 官方售票查询显示：2026-11-11 UH-721，L410，12:00–13:00，单程一名成人 500,944 UZS（BEST OFFER）。余位与价格会变化；也可向机场柜台及 Uzbekistan Airways Sales 购票。",
+        "links": [
+          {
+            "title": "Silk Avia 联系方式与办公室",
+            "url": "https://www.silk-avia.com/en/contacts/"
+          }
+        ]
+      },
+      "evidenceSources": [
+        {
+          "title": "Silk Avia · 2026 年票价与官网／柜台售票公告",
+          "url": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+          "local": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+          "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+          "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ],
+      "tags": [
+        "九国补查",
+        "公开售票"
+      ],
+      "from": "TAS",
+      "dates": [
+        "2026-11-11"
+      ],
+      "arrivalDayOffset": 0,
+      "durationMinutes": 60
     }
   ],
   "sources": {
@@ -91511,6 +92331,60 @@
       "valid": "2026-11-12、11-22、12-12、12-22",
       "checkedAt": "2026-11-05",
       "note": "双向FullFlightsSchedule接口：实际承运KV、Yak-42、charter=false；本地快照按航向保存。"
+    },
+    "neighbour-sky-home": {
+      "title": "Southern Sky 官网 · 两条地方航线与票价",
+      "url": "https://hisky.kz/",
+      "local": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+      "checkedAt": "2026-11-06",
+      "type": "公开航线 / 售票资料",
+      "valid": "按每条记录注明的核查范围",
+      "note": "核实公开售票渠道；未公布的班期不展开为具体日期。报价及余票以售票方即时查询为准。"
+    },
+    "neighbour-sky-gov": {
+      "title": "阿拜州交通部门 · 2026 塞梅—乌尔扎尔 An-24",
+      "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+      "local": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+      "checkedAt": "2026-11-06",
+      "type": "公开航线 / 售票资料",
+      "valid": "按每条记录注明的核查范围",
+      "note": "核实公开售票渠道；未公布的班期不展开为具体日期。报价及余票以售票方即时查询为准。"
+    },
+    "neighbour-sky-agent": {
+      "title": "Freedom Travel · Southern Sky 航线、An-24 与售票入口",
+      "url": "https://freedom-travel.kz/airlines/southern-sky/",
+      "local": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+      "checkedAt": "2026-11-06",
+      "type": "公开航线 / 售票资料",
+      "valid": "按每条记录注明的核查范围",
+      "note": "核实公开售票渠道；未公布的班期不展开为具体日期。报价及余票以售票方即时查询为准。"
+    },
+    "neighbour-silk-fares": {
+      "title": "Silk Avia · 2026 年票价与官网／柜台售票公告",
+      "url": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+      "local": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "checkedAt": "2026-11-06",
+      "type": "公开航线 / 售票资料",
+      "valid": "按每条记录注明的核查范围",
+      "note": "核实公开售票渠道；未公布的班期不展开为具体日期。报价及余票以售票方即时查询为准。"
+    },
+    "neighbour-silk-types": {
+      "title": "Silk Avia · 三条 L-410 支线说明（2025-04-07）",
+      "url": "https://www.silk-avia.com/en/news/our-fleet-has-welcomed-a-new-addition/",
+      "local": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+      "checkedAt": "2026-11-06",
+      "type": "公开航线 / 售票资料",
+      "valid": "按每条记录注明的核查范围",
+      "note": "核实公开售票渠道；未公布的班期不展开为具体日期。报价及余票以售票方即时查询为准。"
+    },
+    "neighbour-silk-live": {
+      "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+      "url": "https://www.silk-avia.com/en/",
+      "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+      "checkedAt": "2026-11-06",
+      "type": "官方售票查询",
+      "valid": "2026-11-11",
+      "note": "官方售票快照对应 2026-11-11：UH-721，L410，12:00–13:00。该记录只适用于这一日期。"
     }
   },
   "airlines": {
@@ -91695,6 +92569,51 @@
           "checkedAt": "2026-11-05"
         }
       ]
+    },
+    "southern-sky": {
+      "ru": "Южное Небо",
+      "en": "Southern Sky / Hi Sky",
+      "zh": "南天空航空",
+      "code": "IH",
+      "url": "https://hisky.kz/",
+      "note": "哈萨克斯坦两组 An-24 地方客运；官网与在线代理公开售票，完整现行班期未取得。",
+      "evidence": [
+        {
+          "title": "Southern Sky 官网 · 两条地方航线与票价",
+          "url": "https://hisky.kz/",
+          "local": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "阿拜州交通部门 · 2026 塞梅—乌尔扎尔 An-24",
+          "url": "https://www.gov.kz/org/abay-transport/press/news/details/1294389?lang=ru",
+          "local": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ]
+    },
+    "silk-avia": {
+      "ru": "Silk Avia",
+      "en": "Silk Avia",
+      "zh": "Silk Avia（丝绸航空）",
+      "code": "UH",
+      "role": "brand",
+      "url": "https://www.silk-avia.com/en/",
+      "note": "按 Silk Avia 售票品牌收录 L-410 服务，具体承运人以出票信息为准；不重复建立 Uzbekistan Airways / Uzbekistan Helicopters 条目。",
+      "evidence": [
+        {
+          "title": "Silk Avia · 2026 年票价与官网／柜台售票公告",
+          "url": "https://www.silk-avia.com/en/news/update-on-domestic-flight-fare-levels/",
+          "local": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+          "checkedAt": "2026-11-06"
+        },
+        {
+          "title": "Silk Avia 官方售票 · UH-721 / 2026-11-11 / L410",
+          "url": "https://www.silk-avia.com/en/",
+          "local": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+          "checkedAt": "2026-11-06"
+        }
+      ]
     }
   },
   "issues": [
@@ -91789,8 +92708,8 @@
       "occurrences": 1
     }
   ],
-  "asOf": "2026-11-05",
-  "version": "2026.11.05-ugra-nv",
+  "asOf": "2026-11-06",
+  "version": "2026.11.06-neighbours-experiences",
   "coverage": [
     {
       "name": "2-й Архангельский объединённый авиаотряд",
@@ -96892,7 +97811,7 @@
       "checkedAt": null
     }
   ],
-  "scope": "这是研究快照，尚未达到全部现存航司、全部当前航线的完整覆盖。俄文维基306个条目为航司核查清单；另列包机组织方，避免混作承运航司。来源包括航司、机场、地方政府及逐条注明的地方报道。苏俄机型、An-2衍生TVS和L-410均纳入。缺时刻、年份冲突、按客流开航和受限目的地在冷门航线清单保留；不将年度计划当作每日实际执飞。",
+  "scope": "这是研究快照，尚未达到全部现存航司、全部当前航线的完整覆盖。俄文维基306个条目为航司核查清单；另列包机组织方，避免混作承运航司。来源包括航司、机场、地方政府及逐条注明的地方报道。苏俄机型、An-2衍生TVS和L-410均纳入。缺时刻、年份冲突、按客流开航和受限目的地在冷门航线清单保留；不将年度计划当作每日实际执飞。 九国补查新增公开售票航线资料；没有现行班期的记录不进入日期推演。观光、特技飞行与整机包机在「飞行体验」按机型单列。",
   "airportAliases": {
     "RU-0361": "KYA-BURNY"
   },
@@ -97304,5 +98223,23 @@
     ],
     "registrySource": "zato-list",
     "limitations": "核对的是当前366个航点，不是对俄罗斯所有管制区域边界的完整测绘。没有当前航班的ЗАТО城市不虚构航线；未确认地点不会仅凭名字归类。"
+  },
+  "neighbourReview": {
+    "checkedAt": "2026-11-06",
+    "countries": [
+      "GE",
+      "AZ",
+      "KZ",
+      "KG",
+      "UZ",
+      "TJ",
+      "TM",
+      "BY",
+      "MN"
+    ],
+    "serviceRecords": 10,
+    "datedRecords": 1,
+    "report": "NEIGHBOURS-2026-11-06.md",
+    "research": "research/neighbours-2026-11-06/REPORT.md"
   }
 }

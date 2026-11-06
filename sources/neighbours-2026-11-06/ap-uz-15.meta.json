@@ -1,0 +1,739 @@
+{
+  "id": "ap-uz-15",
+  "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+  "retrievedAt": "2026-11-06T08:39:38.246077+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+  "bytes": 106006,
+  "sha256": "cef1ada65b8a75d64a0ccdf6248020324ad8710714dddc359170126a33bd6ca6",
+  "file": "sources/neighbours-2026-11-06/ap-uz-15.html",
+  "title": "Tashkent-Humo Airport - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Tashkent-Humo+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Tashkent-Humo+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Tashkent-Humo+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Tashkent-Humo+Airport",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 References",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "Cebuano",
+      "url": "https://ceb.wikipedia.org/wiki/Tashkent_Vostochny",
+      "lang": "ceb"
+    },
+    {
+      "text": "Bahasa Melayu",
+      "url": "https://ms.wikipedia.org/wiki/Lapangan_Terbang_Tashkent_Vostochny",
+      "lang": "ms"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82-%D0%A5%D1%83%D0%BC%D0%BE_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "lang": "ru"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q4452961#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&oldid=1370863463",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Tashkent-Humo_Airport&id=1370863463&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Tashkent-Humo_Airport&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q4452961",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "41°18′42″N 69°23′30″E ﻿ / ﻿ 41.31167°N 69.39167°E ﻿ / 41.31167; 69.39167",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Tashkent-Humo_Airport&params=41_18_42_N_69_23_30_E_region:UZ_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Translation_to_english_arrow.svg",
+      "lang": ""
+    },
+    {
+      "text": "the corresponding article",
+      "url": "https://ru.wikipedia.org/wiki/Ташкент-Хумо%20(аэропорт)",
+      "lang": ""
+    },
+    {
+      "text": "View",
+      "url": "https://translate.google.com/translate?&u=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82-%D0%A5%D1%83%D0%BC%D0%BE_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)&sl=ru&tl=en&prev=_t&hl=en",
+      "lang": ""
+    },
+    {
+      "text": "DeepL",
+      "url": "https://deepl.com",
+      "lang": ""
+    },
+    {
+      "text": "Google Translate",
+      "url": "https://translate.google.com/",
+      "lang": ""
+    },
+    {
+      "text": "LLM translation guideline",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:LLM-assisted_translation",
+      "lang": ""
+    },
+    {
+      "text": "adding a topic",
+      "url": "https://en.wikipedia.org/wiki/Template:Expand_Russian#Topics_and_categorization",
+      "lang": ""
+    },
+    {
+      "text": "main category",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_translation_from_Russian_Wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "copyright attribution",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Copying_within_Wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "edit summary",
+      "url": "https://en.wikipedia.org/wiki/Help:Edit_summary",
+      "lang": ""
+    },
+    {
+      "text": "interlanguage link",
+      "url": "https://en.wikipedia.org/wiki/Help:Interlanguage_links",
+      "lang": ""
+    },
+    {
+      "text": "talk page",
+      "url": "https://en.wikipedia.org/wiki/Talk:Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia:Translation",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Translation",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "41°18′42″N 69°23′30″E ﻿ / ﻿ 41.31167°N 69.39167°E ﻿ / 41.31167; 69.39167",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Tashkent-Humo_Airport&params=41_18_42_N_69_23_30_E_region:UZ_type:airport",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-:0-1",
+      "lang": ""
+    },
+    {
+      "text": "Yashnobod district of",
+      "url": "https://en.wikipedia.org/wiki/Yashnobod",
+      "lang": ""
+    },
+    {
+      "text": "Tashkent",
+      "url": "https://en.wikipedia.org/wiki/Tashkent",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Ilyushin Il-76",
+      "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76",
+      "lang": ""
+    },
+    {
+      "text": "Uzbek Railways",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_Railways",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-4",
+      "lang": ""
+    },
+    {
+      "text": "[ 5 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-5",
+      "lang": ""
+    },
+    {
+      "text": "Boeing 767",
+      "url": "https://en.wikipedia.org/wiki/Boeing_767",
+      "lang": ""
+    },
+    {
+      "text": "Huma bird",
+      "url": "https://en.wikipedia.org/wiki/Huma_bird",
+      "lang": ""
+    },
+    {
+      "text": "[ 6 ]",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_note-6",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-:0_1-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Международный аэропорт «Ташкент-Восточный» переименовали — Афиша Ташкента\"",
+      "url": "https://www.afisha.uz/ru/gorod/2025/11/15/humo",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "\"250 31.03.2018 О дополнительных мерах по реализации проекта «Строительство современного аэропортового комплекса гражданской (деловой) авиации на базе аэродрома «Ташкент-Восточный»»\"",
+      "url": "https://web.archive.org/web/20180405214702/http://lex.uz/Pages/GetPDFView.aspx?lact_id=3608023",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://lex.uz/Pages/GetPDFView.aspx?lact_id=3608023",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-3",
+      "lang": ""
+    },
+    {
+      "text": "\"Часть бывшего ТАПОиЧ передали для создания аэропорта бизнес-авиации\"",
+      "url": "https://web.archive.org/web/20181127193547/https://www.spot.uz/ru/2018/04/05/business-avia/",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "https://www.spot.uz/ru/2018/04/05/business-avia/",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-4",
+      "lang": ""
+    },
+    {
+      "text": "\"Скоро откроют новый аэропорт в Ташкенте\"",
+      "url": "https://www.spot.uz/ru/2025/06/19/new-airport/",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20250701093536/https://www.spot.uz/ru/2025/06/19/new-airport/",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_unrecognized_language",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-5",
+      "lang": ""
+    },
+    {
+      "text": "\"Аэропорт открылся\"",
+      "url": "https://www.afisha.uz/ru/gorod/2025/08/28/new-airport",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20250911031302/https://www.afisha.uz/ru/gorod/2025/08/28/new-airport",
+      "lang": ""
+    },
+    {
+      "text": "cite web",
+      "url": "https://en.wikipedia.org/wiki/Template:Cite_web",
+      "lang": ""
+    },
+    {
+      "text": "link",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_unrecognized_language",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport#cite_ref-6",
+      "lang": ""
+    },
+    {
+      "text": "\"Международный аэропорт «Ташкент-Восточный» переименовали — Афиша Ташкента\"",
+      "url": "https://www.afisha.uz/ru/gorod/2025/11/15/humo",
+      "lang": ""
+    },
+    {
+      "text": "Archived",
+      "url": "https://web.archive.org/web/20251115191718/https://www.afisha.uz/ru/gorod/2025/11/15/humo",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&oldid=1370863463",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&oldid=1370863463",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Soviet air bases",
+      "url": "https://en.wikipedia.org/wiki/Category:Soviet_air_bases",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Airports established in 2025",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_established_in_2025",
+      "lang": ""
+    },
+    {
+      "text": "2025 establishments in Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Category:2025_establishments_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description matches Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Articles needing translation from Russian Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_needing_translation_from_Russian_Wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox mapframe without shape links in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 maint: unrecognized language",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_maint:_unrecognized_language",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Tashkent-Humo_Airport&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Tashkent-Humo_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-uz-15.txt"
+}

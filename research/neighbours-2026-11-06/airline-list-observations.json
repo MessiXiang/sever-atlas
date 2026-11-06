@@ -1,0 +1,4432 @@
+[
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "",
+    "href": null,
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Defunct airlines of Georgia (country)",
+    "href": "/wiki/Category:Defunct_airlines_of_Georgia_(country)",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "List of airlines of Georgia",
+    "href": "/wiki/List_of_airlines_of_Georgia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Air Georgia",
+    "href": "/wiki/Air_Georgia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Camex (airline)",
+    "href": "/wiki/Camex_(airline)",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Georgian Airways",
+    "href": "/wiki/Georgian_Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Georgian Wings",
+    "href": "/wiki/Georgian_Wings",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Geosky",
+    "href": "/wiki/Geosky",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "MyWay Airlines",
+    "href": "/wiki/MyWay_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ge",
+    "categoryItem": "Vanilla Sky (airline)",
+    "href": "/wiki/Vanilla_Sky_(airline)",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ka-ge",
+    "categoryItem": "ჯორჯიან ეარვეისი",
+    "href": "/wiki/%E1%83%AF%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%98%E1%83%90%E1%83%9C_%E1%83%94%E1%83%90%E1%83%A0%E1%83%95%E1%83%94%E1%83%98%E1%83%A1%E1%83%98",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "Defunct airlines of Mongolia",
+    "href": "/wiki/Category:Defunct_airlines_of_Mongolia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "List of airlines of Mongolia",
+    "href": "/wiki/List_of_airlines_of_Mongolia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "Aero Mongolia",
+    "href": "/wiki/Aero_Mongolia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "Eznis Airways",
+    "href": "/wiki/Eznis_Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "Hunnu Air",
+    "href": "/wiki/Hunnu_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn",
+    "categoryItem": "MIAT Mongolian Airlines",
+    "href": "/wiki/MIAT_Mongolian_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "",
+    "href": null,
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "Монголын Иргэний Агаарын Тээвэр",
+    "href": "/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B%D0%BD_%D0%98%D1%80%D0%B3%D1%8D%D0%BD%D0%B8%D0%B9_%D0%90%D0%B3%D0%B0%D0%B0%D1%80%D1%8B%D0%BD_%D0%A2%D1%8D%D1%8D%D0%B2%D1%8D%D1%80",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "Монголын урьдны авиа компани",
+    "href": "/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B%D0%BD_%D1%83%D1%80%D1%8C%D0%B4%D0%BD%D1%8B_%D0%B0%D0%B2%D0%B8%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "Аэр Маркет",
+    "href": "/wiki/%D0%90%D1%8D%D1%80_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "Аэро Монголиа",
+    "href": "/wiki/%D0%90%D1%8D%D1%80%D0%BE_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B0",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-mn-mn",
+    "categoryItem": "Изинис Эйрвэйз",
+    "href": "/wiki/%D0%98%D0%B7%D0%B8%D0%BD%D0%B8%D1%81_%D0%AD%D0%B9%D1%80%D0%B2%D1%8D%D0%B9%D0%B7",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Air Batumi",
+    "href": "/wiki/Air_Batumi",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Fly Georgia",
+    "href": "/wiki/Fly_Georgia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Flyvista",
+    "href": "/wiki/Flyvista",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Georgian Airways",
+    "href": "/wiki/Georgian_Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Georgian International Airlines",
+    "href": "/wiki/Georgian_International_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "MyWay Airlines",
+    "href": "/wiki/MyWay_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "TAM Air",
+    "href": "/wiki/TAM_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "category-ru-ge",
+    "categoryItem": "Vanilla Sky Airlines",
+    "href": "/wiki/Vanilla_Sky_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "",
+    "href": null,
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "MIAT Mongolian Airlines",
+    "href": "/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:MIAT_Mongolian_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Список авиакомпаний Монголии",
+    "href": "/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Изинис Эйрвэйз",
+    "href": "/wiki/%D0%98%D0%B7%D0%B8%D0%BD%D0%B8%D1%81_%D0%AD%D0%B9%D1%80%D0%B2%D1%8D%D0%B9%D0%B7",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Aero Mongolia",
+    "href": "/wiki/Aero_Mongolia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Air Cargo Mongolia",
+    "href": "/wiki/Air_Cargo_Mongolia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Blue Sky Aviation",
+    "href": "/wiki/Blue_Sky_Aviation",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Hangard Airlines",
+    "href": "/wiki/Hangard_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "Hunnu Air",
+    "href": "/wiki/Hunnu_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "category-ru-mn",
+    "categoryItem": "MIAT Mongolian Airlines",
+    "href": "/wiki/MIAT_Mongolian_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-ru-tj",
+    "categoryItem": "Asia Airways",
+    "href": "/wiki/Asia_Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-ru-tj",
+    "categoryItem": "East Air",
+    "href": "/wiki/East_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-ru-tj",
+    "categoryItem": "Somon Air",
+    "href": "/wiki/Somon_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-ru-tj",
+    "categoryItem": "Tajik Air",
+    "href": "/wiki/Tajik_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-ru-tm",
+    "categoryItem": "",
+    "href": null,
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-ru-tm",
+    "categoryItem": "Turkmenistan Airlines",
+    "href": "/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Turkmenistan_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-ru-tm",
+    "categoryItem": "Туркменские авиалинии",
+    "href": "/wiki/%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tg-tj",
+    "categoryItem": "Сомон Эйр",
+    "href": "/wiki/%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD_%D0%AD%D0%B9%D1%80",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tg-tj",
+    "categoryItem": "Тоҷик Эйр",
+    "href": "/wiki/%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA_%D0%AD%D0%B9%D1%80",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tj",
+    "categoryItem": "Defunct airlines of Tajikistan",
+    "href": "/wiki/Category:Defunct_airlines_of_Tajikistan",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tj",
+    "categoryItem": "List of airlines of Tajikistan",
+    "href": "/wiki/List_of_airlines_of_Tajikistan",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tj",
+    "categoryItem": "Somon Air",
+    "href": "/wiki/Somon_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "category-tj",
+    "categoryItem": "Tajik Air",
+    "href": "/wiki/Tajik_Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-tm",
+    "categoryItem": "List of airlines of Turkmenistan",
+    "href": "/wiki/List_of_airlines_of_Turkmenistan",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-tm",
+    "categoryItem": "List of defunct airlines of Turkmenistan",
+    "href": "/wiki/List_of_defunct_airlines_of_Turkmenistan",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "category-tm",
+    "categoryItem": "Turkmenistan Airlines",
+    "href": "/wiki/Turkmenistan_Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "Azal Avia Cargo [ 2 ]",
+      "",
+      "AHC",
+      "",
+      "AZALAVIACARGO",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "Azal Avia Cargo [ 2 ] AHC AZALAVIACARGO Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "Azərbaycan Hava Yolları [ 2 ]",
+      "J2",
+      "AHY",
+      "",
+      "AZAL",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "Azərbaycan Hava Yolları [ 2 ] J2 AHY AZAL Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "AZALJET [ 2 ]",
+      "",
+      "",
+      "",
+      "AZALJET",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "AZALJET [ 2 ] AZALJET Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "Silk Way Airlines [ 2 ]",
+      "ZP",
+      "AZQ",
+      "",
+      "SILK LINE",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "Silk Way Airlines [ 2 ] ZP AZQ SILK LINE Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "Silk Way West Airlines [ 2 ]",
+      "7L",
+      "AZG",
+      "",
+      "SILK WEST",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "Silk Way West Airlines [ 2 ] 7L AZG SILK WEST Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-az-az",
+    "table": 0,
+    "cells": [
+      "SW Business Aviation [ 2 ]",
+      "",
+      "ESW",
+      "",
+      "W-BUSINESS",
+      "Heydər Əliyev Beynəlxalq Aeroportu",
+      ""
+    ],
+    "rowText": "SW Business Aviation [ 2 ] ESW W-BUSINESS Heydər Əliyev Beynəlxalq Aeroportu",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 0,
+    "cells": [
+      "Белавія",
+      "В2",
+      "BRU",
+      "",
+      "BELAVIA",
+      "Нацыянальны аэрапорт Мінск",
+      "Нацыянальная авіякампанія"
+    ],
+    "rowText": "Белавія В2 BRU BELAVIA Нацыянальны аэрапорт Мінск Нацыянальная авіякампанія",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 1,
+    "cells": [
+      "Авіякампанія Гродна",
+      "",
+      "GRX",
+      "",
+      "GRODNO",
+      "Аэрапорт Гродна",
+      ""
+    ],
+    "rowText": "Авіякампанія Гродна GRX GRODNO Аэрапорт Гродна",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 1,
+    "cells": [
+      "Genex",
+      "",
+      "GNX",
+      "",
+      "AEROGENEX",
+      "Нацыянальны аэрапорт Мінск",
+      ""
+    ],
+    "rowText": "Genex GNX AEROGENEX Нацыянальны аэрапорт Мінск",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 1,
+    "cells": [
+      "РубіСтар",
+      "",
+      "RSB",
+      "",
+      "RUBYSTAR",
+      "Нацыянальны аэрапорт Мінск",
+      ""
+    ],
+    "rowText": "РубіСтар RSB RUBYSTAR Нацыянальны аэрапорт Мінск",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 1,
+    "cells": [
+      "ТрансАвіяЭкспарт",
+      "AL",
+      "TXC",
+      "",
+      "TRANSEXPORT",
+      "Нацыянальны аэрапорт Мінск",
+      ""
+    ],
+    "rowText": "ТрансАвіяЭкспарт AL TXC TRANSEXPORT Нацыянальны аэрапорт Мінск",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-be-by",
+    "table": 1,
+    "cells": [
+      "Rada Airlines",
+      "",
+      "RDA",
+      "",
+      "",
+      "Нацыянальны аэрапорт Мінск",
+      ""
+    ],
+    "rowText": "Rada Airlines RDA Нацыянальны аэрапорт Мінск",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 0,
+    "cells": [
+      "Azerbaijan Airlines",
+      "J2",
+      "AHY",
+      "",
+      "AZAL",
+      "2006",
+      "Heydar Aliyev International Airport",
+      "Flag carrier"
+    ],
+    "rowText": "Azerbaijan Airlines J2 AHY AZAL 2006 Heydar Aliyev International Airport Flag carrier",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 1,
+    "cells": [
+      "ASG Business Aviation ASG Helicopter Services",
+      "",
+      "ESW",
+      "",
+      "W-BUSINESS",
+      "2007",
+      "Heydar Aliyev International Airport",
+      "Previously SW Business Aviation Ceased airline-type operations"
+    ],
+    "rowText": "ASG Business Aviation ASG Helicopter Services ESW W-BUSINESS 2007 Heydar Aliyev International Airport Previously SW Business Aviation Ceased airline-type operations",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 2,
+    "cells": [
+      "Silk Way Airlines",
+      "ZP",
+      "AZQ",
+      "",
+      "SILK LINE",
+      "2019",
+      "Heydar Aliyev International Airport",
+      "Established out of Silk Way assets"
+    ],
+    "rowText": "Silk Way Airlines ZP AZQ SILK LINE 2019 Heydar Aliyev International Airport Established out of Silk Way assets",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 2,
+    "cells": [
+      "Silk Way West Airlines",
+      "7L",
+      "AZG",
+      "",
+      "SILK WEST",
+      "2012",
+      "Heydar Aliyev International Airport",
+      "Established out of Silk Way assets"
+    ],
+    "rowText": "Silk Way West Airlines 7L AZG SILK WEST 2012 Heydar Aliyev International Airport Established out of Silk Way assets",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 3,
+    "cells": [
+      "Buta Airways",
+      "",
+      "",
+      "AHY",
+      "AZAL",
+      "2016",
+      "2023",
+      "Previously AZALJet Merged into Azerbaijan Airlines of which was a subsidiary"
+    ],
+    "rowText": "Buta Airways AHY AZAL 2016 2023 Previously AZALJet Merged into Azerbaijan Airlines of which was a subsidiary",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 3,
+    "cells": [
+      "Imair Airlines",
+      "",
+      "IK",
+      "ITX",
+      "IMPROTEX",
+      "1995",
+      "2009",
+      ""
+    ],
+    "rowText": "Imair Airlines IK ITX IMPROTEX 1995 2009",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-en-az",
+    "table": 3,
+    "cells": [
+      "Turan Air",
+      "",
+      "3T",
+      "URN",
+      "TURAN",
+      "1995",
+      "2013",
+      ""
+    ],
+    "rowText": "Turan Air 3T URN TURAN 1995 2013",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-en-by",
+    "table": 0,
+    "cells": [
+      "Belavia",
+      "B2",
+      "BRU",
+      "",
+      "BELAVIA",
+      "1996",
+      "Minsk National Airport",
+      "Flag carrier"
+    ],
+    "rowText": "Belavia B2 BRU BELAVIA 1996 Minsk National Airport Flag carrier",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-en-by",
+    "table": 1,
+    "cells": [
+      "Genex",
+      "",
+      "GNX",
+      "",
+      "AEROGENEX",
+      "2006",
+      "Minsk National Airport",
+      ""
+    ],
+    "rowText": "Genex GNX AEROGENEX 2006 Minsk National Airport",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-en-by",
+    "table": 1,
+    "cells": [
+      "Ruby Star",
+      "",
+      "RSB",
+      "",
+      "RUBYSTAR",
+      "2003",
+      "Minsk National Airport",
+      ""
+    ],
+    "rowText": "Ruby Star RSB RUBYSTAR 2003 Minsk National Airport",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-en-by",
+    "table": 1,
+    "cells": [
+      "TransAVIAexport Airlines",
+      "AL",
+      "TXC",
+      "",
+      "TRANSEXPORT",
+      "1992",
+      "Minsk National Airport",
+      "renamed TAE Avia in 2021"
+    ],
+    "rowText": "TransAVIAexport Airlines AL TXC TRANSEXPORT 1992 Minsk National Airport renamed TAE Avia in 2021",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-en-by",
+    "table": 1,
+    "cells": [
+      "Rada Airlines",
+      "",
+      "RDA",
+      "",
+      "RADA",
+      "2015",
+      "Minsk National Airport",
+      ""
+    ],
+    "rowText": "Rada Airlines RDA RADA 2015 Minsk National Airport",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 0,
+    "cells": [
+      "Georgian Airways",
+      "",
+      "A9",
+      "TGZ",
+      "TAMAZI",
+      "2004",
+      "Rebranded from Airzena (1994-2004); Flag carrier of Georgia"
+    ],
+    "rowText": "Georgian Airways A9 TGZ TAMAZI 2004 Rebranded from Airzena (1994-2004); Flag carrier of Georgia",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 1,
+    "cells": [
+      "Tbilisi Airways",
+      "",
+      "",
+      "",
+      "",
+      "2022 (planned)",
+      "[ 1 ]"
+    ],
+    "rowText": "Tbilisi Airways 2022 (planned) [ 1 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 1,
+    "cells": [
+      "Vanilla Sky Airlines",
+      "",
+      "",
+      "",
+      "",
+      "2008",
+      ""
+    ],
+    "rowText": "Vanilla Sky Airlines 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 2,
+    "cells": [
+      "Camex",
+      "",
+      "Z7",
+      "CMS",
+      "CAMEX",
+      "2018",
+      "[ 2 ]"
+    ],
+    "rowText": "Camex Z7 CMS CAMEX 2018 [ 2 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 2,
+    "cells": [
+      "Easy Charter",
+      "",
+      "RD",
+      "LOL",
+      "EASY CHARTER",
+      "2020",
+      ""
+    ],
+    "rowText": "Easy Charter RD LOL EASY CHARTER 2020",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 2,
+    "cells": [
+      "Geosky",
+      "",
+      "D4",
+      "GEL",
+      "SKY GEORGIA",
+      "2017",
+      "[ 3 ]"
+    ],
+    "rowText": "Geosky D4 GEL SKY GEORGIA 2017 [ 3 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 2,
+    "cells": [
+      "Georgian Airlines",
+      "",
+      "GH",
+      "IGT",
+      "SKY IKA",
+      "2022",
+      "[ citation needed ]"
+    ],
+    "rowText": "Georgian Airlines GH IGT SKY IKA 2022 [ citation needed ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 2,
+    "cells": [
+      "MyWay Airlines",
+      "",
+      "MJ",
+      "MYW",
+      "MY SKY",
+      "2018",
+      ""
+    ],
+    "rowText": "MyWay Airlines MJ MYW MY SKY 2018",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "GE",
+    "sourceId": "wiki-en-ge",
+    "table": 3,
+    "cells": [
+      "TCA",
+      "",
+      "N6",
+      "TZS",
+      "TOKA",
+      "2012",
+      "[ 4 ]"
+    ],
+    "rowText": "TCA N6 TZS TOKA 2012 [ 4 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 0,
+    "cells": [
+      "Aero Nomad Airlines",
+      "",
+      "KA",
+      "ANK",
+      "AERO NOMAD",
+      "2021",
+      ""
+    ],
+    "rowText": "Aero Nomad Airlines KA ANK AERO NOMAD 2021",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 0,
+    "cells": [
+      "Asman Airlines",
+      "",
+      "MN",
+      "KGN",
+      "MANAS BIRD",
+      "2023",
+      ""
+    ],
+    "rowText": "Asman Airlines MN KGN MANAS BIRD 2023",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 0,
+    "cells": [
+      "Avia Traffic Company",
+      "",
+      "YK",
+      "AVJ",
+      "ATOMIC",
+      "2003",
+      ""
+    ],
+    "rowText": "Avia Traffic Company YK AVJ ATOMIC 2003",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 0,
+    "cells": [
+      "Sky FRU",
+      "",
+      "",
+      "KGZ",
+      "SKY FRU",
+      "2023",
+      ""
+    ],
+    "rowText": "Sky FRU KGZ SKY FRU 2023",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 1,
+    "cells": [
+      "Aerostan",
+      "",
+      "KW",
+      "BSC",
+      "BIGSHOT",
+      "2004",
+      ""
+    ],
+    "rowText": "Aerostan KW BSC BIGSHOT 2004",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 1,
+    "cells": [
+      "New Way Cargo Airlines",
+      "",
+      "",
+      "NWY",
+      "NEW WAY CARGO",
+      "2022",
+      ""
+    ],
+    "rowText": "New Way Cargo Airlines NWY NEW WAY CARGO 2022",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "ACI Airlines",
+      "",
+      "",
+      "",
+      "",
+      "2006",
+      "2008",
+      ""
+    ],
+    "rowText": "ACI Airlines 2006 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Air Bishkek",
+      "",
+      "KR",
+      "EAA",
+      "EASTOK",
+      "2011",
+      "2016",
+      ""
+    ],
+    "rowText": "Air Bishkek KR EAA EASTOK 2011 2016",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Air Kyrgyzstan",
+      "",
+      "QH",
+      "LYN",
+      "ALTYN AVIA",
+      "2013",
+      "2018",
+      ""
+    ],
+    "rowText": "Air Kyrgyzstan QH LYN ALTYN AVIA 2013 2018",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Air Manas",
+      "",
+      "ZM",
+      "MBB",
+      "AIR MANAS",
+      "2006",
+      "2022",
+      ""
+    ],
+    "rowText": "Air Manas ZM MBB AIR MANAS 2006 2022",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Altyn Air",
+      "",
+      "QH",
+      "LYN",
+      "ALTYN AVIA",
+      "2001",
+      "2006",
+      "Rebranded as Kyrgyzstan Air Company"
+    ],
+    "rowText": "Altyn Air QH LYN ALTYN AVIA 2001 2006 Rebranded as Kyrgyzstan Air Company",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Anikay Air",
+      "",
+      "",
+      "AKF",
+      "ANIKAY",
+      "2003",
+      "2007",
+      ""
+    ],
+    "rowText": "Anikay Air AKF ANIKAY 2003 2007",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Asia Alpha Airways",
+      "",
+      "OD",
+      "SAL",
+      "",
+      "2006",
+      "2008",
+      ""
+    ],
+    "rowText": "Asia Alpha Airways OD SAL 2006 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Asian Air",
+      "",
+      "KJ",
+      "AAZ",
+      "",
+      "2009",
+      "2012",
+      ""
+    ],
+    "rowText": "Asian Air KJ AAZ 2009 2012",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Botir-Avia",
+      "",
+      "B8",
+      "BTR",
+      "BOTIR-AVIA",
+      "2000",
+      "2008",
+      ""
+    ],
+    "rowText": "Botir-Avia B8 BTR BOTIR-AVIA 2000 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Eastok Avia",
+      "",
+      "E4",
+      "EAA",
+      "EASTOK",
+      "2006",
+      "2011",
+      "Rebranded as Air Bishkek"
+    ],
+    "rowText": "Eastok Avia E4 EAA EASTOK 2006 2011 Rebranded as Air Bishkek",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Esen Air",
+      "",
+      "K9",
+      "ESD",
+      "ESEN AIR",
+      "2006",
+      "2008",
+      ""
+    ],
+    "rowText": "Esen Air K9 ESD ESEN AIR 2006 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Galaxy Air",
+      "",
+      "70",
+      "GAL",
+      "GALAXY",
+      "2006",
+      "2010",
+      ""
+    ],
+    "rowText": "Galaxy Air 70 GAL GALAXY 2006 2010",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Golden Rule Airlines",
+      "",
+      "",
+      "GRS",
+      "GOLDEN RULE",
+      "2003",
+      "2011",
+      ""
+    ],
+    "rowText": "Golden Rule Airlines GRS GOLDEN RULE 2003 2011",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Intal Air",
+      "",
+      "",
+      "INL",
+      "INTAL AVIA",
+      "2005",
+      "2008",
+      ""
+    ],
+    "rowText": "Intal Air INL INTAL AVIA 2005 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Inter Trans Avia",
+      "",
+      "Y5",
+      "ITD",
+      "SEITEK",
+      "2002",
+      "2004",
+      ""
+    ],
+    "rowText": "Inter Trans Avia Y5 ITD SEITEK 2002 2004",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Itek Air",
+      "",
+      "GI",
+      "IKA",
+      "ITEK-AIR",
+      "1999",
+      "2010",
+      ""
+    ],
+    "rowText": "Itek Air GI IKA ITEK-AIR 1999 2010",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "KAS Air",
+      "",
+      "KW",
+      "KSD",
+      "AEROKAS",
+      "2001",
+      "2002",
+      ""
+    ],
+    "rowText": "KAS Air KW KSD AEROKAS 2001 2002",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyz Air",
+      "",
+      "KT",
+      "KAF",
+      "",
+      "2002",
+      "2003",
+      ""
+    ],
+    "rowText": "Kyrgyz Air KT KAF 2002 2003",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyz Trans Avia",
+      "",
+      "6K",
+      "KTC",
+      "DINARA",
+      "2009",
+      "2013",
+      ""
+    ],
+    "rowText": "Kyrgyz Trans Avia 6K KTC DINARA 2009 2013",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyz Airways",
+      "",
+      "KR",
+      "EAA",
+      "",
+      "2006",
+      "2011",
+      "Rebranded as Air Bishkek"
+    ],
+    "rowText": "Kyrgyz Airways KR EAA 2006 2011 Rebranded as Air Bishkek",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyz Airways",
+      "",
+      "KH",
+      "KGZ",
+      "BERMET",
+      "2004",
+      "2006",
+      ""
+    ],
+    "rowText": "Kyrgyz Airways KH KGZ BERMET 2004 2006",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyzstan Air Company",
+      "",
+      "QH",
+      "LYN",
+      "",
+      "2006",
+      "2013",
+      "Rebranded as Air Kyrgyzstan"
+    ],
+    "rowText": "Kyrgyzstan Air Company QH LYN 2006 2013 Rebranded as Air Kyrgyzstan",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyzstan Airlines",
+      "",
+      "R8",
+      "KGA",
+      "KYRGYZ",
+      "1992",
+      "2005",
+      "Merged into Altyn Air"
+    ],
+    "rowText": "Kyrgyzstan Airlines R8 KGA KYRGYZ 1992 2005 Merged into Altyn Air",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Kyrgyz International Airlines",
+      "",
+      "KO",
+      "KYL",
+      "KYRMAL",
+      "2002",
+      "2005",
+      ""
+    ],
+    "rowText": "Kyrgyz International Airlines KO KYL KYRMAL 2002 2005",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Manas Air",
+      "",
+      "MV",
+      "KGM",
+      "MANAS AIR",
+      "2000",
+      "2001",
+      ""
+    ],
+    "rowText": "Manas Air MV KGM MANAS AIR 2000 2001",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "MAXavia",
+      "",
+      "",
+      "MAI",
+      "MAX AVIA",
+      "2006",
+      "2009",
+      ""
+    ],
+    "rowText": "MAXavia MAI MAX AVIA 2006 2009",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Moalem Aviation",
+      "",
+      "2Y",
+      "AMA",
+      "MOALEM",
+      "2021",
+      "2026",
+      ""
+    ],
+    "rowText": "Moalem Aviation 2Y AMA MOALEM 2021 2026",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Osh-Avia",
+      "",
+      "",
+      "OSH",
+      "OSH AVIA",
+      "2006",
+      "2008",
+      ""
+    ],
+    "rowText": "Osh-Avia OSH OSH AVIA 2006 2008",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Pegasus Asia",
+      "",
+      "ZM",
+      "MBB",
+      "",
+      "2013",
+      "2015",
+      "Rebranded as Air Manas"
+    ],
+    "rowText": "Pegasus Asia ZM MBB 2013 2015 Rebranded as Air Manas",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Phoenix Aviation",
+      "",
+      "P3",
+      "PHG",
+      "PHENIX GROUP",
+      "1998",
+      "2005",
+      "Rebranded as AVE.com to operate jet equipment under the UAE registry. Listed on the European Union ban list on 22 March 2006."
+    ],
+    "rowText": "Phoenix Aviation P3 PHG PHENIX GROUP 1998 2005 Rebranded as AVE.com to operate jet equipment under the UAE registry. Listed on the European Union ban list on 22 March 2006.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Quadro-Aero",
+      "",
+      "",
+      "QVR",
+      "",
+      "2000",
+      "2004",
+      ""
+    ],
+    "rowText": "Quadro-Aero QVR 2000 2004",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Reem Air",
+      "",
+      "V4",
+      "REK",
+      "",
+      "2004",
+      "2007",
+      ""
+    ],
+    "rowText": "Reem Air V4 REK 2004 2007",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "S Group International",
+      "",
+      "",
+      "IND",
+      "INTER GROUP",
+      "2006",
+      "2015",
+      ""
+    ],
+    "rowText": "S Group International IND INTER GROUP 2006 2015",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Sky Bishkek",
+      "",
+      "GY",
+      "BIS",
+      "",
+      "2012",
+      "2015",
+      ""
+    ],
+    "rowText": "Sky Bishkek GY BIS 2012 2015",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Sky KG Airlines",
+      "",
+      "Y3",
+      "KGK",
+      "KYRGYZ SKY",
+      "2004",
+      "2021",
+      "Currently operates non-flight services rather than an airline."
+    ],
+    "rowText": "Sky KG Airlines Y3 KGK KYRGYZ SKY 2004 2021 Currently operates non-flight services rather than an airline.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Sky Gate International Aviation",
+      "",
+      "",
+      "SGD",
+      "AIR BISHKEK",
+      "2003",
+      "2008",
+      "Registered in Kyrgyzstan with base at Amman, Jordan ."
+    ],
+    "rowText": "Sky Gate International Aviation SGD AIR BISHKEK 2003 2008 Registered in Kyrgyzstan with base at Amman, Jordan .",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Sky Way Air",
+      "",
+      "",
+      "SAB",
+      "SKY ASIA",
+      "2004",
+      "2019"
+    ],
+    "rowText": "Sky Way Air SAB SKY ASIA 2004 2019",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Star of Asia",
+      "",
+      "",
+      "SSA",
+      "",
+      "1992",
+      "1995",
+      ""
+    ],
+    "rowText": "Star of Asia SSA 1992 1995",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Sun Light Airlines",
+      "",
+      "6L",
+      "SUH",
+      "",
+      "2004",
+      "2006",
+      ""
+    ],
+    "rowText": "Sun Light Airlines 6L SUH 2004 2006",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Tenir Airlines",
+      "",
+      "",
+      "TEB",
+      "",
+      "2005",
+      "2009",
+      ""
+    ],
+    "rowText": "Tenir Airlines TEB 2005 2009",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "TezJet Airlines",
+      "",
+      "K9",
+      "TEZ",
+      "TEZJET",
+      "2013",
+      "2026",
+      ""
+    ],
+    "rowText": "TezJet Airlines K9 TEZ TEZJET 2013 2026",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-en-kg",
+    "table": 2,
+    "cells": [
+      "Trast-Aero",
+      "",
+      "S5",
+      "TSJ",
+      "",
+      "2005",
+      "2010",
+      ""
+    ],
+    "rowText": "Trast-Aero S5 TSJ 2005 2010",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 0,
+    "cells": [
+      "Air Astana",
+      "«Эйр Астана» әуекомпаниясы",
+      "",
+      "2001",
+      "KC",
+      "KZR",
+      "ASTANALINE"
+    ],
+    "rowText": "Air Astana «Эйр Астана» әуекомпаниясы 2001 KC KZR ASTANALINE",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 0,
+    "cells": [
+      "FlyArystan",
+      "FlyArystan әуекомпаниясы",
+      "",
+      "2018",
+      "FS",
+      "AYN",
+      "ARYSTAN"
+    ],
+    "rowText": "FlyArystan FlyArystan әуекомпаниясы 2018 FS AYN ARYSTAN",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 0,
+    "cells": [
+      "Qazaq Air",
+      "QAZAQ AIR әуекомпаниясы",
+      "",
+      "2015",
+      "IQ",
+      "QAZ",
+      "SAMRUK"
+    ],
+    "rowText": "Qazaq Air QAZAQ AIR әуекомпаниясы 2015 IQ QAZ SAMRUK",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 0,
+    "cells": [
+      "SCAT",
+      "«СКАТ» әуекомпаниясы",
+      "",
+      "1997",
+      "DV",
+      "VSV",
+      "VLASTA"
+    ],
+    "rowText": "SCAT «СКАТ» әуекомпаниясы 1997 DV VSV VLASTA",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Aerotrans",
+      "",
+      "2000",
+      "",
+      "ATG",
+      ""
+    ],
+    "rowText": "Aerotrans 2000 ATG",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Avia Jaynar",
+      "",
+      "2001",
+      "JN",
+      "SAP",
+      "TOBOL"
+    ],
+    "rowText": "Avia Jaynar 2001 JN SAP TOBOL",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Comlux KZ",
+      "",
+      "2009",
+      "",
+      "KAZ",
+      "KAZLUX"
+    ],
+    "rowText": "Comlux KZ 2009 KAZ KAZLUX",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "East Wing",
+      "",
+      "2006",
+      "",
+      "EWZ",
+      ""
+    ],
+    "rowText": "East Wing 2006 EWZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Euro-Asia Air",
+      "",
+      "1997",
+      "5B",
+      "EAK",
+      "EAKAZ"
+    ],
+    "rowText": "Euro-Asia Air 1997 5B EAK EAKAZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Fly Jet KZ",
+      "",
+      "2008",
+      "",
+      "FJK",
+      ""
+    ],
+    "rowText": "Fly Jet KZ 2008 FJK",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Jet Airlines",
+      "",
+      "2008",
+      "",
+      "SOZ",
+      ""
+    ],
+    "rowText": "Jet Airlines 2008 SOZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Kaz Air Jet",
+      "",
+      "2008",
+      "",
+      "KEJ",
+      ""
+    ],
+    "rowText": "Kaz Air Jet 2008 KEJ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Kazakhmys",
+      "",
+      "2007",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Kazakhmys 2007",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Kazaviaspas",
+      "",
+      "2003",
+      "",
+      "KZS",
+      "SPAKAZ"
+    ],
+    "rowText": "Kazaviaspas 2003 KZS SPAKAZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Khozu Avia",
+      "",
+      "2002",
+      "",
+      "OZU",
+      ""
+    ],
+    "rowText": "Khozu Avia 2002 OZU",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Prime Aviation",
+      "",
+      "2005",
+      "",
+      "PKZ",
+      ""
+    ],
+    "rowText": "Prime Aviation 2005 PKZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Sayat Air",
+      "",
+      "2007",
+      "",
+      "SYM",
+      ""
+    ],
+    "rowText": "Sayat Air 2007 SYM",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Sky Service (Kazakhstan)",
+      "",
+      "2004",
+      "",
+      "KVR",
+      "KAVAIR"
+    ],
+    "rowText": "Sky Service (Kazakhstan) 2004 KVR KAVAIR",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Sunday Airlines",
+      "",
+      "2013",
+      "DV",
+      "VSV",
+      "VLASTA"
+    ],
+    "rowText": "Sunday Airlines 2013 DV VSV VLASTA",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Zhetysu",
+      "",
+      "1994",
+      "",
+      "JTU",
+      "KAVAIR"
+    ],
+    "rowText": "Zhetysu 1994 JTU KAVAIR",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 1,
+    "cells": [
+      "Sigma Airlines",
+      "",
+      "2017",
+      "",
+      "SGL",
+      "SIGAIR"
+    ],
+    "rowText": "Sigma Airlines 2017 SGL SIGAIR",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-en-kz",
+    "table": 2,
+    "cells": [
+      "Jupiter Jet",
+      "",
+      "2016",
+      "IM",
+      "JPJ",
+      "JupiterJet"
+    ],
+    "rowText": "Jupiter Jet 2016 IM JPJ JupiterJet",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 0,
+    "cells": [
+      "Aero Mongolia",
+      "",
+      "M0",
+      "MNG",
+      "AERO MONGOLIA",
+      "2003"
+    ],
+    "rowText": "Aero Mongolia M0 MNG AERO MONGOLIA 2003",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 0,
+    "cells": [
+      "Hunnu Air",
+      "",
+      "MR",
+      "MML",
+      "TRANS MONGOLIA",
+      "2012"
+    ],
+    "rowText": "Hunnu Air MR MML TRANS MONGOLIA 2012",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 0,
+    "cells": [
+      "MIAT Mongolian Airlines",
+      "",
+      "OM",
+      "MGL",
+      "MONGOL AIR",
+      "1956"
+    ],
+    "rowText": "MIAT Mongolian Airlines OM MGL MONGOL AIR 1956",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 1,
+    "cells": [
+      "Eznis Airways",
+      "",
+      "MG",
+      "EZA",
+      "EZNIS",
+      "2019"
+    ],
+    "rowText": "Eznis Airways MG EZA EZNIS 2019",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 2,
+    "cells": [
+      "Sky Horse Aviation [ 1 ]",
+      "",
+      "",
+      "TNL",
+      "SKY HORSE",
+      ""
+    ],
+    "rowText": "Sky Horse Aviation [ 1 ] TNL SKY HORSE",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 2,
+    "cells": [
+      "Mongolian Airways",
+      "",
+      "XF",
+      "MGW",
+      "GREAT MONGOLIAN",
+      "2011"
+    ],
+    "rowText": "Mongolian Airways XF MGW GREAT MONGOLIAN 2011",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-en-mn",
+    "table": 3,
+    "cells": [
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 0,
+    "cells": [
+      "Asia Sky Lines",
+      "LIC",
+      "ASIASLINE",
+      "2018"
+    ],
+    "rowText": "Asia Sky Lines LIC ASIASLINE 2018",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 0,
+    "cells": [
+      "FlyUnion Airlines",
+      "FCH",
+      "SKY UNION",
+      "2019"
+    ],
+    "rowText": "FlyUnion Airlines FCH SKY UNION 2019",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 0,
+    "cells": [
+      "Khatlon Air",
+      "KHT",
+      "KHATLON",
+      "2012"
+    ],
+    "rowText": "Khatlon Air KHT KHATLON 2012",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 0,
+    "cells": [
+      "Sky Golden Lachin",
+      "LSG",
+      "SKY LACHIN",
+      "1969"
+    ],
+    "rowText": "Sky Golden Lachin LSG SKY LACHIN 1969",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 1,
+    "cells": [
+      "Shohin Airlines",
+      "",
+      "DW",
+      "DSH",
+      "—",
+      "2025",
+      ""
+    ],
+    "rowText": "Shohin Airlines DW DSH — 2025",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 1,
+    "cells": [
+      "Somon Air",
+      "",
+      "SZ",
+      "SMR",
+      "SOMON AIR",
+      "2007",
+      "Current [ when? ] largest airline"
+    ],
+    "rowText": "Somon Air SZ SMR SOMON AIR 2007 Current [ when? ] largest airline",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 1,
+    "cells": [
+      "Tajik Air",
+      "",
+      "7J",
+      "TJK",
+      "TAJIKAIR",
+      "1924",
+      "Flag carrier, resumed operations in early 2025. [ 1 ] [ 2 ]"
+    ],
+    "rowText": "Tajik Air 7J TJK TAJIKAIR 1924 Flag carrier, resumed operations in early 2025. [ 1 ] [ 2 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "Asia Airways",
+      "",
+      "",
+      "ASW",
+      "ASIAWAYS",
+      "2007",
+      "2015",
+      ""
+    ],
+    "rowText": "Asia Airways ASW ASIAWAYS 2007 2015",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "Asian Express Airline",
+      "",
+      "KV",
+      "TXP",
+      "TAJIK EXPRESS",
+      "2007",
+      "2019",
+      "In process of restarting."
+    ],
+    "rowText": "Asian Express Airline KV TXP TAJIK EXPRESS 2007 2019 In process of restarting.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "East Air",
+      "",
+      "EG",
+      "ETJ",
+      "EAST TAJIK",
+      "2007",
+      "2014",
+      ""
+    ],
+    "rowText": "East Air EG ETJ EAST TAJIK 2007 2014",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "Silkline Air",
+      "",
+      "",
+      "PAB",
+      "",
+      "2012",
+      "2012",
+      ""
+    ],
+    "rowText": "Silkline Air PAB 2012 2012",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "Tajikistan International Airlines",
+      "",
+      "TJ",
+      "TZK",
+      "TIL",
+      "1994",
+      "1997",
+      ""
+    ],
+    "rowText": "Tajikistan International Airlines TJ TZK TIL 1994 1997",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TJ",
+    "sourceId": "wiki-en-tj",
+    "table": 2,
+    "cells": [
+      "Toj Airlines",
+      "",
+      "7J",
+      "TJK",
+      "",
+      "1990",
+      "2016",
+      ""
+    ],
+    "rowText": "Toj Airlines 7J TJK 1990 2016",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "TM",
+    "sourceId": "wiki-en-tm",
+    "table": 0,
+    "cells": [
+      "Turkmenistan Airlines",
+      "",
+      "T5",
+      "TUA",
+      "TURKMENISTAN",
+      "1992",
+      "Flag carrier"
+    ],
+    "rowText": "Turkmenistan Airlines T5 TUA TURKMENISTAN 1992 Flag carrier",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Air Samarkand [ 1 ]",
+      "",
+      "9S [ 2 ]",
+      "UZS [ 3 ]",
+      "A321 A21N A330 [ 4 ]",
+      "2022 [ 5 ]",
+      "Scheduled"
+    ],
+    "rowText": "Air Samarkand [ 1 ] 9S [ 2 ] UZS [ 3 ] A321 A21N A330 [ 4 ] 2022 [ 5 ] Scheduled",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Centrum Air [ 6 ] [ 7 ]",
+      "",
+      "C6 [ 8 ]",
+      "MFX",
+      "A320 [ 9 ] A32N A21N A330",
+      "2023 [ 9 ]",
+      "Low-Cost [ 7 ]"
+    ],
+    "rowText": "Centrum Air [ 6 ] [ 7 ] C6 [ 8 ] MFX A320 [ 9 ] A32N A21N A330 2023 [ 9 ] Low-Cost [ 7 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Flykhiva [ 10 ]",
+      "",
+      "2U [ 11 ]",
+      "FKH",
+      "B767F B753 [ 12 ]",
+      "2021",
+      "Freighter, [ 13 ] Scheduled [ 14 ]"
+    ],
+    "rowText": "Flykhiva [ 10 ] 2U [ 11 ] FKH B767F B753 [ 12 ] 2021 Freighter, [ 13 ] Scheduled [ 14 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "FlyOne Asia [ 15 ]",
+      "",
+      "7Q",
+      "AUV",
+      "A320",
+      "2025",
+      "Low-Cost"
+    ],
+    "rowText": "FlyOne Asia [ 15 ] 7Q AUV A320 2025 Low-Cost",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "My Freighter [ 16 ]",
+      "",
+      "C6 [ 16 ]",
+      "MFX [ 16 ]",
+      "A320F A21NF B747F B767F [ 17 ]",
+      "2021 [ 17 ]",
+      "Freighter [ 16 ]"
+    ],
+    "rowText": "My Freighter [ 16 ] C6 [ 16 ] MFX [ 16 ] A320F A21NF B747F B767F [ 17 ] 2021 [ 17 ] Freighter [ 16 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Qanot Sharq [ 18 ]",
+      "",
+      "HH [ 18 ]",
+      "QNT [ 18 ]",
+      "A320 [ 19 ] A321 [ 19 ] A21N A330",
+      "1998 [ 20 ]",
+      "Scheduled"
+    ],
+    "rowText": "Qanot Sharq [ 18 ] HH [ 18 ] QNT [ 18 ] A320 [ 19 ] A321 [ 19 ] A21N A330 1998 [ 20 ] Scheduled",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Silk Avia [ 21 ]",
+      "",
+      "US [ 22 ]",
+      "USA",
+      "ATR-72 [ 23 ]",
+      "2021 [ 21 ]",
+      "Regional"
+    ],
+    "rowText": "Silk Avia [ 21 ] US [ 22 ] USA ATR-72 [ 23 ] 2021 [ 21 ] Regional",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "SpaceBee Airlines [ 24 ]",
+      "",
+      "Y3 [ 25 ]",
+      "UZU",
+      "B767F [ 26 ]",
+      "2022 [ 27 ]",
+      "Freighter [ 28 ]"
+    ],
+    "rowText": "SpaceBee Airlines [ 24 ] Y3 [ 25 ] UZU B767F [ 26 ] 2022 [ 27 ] Freighter [ 28 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Tashkent Air [ 29 ]",
+      "",
+      "",
+      "TSK [ 29 ]",
+      "A330",
+      "2022",
+      "Long-Haul"
+    ],
+    "rowText": "Tashkent Air [ 29 ] TSK [ 29 ] A330 2022 Long-Haul",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-en-uz",
+    "table": 0,
+    "cells": [
+      "Uzbekistan Airways [ 30 ]",
+      "",
+      "HY [ 31 ]",
+      "UZB [ 31 ]",
+      "A20N A21N A320 [ 32 ] A321 [ 32 ] A330 [ 32 ] B767 [ 32 ] B767F B787 [ 32 ]",
+      "1992 [ 33 ]",
+      "Flag Carrier [ 34 ]"
+    ],
+    "rowText": "Uzbekistan Airways [ 30 ] HY [ 31 ] UZB [ 31 ] A20N A21N A320 [ 32 ] A321 [ 32 ] A330 [ 32 ] B767 [ 32 ] B767F B787 [ 32 ] 1992 [ 33 ] Flag Carrier [ 34 ]",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Air Astana",
+      "2001",
+      "«Эйр Астана» әуекомпаниясы",
+      "Авикомпания «Эйр Астана»",
+      "KZR",
+      "KC",
+      "-",
+      "ASTANALINE"
+    ],
+    "rowText": "Air Astana 2001 «Эйр Астана» әуекомпаниясы Авикомпания «Эйр Астана» KZR KC - ASTANALINE",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Air Trust",
+      "2012",
+      "«Эйр Траст» әуекомпаниясы",
+      "-",
+      "RTR",
+      "-",
+      "-",
+      "TRUST"
+    ],
+    "rowText": "Air Trust 2012 «Эйр Траст» әуекомпаниясы - RTR - - TRUST",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Almaty Aviation",
+      "2002",
+      "«Алматы эвиэйшн» әуекомпаниясы",
+      "Авикомпания «Алматы эвиэйшн»",
+      "LMT",
+      "6T",
+      "-",
+      "ALMATY"
+    ],
+    "rowText": "Almaty Aviation 2002 «Алматы эвиэйшн» әуекомпаниясы Авикомпания «Алматы эвиэйшн» LMT 6T - ALMATY",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Bek Air",
+      "2011",
+      "\"Бек Эйр\" әуекомпаниясы",
+      "\"Бек Эйр\"",
+      "BEK",
+      "Z9",
+      "-",
+      "BEKAIR"
+    ],
+    "rowText": "Bek Air 2011 \"Бек Эйр\" әуекомпаниясы \"Бек Эйр\" BEK Z9 - BEKAIR",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Berkut Air",
+      "2000",
+      "«Беркут» мемлекеттік әуекомпаниясы",
+      "Государственная Авикомпания «Беркут»",
+      "BEC",
+      "-",
+      "-",
+      "-"
+    ],
+    "rowText": "Berkut Air 2000 «Беркут» мемлекеттік әуекомпаниясы Государственная Авикомпания «Беркут» BEC - - -",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "DETA Air",
+      "2003",
+      "-",
+      "-",
+      "DET",
+      "-",
+      "-",
+      "SAMAL"
+    ],
+    "rowText": "DETA Air 2003 - - DET - - SAMAL",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Euro-Asia Air",
+      "1997",
+      "«Еуро-Азия Эйр» әуекомпаниясы",
+      "Авиакомпания «Еуро-Азия Эйр»",
+      "EAK",
+      "-",
+      "ЕЦ",
+      "EAKAZ"
+    ],
+    "rowText": "Euro-Asia Air 1997 «Еуро-Азия Эйр» әуекомпаниясы Авиакомпания «Еуро-Азия Эйр» EAK - ЕЦ EAKAZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Kaz Air Trans",
+      "2012",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "KAZ AIR TRANS"
+    ],
+    "rowText": "Kaz Air Trans 2012 - - - - - KAZ AIR TRANS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Kazaviaspas",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "KAZAVIASPAS"
+    ],
+    "rowText": "Kazaviaspas - - - - - - KAZAVIASPAS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "SCAT",
+      "1997",
+      "«СКАТ» әуекомпаниясы",
+      "Авикомпания «SCAT»",
+      "VSV",
+      "DV",
+      "-",
+      "VLASTA"
+    ],
+    "rowText": "SCAT 1997 «СКАТ» әуекомпаниясы Авикомпания «SCAT» VSV DV - VLASTA",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Semeyavia",
+      "1991",
+      "«Семейавиа» әуекомпаниясы",
+      "«Семейавиа»",
+      "SMK",
+      "ШК",
+      "",
+      "ERTIS"
+    ],
+    "rowText": "Semeyavia 1991 «Семейавиа» әуекомпаниясы «Семейавиа» SMK ШК ERTIS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Zhetysu",
+      "1996",
+      "\"Жетісу\"",
+      "\"Жетысу\"",
+      "JNU",
+      "-",
+      "ЖТ",
+      "-"
+    ],
+    "rowText": "Zhetysu 1996 \"Жетісу\" \"Жетысу\" JNU - ЖТ -",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-kk-kz",
+    "table": 0,
+    "cells": [
+      "Qazaq Air",
+      "2015",
+      "\"Qazaq Air\" әуекомпаниясы",
+      "\"Казах Эйр\"",
+      "-",
+      "IQ",
+      "-",
+      "-"
+    ],
+    "rowText": "Qazaq Air 2015 \"Qazaq Air\" әуекомпаниясы \"Казах Эйр\" - IQ - -",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 0,
+    "cells": [
+      "Aero Nomad Airlines",
+      "",
+      "2",
+      "ANK",
+      "KA",
+      "",
+      "AERO NOMAD"
+    ],
+    "rowText": "Aero Nomad Airlines 2 ANK KA AERO NOMAD",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 0,
+    "cells": [
+      "Asman Airlines",
+      "",
+      "2",
+      "KGN",
+      "",
+      "",
+      "Manas Bird"
+    ],
+    "rowText": "Asman Airlines 2 KGN Manas Bird",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 0,
+    "cells": [
+      "Avia Traffic Company",
+      "",
+      "4",
+      "AVJ",
+      "YK",
+      "ТФ",
+      "ATOMIC"
+    ],
+    "rowText": "Avia Traffic Company 4 AVJ YK ТФ ATOMIC",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 0,
+    "cells": [
+      "Sky FRU",
+      "",
+      "1",
+      "KGZ",
+      "",
+      "",
+      "Sky Fru"
+    ],
+    "rowText": "Sky FRU 1 KGZ Sky Fru",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 0,
+    "cells": [
+      "TezJet",
+      "",
+      "4",
+      "TEZ",
+      "K9",
+      "",
+      "TezJet"
+    ],
+    "rowText": "TezJet 4 TEZ K9 TezJet",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "AEROSTAN",
+      "",
+      "BSC",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "AEROSTAN BSC",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "Blue Jet Airways KG",
+      "",
+      "BJQ",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Blue Jet Airways KG BJQ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "FLYSKY AIRLINES",
+      "",
+      "FSQ",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "FLYSKY AIRLINES FSQ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "Gewan Airways",
+      "",
+      "GWN",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Gewan Airways GWN",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "КАР KG",
+      "",
+      "KGS",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "КАР KG KGS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "МАК.KG",
+      "",
+      "MSK",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "МАК.KG MSK",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "Moalem Aviation",
+      "",
+      "AMA",
+      "2Y",
+      "",
+      "MOALEM"
+    ],
+    "rowText": "Moalem Aviation AMA 2Y MOALEM",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "NEW WAY CARGO AIRLINES",
+      "",
+      "NWY",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "NEW WAY CARGO AIRLINES NWY",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "SAPSAN",
+      "",
+      "KGB",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "SAPSAN KGB",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "Skyline Airlines",
+      "",
+      "SLF",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Skyline Airlines SLF",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "SKY KG AIRLINES",
+      "",
+      "KGK",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "SKY KG AIRLINES KGK",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "Sky Jet",
+      "",
+      "SJL",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Sky Jet SJL",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KG",
+    "sourceId": "wiki-ky-kg",
+    "table": 1,
+    "cells": [
+      "TRANS CARAVAN KG",
+      "",
+      "TCK",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "TRANS CARAVAN KG TCK",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "AZALJet",
+      "-",
+      "-",
+      "-",
+      "2016",
+      "2017",
+      ""
+    ],
+    "rowText": "AZALJet - - - 2016 2017",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Azal Avia Cargo",
+      "AHC",
+      "-",
+      "Azalaviacargo",
+      "1996",
+      "2017",
+      ""
+    ],
+    "rowText": "Azal Avia Cargo AHC - Azalaviacargo 1996 2017",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Azerbaijan Airlines",
+      "AHY",
+      "J2",
+      "Azal",
+      "1992",
+      "",
+      "Образована из азербайджанского подразделения Аэрофлота"
+    ],
+    "rowText": "Azerbaijan Airlines AHY J2 Azal 1992 Образована из азербайджанского подразделения Аэрофлота",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Buta Airways",
+      "-",
+      "J2*",
+      "-",
+      "2017",
+      "",
+      "Код-ИАТА принадлежит материнской компании Azerbaijan Airlines"
+    ],
+    "rowText": "Buta Airways - J2* - 2017 Код-ИАТА принадлежит материнской компании Azerbaijan Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Imair Airlines",
+      "ITX",
+      "IK",
+      "Improtex",
+      "1995",
+      "2009",
+      "Первоначально называлась Improtex"
+    ],
+    "rowText": "Imair Airlines ITX IK Improtex 1995 2009 Первоначально называлась Improtex",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Silk Way Airlines",
+      "AZQ",
+      "ZP",
+      "Silk Line",
+      "2001",
+      "",
+      ""
+    ],
+    "rowText": "Silk Way Airlines AZQ ZP Silk Line 2001",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Silk Way West Airlines",
+      "AZG",
+      "7L",
+      "Silk West",
+      "2012",
+      "",
+      "Подразделение Silk Way Airlines"
+    ],
+    "rowText": "Silk Way West Airlines AZG 7L Silk West 2012 Подразделение Silk Way Airlines",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Sky Wind",
+      "AZH",
+      "ZH?",
+      "Sky Wind",
+      "2002",
+      "2005?",
+      ""
+    ],
+    "rowText": "Sky Wind AZH ZH? Sky Wind 2002 2005?",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "SW Business Aviation",
+      "ESW",
+      "-",
+      "W-Business",
+      "2007",
+      "",
+      "Также известна под названием Silk Way Business Aviation"
+    ],
+    "rowText": "SW Business Aviation ESW - W-Business 2007 Также известна под названием Silk Way Business Aviation",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "AZ",
+    "sourceId": "wiki-ru-az",
+    "table": 0,
+    "cells": [
+      "Turan Air",
+      "URN",
+      "3T",
+      "Turan",
+      "1995",
+      "2013",
+      ""
+    ],
+    "rowText": "Turan Air URN 3T Turan 1995 2013",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Aviastar",
+      "?",
+      "DEK",
+      "DEK AERO",
+      "",
+      ""
+    ],
+    "rowText": "Aviastar ? DEK DEK AERO",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Авиация МЧС РБ",
+      "?",
+      "BRA",
+      "BELRESCUE",
+      "",
+      ""
+    ],
+    "rowText": "Авиация МЧС РБ ? BRA BELRESCUE",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Bel-Air",
+      "B6",
+      "BLR",
+      "BELAIR",
+      "Минск-2",
+      "международные чартерные и грузовые рейсы",
+      "не функционирует"
+    ],
+    "rowText": "Bel-Air B6 BLR BELAIR Минск-2 международные чартерные и грузовые рейсы не функционирует",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Бай Скай",
+      "?",
+      "BYS",
+      "BELSKY",
+      "Минск-2",
+      ""
+    ],
+    "rowText": "Бай Скай ? BYS BELSKY Минск-2",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Belcanto Airlines",
+      "?",
+      "?",
+      "?",
+      "Минск-2",
+      "грузовые рейсы",
+      "действующая"
+    ],
+    "rowText": "Belcanto Airlines ? ? ? Минск-2 грузовые рейсы действующая",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Rada Airlines",
+      "?",
+      "RDA",
+      "RADA AIR",
+      "Минск-2",
+      "грузовые рейсы",
+      "действующая"
+    ],
+    "rowText": "Rada Airlines ? RDA RADA AIR Минск-2 грузовые рейсы действующая",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Белавиа",
+      "B2",
+      "BRU",
+      "BELAVIA",
+      "Минск-2",
+      "международные рейсовые, чартерные и грузовые рейсы",
+      "действующая"
+    ],
+    "rowText": "Белавиа B2 BRU BELAVIA Минск-2 международные рейсовые, чартерные и грузовые рейсы действующая",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Беллесавиа",
+      "?",
+      "BLC",
+      "BELLESAVIA",
+      "Липки",
+      ""
+    ],
+    "rowText": "Беллесавиа ? BLC BELLESAVIA Липки",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Генэкс",
+      "?",
+      "GNX",
+      "AEROGENEX",
+      "Минск-2",
+      ""
+    ],
+    "rowText": "Генэкс ? GNX AEROGENEX Минск-2",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Гомельавиа",
+      "?",
+      "?",
+      "GOMEL",
+      "Гомель",
+      "международные рейсовые, чартерные и грузовые рейсы",
+      "не функционирует"
+    ],
+    "rowText": "Гомельавиа ? ? GOMEL Гомель международные рейсовые, чартерные и грузовые рейсы не функционирует",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Гомельский институт МЧС",
+      "?",
+      "IES",
+      "?",
+      "Гомель",
+      ""
+    ],
+    "rowText": "Гомельский институт МЧС ? IES ? Гомель",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Гомельхимсервис",
+      "?",
+      "?",
+      "?",
+      "Гомель",
+      ""
+    ],
+    "rowText": "Гомельхимсервис ? ? ? Гомель",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "Гродно авиакомпания",
+      "?",
+      "GNA",
+      "GRODNO",
+      "Гродно",
+      ""
+    ],
+    "rowText": "Гродно авиакомпания ? GNA GRODNO Гродно",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "МБ Аэро",
+      "?",
+      "MBO",
+      "AEROBEL",
+      "",
+      ""
+    ],
+    "rowText": "МБ Аэро ? MBO AEROBEL",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "РубиСтар",
+      "?",
+      "RSB",
+      "RUBYSTAR",
+      "Минск-2",
+      "грузовые перевозки",
+      "действующая"
+    ],
+    "rowText": "РубиСтар ? RSB RUBYSTAR Минск-2 грузовые перевозки действующая",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "BY",
+    "sourceId": "wiki-ru-by",
+    "table": 0,
+    "cells": [
+      "ТрансАвиаЭкспорт",
+      "?",
+      "TXC",
+      "TRANSAVIAEXPORT",
+      "Минск-2",
+      "грузовые перевозки",
+      "действующая"
+    ],
+    "rowText": "ТрансАвиаЭкспорт ? TXC TRANSAVIAEXPORT Минск-2 грузовые перевозки действующая",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Air Astana",
+      "2001",
+      "Авиакомпания «Эйр Астана»",
+      "«Эйр Астана»",
+      "KZR",
+      "KC",
+      "",
+      "",
+      "",
+      "",
+      "ASTANALINE"
+    ],
+    "rowText": "Air Astana 2001 Авиакомпания «Эйр Астана» «Эйр Астана» KZR KC ASTANALINE",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Air Trust",
+      "2012",
+      "",
+      "",
+      "RTR",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "TRUST"
+    ],
+    "rowText": "Air Trust 2012 RTR TRUST",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Almaty Aviation",
+      "2002",
+      "Авиакомпания «Алматы эвиэйшн»",
+      "«Almaty Aviation»",
+      "LMT",
+      "6T",
+      "",
+      "",
+      "",
+      "",
+      "ALMATY"
+    ],
+    "rowText": "Almaty Aviation 2002 Авиакомпания «Алматы эвиэйшн» «Almaty Aviation» LMT 6T ALMATY",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Bek Air",
+      "2011",
+      "Бек Эйр",
+      "",
+      "BEK",
+      "Z9",
+      "",
+      "",
+      "",
+      "",
+      "BEKAIR"
+    ],
+    "rowText": "Bek Air 2011 Бек Эйр BEK Z9 BEKAIR",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Berkut Air",
+      "2000",
+      "Государственная авиакомпания «Беркут»",
+      "",
+      "BEC",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Berkut Air 2000 Государственная авиакомпания «Беркут» BEC",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "DETA Air",
+      "2003",
+      "",
+      "",
+      "DET",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "SAMAL"
+    ],
+    "rowText": "DETA Air 2003 DET SAMAL",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Euro-Asia Air",
+      "1997",
+      "Авиакомпания «Евро-Азия Эйр»",
+      "«Еуро-Азия Эйр»",
+      "EAK",
+      "",
+      "ЕЦ",
+      "",
+      "",
+      "",
+      "EAKAZ"
+    ],
+    "rowText": "Euro-Asia Air 1997 Авиакомпания «Евро-Азия Эйр» «Еуро-Азия Эйр» EAK ЕЦ EAKAZ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "«Jupiter Jet» LLP",
+      "2021",
+      "ТОО \"Авиакомпания \"Jupiter Jet\"",
+      "",
+      "JPJ",
+      "IM",
+      "",
+      "KZ-01/010",
+      "",
+      "",
+      "JUPITER JET"
+    ],
+    "rowText": "«Jupiter Jet» LLP 2021 ТОО \"Авиакомпания \"Jupiter Jet\" JPJ IM KZ-01/010 JUPITER JET",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Zhez Air",
+      "1973",
+      "Авиакомпания «Жезказган Эйр»",
+      "«Жезқазған-Эйр»",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Zhez Air 1973 Авиакомпания «Жезказган Эйр» «Жезқазған-Эйр»",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Kaz Air Trans",
+      "2012",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "KAZ AIR TRANS"
+    ],
+    "rowText": "Kaz Air Trans 2012 KAZ AIR TRANS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "« Казавиаспас »",
+      "2003",
+      "Авиакомпания Казавиаспас",
+      "«Қазавиақұтқару»",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "KAZAVIASPAS"
+    ],
+    "rowText": "« Казавиаспас » 2003 Авиакомпания Казавиаспас «Қазавиақұтқару» KAZAVIASPAS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "SCAT",
+      "1997",
+      "Авиакомпания «СКАТ»",
+      "«SCAT» авиакомпаниясы",
+      "VSV",
+      "DV",
+      "",
+      "",
+      "",
+      "",
+      "VLASTA"
+    ],
+    "rowText": "SCAT 1997 Авиакомпания «СКАТ» «SCAT» авиакомпаниясы VSV DV VLASTA",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Semeyavia",
+      "1991",
+      "Авиакомпания «Семейавиа»",
+      "«Семейавиа»",
+      "SMK",
+      "",
+      "ШК",
+      "",
+      "",
+      "",
+      "ERTIS"
+    ],
+    "rowText": "Semeyavia 1991 Авиакомпания «Семейавиа» «Семейавиа» SMK ШК ERTIS",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Zhetysu",
+      "1996",
+      "Авиакомпания «Жетысу»",
+      "Жетісу",
+      "JNU",
+      "",
+      "ЖТ",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Zhetysu 1996 Авиакомпания «Жетысу» Жетісу JNU ЖТ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Qazaq Air",
+      "2015",
+      "Авиакомпания «Qazaq Air»",
+      "",
+      "",
+      "IQ",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "Qazaq Air 2015 Авиакомпания «Qazaq Air» IQ",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "KZ",
+    "sourceId": "wiki-ru-kz",
+    "table": 0,
+    "cells": [
+      "Агро СЛА",
+      "2001",
+      "ТОО «Агро СЛА»",
+      "ЖШС «Агро СЛА»",
+      "",
+      "",
+      "",
+      "",
+      "KAZ- 02/030 от 20.01.2016",
+      "",
+      ""
+    ],
+    "rowText": "Агро СЛА 2001 ТОО «Агро СЛА» ЖШС «Агро СЛА» KAZ- 02/030 от 20.01.2016",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Aero Mongolia [ 4 ] [ 5 ]",
+      "2001 год [ 6 ] [ 7 ]",
+      "Международный аэропорт Чингисхан (Улан-Батор) [ 8 ] [ 9 ]",
+      "6"
+    ],
+    "rowText": "Aero Mongolia [ 4 ] [ 5 ] 2001 год [ 6 ] [ 7 ] Международный аэропорт Чингисхан (Улан-Батор) [ 8 ] [ 9 ] 6",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Blue Sky Aviation [ 10 ] [ 11 ]",
+      "2000 год [ 12 ]",
+      "Международный аэропорт Чингисхан (Улан-Батор) [ 13 ]",
+      "1"
+    ],
+    "rowText": "Blue Sky Aviation [ 10 ] [ 11 ] 2000 год [ 12 ] Международный аэропорт Чингисхан (Улан-Батор) [ 13 ] 1",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "MIAT Mongolian Airlines [ 14 ] [ 15 ] [ 16 ] [ 17 ] [ 18 ]",
+      "1956 год [ 19 ] [ 20 ] [ 21 ]",
+      "Международный аэропорт Чингисхан (Улан-Батор) [ 22 ] [ 23 ] [ 24 ] [ 25 ] [ 26 ] [ 27 ]",
+      "17"
+    ],
+    "rowText": "MIAT Mongolian Airlines [ 14 ] [ 15 ] [ 16 ] [ 17 ] [ 18 ] 1956 год [ 19 ] [ 20 ] [ 21 ] Международный аэропорт Чингисхан (Улан-Батор) [ 22 ] [ 23 ] [ 24 ] [ 25 ] [ 26 ] [ 27 ] 17",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Изинис Эйрвэйз [ 28 ] [ 29 ] [ 30 ] [ 31 ] [ 32 ] [ 33 ]",
+      "2006 год [ 34 ] [ 35 ] [ 36 ] [ 37 ]",
+      "Международный аэропорт Чингисхан (Улан-Батор) [ 38 ] [ 39 ]",
+      "8"
+    ],
+    "rowText": "Изинис Эйрвэйз [ 28 ] [ 29 ] [ 30 ] [ 31 ] [ 32 ] [ 33 ] 2006 год [ 34 ] [ 35 ] [ 36 ] [ 37 ] Международный аэропорт Чингисхан (Улан-Батор) [ 38 ] [ 39 ] 8",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Hunnu Air ( Mongolian Airlines Group ) [ 40 ] [ 41 ]",
+      "1957 год [ 42 ]",
+      "Международный аэропорт Чингисхан (Улан-Батор) [ 43 ]",
+      "4"
+    ],
+    "rowText": "Hunnu Air ( Mongolian Airlines Group ) [ 40 ] [ 41 ] 1957 год [ 42 ] Международный аэропорт Чингисхан (Улан-Батор) [ 43 ] 4",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Чингис Эйрвейс",
+      "2011 год",
+      "Международный аэропорт Чингисхан (Улан-Батор)",
+      "2"
+    ],
+    "rowText": "Чингис Эйрвейс 2011 год Международный аэропорт Чингисхан (Улан-Батор) 2",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Sky Horse Aviation",
+      "",
+      "Международный аэропорт Чингисхан (Улан-Батор)",
+      "1"
+    ],
+    "rowText": "Sky Horse Aviation Международный аэропорт Чингисхан (Улан-Батор) 1",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Thomas Air",
+      "2011",
+      "Международный аэропорт Чингисхан (Улан-Батор)",
+      "3"
+    ],
+    "rowText": "Thomas Air 2011 Международный аэропорт Чингисхан (Улан-Батор) 3",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Central Mongolia Airways",
+      "",
+      "Международный аэропорт Чингисхан (Улан-Батор)",
+      "1"
+    ],
+    "rowText": "Central Mongolia Airways Международный аэропорт Чингисхан (Улан-Батор) 1",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "MN",
+    "sourceId": "wiki-ru-mn",
+    "table": 0,
+    "cells": [
+      "Air Cargo Mongolia",
+      "2013",
+      "Международный аэропорт Чингисхан (Улан-Батор)",
+      ""
+    ],
+    "rowText": "Air Cargo Mongolia 2013 Международный аэропорт Чингисхан (Улан-Батор)",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Air Samarkand",
+      "",
+      "9S",
+      "UZS",
+      "SAMARKAND",
+      "2022 — н.в.",
+      "airsamarkand.com"
+    ],
+    "rowText": "Air Samarkand 9S UZS SAMARKAND 2022 — н.в. airsamarkand.com",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Avialeasing [англ.]",
+      "",
+      "V2",
+      "TWN",
+      "TWINARROW",
+      "1992 — н.в. ?",
+      ""
+    ],
+    "rowText": "Avialeasing [англ.] V2 TWN TWINARROW 1992 — н.в. ?",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Centrum Air",
+      "",
+      "C6",
+      "MFX",
+      "WHITEBIRD",
+      "2023 — н.в.",
+      "www.centrum-air.com/"
+    ],
+    "rowText": "Centrum Air C6 MFX WHITEBIRD 2023 — н.в. www.centrum-air.com/",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "humoair [англ.] [ 1 ]",
+      "",
+      "HJ",
+      "USW",
+      "",
+      "2023 — 2024",
+      "flyhumo.com"
+    ],
+    "rowText": "humoair [англ.] [ 1 ] HJ USW 2023 — 2024 flyhumo.com",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "My Freighter Airlines [англ.]",
+      "",
+      "C6",
+      "MFX",
+      "",
+      "2020 — н.в.",
+      "myfreighter.uz/"
+    ],
+    "rowText": "My Freighter Airlines [англ.] C6 MFX 2020 — н.в. myfreighter.uz/",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Panorama Airways [англ.] [ 2 ] [ 3 ]",
+      "",
+      "5P",
+      "UZP",
+      "",
+      "2022 — 2025",
+      ""
+    ],
+    "rowText": "Panorama Airways [англ.] [ 2 ] [ 3 ] 5P UZP 2022 — 2025",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Qanot Sharq",
+      "",
+      "HH",
+      "QNT",
+      "",
+      "1998 — 2012; 2021 — н.в.",
+      ""
+    ],
+    "rowText": "Qanot Sharq HH QNT 1998 — 2012; 2021 — н.в.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Samarkand Airways",
+      "",
+      "C7",
+      "UZS",
+      "SOGDIANA",
+      "2005 — 2014, 2020 — н.в.",
+      ""
+    ],
+    "rowText": "Samarkand Airways C7 UZS SOGDIANA 2005 — 2014, 2020 — н.в.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Silk Avia [англ.] [ 4 ]",
+      "",
+      "US",
+      "USA",
+      "",
+      "2022 — н. в.",
+      ""
+    ],
+    "rowText": "Silk Avia [англ.] [ 4 ] US USA 2022 — н. в.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Silk Road Cargo Business",
+      "",
+      "S9",
+      "URS",
+      "",
+      "2011 — н. в [ источник не указан 569 дней ] .",
+      ""
+    ],
+    "rowText": "Silk Road Cargo Business S9 URS 2011 — н. в [ источник не указан 569 дней ] .",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Simurg Uzbekistan",
+      "",
+      "",
+      "JRP",
+      "",
+      "1987 — 2000",
+      ""
+    ],
+    "rowText": "Simurg Uzbekistan JRP 1987 — 2000",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "SpaceBee Airlines [ 5 ]",
+      "",
+      "Y3",
+      "UZU",
+      "Spacebee",
+      "2024 — н. в.",
+      "https://spacebee.aero/"
+    ],
+    "rowText": "SpaceBee Airlines [ 5 ] Y3 UZU Spacebee 2024 — н. в. https://spacebee.aero/",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "TAPC Aviatrans",
+      "",
+      "",
+      "UTM",
+      "",
+      "",
+      ""
+    ],
+    "rowText": "TAPC Aviatrans UTM",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Uzbekistan Airways",
+      "",
+      "HY",
+      "UZB",
+      "UZBEK",
+      "1992 — н.в.",
+      ""
+    ],
+    "rowText": "Uzbekistan Airways HY UZB UZBEK 1992 — н.в.",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Uzbekistan Express",
+      "",
+      "HY",
+      "UZB",
+      "",
+      "",
+      "Подразделение Uzbekistan Airways"
+    ],
+    "rowText": "Uzbekistan Express HY UZB Подразделение Uzbekistan Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-ru-uz",
+    "table": 0,
+    "cells": [
+      "Uzbekistan Cargo Service",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Подразделение Uzbekistan Airways"
+    ],
+    "rowText": "Uzbekistan Cargo Service Подразделение Uzbekistan Airways",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Oʻzbekiston havo yoʻllari",
+      "",
+      "HY",
+      "UZB",
+      "A320 A20N A21N A330 B767 B767F B787",
+      "1992",
+      "Milliy"
+    ],
+    "rowText": "Oʻzbekiston havo yoʻllari HY UZB A320 A20N A21N A330 B767 B767F B787 1992 Milliy",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Qanot Sharq",
+      "",
+      "HH",
+      "QNT",
+      "A320 A21N\nA330",
+      "2005",
+      "Muntazam"
+    ],
+    "rowText": "Qanot Sharq HH QNT A320 A21N\nA330 2005 Muntazam",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Centrum Air",
+      "",
+      "C6",
+      "MFX",
+      "A320",
+      "2023",
+      "Lou-koster"
+    ],
+    "rowText": "Centrum Air C6 MFX A320 2023 Lou-koster",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "My Freighter",
+      "",
+      "C6",
+      "MFX",
+      "B747FB 767F",
+      "2019",
+      "Yuk"
+    ],
+    "rowText": "My Freighter C6 MFX B747FB 767F 2019 Yuk",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Panorama Airways",
+      "",
+      "5P",
+      "UZP",
+      "A320 A330",
+      "2021",
+      "Muntazam"
+    ],
+    "rowText": "Panorama Airways 5P UZP A320 A330 2021 Muntazam",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Humo Air",
+      "",
+      "HJ",
+      "USW",
+      "A320 AN2",
+      "2020",
+      "Lou-koster"
+    ],
+    "rowText": "Humo Air HJ USW A320 AN2 2020 Lou-koster",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Toshkent Air",
+      "",
+      "n/a",
+      "TSK",
+      "A330",
+      "2022",
+      "uzoq masofali"
+    ],
+    "rowText": "Toshkent Air n/a TSK A330 2022 uzoq masofali",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Samarkand Airways",
+      "",
+      "C7",
+      "UZS",
+      "A21N A330",
+      "2005",
+      "Muntazam"
+    ],
+    "rowText": "Samarkand Airways C7 UZS A21N A330 2005 Muntazam",
+    "status": "inventory-observation-not-current-operation-proof"
+  },
+  {
+    "country": "UZ",
+    "sourceId": "wiki-uz-uz",
+    "table": 0,
+    "cells": [
+      "Silk Avia",
+      "",
+      "US",
+      "USA",
+      "ATR-72",
+      "2022",
+      "Mintaqaviy"
+    ],
+    "rowText": "Silk Avia US USA ATR-72 2022 Mintaqaviy",
+    "status": "inventory-observation-not-current-operation-proof"
+  }
+]

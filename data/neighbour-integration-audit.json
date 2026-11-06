@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-11-06",
+  "countries": [
+    "GE",
+    "AZ",
+    "KZ",
+    "KG",
+    "UZ",
+    "TJ",
+    "TM",
+    "BY",
+    "MN"
+  ],
+  "passengerCityPairs": 5,
+  "serviceRecordIds": [
+    "neighbour-southern-sky-PLX-UZR-service",
+    "neighbour-southern-sky-UZR-PLX-service",
+    "neighbour-southern-sky-UKK-SZI-service",
+    "neighbour-southern-sky-SZI-UKK-service",
+    "neighbour-silk-avia-NCU-MOK-service",
+    "neighbour-silk-avia-MOK-NCU-service",
+    "neighbour-silk-avia-TAS-RBZ-service",
+    "neighbour-silk-avia-RBZ-TAS-service",
+    "neighbour-silk-avia-TAS-OMN-service",
+    "neighbour-silk-avia-OMN-TAS-service"
+  ],
+  "datedRecordIds": [
+    "neighbour-silk-avia-UH721-20261111"
+  ],
+  "experienceIds": [
+    "by-minsk-an2",
+    "by-mogilev-an2",
+    "kz-sky-an24",
+    "by-minsk-yak52",
+    "by-mogilev-yak52",
+    "by-minsk-mi2",
+    "kg-aksai-mi8",
+    "ge-vanilla-l410"
+  ],
+  "excluded": [
+    {
+      "candidate": "格鲁吉亚四组定期客运",
+      "reason": "售票已确认，但逐线当前机型未确认；明确 L-410 的包机已单列。"
+    },
+    {
+      "candidate": "Tajik Air An-28 / Shohin L-410NG",
+      "reason": "未核实当前普通旅客售票；Tajik Air 网站班表含演示数据，未导入。"
+    },
+    {
+      "candidate": "Ak-Sai 汗腾格里登山接驳",
+      "reason": "产品可预约，但对应产品页未注明机型，未按 Mi-8 录入。"
+    },
+    {
+      "candidate": "阿塞拜疆、土库曼斯坦、蒙古本土服务",
+      "reason": "没有新增同时满足目标机型与公众购票证据的记录。"
+    }
+  ],
+  "existingInternational": "原有九国往来国际航班不重复录入，也不更新其原核查日期。",
+  "evidence": [
+    {
+      "path": "sources/neighbours-2026-11-06/by-minsk-an2.txt",
+      "sha256": "5c9c2a5fdc7fe7b479dc9cccb675e2e0858a66374b89ad67dcb25feed083bc80"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/by-minsk-mi2.txt",
+      "sha256": "e11a9f9b198e3aa37aadef980113bb4f5d770497058eed0dd954f34fe5543b31"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/by-mogilev-an2.txt",
+      "sha256": "6d2db75455a2b4dbd065b7dd30265b248eadb4247ddebf7ec21df92d0c33b4be"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/kg-aksai-heliski.txt",
+      "sha256": "85da7b225d3056424353e488a68b8b000872b1935712b51d82cfa4dee9f38b8e"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/kz-airports-ourairports.html",
+      "sha256": "dded2fbbb35420f797a9dc33de25484b96d47528b47b13f5b3a83a2acc2c7e50"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/kz-semei-gov-rendered.txt",
+      "sha256": "33cbd8bf6d9070f22c705723e3ead486db33a527451aa697b2ffddc9638eec36"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/silk-fares-2026.txt",
+      "sha256": "4147b8f055366f6d318f87e2f82abba799f556ab951dc30c4bae7a554e217b13"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/silk-l410-new.txt",
+      "sha256": "ddfd4c3b8cf286e262c5bf373680ae13ec55e0ed7b8f4c42f1cc801688452f0f"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/silk-uh721-20261111-rendered.txt",
+      "sha256": "d01791b3cb158e4fe0c49f51ebdc95130afd15f5d464bb3ec2cb7376df8bf6e1"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/silk-uh721-20261111.png",
+      "sha256": "7b5611995686923bd0418b4098d5fbdea64e6f76427959eb1167dc8d1fbff1e3"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/southernsky-charter.txt",
+      "sha256": "b47d4b63ed3264d6e0401e606ee7d11f3918c4dae823fba37298199875bd180f"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/southernsky-freedom.txt",
+      "sha256": "116e82d641701074c231408f3d004b9222727200e3d5835bf64559ce19bf7e38"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/southernsky-home-current.txt",
+      "sha256": "03609314fcb2214f1e7ed6fb92baac1c2de90100eba35585440a19e5874b4e55"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/uz-airports-ourairports.html",
+      "sha256": "35a0ae4db806d591599529350faa7f7fb69c545617668d97ffa8d27c49487151"
+    },
+    {
+      "path": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+      "sha256": "fab0dbe6d37aa1223174c4017f9bb3dac5ab92aa3958265a9dd5524ca17b8084"
+    }
+  ]
+}

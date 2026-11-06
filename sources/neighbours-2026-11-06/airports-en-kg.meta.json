@@ -1,0 +1,1624 @@
+{
+  "id": "airports-en-kg",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+  "retrievedAt": "2026-11-06T08:22:30.392859+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+  "bytes": 178341,
+  "sha256": "6c0e7923ed8ce725e3441a5d65181a6552ff006acbe89365bf164a08b91bf169",
+  "file": "sources/neighbours-2026-11-06/airports-en-kg.html",
+  "title": "List of airports in Kyrgyzstan - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=List+of+airports+in+Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=List+of+airports+in+Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "1 Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan#Airports",
+      "lang": ""
+    },
+    {
+      "text": "2 See also",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan#See_also",
+      "lang": ""
+    },
+    {
+      "text": "3 References",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan#References",
+      "lang": ""
+    },
+    {
+      "text": "Deutsch",
+      "url": "https://de.wikipedia.org/wiki/Liste_der_Flugh%C3%A4fen_und_Flugpl%C3%A4tze_in_Kirgisistan",
+      "lang": "de"
+    },
+    {
+      "text": "Eesti",
+      "url": "https://et.wikipedia.org/wiki/K%C3%B5rg%C3%B5zstani_lennujaamade_ja_lennuv%C3%A4ljade_loend",
+      "lang": "et"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%82%D8%B1%D9%82%DB%8C%D8%B2%D8%B3%D8%AA%D8%A7%D9%86",
+      "lang": "fa"
+    },
+    {
+      "text": "日本語",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%82%AE%E3%82%B9%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%AE%E4%B8%80%E8%A6%A7",
+      "lang": "ja"
+    },
+    {
+      "text": "Кыргызча",
+      "url": "https://ky.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D0%B3%D1%8B_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%82%D0%BE%D1%80%D0%B4%D1%83%D0%BD_%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D1%81%D0%B8",
+      "lang": "ky"
+    },
+    {
+      "text": "Polski",
+      "url": "https://pl.wikipedia.org/wiki/Lista_port%C3%B3w_lotniczych_w_Kirgistanie",
+      "lang": "pl"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2_%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+      "lang": "ru"
+    },
+    {
+      "text": "Türkçe",
+      "url": "https://tr.wikipedia.org/wiki/K%C4%B1rg%C4%B1zistan%27daki_havalimanlar%C4%B1_listesi",
+      "lang": "tr"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D1%83",
+      "lang": "uk"
+    },
+    {
+      "text": "Oʻzbekcha / ўзбекча",
+      "url": "https://uz.wikipedia.org/wiki/Qirg%CA%BBiziston_aeroportlari_ro%CA%BByxati",
+      "lang": "uz"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2351454#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&oldid=1371387418",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=List_of_airports_in_Kyrgyzstan&id=1371387418&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=List_of_airports_in_Kyrgyzstan&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2351454",
+      "lang": ""
+    },
+    {
+      "text": "OpenStreetMap",
+      "url": "https://tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "KML",
+      "url": "https://tools.wmflabs.org/kmlexport?article=List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (all coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=all&titles=List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (primary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=primary&titles=List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "GPX (secondary coordinates)",
+      "url": "https://geoexport.toolforge.org/gpx?project=en.wikipedia.org&coprimary=secondary&titles=List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "airports",
+      "url": "https://en.wikipedia.org/wiki/Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kyrgyzstan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Kyrgyzstan_adm_location_map.svg",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "City served",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Region ( oblus )",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "ICAO",
+      "url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "IATA",
+      "url": "https://en.wikipedia.org/wiki/IATA_airport_code",
+      "lang": ""
+    },
+    {
+      "text": "LID",
+      "url": "https://en.wikipedia.org/wiki/Location_identifier#Russian_location_identifier",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Bishkek",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "Manas International Airport",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "43°03′40″N 074°28′39″E ﻿ / ﻿ 43.06111°N 74.47750°E ﻿ / 43.06111; 74.47750 ﻿ ( Manas International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=43_03_40_N_074_28_39_E_region:KG_type:airport&title=Manas+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "Osh Airport",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°36′32″N 072°47′35″E ﻿ / ﻿ 40.60889°N 72.79306°E ﻿ / 40.60889; 72.79306 ﻿ ( Osh Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_36_32_N_072_47_35_E_region:KG_type:airport&title=Osh+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad Airport",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°56′39″N 072°58′40″E ﻿ / ﻿ 40.94417°N 72.97778°E ﻿ / 40.94417; 72.97778 ﻿ ( Jalal-Abad Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_56_39_N_072_58_40_E_region:KG_type:airport&title=Jalal-Abad+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman Airport",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°24′37″N 074°02′39″E ﻿ / ﻿ 41.41028°N 74.04417°E ﻿ / 41.41028; 74.04417 ﻿ ( Kazarman Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_24_37_N_074_02_39_E_region:KG_type:airport&title=Kazarman+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kerben Airport",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°29′04″N 071°44′01″E ﻿ / ﻿ 41.48444°N 71.73361°E ﻿ / 41.48444; 71.73361 ﻿ ( Kerben Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_29_04_N_071_44_01_E_region:KG_type:airport&title=Kerben+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul Airport",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°52′40″N 072°51′44″E ﻿ / ﻿ 41.87778°N 72.86222°E ﻿ / 41.87778; 72.86222 ﻿ ( Toktogul Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_52_40_N_072_51_44_E_region:KG_type:airport&title=Toktogul+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kyya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kyya",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya Airport",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°45′19″N 071°03′02″E ﻿ / ﻿ 41.75528°N 71.05056°E ﻿ / 41.75528; 71.05056 ﻿ ( Kanysh-Kiya Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_45_19_N_071_03_02_E_region:KG_type:airport&title=Kanysh-Kiya+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Masy",
+      "url": "https://en.wikipedia.org/wiki/Masy",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
+      "lang": ""
+    },
+    {
+      "text": "41°00′29″N 072°33′45″E ﻿ / ﻿ 41.00806°N 72.56250°E ﻿ / 41.00806; 72.56250 ﻿ ( Sakaldy (Dubar) Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_00_29_N_072_33_45_E_region:KG_type:airport&title=Sakaldy+%28Dubar%29+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Region",
+      "lang": ""
+    },
+    {
+      "text": "Batken Airport",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°02′33″N 070°50′17″E ﻿ / ﻿ 40.04250°N 70.83806°E ﻿ / 40.04250; 70.83806 ﻿ ( Batken Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_02_33_N_070_50_17_E_region:KG_type:airport&title=Batken+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Region",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov Airport",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "39°49′29″N 069°34′07″E ﻿ / ﻿ 39.82472°N 69.56861°E ﻿ / 39.82472; 69.56861 ﻿ ( Isfana Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=39_49_29_N_069_34_07_E_region:KG_type:airport&title=Isfana+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kyya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kyya",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya Airport",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "40°16′18″N 072°02′49″E ﻿ / ﻿ 40.27167°N 72.04694°E ﻿ / 40.27167; 72.04694 ﻿ ( Kyzyl-Kiya Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_16_18_N_072_02_49_E_region:KG_type:airport&title=Kyzyl-Kiya+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Daroot-Korgon",
+      "url": "https://en.wikipedia.org/wiki/Daroot-Korgon",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "39°32′46″N 072°14′57″E ﻿ / ﻿ 39.54611°N 72.24917°E ﻿ / 39.54611; 72.24917 ﻿ ( Daroot-Korgon Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=39_32_46_N_072_14_57_E_region:KG_type:airport&title=Daroot-Korgon+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Aravan",
+      "url": "https://en.wikipedia.org/wiki/Aravan,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "40°31′15″N 072°24′30″E ﻿ / ﻿ 40.52083°N 72.40833°E ﻿ / 40.52083; 72.40833 ﻿ ( Aravan Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_31_15_N_072_24_30_E_region:KG_type:airport&title=Aravan+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Madaniyat",
+      "url": "https://en.wikipedia.org/wiki/Madaniyat",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "40°35′36″N 072°50′56″E ﻿ / ﻿ 40.59333°N 72.84889°E ﻿ / 40.59333; 72.84889 ﻿ ( Madaniyat Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_35_36_N_072_50_56_E_region:KG_type:airport&title=Madaniyat+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Yntymak",
+      "url": "https://en.wikipedia.org/wiki/Otuz-Adyr",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "40°34′50″N 072°56′0.17″E ﻿ / ﻿ 40.58056°N 72.9333806°E ﻿ / 40.58056; 72.9333806 ﻿ ( Yntymak Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_34_50_N_072_56_0.17_E_region:KG_type:airport&title=Yntymak+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Osh (East)",
+      "url": "https://en.wikipedia.org/wiki/Osh",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Region",
+      "lang": ""
+    },
+    {
+      "text": "40°32′5″N 072°45′10″E ﻿ / ﻿ 40.53472°N 72.75278°E ﻿ / 40.53472; 72.75278 ﻿ ( Osh (East) Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=40_32_5_N_072_45_10_E_region:KG_type:airport&title=Osh+%28East%29+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Region",
+      "lang": ""
+    },
+    {
+      "text": "Naryn Airport",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "41°26′29″N 076°07′50″E ﻿ / ﻿ 41.44139°N 76.13056°E ﻿ / 41.44139; 76.13056 ﻿ ( Naryn Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=41_26_29_N_076_07_50_E_region:KG_type:airport&title=Naryn+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Region",
+      "lang": ""
+    },
+    {
+      "text": "Talas Airport",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°30′21″N 072°15′47″E ﻿ / ﻿ 42.50583°N 72.26306°E ﻿ / 42.50583; 72.26306 ﻿ ( Talas Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_30_21_N_072_15_47_E_region:KG_type:airport&title=Talas+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Pokrovka",
+      "url": "https://en.wikipedia.org/wiki/Pokrovka,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Region",
+      "lang": ""
+    },
+    {
+      "text": "42°42′52″N 071°42′34″E ﻿ / ﻿ 42.71444°N 71.70944°E ﻿ / 42.71444; 71.70944 ﻿ ( Pokrovka Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_42_52_N_071_42_34_E_region:KG_type:airport&title=Pokrovka+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Tamchy",
+      "url": "https://en.wikipedia.org/wiki/Tamchy",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_Region",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul International Airport",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°35′18″N 076°42′48″E ﻿ / ﻿ 42.58833°N 76.71333°E ﻿ / 42.58833; 76.71333 ﻿ ( Tamchy Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_35_18_N_076_42_48_E_region:KG_type:airport&title=Tamchy+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_Region",
+      "lang": ""
+    },
+    {
+      "text": "Karakol International Airport",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°30′29″N 078°24′28″E ﻿ / ﻿ 42.50806°N 78.40778°E ﻿ / 42.50806; 78.40778 ﻿ ( Karakol International Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_30_29_N_078_24_28_E_region:KG_type:airport&title=Karakol+International+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_Region",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata Airport",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°39′13″N 077°03′24″E ﻿ / ﻿ 42.65361°N 77.05667°E ﻿ / 42.65361; 77.05667 ﻿ ( Cholpon-Ata Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_39_13_N_077_03_24_E_region:KG_type:airport&title=Cholpon-Ata+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_Region",
+      "lang": ""
+    },
+    {
+      "text": "Tamga Airport",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°09′11″N 077°33′50″E ﻿ / ﻿ 42.15306°N 77.56389°E ﻿ / 42.15306; 77.56389 ﻿ ( Tamga Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_09_11_N_077_33_50_E_region:KG_type:airport&title=Tamga+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok Airport",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "42°49′44″N 075°20′09″E ﻿ / ﻿ 42.82889°N 75.33583°E ﻿ / 42.82889; 75.33583 ﻿ ( Tokmok Airport )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_49_44_N_075_20_09_E_region:KG_type:airport&title=Tokmok+Airport",
+      "lang": ""
+    },
+    {
+      "text": "Chat-Köl",
+      "url": "https://en.wikipedia.org/wiki/Chat-Köl",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "42°59′54″N 074°17′58″E ﻿ / ﻿ 42.99833°N 74.29944°E ﻿ / 42.99833; 74.29944 ﻿ ( Chatköl Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_59_54_N_074_17_58_E_region:KG_type:airport&title=Chatk%C3%B6l+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Kara-Balta",
+      "url": "https://en.wikipedia.org/wiki/Kara-Balta",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "42°48′19″N 073°53′33″E ﻿ / ﻿ 42.80528°N 73.89250°E ﻿ / 42.80528; 73.89250 ﻿ ( Kara-Balta Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_48_19_N_073_53_33_E_region:KG_type:airport&title=Kara-Balta+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Baytik",
+      "url": "https://en.wikipedia.org/wiki/Baytik",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "42°44′30″N 074°32′30″E ﻿ / ﻿ 42.74167°N 74.54167°E ﻿ / 42.74167; 74.54167 ﻿ ( Baytik Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_44_30_N_074_32_30_E_region:KG_type:airport&title=Baytik+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Prigorodnoye",
+      "url": "https://en.wikipedia.org/wiki/Prigorodnoye,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "42°54′50″N 074°30′28″E ﻿ / ﻿ 42.91389°N 74.50778°E ﻿ / 42.91389; 74.50778 ﻿ ( Prigorodnoye Aerodrome )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_54_50_N_074_30_28_E_region:KG_type:airport&title=Prigorodnoye+Aerodrome",
+      "lang": ""
+    },
+    {
+      "text": "Kant",
+      "url": "https://en.wikipedia.org/wiki/Kant,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Chüy",
+      "url": "https://en.wikipedia.org/wiki/Chüy_Region",
+      "lang": ""
+    },
+    {
+      "text": "Kant Air Base",
+      "url": "https://en.wikipedia.org/wiki/Kant_Air_Base",
+      "lang": ""
+    },
+    {
+      "text": "42°51′11″N 074°50′47″E ﻿ / ﻿ 42.85306°N 74.84639°E ﻿ / 42.85306; 74.84639 ﻿ ( Kant Air Base )",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=List_of_airports_in_Kyrgyzstan&params=42_51_11_N_074_50_47_E_region:KG_type:airport&title=Kant+Air+Base",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Transport in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "List of airports by ICAO code: U#UA - Kazakhstan, Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_by_ICAO_code:_U#UA_-_Kazakhstan,_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Wikipedia:WikiProject Aviation/Airline destination lists: Asia#Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Aviation/Airline_destination_lists:_Asia#Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "\"ICAO Location Indicators by State\"",
+      "url": "https://web.archive.org/web/20070926235554/http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
+      "lang": ""
+    },
+    {
+      "text": "the original",
+      "url": "http://www.icao.int/anb/aig/Taxonomy/R4CDLocationIndicatorsbystate.pdf",
+      "lang": ""
+    },
+    {
+      "text": "\"UN Location Codes: Kyrgyzstan\"",
+      "url": "http://www.unece.org/cefact/locode/kg.htm",
+      "lang": ""
+    },
+    {
+      "text": "UN/LOCODE",
+      "url": "https://en.wikipedia.org/wiki/UN/LOCODE",
+      "lang": ""
+    },
+    {
+      "text": "UNECE",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe",
+      "lang": ""
+    },
+    {
+      "text": "Great Circle Mapper: Airports in Kyrgyzstan",
+      "url": "http://www.gcmap.com/search?Q=country:KG",
+      "lang": ""
+    },
+    {
+      "text": "link removed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:ATODAY",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Airports",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Bishkek",
+      "url": "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Issyk-Kul",
+      "url": "https://en.wikipedia.org/wiki/Issyk-Kul_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Osh",
+      "url": "https://en.wikipedia.org/wiki/Osh_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Batken",
+      "url": "https://en.wikipedia.org/wiki/Batken_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Jalal-Abad",
+      "url": "https://en.wikipedia.org/wiki/Jalal-Abad_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kazarman",
+      "url": "https://en.wikipedia.org/wiki/Kazarman_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Karakol",
+      "url": "https://en.wikipedia.org/wiki/Karakol_International_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kerben",
+      "url": "https://en.wikipedia.org/wiki/Kerben_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Naryn",
+      "url": "https://en.wikipedia.org/wiki/Naryn_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Razzakov",
+      "url": "https://en.wikipedia.org/wiki/Razzakov_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Talas",
+      "url": "https://en.wikipedia.org/wiki/Talas_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Cholpon-Ata",
+      "url": "https://en.wikipedia.org/wiki/Cholpon-Ata_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kant",
+      "url": "https://en.wikipedia.org/wiki/Kant_(air_base)",
+      "lang": ""
+    },
+    {
+      "text": "Kanysh-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kanysh-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Kyzyl-Kiya",
+      "url": "https://en.wikipedia.org/wiki/Kyzyl-Kiya_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tamga",
+      "url": "https://en.wikipedia.org/wiki/Tamga_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Tokmok",
+      "url": "https://en.wikipedia.org/wiki/Tokmok_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Toktogul",
+      "url": "https://en.wikipedia.org/wiki/Toktogul_Airport",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Asia_topic",
+      "lang": ""
+    },
+    {
+      "text": "List of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Sovereign states",
+      "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states",
+      "lang": ""
+    },
+    {
+      "text": "Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Afghanistan",
+      "lang": ""
+    },
+    {
+      "text": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Armenia",
+      "lang": ""
+    },
+    {
+      "text": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Azerbaijan",
+      "lang": ""
+    },
+    {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bahrain",
+      "lang": ""
+    },
+    {
+      "text": "Bangladesh",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bangladesh",
+      "lang": ""
+    },
+    {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bhutan",
+      "lang": ""
+    },
+    {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Brunei",
+      "lang": ""
+    },
+    {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cambodia",
+      "lang": ""
+    },
+    {
+      "text": "China",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_China",
+      "lang": ""
+    },
+    {
+      "text": "Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Egypt",
+      "lang": ""
+    },
+    {
+      "text": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Georgia_(country)",
+      "lang": ""
+    },
+    {
+      "text": "India",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_India",
+      "lang": ""
+    },
+    {
+      "text": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Indonesia",
+      "lang": ""
+    },
+    {
+      "text": "Iran",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iran",
+      "lang": ""
+    },
+    {
+      "text": "Iraq",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Iraq",
+      "lang": ""
+    },
+    {
+      "text": "Israel",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Israel",
+      "lang": ""
+    },
+    {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Japan",
+      "lang": ""
+    },
+    {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Jordan",
+      "lang": ""
+    },
+    {
+      "text": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kazakhstan",
+      "lang": ""
+    },
+    {
+      "text": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_North_Korea",
+      "lang": ""
+    },
+    {
+      "text": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+      "lang": ""
+    },
+    {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kuwait",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Laos",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Laos",
+      "lang": ""
+    },
+    {
+      "text": "Lebanon",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lebanon",
+      "lang": ""
+    },
+    {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Malaysia",
+      "lang": ""
+    },
+    {
+      "text": "Maldives",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Maldives",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Myanmar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Myanmar",
+      "lang": ""
+    },
+    {
+      "text": "Nepal",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Nepal",
+      "lang": ""
+    },
+    {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Oman",
+      "lang": ""
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan",
+      "lang": ""
+    },
+    {
+      "text": "Palestine",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Palestine",
+      "lang": ""
+    },
+    {
+      "text": "Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+      "lang": ""
+    },
+    {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Qatar",
+      "lang": ""
+    },
+    {
+      "text": "Russia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Russia",
+      "lang": ""
+    },
+    {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Saudi_Arabia",
+      "lang": ""
+    },
+    {
+      "text": "Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Singapore",
+      "lang": ""
+    },
+    {
+      "text": "Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Sri_Lanka",
+      "lang": ""
+    },
+    {
+      "text": "Syria",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Syria",
+      "lang": ""
+    },
+    {
+      "text": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Tajikistan",
+      "lang": ""
+    },
+    {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Thailand",
+      "lang": ""
+    },
+    {
+      "text": "Timor-Leste (East Timor)",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Timor-Leste",
+      "lang": ""
+    },
+    {
+      "text": "Turkey",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Turkmenistan",
+      "lang": ""
+    },
+    {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_United_Arab_Emirates",
+      "lang": ""
+    },
+    {
+      "text": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Uzbekistan",
+      "lang": ""
+    },
+    {
+      "text": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam",
+      "lang": ""
+    },
+    {
+      "text": "Yemen",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+      "lang": ""
+    },
+    {
+      "text": "States with limited recognition",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition",
+      "lang": ""
+    },
+    {
+      "text": "Abkhazia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Abkhazia",
+      "lang": ""
+    },
+    {
+      "text": "Northern Cyprus",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Northern_Cyprus",
+      "lang": ""
+    },
+    {
+      "text": "South Ossetia",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_South_Ossetia?action=edit&redlink=1",
+      "lang": ""
+    },
+    {
+      "text": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Taiwan",
+      "lang": ""
+    },
+    {
+      "text": "Dependencies",
+      "url": "https://en.wikipedia.org/wiki/Dependent_territory",
+      "lang": ""
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_British_Indian_Ocean_Territory",
+      "lang": ""
+    },
+    {
+      "text": "Christmas Island",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Christmas_Island",
+      "lang": ""
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Cocos_(Keeling)_Islands",
+      "lang": ""
+    },
+    {
+      "text": "Hong Kong",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Hong_Kong",
+      "lang": ""
+    },
+    {
+      "text": "Macau",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Macau",
+      "lang": ""
+    },
+    {
+      "text": "Category",
+      "url": "https://en.wikipedia.org/wiki/Category:Asia",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+      "lang": ""
+    },
+    {
+      "text": "Asia portal",
+      "url": "https://en.wikipedia.org/wiki/Portal:Asia",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&oldid=1371387418",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&oldid=1371387418",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Airports in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports by country",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_by_country",
+      "lang": ""
+    },
+    {
+      "text": "Kyrgyzstan transport-related lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Kyrgyzstan_transport-related_lists",
+      "lang": ""
+    },
+    {
+      "text": "Lists of buildings and structures in Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_buildings_and_structures_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Lists of airports in Asia",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_airports_in_Asia",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Lists of coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Lists_of_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Geographic coordinate lists",
+      "url": "https://en.wikipedia.org/wiki/Category:Geographic_coordinate_lists",
+      "lang": ""
+    },
+    {
+      "text": "Articles with Geo",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_Geo",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Deprecated archive template links",
+      "url": "https://en.wikipedia.org/wiki/Category:Deprecated_archive_template_links",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Kyrgyzstan",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/airports-en-kg.txt"
+}

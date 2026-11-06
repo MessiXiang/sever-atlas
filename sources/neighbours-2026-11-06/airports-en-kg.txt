@@ -1,0 +1,721 @@
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+This is a
+list of
+airports
+in
+Kyrgyzstan
+, sorted by location.
+Bishkek
+Osh
+Jalal-Abad
+Kerben
+Batken
+Razzakov
+Naryn
+Talas
+Issyk-Kul
+Karakol
+Airports in Kyrgyzstan
+Airports
+[
+edit
+]
+Airport names shown in
+bold
+indicate the airport has scheduled service on commercial airlines. Out of 86 airports, aerodromes and landing strips ever built in Kyrgyzstan, only the ones with functioning runways are listed below.
+City
+served
+Region
+(
+oblus
+)
+ICAO
+IATA
+LID
+Airport
+name
+Coordinates
+Bishkek
+Chüy
+UCFM
+BSZ
+БИШ
+Manas International Airport
+43°03′40″N
+074°28′39″E
+﻿
+/
+﻿
+43.06111°N 74.47750°E
+﻿
+/
+43.06111; 74.47750
+﻿
+(
+Manas International Airport
+)
+Osh
+Osh
+UCFO
+OSS
+ОШШ
+Osh Airport
+40°36′32″N
+072°47′35″E
+﻿
+/
+﻿
+40.60889°N 72.79306°E
+﻿
+/
+40.60889; 72.79306
+﻿
+(
+Osh Airport
+)
+Jalal-Abad
+Jalal-Abad
+UAFJ
+JBD
+ДЖБ
+Jalal-Abad Airport
+40°56′39″N
+072°58′40″E
+﻿
+/
+﻿
+40.94417°N 72.97778°E
+﻿
+/
+40.94417; 72.97778
+﻿
+(
+Jalal-Abad Airport
+)
+Kazarman
+Jalal-Abad
+UAFZ
+-
+КЗМ
+Kazarman Airport
+41°24′37″N
+074°02′39″E
+﻿
+/
+﻿
+41.41028°N 74.04417°E
+﻿
+/
+41.41028; 74.04417
+﻿
+(
+Kazarman Airport
+)
+Kerben
+Jalal-Abad
+UAFE
+-
+КРФ
+Kerben Airport
+41°29′04″N
+071°44′01″E
+﻿
+/
+﻿
+41.48444°N 71.73361°E
+﻿
+/
+41.48444; 71.73361
+﻿
+(
+Kerben Airport
+)
+Toktogul
+Jalal-Abad
+UAFX
+-
+ТГЛ
+Toktogul Airport
+41°52′40″N
+072°51′44″E
+﻿
+/
+﻿
+41.87778°N 72.86222°E
+﻿
+/
+41.87778; 72.86222
+﻿
+(
+Toktogul Airport
+)
+Kanysh-Kyya
+Jalal-Abad
+-
+-
+КШЯ
+Kanysh-Kiya Airport
+41°45′19″N
+071°03′02″E
+﻿
+/
+﻿
+41.75528°N 71.05056°E
+﻿
+/
+41.75528; 71.05056
+﻿
+(
+Kanysh-Kiya Airport
+)
+Masy
+Jalal-Abad
+-
+-
+Sakaldy (Dubar) Aerodrome
+41°00′29″N
+072°33′45″E
+﻿
+/
+﻿
+41.00806°N 72.56250°E
+﻿
+/
+41.00806; 72.56250
+﻿
+(
+Sakaldy (Dubar) Aerodrome
+)
+Batken
+Batken
+UAFB
+-
+БАТ
+Batken Airport
+40°02′33″N
+070°50′17″E
+﻿
+/
+﻿
+40.04250°N 70.83806°E
+﻿
+/
+40.04250; 70.83806
+﻿
+(
+Batken Airport
+)
+Razzakov
+Batken
+UAFI
+-
+ИФА
+Razzakov Airport
+39°49′29″N
+069°34′07″E
+﻿
+/
+﻿
+39.82472°N 69.56861°E
+﻿
+/
+39.82472; 69.56861
+﻿
+(
+Isfana Airport
+)
+Kyzyl-Kyya
+Batken
+UAFS
+-
+КЫК
+Kyzyl-Kiya Airport
+40°16′18″N
+072°02′49″E
+﻿
+/
+﻿
+40.27167°N 72.04694°E
+﻿
+/
+40.27167; 72.04694
+﻿
+(
+Kyzyl-Kiya Airport
+)
+Daroot-Korgon
+Osh
+-
+-
+ДКУ
+Daroot-Korgon Airport
+39°32′46″N
+072°14′57″E
+﻿
+/
+﻿
+39.54611°N 72.24917°E
+﻿
+/
+39.54611; 72.24917
+﻿
+(
+Daroot-Korgon Airport
+)
+Aravan
+Osh
+-
+-
+Aravan Aerodrome
+40°31′15″N
+072°24′30″E
+﻿
+/
+﻿
+40.52083°N 72.40833°E
+﻿
+/
+40.52083; 72.40833
+﻿
+(
+Aravan Aerodrome
+)
+Madaniyat
+Osh
+-
+-
+Madaniyat Aerodrome
+40°35′36″N
+072°50′56″E
+﻿
+/
+﻿
+40.59333°N 72.84889°E
+﻿
+/
+40.59333; 72.84889
+﻿
+(
+Madaniyat Aerodrome
+)
+Yntymak
+Osh
+-
+-
+Yntymak Aerodrome
+40°34′50″N
+072°56′0.17″E
+﻿
+/
+﻿
+40.58056°N 72.9333806°E
+﻿
+/
+40.58056; 72.9333806
+﻿
+(
+Yntymak Aerodrome
+)
+Osh (East)
+Osh
+-
+-
+Osh (East) Aerodrome
+40°32′5″N
+072°45′10″E
+﻿
+/
+﻿
+40.53472°N 72.75278°E
+﻿
+/
+40.53472; 72.75278
+﻿
+(
+Osh (East) Aerodrome
+)
+Naryn
+Naryn
+UCFN
+-
+НЫН
+Naryn Airport
+41°26′29″N
+076°07′50″E
+﻿
+/
+﻿
+41.44139°N 76.13056°E
+﻿
+/
+41.44139; 76.13056
+﻿
+(
+Naryn Airport
+)
+Talas
+Talas
+UAFT
+-
+ТЛС
+Talas Airport
+42°30′21″N
+072°15′47″E
+﻿
+/
+﻿
+42.50583°N 72.26306°E
+﻿
+/
+42.50583; 72.26306
+﻿
+(
+Talas Airport
+)
+Pokrovka
+Talas
+-
+-
+Pokrovka Aerodrome
+42°42′52″N
+071°42′34″E
+﻿
+/
+﻿
+42.71444°N 71.70944°E
+﻿
+/
+42.71444; 71.70944
+﻿
+(
+Pokrovka Aerodrome
+)
+Tamchy
+Issyk-Kul
+UCFL
+IKL
+ИКУ
+Issyk-Kul International Airport
+42°35′18″N
+076°42′48″E
+﻿
+/
+﻿
+42.58833°N 76.71333°E
+﻿
+/
+42.58833; 76.71333
+﻿
+(
+Tamchy Airport
+)
+Karakol
+Issyk-Kul
+UCFP
+IKG
+КПЖ
+Karakol International Airport
+42°30′29″N
+078°24′28″E
+﻿
+/
+﻿
+42.50806°N 78.40778°E
+﻿
+/
+42.50806; 78.40778
+﻿
+(
+Karakol International Airport
+)
+Cholpon-Ata
+Issyk-Kul
+UAFG
+-
+ЧЛА
+Cholpon-Ata Airport
+42°39′13″N
+077°03′24″E
+﻿
+/
+﻿
+42.65361°N 77.05667°E
+﻿
+/
+42.65361; 77.05667
+﻿
+(
+Cholpon-Ata Airport
+)
+Tamga
+Issyk-Kul
+UAFA
+-
+ТМГ
+Tamga Airport
+42°09′11″N
+077°33′50″E
+﻿
+/
+﻿
+42.15306°N 77.56389°E
+﻿
+/
+42.15306; 77.56389
+﻿
+(
+Tamga Airport
+)
+Tokmok
+Chüy
+UAFF
+-
+ТКМ
+Tokmok Airport
+42°49′44″N
+075°20′09″E
+﻿
+/
+﻿
+42.82889°N 75.33583°E
+﻿
+/
+42.82889; 75.33583
+﻿
+(
+Tokmok Airport
+)
+Chat-Köl
+Chüy
+-
+-
+Chatköl Aerodrome
+42°59′54″N
+074°17′58″E
+﻿
+/
+﻿
+42.99833°N 74.29944°E
+﻿
+/
+42.99833; 74.29944
+﻿
+(
+Chatköl Aerodrome
+)
+Kara-Balta
+Chüy
+-
+-
+Kara-Balta Aerodrome
+42°48′19″N
+073°53′33″E
+﻿
+/
+﻿
+42.80528°N 73.89250°E
+﻿
+/
+42.80528; 73.89250
+﻿
+(
+Kara-Balta Aerodrome
+)
+Baytik
+Chüy
+-
+-
+Baytik Aerodrome
+42°44′30″N
+074°32′30″E
+﻿
+/
+﻿
+42.74167°N 74.54167°E
+﻿
+/
+42.74167; 74.54167
+﻿
+(
+Baytik Aerodrome
+)
+Prigorodnoye
+Chüy
+-
+-
+Prigorodnoye Aerodrome
+42°54′50″N
+074°30′28″E
+﻿
+/
+﻿
+42.91389°N 74.50778°E
+﻿
+/
+42.91389; 74.50778
+﻿
+(
+Prigorodnoye Aerodrome
+)
+Kant
+Chüy
+UAFW
+-
+Kant Air Base
+42°51′11″N
+074°50′47″E
+﻿
+/
+﻿
+42.85306°N 74.84639°E
+﻿
+/
+42.85306; 74.84639
+﻿
+(
+Kant Air Base
+)
+See also
+[
+edit
+]
+Transport in Kyrgyzstan
+List of airports by ICAO code: U#UA - Kazakhstan, Kyrgyzstan
+Wikipedia:WikiProject Aviation/Airline destination lists: Asia#Kyrgyzstan
+References
+[
+edit
+]
+"ICAO Location Indicators by State"
+(PDF)
+.
+International Civil Aviation Organization
+. 2006-01-12. Archived from
+the original
+(PDF)
+on 2007-09-26
+. Retrieved
+2009-08-19
+.
+"UN Location Codes: Kyrgyzstan"
+.
+UN/LOCODE
+2006-2
+.
+UNECE
+. 2007-04-30.
+– includes IATA codes
+Great Circle Mapper: Airports in Kyrgyzstan
+– IATA and ICAO codes
+World Aero Data: Kyrgyzstan
+[
+link removed
+]
+– ICAO codes and coordinates
+v
+t
+e
+Airports
+in
+Kyrgyzstan
+International
+Bishkek
+Issyk-Kul
+Osh
+Domestic
+Batken
+Jalal-Abad
+Kazarman
+Karakol
+Kerben
+Naryn
+Razzakov
+Talas
+Unscheduled
+Cholpon-Ata
+Kant
+Kanysh-Kiya
+Kyzyl-Kiya
+Tamga
+Tokmok
+Toktogul
+v
+t
+e
+List of airports in Asia
+Sovereign states
+Afghanistan
+Armenia
+Azerbaijan
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodia
+China
+Cyprus
+Egypt
+Georgia
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Russia
+Saudi Arabia
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Timor-Leste (East Timor)
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
+States with
+limited recognition
+Abkhazia
+Northern Cyprus
+South Ossetia
+Taiwan
+Dependencies
+and
+other territories
+British Indian Ocean Territory
+Christmas Island
+Cocos (Keeling) Islands
+Hong Kong
+Macau
+Category
+Asia portal
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Kyrgyzstan&oldid=1371387418
+"

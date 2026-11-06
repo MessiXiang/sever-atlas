@@ -1,0 +1,327 @@
+This is a
+list of
+airports
+in
+Turkmenistan
+, sorted by location.
+Map all coordinates using
+OpenStreetMap
+Download coordinates as:
+KML
+GPX (all coordinates)
+GPX (primary coordinates)
+GPX (secondary coordinates)
+Airports
+[
+edit
+]
+Location
+ICAO
+IATA
+Airport name
+Coordinates
+Ashgabat
+UTAA
+ASB
+Ashgabat International Airport
+37°59′13″N
+058°21′39″E
+﻿
+/
+﻿
+37.98694°N 58.36083°E
+﻿
+/
+37.98694; 58.36083
+﻿
+(
+Ashgabat Airport
+)
+Balkanabat
+UT1H
+BKN
+Balkanabat Airport
+39°28′53″N
+54°21′46″E
+﻿
+/
+﻿
+39.48139°N 54.36278°E
+﻿
+/
+39.48139; 54.36278
+﻿
+(
+Balkanabat Airport
+)
+Dashoguz
+UTAT
+TAZ
+Dashoguz International Airport
+41°45′53″N
+59°49′59″E
+﻿
+/
+﻿
+41.76472°N 59.83306°E
+﻿
+/
+41.76472; 59.83306
+﻿
+(
+Dashoguz Airport
+)
+Kerki
+UTAE
+[
+1
+]
+KEA
+[
+2
+]
+Kerki International Airport
+37°49′20″N
+065°08′17″E
+﻿
+/
+﻿
+37.82222°N 65.13806°E
+﻿
+/
+37.82222; 65.13806
+﻿
+(
+Kerkiçi Airport
+)
+Mary
+UTAM
+MYP
+Mary International Airport
+37°36′24″N
+61°54′05″E
+﻿
+/
+﻿
+37.60667°N 61.90139°E
+﻿
+/
+37.60667; 61.90139
+﻿
+(
+Mary Airport
+)
+Turkmenbashy
+UTAK
+KRW
+Turkmenbashi International Airport
+40°03′48″N
+053°00′26″E
+﻿
+/
+﻿
+40.06333°N 53.00722°E
+﻿
+/
+40.06333; 53.00722
+﻿
+(
+Turkmenbashi Airport
+)
+Turkmenabat
+UTAV
+CRZ
+Turkmenabat International Airport
+39°05′00″N
+063°36′08″E
+﻿
+/
+﻿
+39.08333°N 63.60222°E
+﻿
+/
+39.08333; 63.60222
+﻿
+(
+Turkmenabat Airport
+)
+Jebel
+UTAN
+BKN
+Balkanabat International
+[
+3
+]
+39°40′42″N
+054°12′28″E
+﻿
+/
+﻿
+39.67833°N 54.20778°E
+﻿
+/
+39.67833; 54.20778
+﻿
+(
+Jebel Airport
+)
+There was also previously a
+Soviet Air Force
+base at Mary-2.
+[
+4
+]
+See also
+[
+edit
+]
+Transport in Turkmenistan
+List of airports by ICAO code: U#UT - Tajikistan, Turkmenistan, Uzbekistan
+Wikipedia: WikiProject Aviation/Airline destination lists: Asia#Turkmenistan
+References
+[
+edit
+]
+↑
+"IATA присвоила новому аэропорту Керки международный код
+|
+Туризм"
+.
+↑
+"IATA присвоила новому аэропорту Керки международный код
+|
+Туризм"
+.
+↑
+В Джебеле состоится церемония закладки первого камня нового аэропорта
+↑
+"The Soviet Air Force's Aggressor Unit"
+, accessed June 2021;
+http://www.ww2.dk/new/air%20force/division/schools/1521tsb.htm
+.
+https://theaviationgeekclub.com/the-unknown-story-of-the-soviet-mig-29-aggressor-unit-tasked-to-simulate-usaf-f-15-fighters/
+- more on 1521st Aviation Base
+http://www.weathergraphics.com/tim/russia/Bekdash.htm
+- Bekdash civilian airfield
+http://www.weathergraphics.com/tim/russia/Cheleken.htm
+- small civilian airfield
+http://www.weathergraphics.com/tim/russia/Mary-2.htm
+- Mary-2 military airfield
+Tim Vasquez,
+Russian Airfield Index
+(covers all former Soviet Union)
+"ICAO Location Indicators by State"
+(PDF)
+.
+International Civil Aviation Organization
+. 2006-01-12. Archived from
+the original
+(PDF)
+on 2007-09-26
+. Retrieved
+2008-10-13
+.
+"UN Location Codes: Turkmenistan
+]
+[
+includes IATA codes"
+.
+UN/LOCODE
+2006-2
+.
+UNECE
+. 2007-04-30.
+"Turkmenistan's new airport receives int'l certificate of compliance"
+. Trend. 25 June 2021.
+(Kerki International Airport)
+v
+t
+e
+Airports
+in
+Turkmenistan
+Major international
+Aşgabat
+Minor international
+Balkanabat International
+Türkmenabat
+Türkmenbaşy
+Daşoguz
+Mary
+Kerki
+Unscheduled
+Balkanabat
+v
+t
+e
+List of airports in Asia
+Sovereign states
+Afghanistan
+Armenia
+Azerbaijan
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodia
+China
+Cyprus
+Egypt
+Georgia
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Palestine
+Philippines
+Qatar
+Russia
+Saudi Arabia
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Timor-Leste (East Timor)
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
+States with
+limited recognition
+Abkhazia
+Northern Cyprus
+South Ossetia
+Taiwan
+Dependencies
+and
+other territories
+British Indian Ocean Territory
+Christmas Island
+Cocos (Keeling) Islands
+Hong Kong
+Macau
+Category
+Asia portal
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=List_of_airports_in_Turkmenistan&oldid=1303159284
+"

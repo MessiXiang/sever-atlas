@@ -23,7 +23,7 @@ conf=[]
 for key,fs in index.items():
  variants=set((f['departure'],f['arrival'],tuple(f['aircraft'])) for f in fs)
  if len(variants)>1:conf.append({'key':key,'variants':[{'id':f['id'],'departure':f['departure'],'arrival':f['arrival'],'aircraft':f['aircraft'],'source':f['source']} for f in fs]})
-report={'records':len(F),'airports':len(A),'operators':sum(x.get('role')!='organizer' for x in D['airlines'].values()),'organizers':sum(x.get('role')=='organizer' for x in D['airlines'].values()),'errors':errors,'possibleSameDayConflicts':len(conf),'conflicts':conf,'noCoords':[a['id'] for a in A.values() if a['lat'] is None],'status':dict(collections.Counter(f['status'] for f in F))}
+report={'records':len(F),'airports':len(A),'operators':sum(x.get('role') not in ['organizer','brand'] for x in D['airlines'].values()),'brands':sum(x.get('role')=='brand' for x in D['airlines'].values()),'serviceRecords':sum(f.get('recordKind')=='service' for f in F),'organizers':sum(x.get('role')=='organizer' for x in D['airlines'].values()),'errors':errors,'possibleSameDayConflicts':len(conf),'conflicts':conf,'noCoords':[a['id'] for a in A.values() if a['lat'] is None],'status':dict(collections.Counter(f['status'] for f in F))}
 (ROOT/'data/data-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='conflicts'},ensure_ascii=False));print('CONFLICT SAMPLE',json.dumps(conf[:4],ensure_ascii=False))
 assert not errors,errors[:20]
 

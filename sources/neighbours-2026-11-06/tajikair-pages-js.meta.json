@@ -1,0 +1,284 @@
+{
+  "id": "tajikair-pages-js",
+  "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+  "retrievedAt": "2026-11-06T08:26:12.271798+00:00",
+  "status": 200,
+  "finalUrl": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking",
+  "bytes": 90941,
+  "sha256": "2255d4bca600748b6b6bcb6ebeab80ce192fc230c5f1fb5a79b52ca7145f5524",
+  "file": "sources/neighbours-2026-11-06/tajikair-pages-js.html",
+  "title": "",
+  "links": [
+    {
+      "text": "Перейти к содержанию",
+      "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking#main",
+      "lang": ""
+    },
+    {
+      "text": "${C.contacts.phone}",
+      "url": "tel:${C.contacts.phoneHref}",
+      "lang": ""
+    },
+    {
+      "text": "${C.contacts.email}",
+      "url": "mailto:${C.contacts.email}",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.tajikair.tj/js/index.html",
+      "lang": ""
+    },
+    {
+      "text": "Направления",
+      "url": "https://www.tajikair.tj/js/destinations.html",
+      "lang": ""
+    },
+    {
+      "text": "Бронирование",
+      "url": "https://www.tajikair.tj/js/booking.html",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам",
+      "url": "https://www.tajikair.tj/js/passengers.html",
+      "lang": ""
+    },
+    {
+      "text": "О компании",
+      "url": "https://www.tajikair.tj/js/about.html",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://www.tajikair.tj/js/news.html",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://www.tajikair.tj/js/contacts.html",
+      "lang": ""
+    },
+    {
+      "text": "Направления",
+      "url": "https://www.tajikair.tj/js/destinations.html",
+      "lang": ""
+    },
+    {
+      "text": "Бронирование",
+      "url": "https://www.tajikair.tj/js/booking.html",
+      "lang": ""
+    },
+    {
+      "text": "Пассажирам",
+      "url": "https://www.tajikair.tj/js/passengers.html",
+      "lang": ""
+    },
+    {
+      "text": "О компании",
+      "url": "https://www.tajikair.tj/js/about.html",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://www.tajikair.tj/js/news.html",
+      "lang": ""
+    },
+    {
+      "text": "Контакты",
+      "url": "https://www.tajikair.tj/js/contacts.html",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.tajikair.tj/js/index.html",
+      "lang": ""
+    },
+    {
+      "text": "Facebook ↗",
+      "url": "https://www.tajikair.tj/js/${c.facebook}",
+      "lang": ""
+    },
+    {
+      "text": "Бронирование",
+      "url": "https://www.tajikair.tj/js/booking.html",
+      "lang": ""
+    },
+    {
+      "text": "Багаж",
+      "url": "https://www.tajikair.tj/js/baggage.html",
+      "lang": ""
+    },
+    {
+      "text": "Правила перевозки",
+      "url": "https://www.tajikair.tj/js/carriage-rules.html",
+      "lang": ""
+    },
+    {
+      "text": "Специальная помощь",
+      "url": "https://www.tajikair.tj/js/special-assistance.html",
+      "lang": ""
+    },
+    {
+      "text": "Возврат и обмен",
+      "url": "https://www.tajikair.tj/js/refunds.html",
+      "lang": ""
+    },
+    {
+      "text": "О компании",
+      "url": "https://www.tajikair.tj/js/about.html",
+      "lang": ""
+    },
+    {
+      "text": "История",
+      "url": "https://www.tajikair.tj/js/history.html",
+      "lang": ""
+    },
+    {
+      "text": "Флот",
+      "url": "https://www.tajikair.tj/js/fleet.html",
+      "lang": ""
+    },
+    {
+      "text": "Новости",
+      "url": "https://www.tajikair.tj/js/news.html",
+      "lang": ""
+    },
+    {
+      "text": "Вакансии",
+      "url": "https://www.tajikair.tj/js/job.html",
+      "lang": ""
+    },
+    {
+      "text": "${c.phone}",
+      "url": "tel:${c.phoneHref}",
+      "lang": ""
+    },
+    {
+      "text": "${c.email}",
+      "url": "mailto:${c.email}",
+      "lang": ""
+    },
+    {
+      "text": "Конфиденциальность",
+      "url": "https://www.tajikair.tj/js/privacy.html",
+      "lang": ""
+    },
+    {
+      "text": "Условия использования",
+      "url": "https://www.tajikair.tj/js/terms.html",
+      "lang": ""
+    },
+    {
+      "text": "Частые вопросы",
+      "url": "https://www.tajikair.tj/js/faq.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages[k].title, lang)}",
+      "url": "https://www.tajikair.tj/js/${files[k]}",
+      "lang": ""
+    },
+    {
+      "text": "${C.contacts.phone}",
+      "url": "tel:${C.contacts.phoneHref}",
+      "lang": ""
+    },
+    {
+      "text": "${L(ui.contactUs, lang)}",
+      "url": "https://www.tajikair.tj/js/contacts.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages[key].title, lang)} ${L(pages[key].lead, lang)} →",
+      "url": "https://www.tajikair.tj/js/${files[key]}",
+      "lang": ""
+    },
+    {
+      "text": "${b.label}",
+      "url": "tel:${b.href}",
+      "lang": ""
+    },
+    {
+      "text": "${findWord} →",
+      "url": "https://www.tajikair.tj/js/booking.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages.history.title, lang)} →",
+      "url": "https://www.tajikair.tj/js/history.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages.fleet.title, lang)} →",
+      "url": "https://www.tajikair.tj/js/fleet.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages.job.title, lang)} →",
+      "url": "https://www.tajikair.tj/js/job.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages.fleet.title, lang)} →",
+      "url": "https://www.tajikair.tj/js/fleet.html",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.tajikair.tj/js/page-content.js?v=2026.10.03-no-booking#${n.id}",
+      "lang": ""
+    },
+    {
+      "text": "${open} ↗",
+      "url": "https://www.tajikair.tj/js/${fb}",
+      "lang": ""
+    },
+    {
+      "text": "${open} ↗",
+      "url": "https://www.tajikair.tj/js/${fb}",
+      "lang": ""
+    },
+    {
+      "text": "${c.phone}",
+      "url": "tel:${c.phoneHref}",
+      "lang": ""
+    },
+    {
+      "text": "${b.label}",
+      "url": "tel:${b.href}",
+      "lang": ""
+    },
+    {
+      "text": "${c.email}",
+      "url": "mailto:${c.email}",
+      "lang": ""
+    },
+    {
+      "text": "${['Открыть на карте', 'Дар харита кушоед', 'Open in maps'][i]} ↗",
+      "url": "https://www.tajikair.tj/js/${c.mapUrl}",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages[k].title, lang)} ${L(pages[k].lead, lang)} →",
+      "url": "https://www.tajikair.tj/js/${files[k]}",
+      "lang": ""
+    },
+    {
+      "text": "${L(pages[k].title, lang)} ${L(pages[k].lead, lang)} →",
+      "url": "https://www.tajikair.tj/js/${files[k]}",
+      "lang": ""
+    },
+    {
+      "text": "${L(ui.home, lang)}",
+      "url": "https://www.tajikair.tj/js/index.html",
+      "lang": ""
+    },
+    {
+      "text": "${L(ui.readMore, lang)} ↗",
+      "url": "https://www.tajikair.tj/js/${esc(e.source)}",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tajikair-pages-js.txt"
+}

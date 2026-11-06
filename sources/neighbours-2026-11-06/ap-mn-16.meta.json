@@ -1,0 +1,979 @@
+{
+  "id": "ap-mn-16",
+  "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+  "retrievedAt": "2026-11-06T08:39:54.720998+00:00",
+  "status": 200,
+  "finalUrl": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+  "bytes": 129209,
+  "sha256": "67e0178af051a6daef3791c3fd0400b891de0b8d826d5e3d9a44e85926709c9c",
+  "file": "sources/neighbours-2026-11-06/ap-mn-16.html",
+  "title": "Khatgal, Khövsgöl - Wikipedia",
+  "links": [
+    {
+      "text": "Jump to content",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#bodyContent",
+      "lang": ""
+    },
+    {
+      "text": "Main page",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Contents",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Current events",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "lang": ""
+    },
+    {
+      "text": "Random article",
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Contact us",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Help",
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "lang": ""
+    },
+    {
+      "text": "Learn to edit",
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "lang": ""
+    },
+    {
+      "text": "Community portal",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "lang": ""
+    },
+    {
+      "text": "Recent changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "lang": ""
+    },
+    {
+      "text": "Special pages",
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "lang": ""
+    },
+    {
+      "text": "Search",
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Khatgal%2C+Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Khatgal%2C+Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "lang": ""
+    },
+    {
+      "text": "Create account",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Khatgal%2C+Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Log in",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Khatgal%2C+Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "(Top)",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "1 History",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#History",
+      "lang": ""
+    },
+    {
+      "text": "2 Economy",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#Economy",
+      "lang": ""
+    },
+    {
+      "text": "3 Climate",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#Climate",
+      "lang": ""
+    },
+    {
+      "text": "4 See also",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#See_also",
+      "lang": ""
+    },
+    {
+      "text": "5 References",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#References",
+      "lang": ""
+    },
+    {
+      "text": "Español",
+      "url": "https://es.wikipedia.org/wiki/Khatgal",
+      "lang": "es"
+    },
+    {
+      "text": "فارسی",
+      "url": "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D8%AA%D8%BA%D8%A7%D9%84",
+      "lang": "fa"
+    },
+    {
+      "text": "Suomi",
+      "url": "https://fi.wikipedia.org/wiki/Hatgal",
+      "lang": "fi"
+    },
+    {
+      "text": "Français",
+      "url": "https://fr.wikipedia.org/wiki/Khatgal",
+      "lang": "fr"
+    },
+    {
+      "text": "Gaeilge",
+      "url": "https://ga.wikipedia.org/wiki/Khatgal_(Kh%C3%B6vsg%C3%B6l)",
+      "lang": "ga"
+    },
+    {
+      "text": "Italiano",
+      "url": "https://it.wikipedia.org/wiki/Hatgal",
+      "lang": "it"
+    },
+    {
+      "text": "Latviešu",
+      "url": "https://lv.wikipedia.org/wiki/Hatgala",
+      "lang": "lv"
+    },
+    {
+      "text": "Македонски",
+      "url": "https://mk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D0%B3%D0%B0%D0%BB",
+      "lang": "mk"
+    },
+    {
+      "text": "Монгол",
+      "url": "https://mn.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D0%B3%D0%B0%D0%BB",
+      "lang": "mn"
+    },
+    {
+      "text": "Русский",
+      "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D0%B3%D0%B0%D0%BB",
+      "lang": "ru"
+    },
+    {
+      "text": "Svenska",
+      "url": "https://sv.wikipedia.org/wiki/Chatgal",
+      "lang": "sv"
+    },
+    {
+      "text": "Українська",
+      "url": "https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D0%B3%D0%B0%D0%BB",
+      "lang": "uk"
+    },
+    {
+      "text": "Tiếng Việt",
+      "url": "https://vi.wikipedia.org/wiki/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": "vi"
+    },
+    {
+      "text": "閩南語 / Bân-lâm-gí",
+      "url": "https://zh-min-nan.wikipedia.org/wiki/Khatgal_(Kh%C3%B6vsg%C3%B6l)",
+      "lang": "nan"
+    },
+    {
+      "text": "Edit links",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2639759#sitelinks-wikipedia",
+      "lang": ""
+    },
+    {
+      "text": "Article",
+      "url": "https://en.wikipedia.org/wiki/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Talk",
+      "url": "https://en.wikipedia.org/wiki/Talk:Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Read",
+      "url": "https://en.wikipedia.org/wiki/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit",
+      "lang": ""
+    },
+    {
+      "text": "View history",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=history",
+      "lang": ""
+    },
+    {
+      "text": "Save",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "What links here",
+      "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Related changes",
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Upload file",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+      "lang": ""
+    },
+    {
+      "text": "Permanent link",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&oldid=1381762793",
+      "lang": ""
+    },
+    {
+      "text": "Page information",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=info",
+      "lang": ""
+    },
+    {
+      "text": "Cite this page",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Khatgal%2C_Kh%C3%B6vsg%C3%B6l&id=1381762793&wpFormIdentifier=titleform",
+      "lang": ""
+    },
+    {
+      "text": "Get shortened URL",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKhatgal%2C_Kh%25C3%25B6vsg%25C3%25B6l",
+      "lang": ""
+    },
+    {
+      "text": "Switch to legacy parser",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&useparsoid=0",
+      "lang": ""
+    },
+    {
+      "text": "Download as PDF",
+      "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Khatgal%2C_Kh%C3%B6vsg%C3%B6l&action=show-download-screen",
+      "lang": ""
+    },
+    {
+      "text": "Printable version",
+      "url": "javascript:print();",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Khatgal",
+      "lang": ""
+    },
+    {
+      "text": "Wikidata item",
+      "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2639759",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates",
+      "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system",
+      "lang": ""
+    },
+    {
+      "text": "50°26′22″N 100°09′42″E ﻿ / ﻿ 50.43944°N 100.16167°E ﻿ / 50.43944; 100.16167",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Khatgal,_Kh%C3%B6vsg%C3%B6l&params=50_26_22_N_100_09_42_E_region:MN_type:city",
+      "lang": ""
+    },
+    {
+      "text": "Khatgal Airport",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal_Airport&redirect=no",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/File:View_of_Khatgal.jpg",
+      "lang": ""
+    },
+    {
+      "text": "Country",
+      "url": "https://en.wikipedia.org/wiki/Countries_of_the_world",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Province",
+      "url": "https://en.wikipedia.org/wiki/Provinces_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl Province",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "District",
+      "url": "https://en.wikipedia.org/wiki/Districts_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Alag-Erdene",
+      "url": "https://en.wikipedia.org/wiki/Alag-Erdene,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone",
+      "lang": ""
+    },
+    {
+      "text": "UTC+8",
+      "url": "https://en.wikipedia.org/wiki/UTC+8",
+      "lang": ""
+    },
+    {
+      "text": "Asia/Ulaanbaatar",
+      "url": "https://en.wikipedia.org/wiki/Asia/Ulaanbaatar",
+      "lang": ""
+    },
+    {
+      "text": "khatgal .khs .gov .mn",
+      "url": "http://khatgal.khs.gov.mn",
+      "lang": ""
+    },
+    {
+      "text": "Mongolian",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+      "lang": ""
+    },
+    {
+      "text": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Lake Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Lake_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Eg River",
+      "url": "https://en.wikipedia.org/wiki/Eg_River",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit&section=1",
+      "lang": ""
+    },
+    {
+      "text": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Russia",
+      "lang": ""
+    },
+    {
+      "text": "Uliastai",
+      "url": "https://en.wikipedia.org/wiki/Uliastai",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl Province",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "Mörön",
+      "url": "https://en.wikipedia.org/wiki/Mörön",
+      "lang": ""
+    },
+    {
+      "text": "[ 1 ]",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_note-1",
+      "lang": ""
+    },
+    {
+      "text": "Alag-Erdene Sum",
+      "url": "https://en.wikipedia.org/wiki/Alag-Erdene,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "State Great Khural",
+      "url": "https://en.wikipedia.org/wiki/State_Great_Khural",
+      "lang": ""
+    },
+    {
+      "text": "Lamjavyn Gündalai",
+      "url": "https://en.wikipedia.org/wiki/Lamjavyn_Gündalai",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit&section=2",
+      "lang": ""
+    },
+    {
+      "text": "Lake Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Lake_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "[ 2 ]",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_note-2",
+      "lang": ""
+    },
+    {
+      "text": "MIAT Mongolian Airlines",
+      "url": "https://en.wikipedia.org/wiki/MIAT_Mongolian_Airlines",
+      "lang": ""
+    },
+    {
+      "text": "citation needed",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit&section=3",
+      "lang": ""
+    },
+    {
+      "text": "subarctic climate",
+      "url": "https://en.wikipedia.org/wiki/Subarctic_climate",
+      "lang": ""
+    },
+    {
+      "text": "Köppen",
+      "url": "https://en.wikipedia.org/wiki/Köppen_climate_classification",
+      "lang": ""
+    },
+    {
+      "text": "50th parallel north",
+      "url": "https://en.wikipedia.org/wiki/50th_parallel_north",
+      "lang": ""
+    },
+    {
+      "text": "precipitation",
+      "url": "https://en.wikipedia.org/wiki/Precipitation",
+      "lang": ""
+    },
+    {
+      "text": "sunshine hours",
+      "url": "https://en.wikipedia.org/wiki/Sunshine_duration",
+      "lang": ""
+    },
+    {
+      "text": "[ 3 ]",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_note-pogoda-3",
+      "lang": ""
+    },
+    {
+      "text": "[ 4 ]",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_note-NOAA-4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit&section=4",
+      "lang": ""
+    },
+    {
+      "text": "edit",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&action=edit&section=5",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_ref-1",
+      "lang": ""
+    },
+    {
+      "text": "https://web.archive.org/web/20080528115803/http://www.rprpmongolia.mn/pdf/2007semi_annual_report_eng.pdf",
+      "url": "https://web.archive.org/web/20080528115803/http://www.rprpmongolia.mn/pdf/2007semi_annual_report_eng.pdf",
+      "lang": ""
+    },
+    {
+      "text": "bare URL PDF",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Bare_URLs",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_ref-2",
+      "lang": ""
+    },
+    {
+      "text": "http://owasia.ru/mongolia-pressa_2007+M500362f6468.html#1",
+      "url": "http://owasia.ru/mongolia-pressa_2007+M500362f6468.html#1",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_ref-pogoda_3-0",
+      "lang": ""
+    },
+    {
+      "text": "КЛИМАТ ХАТГАЛА",
+      "url": "http://www.pogodaiklimat.ru/climate4.php?id=44207",
+      "lang": ""
+    },
+    {
+      "text": "↑",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport#cite_ref-NOAA_4-0",
+      "lang": ""
+    },
+    {
+      "text": "\"Khatgal Climate Normals 1963-1990\"",
+      "url": "ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/RA-II/MO/44207.TXT",
+      "lang": ""
+    },
+    {
+      "text": "National Oceanic and Atmospheric Administration",
+      "url": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+      "lang": ""
+    },
+    {
+      "text": "FTP",
+      "url": "https://en.wikipedia.org/wiki/FTP",
+      "lang": ""
+    },
+    {
+      "text": "Help:FTP",
+      "url": "https://en.wikipedia.org/wiki/Help:FTP",
+      "lang": ""
+    },
+    {
+      "text": "v",
+      "url": "https://en.wikipedia.org/wiki/Template:Districts_of_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "t",
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Districts_of_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "e",
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Districts_of_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Districts",
+      "url": "https://en.wikipedia.org/wiki/Districts_of_Mongolia",
+      "lang": ""
+    },
+    {
+      "text": "Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Khövsgöl_Province",
+      "lang": ""
+    },
+    {
+      "text": "Alag-Erdene",
+      "url": "https://en.wikipedia.org/wiki/Alag-Erdene,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Arbulag",
+      "url": "https://en.wikipedia.org/wiki/Arbulag,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Bayanzürkh",
+      "url": "https://en.wikipedia.org/wiki/Bayanzürkh,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Bürentogtokh",
+      "url": "https://en.wikipedia.org/wiki/Bürentogtokh,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Chandmani-Öndör",
+      "url": "https://en.wikipedia.org/wiki/Chandmani-Öndör,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Erdenebulgan",
+      "url": "https://en.wikipedia.org/wiki/Erdenebulgan,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Galt",
+      "url": "https://en.wikipedia.org/wiki/Galt,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Ikh-Uul",
+      "url": "https://en.wikipedia.org/wiki/Ikh-Uul,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Jargalant",
+      "url": "https://en.wikipedia.org/wiki/Jargalant,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Khankh",
+      "url": "https://en.wikipedia.org/wiki/Khankh,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Khatgal (city)",
+      "url": "https://en.wikipedia.org/wiki/Khatgal,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Mörön (city)",
+      "url": "https://en.wikipedia.org/wiki/Mörön",
+      "lang": ""
+    },
+    {
+      "text": "Rashaant",
+      "url": "https://en.wikipedia.org/wiki/Rashaant,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Renchinlhümbe",
+      "url": "https://en.wikipedia.org/wiki/Renchinlhümbe",
+      "lang": ""
+    },
+    {
+      "text": "Shine-Ider",
+      "url": "https://en.wikipedia.org/wiki/Shine-Ider,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tarialan",
+      "url": "https://en.wikipedia.org/wiki/Tarialan,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tömörbulag",
+      "url": "https://en.wikipedia.org/wiki/Tömörbulag,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tosontsengel",
+      "url": "https://en.wikipedia.org/wiki/Tosontsengel,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tsagaannuur",
+      "url": "https://en.wikipedia.org/wiki/Tsagaannuur,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tsagaan-Uul",
+      "url": "https://en.wikipedia.org/wiki/Tsagaan-Uul,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tsagaan-Üür",
+      "url": "https://en.wikipedia.org/wiki/Tsagaan-Üür,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tsetserleg",
+      "url": "https://en.wikipedia.org/wiki/Tsetserleg,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Tünel",
+      "url": "https://en.wikipedia.org/wiki/Tünel,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "Ulaan-Uul",
+      "url": "https://en.wikipedia.org/wiki/Ulaan-Uul,_Khövsgöl",
+      "lang": ""
+    },
+    {
+      "text": "50°26′22″N 100°09′42″E ﻿ / ﻿ 50.43944°N 100.16167°E ﻿ / 50.43944; 100.16167",
+      "url": "https://geohack.toolforge.org/geohack.php?pagename=Khatgal,_Kh%C3%B6vsg%C3%B6l&params=50_26_22_N_100_09_42_E_region:MN_type:city",
+      "lang": ""
+    },
+    {
+      "text": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Khövsgöl&oldid=1381762793",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Khövsgöl&oldid=1381762793",
+      "lang": ""
+    },
+    {
+      "text": "Categories",
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "lang": ""
+    },
+    {
+      "text": "Khatgal, Khövsgöl",
+      "url": "https://en.wikipedia.org/wiki/Category:Khatgal,_Kh%C3%B6vsg%C3%B6l",
+      "lang": ""
+    },
+    {
+      "text": "Populated places established in 1727",
+      "url": "https://en.wikipedia.org/wiki/Category:Populated_places_established_in_1727",
+      "lang": ""
+    },
+    {
+      "text": "Articles with short description",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "lang": ""
+    },
+    {
+      "text": "Short description is different from Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox mapframe without shape links in Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox settlement with no map",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_settlement_with_no_map",
+      "lang": ""
+    },
+    {
+      "text": "Pages using infobox settlement with no coordinates",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_settlement_with_no_coordinates",
+      "lang": ""
+    },
+    {
+      "text": "Articles containing Mongolian-language text",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Mongolian-language_text",
+      "lang": ""
+    },
+    {
+      "text": "All articles with bare URLs for citations",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_bare_URLs_for_citations",
+      "lang": ""
+    },
+    {
+      "text": "Articles with bare URLs for citations from October 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_bare_URLs_for_citations_from_October_2026",
+      "lang": ""
+    },
+    {
+      "text": "Articles with PDF format bare URLs for citations",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_PDF_format_bare_URLs_for_citations",
+      "lang": ""
+    },
+    {
+      "text": "All articles with unsourced statements",
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "lang": ""
+    },
+    {
+      "text": "Articles with unsourced statements from October 2026",
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2026",
+      "lang": ""
+    },
+    {
+      "text": "CS1 uses Russian-language script (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_uses_Russian-language_script_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "CS1 Russian-language sources (ru)",
+      "url": "https://en.wikipedia.org/wiki/Category:CS1_Russian-language_sources_(ru)",
+      "lang": ""
+    },
+    {
+      "text": "Pages using gadget WikiMiniAtlas",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+      "lang": ""
+    },
+    {
+      "text": "Coordinates on Wikidata",
+      "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+      "lang": ""
+    },
+    {
+      "text": "Pages using the Kartographer extension",
+      "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+      "lang": ""
+    },
+    {
+      "text": "Parsoid",
+      "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+      "lang": ""
+    },
+    {
+      "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "lang": ""
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "lang": ""
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "Wikimedia Foundation, Inc.",
+      "url": "https://wikimediafoundation.org/",
+      "lang": ""
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+      "lang": ""
+    },
+    {
+      "text": "About Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "lang": ""
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "lang": ""
+    },
+    {
+      "text": "Contact Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+      "lang": ""
+    },
+    {
+      "text": "Legal & safety contacts",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+      "lang": ""
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+      "lang": ""
+    },
+    {
+      "text": "Developers",
+      "url": "https://developer.wikimedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Statistics",
+      "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+      "lang": ""
+    },
+    {
+      "text": "Cookie statement",
+      "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+      "lang": ""
+    },
+    {
+      "text": "Mobile view",
+      "url": "https://en.wikipedia.org/w/index.php?title=Khatgal,_Kh%C3%B6vsg%C3%B6l&mobileaction=toggle_view_mobile",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.wikimedia.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mediawiki.org/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    },
+    {
+      "text": "Add topic",
+      "url": "https://en.wikipedia.org/wiki/Khatgal_Airport",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/ap-mn-16.txt"
+}

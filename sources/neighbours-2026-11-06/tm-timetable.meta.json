@@ -1,0 +1,159 @@
+{
+  "id": "tm-timetable",
+  "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+  "retrievedAt": "2026-11-06T09:48:25.606853+00:00",
+  "status": 200,
+  "finalUrl": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+  "bytes": 85137,
+  "sha256": "0c9d928140d02078e685b6d750e8ac4107e50f2027061b74e743d48ffa2681d7",
+  "file": "sources/neighbours-2026-11-06/tm-timetable.html",
+  "title": "Uçuşlaryň ugry we rejesi - Hyzmatlar - Turkmenistan Airlines",
+  "links": [
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://turkmenistanairlines.tm/tm",
+      "lang": ""
+    },
+    {
+      "text": "Baş sahypa",
+      "url": "https://turkmenistanairlines.tm/tm",
+      "lang": ""
+    },
+    {
+      "text": "Habarlar",
+      "url": "https://turkmenistanairlines.tm/tm/news",
+      "lang": ""
+    },
+    {
+      "text": "Hyzmatlar",
+      "url": "https://turkmenistanairlines.tm/tm/services",
+      "lang": ""
+    },
+    {
+      "text": "Maglumatlar",
+      "url": "https://turkmenistanairlines.tm/tm/information",
+      "lang": ""
+    },
+    {
+      "text": "Mahabatlar",
+      "url": "https://turkmenistanairlines.tm/tm/gallery",
+      "lang": ""
+    },
+    {
+      "text": "Habarlaşmak üçin",
+      "url": "https://turkmenistanairlines.tm/tm/contacts/show/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F",
+      "lang": ""
+    },
+    {
+      "text": "Sorag jogap",
+      "url": "https://turkmenistanairlines.tm/tm/faq",
+      "lang": ""
+    },
+    {
+      "text": "Arza doldurmak",
+      "url": "https://turkmenistanairlines.tm/tm/complaint",
+      "lang": ""
+    },
+    {
+      "text": "Arzanyň maglumaty",
+      "url": "https://turkmenistanairlines.tm/tm/complaint/status",
+      "lang": ""
+    },
+    {
+      "text": "Giriş",
+      "url": "https://turkmenistanairlines.tm/tm/auth/login",
+      "lang": ""
+    },
+    {
+      "text": "RU",
+      "url": "https://turkmenistanairlines.tm/localizations/ru",
+      "lang": ""
+    },
+    {
+      "text": "TM",
+      "url": "https://turkmenistanairlines.tm/localizations/tm",
+      "lang": ""
+    },
+    {
+      "text": "EN",
+      "url": "https://turkmenistanairlines.tm/localizations/en",
+      "lang": ""
+    },
+    {
+      "text": "Baş sahypa",
+      "url": "https://turkmenistanairlines.tm/tm",
+      "lang": ""
+    },
+    {
+      "text": "Hyzmatlar",
+      "url": "https://turkmenistanairlines.tm/tm/services",
+      "lang": ""
+    },
+    {
+      "text": "Uçuşlaryň ugry we rejesi",
+      "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+      "lang": ""
+    },
+    {
+      "text": "Yza",
+      "url": "https://turkmenistanairlines.tm",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=tm.turkmenistanairlines.app&hl=en_US&gl=US&pli=1",
+      "lang": ""
+    },
+    {
+      "text": "Turkmenistan Airlines",
+      "url": "https://turkmenistanairlines.tm/tm",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/us/app/turkmenistan-airlines/id1588394191",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=tm.turkmenistanairlines.app",
+      "lang": ""
+    },
+    {
+      "text": "Uçuşlaryň ugry",
+      "url": "https://turkmenistanairlines.tm/tm/services/show/napravlenie-i-raspisanie-reysov",
+      "lang": ""
+    },
+    {
+      "text": "Ýük gatnawlary",
+      "url": "https://turkmenistanairlines.tm/tm/services/show/air-cargo-tracking",
+      "lang": ""
+    },
+    {
+      "text": "Gizlinlik düzgünleri",
+      "url": "https://turkmenistanairlines.tm/tm/services/show/gizlinlik-duzgunleri",
+      "lang": ""
+    },
+    {
+      "text": "Ashgabat Airport",
+      "url": "https://ashgabatairport.gov.tm/",
+      "lang": ""
+    },
+    {
+      "text": "23-03-18, 23-03-15, 39-17-78",
+      "url": "tel: 23-03-18, 23-03-15, 39-17-78",
+      "lang": ""
+    },
+    {
+      "text": "info@turkmenistanairlines.tm",
+      "url": "mailto:info@turkmenistanairlines.tm",
+      "lang": ""
+    },
+    {
+      "text": "t5lostfound@turkmenistanairlines.tm",
+      "url": "mailto:t5lostfound@turkmenistanairlines.tm",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/tm-timetable.txt"
+}

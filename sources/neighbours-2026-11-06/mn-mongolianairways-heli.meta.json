@@ -1,0 +1,200 @@
+{
+  "id": "mn-mongolianairways-heli",
+  "url": "https://www.mongolianairways.com/5/sitem",
+  "retrievedAt": "2026-11-06T10:03:59.263858+00:00",
+  "transport": "curl system TLS verification",
+  "status": 200,
+  "finalUrl": "https://www.mongolianairways.com/5/sitem",
+  "bytes": 13243,
+  "sha256": "04444af2cb2ef333db5bfbca7d125c9d09f01a01d72d7e099c5aee44095bb1d4",
+  "file": "sources/neighbours-2026-11-06/mn-mongolianairways-heli.html",
+  "title": "Mongolian Airways LLC - About Us",
+  "links": [
+    {
+      "text": "Eng",
+      "url": "https://www.mongolianairways.com/5/default",
+      "lang": ""
+    },
+    {
+      "text": "Мон",
+      "url": "https://www.mongolianairways.com/5/mgl",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/5/sitem",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/5/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/5/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/5/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/5/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/5/contact",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "ENG",
+      "url": "https://www.mongolianairways.com/5/default",
+      "lang": ""
+    },
+    {
+      "text": "МОН",
+      "url": "https://www.mongolianairways.com/5/mgl",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/5/index.php?intro",
+      "lang": ""
+    },
+    {
+      "text": "+976-11-311111",
+      "url": "tel:+976-11-311111",
+      "lang": ""
+    },
+    {
+      "text": "Home",
+      "url": "https://www.mongolianairways.com/5/index.php",
+      "lang": ""
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.mongolianairways.com/5/about",
+      "lang": ""
+    },
+    {
+      "text": "Services",
+      "url": "https://www.mongolianairways.com/5/services",
+      "lang": ""
+    },
+    {
+      "text": "News",
+      "url": "https://www.mongolianairways.com/5/news",
+      "lang": ""
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.mongolianairways.com/5/faq",
+      "lang": ""
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mongolianairways.com/5/contact",
+      "lang": ""
+    },
+    {
+      "text": "keyboard_backspace Back",
+      "url": "javascript:history.go(-1)",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/5/13/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Scheduled Passenger Flights readmore",
+      "url": "https://www.mongolianairways.com/5/13/sitem",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/5/7/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Passenger Flights readmore",
+      "url": "https://www.mongolianairways.com/5/7/sitem",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/5/6/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Cargo Flights readmore",
+      "url": "https://www.mongolianairways.com/5/6/sitem",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.mongolianairways.com/5/5/sitem",
+      "lang": ""
+    },
+    {
+      "text": "Charter Helicopter Flights readmore",
+      "url": "https://www.mongolianairways.com/5/5/sitem",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCQmPE1Mx3nCkx0eQ-DLnGSg",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/mongolianairway",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/mongolianairways/",
+      "lang": ""
+    },
+    {
+      "text": "",
+      "url": "http://www.websites.mn/",
+      "lang": ""
+    }
+  ],
+  "textFile": "sources/neighbours-2026-11-06/mn-mongolianairways-heli.txt"
+}

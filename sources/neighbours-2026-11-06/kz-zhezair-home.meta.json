@@ -1,0 +1,6 @@
+{
+  "id": "kz-zhezair-home",
+  "url": "https://zhezair.com/",
+  "retrievedAt": "2026-11-06T09:56:10.583124+00:00",
+  "error": "Command '['curl', '-L', '--max-time', '35', '-sS', 'https://zhezair.com/']' returned non-zero exit status 60."
+}
