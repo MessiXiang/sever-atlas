@@ -4,8 +4,8 @@
   "retrievedAt": "2026-11-06T08:26:12.272046+00:00",
   "status": 200,
   "finalUrl": "https://ticket.vanillasky.ge/",
-  "bytes": 23567,
-  "sha256": "83c8db45d0fc07f70338f3e1d837de09eced5a9b9204151821a2ddf89c843e0e",
+  "bytes": 23564,
+  "sha256": "91aff931699e3903c51e700edd2dc8a0c779e9afbd79c200b1e966274091d10a",
   "file": "sources/neighbours-2026-11-06/vanillasky-home.html",
   "title": "Homepage - Vanillasky",
   "links": [
@@ -265,5 +265,8 @@
       "lang": ""
     }
   ],
-  "textFile": "sources/neighbours-2026-11-06/vanillasky-home.txt"
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-home.txt",
+  "originalContentSha256": "83c8db45d0fc07f70338f3e1d837de09eced5a9b9204151821a2ddf89c843e0e",
+  "sanitizedAt": "2026-11-07",
+  "sanitization": "Third-party Google Maps API key redacted; substantive source text unchanged."
 }

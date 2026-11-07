@@ -4,8 +4,8 @@
   "retrievedAt": "2026-11-06T08:30:05.046559+00:00",
   "status": 200,
   "finalUrl": "https://ticket.vanillasky.ge/en/air-services",
-  "bytes": 34871,
-  "sha256": "496be765b3e9ecb9c97c3bbd942b47153060f27ea1734d966e29a538250814d1",
+  "bytes": 34868,
+  "sha256": "ab48ee91b6fda92c2eaca2c88ef2330d8f6fce1fef4b3c7816697d2dba5db651",
   "file": "sources/neighbours-2026-11-06/vanillasky-services.html",
   "title": "Air services page - Vanillasky",
   "links": [
@@ -200,5 +200,8 @@
       "lang": ""
     }
   ],
-  "textFile": "sources/neighbours-2026-11-06/vanillasky-services.txt"
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-services.txt",
+  "originalContentSha256": "496be765b3e9ecb9c97c3bbd942b47153060f27ea1734d966e29a538250814d1",
+  "sanitizedAt": "2026-11-07",
+  "sanitization": "Third-party Google Maps API key redacted; substantive source text unchanged."
 }

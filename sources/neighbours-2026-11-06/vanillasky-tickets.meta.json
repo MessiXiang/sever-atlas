@@ -4,8 +4,8 @@
   "retrievedAt": "2026-11-06T08:30:07.268283+00:00",
   "status": 200,
   "finalUrl": "https://ticket.vanillasky.ge/en/tickets",
-  "bytes": 25242,
-  "sha256": "3ca84020f0032cb862371178556d03e0646c290664ed5eb5652644d2d2349ae5",
+  "bytes": 25239,
+  "sha256": "0f02a9528f323faf594cd6b9ad6529925382cf916a8d261de8bfb145a3757918",
   "file": "sources/neighbours-2026-11-06/vanillasky-tickets.html",
   "title": "Tickets - Vanillasky",
   "links": [
@@ -190,5 +190,8 @@
       "lang": ""
     }
   ],
-  "textFile": "sources/neighbours-2026-11-06/vanillasky-tickets.txt"
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-tickets.txt",
+  "originalContentSha256": "3ca84020f0032cb862371178556d03e0646c290664ed5eb5652644d2d2349ae5",
+  "sanitizedAt": "2026-11-07",
+  "sanitization": "Third-party Google Maps API key redacted; substantive source text unchanged."
 }

@@ -2,6 +2,7 @@
 from pathlib import Path
 import json,subprocess,sys
 root=Path(__file__).resolve().parents[1]
+subprocess.run([sys.executable,str(root/'maintenance/check_secrets.py')],check=True)
 subprocess.run([sys.executable,str(root/'maintenance/validate_data.py')],check=True)
 subprocess.run([sys.executable,str(root/'maintenance/validate_experiences.py')],check=True)
 d=json.load(open(root/'data/flights.json'))

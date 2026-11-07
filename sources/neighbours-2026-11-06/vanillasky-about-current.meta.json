@@ -4,8 +4,8 @@
   "retrievedAt": "2026-11-06T11:05:02.682506+00:00",
   "status": 200,
   "finalUrl": "https://ticket.vanillasky.ge/en/about",
-  "bytes": 23399,
-  "sha256": "d9478028ca776623d7d869628b94ad92808c51de98c51d8d794b1887f758b30b",
+  "bytes": 23396,
+  "sha256": "14381cae0aa7fd948f77c2bb7d74e9ab2049c500af3ae4a842ac6e64935023db",
   "file": "sources/neighbours-2026-11-06/vanillasky-about-current.html",
   "title": "About US - Vanillasky",
   "links": [
@@ -230,5 +230,8 @@
       "lang": ""
     }
   ],
-  "textFile": "sources/neighbours-2026-11-06/vanillasky-about-current.txt"
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-about-current.txt",
+  "originalContentSha256": "d9478028ca776623d7d869628b94ad92808c51de98c51d8d794b1887f758b30b",
+  "sanitizedAt": "2026-11-07",
+  "sanitization": "Third-party Google Maps API key redacted; substantive source text unchanged."
 }

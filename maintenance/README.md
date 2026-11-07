@@ -1,5 +1,11 @@
 # 数据维护
 
+## 发布前凭据检查
+
+网页快照也必须脱敏。执行 `python3 maintenance/check_secrets.py` 扫描全部 Git 跟踪文件；提交前执行 `python3 maintenance/check_secrets.py --staged` 扫描将要提交的实际内容。检查只输出文件、行号和类型，不输出凭据值；数据发布命令自动执行该检查。规则覆盖常见高置信凭据格式，不等于完整安全审计。新增文件须先 `git add` 才纳入扫描。
+
+如需脱敏证据文件，更新对应 `.meta.json` 和来源索引的 `sha256`／`bytes`，保留原始内容的哈希并记录脱敏日期与原因。不要把第三方网页中的地图密钥或令牌一并发布，也不要为了验证有效性而调用这些凭据。
+
 本网站的 data/flights.json 是已复核的结构化资料。修改后执行：
 
     python3 maintenance/publish_data.py

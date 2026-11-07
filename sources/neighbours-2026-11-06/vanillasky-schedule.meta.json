@@ -4,8 +4,8 @@
   "retrievedAt": "2026-11-06T08:30:05.024476+00:00",
   "status": 200,
   "finalUrl": "https://ticket.vanillasky.ge/en/node/51",
-  "bytes": 22412,
-  "sha256": "32cf2cab421039191f3431ad4907d3f64dbcb248f032f29d1d44a8ea2ca847cb",
+  "bytes": 22409,
+  "sha256": "eb5008a947bb6bff0ca2fda02950c7385c30f44775cc3b1be135f62712dbb16d",
   "file": "sources/neighbours-2026-11-06/vanillasky-schedule.html",
   "title": "FLIGHT SCHEDULE  - Vanillasky",
   "links": [
@@ -210,5 +210,8 @@
       "lang": ""
     }
   ],
-  "textFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt"
+  "textFile": "sources/neighbours-2026-11-06/vanillasky-schedule.txt",
+  "originalContentSha256": "32cf2cab421039191f3431ad4907d3f64dbcb248f032f29d1d44a8ea2ca847cb",
+  "sanitizedAt": "2026-11-07",
+  "sanitization": "Third-party Google Maps API key redacted; substantive source text unchanged."
 }
