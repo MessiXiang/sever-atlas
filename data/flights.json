@@ -8983,13 +8983,22 @@
         "2026-11-19"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → KHV, 09.11.2026, IO-2178",
       "id": "f-de3ecd9c2b2e",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9014,13 +9023,22 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → KLO, 09.11.2026, IO-2187",
       "id": "f-781fb73ed4d0",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9043,13 +9061,22 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → KLO, 10.11.2026, IO-2177",
       "id": "f-ca4795dafb3f",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9072,13 +9099,22 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → IKT, 10.11.2026, IO-2188",
       "id": "f-f838e0bd04af",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9099,13 +9135,22 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → KHV, 29.11.2026, IO-2178",
       "id": "f-f5b133401ecd",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9126,13 +9171,22 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → KLO, 30.11.2026, IO-2177",
       "id": "f-07bd1d93b6e3",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -9153,13 +9207,22 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "HFE → IKT, 30.11.2026, IO-2188",
       "id": "f-1141334684b2",
-      "localSource": "sources/iraero/io_HFE.html"
+      "localSource": "sources/iraero/io_HFE.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -11403,13 +11466,22 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "IKT → HFE, 09.11.2026, IO-2187",
       "id": "f-0ef422e9946e",
-      "localSource": "sources/iraero/io_IKT.html"
+      "localSource": "sources/iraero/io_IKT.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -11434,13 +11506,26 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "IKT → KLO, 09.11.2026, IO-2187",
       "id": "f-45fbd0619879",
-      "localSource": "sources/iraero/io_IKT.html"
+      "localSource": "sources/iraero/io_IKT.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "IKT",
+        "HFE",
+        "KLO"
+      ]
     },
     {
       "airline": "iraero",
@@ -13330,13 +13415,22 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KHV → HFE, 10.11.2026, IO-2177",
       "id": "f-acd686868ac5",
-      "localSource": "sources/iraero/io_KHV.html"
+      "localSource": "sources/iraero/io_KHV.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13359,13 +13453,26 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KHV → KLO, 10.11.2026, IO-2177",
       "id": "f-d210b277fa60",
-      "localSource": "sources/iraero/io_KHV.html"
+      "localSource": "sources/iraero/io_KHV.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KHV",
+        "HFE",
+        "KLO"
+      ]
     },
     {
       "airline": "iraero",
@@ -13473,13 +13580,22 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KHV → HFE, 30.11.2026, IO-2177",
       "id": "f-07e608e26572",
-      "localSource": "sources/iraero/io_KHV.html"
+      "localSource": "sources/iraero/io_KHV.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13500,13 +13616,26 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KHV → KLO, 30.11.2026, IO-2177",
       "id": "f-a172fd8d290c",
-      "localSource": "sources/iraero/io_KHV.html"
+      "localSource": "sources/iraero/io_KHV.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KHV",
+        "HFE",
+        "KLO"
+      ]
     },
     {
       "airline": "iraero",
@@ -13590,13 +13719,22 @@
         "2026-11-19"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → HFE, 09.11.2026, IO-2178",
       "id": "f-31c289e86bbf",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13619,13 +13757,26 @@
         "2026-11-19"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → KHV, 09.11.2026, IO-2178",
       "id": "f-1b242fc5b106",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KLO",
+        "HFE",
+        "KHV"
+      ]
     },
     {
       "airline": "iraero",
@@ -13648,13 +13799,22 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → HFE, 10.11.2026, IO-2188",
       "id": "f-dbc53837f01f",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13677,13 +13837,26 @@
         "2026-11-20"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → IKT, 10.11.2026, IO-2188",
       "id": "f-364ef822d76a",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KLO",
+        "HFE",
+        "IKT"
+      ]
     },
     {
       "airline": "iraero",
@@ -13704,13 +13877,22 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → HFE, 29.11.2026, IO-2178",
       "id": "f-f3e204eb0d9b",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13731,13 +13913,26 @@
         "2026-11-29"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → KHV, 29.11.2026, IO-2178",
       "id": "f-8948346f1cb5",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KLO",
+        "HFE",
+        "KHV"
+      ]
     },
     {
       "airline": "iraero",
@@ -13758,13 +13953,22 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → HFE, 30.11.2026, IO-2188",
       "id": "f-981f2bb6e02f",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "standaloneTicketing": false
     },
     {
       "airline": "iraero",
@@ -13785,13 +13989,26 @@
         "2026-11-30"
       ],
       "source": "iraero",
-      "note": "官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
+      "note": "合肥（HFE）为技术经停，不上下旅客，不单独售票。 官网按起终点列示；同航班号可能包含经停。只覆盖 2026-11-04 至 2026-12-04 已公布日期。",
       "status": "confirmed",
       "checkedAt": "2026-11-04",
       "timeBasis": "local",
       "sourceLocator": "KLO → IKT, 30.11.2026, IO-2188",
       "id": "f-e7f5f5eb7bf7",
-      "localSource": "sources/iraero/io_KLO.html"
+      "localSource": "sources/iraero/io_KLO.html",
+      "technicalStops": [
+        "HFE"
+      ],
+      "passengerServiceNote": "合肥（HFE）为技术经停，不上下旅客，不单独售票。",
+      "passengerServiceReview": {
+        "date": "2026-11-07",
+        "basis": "用户提供的更正；原始官网时刻核查日期保持不变"
+      },
+      "route": [
+        "KLO",
+        "HFE",
+        "IKT"
+      ]
     },
     {
       "airline": "iraero",
